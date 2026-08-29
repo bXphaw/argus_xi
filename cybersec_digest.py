@@ -25,7 +25,10 @@ import trafilatura
 # ---- config ---------------------------------------------------------------
 
 FEEDS = [
-    "https://xkcd.com/rss.xml",
+    "https://krebsonsecurity.com/feed/",
+    "https://www.bleepingcomputer.com/feed/",
+    "https://feeds.feedburner.com/TheHackersNews",
+    "https://www.darkreading.com/rss.xml",
 ]
 
 SENT_FILE = "sent_articles.json"
