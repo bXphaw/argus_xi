@@ -36,7 +36,7 @@ MAX_AGE_DAYS = 60  # prune dedup entries older than this
 # Swap to "llama-3.3-70b-versatile" for higher quality if your batches are
 # small enough to stay under its lower daily token cap. Groq occasionally
 # renames/retires models - check https://console.groq.com/docs/models
-GROQ_MODEL = "llama-3.1-8b-instant"
+GROQ_MODEL = "openai/gpt-oss-120b"
 GROQ_API_KEY = os.environ["GROQ_API_KEY"]
 
 NTFY_TOPIC = os.environ["NTFY_TOPIC"]  # long random string, GitHub secret only
