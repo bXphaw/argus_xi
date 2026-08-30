@@ -1,162 +1,762 @@
 {
-  "https://xkcd.com/3291/": "2026-08-29T18:04:09.845543+00:00",
-  "https://xkcd.com/3290/": "2026-08-29T18:04:09.905447+00:00",
-  "https://xkcd.com/3289/": "2026-08-29T18:04:09.953360+00:00",
-  "https://xkcd.com/3288/": "2026-08-29T18:04:10.005912+00:00",
-  "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-08-29T18:59:35.159215+00:00",
-  "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/": "2026-08-29T18:59:35.266166+00:00",
-  "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/": "2026-08-29T18:59:35.378696+00:00",
-  "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/": "2026-08-29T18:59:35.494320+00:00",
-  "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/": "2026-08-29T18:59:35.604644+00:00",
-  "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/": "2026-08-29T18:59:35.710708+00:00",
-  "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/": "2026-08-29T18:59:35.809288+00:00",
-  "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/": "2026-08-29T18:59:35.920872+00:00",
-  "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/": "2026-08-29T18:59:36.034411+00:00",
-  "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/": "2026-08-29T18:59:36.171856+00:00",
-  "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/": "2026-08-29T18:59:36.282569+00:00",
-  "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/": "2026-08-29T18:59:36.380478+00:00",
-  "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/": "2026-08-29T18:59:36.492247+00:00",
-  "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/": "2026-08-29T18:59:36.586874+00:00",
-  "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/": "2026-08-29T18:59:36.687579+00:00",
-  "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/": "2026-08-29T18:59:36.791408+00:00",
-  "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/": "2026-08-29T18:59:36.891575+00:00",
-  "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/": "2026-08-29T18:59:37.002776+00:00",
-  "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/": "2026-08-29T18:59:37.109651+00:00",
-  "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/": "2026-08-29T18:59:37.215653+00:00",
-  "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/": "2026-08-29T18:59:37.325397+00:00",
-  "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/": "2026-08-29T18:59:37.455170+00:00",
-  "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/": "2026-08-29T18:59:37.553635+00:00",
-  "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/": "2026-08-29T18:59:37.659019+00:00",
-  "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/": "2026-08-29T18:59:37.763280+00:00",
-  "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html": "2026-08-29T18:59:37.875891+00:00",
-  "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html": "2026-08-29T18:59:37.995684+00:00",
-  "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html": "2026-08-29T18:59:38.108071+00:00",
-  "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html": "2026-08-29T18:59:38.224784+00:00",
-  "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html": "2026-08-29T18:59:38.333561+00:00",
-  "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html": "2026-08-29T18:59:38.427373+00:00",
-  "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html": "2026-08-29T18:59:38.536220+00:00",
-  "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html": "2026-08-29T18:59:38.631229+00:00",
-  "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html": "2026-08-29T18:59:38.956427+00:00",
-  "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html": "2026-08-29T18:59:39.077656+00:00",
-  "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html": "2026-08-29T18:59:39.195469+00:00",
-  "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html": "2026-08-29T18:59:39.327045+00:00",
-  "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html": "2026-08-29T18:59:39.440858+00:00",
-  "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html": "2026-08-29T18:59:39.546629+00:00",
-  "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html": "2026-08-29T18:59:39.657018+00:00",
-  "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html": "2026-08-29T18:59:39.767763+00:00",
-  "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html": "2026-08-29T18:59:39.878214+00:00",
-  "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html": "2026-08-29T18:59:39.988399+00:00",
-  "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html": "2026-08-29T18:59:40.093494+00:00",
-  "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html": "2026-08-29T18:59:40.197909+00:00",
-  "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html": "2026-08-29T18:59:40.305951+00:00",
-  "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html": "2026-08-29T18:59:40.403628+00:00",
-  "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html": "2026-08-29T18:59:40.510621+00:00",
-  "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html": "2026-08-29T18:59:40.616889+00:00",
-  "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html": "2026-08-29T18:59:40.742753+00:00",
-  "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html": "2026-08-29T18:59:40.858447+00:00",
-  "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html": "2026-08-29T18:59:40.974235+00:00",
-  "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html": "2026-08-29T18:59:41.089160+00:00",
-  "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html": "2026-08-29T18:59:41.199699+00:00",
-  "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html": "2026-08-29T18:59:41.313289+00:00",
-  "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html": "2026-08-29T18:59:41.415930+00:00",
-  "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html": "2026-08-29T18:59:41.526296+00:00",
-  "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html": "2026-08-29T18:59:41.635221+00:00",
-  "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html": "2026-08-29T18:59:41.740781+00:00",
-  "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html": "2026-08-29T18:59:41.840997+00:00",
-  "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html": "2026-08-29T18:59:41.961219+00:00",
-  "https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security": "2026-08-29T18:59:45.496934+00:00",
-  "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html": "2026-08-29T20:41:09.563226+00:00",
-  "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html": "2026-08-29T20:41:09.762561+00:00",
-  "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html": "2026-08-29T20:41:09.955603+00:00",
-  "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html": "2026-08-29T20:41:10.152694+00:00",
-  "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html": "2026-08-29T20:41:10.346074+00:00",
-  "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html": "2026-08-29T20:41:10.539824+00:00",
-  "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html": "2026-08-29T20:41:10.731767+00:00",
-  "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html": "2026-08-29T20:41:10.934905+00:00",
-  "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html": "2026-08-29T20:41:11.141086+00:00",
-  "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html": "2026-08-29T20:41:11.340218+00:00",
-  "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html": "2026-08-29T20:41:11.544067+00:00",
-  "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html": "2026-08-29T20:41:11.742650+00:00",
-  "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html": "2026-08-29T20:41:11.935907+00:00",
-  "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html": "2026-08-29T20:41:12.132553+00:00",
-  "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers": "2026-08-29T20:41:12.326660+00:00",
-  "https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase": "2026-08-29T20:41:12.519604+00:00",
-  "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026": "2026-08-29T20:41:12.715192+00:00",
-  "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026": "2026-08-29T20:41:12.911790+00:00",
-  "https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot": "2026-08-29T20:41:13.113302+00:00",
-  "https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary": "2026-08-29T20:41:13.304836+00:00",
-  "https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy": "2026-08-29T20:41:13.496765+00:00",
-  "https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors": "2026-08-29T20:41:13.690605+00:00",
-  "https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026": "2026-08-29T20:41:13.892163+00:00",
-  "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps": "2026-08-29T20:41:14.086085+00:00",
-  "https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal": "2026-08-29T20:41:14.286899+00:00",
-  "https://www.darkreading.com/application-security/http-terminator-hunts-novel-desync-attacks": "2026-08-29T20:41:14.487277+00:00",
-  "https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers": "2026-08-29T20:41:14.684369+00:00",
-  "https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units": "2026-08-29T20:41:14.880145+00:00",
-  "https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month": "2026-08-29T20:41:15.072508+00:00",
-  "https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure": "2026-08-29T20:41:15.266619+00:00",
-  "https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries": "2026-08-29T20:41:15.459032+00:00",
-  "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw": "2026-08-29T20:41:15.654169+00:00",
-  "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-": "2026-08-29T20:41:15.853445+00:00",
-  "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch": "2026-08-29T20:41:16.066149+00:00",
-  "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text": "2026-08-29T20:41:16.267774+00:00",
-  "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware": "2026-08-29T20:41:16.462993+00:00",
-  "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat": "2026-08-29T20:41:16.657263+00:00",
-  "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair": "2026-08-29T20:41:16.858579+00:00",
-  "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk": "2026-08-29T20:41:17.051680+00:00",
-  "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint": "2026-08-29T20:41:17.274127+00:00",
-  "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall": "2026-08-29T20:41:17.479709+00:00",
-  "https://www.darkreading.com/application-security/openai-adds-controls-already": "2026-08-29T20:41:17.673150+00:00",
-  "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography": "2026-08-29T20:41:17.874557+00:00",
-  "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network": "2026-08-29T20:41:18.077528+00:00",
-  "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack": "2026-08-29T20:41:18.279401+00:00",
-  "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys": "2026-08-29T20:41:18.479662+00:00",
-  "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing": "2026-08-29T20:41:18.671125+00:00",
-  "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks": "2026-08-29T20:41:18.864755+00:00",
-  "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign": "2026-08-29T20:41:19.055159+00:00",
-  "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns": "2026-08-29T20:41:19.247115+00:00",
-  "https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model": "2026-08-29T20:41:19.439784+00:00",
-  "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats": "2026-08-29T20:41:19.648219+00:00",
-  "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack": "2026-08-29T20:41:19.842081+00:00",
-  "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges": "2026-08-29T20:41:20.038382+00:00",
-  "https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture": "2026-08-29T20:41:20.242826+00:00",
-  "https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures": "2026-08-29T20:41:20.444889+00:00",
-  "https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries": "2026-08-29T20:41:20.642217+00:00",
-  "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud": "2026-08-29T20:41:20.843814+00:00",
-  "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service": "2026-08-29T20:41:21.048829+00:00",
-  "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems": "2026-08-29T20:41:21.246106+00:00",
-  "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware": "2026-08-29T20:41:21.438383+00:00",
-  "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b": "2026-08-29T20:41:21.632726+00:00",
-  "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos": "2026-08-29T23:06:26.405067+00:00",
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/": "2026-08-30T04:32:22.079344+00:00",
-  "https://asec.ahnlab.com/en/95171/": "2026-08-30T10:25:26.148153+00:00",
-  "https://www.bitdefender.com/en-us/blog/labs/fake-xeno-roblox-discord-executor": "2026-08-30T10:25:26.214684+00:00",
-  "https://research.checkpoint.com/2026/24th-august-threat-intelligence-report/": "2026-08-30T10:25:26.273995+00:00",
-  "https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/": "2026-08-30T10:25:26.274010+00:00",
-  "https://www.duskrise.com/2024/01/30/the-bear-and-the-shell-new-campaign-against-russian-opposition/": "2026-08-30T10:25:26.334685+00:00",
-  "https://cofense.com/blog/understanding-browser-trust-abuse-exploiting-enterprise-s-most-trusted-interface": "2026-08-30T10:25:26.394885+00:00",
-  "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/": "2026-08-30T10:25:26.454490+00:00",
-  "https://www.cybereason.com/blog/ttp-briefing-q4-2025": "2026-08-30T10:25:26.515984+00:00",
-  "https://cyble.com/blog/financial-exposure-cyber-risk-quantification/": "2026-08-30T10:25:26.578371+00:00",
-  "https://www.darktrace.com/blog/why-trust-is-the-new-attack-surface-darktraces-mid-year-threat-update-2026": "2026-08-30T10:25:26.637587+00:00",
-  "https://blog.eclecticiq.com/compromising-the-developer": "2026-08-30T10:25:26.697977+00:00",
-  "https://www.forescout.com/blog/7-things-every-architect-should-know-about-universal-ztna/": "2026-08-30T10:25:26.697993+00:00",
-  "https://cloud.google.com/blog/topics/threat-intelligence/distinct-clusters-target-individuals-of-interest-to-russia/": "2026-08-30T10:25:26.762701+00:00",
-  "https://www.group-ib.com/blog/one-adversary-two-outcomes-0027-proof/": "2026-08-30T10:25:26.829214+00:00",
-  "https://www.helpnetsecurity.com/2026/08/30/week-in-review-compromised-zimbra-servers-previously-patched-citrix-netscaler-flaw-exploited/": "2026-08-30T10:25:26.894295+00:00",
-  "https://threatresearch.ext.hp.com/hp-wolf-security-threat-insights-report-june-2026/": "2026-08-30T10:25:26.953519+00:00",
-  "https://www.infoblox.com/blog/threat-intelligence/drop-something-dont-worry-someone-caught-it/": "2026-08-30T10:25:27.019039+00:00",
-  "https://lab52.io/blog/gru-military-unit-67606/": "2026-08-30T10:25:27.079042+00:00",
-  "https://www.malwarebytes.com/blog/mobile/2026/08/protect-your-whatsapp-account-with-new-passkey-and-2fa-upgrades": "2026-08-30T10:25:27.138438+00:00",
-  "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/": "2026-08-30T10:25:27.200718+00:00",
-  "https://moonlock.com/offerup-scams": "2026-08-30T10:25:27.200732+00:00",
-  "https://www.morphisec.com/blog/when-your-ai-coding-assistant-becomes-the-attack-the-hades-supply-chain-campaign/": "2026-08-30T10:25:27.268138+00:00",
-  "https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/": "2026-08-30T10:25:27.268152+00:00",
-  "https://permiso.io/blog/introducing-the-risk-score-engine": "2026-08-30T10:25:27.268156+00:00",
-  "https://blog.qualys.com/category/qualys-insights": "2026-08-30T10:25:27.268160+00:00",
-  "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-payloads-exploits-scanners": "2026-08-30T10:25:27.329831+00:00",
-  "https://www.recordedfuture.com/research/bluedelta-targets-with-hookedge": "2026-08-30T10:25:27.391823+00:00",
-  "https://rewterz.com/blog/what-is-detection-engineering-ai-improve-threat-detection": "2026-08-30T10:25:27.454419+00:00",
-  "https://securelist.com/industrial-threat-report-q2-2026/121159/": "2026-08-30T10:25:27.530283+00:00",
-  "https://securityaffairs.com/198124/security/security-affairs-newsletter-round-592-by-pierluigi-paganini-international-edition.html": "2026-08-30T10:25:27.589543+00:00"
+  "https://xkcd.com/3291/": {
+    "ts": "2026-08-29T18:04:09.845543+00:00",
+    "title": null
+  },
+  "https://xkcd.com/3290/": {
+    "ts": "2026-08-29T18:04:09.905447+00:00",
+    "title": null
+  },
+  "https://xkcd.com/3289/": {
+    "ts": "2026-08-29T18:04:09.953360+00:00",
+    "title": null
+  },
+  "https://xkcd.com/3288/": {
+    "ts": "2026-08-29T18:04:10.005912+00:00",
+    "title": null
+  },
+  "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": {
+    "ts": "2026-08-29T18:59:35.159215+00:00",
+    "title": null
+  },
+  "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/": {
+    "ts": "2026-08-29T18:59:35.266166+00:00",
+    "title": null
+  },
+  "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/": {
+    "ts": "2026-08-29T18:59:35.378696+00:00",
+    "title": null
+  },
+  "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/": {
+    "ts": "2026-08-29T18:59:35.494320+00:00",
+    "title": null
+  },
+  "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/": {
+    "ts": "2026-08-29T18:59:35.604644+00:00",
+    "title": null
+  },
+  "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/": {
+    "ts": "2026-08-29T18:59:35.710708+00:00",
+    "title": null
+  },
+  "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/": {
+    "ts": "2026-08-29T18:59:35.809288+00:00",
+    "title": null
+  },
+  "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/": {
+    "ts": "2026-08-29T18:59:35.920872+00:00",
+    "title": null
+  },
+  "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/": {
+    "ts": "2026-08-29T18:59:36.034411+00:00",
+    "title": null
+  },
+  "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/": {
+    "ts": "2026-08-29T18:59:36.171856+00:00",
+    "title": null
+  },
+  "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/": {
+    "ts": "2026-08-29T18:59:36.282569+00:00",
+    "title": null
+  },
+  "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/": {
+    "ts": "2026-08-29T18:59:36.380478+00:00",
+    "title": null
+  },
+  "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/": {
+    "ts": "2026-08-29T18:59:36.492247+00:00",
+    "title": null
+  },
+  "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/": {
+    "ts": "2026-08-29T18:59:36.586874+00:00",
+    "title": null
+  },
+  "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/": {
+    "ts": "2026-08-29T18:59:36.687579+00:00",
+    "title": null
+  },
+  "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/": {
+    "ts": "2026-08-29T18:59:36.791408+00:00",
+    "title": null
+  },
+  "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/": {
+    "ts": "2026-08-29T18:59:36.891575+00:00",
+    "title": null
+  },
+  "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/": {
+    "ts": "2026-08-29T18:59:37.002776+00:00",
+    "title": null
+  },
+  "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/": {
+    "ts": "2026-08-29T18:59:37.109651+00:00",
+    "title": null
+  },
+  "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/": {
+    "ts": "2026-08-29T18:59:37.215653+00:00",
+    "title": null
+  },
+  "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/": {
+    "ts": "2026-08-29T18:59:37.325397+00:00",
+    "title": null
+  },
+  "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/": {
+    "ts": "2026-08-29T18:59:37.455170+00:00",
+    "title": null
+  },
+  "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/": {
+    "ts": "2026-08-29T18:59:37.553635+00:00",
+    "title": null
+  },
+  "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/": {
+    "ts": "2026-08-29T18:59:37.659019+00:00",
+    "title": null
+  },
+  "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/": {
+    "ts": "2026-08-29T18:59:37.763280+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html": {
+    "ts": "2026-08-29T18:59:37.875891+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html": {
+    "ts": "2026-08-29T18:59:37.995684+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html": {
+    "ts": "2026-08-29T18:59:38.108071+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html": {
+    "ts": "2026-08-29T18:59:38.224784+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html": {
+    "ts": "2026-08-29T18:59:38.333561+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html": {
+    "ts": "2026-08-29T18:59:38.427373+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html": {
+    "ts": "2026-08-29T18:59:38.536220+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html": {
+    "ts": "2026-08-29T18:59:38.631229+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html": {
+    "ts": "2026-08-29T18:59:38.956427+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html": {
+    "ts": "2026-08-29T18:59:39.077656+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html": {
+    "ts": "2026-08-29T18:59:39.195469+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html": {
+    "ts": "2026-08-29T18:59:39.327045+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html": {
+    "ts": "2026-08-29T18:59:39.440858+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html": {
+    "ts": "2026-08-29T18:59:39.546629+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html": {
+    "ts": "2026-08-29T18:59:39.657018+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html": {
+    "ts": "2026-08-29T18:59:39.767763+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html": {
+    "ts": "2026-08-29T18:59:39.878214+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html": {
+    "ts": "2026-08-29T18:59:39.988399+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html": {
+    "ts": "2026-08-29T18:59:40.093494+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html": {
+    "ts": "2026-08-29T18:59:40.197909+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html": {
+    "ts": "2026-08-29T18:59:40.305951+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html": {
+    "ts": "2026-08-29T18:59:40.403628+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html": {
+    "ts": "2026-08-29T18:59:40.510621+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html": {
+    "ts": "2026-08-29T18:59:40.616889+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html": {
+    "ts": "2026-08-29T18:59:40.742753+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html": {
+    "ts": "2026-08-29T18:59:40.858447+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html": {
+    "ts": "2026-08-29T18:59:40.974235+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html": {
+    "ts": "2026-08-29T18:59:41.089160+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html": {
+    "ts": "2026-08-29T18:59:41.199699+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html": {
+    "ts": "2026-08-29T18:59:41.313289+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html": {
+    "ts": "2026-08-29T18:59:41.415930+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html": {
+    "ts": "2026-08-29T18:59:41.526296+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html": {
+    "ts": "2026-08-29T18:59:41.635221+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html": {
+    "ts": "2026-08-29T18:59:41.740781+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html": {
+    "ts": "2026-08-29T18:59:41.840997+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html": {
+    "ts": "2026-08-29T18:59:41.961219+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security": {
+    "ts": "2026-08-29T18:59:45.496934+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html": {
+    "ts": "2026-08-29T20:41:09.563226+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html": {
+    "ts": "2026-08-29T20:41:09.762561+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html": {
+    "ts": "2026-08-29T20:41:09.955603+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html": {
+    "ts": "2026-08-29T20:41:10.152694+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html": {
+    "ts": "2026-08-29T20:41:10.346074+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html": {
+    "ts": "2026-08-29T20:41:10.539824+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html": {
+    "ts": "2026-08-29T20:41:10.731767+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html": {
+    "ts": "2026-08-29T20:41:10.934905+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html": {
+    "ts": "2026-08-29T20:41:11.141086+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html": {
+    "ts": "2026-08-29T20:41:11.340218+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html": {
+    "ts": "2026-08-29T20:41:11.544067+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html": {
+    "ts": "2026-08-29T20:41:11.742650+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html": {
+    "ts": "2026-08-29T20:41:11.935907+00:00",
+    "title": null
+  },
+  "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html": {
+    "ts": "2026-08-29T20:41:12.132553+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers": {
+    "ts": "2026-08-29T20:41:12.326660+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase": {
+    "ts": "2026-08-29T20:41:12.519604+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026": {
+    "ts": "2026-08-29T20:41:12.715192+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026": {
+    "ts": "2026-08-29T20:41:12.911790+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot": {
+    "ts": "2026-08-29T20:41:13.113302+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary": {
+    "ts": "2026-08-29T20:41:13.304836+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy": {
+    "ts": "2026-08-29T20:41:13.496765+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors": {
+    "ts": "2026-08-29T20:41:13.690605+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026": {
+    "ts": "2026-08-29T20:41:13.892163+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps": {
+    "ts": "2026-08-29T20:41:14.086085+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal": {
+    "ts": "2026-08-29T20:41:14.286899+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/application-security/http-terminator-hunts-novel-desync-attacks": {
+    "ts": "2026-08-29T20:41:14.487277+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers": {
+    "ts": "2026-08-29T20:41:14.684369+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units": {
+    "ts": "2026-08-29T20:41:14.880145+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month": {
+    "ts": "2026-08-29T20:41:15.072508+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure": {
+    "ts": "2026-08-29T20:41:15.266619+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries": {
+    "ts": "2026-08-29T20:41:15.459032+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw": {
+    "ts": "2026-08-29T20:41:15.654169+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-": {
+    "ts": "2026-08-29T20:41:15.853445+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch": {
+    "ts": "2026-08-29T20:41:16.066149+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text": {
+    "ts": "2026-08-29T20:41:16.267774+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware": {
+    "ts": "2026-08-29T20:41:16.462993+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat": {
+    "ts": "2026-08-29T20:41:16.657263+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair": {
+    "ts": "2026-08-29T20:41:16.858579+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk": {
+    "ts": "2026-08-29T20:41:17.051680+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint": {
+    "ts": "2026-08-29T20:41:17.274127+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall": {
+    "ts": "2026-08-29T20:41:17.479709+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/application-security/openai-adds-controls-already": {
+    "ts": "2026-08-29T20:41:17.673150+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography": {
+    "ts": "2026-08-29T20:41:17.874557+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network": {
+    "ts": "2026-08-29T20:41:18.077528+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack": {
+    "ts": "2026-08-29T20:41:18.279401+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys": {
+    "ts": "2026-08-29T20:41:18.479662+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing": {
+    "ts": "2026-08-29T20:41:18.671125+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks": {
+    "ts": "2026-08-29T20:41:18.864755+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign": {
+    "ts": "2026-08-29T20:41:19.055159+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns": {
+    "ts": "2026-08-29T20:41:19.247115+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model": {
+    "ts": "2026-08-29T20:41:19.439784+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats": {
+    "ts": "2026-08-29T20:41:19.648219+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack": {
+    "ts": "2026-08-29T20:41:19.842081+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges": {
+    "ts": "2026-08-29T20:41:20.038382+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture": {
+    "ts": "2026-08-29T20:41:20.242826+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures": {
+    "ts": "2026-08-29T20:41:20.444889+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries": {
+    "ts": "2026-08-29T20:41:20.642217+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud": {
+    "ts": "2026-08-29T20:41:20.843814+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service": {
+    "ts": "2026-08-29T20:41:21.048829+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems": {
+    "ts": "2026-08-29T20:41:21.246106+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware": {
+    "ts": "2026-08-29T20:41:21.438383+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b": {
+    "ts": "2026-08-29T20:41:21.632726+00:00",
+    "title": null
+  },
+  "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos": {
+    "ts": "2026-08-29T23:06:26.405067+00:00",
+    "title": null
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/": {
+    "ts": "2026-08-30T04:32:22.079344+00:00",
+    "title": null
+  },
+  "https://asec.ahnlab.com/en/95171/": {
+    "ts": "2026-08-30T10:25:26.148153+00:00",
+    "title": null
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/fake-xeno-roblox-discord-executor": {
+    "ts": "2026-08-30T10:25:26.214684+00:00",
+    "title": null
+  },
+  "https://research.checkpoint.com/2026/24th-august-threat-intelligence-report/": {
+    "ts": "2026-08-30T10:25:26.273995+00:00",
+    "title": null
+  },
+  "https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/": {
+    "ts": "2026-08-30T10:25:26.274010+00:00",
+    "title": null
+  },
+  "https://www.duskrise.com/2024/01/30/the-bear-and-the-shell-new-campaign-against-russian-opposition/": {
+    "ts": "2026-08-30T10:25:26.334685+00:00",
+    "title": null
+  },
+  "https://cofense.com/blog/understanding-browser-trust-abuse-exploiting-enterprise-s-most-trusted-interface": {
+    "ts": "2026-08-30T10:25:26.394885+00:00",
+    "title": null
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/": {
+    "ts": "2026-08-30T10:25:26.454490+00:00",
+    "title": null
+  },
+  "https://www.cybereason.com/blog/ttp-briefing-q4-2025": {
+    "ts": "2026-08-30T10:25:26.515984+00:00",
+    "title": null
+  },
+  "https://cyble.com/blog/financial-exposure-cyber-risk-quantification/": {
+    "ts": "2026-08-30T10:25:26.578371+00:00",
+    "title": null
+  },
+  "https://www.darktrace.com/blog/why-trust-is-the-new-attack-surface-darktraces-mid-year-threat-update-2026": {
+    "ts": "2026-08-30T10:25:26.637587+00:00",
+    "title": null
+  },
+  "https://blog.eclecticiq.com/compromising-the-developer": {
+    "ts": "2026-08-30T10:25:26.697977+00:00",
+    "title": null
+  },
+  "https://www.forescout.com/blog/7-things-every-architect-should-know-about-universal-ztna/": {
+    "ts": "2026-08-30T10:25:26.697993+00:00",
+    "title": null
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/distinct-clusters-target-individuals-of-interest-to-russia/": {
+    "ts": "2026-08-30T10:25:26.762701+00:00",
+    "title": null
+  },
+  "https://www.group-ib.com/blog/one-adversary-two-outcomes-0027-proof/": {
+    "ts": "2026-08-30T10:25:26.829214+00:00",
+    "title": null
+  },
+  "https://www.helpnetsecurity.com/2026/08/30/week-in-review-compromised-zimbra-servers-previously-patched-citrix-netscaler-flaw-exploited/": {
+    "ts": "2026-08-30T10:25:26.894295+00:00",
+    "title": null
+  },
+  "https://threatresearch.ext.hp.com/hp-wolf-security-threat-insights-report-june-2026/": {
+    "ts": "2026-08-30T10:25:26.953519+00:00",
+    "title": null
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/drop-something-dont-worry-someone-caught-it/": {
+    "ts": "2026-08-30T10:25:27.019039+00:00",
+    "title": null
+  },
+  "https://lab52.io/blog/gru-military-unit-67606/": {
+    "ts": "2026-08-30T10:25:27.079042+00:00",
+    "title": null
+  },
+  "https://www.malwarebytes.com/blog/mobile/2026/08/protect-your-whatsapp-account-with-new-passkey-and-2fa-upgrades": {
+    "ts": "2026-08-30T10:25:27.138438+00:00",
+    "title": null
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/": {
+    "ts": "2026-08-30T10:25:27.200718+00:00",
+    "title": null
+  },
+  "https://moonlock.com/offerup-scams": {
+    "ts": "2026-08-30T10:25:27.200732+00:00",
+    "title": null
+  },
+  "https://www.morphisec.com/blog/when-your-ai-coding-assistant-becomes-the-attack-the-hades-supply-chain-campaign/": {
+    "ts": "2026-08-30T10:25:27.268138+00:00",
+    "title": null
+  },
+  "https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/": {
+    "ts": "2026-08-30T10:25:27.268152+00:00",
+    "title": null
+  },
+  "https://permiso.io/blog/introducing-the-risk-score-engine": {
+    "ts": "2026-08-30T10:25:27.268156+00:00",
+    "title": null
+  },
+  "https://blog.qualys.com/category/qualys-insights": {
+    "ts": "2026-08-30T10:25:27.268160+00:00",
+    "title": null
+  },
+  "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-payloads-exploits-scanners": {
+    "ts": "2026-08-30T10:25:27.329831+00:00",
+    "title": null
+  },
+  "https://www.recordedfuture.com/research/bluedelta-targets-with-hookedge": {
+    "ts": "2026-08-30T10:25:27.391823+00:00",
+    "title": null
+  },
+  "https://rewterz.com/blog/what-is-detection-engineering-ai-improve-threat-detection": {
+    "ts": "2026-08-30T10:25:27.454419+00:00",
+    "title": null
+  },
+  "https://securelist.com/industrial-threat-report-q2-2026/121159/": {
+    "ts": "2026-08-30T10:25:27.530283+00:00",
+    "title": null
+  },
+  "https://securityaffairs.com/198124/security/security-affairs-newsletter-round-592-by-pierluigi-paganini-international-edition.html": {
+    "ts": "2026-08-30T10:25:27.589543+00:00",
+    "title": null
+  },
+  "https://asec.ahnlab.com/en/95141/": {
+    "ts": "2026-08-30T15:18:19.445671+00:00",
+    "title": "Ransom & Dark Web Issues Week 4, August 2026"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/fake-shops-europe-samsung-world-cup-scams": {
+    "ts": "2026-08-30T15:18:19.445690+00:00",
+    "title": "Fake shops target shoppers across Europe with fake Samsung deals, counterfeit goods and World Cup scams"
+  },
+  "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/": {
+    "ts": "2026-08-30T15:18:19.787032+00:00",
+    "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data"
+  },
+  "https://research.checkpoint.com/2026/btr-reforged-weaponizing-defenders-remediation-driver-as-a-kernel-operation-primitive/": {
+    "ts": "2026-08-30T15:18:19.992815+00:00",
+    "title": "BTR Reforged: Weaponizing Defender\u2019s Remediation Driver as a Kernel Operation Primitive"
+  },
+  "https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/": {
+    "ts": "2026-08-30T15:18:19.992831+00:00",
+    "title": "JavaScript obfuscation: From party trick to phishing kit"
+  },
+  "https://www.duskrise.com/2023/10/25/the-duck-is-hiring-in-italy-ducktail-spread-via-compromised-linkedin-profiles/": {
+    "ts": "2026-08-30T15:18:20.196814+00:00",
+    "title": "The Duck is Hiring in Italy: DUCKTAIL Spread via Compromised LinkedIn Profiles"
+  },
+  "https://cofense.com/blog/phonescams-casting-a-wide-net-in-an-orchard-of-low-hanging-fruit": {
+    "ts": "2026-08-30T15:18:20.403574+00:00",
+    "title": "Phonescams: Casting a Wide Net in an Orchard of Low-Hanging Fruit"
+  },
+  "https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/": {
+    "ts": "2026-08-30T15:18:20.621252+00:00",
+    "title": "Benchmaxxing: When the Benchmark Becomes the Target"
+  },
+  "https://cybersecuritynews.com/openai-models-ends-with-cursor/": {
+    "ts": "2026-08-30T15:18:20.816182+00:00",
+    "title": "OpenAI Is Pulling Its AI Models From Cursor Following SpaceX Acquisition"
+  },
+  "https://www.cybereason.com/blog/fake-installer-valleyrat": {
+    "ts": "2026-08-30T15:18:21.031554+00:00",
+    "title": "Fake Installer: Ultimately, ValleyRAT infection"
+  },
+  "https://cyble.com/blog/ransomware-attack-vectors-endpoint-blind-spots/": {
+    "ts": "2026-08-30T15:18:21.031566+00:00",
+    "title": "Endpoint Blind Spots: The 5 Places Ransomware Hides Before It Detonates"
+  },
+  "https://www.darktrace.com/blog/testing-a-prompt-injection-attack-against-an-enterprise-ai-agent": {
+    "ts": "2026-08-30T15:18:21.235567+00:00",
+    "title": "Testing a Prompt injection Attack Against an Enterprise AI Agent"
+  },
+  "https://blog.eclecticiq.com/intelligence-center-3.8": {
+    "ts": "2026-08-30T15:18:21.235582+00:00",
+    "title": "EclecticIQ Intelligence Center 3.8: Built for the way security teams are actually working now"
+  },
+  "https://www.forescout.com/blog/ot-security-analysis-exposed-devices-attacked-in-us-water-systems/": {
+    "ts": "2026-08-30T15:18:21.235585+00:00",
+    "title": "OT Security Analysis:  Exposed Devices Attacked in US Water Systems"
+  },
+  "https://gbhackers.com/hackers-compromise-tanstack-query-npm-package/": {
+    "ts": "2026-08-30T15:18:21.444957+00:00",
+    "title": "Hackers Compromise TanStack Query npm Package to Steal Developer Credentials"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/": {
+    "ts": "2026-08-30T15:18:21.659673+00:00",
+    "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review"
+  },
+  "https://www.group-ib.com/blog/tortoiseshell-apt-toolset-infrastructure/": {
+    "ts": "2026-08-30T15:18:21.858125+00:00",
+    "title": "Tortoiseshell: New Toolset and Operational Infrastructure Exposed"
+  },
+  "https://www.helpnetsecurity.com/2026/08/28/north-korean-remote-workers-jobs-sales-and-marketing/": {
+    "ts": "2026-08-30T15:18:22.074713+00:00",
+    "title": "North Korean remote workers are broadening their job hunt beyond IT"
+  },
+  "https://threatresearch.ext.hp.com/the-anatomy-of-a-destructive-attack/": {
+    "ts": "2026-08-30T15:18:22.287184+00:00",
+    "title": "The Anatomy of a Destructive Attack"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/7-million-in-expired-domains-fuel-a-streaming-empire-with-a-malware-secret/": {
+    "ts": "2026-08-30T15:18:22.492867+00:00",
+    "title": "$7 Million in Expired Domains Fuel a Streaming Empire with a Malware Secret"
+  },
+  "https://lab52.io/blog/from-china-with-tenderness/": {
+    "ts": "2026-08-30T15:18:22.492884+00:00",
+    "title": "From China with tenderness"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/08/the-ai-agent-swarm-that-attacked-hugging-face-is-a-warning-for-the-future": {
+    "ts": "2026-08-30T15:18:22.699153+00:00",
+    "title": "The AI agent swarm that attacked Hugging Face is a warning for the future"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/": {
+    "ts": "2026-08-30T15:18:22.699169+00:00",
+    "title": "\u200b\u200b\u200b\u200b\u200b\u200bWhat\u2019s new in Microsoft Security: August 2026"
+  },
+  "https://moonlock.com/amnesiastealer-hijacks-chromium-browsers": {
+    "ts": "2026-08-30T15:18:22.896860+00:00",
+    "title": "New Mac malware AmnesiaStealer hijacks Chromium browsers"
+  },
+  "https://www.morphisec.com/blog/the-rise-of-self-learning-malware-when-threats-rewrite-themselves-faster-than-you-can-detect-them/": {
+    "ts": "2026-08-30T15:18:23.110247+00:00",
+    "title": "The Rise of Self-Learning Malware: When Threats Rewrite Themselves Faster Than You Can Detect Them"
+  },
+  "https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/": {
+    "ts": "2026-08-30T15:18:23.325819+00:00",
+    "title": "The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution"
+  },
+  "https://permiso.io/blog/why-identity-security-needs-risk-scoring": {
+    "ts": "2026-08-30T15:18:23.525948+00:00",
+    "title": "You Can't Manage What You Can't Score: Why Identity Security Needs Real Risk Measurement"
+  },
+  "https://blog.qualys.com/category/product-tech": {
+    "ts": "2026-08-30T15:18:23.741354+00:00",
+    "title": "When an AI Agent Turned Attacker: What Qualys Sees Across Every Phase of the Hugging Face Kubernetes Intrusion"
+  },
+  "https://www.rapid7.com/blog/post/etr-papercut-ng-mf-critical-zero-day-exploited-in-the-wild": {
+    "ts": "2026-08-30T15:18:23.942904+00:00",
+    "title": "PaperCut NG/MF Critical Zero-Day Exploited in the Wild"
+  },
+  "https://www.recordedfuture.com/blog/ai-alert-filtering": {
+    "ts": "2026-08-30T15:18:24.149181+00:00",
+    "title": "Recorded Future Launches AI Alert Filtering"
+  }
 }
