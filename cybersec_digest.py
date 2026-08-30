@@ -135,37 +135,39 @@ IOC_PATTERNS = {
 
 CATEGORIES = {
     "poland": (
-        "Cyberattacks, data leaks, ransomware, APT activity, or threat-actor "
-        "activity connected to Poland - targeting Polish organizations or "
-        "citizens, or attributed to Poland-linked actors.",
+        "ANY cyberattack, data leak/breach, ransomware incident, APT activity, "
+        "or threat-actor activity connected to Poland - targeting Polish "
+        "organizations or citizens, or attributed to Poland-linked actors. "
+        "This is the only breach/leak category - do not flag breaches or "
+        "leaks affecting other countries under any other category.",
         "🇵🇱 Poland",
     ),
     "apt_campaign": (
-        "Active APT campaign or operation activity anywhere in the world - "
-        "an observed, ongoing campaign. Do NOT use this for general "
-        "background/profile pieces about a threat actor with no new activity.",
+        "An active, ongoing APT campaign or operation anywhere in the world, "
+        "explicitly framed as such. Do NOT use this for general background/"
+        "profile pieces with no new campaign activity.",
         "APT Campaign",
     ),
-    "malware_windows": ("Newly discovered malware targeting Windows.", "Malware · Windows"),
-    "malware_android": ("Newly discovered malware targeting Android.", "Malware · Android"),
-    "malware_macos": ("Newly discovered malware targeting macOS.", "Malware · macOS"),
-    "malware_linux": ("Newly discovered malware targeting Linux.", "Malware · Linux"),
+    "threat_actor": (
+        "Activity, tooling, attribution, or reporting about a specific named, "
+        "notable threat actor or hacking group anywhere in the world, even if "
+        "the article does NOT use the term 'APT' or frame it as a campaign - "
+        "for example Sandworm, Gamaredon, or any other well-known tracked group.",
+        "Threat Actor",
+    ),
+    "malware_windows": ("New malware variant or attack technique targeting Windows.", "Malware · Windows"),
+    "malware_android": ("New malware variant or attack technique targeting Android.", "Malware · Android"),
+    "malware_ios": ("New malware variant or attack technique targeting iPhone/iOS.", "Malware · iOS"),
+    "malware_macos": ("New malware variant or attack technique targeting macOS.", "Malware · macOS"),
+    "malware_linux": ("New malware variant or attack technique targeting Linux.", "Malware · Linux"),
     "malware_other": (
-        "Newly discovered malware targeting other platforms (iOS, IoT, routers, cross-platform).",
+        "New malware targeting other platforms (IoT, routers, cross-platform).",
         "Malware · Other",
     ),
     "new_technique": (
-        "A novel attack method, exploitation technique, or social-engineering "
-        "approach, not tied to a single specific malware family.",
+        "A novel attack method or exploitation technique not tied to a "
+        "specific malware family or OS, and not covered by any category above.",
         "New Technique",
-    ),
-    "major_vuln": (
-        "A newly disclosed or actively-exploited high-impact vulnerability (CVE).",
-        "Major Vuln",
-    ),
-    "data_breach": (
-        "A notable large-scale data breach not already covered by the Poland category.",
-        "Data Breach",
     ),
 }
 
