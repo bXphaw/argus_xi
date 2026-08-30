@@ -1,39 +1,42 @@
 #!/usr/bin/env python3
 """
-Cybersec RSS digest: fetch -> full text -> AI triage+summary+IOCs -> ntfy push.
+Cybersec RSS digest: fetch -> full text -> AI triage+summary+IOCs -> ntfy push
+                      -> daily categorized email digest.
 
-  - up to MAX_ARTICLES_PER_RUN new articles are processed per run, picked
-    fairly across feeds (round-robin) so no single feed can hog every run;
-    anything left over just gets picked up automatically next hour, since
-    it's still unseen
-  - a 15s network timeout protects against one slow/dead feed stalling
-    the whole run
-  - articles are sent to Groq in small chunks (not one giant call) so a
-    large batch can't take down the whole run
-  - the AI classifies each article into a category; only matching categories
-    get a notification - everything else is silently marked "seen"
-  - if a chunk's Groq call fails entirely, that chunk fails OPEN: every
-    article in it gets notified unfiltered (raw excerpt) rather than lost
-  - trafilatura failures fall back to the RSS-provided summary
-  - a deterministic regex pass always runs, merged with AI-extracted IOCs
-  - an article is only marked "sent" after ntfy succeeds (or after being
-    filtered out as irrelevant, which needs no delivery)
-  - sent_articles.json is pruned so it doesn't grow forever
+  - up to MAX_ARTICLES_PER_RUN new articles processed per run, picked fairly
+    across feeds (round-robin); leftovers are picked up automatically next hour
+  - likely duplicate stories (same event covered by multiple feeds) are
+    detected by title similarity and skipped before ever reaching the AI
+  - articles go to Groq in small chunks; a failed chunk fails OPEN (notifies
+    unfiltered) rather than losing articles
+  - the AI classifies each article into a category + severity; only matching
+    categories get notified, everything else is silently marked seen
+  - severity drives the ntfy notification priority (critical = urgent/bypasses
+    DND, low = quiet)
+  - every notified article is also queued for a single daily digest email,
+    grouped by category, sent once per UTC day (not per-article - no spam)
+  - trafilatura failures fall back to the RSS summary; a regex IOC pass
+    always runs as a backstop to the AI's own extraction
+  - sent_articles.json and pending_digest.json are the two persisted state
+    files, both pruned/cleared appropriately so they don't grow forever
 """
 
+import difflib
 import json
 import os
 import re
+import smtplib
 import socket
 import sys
 import time
 from datetime import datetime, timedelta, timezone
+from email.message import EmailMessage
 
 import feedparser
 import requests
 import trafilatura
 
-socket.setdefaulttimeout(15)  # protects feedparser fetches from a hung/slow site
+socket.setdefaulttimeout(15)
 
 # ---- config ---------------------------------------------------------------
 
@@ -102,15 +105,26 @@ FEEDS = [
 ]
 
 SENT_FILE = "sent_articles.json"
+DIGEST_FILE = "pending_digest.json"
 MAX_AGE_DAYS = 60
 CHUNK_SIZE = 5
-MAX_ARTICLES_PER_RUN = 30  # picked fairly across feeds; the rest wait for next hour
+MAX_ARTICLES_PER_RUN = 30
+DEDUP_WINDOW_HOURS = 72       # how far back to check for duplicate stories
+DEDUP_SIMILARITY_THRESHOLD = 0.75  # 0-1, title similarity ratio
+DIGEST_HOUR = 7               # UTC hour after which the daily digest fires (once/day)
 
 GROQ_MODEL = "openai/gpt-oss-120b"
 GROQ_API_KEY = os.environ["GROQ_API_KEY"]
 
 NTFY_TOPIC = os.environ["NTFY_TOPIC"]
 NTFY_URL = f"https://ntfy.sh/{NTFY_TOPIC}"
+
+# Gmail defaults (SSL on 465). For Outlook/Office365 use smtp.office365.com:587
+# with server.starttls() instead of SMTP_SSL - ask if you need that variant.
+SMTP_HOST = "smtp.gmail.com"
+SMTP_PORT = 465
+EMAIL_ADDRESS = os.environ["EMAIL_ADDRESS"]
+EMAIL_APP_PASSWORD = os.environ["EMAIL_APP_PASSWORD"]
 
 IOC_PATTERNS = {
     "ipv4": re.compile(r"\b(?:\d{1,3}\.){3}\d{1,3}\b"),
@@ -155,28 +169,117 @@ CATEGORIES = {
     ),
 }
 
+SEVERITY_PRIORITY = {
+    "critical": "urgent",
+    "high": "high",
+    "medium": "default",
+    "low": "low",
+}
 
-# ---- state ------------------------------------------------------------------
+
+# ---- state: seen articles --------------------------------------------------
 
 def load_sent() -> dict:
     if not os.path.exists(SENT_FILE):
         return {}
     with open(SENT_FILE, "r", encoding="utf-8") as f:
-        return json.load(f)
+        raw = json.load(f)
+    # migrate old format (url -> iso string) to new format (url -> {ts, title})
+    migrated = {}
+    for url, v in raw.items():
+        migrated[url] = {"ts": v, "title": None} if isinstance(v, str) else v
+    return migrated
 
 
 def save_sent(sent: dict) -> None:
     cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
-    pruned = {url: ts for url, ts in sent.items() if datetime.fromisoformat(ts) > cutoff}
+    pruned = {url: v for url, v in sent.items() if datetime.fromisoformat(v["ts"]) > cutoff}
     with open(SENT_FILE, "w", encoding="utf-8") as f:
         json.dump(pruned, f, indent=2)
+
+
+def mark_seen(sent: dict, url: str, title: str) -> None:
+    sent[url] = {"ts": datetime.now(timezone.utc).isoformat(), "title": title}
+
+
+def recent_titles(sent: dict, hours: int) -> list[str]:
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
+    out = []
+    for v in sent.values():
+        try:
+            if v.get("title") and datetime.fromisoformat(v["ts"]) > cutoff:
+                out.append(v["title"])
+        except Exception:
+            continue
+    return out
+
+
+def is_duplicate_title(title: str, recent: list[str]) -> bool:
+    norm = title.lower().strip()
+    for other in recent:
+        if difflib.SequenceMatcher(None, norm, other.lower().strip()).ratio() >= DEDUP_SIMILARITY_THRESHOLD:
+            return True
+    return False
+
+
+# ---- state: pending digest --------------------------------------------------
+
+def load_digest_state() -> dict:
+    if not os.path.exists(DIGEST_FILE):
+        return {"items": [], "last_sent_date": None}
+    with open(DIGEST_FILE, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def save_digest_state(state: dict) -> None:
+    with open(DIGEST_FILE, "w", encoding="utf-8") as f:
+        json.dump(state, f, indent=2)
+
+
+def send_digest_email(items: list[dict]) -> bool:
+    grouped = {}
+    for item in items:
+        grouped.setdefault(item["category"], []).append(item)
+
+    lines = []
+    for cat_key, arts in grouped.items():
+        label = CATEGORIES.get(cat_key, (None, cat_key))[1]
+        lines.append(f"\n{label} ({len(arts)})")
+        for a in arts:
+            lines.append(f"  {a['title']}")
+            lines.append(f"  -> {a['url']}")
+
+    today = datetime.now(timezone.utc).strftime("%b %d, %Y")
+    msg = EmailMessage()
+    msg["Subject"] = f"Cybersec Digest - {today} ({len(items)} articles)"
+    msg["From"] = EMAIL_ADDRESS
+    msg["To"] = EMAIL_ADDRESS
+    msg.set_content("\n".join(lines))
+
+    try:
+        with smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT, timeout=30) as server:
+            server.login(EMAIL_ADDRESS, EMAIL_APP_PASSWORD)
+            server.send_message(msg)
+        return True
+    except Exception as e:
+        print(f"  digest email failed: {e}", file=sys.stderr)
+        return False
+
+
+def maybe_send_digest(state: dict) -> None:
+    if not state["items"]:
+        return
+    now = datetime.now(timezone.utc)
+    today_str = now.date().isoformat()
+    if now.hour >= DIGEST_HOUR and state.get("last_sent_date") != today_str:
+        if send_digest_email(state["items"]):
+            state["items"] = []
+            state["last_sent_date"] = today_str
 
 
 # ---- fair selection across feeds -------------------------------------------
 
 def gather_new_entries(sent: dict) -> list:
-    """One pass over all feeds. Returns a list of per-feed lists of new
-    entries - full text isn't fetched yet, so unselected ones cost nothing."""
     per_feed = []
     for feed_url in FEEDS:
         try:
@@ -214,6 +317,20 @@ def get_full_text(url: str, rss_summary: str) -> str:
     return rss_summary or ""
 
 
+def clean_excerpt(text: str, max_len: int = 400) -> str:
+    """Truncates at a sentence boundary if one is reasonably close to the
+    limit, otherwise at a word boundary - never mid-word."""
+    text = text.strip()
+    if len(text) <= max_len:
+        return text
+    truncated = text[:max_len]
+    last_break = max(truncated.rfind(". "), truncated.rfind("! "), truncated.rfind("? "))
+    if last_break > max_len * 0.5:
+        return truncated[: last_break + 1]
+    last_space = truncated.rfind(" ")
+    return (truncated[:last_space] if last_space > 0 else truncated) + "…"
+
+
 def extract_iocs_regex(text: str) -> list[str]:
     found = set()
     for pattern in IOC_PATTERNS.values():
@@ -233,11 +350,14 @@ def build_prompt(chunk: list[dict]) -> str:
         "If an article matches none of these, mark it not relevant - general "
         "product news, listicles, opinion pieces, and non-security stories "
         "should be marked not relevant.\n\n"
-        "For relevant articles only, write a 2-3 sentence summary IN ENGLISH "
-        "and list any threat indicators mentioned (IPs, domains, hashes, CVEs).\n\n"
+        "For relevant articles only:\n"
+        "- write a 2-3 sentence summary IN ENGLISH\n"
+        "- list any threat indicators mentioned (IPs, domains, hashes, CVEs)\n"
+        "- rate severity as one of: critical (actively exploited / widespread, "
+        "immediate danger), high, medium, or low\n\n"
         "Respond ONLY with JSON in this exact shape, nothing else, no markdown, "
         "no commentary:\n"
-        '{"0": {"relevant": true, "category": "malware_windows", '
+        '{"0": {"relevant": true, "category": "malware_windows", "severity": "high", '
         '"summary": "...", "iocs": ["..."]}, "1": {"relevant": false}}\n\n'
         f"{numbered}"
     )
@@ -290,7 +410,7 @@ def summarize_all(articles: list[dict]) -> tuple[dict, set]:
 
 # ---- notify -------------------------------------------------------------------
 
-def send_ntfy(title: str, message: str, link: str) -> bool:
+def send_ntfy(title: str, message: str, link: str, priority: str = "default") -> bool:
     try:
         r = requests.post(
             NTFY_URL,
@@ -299,6 +419,7 @@ def send_ntfy(title: str, message: str, link: str) -> bool:
                 "Title": title.encode("utf-8"),
                 "Click": link,
                 "Tags": "warning,closed_lock_with_key",
+                "Priority": priority,
             },
             timeout=15,
         )
@@ -312,6 +433,8 @@ def send_ntfy(title: str, message: str, link: str) -> bool:
 
 def main():
     sent = load_sent()
+    digest_state = load_digest_state()
+
     per_feed = gather_new_entries(sent)
     total_new = sum(len(f) for f in per_feed)
     candidates = round_robin_select(per_feed, MAX_ARTICLES_PER_RUN)
@@ -324,46 +447,59 @@ def main():
             file=sys.stderr,
         )
 
+    recent = recent_titles(sent, DEDUP_WINDOW_HOURS)
     new_articles = []
     for entry in candidates:
         link = entry.get("link")
+        title = entry.get("title", "(no title)")
+        if is_duplicate_title(title, recent):
+            mark_seen(sent, link, title)
+            print(f"  Skipping likely duplicate: {title}", file=sys.stderr)
+            continue
         text = get_full_text(link, entry.get("summary", ""))
-        new_articles.append({"url": link, "title": entry.get("title", "(no title)"), "text": text})
+        new_articles.append({"url": link, "title": title, "text": text})
+        recent.append(title)
         time.sleep(0.5)
 
-    if not new_articles:
+    if new_articles:
+        ai_results, failed_urls = summarize_all(new_articles)
+
+        for art in new_articles:
+            if art["url"] in failed_urls:
+                summary = clean_excerpt(art["text"], 400)
+                label = "Unfiltered"
+                ai_iocs, cat_key, priority = [], None, "default"
+            else:
+                ai = ai_results.get(art["url"])
+                if not ai or not ai.get("relevant"):
+                    mark_seen(sent, art["url"], art["title"])
+                    continue
+                summary = ai.get("summary", "")
+                ai_iocs = ai.get("iocs", [])
+                cat_key = ai.get("category")
+                label = CATEGORIES.get(cat_key, (None, cat_key or "Flagged"))[1]
+                priority = SEVERITY_PRIORITY.get(ai.get("severity"), "default")
+
+            all_iocs = sorted(set(ai_iocs) | set(extract_iocs_regex(art["text"])))
+            title_line = f"[{label}] {art['title']}"
+            body = summary
+            if all_iocs:
+                body += "\n\nIOCs: " + ", ".join(all_iocs[:15])
+
+            if send_ntfy(title_line, body, art["url"], priority):
+                mark_seen(sent, art["url"], art["title"])
+                if cat_key:
+                    digest_state["items"].append(
+                        {"category": cat_key, "title": art["title"], "url": art["url"]}
+                    )
+            else:
+                print(f"  Will retry next run: {art['url']}", file=sys.stderr)
+    else:
         print("Nothing new this run.")
-        return
-
-    ai_results, failed_urls = summarize_all(new_articles)
-
-    for art in new_articles:
-        if art["url"] in failed_urls:
-            summary = art["text"][:400].strip() + "…"
-            label = "⚠️ Unfiltered (AI unavailable)"
-            ai_iocs = []
-        else:
-            ai = ai_results.get(art["url"])
-            if not ai or not ai.get("relevant"):
-                sent[art["url"]] = datetime.now(timezone.utc).isoformat()
-                continue
-            summary = ai.get("summary", "")
-            ai_iocs = ai.get("iocs", [])
-            cat_key = ai.get("category")
-            label = CATEGORIES.get(cat_key, (None, cat_key or "Flagged"))[1]
-
-        all_iocs = sorted(set(ai_iocs) | set(extract_iocs_regex(art["text"])))
-        title = f"[{label}] {art['title']}"
-        body = summary
-        if all_iocs:
-            body += "\n\nIOCs: " + ", ".join(all_iocs[:15])
-
-        if send_ntfy(title, body, art["url"]):
-            sent[art["url"]] = datetime.now(timezone.utc).isoformat()
-        else:
-            print(f"  Will retry next run: {art['url']}", file=sys.stderr)
 
     save_sent(sent)
+    maybe_send_digest(digest_state)
+    save_digest_state(digest_state)
 
 
 if __name__ == "__main__":
