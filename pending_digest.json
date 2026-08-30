@@ -1,4 +1,35 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Thousands of Hacked WordPress Sites, One Operation: Unmasking StopAndProtect",
+      "url": "https://research.checkpoint.com/2026/thousands-of-hacked-wordpress-sites-one-operation-unmasking-stopandprotect/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/unc6671-targets-financial-services-and-enterprise-cloud-environments/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Balonx Sistema: El Rostro Detr\u00e1s del PhaaS que Impacta la Banca Mexicana",
+      "url": "https://www.group-ib.com/blog/balonx-sistema-mexico-phaas-es/"
+    },
+    {
+      "category": "new_technique",
+      "title": "When AI infrastructure becomes the target: Securing gateways and control points",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain",
+      "url": "https://unit42.paloaltonetworks.com/sdlc-supply-chain/"
+    }
+  ],
   "last_sent_date": "2026-08-30"
 }

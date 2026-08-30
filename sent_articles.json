@@ -758,5 +758,125 @@
   "https://www.recordedfuture.com/blog/ai-alert-filtering": {
     "ts": "2026-08-30T15:18:24.149181+00:00",
     "title": "Recorded Future Launches AI Alert Filtering"
+  },
+  "https://asec.ahnlab.com/en/95112/": {
+    "ts": "2026-08-30T19:13:51.805894+00:00",
+    "title": "July 2026 Threat Trend Report on Ransomware"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/inside-the-apac-malvertising-ecosystem": {
+    "ts": "2026-08-30T19:13:51.805915+00:00",
+    "title": "Inside APAC's malvertising ecosystem: How scams spread through social media ads"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/": {
+    "ts": "2026-08-30T19:13:52.030922+00:00",
+    "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage"
+  },
+  "https://research.checkpoint.com/2026/thousands-of-hacked-wordpress-sites-one-operation-unmasking-stopandprotect/": {
+    "ts": "2026-08-30T19:13:52.223362+00:00",
+    "title": "Thousands of Hacked WordPress Sites, One Operation: Unmasking StopAndProtect"
+  },
+  "https://blog.talosintelligence.com/choose-your-fighter-balancing-competing-requirements-to-select-models-for-your-ai-soc/": {
+    "ts": "2026-08-30T19:13:52.223373+00:00",
+    "title": "Choose your fighter: Balancing competing requirements to select models for your AI SOC"
+  },
+  "https://www.duskrise.com/2023/10/12/cve-2023-38831-exploited-by-pro-russia-hacking-groups-in-ru-ua-conflict-zone-for-credential-harvesting-operations/": {
+    "ts": "2026-08-30T19:13:52.421620+00:00",
+    "title": "CVE-2023-38831 Exploited by Pro-Russia Hacking Groups in RU-UA Conflict Zone for Credential Harvesting Operations"
+  },
+  "https://cofense.com/blog/you-re-invited-to-get-phished!-why-invitation-themed-emails-remain-effective": {
+    "ts": "2026-08-30T19:13:52.612065+00:00",
+    "title": "You're Invited to get Phished! Why Invitation-themed Emails Remain Effective"
+  },
+  "https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/": {
+    "ts": "2026-08-30T19:13:52.811534+00:00",
+    "title": "Teaching AI to Reason Through Detection Triage"
+  },
+  "https://www.cybereason.com/blog/identity-beyond-2026-incident-response-predictions": {
+    "ts": "2026-08-30T19:13:53.015688+00:00",
+    "title": "Identity & Beyond: 2026 Incident Response Predictions"
+  },
+  "https://cyble.com/blog/brand-impersonation-detection-takedown/": {
+    "ts": "2026-08-30T19:13:53.213975+00:00",
+    "title": "When the Attacker Wears Your Logo: Detecting and Taking Down Impersonation at AI Speed"
+  },
+  "https://www.darktrace.com/blog/ai-agents-securing-the-path-from-intent-to-action": {
+    "ts": "2026-08-30T19:13:53.213985+00:00",
+    "title": "Securing AI Agents: What NCSC Guidance Means for Security Teams"
+  },
+  "https://blog.eclecticiq.com/eclecticiq-mcp-server": {
+    "ts": "2026-08-30T19:13:53.213987+00:00",
+    "title": "EclecticIQ MCP Server: Connect your AI agents directly to your threat intelligence"
+  },
+  "https://www.forescout.com/blog/when-a-frontier-ai-model-breaks-the-law-who-is-accountable/": {
+    "ts": "2026-08-30T19:13:53.213990+00:00",
+    "title": "When a Frontier AI Model Breaks the Law, Who Is Accountable?"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/unc6671-targets-financial-services-and-enterprise-cloud-environments/": {
+    "ts": "2026-08-30T19:13:53.405818+00:00",
+    "title": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
+  },
+  "https://www.group-ib.com/blog/balonx-sistema-mexico-phaas-es/": {
+    "ts": "2026-08-30T19:13:53.606279+00:00",
+    "title": "Balonx Sistema: El Rostro Detr\u00e1s del PhaaS que Impacta la Banca Mexicana"
+  },
+  "https://www.helpnetsecurity.com/2026/08/28/android-17-network-security-features/": {
+    "ts": "2026-08-30T19:13:53.799092+00:00",
+    "title": "Android 17 adds new protections against sneaky Wi-Fi tracking and web snooping"
+  },
+  "https://threatresearch.ext.hp.com/tpm-guard-advancing-endpoint-protection-against-physical-attacks/": {
+    "ts": "2026-08-30T19:13:53.989754+00:00",
+    "title": "Advancing Endpoint Protection Against Physical Attacks: The Innovation Behind HP TPM Guard"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/dropcatch-scavengers-expired-malicious-domains-become-cash-cows/": {
+    "ts": "2026-08-30T19:13:54.208326+00:00",
+    "title": "Dropcatch Scavengers: Expired Malicious Domains Become Cash Cows"
+  },
+  "https://lab52.io/blog/trends-in-radio-frequency-spectrum-activity-and-its-impact-on-the-geopolitical-landscape/": {
+    "ts": "2026-08-30T19:13:54.399286+00:00",
+    "title": "Trends in Radio Frequency Spectrum Activity and Its Impact on the Geopolitical Landscape"
+  },
+  "https://www.malwarebytes.com/blog/privacy/2026/08/flock-wants-privacy-to-meet-surveillance-halfway": {
+    "ts": "2026-08-30T19:13:54.593361+00:00",
+    "title": "Flock wants privacy to meet surveillance halfway"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/": {
+    "ts": "2026-08-30T19:13:54.786640+00:00",
+    "title": "When AI infrastructure becomes the target: Securing gateways and control points"
+  },
+  "https://moonlock.com/apple-changes-tracking-prompt-eu": {
+    "ts": "2026-08-30T19:13:54.786651+00:00",
+    "title": "Apple\u2019s anti-tracking prompt will change in the EU. Here\u2019s why."
+  },
+  "https://www.morphisec.com/blog/patch-faster-is-not-a-strategy-defending-the-window-attackers-already-own/": {
+    "ts": "2026-08-30T19:13:54.786653+00:00",
+    "title": "Patch Faster Is Not a Strategy: Defending the Window Attackers Already Own"
+  },
+  "https://unit42.paloaltonetworks.com/sdlc-supply-chain/": {
+    "ts": "2026-08-30T19:13:54.977797+00:00",
+    "title": "Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain"
+  },
+  "https://permiso.io/blog/gcp-servicedata-officially-deprecated-actively-dangerous": {
+    "ts": "2026-08-30T19:13:54.977825+00:00",
+    "title": "Mind the Gap: GCP serviceData in Logs Explorer vs. Exported Logs"
+  },
+  "https://blog.qualys.com/category/product-tech/vulnmgmt-detection-response": {
+    "ts": "2026-08-30T19:13:55.177570+00:00",
+    "title": "CVE-2026-69414 ShieldBreak Zero-Day: No Patch, and CISA BOD 26-04 Gives You 14 Days"
+  },
+  "https://www.rapid7.com/blog/post/tr-identity-as-a-service-dark-web-marketplaces-executive-ssn": {
+    "ts": "2026-08-30T19:13:55.369668+00:00",
+    "title": "Identity-as-a-Service: Uncovering Dark Web Marketplaces Trading Executive SSNs"
+  },
+  "https://www.recordedfuture.com/blog/mexico-cybersecurity-plan": {
+    "ts": "2026-08-30T19:13:55.560851+00:00",
+    "title": "Mexico\u2019s Cybersecurity Plan 2025-2030: Turning Ambition Into Defense"
+  },
+  "https://rewterz.com/threat-advisory/microsoft-entra-id-rce-flaw-exploited-in-the-wild": {
+    "ts": "2026-08-30T19:13:55.753349+00:00",
+    "title": "Microsoft Entra ID RCE Flaw Exploited in the Wild"
+  },
+  "https://securelist.com/vulnerabilities-and-exploits-in-q2-2026/121091/": {
+    "ts": "2026-08-30T19:13:55.948437+00:00",
+    "title": "Exploits and vulnerabilities in Q2 2026"
   }
 }
