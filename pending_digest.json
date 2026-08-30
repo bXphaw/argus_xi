@@ -29,6 +29,36 @@
       "category": "malware_linux",
       "title": "Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain",
       "url": "https://unit42.paloaltonetworks.com/sdlc-supply-chain/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Chrome Web Store extensions caught stealing crypto, browser data",
+      "url": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/"
+    },
+    {
+      "category": "poland",
+      "title": "17th August \u2013 Threat Intelligence Report",
+      "url": "https://research.checkpoint.com/2026/17th-august-threat-intelligence-report/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "When AI Becomes the Lure: A Fake Gemini Installer Delivers Vidar",
+      "url": "https://www.darktrace.com/blog/when-ai-becomes-the-lure-a-fake-gemini-installer-delivers-vidar"
+    },
+    {
+      "category": "new_technique",
+      "title": "Keyword lists: Stop re-entering the same organizational context across every workflow",
+      "url": "https://blog.eclecticiq.com/keyword-lists"
+    },
+    {
+      "category": "new_technique",
+      "title": "You Can\u2019t Detect an Improviser: Why Self-Learning AI Malware Ends the Detection Era",
+      "url": "https://www.morphisec.com/blog/you-cant-detect-an-improviser-why-self-learning-ai-malware-ends-the-detection-era/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Identity Abuse Through Trusted Communication Channels",
+      "url": "https://unit42.paloaltonetworks.com/communication-channel-identity-risks/"
     }
   ],
   "last_sent_date": "2026-08-30"

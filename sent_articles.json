@@ -878,5 +878,125 @@
   "https://securelist.com/vulnerabilities-and-exploits-in-q2-2026/121091/": {
     "ts": "2026-08-30T19:13:55.948437+00:00",
     "title": "Exploits and vulnerabilities in Q2 2026"
+  },
+  "https://asec.ahnlab.com/en/95040/": {
+    "ts": "2026-08-30T22:32:17.797345+00:00",
+    "title": "July 2026 Threat Trend Report on APT Groups"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/football-fever-fuels-scam-campaigns-across-email-and-social-media": {
+    "ts": "2026-08-30T22:34:52.400763+00:00",
+    "title": "Football Fever Fuels Scam Campaigns Across Email and Social Media"
+  },
+  "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/": {
+    "ts": "2026-08-30T22:34:52.659159+00:00",
+    "title": "Chrome Web Store extensions caught stealing crypto, browser data"
+  },
+  "https://research.checkpoint.com/2026/17th-august-threat-intelligence-report/": {
+    "ts": "2026-08-30T22:34:52.896796+00:00",
+    "title": "17th August \u2013 Threat Intelligence Report"
+  },
+  "https://blog.talosintelligence.com/the-safety-penalty-reclaiming-operational-sovereignty-in-the-age-of-ai/": {
+    "ts": "2026-08-30T22:34:52.896817+00:00",
+    "title": "The safety penalty: Reclaiming operational sovereignty in the age of AI"
+  },
+  "https://www.duskrise.com/2023/08/25/the-fraud-gala-exploring-a-recent-bec-campaign/": {
+    "ts": "2026-08-30T22:34:52.896822+00:00",
+    "title": "The Fraud Gala: Exploring a Recent BEC Campaign"
+  },
+  "https://cofense.com/blog/why-campaign-level-phishing-defense-is-the-future-of-email-security": {
+    "ts": "2026-08-30T22:34:53.140805+00:00",
+    "title": "Why Campaign-Level Phishing Defense Is the Future of Email Security"
+  },
+  "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/": {
+    "ts": "2026-08-30T22:34:53.398028+00:00",
+    "title": "August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs"
+  },
+  "https://cybersecuritynews.com/malvertising-is-moving-from-deceptive-content-to-weaponized-infrastructure/": {
+    "ts": "2026-08-30T22:34:53.637631+00:00",
+    "title": "Malvertising Is Moving From Deceptive Content to Weaponized Infrastructure"
+  },
+  "https://www.cybereason.com/blog/2025-mitre-attck-enterprise-evaluation": {
+    "ts": "2026-08-30T22:34:53.882786+00:00",
+    "title": "Cybereason Nails 2025 MITRE ATT&CK\u00ae Enterprise Evaluation"
+  },
+  "https://cyble.com/blog/brand-impersonation-takedown-managed-response/": {
+    "ts": "2026-08-30T22:34:54.129341+00:00",
+    "title": "Brand Impersonation Takedown: From Whack-a-Mole to Managed Response"
+  },
+  "https://www.darktrace.com/blog/when-ai-becomes-the-lure-a-fake-gemini-installer-delivers-vidar": {
+    "ts": "2026-08-30T22:34:54.374493+00:00",
+    "title": "When AI Becomes the Lure: A Fake Gemini Installer Delivers Vidar"
+  },
+  "https://blog.eclecticiq.com/keyword-lists": {
+    "ts": "2026-08-30T22:34:54.614479+00:00",
+    "title": "Keyword lists: Stop re-entering the same organizational context across every workflow"
+  },
+  "https://www.forescout.com/blog/new-tp-link-router-vulnerabilities-exploiting-zero-touch-provisioning/": {
+    "ts": "2026-08-30T22:34:54.614504+00:00",
+    "title": "New TP-Link Router Vulnerabilities: Exploiting Zero Touch Provisioning"
+  },
+  "https://gbhackers.com/critical-gogs-flaw-enables-remote-code-execution/": {
+    "ts": "2026-08-30T22:34:54.614508+00:00",
+    "title": "Critical Gogs Flaw Enables Remote Code Execution Through Path Traversal"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/mitigation-guidance-for-supply-chain-compromise/": {
+    "ts": "2026-08-30T22:34:54.614511+00:00",
+    "title": "Batten Down Your Packages: Mitigation Guidance for Supply Chain Compromise"
+  },
+  "https://www.group-ib.com/blog/one-adversary-fraud-network/": {
+    "ts": "2026-08-30T22:34:54.850864+00:00",
+    "title": "One Adversary: Fraud Is a Network, Not a Payment"
+  },
+  "https://www.helpnetsecurity.com/2026/08/28/manchester-airports-group-data-breach/": {
+    "ts": "2026-08-30T22:34:55.309953+00:00",
+    "title": "Manchester Airports Group breached, millions of customers\u2019 data stolen"
+  },
+  "https://threatresearch.ext.hp.com/hp-wolf-security-threat-insights-report-march-2026/": {
+    "ts": "2026-08-30T22:34:55.551331+00:00",
+    "title": "HP Wolf Security Threat Insights Report: March 2026"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/the-procurement-trap-inside-an-aitm-campaign-targeting-global-institutions/": {
+    "ts": "2026-08-30T22:34:55.787136+00:00",
+    "title": "The Procurement Trap: Inside an AiTM Campaign Targeting Global Institutions"
+  },
+  "https://lab52.io/blog/easterbunny/": {
+    "ts": "2026-08-30T22:34:56.385270+00:00",
+    "title": "EasterBunny: advanced espionage artifacts attributed to APT29"
+  },
+  "https://www.malwarebytes.com/blog/scams/2026/08/fake-listings-can-turn-trusted-platforms-into-scam-springboards": {
+    "ts": "2026-08-30T22:34:56.385289+00:00",
+    "title": "Fake listings can turn trusted platforms into scam springboards"
+  },
+  "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/": {
+    "ts": "2026-08-30T22:34:56.385293+00:00",
+    "title": "The patch window is collapsing: Why security needs a new control plane"
+  },
+  "https://moonlock.com/icloud-private-relay-lawsuit": {
+    "ts": "2026-08-30T22:34:56.385296+00:00",
+    "title": "Is iCloud Private Relay leaking your IP address? A lawsuit claims it is."
+  },
+  "https://www.morphisec.com/blog/you-cant-detect-an-improviser-why-self-learning-ai-malware-ends-the-detection-era/": {
+    "ts": "2026-08-30T22:34:56.619890+00:00",
+    "title": "You Can\u2019t Detect an Improviser: Why Self-Learning AI Malware Ends the Detection Era"
+  },
+  "https://unit42.paloaltonetworks.com/communication-channel-identity-risks/": {
+    "ts": "2026-08-30T22:34:56.864165+00:00",
+    "title": "Identity Abuse Through Trusted Communication Channels"
+  },
+  "https://permiso.io/blog/best-itdr-platform-hacker-news-cybersecurity-stars-2026": {
+    "ts": "2026-08-30T22:34:57.109490+00:00",
+    "title": "Permiso Wins Best Identity Threat Detection and Response (ITDR) Platform at the 2026 Cybersecurity Stars Awards"
+  },
+  "https://blog.qualys.com/category/vulnerabilities-threat-research": {
+    "ts": "2026-08-30T22:34:57.349344+00:00",
+    "title": "Oracle Critical Patch Update,\u00a0August\u00a02026 Security Update Review"
+  },
+  "https://www.rapid7.com/blog/post/ra-microsoft-sharepoint-remote-code-execution-cve-2026-63520": {
+    "ts": "2026-08-30T22:34:57.596002+00:00",
+    "title": "Rapid7 Analysis: Microsoft SharePoint Remote Code Execution (CVE-2026-63520)"
+  },
+  "https://www.recordedfuture.com/blog/native-risk-ratings": {
+    "ts": "2026-08-30T22:34:57.840267+00:00",
+    "title": "Recorded Future Launches 6 New Capabilities for Third-Party Risk"
   }
 }
