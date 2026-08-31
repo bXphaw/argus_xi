@@ -24,6 +24,36 @@
       "category": "apt_campaign",
       "title": "Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams",
       "url": "https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Beware of phishing emails disguised as requests to review quotes (PhantomStealer)",
+      "url": "https://asec.ahnlab.com/en/95000/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Windows and macOS Malware Spreads via Fake \u201cClaude Code\u201d Google Ads",
+      "url": "https://www.bitdefender.com/en-us/blog/labs/fake-claude-code-google-ads-malware"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Anthropic Users Hit by Infostealer Attacks, Session Thefts",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts"
+    },
+    {
+      "category": "new_technique",
+      "title": "HardBreacher Exploit Targets Kaspersky Endpoint Security Zero-Day for Windows 11 Privilege Escalation",
+      "url": "https://gbhackers.com/hardbreacher-exploit-targets-kaspersky-endpoint-security/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "The Permanent Threat: Analyzing Aeternum\u2019s Blockchain-Based C2 Operations and Communications",
+      "url": "https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/"
     }
   ],
   "last_sent_date": "2026-08-31"

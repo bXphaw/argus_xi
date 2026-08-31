@@ -1358,5 +1358,125 @@
   "https://securityaffairs.com/198183/apt/china-linked-fire-ant-hides-inside-trusted-infrastructure.html": {
     "ts": "2026-08-31T16:56:04.693109+00:00",
     "title": "China-linked Fire Ant Hides Inside Trusted Infrastructure"
+  },
+  "https://research.checkpoint.com/2026/31th-august-threat-intelligence-report/": {
+    "ts": "2026-08-31T21:49:22.843013+00:00",
+    "title": "31th August \u2013 Threat Intelligence Report"
+  },
+  "https://asec.ahnlab.com/en/95000/": {
+    "ts": "2026-08-31T21:51:45.071615+00:00",
+    "title": "Beware of phishing emails disguised as requests to review quotes (PhantomStealer)"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/fake-claude-code-google-ads-malware": {
+    "ts": "2026-08-31T21:51:45.189729+00:00",
+    "title": "Windows and macOS Malware Spreads via Fake \u201cClaude Code\u201d Google Ads"
+  },
+  "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/": {
+    "ts": "2026-08-31T21:51:45.189747+00:00",
+    "title": "Cronos blockchain restarts after $74 million Tectonic exploit"
+  },
+  "https://blog.talosintelligence.com/describing-attacks-with-crime-script-analysis/": {
+    "ts": "2026-08-31T21:51:45.189751+00:00",
+    "title": "Describing attacks with crime script analysis"
+  },
+  "https://www.duskrise.com/2022/11/07/sanctioned-deals-the-irano-russian-connection-under-ankaras-supervision-analysis-of-the-nppd-leak/": {
+    "ts": "2026-08-31T21:51:45.189754+00:00",
+    "title": "Sanctioned deals: the Irano-Russian connection under Ankara\u2019s supervision. Analysis of the NPPD leak"
+  },
+  "https://cofense.com/blog/when-routine-becomes-the-threat-the-evolution-of-finance-themed-phishing": {
+    "ts": "2026-08-31T21:51:45.303032+00:00",
+    "title": "When Routine Becomes the Threat: The Evolution of Finance-Themed Phishing"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/": {
+    "ts": "2026-08-31T21:51:45.408881+00:00",
+    "title": "CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates"
+  },
+  "https://cybersecuritynews.com/microsof-new-exchange-online/": {
+    "ts": "2026-08-31T21:51:45.513109+00:00",
+    "title": "Microsoft Investigating New Exchange Online Outage Tracked as EX1464935 [Updated]"
+  },
+  "https://www.cybereason.com/blog/tangerine-turkey": {
+    "ts": "2026-08-31T21:51:45.624021+00:00",
+    "title": "From Scripts to Systems: A Comprehensive Look at Tangerine Turkey Operations"
+  },
+  "https://cyble.com/blog/72-hour-timeline-credential-based-cyberattack/": {
+    "ts": "2026-08-31T21:51:45.734925+00:00",
+    "title": "From Stolen Credentials to Full Breach: The 72-Hour Timeline"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts": {
+    "ts": "2026-08-31T21:51:45.860090+00:00",
+    "title": "Anthropic Users Hit by Infostealer Attacks, Session Thefts"
+  },
+  "https://www.darktrace.com/blog/when-ai-infrastructure-becomes-part-of-the-attack-surface": {
+    "ts": "2026-08-31T21:51:45.860105+00:00",
+    "title": "When AI Infrastructure Becomes Part of the Attack Surface"
+  },
+  "https://blog.eclecticiq.com/customer-case-study-how-intelligence-center-helps-cti-teams-cut-through-noise-and-act-with-confidence": {
+    "ts": "2026-08-31T21:51:45.860109+00:00",
+    "title": "Customer case study: How Intelligence Center\u2122 helps CTI teams cut through noise and act with confidence"
+  },
+  "https://www.forescout.com/blog/uztna-the-evolution-of-network-access-control/": {
+    "ts": "2026-08-31T21:51:45.860111+00:00",
+    "title": "UZTNA: the Evolution of Network Access Control"
+  },
+  "https://gbhackers.com/hardbreacher-exploit-targets-kaspersky-endpoint-security/": {
+    "ts": "2026-08-31T21:51:46.000811+00:00",
+    "title": "HardBreacher Exploit Targets Kaspersky Endpoint Security Zero-Day for Windows 11 Privilege Escalation"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/": {
+    "ts": "2026-08-31T21:51:46.114615+00:00",
+    "title": "The \u2018Ghost\u2019 in the Database: Recovering Active ADFS Signing Keys via Machine DPAPI"
+  },
+  "https://www.group-ib.com/blog/windrelay-nfc-spynote-rat-combo-fraud/": {
+    "ts": "2026-08-31T21:51:46.255943+00:00",
+    "title": "Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme"
+  },
+  "https://www.helpnetsecurity.com/2026/08/31/papercut-attack-remote-access-tools/": {
+    "ts": "2026-08-31T21:51:46.360502+00:00",
+    "title": "Attackers plant remote access tools on compromised PaperCut servers"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/residential-proxies-in-the-wild/": {
+    "ts": "2026-08-31T21:51:46.484020+00:00",
+    "title": "Residential Proxies in the Wild"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/08/new-instagram-and-facebook-rules-will-set-a-default-two-hour-daily-limit-for-teens": {
+    "ts": "2026-08-31T21:51:46.599432+00:00",
+    "title": "New Instagram and Facebook rules set a default two-hour limit for teens"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/": {
+    "ts": "2026-08-31T21:51:46.718990+00:00",
+    "title": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure"
+  },
+  "https://moonlock.com/anydesk-scams": {
+    "ts": "2026-08-31T21:51:46.719007+00:00",
+    "title": "AnyDesk scams: How fraudsters turn legitimate software into a scam"
+  },
+  "https://www.morphisec.com/blog/from-alert-fatigue-to-ai-assisted-decision-making/": {
+    "ts": "2026-08-31T21:51:46.719012+00:00",
+    "title": "From Alert Fatigue to AI-Assisted Decision Making"
+  },
+  "https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/": {
+    "ts": "2026-08-31T21:51:46.844398+00:00",
+    "title": "The Permanent Threat: Analyzing Aeternum\u2019s Blockchain-Based C2 Operations and Communications"
+  },
+  "https://permiso.io/blog/introducing-sandyclaw-dynamic-sandbox-ai-agent-skills": {
+    "ts": "2026-08-31T21:51:46.844415+00:00",
+    "title": "Introducing SandyClaw - The First Dynamic Sandbox for AI Agent Skills and Prompts"
+  },
+  "https://www.rapid7.com/blog/post/tr-operation-asterix-crypto-fraud-vishing-phishing": {
+    "ts": "2026-08-31T21:51:46.959001+00:00",
+    "title": "Operation ASTERIX: Anatomy of a Crypto Fraud Pipeline"
+  },
+  "https://www.recordedfuture.com/blog/mines-minds-machines": {
+    "ts": "2026-08-31T21:51:47.078038+00:00",
+    "title": "Mines, Minds, and Machines: The Journey of AI"
+  },
+  "https://rewterz.com/threat-advisory/wordpress-plugin-flaw-exposes-400k-sites-to-account-takeover": {
+    "ts": "2026-08-31T21:51:47.184647+00:00",
+    "title": "WordPress Plugin Flaw Exposes 400K Sites to Account Takeover"
+  },
+  "https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/": {
+    "ts": "2026-08-31T21:51:47.310012+00:00",
+    "title": "APT group HoneyMyte upgrades CoolClient: the backdoor gets a kernel-level Windows rootkit"
   }
 }
