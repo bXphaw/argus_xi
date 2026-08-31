@@ -1118,5 +1118,125 @@
   "https://rewterz.com/threat-advisory/macos-screen-sharing-flaw-actively-exploited": {
     "ts": "2026-08-31T01:15:56.552946+00:00",
     "title": "macOS Screen Sharing Flaw Actively Exploited"
+  },
+  "https://asec.ahnlab.com/en/94968/": {
+    "ts": "2026-08-31T08:22:20.899325+00:00",
+    "title": "Ransom & Dark Web Issues Week 2, August 2026"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/operation-road-trap": {
+    "ts": "2026-08-31T08:24:52.457938+00:00",
+    "title": "Operation Road Trap: Fake toll and parking texts are spreading worldwide"
+  },
+  "https://research.checkpoint.com/2026/shattering-the-dream-when-a-job-offer-becomes-a-zero-day-attack/": {
+    "ts": "2026-08-31T08:24:52.602570+00:00",
+    "title": "Shattering the Dream \u2013 When a Job Offer Becomes a Zero-Day Attack"
+  },
+  "https://blog.talosintelligence.com/uat-10147-deploys-spectre-a-cross-platform-implant-with-linux-rootkit-and-byovd-capabilities/": {
+    "ts": "2026-08-31T08:24:52.723582+00:00",
+    "title": "UAT-10147 deploys SPECTRE: A cross-platform implant with Linux rootkit and BYOVD capabilities"
+  },
+  "https://www.duskrise.com/2023/05/02/cluster25-has-become-partner-of-dns0-project/": {
+    "ts": "2026-08-31T08:24:52.723610+00:00",
+    "title": "Cluster25 has become partner of DNS0 Project"
+  },
+  "https://cofense.com/blog/5-key-takeaways-from-the-cofense-2026-mid-year-threat-report-webinar": {
+    "ts": "2026-08-31T08:24:52.723615+00:00",
+    "title": "5 Key Takeaways from the Cofense 2026 Mid-Year Threat Report Webinar"
+  },
+  "https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/": {
+    "ts": "2026-08-31T08:24:52.857749+00:00",
+    "title": "Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery"
+  },
+  "https://cybersecuritynews.com/composer-flaw-expose-ssh-keys/": {
+    "ts": "2026-08-31T08:24:52.988200+00:00",
+    "title": "Composer Flaw Lets Malicious Dependencies Expose SSH Keys and Sensitive Files"
+  },
+  "https://www.cybereason.com/blog/the-gentlemen-ransomware": {
+    "ts": "2026-08-31T08:24:53.123039+00:00",
+    "title": "License to Encrypt: \u201cThe Gentlemen\u201d Make Their Move"
+  },
+  "https://cyble.com/blog/ransomware-incident-response-plan/": {
+    "ts": "2026-08-31T08:24:53.258518+00:00",
+    "title": "Ransomware Now Shows Up in Nearly Half of All Breaches: A Survival Playbook for Lean Security Teams"
+  },
+  "https://www.darktrace.com/blog/when-guardrails-break-why-securing-ai-requires-behavioral-detection-and-autonomous-containment": {
+    "ts": "2026-08-31T08:24:53.405680+00:00",
+    "title": "When Guardrails Break: Why Securing AI Requires Behavioral Detection and Autonomous Containment"
+  },
+  "https://blog.eclecticiq.com/why-doctrine-is-becoming-a-technology-requirement-for-modern-defense-intelligence": {
+    "ts": "2026-08-31T08:24:53.405706+00:00",
+    "title": "Why doctrine is becoming a technology requirement for modern defense intelligence"
+  },
+  "https://www.forescout.com/blog/japans-2026-cyber-threat-landscape-risks-threats-and-guidance/": {
+    "ts": "2026-08-31T08:24:53.405710+00:00",
+    "title": "Japan\u2019s 2026 Cyber Threat Landscape: Risks, Threats, and Guidance"
+  },
+  "https://gbhackers.com/d-link-dir-x1860z-flaws/": {
+    "ts": "2026-08-31T08:24:53.405714+00:00",
+    "title": "D-Link DIR-X1860Z Flaws Enable Unauthenticated Admin Password Reset and Wi-Fi Credential Theft"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerability-management/": {
+    "ts": "2026-08-31T08:24:53.405718+00:00",
+    "title": "Demystifying AI Exploits: A Blueprint for AI-Assisted Vulnerability Management"
+  },
+  "https://www.group-ib.com/blog/15-minute-problem/": {
+    "ts": "2026-08-31T08:24:53.405722+00:00",
+    "title": "One Adversary: The Fifteen-Minute Problem"
+  },
+  "https://www.helpnetsecurity.com/2026/08/31/debian-linux-llm-policy/": {
+    "ts": "2026-08-31T08:24:53.542329+00:00",
+    "title": "Debian developers rejected an LLM ban and left disclosure voluntary"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/from-san-pedro-to-salinas-how-a-chinese-framework-dcloud-uni-app-powers-a-global-scam-economy/": {
+    "ts": "2026-08-31T08:24:53.685538+00:00",
+    "title": "From San Pedro to Salinas: How a Chinese Framework \u201cDCloud Uni-App\u201d Powers a Global Scam Economy"
+  },
+  "https://lab52.io/blog/plugx-meeting-invitation-via-msbuild-and-gdata/": {
+    "ts": "2026-08-31T08:24:53.814854+00:00",
+    "title": "PlugX Meeting Invitation via MSBuild and GDATA"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-august-24-august-30": {
+    "ts": "2026-08-31T08:24:53.967176+00:00",
+    "title": "A week in security (August 24 \u2013 August 30)"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/": {
+    "ts": "2026-08-31T08:24:54.104832+00:00",
+    "title": "Hunting MacSync Stealer infrastructure through behavioral pivots"
+  },
+  "https://moonlock.com/ticketmaster-scams": {
+    "ts": "2026-08-31T08:24:54.104855+00:00",
+    "title": "Is Ticketmaster legit? Common scams and what buyers should know"
+  },
+  "https://www.morphisec.com/blog/the-breakouts-are-routine-now-why-ai-usage-controland-preemptive-defense-cannot-wait/": {
+    "ts": "2026-08-31T08:24:54.104859+00:00",
+    "title": "The Breakouts Are Routine Now: Why AI Usage Control and Preemptive Defense Cannot Wait"
+  },
+  "https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/": {
+    "ts": "2026-08-31T08:24:54.236984+00:00",
+    "title": "Kimwolf v7: An Evolution of the Kimwolf Botnet"
+  },
+  "https://permiso.io/blog/why-we-built-identity-runtime-attribution-for-ai-agents": {
+    "ts": "2026-08-31T08:24:54.237011+00:00",
+    "title": "Why We Built Identity Runtime Attribution for AI Agents"
+  },
+  "https://www.rapid7.com/blog/post/c-licencias-online-partnership-accelerates-latam-cybersecurity-maturity-latin-america": {
+    "ts": "2026-08-31T08:24:54.237016+00:00",
+    "title": "Rapid7 and Licencias OnLine Partner to Accelerate Cybersecurity Maturity across Latin America"
+  },
+  "https://www.recordedfuture.com/blog/copycop-targets-ai-investment": {
+    "ts": "2026-08-31T08:24:54.363611+00:00",
+    "title": "CopyCop Targets AI Investment in Armenia"
+  },
+  "https://rewterz.com/threat-advisory/google-fixes-critical-chrome-webgl-and-dawn-flaws": {
+    "ts": "2026-08-31T08:24:54.491039+00:00",
+    "title": "Google Fixes Critical Chrome WebGL and Dawn Flaws"
+  },
+  "https://securelist.com/android-head-unit-malware/121106/": {
+    "ts": "2026-08-31T08:24:54.631082+00:00",
+    "title": "The invisible passenger in your car"
+  },
+  "https://securityaffairs.com/198156/security/critical-givewp-flaw-lets-attackers-run-commands-on-wordpress-servers.html": {
+    "ts": "2026-08-31T08:24:54.757865+00:00",
+    "title": "Critical GiveWP Flaw Lets Attackers Run Commands on WordPress Servers"
   }
 }
