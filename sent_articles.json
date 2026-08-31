@@ -1238,5 +1238,125 @@
   "https://securityaffairs.com/198156/security/critical-givewp-flaw-lets-attackers-run-commands-on-wordpress-servers.html": {
     "ts": "2026-08-31T08:24:54.757865+00:00",
     "title": "Critical GiveWP Flaw Lets Attackers Run Commands on WordPress Servers"
+  },
+  "https://cyble.com/blog/ransomware-threats-in-europe-h1-2026/": {
+    "ts": "2026-08-31T16:53:39.623269+00:00",
+    "title": "Ransomware Threats in Europe H1 2026: A Deep Dive into Regional Attack Patterns and Dominant Threat Actors"
+  },
+  "https://asec.ahnlab.com/en/95066/": {
+    "ts": "2026-08-31T16:56:03.243333+00:00",
+    "title": "July 2026 Infostealer Trend Report"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/windsurf-extension-malware-solana": {
+    "ts": "2026-08-31T16:56:03.362448+00:00",
+    "title": "Windsurf IDE Extension Drops Malware via Solana Blockchain"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/": {
+    "ts": "2026-08-31T16:56:03.362468+00:00",
+    "title": "OpenAI confirms ChatGPT outage as users report errors"
+  },
+  "https://research.checkpoint.com/2026/breaking-the-seal-static-deobfuscation-of-jsceals-compiled-v8-bytecode/": {
+    "ts": "2026-08-31T16:56:03.362473+00:00",
+    "title": "Breaking the Seal: Static Deobfuscation of JSCeal\u2019s Compiled V8 Bytecode"
+  },
+  "https://blog.talosintelligence.com/uat-10147-chinese-speaking-adversary-integrates-agentic-ai-into-post-compromise-operations/": {
+    "ts": "2026-08-31T16:56:03.473126+00:00",
+    "title": "UAT-10147: Chinese-speaking adversary integrates agentic AI into post-compromise operations"
+  },
+  "https://www.duskrise.com/2022/12/22/an-infostealer-comes-to-town-dissecting-a-highly-evasive-malware-targeting-italy/": {
+    "ts": "2026-08-31T16:56:03.578964+00:00",
+    "title": "An infostealer comes to town:\u00a0Dissecting a highly evasive malware targeting Italy"
+  },
+  "https://cofense.com/blog/click-to-sync-from-google-ads-maintenance-notice-to-credential-theft": {
+    "ts": "2026-08-31T16:56:03.637268+00:00",
+    "title": "Click to Sync: From Google Ads Maintenance Notice to Credential Theft"
+  },
+  "https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/": {
+    "ts": "2026-08-31T16:56:03.689501+00:00",
+    "title": "Secure Agent Harness Execution: Preventing Escape"
+  },
+  "https://cybersecuritynews.com/broadcom-vmware-ai-factory/": {
+    "ts": "2026-08-31T16:56:03.743029+00:00",
+    "title": "Broadcom Launches VMware AI Factory to Secure Enterprise AI Agents"
+  },
+  "https://www.cybereason.com/blog/tycoon-phishing-kit-analysis": {
+    "ts": "2026-08-31T16:56:03.800820+00:00",
+    "title": "Tycoon 2FA Phishing Kit Analysis"
+  },
+  "https://www.darktrace.com/blog/hiding-in-plain-sight-uncovering-a-multi-stage-ransomware-attack-through-behavioral-detection": {
+    "ts": "2026-08-31T16:56:03.800829+00:00",
+    "title": "Uncovering a Multi-Stage Ransomware Attack Through Behavioral Detection"
+  },
+  "https://blog.eclecticiq.com/the-escalating-cyber-risk-landscape-in-regional-conflicts-strategic-actions-for-2026": {
+    "ts": "2026-08-31T16:56:03.800833+00:00",
+    "title": "The Escalating Cyber Risk Landscape in Regional Conflicts & Strategic Actions for 2026"
+  },
+  "https://www.forescout.com/blog/beyond-ztna-7-reasons-to-go-universal/": {
+    "ts": "2026-08-31T16:56:03.800836+00:00",
+    "title": "Beyond ZTNA: 7 Reasons to Go Universal"
+  },
+  "https://gbhackers.com/cursor-ai-powered-ransomware/": {
+    "ts": "2026-08-31T16:56:03.863225+00:00",
+    "title": "Aurora Ransomware Hackers Use Cursor AI Agent for Hands-On Exploitation and ESXi Attacks"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/exposed-cloud-functions-harden/": {
+    "ts": "2026-08-31T16:56:03.863242+00:00",
+    "title": "The Risk of Exposed Cloud Functions and How to Harden"
+  },
+  "https://www.group-ib.com/blog/brazetsu-ai-enhanced-iab-marketplace/": {
+    "ts": "2026-08-31T16:56:03.927402+00:00",
+    "title": "Anatomy of BraZetsu: How Cybercriminals Fuel the Underground Ecosystem"
+  },
+  "https://www.helpnetsecurity.com/2026/08/31/ai-crawlers-scan-exposed-credentials/": {
+    "ts": "2026-08-31T16:56:03.982971+00:00",
+    "title": "Threat actors are posing as AI crawlers to hunt for exposed credentials"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/hot-take-operation-endgame-vs-socgholish/": {
+    "ts": "2026-08-31T16:56:04.069152+00:00",
+    "title": "Hot Take: Operation Endgame VS SocGholish"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/08/mckesson-confirms-cyber-incident-after-shinyhunters-claims-patient-data-theft": {
+    "ts": "2026-08-31T16:56:04.194773+00:00",
+    "title": "McKesson confirms cyber incident after ShinyHunters claims patient-data theft"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/": {
+    "ts": "2026-08-31T16:56:04.332697+00:00",
+    "title": "Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise"
+  },
+  "https://moonlock.com/fiverr-scams": {
+    "ts": "2026-08-31T16:56:04.332712+00:00",
+    "title": "8 common Fiverr scams: What they look like and how to avoid them"
+  },
+  "https://www.morphisec.com/blog/revstealer-silence-is-its-greatest-weapon/": {
+    "ts": "2026-08-31T16:56:04.393315+00:00",
+    "title": "RevStealer Is Built to Be Silent"
+  },
+  "https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/": {
+    "ts": "2026-08-31T16:56:04.481490+00:00",
+    "title": "Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams"
+  },
+  "https://permiso.io/blog/ai-agent-runtime-security": {
+    "ts": "2026-08-31T16:56:04.481507+00:00",
+    "title": "Permiso Brings Identity Runtime Attribution to AI Agents with Discover, Protect, and Defend"
+  },
+  "https://www.rapid7.com/blog/post/tr-new-report-ai-threats-q2-2026-ends-traditional-patch-cycles": {
+    "ts": "2026-08-31T16:56:04.481511+00:00",
+    "title": "New Report: AI threats are here. Why Q2 2026 signals the end of traditional patch cycles"
+  },
+  "https://www.recordedfuture.com/research/malware-crypting-services-threat-actors": {
+    "ts": "2026-08-31T16:56:04.540671+00:00",
+    "title": "Malware Crypting Services and the Threat Actors Who Sell Them"
+  },
+  "https://rewterz.com/threat-advisory/cisa-warns-of-exploited-linux-kernel-flaw-2": {
+    "ts": "2026-08-31T16:56:04.590601+00:00",
+    "title": "CISA Warns of Exploited Linux Kernel Flaw"
+  },
+  "https://securelist.com/valleyrat-backdoor-adware/121175/": {
+    "ts": "2026-08-31T16:56:04.644320+00:00",
+    "title": "ValleyRAT masquerading as adware"
+  },
+  "https://securityaffairs.com/198183/apt/china-linked-fire-ant-hides-inside-trusted-infrastructure.html": {
+    "ts": "2026-08-31T16:56:04.693109+00:00",
+    "title": "China-linked Fire Ant Hides Inside Trusted Infrastructure"
   }
 }

@@ -1,4 +1,30 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "Windsurf IDE Extension Drops Malware via Solana Blockchain",
+      "url": "https://www.bitdefender.com/en-us/blog/labs/windsurf-extension-malware-solana"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "UAT-10147: Chinese-speaking adversary integrates agentic AI into post-compromise operations",
+      "url": "https://blog.talosintelligence.com/uat-10147-chinese-speaking-adversary-integrates-agentic-ai-into-post-compromise-operations/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Aurora Ransomware Hackers Use Cursor AI Agent for Hands-On Exploitation and ESXi Attacks",
+      "url": "https://gbhackers.com/cursor-ai-powered-ransomware/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "RevStealer Is Built to Be Silent",
+      "url": "https://www.morphisec.com/blog/revstealer-silence-is-its-greatest-weapon/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams",
+      "url": "https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/"
+    }
+  ],
   "last_sent_date": "2026-08-31"
 }
