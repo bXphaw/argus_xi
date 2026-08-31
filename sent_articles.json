@@ -998,5 +998,125 @@
   "https://www.recordedfuture.com/blog/native-risk-ratings": {
     "ts": "2026-08-30T22:34:57.840267+00:00",
     "title": "Recorded Future Launches 6 New Capabilities for Third-Party Risk"
+  },
+  "https://asec.ahnlab.com/en/95046/": {
+    "ts": "2026-08-31T01:13:35.890085+00:00",
+    "title": "Ransom & Dark Web Issues Week 3, August 2026"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/microsofts-mshta-legacy-malware-windows": {
+    "ts": "2026-08-31T01:15:54.806869+00:00",
+    "title": "Microsoft\u2019s MSHTA Legacy Tool Still Powers Malware Campaigns on Windows"
+  },
+  "https://research.checkpoint.com/2026/the-state-of-ransomware-q2-2026/": {
+    "ts": "2026-08-31T01:15:54.806892+00:00",
+    "title": "The State of Ransomware Q2 2026"
+  },
+  "https://blog.talosintelligence.com/is-cyber-missing-the-marque/": {
+    "ts": "2026-08-31T01:15:54.871358+00:00",
+    "title": "Is Cyber missing the Marque?"
+  },
+  "https://www.duskrise.com/2023/05/22/back-in-black-blackbyte-ransomware-returns-with-its-new-technology-nt-version/": {
+    "ts": "2026-08-31T01:15:54.976983+00:00",
+    "title": "Back in Black: BlackByte Ransomware returns with its New Technology (NT) version"
+  },
+  "https://cofense.com/blog/the-evolution-of-remote-access-tool-abuse": {
+    "ts": "2026-08-31T01:15:54.977006+00:00",
+    "title": "The Evolution of Remote Access Tool Abuse: From Single Payloads to Multi-Stage Campaigns"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/": {
+    "ts": "2026-08-31T01:15:55.044804+00:00",
+    "title": "CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX"
+  },
+  "https://cybersecuritynews.com/700-ai-agents-coordinated-to-hack-hugging-face/": {
+    "ts": "2026-08-31T01:15:55.106638+00:00",
+    "title": "700 AI Agents Secretly Coordinated to Hack Hugging Face After Breaking Their Isolation"
+  },
+  "https://www.cybereason.com/blog/cve-2025-55182-rce-vulnerability": {
+    "ts": "2026-08-31T01:15:55.166451+00:00",
+    "title": "CVE-2025-55182: Critical Vulnerability, React2Shell, Allows for Unauthenticated RCE"
+  },
+  "https://cyble.com/blog/ransomware-threats-in-america-h1-2026/": {
+    "ts": "2026-08-31T01:15:55.232805+00:00",
+    "title": "Ransomware Threats in the Americas H1 2026: Dissecting the Regional Attack Patterns and Dominant Actors"
+  },
+  "https://www.darktrace.com/blog/when-ai-agents-go-off-script-what-the-openai-and-hugging-face-incident-means-for-defenders": {
+    "ts": "2026-08-31T01:15:55.294270+00:00",
+    "title": "What the OpenAI and Hugging Face Incident Means for Defenders"
+  },
+  "https://blog.eclecticiq.com/the-ai-arms-race-how-adversaries-are-weaponizing-ai-for-speed-and-scale": {
+    "ts": "2026-08-31T01:15:55.294288+00:00",
+    "title": "The AI Arms Race:\u00a0How Adversaries are Weaponizing AI for Speed and Scale"
+  },
+  "https://www.forescout.com/blog/minnesota-water-utility-attacks-reveal-major-ot-security-gaps/": {
+    "ts": "2026-08-31T01:15:55.294293+00:00",
+    "title": "Minnesota, US Water Utility Attacks Reveal Major OT Security Gaps"
+  },
+  "https://gbhackers.com/hackers-use-fake-cloudflare-captcha/": {
+    "ts": "2026-08-31T01:15:55.355230+00:00",
+    "title": "Hackers Use Fake Cloudflare CAPTCHA to Deploy TerminalFix Reverse Tunnel"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/": {
+    "ts": "2026-08-31T01:15:55.355249+00:00",
+    "title": "Updated Cyber Threat Actor Naming System"
+  },
+  "https://www.group-ib.com/blog/balonx-sistema-mexico-phaas/": {
+    "ts": "2026-08-31T01:15:55.417086+00:00",
+    "title": "Balonx Sistema: The Face Behind the PhaaS Affecting Mexican Banking"
+  },
+  "https://www.helpnetsecurity.com/2026/08/28/prasad-tharippala-versa-securing-ai-agents/": {
+    "ts": "2026-08-31T01:15:55.478974+00:00",
+    "title": "What 90 days and a small budget can buy in AI agent security"
+  },
+  "https://threatresearch.ext.hp.com/reviewing-zero-day-vulnerabilities-exploited-in-malware-campaigns-in-2025/": {
+    "ts": "2026-08-31T01:15:56.065527+00:00",
+    "title": "Reviewing Zero-day Vulnerabilities Exploited in Malware Campaigns in 2025"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/fake-installers-fake-reviews-fake-services-real-proxies-real-victims/": {
+    "ts": "2026-08-31T01:15:56.159853+00:00",
+    "title": "Fake Installers, Fake Reviews, Fake Services \u2013 Real Proxies, Real Victims"
+  },
+  "https://lab52.io/blog/drillapp-new-backdoor-targeting-ukrainian-entities-with-possible-links-to-laundry-bear/": {
+    "ts": "2026-08-31T01:15:56.232292+00:00",
+    "title": "DRILLAPP: new backdoor targeting Ukrainian entities with possible links to Laundry Bear"
+  },
+  "https://www.malwarebytes.com/blog/scams/2026/08/fake-apple-pay-charge-brings-the-classic-tech-support-scam-to-your-phone": {
+    "ts": "2026-08-31T01:15:56.301991+00:00",
+    "title": "Fake Apple Pay charge brings the classic tech support scam to your phone"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/": {
+    "ts": "2026-08-31T01:15:56.302009+00:00",
+    "title": "Microsoft named a Leader in the Frost Radar\u2122: Cloud Workload Protection Platforms, 2026"
+  },
+  "https://moonlock.com/whatsapp-hacked": {
+    "ts": "2026-08-31T01:15:56.302014+00:00",
+    "title": "Can your WhatsApp be hacked? Here\u2019s why you might be at risk"
+  },
+  "https://www.morphisec.com/blog/how-to-prevent-fileless-malware-attacks-a-practical-guide-for-security-teams/": {
+    "ts": "2026-08-31T01:15:56.302018+00:00",
+    "title": "How to Prevent Fileless Malware Attacks: A Practical Guide for Security Teams"
+  },
+  "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/": {
+    "ts": "2026-08-31T01:15:56.365396+00:00",
+    "title": "Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)"
+  },
+  "https://permiso.io/blog/chatgpt-markdown-rendering-vulnerability": {
+    "ts": "2026-08-31T01:15:56.430049+00:00",
+    "title": "ChatGPhish: The Page Is the Payload"
+  },
+  "https://blog.qualys.com/category/misc": {
+    "ts": "2026-08-31T01:15:56.430070+00:00",
+    "title": "Why API Discovery Is Critical for Modern AppSec Programs"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-19490-critical-vulnerability-affecting-citrix-netscaler-adc-and-netscaler-gateway": {
+    "ts": "2026-08-31T01:15:56.430075+00:00",
+    "title": "CVE-2026-19490: Critical Vulnerability Affecting Citrix NetScaler ADC and NetScaler Gateway"
+  },
+  "https://www.recordedfuture.com/research/purpledelta-fraudulent-employment-operations": {
+    "ts": "2026-08-31T01:15:56.493860+00:00",
+    "title": "PurpleDelta's Fraudulent Employment Operations"
+  },
+  "https://rewterz.com/threat-advisory/macos-screen-sharing-flaw-actively-exploited": {
+    "ts": "2026-08-31T01:15:56.552946+00:00",
+    "title": "macOS Screen Sharing Flaw Actively Exploited"
   }
 }
