@@ -1478,5 +1478,125 @@
   "https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/": {
     "ts": "2026-08-31T21:51:47.310012+00:00",
     "title": "APT group HoneyMyte upgrades CoolClient: the backdoor gets a kernel-level Windows rootkit"
+  },
+  "https://research.checkpoint.com/2026/10th-august-threat-intelligence-report/": {
+    "ts": "2026-09-01T01:06:40.227873+00:00",
+    "title": "10th August \u2013 Threat Intelligence Report"
+  },
+  "https://asec.ahnlab.com/en/94912/": {
+    "ts": "2026-09-01T01:09:15.497125+00:00",
+    "title": "July 2026 Dark Web Breach Incident Trend Report"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/global-investment-scam-network-using-meta-ads": {
+    "ts": "2026-09-01T01:09:15.497150+00:00",
+    "title": "Global Scam Machines: Inside a Meta-Powered Investment Fraud Ecosystem Spanning 25 Countries"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/": {
+    "ts": "2026-09-01T01:09:15.641144+00:00",
+    "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels"
+  },
+  "https://blog.talosintelligence.com/curiouser-and-curiouser/": {
+    "ts": "2026-09-01T01:09:15.693584+00:00",
+    "title": "Curiouser and Curiouser"
+  },
+  "https://www.duskrise.com/2022/09/23/in-the-footsteps-of-the-fancy-bear-powerpoint-mouse-over-event-abused-to-deliver-graphite-implants/": {
+    "ts": "2026-09-01T01:09:15.746407+00:00",
+    "title": "In the footsteps of the Fancy Bear: PowerPoint\u00a0mouse-over event abused to deliver Graphite implants"
+  },
+  "https://cofense.com/blog/the-platform-you-trust-is-the-platform-they-target": {
+    "ts": "2026-09-01T01:09:15.797800+00:00",
+    "title": "The Platform You Trust Is the Platform They Target"
+  },
+  "https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/": {
+    "ts": "2026-09-01T01:09:15.850558+00:00",
+    "title": "Agents of Chaos: A New $100K Agentic Security Challenge"
+  },
+  "https://www.cybereason.com/blog/ttp-briefing-q3-2025": {
+    "ts": "2026-09-01T01:09:15.909173+00:00",
+    "title": "Cybereason TTP Briefing Q3 2025: LOLBINs and CVE Exploits Dominate"
+  },
+  "https://cyble.com/blog/attack-surface-discovery-asset-visibility/": {
+    "ts": "2026-09-01T01:09:15.958124+00:00",
+    "title": "The Assets You Don\u2019t Know You Own: Attack Surface Sprawl Is a Discovery Problem, Not a Tooling Problem"
+  },
+  "https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks": {
+    "ts": "2026-09-01T01:09:16.014309+00:00",
+    "title": "'TerminalFix' Campaign Weaponizes PowerShell for Enterprise Attacks"
+  },
+  "https://www.darktrace.com/blog/cybersecurity-for-the-sports-sector-the-threats-facing-a-digitized-industry-in-2026": {
+    "ts": "2026-09-01T01:09:16.014322+00:00",
+    "title": "Cybersecurity for the Sports Sector: The Threats Facing a Digitized Industry in 2026"
+  },
+  "https://blog.eclecticiq.com/seo-poisoning-campaign-leverages-gemini-and-claude-code-impersonation-to-deliver-infostealer": {
+    "ts": "2026-09-01T01:09:16.075091+00:00",
+    "title": "SEO poisoning campaign leverages Gemini and Claude Code impersonation to deliver infostealer"
+  },
+  "https://www.forescout.com/blog/2026h1-threat-review-vulnerabilities-up-51-year-over-year/": {
+    "ts": "2026-09-01T01:09:16.075102+00:00",
+    "title": "2026H1 Threat Review: Vulnerabilities Up 51% Year Over Year"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/google-continued-disruption-residential-proxy-networks/": {
+    "ts": "2026-09-01T01:09:16.075107+00:00",
+    "title": "Google\u2019s Continued Disruption of Malicious Residential Proxy Networks"
+  },
+  "https://www.group-ib.com/blog/scalable-bridges-ciaops-library/": {
+    "ts": "2026-09-01T01:09:16.075110+00:00",
+    "title": "Building Scalable Bridges Between Systems Using The Latest Release of Our Ciaops Library"
+  },
+  "https://www.helpnetsecurity.com/2026/08/31/amazon-aws-console-private-access/": {
+    "ts": "2026-09-01T01:09:16.197751+00:00",
+    "title": "AWS Console Private Access can block sign-ins to personal accounts"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/lookalike-domains-expose-the-iphone-theft-economy/": {
+    "ts": "2026-09-01T01:09:16.251146+00:00",
+    "title": "Lookalike Domains Expose the iPhone Theft Economy"
+  },
+  "https://www.malwarebytes.com/blog/bugs/2026/08/update-chrome-before-you-browse-again": {
+    "ts": "2026-09-01T01:09:16.305867+00:00",
+    "title": "Update Chrome before you browse again"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/": {
+    "ts": "2026-09-01T01:09:16.360132+00:00",
+    "title": "\u200b\u200bMicrosoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)"
+  },
+  "https://moonlock.com/remove-malware-from-chrome": {
+    "ts": "2026-09-01T01:09:16.413154+00:00",
+    "title": "How to scan Chrome for viruses and remove them permanently"
+  },
+  "https://www.morphisec.com/blog/ai-inventory-the-missing-layer-in-endpoint-security/": {
+    "ts": "2026-09-01T01:09:16.413164+00:00",
+    "title": "AI Inventory: The Missing Layer in Endpoint Security"
+  },
+  "https://unit42.paloaltonetworks.com/soc-identity-front-door/": {
+    "ts": "2026-09-01T01:09:16.413167+00:00",
+    "title": "Inside the Modern SOC: The Identity Front Door"
+  },
+  "https://permiso.io/blog/permiso-wins-2026-sc-award-best-threat-detection-technology": {
+    "ts": "2026-09-01T01:09:16.413170+00:00",
+    "title": "Permiso Security Wins 2026 SC Award for Best Threat Detection Technology"
+  },
+  "https://www.rapid7.com/blog/post/c-starlink-distribution-partnership-africa": {
+    "ts": "2026-09-01T01:09:16.413173+00:00",
+    "title": "Africa\u2019s Cybersecurity Challenge Is Bigger Than Access to Technology"
+  },
+  "https://www.recordedfuture.com/blog/hugging-face-cheap-persistence": {
+    "ts": "2026-09-01T01:09:16.464091+00:00",
+    "title": "The Hugging Face Hack Was Cheap Persistence at Work"
+  },
+  "https://rewterz.com/threat-advisory/zyxel-patches-command-injection-flaw-in-18-access-points": {
+    "ts": "2026-09-01T01:09:16.513129+00:00",
+    "title": "Zyxel Patches Command Injection Flaw in 18 Access Points"
+  },
+  "https://securelist.com/armored-likho-still-toolkit/121033/": {
+    "ts": "2026-09-01T01:09:16.574529+00:00",
+    "title": "Armored Likho expands its cyber-espionage toolkit"
+  },
+  "https://securityaffairs.com/198191/security/valleyrat-when-legitimate-software-becomes-a-malware-delivery-tool.html": {
+    "ts": "2026-09-01T01:09:16.628541+00:00",
+    "title": "ValleyRAT: When Legitimate Software Becomes a Malware Delivery Tool"
+  },
+  "https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/": {
+    "ts": "2026-09-01T01:09:16.680577+00:00",
+    "title": "Nightmare Eclipse Drops \u2018HardBreacher\u2019 Kaspersky Product Exploit"
   }
 }

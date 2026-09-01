@@ -54,6 +54,31 @@
       "category": "malware_windows",
       "title": "The Permanent Threat: Analyzing Aeternum\u2019s Blockchain-Based C2 Operations and Communications",
       "url": "https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Curiouser and Curiouser",
+      "url": "https://blog.talosintelligence.com/curiouser-and-curiouser/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "In the footsteps of the Fancy Bear: PowerPoint\u00a0mouse-over event abused to deliver Graphite implants",
+      "url": "https://www.duskrise.com/2022/09/23/in-the-footsteps-of-the-fancy-bear-powerpoint-mouse-over-event-abused-to-deliver-graphite-implants/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "SEO poisoning campaign leverages Gemini and Claude Code impersonation to deliver infostealer",
+      "url": "https://blog.eclecticiq.com/seo-poisoning-campaign-leverages-gemini-and-claude-code-impersonation-to-deliver-infostealer"
+    },
+    {
+      "category": "new_technique",
+      "title": "The Hugging Face Hack Was Cheap Persistence at Work",
+      "url": "https://www.recordedfuture.com/blog/hugging-face-cheap-persistence"
     }
   ],
   "last_sent_date": "2026-08-31"
