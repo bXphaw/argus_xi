@@ -74,6 +74,51 @@
       "category": "malware_windows",
       "title": "Fake AI, real malware: Attackers impersonating AI brands",
       "url": "https://www.sophos.com/en-us/blog/fake-ai-real-malware-attackers-impersonating-ai-brands"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Beware of Phishing Emails Disguised as Transaction Receipts",
+      "url": "https://asec.ahnlab.com/en/95001/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Fake Leonardo DiCaprio Movie Torrent Drops Agent Tesla Through Layered PowerShell Chain",
+      "url": "https://www.bitdefender.com/en-us/blog/labs/fake-leonardo-dicaprio-movie-torrent-agent-tesla-powershell"
+    },
+    {
+      "category": "new_technique",
+      "title": "Attackers Abuse Trusted Cloud Services to Hide Phishing Attacks Against Financial Organizations",
+      "url": "https://cybersecuritynews.com/trusted-cloud-services-phishing-attacks/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Vishing campaign abuses Microsoft Teams to give attackers a foothold in company networks",
+      "url": "https://www.helpnetsecurity.com/2026/09/01/spring-ring-vishing-campaign-microsoft-teams/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Infostealers are hijacking Claude accounts at users\u2019 expense",
+      "url": "https://www.malwarebytes.com/blog/news/2026/09/infostealers-are-hijacking-claude-accounts-at-users-expense"
+    },
+    {
+      "category": "new_technique",
+      "title": "Prompt Injection, Model Poisoning, and AI Supply Chain Attacks Explained",
+      "url": "https://www.morphisec.com/blog/prompt-injection-model-poisoning-and-ai-supply-chain-attacks-explained/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Almost Half of Malware Samples Communicate Direct to IP",
+      "url": "https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Iran War Cyber Threat Landscape | A Midyear Assessment on What Matters",
+      "url": "https://www.sentinelone.com/labs/iran-war-cyber-threat-landscape-a-midyear-assessment-on-what-matters/"
+    },
+    {
+      "category": "new_technique",
+      "title": "How Peer2Profit and Astroproxy Turn Your Bandwidth Into Someone Else's Product",
+      "url": "https://www.silentpush.com/blog/peer2profit-astroproxy/?utm_source=rss&utm_medium=rss&utm_campaign=peer2profit-astroproxy"
     }
   ],
   "last_sent_date": "2026-09-01"

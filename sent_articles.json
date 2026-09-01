@@ -1958,5 +1958,125 @@
   "https://www.intego.com/mac-security-blog/how-to-use-icloud-private-relay/": {
     "ts": "2026-09-01T17:48:40.642960+00:00",
     "title": "What is iCloud Private Relay and how do you use it?"
+  },
+  "https://research.checkpoint.com/2026/20th-july-threat-intelligence-report/": {
+    "ts": "2026-09-01T20:47:56.451508+00:00",
+    "title": "20th July \u2013 Threat Intelligence Report"
+  },
+  "https://asec.ahnlab.com/en/95001/": {
+    "ts": "2026-09-01T20:50:25.346947+00:00",
+    "title": "Beware of Phishing Emails Disguised as Transaction Receipts"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/fake-leonardo-dicaprio-movie-torrent-agent-tesla-powershell": {
+    "ts": "2026-09-01T20:50:25.564969+00:00",
+    "title": "Fake Leonardo DiCaprio Movie Torrent Drops Agent Tesla Through Layered PowerShell Chain"
+  },
+  "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/": {
+    "ts": "2026-09-01T20:50:25.564986+00:00",
+    "title": "Aesto Health says data breach affects over 9.5 million patients"
+  },
+  "https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/": {
+    "ts": "2026-09-01T20:50:25.564991+00:00",
+    "title": "\u201cKeep going, bro. You\u2019ve got this!\u201d A data-driven look at how adversaries are weaponizing AI"
+  },
+  "https://cybersecuritynews.com/trusted-cloud-services-phishing-attacks/": {
+    "ts": "2026-09-01T20:50:25.760349+00:00",
+    "title": "Attackers Abuse Trusted Cloud Services to Hide Phishing Attacks Against Financial Organizations"
+  },
+  "https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing": {
+    "ts": "2026-09-01T20:50:25.962604+00:00",
+    "title": "AI Model Evaluator METR Hit by Credential Theft, Probing"
+  },
+  "https://www.darktrace.com/blog/how-to-evaluate-ai-vendors-5-key-categories-for-ai-adoption": {
+    "ts": "2026-09-01T20:50:26.166928+00:00",
+    "title": "How to Evaluate AI Vendors: 5 Key categories for AI Adoption"
+  },
+  "https://gbhackers.com/mirage-kitten-campaign/": {
+    "ts": "2026-09-01T20:50:26.386984+00:00",
+    "title": "Mirage Kitten Hackers Use Fake Coding Challenges to Deploy NodeRabbit and PollCat RATs"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/zero-day-exploitation-cisco-catalyst-sd-wan-manager/": {
+    "ts": "2026-09-01T20:50:26.602665+00:00",
+    "title": "Zero-Day Exploitation of Vulnerability (CVE-2026-20245) in Cisco Catalyst SD-WAN Manager"
+  },
+  "https://www.group-ib.com/blog/bec-protection/": {
+    "ts": "2026-09-01T20:50:26.833347+00:00",
+    "title": "No Room For Compromise: How Business Email Protection Predicts BEC Before It Starts"
+  },
+  "https://www.helpnetsecurity.com/2026/09/01/spring-ring-vishing-campaign-microsoft-teams/": {
+    "ts": "2026-09-01T20:50:27.037755+00:00",
+    "title": "Vishing campaign abuses Microsoft Teams to give attackers a foothold in company networks"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/infostealers-are-hijacking-claude-accounts-at-users-expense": {
+    "ts": "2026-09-01T20:50:27.249448+00:00",
+    "title": "Infostealers are hijacking Claude accounts at users\u2019 expense"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/": {
+    "ts": "2026-09-01T20:50:27.249467+00:00",
+    "title": "Cybersecurity IR Workshop: The workshop you shouldn\u2019t miss"
+  },
+  "https://www.morphisec.com/blog/prompt-injection-model-poisoning-and-ai-supply-chain-attacks-explained/": {
+    "ts": "2026-09-01T20:50:27.446064+00:00",
+    "title": "Prompt Injection, Model Poisoning, and AI Supply Chain Attacks Explained"
+  },
+  "https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/": {
+    "ts": "2026-09-01T20:50:27.653548+00:00",
+    "title": "Almost Half of Malware Samples Communicate Direct to IP"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed": {
+    "ts": "2026-09-01T20:50:27.865779+00:00",
+    "title": "CVE-2026-63520: Microsoft SharePoint Remote Code Execution (FIXED)"
+  },
+  "https://www.recordedfuture.com/blog/hugging-face-ai-safety": {
+    "ts": "2026-09-01T20:50:28.058529+00:00",
+    "title": "The Hugging Face Incident Was a Governance Failure"
+  },
+  "https://rewterz.com/threat-advisory/critical-wordpress-plugin-flaw-exposes-600000-sites": {
+    "ts": "2026-09-01T20:50:28.275437+00:00",
+    "title": "Critical WordPress Plugin Flaw Exposes 600,000 Sites"
+  },
+  "https://securelist.com/malware-report-q2-2026-pc-iot-statistics/120960/": {
+    "ts": "2026-09-01T20:50:28.485503+00:00",
+    "title": "IT threat evolution in Q2 2026. Non-mobile statistics"
+  },
+  "https://securityaffairs.com/198243/hacking/chaotic-eclipse-releases-gendigital-avast-antivirus-zeroday-prettyprague.html": {
+    "ts": "2026-09-01T20:50:28.687188+00:00",
+    "title": "Chaotic Eclipse Releases GenDigital Avast Antivirus ZeroDay\u00a0PrettyPrague"
+  },
+  "https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/": {
+    "ts": "2026-09-01T20:50:28.687206+00:00",
+    "title": "Palo Alto Networks Acquires AI Agent Platform Console"
+  },
+  "https://www.sentinelone.com/labs/iran-war-cyber-threat-landscape-a-midyear-assessment-on-what-matters/": {
+    "ts": "2026-09-01T20:50:28.967999+00:00",
+    "title": "Iran War Cyber Threat Landscape | A Midyear Assessment on What Matters"
+  },
+  "https://www.silentpush.com/blog/peer2profit-astroproxy/?utm_source=rss&utm_medium=rss&utm_campaign=peer2profit-astroproxy": {
+    "ts": "2026-09-01T20:50:29.220428+00:00",
+    "title": "How Peer2Profit and Astroproxy Turn Your Bandwidth Into Someone Else's Product"
+  },
+  "https://socradar.io/blog/finnish-kennel-uk-iframe-salt-mobile-brazil-serpro/": {
+    "ts": "2026-09-01T20:50:29.220447+00:00",
+    "title": "Finnish Kennel Club, Shell Access, UK Iframe, Salt Mobile, and Brazil SERPRO Claims"
+  },
+  "https://www.sophos.com/en-us/blog/2608-patch-tuesday": {
+    "ts": "2026-09-01T20:50:29.220450+00:00",
+    "title": "2608-patch-tuesday"
+  },
+  "https://www.security.com/expert-perspectives/detection-gap-mitre-attck-t1003001": {
+    "ts": "2026-09-01T20:50:29.464982+00:00",
+    "title": "The Detection Gap: MITRE ATT&CK T1003.001"
+  },
+  "https://thedfirreport.com/2026/04/22/bissa-scanner-exposed-ai-assisted-mass-exploitation-and-credential-harvesting/": {
+    "ts": "2026-09-01T20:50:29.696679+00:00",
+    "title": "Bissa Scanner Exposed: AI-Assisted Mass Exploitation and Credential Harvesting"
+  },
+  "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html": {
+    "ts": "2026-09-01T20:50:29.899294+00:00",
+    "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure"
+  },
+  "https://www.intego.com/mac-security-blog/is-apples-icloud-private-relay-a-vpn-not-even-close-heres-why/": {
+    "ts": "2026-09-01T20:50:30.202179+00:00",
+    "title": "iCloud Private Relay vs. VPN: what\u2019s the difference?"
   }
 }
