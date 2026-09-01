@@ -1598,5 +1598,125 @@
   "https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/": {
     "ts": "2026-09-01T01:09:16.680577+00:00",
     "title": "Nightmare Eclipse Drops \u2018HardBreacher\u2019 Kaspersky Product Exploit"
+  },
+  "https://asec.ahnlab.com/en/94917/": {
+    "ts": "2026-09-01T07:30:55.471321+00:00",
+    "title": "July 2026 Dark Web Threat Actor Trend Report"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/lummastealer-second-life-castleloader": {
+    "ts": "2026-09-01T07:33:54.159175+00:00",
+    "title": "LummaStealer Is Getting a Second Life Alongside CastleLoader"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/": {
+    "ts": "2026-09-01T07:33:54.159196+00:00",
+    "title": "Microsoft Exchange Online outage causes email failures, auth issues"
+  },
+  "https://research.checkpoint.com/2026/when-agentic-glue-melts/": {
+    "ts": "2026-09-01T07:33:54.286772+00:00",
+    "title": "When Agentic Glue Melts: Exploiting Cloudflare Code Mode and Workers"
+  },
+  "https://blog.talosintelligence.com/dissecting-the-jwr-phishing-framework/": {
+    "ts": "2026-09-01T07:33:54.392170+00:00",
+    "title": "Dissecting the JWR phishing framework"
+  },
+  "https://www.duskrise.com/2022/09/15/erbium-infostealer-enters-the-scene-characteristics-and-origins/": {
+    "ts": "2026-09-01T07:33:54.489966+00:00",
+    "title": "Erbium InfoStealer Enters the Scene:\u00a0Characteristics and Origins"
+  },
+  "https://cofense.com/blog/security-is-no-longer-an-it-problem-why-boards-must-rethink-cyber-resilience-in-the-age-of-ai": {
+    "ts": "2026-09-01T07:33:54.591913+00:00",
+    "title": "Security Is No Longer an IT Problem: Why Boards Must Rethink Cyber Resilience in the Age of AI"
+  },
+  "https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/": {
+    "ts": "2026-09-01T07:33:54.691023+00:00",
+    "title": "Falcon AIDR Now Protects Copilot Studio Agents and Claude Code"
+  },
+  "https://cybersecuritynews.com/hackers-compromise-cisco-routers/": {
+    "ts": "2026-09-01T07:33:54.814018+00:00",
+    "title": "Hackers Compromise Cisco Routers to Spy on Networks and Reach Critical Infrastructure"
+  },
+  "https://cyble.com/blog/most-active-threat-actors-h1-2026/": {
+    "ts": "2026-09-01T07:33:54.922753+00:00",
+    "title": "APTs Top the List of Most Active Threat Actors in H1 2026"
+  },
+  "https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control": {
+    "ts": "2026-09-01T07:33:55.022735+00:00",
+    "title": "AI Model Rules Are Not Security Controls"
+  },
+  "https://www.darktrace.com/blog/protecting-global-stadiums-and-events-with-self-learning-ai": {
+    "ts": "2026-09-01T07:33:55.022754+00:00",
+    "title": "Protecting Stadiums & Events with AI"
+  },
+  "https://blog.eclecticiq.com/why-commercial-cyber-threat-intelligence-is-failing-defence-operations": {
+    "ts": "2026-09-01T07:33:55.022758+00:00",
+    "title": "Why commercial cyber threat intelligence is failing defense operations"
+  },
+  "https://www.forescout.com/blog/g7s-post%e2%80%91quantum-cryptography-roadmap-in-plain-english/": {
+    "ts": "2026-09-01T07:33:55.022762+00:00",
+    "title": "G7\u2019s Post\u2011Quantum Cryptography Roadmap in Plain English"
+  },
+  "https://gbhackers.com/npm-supply-chain-attack-2/": {
+    "ts": "2026-09-01T07:33:55.133321+00:00",
+    "title": "Malicious npm Package Steals GitHub, Cloud, and CI/CD Secrets and Spreads to Other Packages"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/": {
+    "ts": "2026-09-01T07:33:55.242944+00:00",
+    "title": "Financially Motivated Threat Actor BREEZE COMET Targets Brazil"
+  },
+  "https://www.group-ib.com/blog/moment-nobody-sees/": {
+    "ts": "2026-09-01T07:33:55.336699+00:00",
+    "title": "One Adversary: The Moment Nobody Sees"
+  },
+  "https://www.helpnetsecurity.com/2026/09/01/askeal-ai-cybersecurity-assistant/": {
+    "ts": "2026-09-01T07:33:55.441820+00:00",
+    "title": "Askeal, the AI cybersecurity assistant that gives verifiable, expert-backed answers"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/hold-the-phone-international-revenue-share-fraud-driven-by-fake-captchas/": {
+    "ts": "2026-09-01T07:33:55.545339+00:00",
+    "title": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs"
+  },
+  "https://www.malwarebytes.com/blog/privacy/2026/08/popular-school-apps-may-be-sharing-student-data-with-advertisers": {
+    "ts": "2026-09-01T07:33:55.653145+00:00",
+    "title": "Popular school apps may be sharing student data with advertisers"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/": {
+    "ts": "2026-09-01T07:33:55.755321+00:00",
+    "title": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide"
+  },
+  "https://www.morphisec.com/blog/ai-usage-control-governing-shadow-and-sanctioned-ai-where-it-actually-runs/": {
+    "ts": "2026-09-01T07:33:55.755338+00:00",
+    "title": "AI Usage Control: Governing Shadow and Sanctioned AI Where It Actually Runs"
+  },
+  "https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/": {
+    "ts": "2026-09-01T07:33:55.859256+00:00",
+    "title": "ChainDrop: Inside a Self-Propagating npm Worm"
+  },
+  "https://permiso.io/blog/copilot-prompt-injection-ai-email-phishing": {
+    "ts": "2026-09-01T07:33:55.959537+00:00",
+    "title": "CO-PILOT, DISENGAGE AUTOPHISH: The New Phishing Surface Hiding Inside AI Email Summaries"
+  },
+  "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-lot-of-summer-shells-and-fit-http-profiles": {
+    "ts": "2026-09-01T07:33:55.959555+00:00",
+    "title": "Metasploit Wrap Up: Lot of summer shells and fit http profiles"
+  },
+  "https://www.recordedfuture.com/blog/july-2026-cve-landscape": {
+    "ts": "2026-09-01T07:33:55.959559+00:00",
+    "title": "July 2026 CVE Landscape"
+  },
+  "https://rewterz.com/threat-advisory/tp-link-archer-vulnerabilities-allow-command-injection-attacks": {
+    "ts": "2026-09-01T07:33:56.058052+00:00",
+    "title": "TP-Link Archer Vulnerabilities Allow Command Injection Attacks"
+  },
+  "https://securelist.com/mirage-kitten-new-backdoors-noderabbit-pollcat/121244/": {
+    "ts": "2026-09-01T07:33:56.163567+00:00",
+    "title": "Mirage Kitten targeting aviation and FinTech sectors across the Middle East and Africa with a new malware set"
+  },
+  "https://securityaffairs.com/198166/ai/infostealers-are-hijacking-claude-sessions-and-draining-subscriptions.html": {
+    "ts": "2026-09-01T07:33:56.271499+00:00",
+    "title": "Infostealers Are Hijacking Claude Sessions and Draining Subscriptions"
+  },
+  "https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/": {
+    "ts": "2026-09-01T07:33:56.370343+00:00",
+    "title": "PaperCut Exploitation Escalates to Active Intrusions"
   }
 }
