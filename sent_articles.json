@@ -1718,5 +1718,125 @@
   "https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/": {
     "ts": "2026-09-01T07:33:56.370343+00:00",
     "title": "PaperCut Exploitation Escalates to Active Intrusions"
+  },
+  "https://asec.ahnlab.com/en/94918/": {
+    "ts": "2026-09-01T13:17:51.643036+00:00",
+    "title": "July 2026 Dark Web Issue Trend Report"
+  },
+  "https://research.checkpoint.com/2026/3rd-august-threat-intelligence-report/": {
+    "ts": "2026-09-01T13:17:54.244215+00:00",
+    "title": "3rd August \u2013 Threat Intelligence Report"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/helpful-skills-or-hidden-payloads-bitdefender-labs-dives-deep-into-the-openclaw-malicious-skill-trap": {
+    "ts": "2026-09-01T13:20:28.327813+00:00",
+    "title": "Helpful Skills or Hidden Payloads? Bitdefender Labs Dives Deep into the OpenClaw Malicious Skill Trap"
+  },
+  "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/": {
+    "ts": "2026-09-01T13:20:28.327833+00:00",
+    "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks"
+  },
+  "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/": {
+    "ts": "2026-09-01T13:20:28.327838+00:00",
+    "title": "Microsoft Patch Tuesday for August 2026 \u2014 Snort rules and prominent vulnerabilities"
+  },
+  "https://cofense.com/blog/5-key-takeaways-from-inside-the-shape-shifting-inbox-a-modern-playbook-for-security-leaders": {
+    "ts": "2026-09-01T13:20:28.327841+00:00",
+    "title": "5 Key Takeaways from Inside the Shape-Shifting Inbox: A Modern Playbook for Security Leaders"
+  },
+  "https://www.cybereason.com/blog/oracle-ebs-extortion-cl0p": {
+    "ts": "2026-09-01T13:20:28.570517+00:00",
+    "title": "Addressing CL0P Extortion Campaign Targeting Oracle EBS CVE-2025-61882"
+  },
+  "https://www.darkreading.com/cyber-risk/the-guardrails-debate-security-researcher-changes-his-mind": {
+    "ts": "2026-09-01T13:20:28.821939+00:00",
+    "title": "The Guardrails Debate: Security Researcher Changes His Mind"
+  },
+  "https://www.darktrace.com/blog/a-new-security-challenge-the-curious-case-of-prompt-language-analysis": {
+    "ts": "2026-09-01T13:20:29.061451+00:00",
+    "title": "The Curious Case of Prompt Language Analysis"
+  },
+  "https://www.forescout.com/blog/can-ai-create-plc-attacks-yes-but-it%e2%80%99s-not-that-easy-yet/": {
+    "ts": "2026-09-01T13:20:29.311505+00:00",
+    "title": "Can AI Create PLC Attacks? Yes, But It\u2019s Not That Easy Yet"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-influence-ecosystem/": {
+    "ts": "2026-09-01T13:20:29.549366+00:00",
+    "title": "The Bear Necessities: A Look at the Drivers, Dynamics, and Applications of the Pro-Russia Influence Ecosystem"
+  },
+  "https://www.group-ib.com/blog/mssp-fraud-as-a-service/": {
+    "ts": "2026-09-01T13:20:29.801054+00:00",
+    "title": "MSSPs: Your SOC Already Detects Fraud. Missed Opportunity Is Selling It As a Service."
+  },
+  "https://www.helpnetsecurity.com/2026/09/01/revstealer-malware-claude-opus-5-github/": {
+    "ts": "2026-09-01T13:20:30.062287+00:00",
+    "title": "Fake Claude Opus 5 app delivers malware and wipes its own tracks"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/scams-slaves-and-malware-as-a-service-tracking-a-trojan-to-cambodias-scam-centers/": {
+    "ts": "2026-09-01T13:20:30.316528+00:00",
+    "title": "Scams, Slaves and (Malware-as-a) Service: Tracking a Trojan to Cambodia\u2019s Scam Centers"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/terminalfix-looks-like-clickfix-but-delivers-a-very-different-payload": {
+    "ts": "2026-09-01T13:20:30.569017+00:00",
+    "title": "TerminalFix looks like ClickFix, but delivers a very different payload"
+  },
+  "https://www.morphisec.com/blog/what-prevents-zero-day-exploits-a-practical-guide-to-stopping-unknown-threats/": {
+    "ts": "2026-09-01T13:20:30.569035+00:00",
+    "title": "What Prevents Zero-Day Exploits? A Practical Guide to Stopping Unknown Threats"
+  },
+  "https://unit42.paloaltonetworks.com/ai-token-jacking/": {
+    "ts": "2026-09-01T13:20:30.816578+00:00",
+    "title": "Token Jacking: Cybercriminals Could Be Stealing Your AI Resources"
+  },
+  "https://www.rapid7.com/blog/post/ai-report-500-security-leaders-reveal-security-operations-transformation": {
+    "ts": "2026-09-01T13:20:31.065027+00:00",
+    "title": "AI is Working in the SOC. So Why are Security Executives More Worried Than Ever?"
+  },
+  "https://www.recordedfuture.com/research/emerging-threats-neurotechnology": {
+    "ts": "2026-09-01T13:20:31.320533+00:00",
+    "title": "Emerging Threats to Neurotechnology"
+  },
+  "https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/": {
+    "ts": "2026-09-01T13:20:31.568699+00:00",
+    "title": "Head Mare APT is exploiting vulnerabilities in an unpatched TrueConf server to deliver PhantomCore and PhantomGraph to video conference participants"
+  },
+  "https://securityaffairs.com/198227/apt/north-korea-linked-it-workers-are-getting-hired-inside-western-companies.html": {
+    "ts": "2026-09-01T13:20:31.805548+00:00",
+    "title": "North Korea-linked IT Workers Are Getting Hired Inside Western Companies"
+  },
+  "https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/": {
+    "ts": "2026-09-01T13:20:32.095413+00:00",
+    "title": "Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars"
+  },
+  "https://www.sentinelone.com/labs/the-model-is-the-malware-what-four-agentic-intrusions-tell-defenders/": {
+    "ts": "2026-09-01T13:20:32.095430+00:00",
+    "title": "The Model Is the Malware | What Four Agentic Intrusions Tell Defenders"
+  },
+  "https://www.silentpush.com/blog/integrations-of-the-month/?utm_source=rss&utm_medium=rss&utm_campaign=integrations-of-the-month": {
+    "ts": "2026-09-01T13:20:32.095434+00:00",
+    "title": "Integrations of the Month"
+  },
+  "https://socradar.io/blog/papercut-rce-cve-2026-82078/": {
+    "ts": "2026-09-01T13:20:32.335946+00:00",
+    "title": "PaperCut RCE Chain: CVE-2026-82078 Exploited"
+  },
+  "https://www.sophos.com/en-us/blog/ungentlemanly-behavior-insights-into-a-ransomware-operation": {
+    "ts": "2026-09-01T13:20:32.608871+00:00",
+    "title": "Ungentlemanly behavior: Insights into a ransomware operation"
+  },
+  "https://www.security.com/product-insights/6-use-cases-security-practitioners-can-tackle-xdr": {
+    "ts": "2026-09-01T13:20:32.608889+00:00",
+    "title": "6 Use Cases Security Practitioners Can Tackle With XDR"
+  },
+  "https://thedfirreport.com/2026/06/29/from-bing-search-to-ransomware-bumblebee-and-adaptixc2-deliver-akira-3/": {
+    "ts": "2026-09-01T13:20:32.858358+00:00",
+    "title": "From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira"
+  },
+  "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html": {
+    "ts": "2026-09-01T13:20:33.118188+00:00",
+    "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests"
+  },
+  "https://www.intego.com/mac-security-blog/how-to-keep-older-macs-secure-a-geeky-approach/": {
+    "ts": "2026-09-01T13:20:33.367216+00:00",
+    "title": "How to update an older Mac to a newer macOS"
   }
 }

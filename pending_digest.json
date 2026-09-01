@@ -1,4 +1,45 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "Helpful Skills or Hidden Payloads? Bitdefender Labs Dives Deep into the OpenClaw Malicious Skill Trap",
+      "url": "https://www.bitdefender.com/en-us/blog/labs/helpful-skills-or-hidden-payloads-bitdefender-labs-dives-deep-into-the-openclaw-malicious-skill-trap"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Addressing CL0P Extortion Campaign Targeting Oracle EBS CVE-2025-61882",
+      "url": "https://www.cybereason.com/blog/oracle-ebs-extortion-cl0p"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Fake Claude Opus 5 app delivers malware and wipes its own tracks",
+      "url": "https://www.helpnetsecurity.com/2026/09/01/revstealer-malware-claude-opus-5-github/"
+    },
+    {
+      "category": "malware_android",
+      "title": "Scams, Slaves and (Malware-as-a) Service: Tracking a Trojan to Cambodia\u2019s Scam Centers",
+      "url": "https://www.infoblox.com/blog/threat-intelligence/scams-slaves-and-malware-as-a-service-tracking-a-trojan-to-cambodias-scam-centers/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "TerminalFix looks like ClickFix, but delivers a very different payload",
+      "url": "https://www.malwarebytes.com/blog/news/2026/09/terminalfix-looks-like-clickfix-but-delivers-a-very-different-payload"
+    },
+    {
+      "category": "new_technique",
+      "title": "Token Jacking: Cybercriminals Could Be Stealing Your AI Resources",
+      "url": "https://unit42.paloaltonetworks.com/ai-token-jacking/"
+    },
+    {
+      "category": "new_technique",
+      "title": "PaperCut RCE Chain: CVE-2026-82078 Exploited",
+      "url": "https://socradar.io/blog/papercut-rce-cve-2026-82078/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Ungentlemanly behavior: Insights into a ransomware operation",
+      "url": "https://www.sophos.com/en-us/blog/ungentlemanly-behavior-insights-into-a-ransomware-operation"
+    }
+  ],
   "last_sent_date": "2026-09-01"
 }
