@@ -39,6 +39,41 @@
       "category": "threat_actor",
       "title": "Ungentlemanly behavior: Insights into a ransomware operation",
       "url": "https://www.sophos.com/en-us/blog/ungentlemanly-behavior-insights-into-a-ransomware-operation"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Attack Cases for Domestic Web Servers Running SoftEther VPN in Korea",
+      "url": "https://asec.ahnlab.com/en/94995/"
+    },
+    {
+      "category": "malware_android",
+      "title": "Android Trojan Campaign Uses Hugging Face Hosting for RAT Payload Delivery",
+      "url": "https://www.bitdefender.com/en-us/blog/labs/android-trojan-campaign-hugging-face-hosting-rat-payload"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Fake GTA 6 leaked copy drains your crypto wallet",
+      "url": "https://www.malwarebytes.com/blog/scams/2026/09/fake-gta-6-leaked-copy-drains-your-crypto-wallet"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Start Exploiting Critical Langflow Vulnerability",
+      "url": "https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Danglegeddon: The Full Research Report Is Now Available",
+      "url": "https://www.silentpush.com/news/danglegeddon-the-full-research-report-is-now-available/?utm_source=rss&utm_medium=rss&utm_campaign=danglegeddon-the-full-research-report-is-now-available"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Fake AI, real malware: Attackers impersonating AI brands",
+      "url": "https://www.sophos.com/en-us/blog/fake-ai-real-malware-attackers-impersonating-ai-brands"
     }
   ],
   "last_sent_date": "2026-09-01"

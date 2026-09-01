@@ -1838,5 +1838,125 @@
   "https://www.intego.com/mac-security-blog/how-to-keep-older-macs-secure-a-geeky-approach/": {
     "ts": "2026-09-01T13:20:33.367216+00:00",
     "title": "How to update an older Mac to a newer macOS"
+  },
+  "https://research.checkpoint.com/2026/27th-july-threat-intelligence-report/": {
+    "ts": "2026-09-01T17:44:00.214107+00:00",
+    "title": "27th July \u2013 Threat Intelligence Report"
+  },
+  "https://asec.ahnlab.com/en/94995/": {
+    "ts": "2026-09-01T17:48:35.590391+00:00",
+    "title": "Attack Cases for Domestic Web Servers Running SoftEther VPN in Korea"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/android-trojan-campaign-hugging-face-hosting-rat-payload": {
+    "ts": "2026-09-01T17:48:35.830107+00:00",
+    "title": "Android Trojan Campaign Uses Hugging Face Hosting for RAT Payload Delivery"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/": {
+    "ts": "2026-09-01T17:48:36.089737+00:00",
+    "title": "Hackers push malicious Virtualizor update in BGP hijacking attack"
+  },
+  "https://blog.talosintelligence.com/why-metaphor-may-dictate-your-security-strategy/": {
+    "ts": "2026-09-01T17:48:36.089757+00:00",
+    "title": "Why metaphor may dictate your security strategy"
+  },
+  "https://cofense.com/blog/why-cofense-ai-is-different-built-for-the-reality-that-phishing-gets-through": {
+    "ts": "2026-09-01T17:48:36.089761+00:00",
+    "title": "Why Cofense AI Is Different: Built for the Reality That Phishing Gets Through"
+  },
+  "https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/": {
+    "ts": "2026-09-01T17:48:36.330691+00:00",
+    "title": "CrowdStrike Falcon Guardian Defines the Next Generation of AI Security"
+  },
+  "https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain": {
+    "ts": "2026-09-01T17:48:36.585915+00:00",
+    "title": "ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain"
+  },
+  "https://www.darktrace.com/blog/shadow-ai-detection-the-first-step-toward-securing-ai": {
+    "ts": "2026-09-01T17:48:36.834395+00:00",
+    "title": "Shadow AI Detection: The First Step Toward Securing AI"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/stockstay-turla-intelligence-gathering/": {
+    "ts": "2026-09-01T17:48:37.081779+00:00",
+    "title": "STOCKSTAY Another Day: The Latest Addition to Turla\u2019s Intelligence Gathering Apparatus"
+  },
+  "https://www.group-ib.com/blog/xmrig-covert-linux-pam-abuse/": {
+    "ts": "2026-09-01T17:48:37.330906+00:00",
+    "title": "XMRig Covert Ops: The Cryptomining Campaign That Abuses Trusted Access and Deploys Forensic Smokescreens"
+  },
+  "https://www.helpnetsecurity.com/2026/09/01/cisa-on-eliminating-recurring-security-weaknesses/": {
+    "ts": "2026-09-01T17:48:37.330924+00:00",
+    "title": "CISA review makes the case for eliminating vulnerability classes"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/patterns-pirates-and-provider-action-what-we-learned-working-with-keitaro/": {
+    "ts": "2026-09-01T17:48:37.330929+00:00",
+    "title": "Patterns, Pirates, and Provider Action: What We Learned Working with Keitaro"
+  },
+  "https://www.malwarebytes.com/blog/scams/2026/09/fake-gta-6-leaked-copy-drains-your-crypto-wallet": {
+    "ts": "2026-09-01T17:48:37.569715+00:00",
+    "title": "Fake GTA 6 leaked copy drains your crypto wallet"
+  },
+  "https://www.morphisec.com/blog/how-ai-driven-attacks-are-bypassing-edr-and-why-pre-execution-defense-matters/": {
+    "ts": "2026-09-01T17:48:37.569733+00:00",
+    "title": "How AI-Driven Attacks Are Bypassing EDR \u2014 And Why Pre-Execution Defense Matters"
+  },
+  "https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/": {
+    "ts": "2026-09-01T17:48:37.569737+00:00",
+    "title": "The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discovery in Open-Source Software"
+  },
+  "https://www.rapid7.com/blog/post/em-patch-tuesday-august-2026": {
+    "ts": "2026-09-01T17:48:37.821058+00:00",
+    "title": "Patch Tuesday - August 2026"
+  },
+  "https://www.recordedfuture.com/blog/agentic-soc-real-defense": {
+    "ts": "2026-09-01T17:48:38.064917+00:00",
+    "title": "The Agentic SOC \u2013 From AI Theater to Real Defense"
+  },
+  "https://rewterz.com/threat-advisory/critical-isolated-vm-javascript-flaw-enables-sandbox-escape": {
+    "ts": "2026-09-01T17:48:38.308690+00:00",
+    "title": "Critical isolated-vm JavaScript Flaw Enables Sandbox Escape"
+  },
+  "https://securelist.com/project-cav3rn-continues/120991/": {
+    "ts": "2026-09-01T17:48:38.605480+00:00",
+    "title": "Project CAV3RN continues: Google Apps Script as C2 relay and DNS-based C2 channel selection"
+  },
+  "https://securityaffairs.com/198250/data-breach/attackers-access-aesto-health-aws-infrastructure-exposing-9-5-million-records.html": {
+    "ts": "2026-09-01T17:48:38.867160+00:00",
+    "title": "Attackers Access Aesto Health AWS Infrastructure, Exposing 9.5 Million Records"
+  },
+  "https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/": {
+    "ts": "2026-09-01T17:48:39.137918+00:00",
+    "title": "Hackers Start Exploiting Critical Langflow Vulnerability"
+  },
+  "https://www.sentinelone.com/labs/frontier-models-tackle-autonomous-long-horizon-malware-analysis/": {
+    "ts": "2026-09-01T17:48:39.137938+00:00",
+    "title": "Sol Searching | Can Frontier Models Tackle Autonomous Long-Horizon Malware Analysis?"
+  },
+  "https://www.silentpush.com/news/danglegeddon-the-full-research-report-is-now-available/?utm_source=rss&utm_medium=rss&utm_campaign=danglegeddon-the-full-research-report-is-now-available": {
+    "ts": "2026-09-01T17:48:39.384802+00:00",
+    "title": "Danglegeddon: The Full Research Report Is Now Available"
+  },
+  "https://socradar.io/blog/servicenow-patches-multiple-cvss-10-0/": {
+    "ts": "2026-09-01T17:48:39.384821+00:00",
+    "title": "ServiceNow Patches Multiple CVSS 10.0 Flaws"
+  },
+  "https://www.sophos.com/en-us/blog/fake-ai-real-malware-attackers-impersonating-ai-brands": {
+    "ts": "2026-09-01T17:48:39.624137+00:00",
+    "title": "Fake AI, real malware: Attackers impersonating AI brands"
+  },
+  "https://www.security.com/product-insights/how-take-prevention-web-layer": {
+    "ts": "2026-09-01T17:48:39.876867+00:00",
+    "title": "How To Take Prevention to the Web Layer"
+  },
+  "https://thedfirreport.com/2026/05/11/flash-alert-etherrat-and-tuktuk-c2-end-in-the-gentleman-ransomware/": {
+    "ts": "2026-09-01T17:48:40.132551+00:00",
+    "title": "Flash Alert: EtherRat and TukTuk C2 End in The Gentleman Ransomware"
+  },
+  "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html": {
+    "ts": "2026-09-01T17:48:40.380619+00:00",
+    "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds"
+  },
+  "https://www.intego.com/mac-security-blog/how-to-use-icloud-private-relay/": {
+    "ts": "2026-09-01T17:48:40.642960+00:00",
+    "title": "What is iCloud Private Relay and how do you use it?"
   }
 }
