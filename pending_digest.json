@@ -119,6 +119,31 @@
       "category": "new_technique",
       "title": "How Peer2Profit and Astroproxy Turn Your Bandwidth Into Someone Else's Product",
       "url": "https://www.silentpush.com/blog/peer2profit-astroproxy/?utm_source=rss&utm_medium=rss&utm_campaign=peer2profit-astroproxy"
+    },
+    {
+      "category": "new_technique",
+      "title": "Attackers Pounce on Critical Artifactory Flaw Following Disclosure",
+      "url": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Exploit Critical Langflow and Ruby on Rails Flaws in Active RCE Attacks",
+      "url": "https://gbhackers.com/hackers-exploit-langflow-rce-flaw/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Public and Private Medical Community Targeted by China-Nexus Threat Actor Pursuing Artificial Intelligence, Cyber, Medical, and National Defense Research",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+      "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
+      "url": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html"
     }
   ],
   "last_sent_date": "2026-09-01"

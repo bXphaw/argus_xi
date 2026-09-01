@@ -2078,5 +2078,125 @@
   "https://www.intego.com/mac-security-blog/is-apples-icloud-private-relay-a-vpn-not-even-close-heres-why/": {
     "ts": "2026-09-01T20:50:30.202179+00:00",
     "title": "iCloud Private Relay vs. VPN: what\u2019s the difference?"
+  },
+  "https://www.rapid7.com/blog/post/ra-microsoft-sharepoint-jwt-token-authentication-bypass-cve-2026-55040": {
+    "ts": "2026-09-01T23:09:45.454231+00:00",
+    "title": "Rapid7 Analysis: Microsoft SharePoint JWT Token Authentication Bypass (CVE-2026-55040)"
+  },
+  "https://asec.ahnlab.com/en/95109/": {
+    "ts": "2026-09-01T23:11:42.613118+00:00",
+    "title": "Security Issues in the Korean & Global Financial Sector in July 2026"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/cve-2025-55182-exploitation-hits-the-smart-home": {
+    "ts": "2026-09-01T23:11:42.613136+00:00",
+    "title": "CVE-2025-55182 Exploitation Hits the Smart Home"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/": {
+    "ts": "2026-09-01T23:11:42.613140+00:00",
+    "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect"
+  },
+  "https://research.checkpoint.com/2026/ai-security-report-2026/": {
+    "ts": "2026-09-01T23:11:42.613142+00:00",
+    "title": "AI Security Report 2026"
+  },
+  "https://blog.talosintelligence.com/webinar-tales-from-the-frontlines-an-exclusive-briefing-on-q2-incidents/": {
+    "ts": "2026-09-01T23:11:42.613144+00:00",
+    "title": "[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents"
+  },
+  "https://cybersecuritynews.com/hackers-plead-guilty-to-atm-jackpotting-attacks/": {
+    "ts": "2026-09-01T23:11:42.613147+00:00",
+    "title": "Five Hackers Plead Guilty to ATM Jackpotting Attacks Using Malware to Dispense Cash"
+  },
+  "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure": {
+    "ts": "2026-09-01T23:11:42.730841+00:00",
+    "title": "Attackers Pounce on Critical Artifactory Flaw Following Disclosure"
+  },
+  "https://www.darktrace.com/blog/how-multi-layered-ai-works-in-darktrace-email": {
+    "ts": "2026-09-01T23:11:42.730857+00:00",
+    "title": "How Multi-Layered AI Detects Email Threats | Darktrace / EMAIL"
+  },
+  "https://gbhackers.com/hackers-exploit-langflow-rce-flaw/": {
+    "ts": "2026-09-01T23:11:42.795946+00:00",
+    "title": "Hackers Exploit Critical Langflow and Ruby on Rails Flaws in Active RCE Attacks"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research/": {
+    "ts": "2026-09-01T23:11:42.860451+00:00",
+    "title": "Public and Private Medical Community Targeted by China-Nexus Threat Actor Pursuing Artificial Intelligence, Cyber, Medical, and National Defense Research"
+  },
+  "https://www.group-ib.com/blog/ransomware-2026-rules/": {
+    "ts": "2026-09-01T23:11:42.915812+00:00",
+    "title": "Ransomware in 2026: Same Business, New Rules"
+  },
+  "https://www.helpnetsecurity.com/2026/09/01/berlin-data-breach-rhysida-ransomware/": {
+    "ts": "2026-09-01T23:11:43.005795+00:00",
+    "title": "Berlin refuses to be blackmailed after network breach"
+  },
+  "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/": {
+    "ts": "2026-09-01T23:11:43.064215+00:00",
+    "title": "FBI Probes Service Selling 153M+ Drivers Licenses"
+  },
+  "https://www.malwarebytes.com/blog/scams/2026/08/beware-of-fake-indeed-interview-apps-used-to-install-spyware": {
+    "ts": "2026-09-01T23:11:43.113178+00:00",
+    "title": "Beware of fake Indeed interview apps used to install spyware"
+  },
+  "https://www.morphisec.com/blog/why-ai-has-made-traditional-cybersecurity-strategies-obsolete-2/": {
+    "ts": "2026-09-01T23:11:43.157516+00:00",
+    "title": "Why AI Has Made Traditional Cybersecurity Strategies Obsolete"
+  },
+  "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/": {
+    "ts": "2026-09-01T23:11:43.203182+00:00",
+    "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication"
+  },
+  "https://www.recordedfuture.com/blog/ai-changing-threat-intelligence": {
+    "ts": "2026-09-01T23:11:43.203195+00:00",
+    "title": "8 Ways AI is Changing Threat Intelligence"
+  },
+  "https://securityaffairs.com/198233/cyber-crime/five-venezuelan-nationals-plead-guilty-in-kansas-atm-jackpotting-attempt.html": {
+    "ts": "2026-09-01T23:11:43.203198+00:00",
+    "title": "Five Venezuelan Nationals Plead Guilty in Kansas ATM Jackpotting Attempt"
+  },
+  "https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/": {
+    "ts": "2026-09-01T23:11:43.203201+00:00",
+    "title": "Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense"
+  },
+  "https://www.sentinelone.com/labs/one-target-china-india-espionage-converge-on-pakistani-law-enforcement/": {
+    "ts": "2026-09-01T23:11:43.203203+00:00",
+    "title": "One Target, Two Flags | Rival Espionage Actors Converge On Pakistani Law Enforcement"
+  },
+  "https://itnerd.blog/2026/08/04/silent-push-enables-cybersecurity-companies-to-build-proactive-security-products-with-first-party-infrastructure-intelligence/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=silent-push-enables-cybersecurity-companies-to-build-proactive-security-products-with-first-party-infrastructure-intelligence-2": {
+    "ts": "2026-09-01T23:11:43.249360+00:00",
+    "title": "Silent Push Enables Cybersecurity Companies to Build Proactive Security Products with First-Party Infrastructure Intelligence"
+  },
+  "https://socradar.io/blog/anthropic-claude-sessions-infostealer-malware/": {
+    "ts": "2026-09-01T23:11:43.319864+00:00",
+    "title": "Anthropic Links Claude Session Theft to Infostealer Malware"
+  },
+  "https://www.sophos.com/en-us/blog/deno-case-studies": {
+    "ts": "2026-09-01T23:11:43.369842+00:00",
+    "title": "deno-case-studies"
+  },
+  "https://www.security.com/feature-stories/what-happens-when-two-iconic-brands-unite": {
+    "ts": "2026-09-01T23:11:43.427642+00:00",
+    "title": "What Happens When Two Iconic Brands Unite?"
+  },
+  "https://thedfirreport.com/2026/02/23/apache-activemq-exploit-leads-to-lockbit-ransomware/": {
+    "ts": "2026-09-01T23:11:43.494931+00:00",
+    "title": "Apache ActiveMQ Exploit Leads to LockBit Ransomware"
+  },
+  "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html": {
+    "ts": "2026-09-01T23:11:43.544774+00:00",
+    "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems"
+  },
+  "https://www.intego.com/mac-security-blog/what-to-do-if-you-think-you-have-malware-on-your-mac/": {
+    "ts": "2026-09-01T23:11:43.544793+00:00",
+    "title": "How to check your Mac for malware (and what to do if you find it)"
+  },
+  "https://www.theregister.com/security/2026/09/01/another-artifactory-cve-under-attack-by-ai-agents-or-humans/5293769": {
+    "ts": "2026-09-01T23:11:43.544797+00:00",
+    "title": "Another Artifactory CVE under attack by AI agents or humans"
+  },
+  "https://threatmon.io/pakistan-cyber-threat-landscape-report-2026/": {
+    "ts": "2026-09-01T23:11:43.544800+00:00",
+    "title": "Pakistan Cyber Threat Landscape Report 2026"
   }
 }
