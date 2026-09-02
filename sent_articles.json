@@ -2198,5 +2198,125 @@
   "https://threatmon.io/pakistan-cyber-threat-landscape-report-2026/": {
     "ts": "2026-09-01T23:11:43.544800+00:00",
     "title": "Pakistan Cyber Threat Landscape Report 2026"
+  },
+  "https://asec.ahnlab.com/en/94844/": {
+    "ts": "2026-09-02T03:42:01.734094+00:00",
+    "title": "Ransom & Dark Web Issues Week 1, August 2026"
+  },
+  "https://research.checkpoint.com/2026/13th-july-threat-intelligence-report/": {
+    "ts": "2026-09-02T03:42:03.235519+00:00",
+    "title": "13th July \u2013 Threat Intelligence Report"
+  },
+  "https://vmblog.com/news/silent-push-enables-cybersecurity-companies-to-build-proactive-security-products-with-first-party-infrastructure-intelligence/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=silent-push-enables-cybersecurity-companies-to-build-proactive-security-products-with-first-party-infrastructure-intelligence": {
+    "ts": "2026-09-02T03:42:18.584976+00:00",
+    "title": "Silent Push Enables Cybersecurity Companies to Build Proactive Security Products with First-Party Infrastructure Intelligence"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/fake-battlefield-6-pirated-games-trainers": {
+    "ts": "2026-09-02T03:44:49.013000+00:00",
+    "title": "Fake Battlefield 6 Pirated Versions and Game Trainers Used to Deploy Stealers and C2 Agents"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/": {
+    "ts": "2026-09-02T03:44:49.075325+00:00",
+    "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys"
+  },
+  "https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/": {
+    "ts": "2026-09-02T03:44:49.075345+00:00",
+    "title": "You were onto something with \u201cIt\u2019s the Climb,\u201d Miley"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency": {
+    "ts": "2026-09-02T03:44:49.075349+00:00",
+    "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency"
+  },
+  "https://www.darktrace.com/blog/state-of-ai-cybersecurity-2026-77-of-security-stacks-include-ai-but-trust-is-lagging": {
+    "ts": "2026-09-02T03:44:49.075353+00:00",
+    "title": "77% of security stacks include AI, but trust is lagging"
+  },
+  "https://gbhackers.com/microsoft-teams-it-support-scam/": {
+    "ts": "2026-09-02T03:44:49.136724+00:00",
+    "title": "Hackers Pose as IT Support on Microsoft Teams to Target More Than 150 Employees"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-education-sector-oracle-exploit/": {
+    "ts": "2026-09-02T03:44:49.202999+00:00",
+    "title": "ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit"
+  },
+  "https://www.group-ib.com/blog/jadeprox-china-nexus-triback-loader/": {
+    "ts": "2026-09-02T03:44:49.268664+00:00",
+    "title": "JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake"
+  },
+  "https://www.helpnetsecurity.com/2026/09/01/crowdsec-1-8-0-bot-detection/": {
+    "ts": "2026-09-02T03:44:49.331001+00:00",
+    "title": "Bot detection arrives in CrowdSec 1.8.0, along with two DoS fixes"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/08/encrypted-instructions-can-fool-ai-assistants-like-grok-and-gemini": {
+    "ts": "2026-09-02T03:44:49.391533+00:00",
+    "title": "Grok fooled into stealing user chat, location data, and more"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/": {
+    "ts": "2026-09-02T03:44:49.455821+00:00",
+    "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign"
+  },
+  "https://www.morphisec.com/blog/top-edr-enhancements-for-advanced-threat-prevention/": {
+    "ts": "2026-09-02T03:44:49.455840+00:00",
+    "title": "Top EDR Enhancements for Advanced Threat Prevention"
+  },
+  "https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/": {
+    "ts": "2026-09-02T03:44:49.519083+00:00",
+    "title": "The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version"
+  },
+  "https://www.rapid7.com/blog/post/ra-unauthenticated-rce-in-jetbrains-teamcity-cve-2026-63077": {
+    "ts": "2026-09-02T03:44:49.585244+00:00",
+    "title": "Rapid7 Analysis: Unauthenticated Remote Code Execution in JetBrains TeamCity (CVE-2026-63077)"
+  },
+  "https://www.recordedfuture.com/research/iran-violent-extremism-landscape": {
+    "ts": "2026-09-02T03:44:49.585265+00:00",
+    "title": "Iran War\u2019s Secondary Effects Shape 2026 US Violent Extremism"
+  },
+  "https://securityaffairs.com/198214/hacking/chaotic-eclipse-releases-kaspersky-zero-day-hardbreacher.html": {
+    "ts": "2026-09-02T03:44:49.653393+00:00",
+    "title": "Chaotic Eclipse Releases Kaspersky Zero-Day HardBreacher"
+  },
+  "https://www.securityweek.com/coast-guard-establishes-office-of-maritime-cybersecurity-policy/": {
+    "ts": "2026-09-02T03:44:49.715136+00:00",
+    "title": "Coast Guard Establishes Office of Maritime Cybersecurity Policy"
+  },
+  "https://www.sentinelone.com/labs/context-engineering-compaction-agent-memory-for-automated-malware-analysis/": {
+    "ts": "2026-09-02T03:44:49.776827+00:00",
+    "title": "Context Engineering | Compaction & Agent Memory for Automated Malware Analysis"
+  },
+  "https://socradar.io/blog/openai-cyber-defense-against-ai-threats/": {
+    "ts": "2026-09-02T03:44:49.837872+00:00",
+    "title": "OpenAI Urges Cyber Defense Against AI Threats"
+  },
+  "https://www.sophos.com/en-us/blog/clickfix-campaign-abuses-deno-runtime-for-infostealer-delivery": {
+    "ts": "2026-09-02T03:44:49.897677+00:00",
+    "title": "ClickFix campaign abuses Deno runtime for infostealer delivery"
+  },
+  "https://www.security.com/product-insights/cluster-came-back-disaster-recovery-high-speed-discovery": {
+    "ts": "2026-09-02T03:44:49.897695+00:00",
+    "title": "The Cluster That Came Back: Disaster Recovery for High Speed Discovery"
+  },
+  "https://thedfirreport.com/2025/12/17/cats-got-your-files-lynx-ransomware/": {
+    "ts": "2026-09-02T03:44:49.964085+00:00",
+    "title": "Cat\u2019s Got Your Files: Lynx Ransomware"
+  },
+  "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html": {
+    "ts": "2026-09-02T03:44:50.026922+00:00",
+    "title": "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones"
+  },
+  "https://www.intego.com/mac-security-blog/mac-os-versions/": {
+    "ts": "2026-09-02T03:44:50.026943+00:00",
+    "title": "A list of macOS versions in order by year"
+  },
+  "https://www.theregister.com/cyber-crime/2026/09/02/cops-crowdstrike-disrupt-sality-botnet-by-poisoning-the-network-and-diverting-into-sinkholes/5293795": {
+    "ts": "2026-09-02T03:44:50.088313+00:00",
+    "title": "Cops, CrowdStrike disrupt Sality botnet by poisoning the network and diverting into sinkholes"
+  },
+  "https://cybersecuritynews.com/iran-linked-hackers-2/amp/#new_tab": {
+    "ts": "2026-09-02T03:44:50.153510+00:00",
+    "title": "Iran-Linked Hackers Reportedly Knock UK Power Plant Offline for Four Days"
+  },
+  "https://www.trendmicro.com/en_us/research/26/g/open-secure-ai-alliance.html": {
+    "ts": "2026-09-02T03:44:50.153530+00:00",
+    "title": "Why the Open Secure AI Alliance Matters: Open Frontier Models, Open Deployment Flexibility"
   }
 }

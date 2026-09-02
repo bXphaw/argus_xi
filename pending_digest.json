@@ -144,6 +144,51 @@
       "category": "threat_actor",
       "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
       "url": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Fake Battlefield 6 Pirated Versions and Game Trainers Used to Deploy Stealers and C2 Agents",
+      "url": "https://www.bitdefender.com/en-us/blog/labs/fake-battlefield-6-pirated-games-trainers"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/"
+    },
+    {
+      "category": "malware_macos",
+      "title": "The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version",
+      "url": "https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Rapid7 Analysis: Unauthenticated Remote Code Execution in JetBrains TeamCity (CVE-2026-63077)",
+      "url": "https://www.rapid7.com/blog/post/ra-unauthenticated-rce-in-jetbrains-teamcity-cve-2026-63077"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Cat\u2019s Got Your Files: Lynx Ransomware",
+      "url": "https://thedfirreport.com/2025/12/17/cats-got-your-files-lynx-ransomware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
+      "url": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Cops, CrowdStrike disrupt Sality botnet by poisoning the network and diverting into sinkholes",
+      "url": "https://www.theregister.com/cyber-crime/2026/09/02/cops-crowdstrike-disrupt-sality-botnet-by-poisoning-the-network-and-diverting-into-sinkholes/5293795"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Iran-Linked Hackers Reportedly Knock UK Power Plant Offline for Four Days",
+      "url": "https://cybersecuritynews.com/iran-linked-hackers-2/amp/#new_tab"
     }
   ],
   "last_sent_date": "2026-09-01"
