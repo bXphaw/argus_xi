@@ -39,6 +39,51 @@
       "category": "threat_actor",
       "title": "VerdantBamboo: Just Another BRICKSTORM in the Firewall",
       "url": "https://www.volexity.com/blog/2026/06/04/verdantbamboo-just-another-brickstorm-in-the-firewall/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Kim Sooki again? This time, it was disguised as a request for seafood ingredients",
+      "url": "https://asec.ahnlab.com/en/95217/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users"
+    },
+    {
+      "category": "new_technique",
+      "title": "SonicWall Patches Two New Actively Exploited Zero-Days in SMA 1000 VPNs",
+      "url": "https://securityaffairs.com/198303/security/sonicwall-patches-two-new-actively-exploited-zero-days-in-sma-1000-vpns.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "LABScon25 Replay | Gamaredon x Turla: Unveiling a 2025 Espionage Alliance Targeting Ukraine",
+      "url": "https://www.sentinelone.com/labs/labscon25-replay-gamaredon-x-turla-unveiling-a-2025-espionage-alliance-targeting-ukraine/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Qilin Claims ATF Breach as Agency Confirms \u201cMajor Incident\u201d",
+      "url": "https://socradar.io/blog/qilin-claims-atf-breach-agency-major-incident/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Berlin Government Allegedly Hit by Rhysida Ransomware",
+      "url": "https://threatmon.io/berlin-government-allegedly-hit-by-rhysida-ransomware/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Dangerous Invitations: Russian Threat Actor Spoofs European Security Events in Targeted Phishing Attacks",
+      "url": "https://www.volexity.com/blog/2025/12/04/dangerous-invitations-russian-threat-actor-spoofs-european-security-events-in-targeted-phishing-attacks/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "How QR-code phishing can slip past corporate security measures",
+      "url": "https://www.welivesecurity.com/en/business-security/qr-code-phishing-slip-past-corporate-security-measures/"
+    },
+    {
+      "category": "malware_other",
+      "title": "keyv and cacheable npm Package Hijacked in Supply Chain Attack (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/keyv-and-cacheable-npm-package-hijacked-in-supply-chain-attack"
     }
   ],
   "last_sent_date": "2026-09-02"

@@ -2558,5 +2558,125 @@
   "https://www.welivesecurity.com/en/privacy/ai-powered-osint-why-everyone-viable-target-fraud/": {
     "ts": "2026-09-02T13:28:13.018217+00:00",
     "title": "AI-driven OSINT in the wrong hands \u2013 and why everyone could be a target for fraud"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/": {
+    "ts": "2026-09-02T17:44:56.882025+00:00",
+    "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens"
+  },
+  "https://www.morphisec.com/blog/why-ai-has-made-traditional-cybersecurity-strategies-obsolete/": {
+    "ts": "2026-09-02T17:45:04.621408+00:00",
+    "title": "Why AI Has Made Traditional Cybersecurity Strategies Obsolete"
+  },
+  "https://thedfirreport.com/2025/08/05/from-bing-search-to-ransomware-bumblebee-and-adaptixc2-deliver-akira-2/": {
+    "ts": "2026-09-02T17:45:12.933364+00:00",
+    "title": "Flash Alert: From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira"
+  },
+  "https://asec.ahnlab.com/en/95217/": {
+    "ts": "2026-09-02T17:47:17.323481+00:00",
+    "title": "Kim Sooki again? This time, it was disguised as a request for seafood ingredients"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/": {
+    "ts": "2026-09-02T17:47:17.323499+00:00",
+    "title": "CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users": {
+    "ts": "2026-09-02T17:47:17.514449+00:00",
+    "title": "Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users"
+  },
+  "https://www.darktrace.com/blog/mythos-vs-ethos-defending-in-an-era-of-ai-accelerated-vulnerability-discovery": {
+    "ts": "2026-09-02T17:47:17.514467+00:00",
+    "title": "Anthropic\u2019s Mythos and what it means for security teams"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/chinese-language-phishing-services/": {
+    "ts": "2026-09-02T17:47:17.514471+00:00",
+    "title": "2 PhaaS 2 Furious: The Evolution of Chinese-Language Phishing Services"
+  },
+  "https://www.group-ib.com/blog/clicklock-stealer-macos-malware/": {
+    "ts": "2026-09-02T17:47:17.705023+00:00",
+    "title": "ClickLock Stealer: Paste Once, Lose Everything"
+  },
+  "https://www.helpnetsecurity.com/2026/09/02/microsoft-exchange-cve-2026-62911-critical-authentication-bypass-flaw/": {
+    "ts": "2026-09-02T17:47:17.895121+00:00",
+    "title": "Nearly 22,000 Microsoft Exchange servers remain exposed to critical security flaw (CVE-2026-62911)"
+  },
+  "https://www.malwarebytes.com/blog/scams/2026/09/tech-support-scams-look-different-now-heres-what-to-watch-for": {
+    "ts": "2026-09-02T17:47:18.090047+00:00",
+    "title": "Tech support scams look different now. Here\u2019s what to watch for"
+  },
+  "https://www.rapid7.com/blog/post/etr-critical-sonicwall-sma1000-vulnerabilities-cve-2026-83548-cve-2026-83549-exploited-in-the-wild": {
+    "ts": "2026-09-02T17:47:18.280296+00:00",
+    "title": "Critical SonicWall SMA1000 Vulnerabilities CVE-2026-83548, CVE-2026-83549 Exploited in the Wild"
+  },
+  "https://www.recordedfuture.com/research/tag-195-evolves-maas-ecosystem": {
+    "ts": "2026-09-02T17:47:18.474055+00:00",
+    "title": "TAG-195 Upgrades MaaS Ecosystem with Modular Tools"
+  },
+  "https://securityaffairs.com/198303/security/sonicwall-patches-two-new-actively-exploited-zero-days-in-sma-1000-vpns.html": {
+    "ts": "2026-09-02T17:47:18.662504+00:00",
+    "title": "SonicWall Patches Two New Actively Exploited Zero-Days in SMA 1000 VPNs"
+  },
+  "https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/": {
+    "ts": "2026-09-02T17:47:18.662522+00:00",
+    "title": "UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure"
+  },
+  "https://www.sentinelone.com/labs/labscon25-replay-gamaredon-x-turla-unveiling-a-2025-espionage-alliance-targeting-ukraine/": {
+    "ts": "2026-09-02T17:47:18.856651+00:00",
+    "title": "LABScon25 Replay | Gamaredon x Turla: Unveiling a 2025 Espionage Alliance Targeting Ukraine"
+  },
+  "https://www.silentpush.com/blog/preemptive-defense-ai-soc/?utm_source=rss&utm_medium=rss&utm_campaign=preemptive-defense-ai-soc": {
+    "ts": "2026-09-02T17:47:18.856670+00:00",
+    "title": "What Does Preemptive Cyber Defense Look Like Inside an AI SOC?"
+  },
+  "https://socradar.io/blog/qilin-claims-atf-breach-agency-major-incident/": {
+    "ts": "2026-09-02T17:47:19.045939+00:00",
+    "title": "Qilin Claims ATF Breach as Agency Confirms \u201cMajor Incident\u201d"
+  },
+  "https://www.sophos.com/en-us/blog/sonicwall-83548-83549": {
+    "ts": "2026-09-02T17:47:19.235143+00:00",
+    "title": "SonicWall 83548 83549"
+  },
+  "https://www.security.com/threat-intelligence/jewelbug-crypto-fraud-espionage": {
+    "ts": "2026-09-02T17:47:19.425971+00:00",
+    "title": "Jewelbug: APT Group Runs Espionage and Crypto Fraud Operations Side by Side"
+  },
+  "https://thehackernews.com/2026/09/fake-software-installers-disable.html": {
+    "ts": "2026-09-02T17:47:19.615962+00:00",
+    "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender"
+  },
+  "https://www.intego.com/mac-security-blog/how-do-i-stop-websites-from-tracking-me-on-safari/": {
+    "ts": "2026-09-02T17:47:19.806888+00:00",
+    "title": "What are trackers on Safari? How to stop websites from tracking you"
+  },
+  "https://www.theregister.com/security/2026/09/02/sonicwalls-sma1000-boxes-under-active-attack-again/5293969": {
+    "ts": "2026-09-02T17:47:19.994065+00:00",
+    "title": "SonicWall's SMA1000 boxes under active attack again"
+  },
+  "https://threatmon.io/berlin-government-allegedly-hit-by-rhysida-ransomware/": {
+    "ts": "2026-09-02T17:47:20.192746+00:00",
+    "title": "Berlin Government Allegedly Hit by Rhysida Ransomware"
+  },
+  "https://www.trendmicro.com/en_us/research/26/g/tech-support-scams-targeting-japan.html": {
+    "ts": "2026-09-02T17:47:20.192763+00:00",
+    "title": "13M+ Emails Sent in Tech Support Scam Targeting Users, Organizations in Japan"
+  },
+  "https://www.volexity.com/blog/2025/12/04/dangerous-invitations-russian-threat-actor-spoofs-european-security-events-in-targeted-phishing-attacks/": {
+    "ts": "2026-09-02T17:47:20.382758+00:00",
+    "title": "Dangerous Invitations: Russian Threat Actor Spoofs European Security Events in Targeted Phishing Attacks"
+  },
+  "https://www.welivesecurity.com/en/business-security/qr-code-phishing-slip-past-corporate-security-measures/": {
+    "ts": "2026-09-02T17:47:20.579365+00:00",
+    "title": "How QR-code phishing can slip past corporate security measures"
+  },
+  "https://threats.wiz.io/all-incidents/keyv-and-cacheable-npm-package-hijacked-in-supply-chain-attack": {
+    "ts": "2026-09-02T17:47:20.767817+00:00",
+    "title": "keyv and cacheable npm Package Hijacked in Supply Chain Attack (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/c2looper-new-backdoor-likely-tied-ransomware-github-c2": {
+    "ts": "2026-09-02T17:47:20.991453+00:00",
+    "title": "C2Looper: A New Backdoor Likely Tied To Ransomware With GitHub C2"
+  },
+  "https://asec.ahnlab.com/en/94786/": {
+    "ts": "2026-09-02T17:47:21.188580+00:00",
+    "title": "Analysis of a Phishing Email Attack Case by the Larva-24009 Threat Actor"
   }
 }
