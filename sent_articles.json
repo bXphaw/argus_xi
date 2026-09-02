@@ -2438,5 +2438,125 @@
   "https://threats.wiz.io/all-incidents/payroll-pirates-phishing-campaign-targets-microsoft-365-financial-workflows": {
     "ts": "2026-09-02T08:38:53.648300+00:00",
     "title": "Payroll Pirates Phishing Campaign Targets Microsoft 365 Financial Workflows (Campaign)"
+  },
+  "https://asec.ahnlab.com/en/95211/": {
+    "ts": "2026-09-02T13:28:07.236754+00:00",
+    "title": "\u201cEvasive\u201d Malware Attack Tactics: Hiding, Bypassing, and Reappearing"
+  },
+  "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/": {
+    "ts": "2026-09-02T13:28:07.236774+00:00",
+    "title": "Dropbox accounts breached through Lenovo email verification flaw"
+  },
+  "https://research.checkpoint.com/2026/gaming-the-system-how-a-chinese-speaking-actor-turned-brazilian-government-sites-into-an-seo-weapon/": {
+    "ts": "2026-09-02T13:28:07.503087+00:00",
+    "title": "Gaming the system: how a Chinese-speaking actor turned Brazilian government sites into an SEO weapon"
+  },
+  "https://cybersecuritynews.com/breeze-comet-hackers/": {
+    "ts": "2026-09-02T13:28:07.753564+00:00",
+    "title": "BREEZE COMET Hackers Use AI-Assisted Malware to Target Brazil Banks for Fraudulent Transfers"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise": {
+    "ts": "2026-09-02T13:28:08.001224+00:00",
+    "title": "Critical Langflow Vulnerability Exploited as Attacks on AI Platform Rise"
+  },
+  "https://www.darktrace.com/blog/why-behavioral-ai-is-the-answer-to-mythos": {
+    "ts": "2026-09-02T13:28:08.245809+00:00",
+    "title": "Why behavioral AI is the answer to Mythos"
+  },
+  "https://gbhackers.com/excel-malware-campaign/": {
+    "ts": "2026-09-02T13:28:08.503352+00:00",
+    "title": "255 Fake Accounts Used to Send Malicious Excel Files to 80,000 Freelancers"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/knowledgedeliver-viewstate-deserialization-vulnerability/": {
+    "ts": "2026-09-02T13:28:08.774220+00:00",
+    "title": "Exploitation of KnowledgeDeliver via ViewState Deserialization Vulnerability"
+  },
+  "https://www.group-ib.com/blog/hollowgraph-microsoft-365/": {
+    "ts": "2026-09-02T13:28:09.025656+00:00",
+    "title": "HOLLOWGRAPH: Turning Microsoft 365 Calendars into Covert Command-and-Control Channels"
+  },
+  "https://www.helpnetsecurity.com/2026/09/02/download-the-agentic-software-development-guide/": {
+    "ts": "2026-09-02T13:28:09.276481+00:00",
+    "title": "Download: The Agentic Software Development Guide"
+  },
+  "https://www.malwarebytes.com/blog/scams/2026/09/scammers-are-getting-smarter-about-where-they-target-you": {
+    "ts": "2026-09-02T13:28:09.276499+00:00",
+    "title": "Scammers are getting smarter about where they target you"
+  },
+  "https://www.morphisec.com/blog/theres-no-patch-for-a-stolen-password-what-fortibleed-teaches-us-about-the-limits-of-detection/": {
+    "ts": "2026-09-02T13:28:09.276504+00:00",
+    "title": "There\u2019s No Patch for a Stolen Password: What FortiBleed Teaches Us About the Limits of Detection"
+  },
+  "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/": {
+    "ts": "2026-09-02T13:28:09.559407+00:00",
+    "title": "An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation"
+  },
+  "https://www.rapid7.com/blog/post/ra-kindarails2shell-technical-analysis-cve-2026-66066": {
+    "ts": "2026-09-02T13:28:09.813082+00:00",
+    "title": "Rapid7 Analysis: KindaRails2Shell (CVE-2026-66066)"
+  },
+  "https://www.recordedfuture.com/blog/ransomware-is-the-scoreboard": {
+    "ts": "2026-09-02T13:28:09.813100+00:00",
+    "title": "Ransomware is the Scoreboard"
+  },
+  "https://securityaffairs.com/198296/hacking/536-and-8-hours-ai-learns-to-attack-a-different-plc.html": {
+    "ts": "2026-09-02T13:28:10.111623+00:00",
+    "title": "$536 and 8 Hours: AI Learns to Attack a Different PLC"
+  },
+  "https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/": {
+    "ts": "2026-09-02T13:28:10.365851+00:00",
+    "title": "Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products"
+  },
+  "https://www.sentinelone.com/labs/labscon25-replay-keynote-steps-to-an-ecology-of-cyber/": {
+    "ts": "2026-09-02T13:28:10.630636+00:00",
+    "title": "LABScon25 Replay | Keynote: Steps to an Ecology of Cyber"
+  },
+  "https://www.techtimes.com/articles/322621/20260801/amgen-patient-phi-stolen-via-vendor-cloud-hipaa-sec-clocks-both-running.htm#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=amgen-patient-phi-stolen-via-vendor-cloud-hipaa-and-sec-clocks-both-running": {
+    "ts": "2026-09-02T13:28:10.894027+00:00",
+    "title": "Amgen Patient PHI Stolen via Vendor Cloud: HIPAA and SEC Clocks Both Running"
+  },
+  "https://socradar.io/blog/teampcp-arrest-two-australia-supply-chain-campaign/": {
+    "ts": "2026-09-02T13:28:11.149310+00:00",
+    "title": "TeamPCP Arrests: Two Charged in Australia Over the Supply Chain Campaign That Hit 1,000+ Organizations"
+  },
+  "https://www.sophos.com/en-us/blog/nable-ncentral-exploitation-results-in-rmm-tool-deployment": {
+    "ts": "2026-09-02T13:28:11.400240+00:00",
+    "title": "N-able N-central exploitation results in RMM tool deployment"
+  },
+  "https://www.security.com/product-insights/dlp-network-discover-cluster-always-watching-so-your-team-doesnt-have": {
+    "ts": "2026-09-02T13:28:11.672130+00:00",
+    "title": "The DLP Network Discover Cluster Is Always Watching (So Your Team Doesn't Have To)"
+  },
+  "https://thedfirreport.com/2025/09/08/blurring-the-lines-intrusion-shows-connection-with-three-major-ransomware-gangs/": {
+    "ts": "2026-09-02T13:28:11.940264+00:00",
+    "title": "Blurring the Lines: Intrusion Shows Connection With Three Major Ransomware Gangs"
+  },
+  "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html": {
+    "ts": "2026-09-02T13:28:12.210745+00:00",
+    "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness"
+  },
+  "https://www.intego.com/mac-security-blog/how-to-manage-and-remove-browser-cookies-on-mac-and-ios/": {
+    "ts": "2026-09-02T13:28:12.479770+00:00",
+    "title": "How to clear cookies on Mac"
+  },
+  "https://www.theregister.com/security/2026/09/02/uk-cyber-bill-targets-ai-users-not-the-vendors-building-it/5293738": {
+    "ts": "2026-09-02T13:28:12.479787+00:00",
+    "title": "UK cyber bill targets AI users, not the vendors building it"
+  },
+  "https://threatmon.io/iran-linked-cyberattack-disrupts-uk-power-generation-facility/": {
+    "ts": "2026-09-02T13:28:12.479792+00:00",
+    "title": "Iran-Linked Cyberattack Disrupts UK Power Generation Facility"
+  },
+  "https://www.trendmicro.com/en_us/research/26/g/autonomous-ransomware.html": {
+    "ts": "2026-09-02T13:28:12.737894+00:00",
+    "title": "The Signs Were There: What the First Autonomous Ransomware Case Confirms"
+  },
+  "https://www.volexity.com/blog/2026/06/04/verdantbamboo-just-another-brickstorm-in-the-firewall/": {
+    "ts": "2026-09-02T13:28:13.018203+00:00",
+    "title": "VerdantBamboo: Just Another BRICKSTORM in the Firewall"
+  },
+  "https://www.welivesecurity.com/en/privacy/ai-powered-osint-why-everyone-viable-target-fraud/": {
+    "ts": "2026-09-02T13:28:13.018217+00:00",
+    "title": "AI-driven OSINT in the wrong hands \u2013 and why everyone could be a target for fraud"
   }
 }

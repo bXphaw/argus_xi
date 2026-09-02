@@ -1,4 +1,45 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "\u201cEvasive\u201d Malware Attack Tactics: Hiding, Bypassing, and Reappearing",
+      "url": "https://asec.ahnlab.com/en/95211/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Gaming the system: how a Chinese-speaking actor turned Brazilian government sites into an SEO weapon",
+      "url": "https://research.checkpoint.com/2026/gaming-the-system-how-a-chinese-speaking-actor-turned-brazilian-government-sites-into-an-seo-weapon/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "BREEZE COMET Hackers Use AI-Assisted Malware to Target Brazil Banks for Fraudulent Transfers",
+      "url": "https://cybersecuritynews.com/breeze-comet-hackers/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical Langflow Vulnerability Exploited as Attacks on AI Platform Rise",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise"
+    },
+    {
+      "category": "new_technique",
+      "title": "An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation",
+      "url": "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Rapid7 Analysis: KindaRails2Shell (CVE-2026-66066)",
+      "url": "https://www.rapid7.com/blog/post/ra-kindarails2shell-technical-analysis-cve-2026-66066"
+    },
+    {
+      "category": "new_technique",
+      "title": "The Signs Were There: What the First Autonomous Ransomware Case Confirms",
+      "url": "https://www.trendmicro.com/en_us/research/26/g/autonomous-ransomware.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "VerdantBamboo: Just Another BRICKSTORM in the Firewall",
+      "url": "https://www.volexity.com/blog/2026/06/04/verdantbamboo-just-another-brickstorm-in-the-firewall/"
+    }
+  ],
   "last_sent_date": "2026-09-02"
 }
