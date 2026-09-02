@@ -2678,5 +2678,125 @@
   "https://asec.ahnlab.com/en/94786/": {
     "ts": "2026-09-02T17:47:21.188580+00:00",
     "title": "Analysis of a Phishing Email Attack Case by the Larva-24009 Threat Actor"
+  },
+  "https://asec.ahnlab.com/en/94696/": {
+    "ts": "2026-09-02T20:49:25.287436+00:00",
+    "title": "[Joint Cybersecurity Advisory] Operation Double Barrel (The Relationship Between a State-Sponsored Threat Actor and the Gunra Ransomware Group)"
+  },
+  "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/": {
+    "ts": "2026-09-02T20:49:25.334849+00:00",
+    "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/": {
+    "ts": "2026-09-02T20:49:25.334868+00:00",
+    "title": "CrowdStrike Delivers the Next Evolution of the Agentic SOC"
+  },
+  "https://cybersecuritynews.com/whatsapp-video-call-flaw/": {
+    "ts": "2026-09-02T20:49:25.383098+00:00",
+    "title": "WhatsApp Video Call Flaw Lets Anyone Bypass Your Android Lock Screen and View Your Photos"
+  },
+  "https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage": {
+    "ts": "2026-09-02T20:49:25.383115+00:00",
+    "title": "AI Gives Cybercriminals a Dangerous Time Advantage"
+  },
+  "https://www.darktrace.com/blog/state-of-ai-cybersecurity-2026-87-of-security-professionals-are-seeing-more-ai-driven-threats-but-few-feel-ready-to-stop-them": {
+    "ts": "2026-09-02T20:49:25.428498+00:00",
+    "title": "87% of security professionals are seeing more AI-driven threats, but few feel prepared to stop them"
+  },
+  "https://gbhackers.com/threat-intelligence-definition-benefits-and-use-cases/": {
+    "ts": "2026-09-02T20:49:25.474581+00:00",
+    "title": "Threat Intelligence: Definition, Benefits, and Use Cases"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/blackfile-vishing-extortion-operation/": {
+    "ts": "2026-09-02T20:49:25.521879+00:00",
+    "title": "Welcome to BlackFile: Inside a Vishing Extortion Operation"
+  },
+  "https://www.group-ib.com/blog/fake-concert-ticket-scam-celine-dion/": {
+    "ts": "2026-09-02T20:49:25.569121+00:00",
+    "title": "The Scam Will Go On: Beware of Fake Offers for Celine Dion Concert Tickets"
+  },
+  "https://www.helpnetsecurity.com/2026/09/02/exploitation-of-sangoma-switchvox-flaw-underway-cve-2026-9586/": {
+    "ts": "2026-09-02T20:49:25.614757+00:00",
+    "title": "Exploitation of Sangoma Switchvox flaw is underway (CVE-2026-9586)"
+  },
+  "https://www.malwarebytes.com/blog/bugs/2026/09/two-critical-chrome-flaws-put-users-at-risk-on-malicious-websites": {
+    "ts": "2026-09-02T20:49:25.614773+00:00",
+    "title": "Two critical Chrome flaws put users at risk on malicious websites"
+  },
+  "https://www.morphisec.com/blog/why-healthcare-cybersecurity-strategies-are-failing-against-ai-driven-threats/": {
+    "ts": "2026-09-02T20:49:25.614777+00:00",
+    "title": "Why Healthcare Cybersecurity Strategies Are Failing Against AI-Driven Threats"
+  },
+  "https://www.rapid7.com/blog/post/pt-metasploit-pro-5-1-released": {
+    "ts": "2026-09-02T20:49:25.614780+00:00",
+    "title": "Metasploit Pro 5.1 Released"
+  },
+  "https://www.recordedfuture.com/blog/modern-attack-vectors": {
+    "ts": "2026-09-02T20:49:25.614984+00:00",
+    "title": "Modern Attack Vectors | Recorded Future"
+  },
+  "https://securityaffairs.com/198289/apt/iran-linked-apt-mirage-kitten-uses-fake-job-tests-to-spread-malware.html": {
+    "ts": "2026-09-02T20:49:25.661839+00:00",
+    "title": "Iran-linked APT Mirage Kitten Uses Fake Job Tests to Spread Malware"
+  },
+  "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/": {
+    "ts": "2026-09-02T20:49:25.708249+00:00",
+    "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions"
+  },
+  "https://www.sentinelone.com/labs/labscon25-replay-breach-alpha-trading-on-cyber-fallout/": {
+    "ts": "2026-09-02T20:49:25.753411+00:00",
+    "title": "LABScon25 Replay | Breach Alpha: Trading on Cyber Fallout"
+  },
+  "https://www.silentpush.com/press-releases/inc-5000/?utm_source=rss&utm_medium=rss&utm_campaign=inc-5000": {
+    "ts": "2026-09-02T20:49:25.801398+00:00",
+    "title": "Silent Push Named No. 184 on the 2026 Inc. 5000 List, the Most Prestigious Ranking of America\u2019s Fastest-Growing Private Companies"
+  },
+  "https://socradar.io/blog/cve-2026-18431-avada-wordpress-rce/": {
+    "ts": "2026-09-02T20:49:25.847599+00:00",
+    "title": "Critical Avada WordPress Flaw (CVE-2026-18431) Enables RCE"
+  },
+  "https://www.sophos.com/en-us/blog/chaos-in-teams-vishing": {
+    "ts": "2026-09-02T20:49:25.895856+00:00",
+    "title": "Chaos in Teams vishing"
+  },
+  "https://www.security.com/expert-perspectives/you-cant-patch-your-way-out-ai": {
+    "ts": "2026-09-02T20:49:25.895875+00:00",
+    "title": "You Can\u2019t Patch Your Way Out of AI"
+  },
+  "https://thedfirreport.com/2025/07/14/kongtuke-filefix-leads-to-new-interlock-rat-variant/": {
+    "ts": "2026-09-02T20:49:25.942321+00:00",
+    "title": "KongTuke FileFix Leads to New Interlock RAT Variant"
+  },
+  "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html": {
+    "ts": "2026-09-02T20:49:25.942340+00:00",
+    "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs"
+  },
+  "https://www.intego.com/mac-security-blog/safari-establish-a-secure-connection/": {
+    "ts": "2026-09-02T20:49:25.942344+00:00",
+    "title": "How to fix \u201cSafari can\u2019t establish a secure connection\u201d on Mac"
+  },
+  "https://www.theregister.com/security/2026/09/02/ai-agents-carried-out-every-step-of-this-ransomware-attack-then-left-the-victim-an-80-page-security-audit/5294009": {
+    "ts": "2026-09-02T20:49:25.942348+00:00",
+    "title": "AI agents carried out every step of this ransomware attack \u2013 then left the victim an 80-page security audit"
+  },
+  "https://threatmon.io/threatmon-launches-national-cyber-defence-country-wide-cyber-intelligence-for-governments-and-national-certs/": {
+    "ts": "2026-09-02T20:49:25.987980+00:00",
+    "title": "ThreatMon Launches National Cyber Defence: Country-Wide Cyber Intelligence for Governments and National CERTs"
+  },
+  "https://www.trendmicro.com/en_us/research/26/g/inside-the-openai-hugging-face-incident.html": {
+    "ts": "2026-09-02T20:49:26.035195+00:00",
+    "title": "Inside the OpenAI \u2013 Hugging Face Incident: The AI Breach With No Human Attacker Behind It"
+  },
+  "https://www.volexity.com/blog/2025/10/08/apt-meets-gpt-targeted-operations-with-untamed-llms/": {
+    "ts": "2026-09-02T20:49:26.082304+00:00",
+    "title": "APT Meets GPT: Targeted Operations with Untamed LLMs"
+  },
+  "https://www.welivesecurity.com/en/business-security/black-hat-usa-2026-vulnerability-discovery-decline-ai-era/": {
+    "ts": "2026-09-02T20:49:26.128188+00:00",
+    "title": "Black Hat USA 2026: Will vulnerability discovery eventually decline in the AI era?"
+  },
+  "https://threats.wiz.io/all-incidents/captivecrunch-midnight-blizzard-hospitality-network-aitm-campaign": {
+    "ts": "2026-09-02T20:49:26.174426+00:00",
+    "title": "CaptiveCrunch: Midnight Blizzard Hospitality Network AiTM Campaign (Campaign)"
   }
 }

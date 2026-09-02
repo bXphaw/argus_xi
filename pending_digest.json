@@ -84,6 +84,31 @@
       "category": "malware_other",
       "title": "keyv and cacheable npm Package Hijacked in Supply Chain Attack (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/keyv-and-cacheable-npm-package-hijacked-in-supply-chain-attack"
+    },
+    {
+      "category": "threat_actor",
+      "title": "[Joint Cybersecurity Advisory] Operation Double Barrel (The Relationship Between a State-Sponsored Threat Actor and the Gunra Ransomware Group)",
+      "url": "https://asec.ahnlab.com/en/94696/"
+    },
+    {
+      "category": "new_technique",
+      "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/"
+    },
+    {
+      "category": "new_technique",
+      "title": "WhatsApp Video Call Flaw Lets Anyone Bypass Your Android Lock Screen and View Your Photos",
+      "url": "https://cybersecuritynews.com/whatsapp-video-call-flaw/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Iran-linked APT Mirage Kitten Uses Fake Job Tests to Spread Malware",
+      "url": "https://securityaffairs.com/198289/apt/iran-linked-apt-mirage-kitten-uses-fake-job-tests-to-spread-malware.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "KongTuke FileFix Leads to New Interlock RAT Variant",
+      "url": "https://thedfirreport.com/2025/07/14/kongtuke-filefix-leads-to-new-interlock-rat-variant/"
     }
   ],
   "last_sent_date": "2026-09-02"
