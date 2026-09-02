@@ -2318,5 +2318,125 @@
   "https://www.trendmicro.com/en_us/research/26/g/open-secure-ai-alliance.html": {
     "ts": "2026-09-02T03:44:50.153530+00:00",
     "title": "Why the Open Secure AI Alliance Matters: Open Frontier Models, Open Deployment Flexibility"
+  },
+  "https://asec.ahnlab.com/en/94847/": {
+    "ts": "2026-09-02T08:38:52.320313+00:00",
+    "title": "Analysis of the Connection Between Xctdoor and Past CRAT Attack Cases (Larva-26005)"
+  },
+  "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/": {
+    "ts": "2026-09-02T08:38:52.371978+00:00",
+    "title": "Sality botnet infrastructure dismantled in joint global takedown"
+  },
+  "https://www.crowdstrike.com/en-us/blog/inside-sality-botnet-disruption-operation/": {
+    "ts": "2026-09-02T08:38:52.421056+00:00",
+    "title": "Peer Pressure: Inside the Sality Botnet Disruption Operation"
+  },
+  "https://cybersecuritynews.com/remote-access-trojan/": {
+    "ts": "2026-09-02T08:38:52.421068+00:00",
+    "title": "Hackers Hide a Full Remote Access Trojan Inside a Real Exodus Crypto Wallet"
+  },
+  "https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within": {
+    "ts": "2026-09-02T08:38:52.421072+00:00",
+    "title": "Stronger Security Drives Ransomware Groups to Recruit From Within"
+  },
+  "https://www.darktrace.com/blog/chinese-apt-campaign-targets-entities-with-updated-fdmtp-backdoor": {
+    "ts": "2026-09-02T08:38:52.472043+00:00",
+    "title": "Chinese APT Campaign Targets Entities with Updated FDMTP Backdoor"
+  },
+  "https://gbhackers.com/google-patches-26-chrome-vulnerabilities/": {
+    "ts": "2026-09-02T08:38:52.524187+00:00",
+    "title": "Google Patches 26 Chrome Vulnerabilities, Including Critical WebGL and Shared Tab Groups Flaws"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/targeted-campaign-us-law-firms/": {
+    "ts": "2026-09-02T08:38:52.586252+00:00",
+    "title": "Seeking Counsel: Ongoing Targeted Campaign Against US Law Firms"
+  },
+  "https://www.group-ib.com/blog/threat-intelligence-connected-layer/": {
+    "ts": "2026-09-02T08:38:52.641765+00:00",
+    "title": "Risks, Vulnerabilities And Response: Threat Intelligence is Quietly Becoming The Connected Layer in Security"
+  },
+  "https://www.helpnetsecurity.com/2026/09/02/duckdb-aws-acquisition-open-source/": {
+    "ts": "2026-09-02T08:38:52.697585+00:00",
+    "title": "DuckDB stays open source while the team behind it goes to work for Amazon"
+  },
+  "https://www.malwarebytes.com/blog/privacy/2026/08/gta-6-leak-hunt-could-expose-data-belonging-to-thousands-of-discord-users": {
+    "ts": "2026-09-02T08:38:52.697597+00:00",
+    "title": "GTA 6 leak hunt could expose data belonging to thousands of Discord users"
+  },
+  "https://www.morphisec.com/blog/the-ai-security-gap-facing-modern-credit-unions/": {
+    "ts": "2026-09-02T08:38:52.697601+00:00",
+    "title": "The AI Security Gap Facing Modern Credit Unions"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-18577-n-able-n-central-authentication-bypass-exploited-in-the-wild": {
+    "ts": "2026-09-02T08:38:52.755689+00:00",
+    "title": "CVE-2026-18577: N-able N-central Authentication Bypass Exploited in the Wild"
+  },
+  "https://www.recordedfuture.com/blog/ai-generated-extortion": {
+    "ts": "2026-09-02T08:38:52.755703+00:00",
+    "title": "Dealing with AI-Generated Extortion"
+  },
+  "https://securityaffairs.com/198270/hacking/hackers-target-langflow-in-cve-2026-0768-attacks.html": {
+    "ts": "2026-09-02T08:38:52.815017+00:00",
+    "title": "Hackers Target Langflow in CVE-2026-0768 Attacks"
+  },
+  "https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/": {
+    "ts": "2026-09-02T08:38:52.894419+00:00",
+    "title": "SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks"
+  },
+  "https://www.sentinelone.com/labs/macos-gaslight-rust-backdoor-turns-prompt-injection-on-the-analyst-not-the-sandbox/": {
+    "ts": "2026-09-02T08:38:52.965452+00:00",
+    "title": "macOS.Gaslight | Rust Backdoor Turns Prompt Injection on the Analyst, Not the Sandbox"
+  },
+  "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=weekly-recap-rogue-ai-models-88m-bitcoin-theft-water-system-attacks-and-dangling-dns-hijacks": {
+    "ts": "2026-09-02T08:38:53.023173+00:00",
+    "title": "Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks"
+  },
+  "https://socradar.io/blog/langflow-ruby-on-rails-flaws-exploited/": {
+    "ts": "2026-09-02T08:38:53.084544+00:00",
+    "title": "Langflow and Rails Exploitation Raises Credential Risks"
+  },
+  "https://www.sophos.com/en-us/blog/2608-volatility-interlock": {
+    "ts": "2026-09-02T08:38:53.144086+00:00",
+    "title": "2608-volatility-interlock"
+  },
+  "https://www.security.com/expert-perspectives/no-apologies-symantec-cbx": {
+    "ts": "2026-09-02T08:38:53.144099+00:00",
+    "title": "No Apologies for Symantec CBX"
+  },
+  "https://thedfirreport.com/2025/09/29/from-a-single-click-how-lunar-spider-enabled-a-near-two-month-intrusion/": {
+    "ts": "2026-09-02T08:38:53.204189+00:00",
+    "title": "From a Single Click: How Lunar Spider Enabled a Near Two-Month Intrusion"
+  },
+  "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html": {
+    "ts": "2026-09-02T08:38:53.291501+00:00",
+    "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another"
+  },
+  "https://www.intego.com/mac-security-blog/can-macs-get-viruses/": {
+    "ts": "2026-09-02T08:38:53.291515+00:00",
+    "title": "Can Macs get viruses? How to protect your Mac"
+  },
+  "https://www.theregister.com/security/2026/09/01/attacker-stole-a-metr-api-key-used-600k-worth-of-credits-and-no-one-noticed-for-weeks/5293730": {
+    "ts": "2026-09-02T08:38:53.365256+00:00",
+    "title": "Attacker stole a METR API key, used $600K worth of credits, and no one noticed for weeks"
+  },
+  "https://cyberpress.org/uk-power-plant-cyberattack/#new_tab": {
+    "ts": "2026-09-02T08:38:53.425533+00:00",
+    "title": "Cyberattack Disrupts 15 MW UK Power Plant for Four Days as OT Attack Vector Remains Unknown"
+  },
+  "https://www.trendmicro.com/en_us/research/26/g/tracking-fake-sites-in-the-2026-world-cup-scam-wave.html": {
+    "ts": "2026-09-02T08:38:53.482068+00:00",
+    "title": "Tracking Over 35,000 Fake Sites in the 2026 World Cup Scam Wave"
+  },
+  "https://www.volexity.com/blog/2026/07/17/proxying-to-compromise-sonicwall-secure-mobile-access-0-day-exploitation/": {
+    "ts": "2026-09-02T08:38:53.538665+00:00",
+    "title": "Proxying to Compromise: SonicWall Secure Mobile Access 0-day Exploitation"
+  },
+  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-august-2026/": {
+    "ts": "2026-09-02T08:38:53.592451+00:00",
+    "title": "This month in security with Tony Anscombe \u2013 August 2026 edition"
+  },
+  "https://threats.wiz.io/all-incidents/payroll-pirates-phishing-campaign-targets-microsoft-365-financial-workflows": {
+    "ts": "2026-09-02T08:38:53.648300+00:00",
+    "title": "Payroll Pirates Phishing Campaign Targets Microsoft 365 Financial Workflows (Campaign)"
   }
 }
