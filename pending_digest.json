@@ -109,6 +109,41 @@
       "category": "malware_windows",
       "title": "KongTuke FileFix Leads to New Interlock RAT Variant",
       "url": "https://thedfirreport.com/2025/07/14/kongtuke-filefix-leads-to-new-interlock-rat-variant/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Email prompt injection attacks on enterprise AI explained: Risks & impact",
+      "url": "https://www.darktrace.com/blog/how-email-delivered-prompt-injection-attacks-can-target-enterprise-ai-and-why-it-matters"
+    },
+    {
+      "category": "malware_other",
+      "title": "GTIG AI Threat Tracker: Adversaries Leverage AI for Vulnerability Exploitation, Augmented Operations, and Initial Access",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Exploit Published for Fresh Cleo Harmony Vulnerability",
+      "url": "https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "PCPJack | Cloud Worm Evicts TeamPCP and Steals Credentials at Scale",
+      "url": "https://www.sentinelone.com/labs/cloud-worm-evicts-teampcp-and-steals-credentials-at-scale/"
+    },
+    {
+      "category": "new_technique",
+      "title": "AI amplifies dangling DNS takeover risks, research shows",
+      "url": "https://www.scworld.com/brief/ai-amplifies-dangling-dns-takeover-risks-research-shows#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=ai-amplifies-dangling-dns-takeover-risks-research-shows"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Federal Agencies Warn of Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+      "url": "https://www.trendmicro.com/en_us/research/26/g/plc-exploitation.html"
     }
   ],
   "last_sent_date": "2026-09-02"

@@ -2798,5 +2798,125 @@
   "https://threats.wiz.io/all-incidents/captivecrunch-midnight-blizzard-hospitality-network-aitm-campaign": {
     "ts": "2026-09-02T20:49:26.174426+00:00",
     "title": "CaptiveCrunch: Midnight Blizzard Hospitality Network AiTM Campaign (Campaign)"
+  },
+  "https://asec.ahnlab.com/en/94707/": {
+    "ts": "2026-09-02T23:08:24.492485+00:00",
+    "title": "Ransom & Dark Web Issues Week 5, July 2026"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/": {
+    "ts": "2026-09-02T23:10:41.372730+00:00",
+    "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/": {
+    "ts": "2026-09-02T23:10:41.372760+00:00",
+    "title": "CrowdStrike Announces Agentic Identity Provider"
+  },
+  "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared": {
+    "ts": "2026-09-02T23:10:41.372764+00:00",
+    "title": "AI\u2019s Vulnerability Surge May Be More Manageable Than First Feared"
+  },
+  "https://www.darktrace.com/blog/how-email-delivered-prompt-injection-attacks-can-target-enterprise-ai-and-why-it-matters": {
+    "ts": "2026-09-02T23:10:41.478865+00:00",
+    "title": "Email prompt injection attacks on enterprise AI explained: Risks & impact"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/": {
+    "ts": "2026-09-02T23:10:41.576152+00:00",
+    "title": "GTIG AI Threat Tracker: Adversaries Leverage AI for Vulnerability Exploitation, Augmented Operations, and Initial Access"
+  },
+  "https://www.group-ib.com/blog/compromised-card-tokenization/": {
+    "ts": "2026-09-02T23:10:41.670420+00:00",
+    "title": "Inside the Matching Engine: How Distributed Tokenization Identifies Compromised Cards Without Exposing Them"
+  },
+  "https://www.helpnetsecurity.com/2026/09/02/oauth-consent-phishing-fbi-warning/": {
+    "ts": "2026-09-02T23:10:41.761142+00:00",
+    "title": "Attackers are going after prominent individuals through OAuth phishing, FBI warns"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/dark-web-site-puts-153-million-drivers-licenses-and-millions-more-ids-up-for-sale": {
+    "ts": "2026-09-02T23:10:41.871037+00:00",
+    "title": "153M+ driver\u2019s licenses for sale on new dark web platform"
+  },
+  "https://www.morphisec.com/blog/prevention-vs-recovery-what-modern-ransomware-defense-gets-wrong/": {
+    "ts": "2026-09-02T23:10:41.982008+00:00",
+    "title": "Prevention vs Recovery: What Modern Ransomware Defense Gets Wrong"
+  },
+  "https://www.rapid7.com/blog/post/c-rapid7-exclusive-networks-expand-uk-ireland-partnership": {
+    "ts": "2026-09-02T23:10:42.081780+00:00",
+    "title": "Rapid7 Expands UK and Ireland Channel Presence Through Strategic Partnership with Exclusive Networks"
+  },
+  "https://www.recordedfuture.com/blog/cyber-threat-hunting": {
+    "ts": "2026-09-02T23:10:42.081799+00:00",
+    "title": "Threat Hunting: A Guide | Recorded Future"
+  },
+  "https://securityaffairs.com/198317/ai/openai-astra-brings-autonomous-zero-day-exploitation-to-ai.html": {
+    "ts": "2026-09-02T23:10:42.081803+00:00",
+    "title": "OpenAI Astra Brings Autonomous Zero-Day Exploitation to AI"
+  },
+  "https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/": {
+    "ts": "2026-09-02T23:10:42.178529+00:00",
+    "title": "Exploit Published for Fresh Cleo Harmony Vulnerability"
+  },
+  "https://www.sentinelone.com/labs/cloud-worm-evicts-teampcp-and-steals-credentials-at-scale/": {
+    "ts": "2026-09-02T23:10:42.280077+00:00",
+    "title": "PCPJack | Cloud Worm Evicts TeamPCP and Steals Credentials at Scale"
+  },
+  "https://www.scworld.com/brief/ai-amplifies-dangling-dns-takeover-risks-research-shows#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=ai-amplifies-dangling-dns-takeover-risks-research-shows": {
+    "ts": "2026-09-02T23:10:42.384617+00:00",
+    "title": "AI amplifies dangling DNS takeover risks, research shows"
+  },
+  "https://socradar.io/blog/gta-vi-leak-cyberleek-explained/": {
+    "ts": "2026-09-02T23:10:42.486733+00:00",
+    "title": "The GTA VI Leak by CyberLeek Explained"
+  },
+  "https://www.sophos.com/en-us/blog/2607-secai": {
+    "ts": "2026-09-02T23:10:42.590081+00:00",
+    "title": "2607-secai"
+  },
+  "https://www.security.com/product-insights/ai-ready-pam-when-your-identity-security-solution-talks-back": {
+    "ts": "2026-09-02T23:10:42.698275+00:00",
+    "title": "AI-Ready PAM: When Your Identity Security Solution Talks Back"
+  },
+  "https://thedfirreport.com/2025/06/30/hide-your-rdp-password-spray-leads-to-ransomhub-deployment/": {
+    "ts": "2026-09-02T23:10:42.794504+00:00",
+    "title": "Hide Your RDP: Password Spray Leads to RansomHub Deployment"
+  },
+  "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html": {
+    "ts": "2026-09-02T23:10:42.890321+00:00",
+    "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code"
+  },
+  "https://www.intego.com/mac-security-blog/how-to-securely-dispose-of-your-old-iphone-or-ipad/": {
+    "ts": "2026-09-02T23:10:42.890341+00:00",
+    "title": "What to do with old iPhones and iPads before you sell, recycle, or dispose of them"
+  },
+  "https://www.theregister.com/security/2026/09/02/claude-mythos-only-model-to-complete-full-cyber-kill-chain-experts-say/5294071": {
+    "ts": "2026-09-02T23:10:42.890344+00:00",
+    "title": "Claude Mythos only model to complete full cyber kill chain, experts say"
+  },
+  "https://threatmon.io/the-top-10-vulnerabilities-threat-actors-exploited-most-in-2026/": {
+    "ts": "2026-09-02T23:10:42.890347+00:00",
+    "title": "The Top 10 Vulnerabilities Threat Actors Exploited Most in 2026"
+  },
+  "https://www.trendmicro.com/en_us/research/26/g/plc-exploitation.html": {
+    "ts": "2026-09-02T23:10:42.994512+00:00",
+    "title": "Federal Agencies Warn of Ongoing PLC Exploitation Against Critical U.S. Infrastructure"
+  },
+  "https://www.volexity.com/blog/2025/08/11/go-get-em-updates-to-volexity-golang-tooling/": {
+    "ts": "2026-09-02T23:10:42.994533+00:00",
+    "title": "Go Get \u2018Em: Updates to Volexity Golang Tooling"
+  },
+  "https://www.welivesecurity.com/en/business-security/black-hat-usa-2026-hugging-face-hack-human-responsibility/": {
+    "ts": "2026-09-02T23:10:43.091156+00:00",
+    "title": "Black Hat USA 2026: What the Hugging Face hack tells us about human responsibility"
+  },
+  "https://threats.wiz.io/all-incidents/cl0p-exploitation-of-ptc-windchill-and-flexplm-vulnerability": {
+    "ts": "2026-09-02T23:10:43.184595+00:00",
+    "title": "Cl0p Exploitation of PTC Windchill and FlexPLM Vulnerability (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/captivecrunch-midnight-blizzard-weaponizes-hotel-wi-fi-captive-portals": {
+    "ts": "2026-09-02T23:10:43.288780+00:00",
+    "title": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials"
+  },
+  "https://asec.ahnlab.com/en/94704/": {
+    "ts": "2026-09-02T23:10:43.385429+00:00",
+    "title": "Not Every Fox is Silver: Inside an AtlasRAT loader chain"
   }
 }
