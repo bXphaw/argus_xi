@@ -3438,5 +3438,125 @@
   "https://securityaffairs.com/198342/hacking/chaotic-eclipse-releases-crowdstrike-falcon-zeroday-falconflank.html": {
     "ts": "2026-09-03T20:46:37.001233+00:00",
     "title": "Chaotic Eclipse Releases Crowdstrike Falcon ZeroDay\u00a0FalconFlank"
+  },
+  "https://cybersecuritynews.com/hackers-weaponize-screenconnect/": {
+    "ts": "2026-09-03T23:05:47.067145+00:00",
+    "title": "Hackers Weaponize ScreenConnect to Spread Worm-Like Malware Across Windows Systems"
+  },
+  "https://threats.wiz.io/all-incidents/jscrambler-npm-package-compromised-in-supply-chain-attack": {
+    "ts": "2026-09-03T23:06:15.383864+00:00",
+    "title": "Jscrambler npm Package Compromised in Supply Chain Attack (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/": {
+    "ts": "2026-09-03T23:08:06.234983+00:00",
+    "title": "French hospital fined \u20ac500,000 after breach exposes data of 727,000"
+  },
+  "https://www.darktrace.com/blog/how-a-leading-bank-is-prioritizing-risk-management-to-power-a-resilient-future": {
+    "ts": "2026-09-03T23:08:06.235004+00:00",
+    "title": "How a Leading Bank is Prioritizing Risk Management with Darktrace"
+  },
+  "https://gbhackers.com/microsoft-to-automatically-enable-memory-integrity/": {
+    "ts": "2026-09-03T23:08:06.235008+00:00",
+    "title": "Microsoft to Automatically Enable Memory Integrity on Windows Devices to Block Kernel Attacks"
+  },
+  "https://www.group-ib.com/blog/gitbait-phishing-mexico-banking-finance-es/": {
+    "ts": "2026-09-03T23:08:06.464143+00:00",
+    "title": "GitBait: Phishing dirigido al sector financiero mexicano"
+  },
+  "https://www.helpnetsecurity.com/2026/09/03/david-halbreich-reed-smith-ai-insurance-coverage-gaps/": {
+    "ts": "2026-09-03T23:08:06.464168+00:00",
+    "title": "When AI quietly breaks things, who pays?"
+  },
+  "https://www.recordedfuture.com/research/nexus-tag182-disseminates-markirat": {
+    "ts": "2026-09-03T23:08:06.649667+00:00",
+    "title": "Iran-Nexus TAG-182 Disseminates MarkiRAT Surveillance Tool"
+  },
+  "https://securityaffairs.com/198377/intelligence/pegasus-and-novispy-used-against-serbian-protesters.html": {
+    "ts": "2026-09-03T23:08:06.833221+00:00",
+    "title": "Pegasus and NoviSpy Used Against Serbian Protesters"
+  },
+  "https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/": {
+    "ts": "2026-09-03T23:08:07.015354+00:00",
+    "title": "HiddenLayer Raises $100 Million for AI Runtime Security"
+  },
+  "https://socradar.io/blog/fbi-nexus-claim-driver-license-records/": {
+    "ts": "2026-09-03T23:08:07.207352+00:00",
+    "title": "FBI Investigates Nexus Claim of 153M+ Driver\u2019s License Records"
+  },
+  "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html": {
+    "ts": "2026-09-03T23:08:07.390959+00:00",
+    "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/09/01/anthropic-pledges-to-try-harder-to-keep-models-under-control-asks-partners-to-chip-in/5293733": {
+    "ts": "2026-09-03T23:08:07.390979+00:00",
+    "title": "Anthropic pledges to try harder to keep models under control, asks partners to chip in"
+  },
+  "https://www.trendmicro.com/en_us/research/26/f/PeopleTools.html": {
+    "ts": "2026-09-03T23:08:07.585853+00:00",
+    "title": "PeopleSoft PeopleTools Pre-Authentication RCE: A PSIGW SSRF Chain That Executes Inside the JVM"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/beyond-screenshot-why-verify-you-see/": {
+    "ts": "2026-09-03T23:08:07.585875+00:00",
+    "title": "Beyond the screenshot: Why you should verify what you see"
+  },
+  "https://threats.wiz.io/all-incidents/cryptomining-campaign-targeting-linux-ssh-servers": {
+    "ts": "2026-09-03T23:08:07.768695+00:00",
+    "title": "Cryptomining campaign targeting Linux SSH servers (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/ransomware-moves-org-chart-managers-are-prime-targets": {
+    "ts": "2026-09-03T23:08:07.768716+00:00",
+    "title": "Ransomware Moves up the Org Chart: Managers Are Prime Targets"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/": {
+    "ts": "2026-09-03T23:08:07.958606+00:00",
+    "title": "Anthropic confirms Claude is down, multiple models affected"
+  },
+  "https://cybersecuritynews.com/avast-antivirus-0-day-vulnerability-poc-released/": {
+    "ts": "2026-09-03T23:08:08.141482+00:00",
+    "title": "Chaotic Eclipse Claims Avast Antivirus 0-Day Vulnerability \u2013 PoC Released"
+  },
+  "https://www.darktrace.com/blog/under-medusas-gaze-how-darktrace-uncovers-rmm-abuse-in-ransomware-campaigns": {
+    "ts": "2026-09-03T23:08:08.326299+00:00",
+    "title": "Medusa Ransomware 2025: RMM Abuse in Ransomware Campaigns"
+  },
+  "https://gbhackers.com/new-7-sweepled-gadget-detects-hidden-cameras/": {
+    "ts": "2026-09-03T23:08:08.512117+00:00",
+    "title": "New $7 SweepLED Gadget Detects Hidden Cameras With 94% Accuracy in 5 Seconds"
+  },
+  "https://www.group-ib.com/blog/gitbait-phishing-mexico-banking-finance/": {
+    "ts": "2026-09-03T23:08:08.694738+00:00",
+    "title": "GitBait: Phishing the Mexican Financial Sector"
+  },
+  "https://www.helpnetsecurity.com/2026/09/03/windows-memory-integrity-update/": {
+    "ts": "2026-09-03T23:08:08.694760+00:00",
+    "title": "Windows memory integrity switches on automatically for eligible devices in October 2026"
+  },
+  "https://www.recordedfuture.com/blog/expertise-meets-algorithm-intelligence-edge": {
+    "ts": "2026-09-03T23:08:08.694764+00:00",
+    "title": "Where Expertise Meets Algorithm: The Insikt Group\u00ae Intelligence Edge"
+  },
+  "https://securityaffairs.com/198332/intelligence/2000-leaked-documents-reveal-how-russia-turns-engineering-students-into-gru-cyber-operators.html": {
+    "ts": "2026-09-03T23:08:08.878043+00:00",
+    "title": "2,000 Leaked Documents Reveal How Russia Turns Engineering Students Into GRU Cyber Operators"
+  },
+  "https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/": {
+    "ts": "2026-09-03T23:08:08.878067+00:00",
+    "title": "153 Million Driver License Images Offered on Dark Web"
+  },
+  "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html": {
+    "ts": "2026-09-03T23:08:08.878072+00:00",
+    "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data"
+  },
+  "https://www.theregister.com/security/2026/09/01/33-hour-bgp-hijack-of-softaculous-traffic-prompts-security-scramble/5293608": {
+    "ts": "2026-09-03T23:08:09.061719+00:00",
+    "title": "33-hour BGP hijack of Softaculous traffic prompts security scramble"
+  },
+  "https://www.trendmicro.com/en_us/research/26/f/claudeai-shared-chat-abused-in-malvertising.html": {
+    "ts": "2026-09-03T23:08:09.246921+00:00",
+    "title": "Threat Actors Abuse claude.ai Shared Chat for ClickFix Malvertising Campaign"
+  },
+  "https://www.welivesecurity.com/en/eset-research/forgotten-uefi-shims-undermining-secure-boot/": {
+    "ts": "2026-09-03T23:08:09.432251+00:00",
+    "title": "Forgotten UEFI shims undermining Secure Boot"
   }
 }

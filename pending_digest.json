@@ -59,6 +59,26 @@
       "category": "new_technique",
       "title": "QR Phishing Hits Record Levels as Attackers Hide Malicious Links Inside QR Codes",
       "url": "https://gbhackers.com/qr-codes-attack/"
+    },
+    {
+      "category": "new_technique",
+      "title": "GitBait: Phishing dirigido al sector financiero mexicano",
+      "url": "https://www.group-ib.com/blog/gitbait-phishing-mexico-banking-finance-es/"
+    },
+    {
+      "category": "new_technique",
+      "title": "PeopleSoft PeopleTools Pre-Authentication RCE: A PSIGW SSRF Chain That Executes Inside the JVM",
+      "url": "https://www.trendmicro.com/en_us/research/26/f/PeopleTools.html"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Cryptomining campaign targeting Linux SSH servers (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/cryptomining-campaign-targeting-linux-ssh-servers"
+    },
+    {
+      "category": "threat_actor",
+      "title": "2,000 Leaked Documents Reveal How Russia Turns Engineering Students Into GRU Cyber Operators",
+      "url": "https://securityaffairs.com/198332/intelligence/2000-leaked-documents-reveal-how-russia-turns-engineering-students-into-gru-cyber-operators.html"
     }
   ],
   "last_sent_date": "2026-09-03"
