@@ -1,4 +1,40 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "threat_actor",
+      "title": "Attack Cases by the Kimsuky Group Impersonating Diplomats (PebbleDash, PrxClient)",
+      "url": "https://asec.ahnlab.com/en/94552/"
+    },
+    {
+      "category": "new_technique",
+      "title": "LLMjacking Attack Uses Leaked AWS IAM Key to Steal Paid AI Model Access",
+      "url": "https://cybersecuritynews.com/llmjacking-attack/"
+    },
+    {
+      "category": "new_technique",
+      "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours"
+    },
+    {
+      "category": "malware_macos",
+      "title": "AppleScript Abuse: Unpacking a macOS Phishing Campaign",
+      "url": "https://www.darktrace.com/blog/applescript-abuse-unpacking-a-macos-phishing-campaign"
+    },
+    {
+      "category": "new_technique",
+      "title": "Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America",
+      "url": "https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "CVE-2025-54068 Exploited in Large-Scale Laravel Livewire Credential Theft Campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/cve-2025-54068-exploited-in-large-scale-laravel-livewire-credential-theft-campaign"
+    },
+    {
+      "category": "threat_actor",
+      "title": "'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems",
+      "url": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems"
+    }
+  ],
   "last_sent_date": "2026-09-03"
 }

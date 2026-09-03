@@ -3198,5 +3198,125 @@
   "https://www.theregister.com/security/2026/09/03/uks-online-safety-act-has-made-absolutely-no-difference-kids-say/5293893": {
     "ts": "2026-09-03T13:32:02.375674+00:00",
     "title": "UK's Online Safety Act has made 'absolutely no difference,' kids say"
+  },
+  "https://asec.ahnlab.com/en/94543/": {
+    "ts": "2026-09-03T17:40:50.431489+00:00",
+    "title": "June 2026 Security Issues in Korean & Global Financial Sector"
+  },
+  "https://cybersecuritynews.com/fewer-attacks-more-force-link11s-european-cyber-report-finds-new-ddos-records-for-the-first-half-of-2026/": {
+    "ts": "2026-09-03T17:40:51.333724+00:00",
+    "title": "Fewer attacks, more force: Link11\u2019s European Cyber Report finds new DDoS records for the first half of 2026"
+  },
+  "https://asec.ahnlab.com/en/94552/": {
+    "ts": "2026-09-03T17:42:46.744816+00:00",
+    "title": "Attack Cases by the Kimsuky Group Impersonating Diplomats (PebbleDash, PrxClient)"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/": {
+    "ts": "2026-09-03T17:42:46.744835+00:00",
+    "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs"
+  },
+  "https://cybersecuritynews.com/llmjacking-attack/": {
+    "ts": "2026-09-03T17:42:46.791918+00:00",
+    "title": "LLMjacking Attack Uses Leaked AWS IAM Key to Steal Paid AI Model Access"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours": {
+    "ts": "2026-09-03T17:42:46.837997+00:00",
+    "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours"
+  },
+  "https://www.darktrace.com/blog/applescript-abuse-unpacking-a-macos-phishing-campaign": {
+    "ts": "2026-09-03T17:42:46.883035+00:00",
+    "title": "AppleScript Abuse: Unpacking a macOS Phishing Campaign"
+  },
+  "https://gbhackers.com/fewer-attacks-more-force-link11s-european-cyber-report-finds-new-ddos-records-for-the-first-half-of-2026/": {
+    "ts": "2026-09-03T17:42:46.929177+00:00",
+    "title": "Fewer attacks, more force: Link11\u2019s European Cyber Report finds new DDoS records for the first half of 2026"
+  },
+  "https://www.group-ib.com/blog/millenium-rat-maas/": {
+    "ts": "2026-09-03T17:42:46.975958+00:00",
+    "title": "Millenium: A RAT Rewritten, A Threat Multiplied"
+  },
+  "https://www.helpnetsecurity.com/2026/09/03/thomson-reuters-reveals-breach-that-exposed-u-s-and-canadian-court-records/": {
+    "ts": "2026-09-03T17:42:47.021820+00:00",
+    "title": "Thomson Reuters reveals breach that exposed U.S. and Canadian court records"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/streamrat-android-malware-spreads-through-meta-and-tiktok-ads": {
+    "ts": "2026-09-03T17:42:47.069187+00:00",
+    "title": "StreamRat Android malware spreads through Meta and TikTok ads"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/": {
+    "ts": "2026-09-03T17:42:47.116690+00:00",
+    "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion"
+  },
+  "https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/": {
+    "ts": "2026-09-03T17:42:47.165084+00:00",
+    "title": "Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America"
+  },
+  "https://www.recordedfuture.com/research/h1-2026-malware-vulnerability-trends": {
+    "ts": "2026-09-03T17:42:47.165099+00:00",
+    "title": "H1 2026 Malware Vulnerability Trends"
+  },
+  "https://securityaffairs.com/198354/data-breach/412000-the-town-2025-ticket-buyers-data-hits-the-dark-web.html": {
+    "ts": "2026-09-03T17:42:47.165103+00:00",
+    "title": "412,000 The Town 2025 Ticket Buyers\u2019 Data Hits the Dark Web"
+  },
+  "https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/": {
+    "ts": "2026-09-03T17:42:47.165106+00:00",
+    "title": "Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal"
+  },
+  "https://socradar.io/blog/jfrog-artifactory-cve-2026-82329/": {
+    "ts": "2026-09-03T17:42:47.165109+00:00",
+    "title": "JFrog Artifactory CVE-2026-82329 Exploited"
+  },
+  "https://www.security.com/threat-intelligence/node-js-returns-ransomware": {
+    "ts": "2026-09-03T17:42:47.211577+00:00",
+    "title": "Node.js: Old Technique Makes a Comeback"
+  },
+  "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html": {
+    "ts": "2026-09-03T17:42:47.256919+00:00",
+    "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root"
+  },
+  "https://www.theregister.com/security/2026/09/03/sponsored-drowning-in-cves-and-thirsty-for-answers-try-ctem/5293906": {
+    "ts": "2026-09-03T17:42:47.304091+00:00",
+    "title": "Drowning in CVEs and thirsty for answers? Try CTEM"
+  },
+  "https://www.trendmicro.com/en_us/research/26/f/tonresolver.html": {
+    "ts": "2026-09-03T17:42:47.358996+00:00",
+    "title": "TONResolver RAT Abuses TON Blockchain to Target Japan's Hotel Industry"
+  },
+  "https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/": {
+    "ts": "2026-09-03T17:42:47.406582+00:00",
+    "title": "The Nearest Neighbor Attack: How A Russian APT Weaponized Nearby Wi-Fi Networks for Covert Access"
+  },
+  "https://www.welivesecurity.com/en/how-to/ive-been-deepfaked-what-do/": {
+    "ts": "2026-09-03T17:42:47.406595+00:00",
+    "title": "I\u2019ve been deepfaked: What do I do?"
+  },
+  "https://threats.wiz.io/all-incidents/cve-2025-54068-exploited-in-large-scale-laravel-livewire-credential-theft-campaign": {
+    "ts": "2026-09-03T17:42:47.452739+00:00",
+    "title": "CVE-2025-54068 Exploited in Large-Scale Laravel Livewire Credential Theft Campaign (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/threatlabz-2026-report-frontier-ai-and-enterprise-readiness": {
+    "ts": "2026-09-03T17:42:47.452754+00:00",
+    "title": "ThreatLabz 2026 Report: Frontier AI and Enterprise Readiness"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/": {
+    "ts": "2026-09-03T17:42:47.452758+00:00",
+    "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch"
+  },
+  "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems": {
+    "ts": "2026-09-03T17:42:47.500325+00:00",
+    "title": "'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems"
+  },
+  "https://www.darktrace.com/blog/cve-2026-1731-how-darktrace-sees-the-beyondtrust-exploitation-wave-unfolding": {
+    "ts": "2026-09-03T17:42:47.546984+00:00",
+    "title": "CVE-2026-1731: How Darktrace Sees the BeyondTrust Exploitation Wave Unfolding"
+  },
+  "https://gbhackers.com/fake-acquisition-scam/": {
+    "ts": "2026-09-03T17:42:47.593187+00:00",
+    "title": "Fake Acquisition Scam Uses Forged NDAs to Demand \u20ac626,000 Corporate Payment."
+  },
+  "https://www.group-ib.com/blog/cyber-retainer-signals/": {
+    "ts": "2026-09-03T17:42:47.638963+00:00",
+    "title": "Brace Before The Impact: 7 Signals Your Organization Needs A Cybersecurity Services Retainer"
   }
 }
