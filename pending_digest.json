@@ -144,6 +144,41 @@
       "category": "apt_campaign",
       "title": "Federal Agencies Warn of Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
       "url": "https://www.trendmicro.com/en_us/research/26/g/plc-exploitation.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Case Study: Targeted Attack Case on an MS-SQL Server Involving the Installation of GotoHTTP and SoftEther VPN",
+      "url": "https://asec.ahnlab.com/en/94685/"
+    },
+    {
+      "category": "malware_android",
+      "title": "RedHook Returns with a Dangerous Upgrade",
+      "url": "https://www.group-ib.com/blog/redhook-android-rat-upgraded/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "BengalSEO Part 1: Anatomy of the Operation",
+      "url": "https://thedfirreport.com/2026/08/24/bengalseo-part-1-anatomy-of-the-operation/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+      "url": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "The Rise and Fall of BreachForums: A Cybercrime Empire Collapses",
+      "url": "https://threatmon.io/the-rise-and-fall-of-breachforums-a-cybercrime-empire-collapses/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "NetSupport RAT: Why Legitimate Tools Are as Damaging as Malware",
+      "url": "https://www.darktrace.com/blog/netsupport-rat-how-legitimate-tools-can-be-as-damaging-as-malware"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Connecting Scattered Spider: Defining A Cybercrime Collective Through Shared TTPs",
+      "url": "https://www.group-ib.com/blog/connecting-scattered-spider/"
     }
   ],
   "last_sent_date": "2026-09-02"

@@ -2918,5 +2918,125 @@
   "https://asec.ahnlab.com/en/94704/": {
     "ts": "2026-09-02T23:10:43.385429+00:00",
     "title": "Not Every Fox is Silver: Inside an AtlasRAT loader chain"
+  },
+  "https://asec.ahnlab.com/en/94685/": {
+    "ts": "2026-09-03T03:43:15.565179+00:00",
+    "title": "Case Study: Targeted Attack Case on an MS-SQL Server Involving the Installation of GotoHTTP and SoftEther VPN"
+  },
+  "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/": {
+    "ts": "2026-09-03T03:43:15.565195+00:00",
+    "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce": {
+    "ts": "2026-09-03T03:43:15.565200+00:00",
+    "title": "SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE"
+  },
+  "https://www.darktrace.com/blog/state-of-ai-cybersecurity-2026-92-of-security-professionals-concerned-about-the-impact-of-ai-agents": {
+    "ts": "2026-09-03T03:43:15.565203+00:00",
+    "title": "92% of Security Pros Concerned About AI Agents"
+  },
+  "https://www.group-ib.com/blog/redhook-android-rat-upgraded/": {
+    "ts": "2026-09-03T03:43:15.610823+00:00",
+    "title": "RedHook Returns with a Dangerous Upgrade"
+  },
+  "https://www.helpnetsecurity.com/2026/09/02/sonicwall-sma-1000-cve-2026-83548-cve-2026-83549-zero-day-attacks/": {
+    "ts": "2026-09-03T03:43:15.654440+00:00",
+    "title": "SonicWall SMA 1000 appliances under attack via zero-day flaws"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/09/your-ai-chats-could-be-used-in-court": {
+    "ts": "2026-09-03T03:43:15.698810+00:00",
+    "title": "Your AI chats could be used in court"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/": {
+    "ts": "2026-09-03T03:43:15.746349+00:00",
+    "title": "Impersonating IT support: how threat actors turn a remote session into enterprise-wide access"
+  },
+  "https://www.recordedfuture.com/blog/tracking-advanced-persistent-threats": {
+    "ts": "2026-09-03T03:43:15.792193+00:00",
+    "title": "Tracking Advanced Persistent Threat Groups | Recorded Future"
+  },
+  "https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/": {
+    "ts": "2026-09-03T03:43:15.838390+00:00",
+    "title": "Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards"
+  },
+  "https://www.sophos.com/en-us/blog/july-patch-tuesday-only-feels-endless": {
+    "ts": "2026-09-03T03:43:15.838403+00:00",
+    "title": "July Patch Tuesday only feels endless"
+  },
+  "https://thedfirreport.com/2026/08/24/bengalseo-part-1-anatomy-of-the-operation/": {
+    "ts": "2026-09-03T03:43:15.884527+00:00",
+    "title": "BengalSEO Part 1: Anatomy of the Operation"
+  },
+  "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html": {
+    "ts": "2026-09-03T03:43:15.929835+00:00",
+    "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages"
+  },
+  "https://www.theregister.com/security/2026/09/02/legacy-lenovo-login-opens-5000-dropbox-accounts-to-attackers/5293924": {
+    "ts": "2026-09-03T03:43:15.929844+00:00",
+    "title": "Legacy Lenovo login opens 5,000 Dropbox accounts to attackers"
+  },
+  "https://threatmon.io/the-rise-and-fall-of-breachforums-a-cybercrime-empire-collapses/": {
+    "ts": "2026-09-03T03:43:15.974345+00:00",
+    "title": "The Rise and Fall of BreachForums: A Cybercrime Empire Collapses"
+  },
+  "https://www.trendmicro.com/en_us/research/26/g/device-code-phishing.html": {
+    "ts": "2026-09-03T03:43:16.019139+00:00",
+    "title": "Device Code Phishing: Turning a Convenience Feature Into an MFA Bypass"
+  },
+  "https://www.volexity.com/blog/2025/04/22/phishing-for-codes-russian-threat-actors-target-microsoft-365-oauth-workflows/": {
+    "ts": "2026-09-03T03:43:16.065559+00:00",
+    "title": "Phishing for Codes: Russian Threat Actors Target Microsoft 365 OAuth Workflows"
+  },
+  "https://www.welivesecurity.com/en/business-security/black-hat-usa-2026-ai-racing-cybersecurity-controls/": {
+    "ts": "2026-09-03T03:43:16.111514+00:00",
+    "title": "Black Hat USA 2026: AI is racing ahead of cybersecurity controls"
+  },
+  "https://threats.wiz.io/all-incidents/sleepergem-rubygems-supply-chain-attack-targets-dormant-maintainer-accounts": {
+    "ts": "2026-09-03T03:43:16.156036+00:00",
+    "title": "SleeperGem: RubyGems Supply Chain Attack Targets Dormant Maintainer Accounts (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/tracking-shai-hulud-inside-chaindrop-npm-worm": {
+    "ts": "2026-09-03T03:43:16.201197+00:00",
+    "title": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm"
+  },
+  "https://asec.ahnlab.com/en/94594/": {
+    "ts": "2026-09-03T03:43:16.201209+00:00",
+    "title": "June 2026 Threat Trend Report on APT Attacks (South Korea)"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/": {
+    "ts": "2026-09-03T03:43:16.201213+00:00",
+    "title": "Microsoft Defender flags legitimate Google search links as malicious"
+  },
+  "https://www.darktrace.com/blog/netsupport-rat-how-legitimate-tools-can-be-as-damaging-as-malware": {
+    "ts": "2026-09-03T03:43:16.246302+00:00",
+    "title": "NetSupport RAT: Why Legitimate Tools Are as Damaging as Malware"
+  },
+  "https://www.group-ib.com/blog/connecting-scattered-spider/": {
+    "ts": "2026-09-03T03:43:16.292699+00:00",
+    "title": "Connecting Scattered Spider: Defining A Cybercrime Collective Through Shared TTPs"
+  },
+  "https://www.helpnetsecurity.com/2026/09/02/grid-battery-storage-cyberattack/": {
+    "ts": "2026-09-03T03:43:16.292708+00:00",
+    "title": "A battery storage cyberattack would look exactly like a badly tuned controller"
+  },
+  "https://www.recordedfuture.com/research/iran-ai-asymmetric-playbook": {
+    "ts": "2026-09-03T03:43:16.340788+00:00",
+    "title": "AI Has Enhanced Iran\u2019s Asymmetric Playbook During the 2026 Conflict"
+  },
+  "https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/": {
+    "ts": "2026-09-03T03:43:16.390120+00:00",
+    "title": "Malicious Virtualizor Update Served via BGP Hijacking"
+  },
+  "https://www.sophos.com/en-us/blog/sonicwall-sma1000-vulnerabilities-in-active-exploitation": {
+    "ts": "2026-09-03T03:43:16.436861+00:00",
+    "title": "SonicWall SMA1000 vulnerabilities in active exploitation"
+  },
+  "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html": {
+    "ts": "2026-09-03T03:43:16.485450+00:00",
+    "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access"
+  },
+  "https://www.theregister.com/security/2026/09/01/firefox-helps-iphone-users-bypass-ads-on-web-sites-while-making-money-showing-its-own-ads/5293747": {
+    "ts": "2026-09-03T03:43:16.530778+00:00",
+    "title": "Firefox helps iPhone users bypass ads on web sites while making money showing its own ads"
   }
 }
