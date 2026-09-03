@@ -3158,5 +3158,45 @@
   "https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/": {
     "ts": "2026-09-03T08:46:57.305317+00:00",
     "title": "Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication"
+  },
+  "https://www.recordedfuture.com/blog/june-2026-cve-landscape": {
+    "ts": "2026-09-03T13:24:55.754631+00:00",
+    "title": "June 2026 CVE Landscape"
+  },
+  "https://asec.ahnlab.com/en/94494/": {
+    "ts": "2026-09-03T13:25:05.610622+00:00",
+    "title": "Ransom & Dark Web Issues Week 3, July 2026"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/": {
+    "ts": "2026-09-03T13:27:17.054840+00:00",
+    "title": "Microsoft says KB5120998 Windows update resets desktop settings"
+  },
+  "https://www.darktrace.com/blog/what-the-darktrace-annual-threat-report-2026-means-for-security-leaders": {
+    "ts": "2026-09-03T13:27:32.072842+00:00",
+    "title": "What the Darktrace Annual Threat Report 2026 Means for Security Leaders"
+  },
+  "https://www.sophos.com/en-us/blog/ai-in-the-underground-curiosity-claims-and-concerns": {
+    "ts": "2026-09-03T13:29:02.165591+00:00",
+    "title": "AI in the underground: Curiosity, claims, and concerns"
+  },
+  "https://www.theregister.com/cyber-crime/2026/09/03/cybercrooks-trawl-fishbrain-to-net-password-hashes/5294158": {
+    "ts": "2026-09-03T13:29:32.202616+00:00",
+    "title": "Cybercrooks trawl Fishbrain to net password hashes"
+  },
+  "https://www.helpnetsecurity.com/2026/09/03/smartphone-hidden-camera-detector-sweepled/": {
+    "ts": "2026-09-03T13:31:17.323089+00:00",
+    "title": "Researchers built a $7 gadget for anyone paranoid about hidden cameras in hotel rooms"
+  },
+  "https://www.recordedfuture.com/blog/riskx-interview-payment-fraud": {
+    "ts": "2026-09-03T13:31:17.323106+00:00",
+    "title": "RiskX interview video featuring Colin Mahony and Mastercard's Aditi Sawhney"
+  },
+  "https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/": {
+    "ts": "2026-09-03T13:31:32.341000+00:00",
+    "title": "AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million"
+  },
+  "https://www.theregister.com/security/2026/09/03/uks-online-safety-act-has-made-absolutely-no-difference-kids-say/5293893": {
+    "ts": "2026-09-03T13:32:02.375674+00:00",
+    "title": "UK's Online Safety Act has made 'absolutely no difference,' kids say"
   }
 }
