@@ -3038,5 +3038,125 @@
   "https://www.theregister.com/security/2026/09/01/firefox-helps-iphone-users-bypass-ads-on-web-sites-while-making-money-showing-its-own-ads/5293747": {
     "ts": "2026-09-03T03:43:16.530778+00:00",
     "title": "Firefox helps iPhone users bypass ads on web sites while making money showing its own ads"
+  },
+  "https://asec.ahnlab.com/en/95223/": {
+    "ts": "2026-09-03T08:44:39.114611+00:00",
+    "title": "Ransom & Dark Web Issues Week 1, September 2026"
+  },
+  "https://asec.ahnlab.com/en/94576/": {
+    "ts": "2026-09-03T08:44:53.508741+00:00",
+    "title": "Ransom & Dark Web Issues Week 4, July 2026"
+  },
+  "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/": {
+    "ts": "2026-09-03T08:46:54.768175+00:00",
+    "title": "US charges Russian for infecting 80,000 freelancers with malware"
+  },
+  "https://cyble.com/blog/supply-chain-attacks-in-2026-vendor-risk/": {
+    "ts": "2026-09-03T08:46:54.768196+00:00",
+    "title": "Supply Chain Attacks in 2026: Why Threat Intelligence Is the Only Early Warning System That Works"
+  },
+  "https://www.darktrace.com/blog/when-reality-diverges-from-the-playbook-darktrace-identifies-encryption-in-a-world-leaks-ransomware-attack": {
+    "ts": "2026-09-03T08:46:54.893076+00:00",
+    "title": "Darktrace Identifies Encryption in a World Leaks Ransomware Attack"
+  },
+  "https://www.group-ib.com/blog/chenlun-outsider-phaas-kit/": {
+    "ts": "2026-09-03T08:46:55.039904+00:00",
+    "title": "The Outsider Phishing Kit: A Resilient Threat in the Face of Law Enforcement Action"
+  },
+  "https://www.helpnetsecurity.com/2026/09/03/sans-aws-agentic-ai-security/": {
+    "ts": "2026-09-03T08:46:55.176232+00:00",
+    "title": "Your AI agent\u2019s system prompt is not a security control"
+  },
+  "https://www.recordedfuture.com/blog/the-shift-new-era-ai": {
+    "ts": "2026-09-03T08:46:55.307691+00:00",
+    "title": "The Shift: A New Era of AI Regulation"
+  },
+  "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/": {
+    "ts": "2026-09-03T08:46:55.436062+00:00",
+    "title": "OpenAI\u2019s Astra Crosses \u2018Critical\u2019 Cyber Threshold After Finding Zero-Days"
+  },
+  "https://www.sophos.com/en-us/blog/2607_agents_vs_telemetry": {
+    "ts": "2026-09-03T08:46:55.574182+00:00",
+    "title": "When AI agents look like attackers: what behavioral telemetry tells us"
+  },
+  "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html": {
+    "ts": "2026-09-03T08:46:55.699681+00:00",
+    "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon"
+  },
+  "https://www.theregister.com/security/2026/09/03/terminated-employee-cost-company-hundreds-of-thousands-of-dollars-because-nobody-revoked-access/5292763": {
+    "ts": "2026-09-03T08:46:55.824905+00:00",
+    "title": "Terminated employee cost company hundreds of thousands of dollars because nobody revoked access"
+  },
+  "https://threatmon.io/what-happened-to-breachforums/": {
+    "ts": "2026-09-03T08:46:55.954714+00:00",
+    "title": "What Happened to BreachForums"
+  },
+  "https://www.trendmicro.com/en_us/research/26/g/making-sense-of-the-vulnpocalypse.html": {
+    "ts": "2026-09-03T08:46:55.954734+00:00",
+    "title": "Volume Is Not Risk: Making Sense of the 'Vulnpocalypse'"
+  },
+  "https://www.volexity.com/blog/2025/04/01/goresolver-using-control-flow-graph-similarity-to-deobfuscate-golang-binaries-automatically/": {
+    "ts": "2026-09-03T08:46:55.954737+00:00",
+    "title": "GoResolver: Using Control-flow Graph Similarity to Deobfuscate Golang Binaries, Automatically"
+  },
+  "https://www.welivesecurity.com/en/kids-online/ai-tutors-safe-kids/": {
+    "ts": "2026-09-03T08:46:55.954740+00:00",
+    "title": "Are AI tutors safe for your kids?"
+  },
+  "https://threats.wiz.io/all-incidents/nadmesh-autonomous-ai-focused-botnet-targeting-cloud-and-ai-infrastructure": {
+    "ts": "2026-09-03T08:46:56.100644+00:00",
+    "title": "NadMesh: Autonomous AI-Focused Botnet Targeting Cloud and AI Infrastructure (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/abyssos-technical-analysis-new-modular-rat": {
+    "ts": "2026-09-03T08:46:56.230440+00:00",
+    "title": "Abyssos: Technical Analysis of a New Modular RAT"
+  },
+  "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/": {
+    "ts": "2026-09-03T08:46:56.377769+00:00",
+    "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws"
+  },
+  "https://www.darktrace.com/blog/darktrace-unites-human-behavior-and-threat-detection-across-email-slack-teams-and-zoom": {
+    "ts": "2026-09-03T08:46:56.526354+00:00",
+    "title": "Darktrace Launches Unified Security Awareness Training and Messaging Security"
+  },
+  "https://www.group-ib.com/blog/balkans-fake-traffic-fines-phishing/": {
+    "ts": "2026-09-03T08:46:56.644396+00:00",
+    "title": "Phishing in the Balkans: Fake Traffic Fines, Real Losses"
+  },
+  "https://www.helpnetsecurity.com/2026/09/03/github-threat-intelligence-feed-ingestion/": {
+    "ts": "2026-09-03T08:46:56.786502+00:00",
+    "title": "Your threat feed is someone else\u2019s database: What ingesting malware intel at scale takes"
+  },
+  "https://www.recordedfuture.com/blog/fbi-fake-permit-fees": {
+    "ts": "2026-09-03T08:46:56.786516+00:00",
+    "title": "The FBI Warned About Fake Permit Fees. The Harder Question Is Where the Money Goes. | Recorded Future"
+  },
+  "https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/": {
+    "ts": "2026-09-03T08:46:56.786519+00:00",
+    "title": "Chrome and Firefox Updates Patch Dozens of Vulnerabilities"
+  },
+  "https://www.sophos.com/en-us/blog/vect-and-teampcp-partner-for-ransomware-campaigns": {
+    "ts": "2026-09-03T08:46:56.910445+00:00",
+    "title": "Vect and TeamPCP partner for ransomware campaigns"
+  },
+  "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html": {
+    "ts": "2026-09-03T08:46:56.910458+00:00",
+    "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/09/03/to-keep-the-ai-hacking-genie-bottled-up-try-one-way-networks/5294121": {
+    "ts": "2026-09-03T08:46:56.910462+00:00",
+    "title": "To keep the AI hacking genie bottled up, try one-way networks"
+  },
+  "https://threatmon.io/azure-credential-theft-campaign/": {
+    "ts": "2026-09-03T08:46:57.046019+00:00",
+    "title": "TheHatman Claims 3.6M Records Linked to Azure Environments Across Nine Organizations"
+  },
+  "https://www.trendmicro.com/en_us/research/26/g/actor-behind-patriot-bait-used-ai-to-deploy-c2-botnet.html": {
+    "ts": "2026-09-03T08:46:57.175834+00:00",
+    "title": "Six Minutes to Compromise: How \u2018Patriot Bait\u2019 Actor Used AI to Build and Deploy a C&C Botnet"
+  },
+  "https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/": {
+    "ts": "2026-09-03T08:46:57.305317+00:00",
+    "title": "Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication"
   }
 }
