@@ -3318,5 +3318,125 @@
   "https://www.group-ib.com/blog/cyber-retainer-signals/": {
     "ts": "2026-09-03T17:42:47.638963+00:00",
     "title": "Brace Before The Impact: 7 Signals Your Organization Needs A Cybersecurity Services Retainer"
+  },
+  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-july-2026/": {
+    "ts": "2026-09-03T20:44:34.334498+00:00",
+    "title": "This month in security with Tony Anscombe \u2013 July 2026 edition"
+  },
+  "https://asec.ahnlab.com/en/94619/": {
+    "ts": "2026-09-03T20:46:36.033290+00:00",
+    "title": "June 2026 Ransomware Trend Report"
+  },
+  "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/": {
+    "ts": "2026-09-03T20:46:36.151459+00:00",
+    "title": "Coder's registry infrastructure compromised to push malicious modules"
+  },
+  "https://blog.talosintelligence.com/the-story-behind-the-intelligence/": {
+    "ts": "2026-09-03T20:46:36.151477+00:00",
+    "title": "The story behind the intelligence"
+  },
+  "https://cybersecuritynews.com/openai-investigates-elevated-errors/": {
+    "ts": "2026-09-03T20:46:36.151481+00:00",
+    "title": "OpenAI Investigates Elevated Errors Affecting ChatGPT and Codex Services"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams": {
+    "ts": "2026-09-03T20:46:36.151485+00:00",
+    "title": "Large Enterprises Targeted in Fake Merger &amp; Acquisition Scams"
+  },
+  "https://www.darktrace.com/blog/the-year-ahead-ai-cybersecurity-trends-to-watch-in-2026": {
+    "ts": "2026-09-03T20:46:36.198650+00:00",
+    "title": "The Year Ahead: AI Cybersecurity Trends to Watch in 2026"
+  },
+  "https://gbhackers.com/rogue-screenconnect-clients/": {
+    "ts": "2026-09-03T20:46:36.244481+00:00",
+    "title": "Rogue ScreenConnect Clients Spread Worm-Like Malware Across Connected Windows Systems"
+  },
+  "https://www.group-ib.com/blog/cybersecurity-priorities-ecommerce/": {
+    "ts": "2026-09-03T20:46:36.292308+00:00",
+    "title": "10 Cybersecurity Priorities for E-Commerce Teams This Year"
+  },
+  "https://www.helpnetsecurity.com/2026/09/03/google-gemini-3-8-flash/": {
+    "ts": "2026-09-03T20:46:36.337927+00:00",
+    "title": "Google\u2019s Gemini 3.8 Flash takes on bigger AI models at a lower cost"
+  },
+  "https://www.malwarebytes.com/blog/privacy/2026/09/your-phone-or-computer-may-soon-ask-how-old-you-are": {
+    "ts": "2026-09-03T20:46:36.384454+00:00",
+    "title": "Your phone or computer may soon ask how old you are"
+  },
+  "https://www.recordedfuture.com/blog/build-defensive-ai-agents": {
+    "ts": "2026-09-03T20:46:36.384473+00:00",
+    "title": "The Threat Isn\u2019t the Frontier Model"
+  },
+  "https://securityaffairs.com/198366/security/cisco-fixed-critical-rce-in-nexus-9000-series-switches.html": {
+    "ts": "2026-09-03T20:46:36.384478+00:00",
+    "title": "Cisco Fixed Critical RCE in Nexus 9000 Series Switches"
+  },
+  "https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/": {
+    "ts": "2026-09-03T20:46:36.384481+00:00",
+    "title": "Capsule Security Launches \u2018AI Circuit Breaker\u2019 to Stop Rogue Agents"
+  },
+  "https://socradar.io/blog/sonicwall-cve-2026-83548-cisa-alert/": {
+    "ts": "2026-09-03T20:46:36.384484+00:00",
+    "title": "SonicWall CVE-2026-83548 Leads to CISA Alert"
+  },
+  "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html": {
+    "ts": "2026-09-03T20:46:36.432684+00:00",
+    "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories"
+  },
+  "https://www.theregister.com/security/2026/09/03/prolific-microsoft-0-day-hunter-drops-crowdstrike-falcon-exploit-poc/5294318": {
+    "ts": "2026-09-03T20:46:36.480290+00:00",
+    "title": "Prolific Microsoft 0-day hunter drops CrowdStrike Falcon exploit PoC"
+  },
+  "https://www.trendmicro.com/en_us/research/26/f/from-langflow-to-monero-inside-cve-2026-33017-cryptominer.html": {
+    "ts": "2026-09-03T20:46:36.531891+00:00",
+    "title": "From Langflow to Monero: Inside CVE-2026-33017 Cryptominer"
+  },
+  "https://www.volexity.com/blog/2024/11/15/brazenbamboo-weaponizes-forticlient-vulnerability-to-steal-vpn-credentials-via-deepdata/": {
+    "ts": "2026-09-03T20:46:36.581252+00:00",
+    "title": "BrazenBamboo Weaponizes FortiClient Vulnerability to Steal VPN Credentials via DEEPDATA"
+  },
+  "https://threats.wiz.io/all-incidents/asyncapi-supply-chain-compromise-via-github-actions": {
+    "ts": "2026-09-03T20:46:36.628086+00:00",
+    "title": "AsyncAPI Supply Chain Compromise via GitHub Actions (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/microsoft-exchange-vulnerability-cve-2026-62911-what-administrators-should": {
+    "ts": "2026-09-03T20:46:36.675877+00:00",
+    "title": "Microsoft Exchange Vulnerability CVE-2026-62911: What Administrators Should Do and How Zscaler Can Help"
+  },
+  "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/": {
+    "ts": "2026-09-03T20:46:36.675893+00:00",
+    "title": "HPE patches critical ArubaOS-CX remote code execution flaw"
+  },
+  "https://cybersecuritynews.com/phantom-deal-hackers/": {
+    "ts": "2026-09-03T20:46:36.675898+00:00",
+    "title": "Phantom Deal Hackers Impersonate Executives and Use Fake NDAs to Steal Corporate Wire Transfers"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest": {
+    "ts": "2026-09-03T20:46:36.724186+00:00",
+    "title": "What We Missed: Did ShinyHunters 'Breach' ReliaQuest?"
+  },
+  "https://www.darktrace.com/blog/darktrace-identifies-campaign-targeting-south-korea-leveraging-vs-code-for-remote-access": {
+    "ts": "2026-09-03T20:46:36.770898+00:00",
+    "title": "Darktrace Identifies Campaign Targeting South Korea Leveraging VS Code for Remote Access"
+  },
+  "https://gbhackers.com/qr-codes-attack/": {
+    "ts": "2026-09-03T20:46:36.817648+00:00",
+    "title": "QR Phishing Hits Record Levels as Attackers Hide Malicious Links Inside QR Codes"
+  },
+  "https://www.group-ib.com/blog/incident-response-questions/": {
+    "ts": "2026-09-03T20:46:36.864044+00:00",
+    "title": "8 Questions to Ask Before Choosing an Incident Response Retainer"
+  },
+  "https://www.helpnetsecurity.com/2026/09/03/russian-national-indicted-freelance-platform-malware/": {
+    "ts": "2026-09-03T20:46:36.909133+00:00",
+    "title": "Russian man indicted for spreading malware to 80,000 freelancers"
+  },
+  "https://www.recordedfuture.com/blog/gartner-mq-announcement-jp": {
+    "ts": "2026-09-03T20:46:36.954653+00:00",
+    "title": "Recorded Future\u304cGartner\u00ae \u30b5\u30a4\u30d0\u30fc\u8105\u5a01\u30a4\u30f3\u30c6\u30ea\u30b8\u30a7\u30f3\u30b9\u30fb\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u90e8\u9580\u306eMagic Quadrant\u2122\u306e\u30ea\u30fc\u30c0\u30fc\u306e\uff11\u793e\u306b\u4f4d\u7f6e\u3065\u3051\u3089\u308c\u307e\u3057\u305f\u3002"
+  },
+  "https://securityaffairs.com/198342/hacking/chaotic-eclipse-releases-crowdstrike-falcon-zeroday-falconflank.html": {
+    "ts": "2026-09-03T20:46:37.001233+00:00",
+    "title": "Chaotic Eclipse Releases Crowdstrike Falcon ZeroDay\u00a0FalconFlank"
   }
 }

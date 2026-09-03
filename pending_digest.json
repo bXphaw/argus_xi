@@ -34,6 +34,31 @@
       "category": "threat_actor",
       "title": "'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems",
       "url": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems"
+    },
+    {
+      "category": "new_technique",
+      "title": "Coder's registry infrastructure compromised to push malicious modules",
+      "url": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "What We Missed: Did ShinyHunters 'Breach' ReliaQuest?",
+      "url": "https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Darktrace Identifies Campaign Targeting South Korea Leveraging VS Code for Remote Access",
+      "url": "https://www.darktrace.com/blog/darktrace-identifies-campaign-targeting-south-korea-leveraging-vs-code-for-remote-access"
+    },
+    {
+      "category": "new_technique",
+      "title": "QR Phishing Hits Record Levels as Attackers Hide Malicious Links Inside QR Codes",
+      "url": "https://gbhackers.com/qr-codes-attack/"
     }
   ],
   "last_sent_date": "2026-09-03"
