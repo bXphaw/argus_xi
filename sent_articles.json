@@ -3558,5 +3558,125 @@
   "https://www.welivesecurity.com/en/eset-research/forgotten-uefi-shims-undermining-secure-boot/": {
     "ts": "2026-09-03T23:08:09.432251+00:00",
     "title": "Forgotten UEFI shims undermining Secure Boot"
+  },
+  "https://asec.ahnlab.com/en/95230/": {
+    "ts": "2026-09-04T03:44:19.241652+00:00",
+    "title": "Attack Cases in Korea Involving the Installation of Radmin and UltraVNC"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/": {
+    "ts": "2026-09-04T03:44:19.241673+00:00",
+    "title": "Critical Elementor Pro flaw exploited to take over WordPress sites"
+  },
+  "https://cybersecuritynews.com/openai-gpt-6-astra-discovers-zero-day/": {
+    "ts": "2026-09-04T03:44:19.241678+00:00",
+    "title": "OpenAI GPT-6 Astra Discovers Zero-Day Flaws and Builds Working Exploits in Cyber Tests"
+  },
+  "https://www.darktrace.com/blog/how-to-secure-ai-in-the-enterprise-a-practical-framework-for-models-data-and-agents": {
+    "ts": "2026-09-04T03:44:19.241681+00:00",
+    "title": "Enterprise AI Security Framework for Models, Data and Agents"
+  },
+  "https://gbhackers.com/avast-antivirus-zero-day-poc/": {
+    "ts": "2026-09-04T03:44:19.427368+00:00",
+    "title": "Avast Antivirus Zero-Day PoC Lets Attackers Dump SAM Database and Gain SYSTEM Shell"
+  },
+  "https://www.group-ib.com/blog/inside-sniperdz-phaas-ecosystem/": {
+    "ts": "2026-09-04T03:44:19.620516+00:00",
+    "title": "Sniper\u2019s Nest: From Brand Impersonation to Browser Hijacking and CPA Fraud"
+  },
+  "https://www.recordedfuture.com/research/mexico-new-cybersecurity-plan-evaluation": {
+    "ts": "2026-09-04T03:44:19.809118+00:00",
+    "title": "Evaluating Mexico\u2019s New Cybersecurity Plan"
+  },
+  "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/": {
+    "ts": "2026-09-04T03:44:19.995078+00:00",
+    "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability"
+  },
+  "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html": {
+    "ts": "2026-09-04T03:44:20.177518+00:00",
+    "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries"
+  },
+  "https://www.theregister.com/security/2026/09/04/cisco-searched-for-ios-xr-bugs-and-found-so-many-it-rolled-them-into-an-update-release/5294410": {
+    "ts": "2026-09-04T03:44:20.354996+00:00",
+    "title": "Cisco searched for IOS XR bugs and found so many it rolled them into an update release"
+  },
+  "https://www.trendmicro.com/en_us/research/26/f/governing-claude-enterprise.html": {
+    "ts": "2026-09-04T03:44:20.355014+00:00",
+    "title": "Governing Claude Enterprise in Environments Where Inline Controls Can't Go"
+  },
+  "https://www.welivesecurity.com/en/eset-research/eset-threat-report-h1-2026/": {
+    "ts": "2026-09-04T03:44:20.541424+00:00",
+    "title": "ESET Threat Report H1 2026"
+  },
+  "https://threats.wiz.io/all-incidents/compromised-injective-sdk-npm-package-exfiltrates-cryptocurrency-wallet-keys": {
+    "ts": "2026-09-04T03:44:20.719304+00:00",
+    "title": "Compromised Injective SDK npm Package Exfiltrates Cryptocurrency Wallet Keys (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/targeted-attack-government-entities-middle-east-part-2": {
+    "ts": "2026-09-04T03:44:20.908731+00:00",
+    "title": "Targeted Attack on Government Entities in the Middle East | Part 2"
+  },
+  "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/": {
+    "ts": "2026-09-04T03:44:20.908749+00:00",
+    "title": "Your Employee\u2019s Password Appeared in an Infostealer Log. Now What?"
+  },
+  "https://cybersecuritynews.com/botnet-takedowns-are-working-but-ddos-operators-are-already-adapting/": {
+    "ts": "2026-09-04T03:44:21.088628+00:00",
+    "title": "Botnet Takedowns Are Working \u2014 But DDoS Operators Are Already Adapting"
+  },
+  "https://www.darktrace.com/blog/securing-generative-ai-managing-risk-in-amazon-bedrock-with-darktrace-cloud": {
+    "ts": "2026-09-04T03:44:21.266704+00:00",
+    "title": "How to Manage Risk in Amazon Bedrock"
+  },
+  "https://gbhackers.com/html-rendered-qr-phishing/": {
+    "ts": "2026-09-04T03:44:21.450580+00:00",
+    "title": "HTML-Rendered QR Phishing Evades Image Extraction and OCR-Based Email Scanning"
+  },
+  "https://www.group-ib.com/blog/silabrat-hijackloader-trojan-malware/": {
+    "ts": "2026-09-04T03:44:21.642796+00:00",
+    "title": "SilabRAT, What\u2019s Your Power?"
+  },
+  "https://www.recordedfuture.com/blog/critical-fortibleed-campaign": {
+    "ts": "2026-09-04T03:44:21.826421+00:00",
+    "title": "FortiBleed Campaign Exposing Credentials for 73,932 FortiGate Systems"
+  },
+  "https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/": {
+    "ts": "2026-09-04T03:44:21.826439+00:00",
+    "title": "Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities"
+  },
+  "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html": {
+    "ts": "2026-09-04T03:44:22.009615+00:00",
+    "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks"
+  },
+  "https://www.theregister.com/security/2026/09/04/openai-commits-1b-in-ai-credits-to-frontline-cyber-defenders/5294382": {
+    "ts": "2026-09-04T03:44:22.009634+00:00",
+    "title": "OpenAI commits $1B in AI credits to frontline cyber defenders"
+  },
+  "https://www.trendmicro.com/en_us/research/26/f/pwn2own-genai.html": {
+    "ts": "2026-09-04T03:44:22.009638+00:00",
+    "title": "GenAI Is Both Hunter and Hunted at Pwn2Own Berlin 2026"
+  },
+  "https://www.welivesecurity.com/en/business-security/cyber-readiness-smbs-getting-basics-right/": {
+    "ts": "2026-09-04T03:44:22.009642+00:00",
+    "title": "Cyber readiness for SMBs: Getting the basics right"
+  },
+  "https://threats.wiz.io/all-incidents/coordinated-github-api-enumeration-and-access-token-abuse": {
+    "ts": "2026-09-04T03:44:22.194420+00:00",
+    "title": "Coordinated GitHub API Enumeration and Access Token Abuse (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/helpdesk-hijackers-teams-vishing-quick-assist-and-gogrpc-backdoor": {
+    "ts": "2026-09-04T03:44:22.382935+00:00",
+    "title": "Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor"
+  },
+  "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/": {
+    "ts": "2026-09-04T03:44:22.561312+00:00",
+    "title": "Plex warns users to patch security vulnerabilities immediately"
+  },
+  "https://cybersecuritynews.com/claude-ai-faces-outage/": {
+    "ts": "2026-09-04T03:44:22.739236+00:00",
+    "title": "Claude AI Faces Outage Impacting Mythos 5.1, Fable 5.1, and Opus 5"
+  },
+  "https://www.darktrace.com/blog/introducing-the-ai-maturity-model-for-cybersecurity": {
+    "ts": "2026-09-04T03:44:22.932236+00:00",
+    "title": "AI Maturity Model: A Roadmap for Security"
   }
 }

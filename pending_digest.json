@@ -79,6 +79,36 @@
       "category": "threat_actor",
       "title": "2,000 Leaked Documents Reveal How Russia Turns Engineering Students Into GRU Cyber Operators",
       "url": "https://securityaffairs.com/198332/intelligence/2000-leaked-documents-reveal-how-russia-turns-engineering-students-into-gru-cyber-operators.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Attack Cases in Korea Involving the Installation of Radmin and UltraVNC",
+      "url": "https://asec.ahnlab.com/en/95230/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Avast Antivirus Zero-Day PoC Lets Attackers Dump SAM Database and Gain SYSTEM Shell",
+      "url": "https://gbhackers.com/avast-antivirus-zero-day-poc/"
+    },
+    {
+      "category": "malware_android",
+      "title": "ESET Threat Report H1 2026",
+      "url": "https://www.welivesecurity.com/en/eset-research/eset-threat-report-h1-2026/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Compromised Injective SDK npm Package Exfiltrates Cryptocurrency Wallet Keys (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/compromised-injective-sdk-npm-package-exfiltrates-cryptocurrency-wallet-keys"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Targeted Attack on Government Entities in the Middle East | Part 2",
+      "url": "https://www.zscaler.com/blogs/security-research/targeted-attack-government-entities-middle-east-part-2"
+    },
+    {
+      "category": "new_technique",
+      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
+      "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html"
     }
   ],
   "last_sent_date": "2026-09-03"
