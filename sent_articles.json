@@ -3678,5 +3678,125 @@
   "https://www.darktrace.com/blog/introducing-the-ai-maturity-model-for-cybersecurity": {
     "ts": "2026-09-04T03:44:22.932236+00:00",
     "title": "AI Maturity Model: A Roadmap for Security"
+  },
+  "https://securityaffairs.com/198388/security/dark-web-service-nexus-sells-153m-drivers-licenses.html": {
+    "ts": "2026-09-04T08:40:06.567587+00:00",
+    "title": "Dark Web Service Nexus Sells 153M+ Driver\u2019s Licenses"
+  },
+  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-june-2026/": {
+    "ts": "2026-09-04T08:40:08.983035+00:00",
+    "title": "This month in security with Tony Anscombe \u2013 June 2026 edition"
+  },
+  "https://threats.wiz.io/all-incidents/cryptojacking-campaign-targeting-k8s-clusters": {
+    "ts": "2026-09-04T08:40:09.041214+00:00",
+    "title": "Cryptojacking Campaign Targeting K8s Clusters (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/targeted-attack-government-entities-middle-east-part-1": {
+    "ts": "2026-09-04T08:40:09.117931+00:00",
+    "title": "Targeted Attack on Government Entities in the Middle East | Part 1"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/": {
+    "ts": "2026-09-04T08:42:07.355309+00:00",
+    "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs"
+  },
+  "https://cybersecuritynews.com/14-fake-macos-installers/": {
+    "ts": "2026-09-04T08:42:07.564254+00:00",
+    "title": "14 Fake macOS Installers Linked to DPRK Campaign Deliver Credential-Stealing RAT"
+  },
+  "https://www.darktrace.com/blog/darktrace-redefines-ndr-industry-first-autonomous-threat-investigation-from-network-to-endpoint-with-agentic-ai": {
+    "ts": "2026-09-04T08:42:07.564271+00:00",
+    "title": "Darktrace delivers the next evolution of unified and proactive NDR"
+  },
+  "https://gbhackers.com/microsoft-365-security-bypass/": {
+    "ts": "2026-09-04T08:42:07.609308+00:00",
+    "title": "Microsoft 365 Direct Send Bypass Lets Attackers Spoof Internal Users Without Credentials"
+  },
+  "https://www.group-ib.com/blog/90-day-fusion-playbook/": {
+    "ts": "2026-09-04T08:42:07.609325+00:00",
+    "title": "One Adversary: The 90-Day Fusion Playbook"
+  },
+  "https://www.helpnetsecurity.com/2026/09/04/microsoft-teams-qr-code-phishing-protection/": {
+    "ts": "2026-09-04T08:42:07.654476+00:00",
+    "title": "Microsoft Teams is about to make QR code phishing much harder"
+  },
+  "https://moonlock.com/ai-phishing-anonymouskit": {
+    "ts": "2026-09-04T08:42:07.700934+00:00",
+    "title": "New AI phishing kit is helping thieves unlock stolen iPhones and Macs"
+  },
+  "https://www.recordedfuture.com/blog/world-cup-purchase-scam-tactics": {
+    "ts": "2026-09-04T08:42:07.747564+00:00",
+    "title": "The Purchase Scam Tactic Headed  for the World Cup | Recorded Future"
+  },
+  "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html": {
+    "ts": "2026-09-04T08:42:07.794317+00:00",
+    "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws"
+  },
+  "https://www.theregister.com/cyber-crime/2026/08/31/healthcare-cyberattacks-hit-pacemakers-and-millions-of-patient-records/5293537": {
+    "ts": "2026-09-04T08:42:07.839790+00:00",
+    "title": "Healthcare cyberattacks hit pacemakers and millions of patient records"
+  },
+  "https://www.trendmicro.com/en_us/research/26/f/old-winrar-flaw-fuels-attacks-on-ukraine.html": {
+    "ts": "2026-09-04T08:42:07.890130+00:00",
+    "title": "Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open"
+  },
+  "https://cybersecuritynews.com/dahua-camera-backdoor/": {
+    "ts": "2026-09-04T08:42:07.936814+00:00",
+    "title": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices"
+  },
+  "https://www.darktrace.com/blog/phishing-attacks-surge-by-620-in-the-lead-up-to-black-friday": {
+    "ts": "2026-09-04T08:42:07.936832+00:00",
+    "title": "Phishing attacks surge by 620% in the lead-up to Black Friday"
+  },
+  "https://gbhackers.com/google-chrome-v8-flaw/": {
+    "ts": "2026-09-04T08:42:07.983813+00:00",
+    "title": "Google Chrome V8 Flaw Actively Exploited in the Wild, Update Released"
+  },
+  "https://www.group-ib.com/blog/error-524-decoy-smishing-es/": {
+    "ts": "2026-09-04T08:42:07.983829+00:00",
+    "title": "Error 524 Decoy: Desenmascarando una Operaci\u00f3n Global de Smishing Oculta Tras P\u00e1ginas de Error"
+  },
+  "https://www.helpnetsecurity.com/2026/09/04/september-2026-patch-tuesday-forecast/": {
+    "ts": "2026-09-04T08:42:08.029268+00:00",
+    "title": "September 2026 Patch Tuesday forecast: All we need is more time"
+  },
+  "https://moonlock.com/fake-apple-pay-notification-scam": {
+    "ts": "2026-09-04T08:42:08.074047+00:00",
+    "title": "This fake Apple Pay alert is designed specifically to fool iPhone users"
+  },
+  "https://www.recordedfuture.com/research/state-digital-surveillance-risk-landscape": {
+    "ts": "2026-09-04T08:42:08.126343+00:00",
+    "title": "State Digital Surveillance Risk Landscape"
+  },
+  "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html": {
+    "ts": "2026-09-04T08:42:08.171776+00:00",
+    "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/08/31/openclaw-20-pours-glitter-on-slow-burning-security-dumpster-fire/5293492": {
+    "ts": "2026-09-04T08:42:08.221617+00:00",
+    "title": "OpenClaw 2.0 pours glitter on slow-burning security dumpster fire"
+  },
+  "https://www.trendmicro.com/en_us/research/26/f/pwn2own-berlin-2026.html": {
+    "ts": "2026-09-04T08:42:08.269268+00:00",
+    "title": "Pwn2Own Berlin 2026: On the Ground With TrendAI\u2122 ZDI's Biggest AI Showdown Yet"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/inside-inbox-cybercriminals-want-break-email-account/": {
+    "ts": "2026-09-04T08:42:08.269288+00:00",
+    "title": "Inside the inbox: Why cybercriminals want to break into your email account"
+  },
+  "https://threats.wiz.io/all-incidents/klue-supply-chain-breach-leads-to-salesforce-data-exfiltration": {
+    "ts": "2026-09-04T08:42:08.315698+00:00",
+    "title": "Klue Supply Chain Breach Leads to Salesforce Data Exfiltration (Incident)"
+  },
+  "https://www.zscaler.com/blogs/security-research/claudefix-shared-claude-chats-meet-clickfix": {
+    "ts": "2026-09-04T08:42:08.364456+00:00",
+    "title": "ClaudeFix: Shared Claude Chats Meet ClickFix"
+  },
+  "https://cybersecuritynews.com/chrome-0-day-flaw-exploited-wild/": {
+    "ts": "2026-09-04T08:42:08.413465+00:00",
+    "title": "Critical Chrome 0-Day Vulnerability Actively Exploited in the Wild"
+  },
+  "https://www.darktrace.com/blog/tracking-a-dragon-investigating-a-dragonforce-affiliated-ransomware-attack-with-darktrace": {
+    "ts": "2026-09-04T08:42:08.460814+00:00",
+    "title": "Tracking a Dragon: Investigating a DragonForce-affiliated ransomware attack with Darktrace"
   }
 }
