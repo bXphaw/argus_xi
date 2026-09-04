@@ -4038,5 +4038,125 @@
   "https://www.group-ib.com/blog/online-payment-fraud-prevention/": {
     "ts": "2026-09-04T17:31:16.471970+00:00",
     "title": "Online Payment Fraud Prevention: Best Practices for Organizations"
+  },
+  "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/": {
+    "ts": "2026-09-04T20:33:28.508879+00:00",
+    "title": "39 New Methods That Compromise Passkey Authentication"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people": {
+    "ts": "2026-09-04T20:33:28.508898+00:00",
+    "title": "What the AI Warning Letter Completely Missed"
+  },
+  "https://www.darktrace.com/blog/seo-poisoning-and-fake-putty-sites-darktraces-investigation-into-the-oyster-backdoor": {
+    "ts": "2026-09-04T20:33:28.558774+00:00",
+    "title": "SEO Poisoning and Fake PuTTY sites: Darktrace\u2019s Investigation into the Oyster backdoor"
+  },
+  "https://www.group-ib.com/blog/lead-data-obfuscation-brokers/": {
+    "ts": "2026-09-04T20:33:28.558790+00:00",
+    "title": "Volume Obfuscation Game: The Lead Data Brokers Out To Waste Your Time"
+  },
+  "https://www.helpnetsecurity.com/2026/09/04/echo-claude-mythos-vulnerability-findings/": {
+    "ts": "2026-09-04T20:33:28.558795+00:00",
+    "title": "Most of the bugs Claude Mythos found have never been checked by a human"
+  },
+  "https://www.malwarebytes.com/blog/inside-malwarebytes/2026/09/the-hidden-work-of-modernizing-malwarebytes": {
+    "ts": "2026-09-04T20:33:28.606755+00:00",
+    "title": "The hidden work of modernizing Malwarebytes"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/": {
+    "ts": "2026-09-04T20:33:28.654269+00:00",
+    "title": "How to secure edge AI in customer-owned environments"
+  },
+  "https://www.recordedfuture.com/blog/2026-fifa-world-cup-cyber-physical-threats-security-guide": {
+    "ts": "2026-09-04T20:33:28.701558+00:00",
+    "title": "2026 FIFA World Cup: What Public Safety Officials Need to Know"
+  },
+  "https://securityaffairs.com/198447/data-breach/crooks-behind-manchester-airports-group-hack-leaked-data-of-8-8-million-people.html": {
+    "ts": "2026-09-04T20:33:28.749960+00:00",
+    "title": "Crooks Behind Manchester Airports Group Hack Leaked Data of 8.8 Million People"
+  },
+  "https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/": {
+    "ts": "2026-09-04T20:33:28.796540+00:00",
+    "title": "OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders"
+  },
+  "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html": {
+    "ts": "2026-09-04T20:33:28.844288+00:00",
+    "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic"
+  },
+  "https://www.theregister.com/security/2026/09/04/ascii-smuggling-isnt-just-an-ai-security-risk/5294595": {
+    "ts": "2026-09-04T20:33:28.891716+00:00",
+    "title": "ASCII smuggling isn't just an AI security risk"
+  },
+  "https://www.trendmicro.com/en_us/research/26/e/banana-rat.html": {
+    "ts": "2026-09-04T20:33:28.940952+00:00",
+    "title": "Inside SHADOW-WATER-063\u2019s Banana RAT: From Build Server to Banking Fraud"
+  },
+  "https://www.welivesecurity.com/en/eset-research/killing-me-gently-inside-gentlemens-edr-killer-framework/": {
+    "ts": "2026-09-04T20:33:28.992848+00:00",
+    "title": "Killing me gently: Inside Gentlemen\u2019s EDR killer framework"
+  },
+  "https://threats.wiz.io/all-incidents/servicenow-unauthenticated-access-incident": {
+    "ts": "2026-09-04T20:33:28.992861+00:00",
+    "title": "ServiceNow Unauthenticated Access Incident (Incident)"
+  },
+  "https://www.zscaler.com/blogs/security-research/smartapesg-launches-okendo-reviews-supply-chain-attack": {
+    "ts": "2026-09-04T20:33:29.041725+00:00",
+    "title": "SmartApeSG Launches Okendo Reviews Supply Chain Attack"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/": {
+    "ts": "2026-09-04T20:33:29.088566+00:00",
+    "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges"
+  },
+  "https://www.darktrace.com/blog/introducing-the-industrys-first-truly-automated-cloud-forensics-solution": {
+    "ts": "2026-09-04T20:33:29.139508+00:00",
+    "title": "Industry-First Automated Cloud Forensics"
+  },
+  "https://www.group-ib.com/blog/igaming-fraud-growth/": {
+    "ts": "2026-09-04T20:33:29.187399+00:00",
+    "title": "Is Fraud Distorting Your iGaming Growth Numbers?"
+  },
+  "https://www.helpnetsecurity.com/2026/09/04/new-infosec-products-of-the-week-september-4-2026/": {
+    "ts": "2026-09-04T20:33:29.235321+00:00",
+    "title": "New infosec products of the week: September 4, 2026"
+  },
+  "https://www.recordedfuture.com/blog/china-noncombatant-evacuation-operations-2005-2025": {
+    "ts": "2026-09-04T20:33:29.235337+00:00",
+    "title": "China's Noncombatant Evacuation Operations: 2005\u20132025"
+  },
+  "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/": {
+    "ts": "2026-09-04T20:33:29.281376+00:00",
+    "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild"
+  },
+  "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html": {
+    "ts": "2026-09-04T20:33:29.281389+00:00",
+    "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests"
+  },
+  "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994": {
+    "ts": "2026-09-04T20:33:29.281394+00:00",
+    "title": "Turns out Brits would quite like their private messages to stay private"
+  },
+  "https://www.trendmicro.com/en_us/research/26/e/agentic-governance-why-it-matters-now.html": {
+    "ts": "2026-09-04T20:33:29.281398+00:00",
+    "title": "Agentic Governance: Why It Matters Now"
+  },
+  "https://www.welivesecurity.com/en/critical-infrastructure/protecting-legacy-ot-systems-modern-threats/": {
+    "ts": "2026-09-04T20:33:29.328788+00:00",
+    "title": "Protecting legacy OT systems against modern cyberthreats"
+  },
+  "https://threats.wiz.io/all-incidents/teampcp-adds-malware-to-multiple-microsoft-linked-github-projects": {
+    "ts": "2026-09-04T20:33:29.374340+00:00",
+    "title": "TeamPCP adds Malware to Multiple Microsoft-Linked GitHub Projects (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/clickfix-campaign-generated-ai-delivers-smartrat": {
+    "ts": "2026-09-04T20:33:29.421365+00:00",
+    "title": "ClickFix Campaign Generated Via AI Delivers SmartRAT"
+  },
+  "https://www.darktrace.com/blog/shadowv2-an-emerging-ddos-for-hire-botnet": {
+    "ts": "2026-09-04T20:33:29.469707+00:00",
+    "title": "ShadowV2: An emerging DDoS for hire botnet"
+  },
+  "https://www.group-ib.com/blog/prevyn-ai-introduction/": {
+    "ts": "2026-09-04T20:33:29.518060+00:00",
+    "title": "Introducing Group-IB Prevyn AI"
   }
 }

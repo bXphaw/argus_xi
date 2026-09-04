@@ -69,6 +69,41 @@
       "category": "threat_actor",
       "title": "One Man, One AI, One Fake Persona: Inside the 5-Year Influence and Fraud \u2018Patriot Bait\u2019 Campaign",
       "url": "https://www.trendmicro.com/en_us/research/26/e/inside-the-influence-and-fraud-patriot-bait-campaign.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "39 New Methods That Compromise Passkey Authentication",
+      "url": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "SEO Poisoning and Fake PuTTY sites: Darktrace\u2019s Investigation into the Oyster backdoor",
+      "url": "https://www.darktrace.com/blog/seo-poisoning-and-fake-putty-sites-darktraces-investigation-into-the-oyster-backdoor"
+    },
+    {
+      "category": "malware_linux",
+      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+      "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "ASCII smuggling isn't just an AI security risk",
+      "url": "https://www.theregister.com/security/2026/09/04/ascii-smuggling-isnt-just-an-ai-security-risk/5294595"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Inside SHADOW-WATER-063\u2019s Banana RAT: From Build Server to Banking Fraud",
+      "url": "https://www.trendmicro.com/en_us/research/26/e/banana-rat.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Killing me gently: Inside Gentlemen\u2019s EDR killer framework",
+      "url": "https://www.welivesecurity.com/en/eset-research/killing-me-gently-inside-gentlemens-edr-killer-framework/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
+      "url": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/"
     }
   ],
   "last_sent_date": "2026-09-04"
