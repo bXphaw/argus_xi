@@ -3918,5 +3918,125 @@
   "https://securityaffairs.com/198405/security/google-fixes-the-sixth-actively-exploited-chrome-zero-day-of-2026.html": {
     "ts": "2026-09-04T13:21:03.175420+00:00",
     "title": "Google fixes the sixth actively exploited Chrome zero-day of 2026"
+  },
+  "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/": {
+    "ts": "2026-09-04T17:31:11.079931+00:00",
+    "title": "IDScan sued over alleged data breach affecting 153 million drivers"
+  },
+  "https://cyble.com/blog/ai-powered-threat-intelligence-gcc/": {
+    "ts": "2026-09-04T17:31:11.079949+00:00",
+    "title": "AI-Driven Threat Intelligence for Gulf Enterprises: Why Detection Speed Is Now a Regulatory Requirement"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks": {
+    "ts": "2026-09-04T17:31:11.368312+00:00",
+    "title": "Companies Have Six Months to Prepare for Automated Attacks"
+  },
+  "https://www.darktrace.com/blog/salty-much-darktraces-view-on-a-recent-salt-typhoon-intrusion": {
+    "ts": "2026-09-04T17:31:11.628263+00:00",
+    "title": "Salty Much: Darktrace\u2019s take on a recent Salt Typhoon intrusion"
+  },
+  "https://www.group-ib.com/blog/card-breach-blind-spot/": {
+    "ts": "2026-09-04T17:31:11.628275+00:00",
+    "title": "The $48 Billion Blind Spot: Why Merchants Pay for Card Breaches They Can\u2019t See"
+  },
+  "https://www.helpnetsecurity.com/2026/09/04/scam-texts-peak-research/": {
+    "ts": "2026-09-04T17:31:11.881181+00:00",
+    "title": "Scammers have figured out the best time to text you"
+  },
+  "https://www.recordedfuture.com/blog/automated-signature-creation": {
+    "ts": "2026-09-04T17:31:12.137767+00:00",
+    "title": "Recorded Future Announces Automated Signature Creation, Accelerating Vulnerability Prioritization"
+  },
+  "https://securityaffairs.com/198433/security/postgresql-hit-by-12-year-old-vulnerability-allowing-server-takeover.html": {
+    "ts": "2026-09-04T17:31:12.392681+00:00",
+    "title": "PostgreSQL Hit by 12-Year-Old Vulnerability Allowing Server Takeover"
+  },
+  "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/": {
+    "ts": "2026-09-04T17:31:12.642745+00:00",
+    "title": "In Other News: Microsoft\u2019s Cloud Patches, Hacked Dropbox Accounts, Guardio\u2019s $1.1B Valuation"
+  },
+  "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html": {
+    "ts": "2026-09-04T17:31:12.897597+00:00",
+    "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/09/04/rogue-openai-agents-used-dead-german-web-site-to-communicate-in-may-months-before-hugging-face-incident/5294554": {
+    "ts": "2026-09-04T17:31:12.897608+00:00",
+    "title": "Rogue OpenAI agents used dead German web site to communicate in May, months before Hugging Face incident"
+  },
+  "https://www.trendmicro.com/en_us/research/26/e/analyzing-void-dokkaebi-invisibleferret-malware.html": {
+    "ts": "2026-09-04T17:31:13.153412+00:00",
+    "title": "Analyzing Void Dokkaebi\u2019s Cython-Compiled InvisibleFerret Malware"
+  },
+  "https://www.welivesecurity.com/en/eset-research/gamaredon-2025-leveraging-tunnels-workers-dead-drops-new-alliances/": {
+    "ts": "2026-09-04T17:31:13.410331+00:00",
+    "title": "Gamaredon in 2025: Leveraging tunnels, workers, dead drops, and new alliances"
+  },
+  "https://threats.wiz.io/all-incidents/fortibleed-credential-compromise-campaign-targeting-fortinet-devices": {
+    "ts": "2026-09-04T17:31:13.410345+00:00",
+    "title": "FortiBleed: Credential Compromise Campaign Targeting Fortinet Devices (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/critical-unauthenticated-remote-code-execution-splunk-enterprise-cve-2026": {
+    "ts": "2026-09-04T17:31:13.664353+00:00",
+    "title": "Critical Unauthenticated Remote Code Execution in Splunk Enterprise (CVE-2026-20253)"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/": {
+    "ts": "2026-09-04T17:31:13.913512+00:00",
+    "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks"
+  },
+  "https://www.darktrace.com/blog/inside-akiras-sonicwall-campaign-darktraces-detection-and-response": {
+    "ts": "2026-09-04T17:31:14.170290+00:00",
+    "title": "Akira SonicWall Campaign Uncovered"
+  },
+  "https://www.group-ib.com/blog/ghost-stadium-football-fraud/": {
+    "ts": "2026-09-04T17:31:14.422261+00:00",
+    "title": "The GHOST STADIUM Score: Billions At Stake At The World\u2019s Largest Football Tournament"
+  },
+  "https://www.helpnetsecurity.com/2026/09/04/openai-daybreak-frontline-defenders-access/": {
+    "ts": "2026-09-04T17:31:14.678688+00:00",
+    "title": "OpenAI is putting $1 billion behind Daybreak for defenders working without enterprise budgets"
+  },
+  "https://www.recordedfuture.com/research/cyber-maritime-sanctions-evasion": {
+    "ts": "2026-09-04T17:31:14.936997+00:00",
+    "title": "Cyber-Enabled Maritime Sanctions Evasion"
+  },
+  "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/": {
+    "ts": "2026-09-04T17:31:14.937009+00:00",
+    "title": "HPE Patches Critical RCE Vulnerabilities in AOS-CX"
+  },
+  "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html": {
+    "ts": "2026-09-04T17:31:14.937013+00:00",
+    "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution"
+  },
+  "https://www.theregister.com/security/2026/08/31/anthropic-cracks-down-on-hijacked-user-accounts-mining-ai-tokens/5293461": {
+    "ts": "2026-09-04T17:31:14.937017+00:00",
+    "title": "Anthropic cracks down on hijacked user accounts mining AI tokens"
+  },
+  "https://www.trendmicro.com/en_us/research/26/e/inside-the-influence-and-fraud-patriot-bait-campaign.html": {
+    "ts": "2026-09-04T17:31:15.194126+00:00",
+    "title": "One Man, One AI, One Fake Persona: Inside the 5-Year Influence and Fraud \u2018Patriot Bait\u2019 Campaign"
+  },
+  "https://www.welivesecurity.com/en/eset-research/eset-takes-part-operation-endgame-disrupt-amadey-stealc/": {
+    "ts": "2026-09-04T17:31:15.194137+00:00",
+    "title": "ESET takes part in Operation Endgame to disrupt Amadey and Stealc"
+  },
+  "https://threats.wiz.io/all-incidents/atomic-arch-aur-package-supply-chain-compromise-using-malicious-npm-package": {
+    "ts": "2026-09-04T17:31:15.449437+00:00",
+    "title": "Atomic Arch: AUR Package Supply Chain Compromise Using Malicious npm Package (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/payouts-king-ransomware-initial-access-broker-deploys-new-edgecution": {
+    "ts": "2026-09-04T17:31:15.704933+00:00",
+    "title": "Payouts King Ransomware Initial Access Broker Deploys New Edgecution Malware"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/": {
+    "ts": "2026-09-04T17:31:15.960030+00:00",
+    "title": "Microsoft says some users can\u2019t open the Teams desktop client"
+  },
+  "https://www.darktrace.com/blog/out-of-character-detecting-vendor-compromise-and-trusted-relationship-abuse-with-darktrace": {
+    "ts": "2026-09-04T17:31:16.215590+00:00",
+    "title": "Detecting Vendor Compromise and Trusted Relationship Abuse with Darktrace"
+  },
+  "https://www.group-ib.com/blog/online-payment-fraud-prevention/": {
+    "ts": "2026-09-04T17:31:16.471970+00:00",
+    "title": "Online Payment Fraud Prevention: Best Practices for Organizations"
   }
 }

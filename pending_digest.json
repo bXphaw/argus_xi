@@ -39,6 +39,36 @@
       "category": "new_technique",
       "title": "Google fixes the sixth actively exploited Chrome zero-day of 2026",
       "url": "https://securityaffairs.com/198405/security/google-fixes-the-sixth-actively-exploited-chrome-zero-day-of-2026.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Companies Have Six Months to Prepare for Automated Attacks",
+      "url": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Salty Much: Darktrace\u2019s take on a recent Salt Typhoon intrusion",
+      "url": "https://www.darktrace.com/blog/salty-much-darktraces-view-on-a-recent-salt-typhoon-intrusion"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Analyzing Void Dokkaebi\u2019s Cython-Compiled InvisibleFerret Malware",
+      "url": "https://www.trendmicro.com/en_us/research/26/e/analyzing-void-dokkaebi-invisibleferret-malware.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Gamaredon in 2025: Leveraging tunnels, workers, dead drops, and new alliances",
+      "url": "https://www.welivesecurity.com/en/eset-research/gamaredon-2025-leveraging-tunnels-workers-dead-drops-new-alliances/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical Unauthenticated Remote Code Execution in Splunk Enterprise (CVE-2026-20253)",
+      "url": "https://www.zscaler.com/blogs/security-research/critical-unauthenticated-remote-code-execution-splunk-enterprise-cve-2026"
+    },
+    {
+      "category": "threat_actor",
+      "title": "One Man, One AI, One Fake Persona: Inside the 5-Year Influence and Fraud \u2018Patriot Bait\u2019 Campaign",
+      "url": "https://www.trendmicro.com/en_us/research/26/e/inside-the-influence-and-fraud-patriot-bait-campaign.html"
     }
   ],
   "last_sent_date": "2026-09-04"
