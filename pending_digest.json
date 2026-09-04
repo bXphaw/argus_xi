@@ -104,6 +104,51 @@
       "category": "new_technique",
       "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
       "url": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Turn HiveMQ and Element Messenger Into Control Channels for Windows Backdoors",
+      "url": "https://gbhackers.com/hivemq-powers-backdoor/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "FishMonger\u2019s arsenal upgraded: SprySOCKS for Windows",
+      "url": "https://www.welivesecurity.com/en/eset-research/fishmongers-arsenal-upgraded-sprysocks-windows/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Binding.gyp Supply Chain Attack Enables CI/CD Worm Propagation Across npm Packages (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/bindinggyp-supply-chain-attack-enables-cicd-worm-propagation-across-npm-packages"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Shai-Hulud Campaign Evolution: Miasma, Hades, and AI Scanner Evasion",
+      "url": "https://www.zscaler.com/blogs/security-research/shai-hulud-campaign-evolution-miasma-hades-and-ai-scanner-evasion"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Use Popular Messaging Services to Control New Windows Backdoors",
+      "url": "https://cybersecuritynews.com/popular-messaging-services/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+      "url": "https://www.trendmicro.com/en_us/research/26/e/vibe-hacking-two-ai-augmented-campaigns-target-government-and-financial-sectors-in-latin-america.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "EvilTokens: A phishing attack that doesn\u2019t steal your password",
+      "url": "https://www.welivesecurity.com/en/cybercrime/eviltokens-phishing-doesnt-steal-password/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Miasma: Supply Chain Compromise in RedHat npm Packages (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/miasma-supply-chain-compromise-in-redhat-npm-packages"
+    },
+    {
+      "category": "malware_windows",
+      "title": "NodeStealer Can Now Record Everything Victims Type and Steal Their Screenshots",
+      "url": "https://cybersecuritynews.com/nodestealer-record-everything/"
     }
   ],
   "last_sent_date": "2026-09-04"

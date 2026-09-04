@@ -4158,5 +4158,125 @@
   "https://www.group-ib.com/blog/prevyn-ai-introduction/": {
     "ts": "2026-09-04T20:33:29.518060+00:00",
     "title": "Introducing Group-IB Prevyn AI"
+  },
+  "https://www.recordedfuture.com/blog/may-2026-cve-landscape": {
+    "ts": "2026-09-04T22:53:40.420426+00:00",
+    "title": "May 2026 CVE Landscape"
+  },
+  "https://cybersecuritynews.com/project-zenith-windows-pcs/": {
+    "ts": "2026-09-04T22:55:46.194343+00:00",
+    "title": "Microsoft Unveils Project Zenith Windows PCs That Can Run 30B+ AI Models Locally"
+  },
+  "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai": {
+    "ts": "2026-09-04T22:55:46.194366+00:00",
+    "title": "Insurers Search for Answers to Rein in Rogue AI"
+  },
+  "https://www.darktrace.com/blog/the-benefits-of-bringing-together-network-and-email-security": {
+    "ts": "2026-09-04T22:55:46.194370+00:00",
+    "title": "Why Unifying Email and Network Security Is Critical for Modern Cyber Defense"
+  },
+  "https://gbhackers.com/hivemq-powers-backdoor/": {
+    "ts": "2026-09-04T22:55:46.500333+00:00",
+    "title": "Hackers Turn HiveMQ and Element Messenger Into Control Channels for Windows Backdoors"
+  },
+  "https://www.group-ib.com/blog/incident-response-retainer/": {
+    "ts": "2026-09-04T22:55:46.500352+00:00",
+    "title": "What Is an Incident Response Retainer? (And Why Waiting Until a Breach Is Too Late)"
+  },
+  "https://www.recordedfuture.com/research/russia-defense-base-economy-risks-wars": {
+    "ts": "2026-09-04T22:55:46.597138+00:00",
+    "title": "Russia\u2019s Defense-Based Economy Risks Forcing Putin to Fight Wars"
+  },
+  "https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/": {
+    "ts": "2026-09-04T22:55:46.717769+00:00",
+    "title": "Catch Raises $5 Million for AI Executive Assistant With Guardrails"
+  },
+  "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html": {
+    "ts": "2026-09-04T22:55:46.846860+00:00",
+    "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means"
+  },
+  "https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372": {
+    "ts": "2026-09-04T22:55:46.932153+00:00",
+    "title": "Researcher shows how Claude Code can be tricked simply by asking it to summarize a website"
+  },
+  "https://www.trendmicro.com/en_us/research/26/e/analyzing-teampcp-supply-chain-attacks.html": {
+    "ts": "2026-09-04T22:55:47.055150+00:00",
+    "title": "Analyzing TeamPCP\u2019s Supply Chain Attacks: Checkmarx KICS and elementary-data in CI/CD Credential Theft"
+  },
+  "https://www.welivesecurity.com/en/eset-research/fishmongers-arsenal-upgraded-sprysocks-windows/": {
+    "ts": "2026-09-04T22:55:47.182160+00:00",
+    "title": "FishMonger\u2019s arsenal upgraded: SprySOCKS for Windows"
+  },
+  "https://threats.wiz.io/all-incidents/bindinggyp-supply-chain-attack-enables-cicd-worm-propagation-across-npm-packages": {
+    "ts": "2026-09-04T22:55:47.267957+00:00",
+    "title": "Binding.gyp Supply Chain Attack Enables CI/CD Worm Propagation Across npm Packages (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/shai-hulud-campaign-evolution-miasma-hades-and-ai-scanner-evasion": {
+    "ts": "2026-09-04T22:55:47.364952+00:00",
+    "title": "Shai-Hulud Campaign Evolution: Miasma, Hades, and AI Scanner Evasion"
+  },
+  "https://cybersecuritynews.com/popular-messaging-services/": {
+    "ts": "2026-09-04T22:55:47.487720+00:00",
+    "title": "Hackers Use Popular Messaging Services to Control New Windows Backdoors"
+  },
+  "https://www.darktrace.com/blog/2025-cyber-threat-landscape-darktraces-mid-year-review": {
+    "ts": "2026-09-04T22:55:47.487738+00:00",
+    "title": "2025 Cyber Threats: A Mid\u2011Year Review"
+  },
+  "https://gbhackers.com/openai-agents-collude-on-public-wiki/": {
+    "ts": "2026-09-04T22:55:47.573292+00:00",
+    "title": "OpenAI Agents Collude on Public Wiki to Share Sandbox Bypass and Evasion Techniques"
+  },
+  "https://www.group-ib.com/blog/digital-brand-protection-2026/": {
+    "ts": "2026-09-04T22:55:47.665084+00:00",
+    "title": "Digital Brand Protection in Cybersecurity: Why It Matters in 2026"
+  },
+  "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/": {
+    "ts": "2026-09-04T22:55:47.756498+00:00",
+    "title": "VMware Workstation and Fusion Updates Patch Critical Vulnerability"
+  },
+  "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html": {
+    "ts": "2026-09-04T22:55:47.877305+00:00",
+    "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone"
+  },
+  "https://www.theregister.com/security/2026/08/28/us-government-snitch-finder-pleads-guilty-to-leaking-state-secrets-to-foreign-spies/5293248": {
+    "ts": "2026-09-04T22:55:47.968649+00:00",
+    "title": "US government snitch-finder pleads guilty to leaking state secrets to foreign spies"
+  },
+  "https://www.trendmicro.com/en_us/research/26/e/vibe-hacking-two-ai-augmented-campaigns-target-government-and-financial-sectors-in-latin-america.html": {
+    "ts": "2026-09-04T22:55:48.063656+00:00",
+    "title": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America"
+  },
+  "https://www.welivesecurity.com/en/cybercrime/eviltokens-phishing-doesnt-steal-password/": {
+    "ts": "2026-09-04T22:55:48.149762+00:00",
+    "title": "EvilTokens: A phishing attack that doesn\u2019t steal your password"
+  },
+  "https://threats.wiz.io/all-incidents/miasma-supply-chain-compromise-in-redhat-npm-packages": {
+    "ts": "2026-09-04T22:55:48.234191+00:00",
+    "title": "Miasma: Supply Chain Compromise in RedHat npm Packages (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/one-click-compromise-threatlabz-2026-phishing-and-initial-access-report": {
+    "ts": "2026-09-04T22:55:48.234207+00:00",
+    "title": "One Click to Compromise: ThreatLabz 2026 Phishing and Initial Access Report"
+  },
+  "https://cybersecuritynews.com/nodestealer-record-everything/": {
+    "ts": "2026-09-04T22:55:48.356020+00:00",
+    "title": "NodeStealer Can Now Record Everything Victims Type and Steal Their Screenshots"
+  },
+  "https://www.darktrace.com/blog/from-vps-to-phishing-how-darktrace-uncovered-saas-hijacks-through-virtual-infrastructure-abuse": {
+    "ts": "2026-09-04T22:55:48.440976+00:00",
+    "title": "What is a VPS and How Do Attackers Abuse Virtual Servers?"
+  },
+  "https://gbhackers.com/microsoft-teams-adds-qr-code-protection/": {
+    "ts": "2026-09-04T22:55:48.535288+00:00",
+    "title": "Microsoft Teams Adds QR Code Protection to Block Phishing and Fraud"
+  },
+  "https://www.group-ib.com/blog/french-railway-two-step-scam/": {
+    "ts": "2026-09-04T22:55:48.657265+00:00",
+    "title": "The French 2-Step: Exposing a Multi-stage Scam Targeting the National Railway Company in France"
+  },
+  "https://www.recordedfuture.com/blog/recorded-future-holistic-sourcing-wins": {
+    "ts": "2026-09-04T22:55:48.741799+00:00",
+    "title": "Why Holistic Sourcing Wins: The Numbers Behind the Recorded Future Advantage"
   }
 }
