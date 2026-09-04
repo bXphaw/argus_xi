@@ -3798,5 +3798,125 @@
   "https://www.darktrace.com/blog/tracking-a-dragon-investigating-a-dragonforce-affiliated-ransomware-attack-with-darktrace": {
     "ts": "2026-09-04T08:42:08.460814+00:00",
     "title": "Tracking a Dragon: Investigating a DragonForce-affiliated ransomware attack with Darktrace"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/": {
+    "ts": "2026-09-04T13:20:57.847459+00:00",
+    "title": "Exchange Online outage causes email delays, 'Server busy' errors"
+  },
+  "https://cybersecuritynews.com/exchange-online-outage-delaying-emails/": {
+    "ts": "2026-09-04T13:20:57.847477+00:00",
+    "title": "Microsoft Confirms New Exchange Online Outage Delaying Emails from External Domains"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready": {
+    "ts": "2026-09-04T13:20:57.847480+00:00",
+    "title": "AI Is Ending the Era of Hidden Vulnerabilities \u2014 Are Vendors Ready?"
+  },
+  "https://www.darktrace.com/blog/why-api-journaling-delivers-faster-sla-backed-email-security-for-microsoft-365": {
+    "ts": "2026-09-04T13:20:57.847483+00:00",
+    "title": "Why API\u202f+\u202fJournaling Delivers Faster, SLA-Backed Email Security for Microsoft 365"
+  },
+  "https://gbhackers.com/shipmonk-data-breach-exposes-personal-data/": {
+    "ts": "2026-09-04T13:20:57.847487+00:00",
+    "title": "ShipMonk Data Breach Exposes Personal Data of 67,000 Additional Trezor Customers"
+  },
+  "https://www.group-ib.com/blog/error-524-decoy-smishing/": {
+    "ts": "2026-09-04T13:20:58.154640+00:00",
+    "title": "Error 524 Decoy: Unmasking a Global Smishing Operation Hiding Behind Error Pages"
+  },
+  "https://www.helpnetsecurity.com/2026/09/04/google-chrome-zero-day-cve-2026-85046/": {
+    "ts": "2026-09-04T13:20:58.423458+00:00",
+    "title": "Google patches actively exploited Chrome zero-day (CVE-2026-85046)"
+  },
+  "https://www.malwarebytes.com/blog/scams/2026/09/x-money-rollout-linked-to-password-reset-attacks": {
+    "ts": "2026-09-04T13:20:58.423476+00:00",
+    "title": "X Money rollout linked to password-reset attacks"
+  },
+  "https://moonlock.com/prompt-injection-tricks-ai-leaking-conversations": {
+    "ts": "2026-09-04T13:20:58.691519+00:00",
+    "title": "A hidden prompt could trick AI into leaking your private conversations"
+  },
+  "https://www.morphisec.com/blog/signed-sealed-compromised-why-trusted-packages-are-now-a-ransomware-delivery-vector/": {
+    "ts": "2026-09-04T13:20:58.944621+00:00",
+    "title": "Signed, Sealed, Compromised: Why Trusted Packages Are Now a Ransomware Delivery Vector"
+  },
+  "https://www.rapid7.com/blog/post/tr-dprk-apts-ted-backdoor-curlrat-target-south-korean-media-automotive-sectors": {
+    "ts": "2026-09-04T13:20:59.199969+00:00",
+    "title": "DPRK APTs: Ted backdoor and curlRAT target South Korean media and automotive sectors"
+  },
+  "https://www.recordedfuture.com/blog/proprietary-collection-engine": {
+    "ts": "2026-09-04T13:20:59.462293+00:00",
+    "title": "The Intelligence No One Else Has: Inside Recorded Future\u2019s Proprietary Collection Engine"
+  },
+  "https://securelist.com/toy-ghouls-new-hivemq-and-element-backdoors/121270/": {
+    "ts": "2026-09-04T13:20:59.734326+00:00",
+    "title": "Angry Birds: Toy Ghouls\u2019 new toys"
+  },
+  "https://securityaffairs.com/198417/ai/chinese-hackers-use-ai-agents-in-multi-country-cyber-campaign.html": {
+    "ts": "2026-09-04T13:21:00.020957+00:00",
+    "title": "Chinese Hackers Use AI Agents in Multi-Country Cyber Campaign"
+  },
+  "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/": {
+    "ts": "2026-09-04T13:21:00.279159+00:00",
+    "title": "12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover"
+  },
+  "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html": {
+    "ts": "2026-09-04T13:21:00.279176+00:00",
+    "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws"
+  },
+  "https://www.theregister.com/security/2026/08/31/attack-hides-malware-in-pngs-and-drops-custom-reverse-tunnel-on-victims-machines/5293480": {
+    "ts": "2026-09-04T13:21:00.279180+00:00",
+    "title": "Attack hides malware in PNGs and drops custom reverse tunnel on victims' machines"
+  },
+  "https://www.trendmicro.com/en_us/research/26/e/smart-contracts-for-command-and-control.html": {
+    "ts": "2026-09-04T13:21:00.531344+00:00",
+    "title": "Smart Contracts for C&C: How ClearFake Hid in Plain Sight on BSC Testnet"
+  },
+  "https://www.welivesecurity.com/en/business-security/smb-cyber-readiness-road-resilience-starts-here/": {
+    "ts": "2026-09-04T13:21:00.531363+00:00",
+    "title": "SMB cyber readiness: the road to resilience starts here"
+  },
+  "https://threats.wiz.io/all-incidents/mastra-packages-trojanized-with-malicious-dependency": {
+    "ts": "2026-09-04T13:21:00.793574+00:00",
+    "title": "Mastra Packages Trojanized with Malicious Dependency (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/indirect-prompt-injection-web-content-targets-ai-agents": {
+    "ts": "2026-09-04T13:21:01.046469+00:00",
+    "title": "Indirect Prompt Injection in Web Content Targets AI Agents"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/": {
+    "ts": "2026-09-04T13:21:01.300775+00:00",
+    "title": "Google warns of new Chrome zero-day flaw exploited in attacks"
+  },
+  "https://cybersecuritynews.com/plex-fix-multiple-security-flaws/": {
+    "ts": "2026-09-04T13:21:01.549280+00:00",
+    "title": "Plex Urges Users to Update Media Server Immediately to Fix Multiple Security Flaws"
+  },
+  "https://www.darktrace.com/blog/unmasking-vo1d-inside-darktraces-botnet-detection": {
+    "ts": "2026-09-04T13:21:01.801187+00:00",
+    "title": "Vo1d Botnet Exposed: How Darktrace Detected a Global Android Threat"
+  },
+  "https://gbhackers.com/nodestealer-spyware-malware/": {
+    "ts": "2026-09-04T13:21:02.327219+00:00",
+    "title": "NodeStealer Spyware Adds Keylogging, Screenshot Capture and Facebook Data Theft"
+  },
+  "https://www.group-ib.com/blog/cryptocurrency-scams/": {
+    "ts": "2026-09-04T13:21:02.327237+00:00",
+    "title": "Cryptocurrency Scams: The 10 Most Common Types and How They Work"
+  },
+  "https://www.helpnetsecurity.com/2026/09/04/ai-agent-credentials-video/": {
+    "ts": "2026-09-04T13:21:02.327242+00:00",
+    "title": "A five-part inventory for your AI agent credentials"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/free-streaming-boxes-may-be-routing-criminal-traffic-through-your-home": {
+    "ts": "2026-09-04T13:21:02.925245+00:00",
+    "title": "Free streaming boxes may be routing criminal traffic through your home"
+  },
+  "https://www.recordedfuture.com/blog/impact-metrics-dashboard": {
+    "ts": "2026-09-04T13:21:02.925265+00:00",
+    "title": "Recorded Future Launches Impact and Metrics Dashboard"
+  },
+  "https://securityaffairs.com/198405/security/google-fixes-the-sixth-actively-exploited-chrome-zero-day-of-2026.html": {
+    "ts": "2026-09-04T13:21:03.175420+00:00",
+    "title": "Google fixes the sixth actively exploited Chrome zero-day of 2026"
   }
 }

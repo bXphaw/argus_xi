@@ -1,4 +1,45 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "Error 524 Decoy: Unmasking a Global Smishing Operation Hiding Behind Error Pages",
+      "url": "https://www.group-ib.com/blog/error-524-decoy-smishing/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Google patches actively exploited Chrome zero-day (CVE-2026-85046)",
+      "url": "https://www.helpnetsecurity.com/2026/09/04/google-chrome-zero-day-cve-2026-85046/"
+    },
+    {
+      "category": "new_technique",
+      "title": "A hidden prompt could trick AI into leaking your private conversations",
+      "url": "https://moonlock.com/prompt-injection-tricks-ai-leaking-conversations"
+    },
+    {
+      "category": "new_technique",
+      "title": "Signed, Sealed, Compromised: Why Trusted Packages Are Now a Ransomware Delivery Vector",
+      "url": "https://www.morphisec.com/blog/signed-sealed-compromised-why-trusted-packages-are-now-a-ransomware-delivery-vector/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Smart Contracts for C&C: How ClearFake Hid in Plain Sight on BSC Testnet",
+      "url": "https://www.trendmicro.com/en_us/research/26/e/smart-contracts-for-command-and-control.html"
+    },
+    {
+      "category": "malware_other",
+      "title": "Mastra Packages Trojanized with Malicious Dependency (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/mastra-packages-trojanized-with-malicious-dependency"
+    },
+    {
+      "category": "malware_android",
+      "title": "Free streaming boxes may be routing criminal traffic through your home",
+      "url": "https://www.malwarebytes.com/blog/news/2026/09/free-streaming-boxes-may-be-routing-criminal-traffic-through-your-home"
+    },
+    {
+      "category": "new_technique",
+      "title": "Google fixes the sixth actively exploited Chrome zero-day of 2026",
+      "url": "https://securityaffairs.com/198405/security/google-fixes-the-sixth-actively-exploited-chrome-zero-day-of-2026.html"
+    }
+  ],
   "last_sent_date": "2026-09-04"
 }
