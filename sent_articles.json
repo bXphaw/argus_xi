@@ -4278,5 +4278,125 @@
   "https://www.recordedfuture.com/blog/recorded-future-holistic-sourcing-wins": {
     "ts": "2026-09-04T22:55:48.741799+00:00",
     "title": "Why Holistic Sourcing Wins: The Numbers Behind the Recorded Future Advantage"
+  },
+  "https://www.darktrace.com/blog/darktraces-cyber-ai-analyst-in-action-4-real-world-investigations-into-advanced-threat-actors": {
+    "ts": "2026-09-05T00:46:40.203694+00:00",
+    "title": "AI Analyst in Action: 4 Real-World Investigations using AI Investigations"
+  },
+  "https://www.group-ib.com/blog/drp-secops-integration/": {
+    "ts": "2026-09-05T00:46:40.203714+00:00",
+    "title": "Group-IB Digital Risk Protection Integrates with Google SecOps: Brand Threat Intelligence, Now In Your SOC"
+  },
+  "https://www.recordedfuture.com/research/2026-fifa-world-cup-threats": {
+    "ts": "2026-09-05T00:46:40.203718+00:00",
+    "title": "Threats to the 2026 FIFA World Cup"
+  },
+  "https://securityaffairs.com/198455/security/u-s-cisa-adds-google-chromium-v8-flaw-to-its-known-exploited-vulnerabilities-catalog-2.html": {
+    "ts": "2026-09-05T00:46:40.263300+00:00",
+    "title": "U.S. CISA adds Google Chromium V8 flaw to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/": {
+    "ts": "2026-09-05T00:46:40.322547+00:00",
+    "title": "Google Patches 6th Chrome Zero-Day of 2026"
+  },
+  "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html": {
+    "ts": "2026-09-05T00:46:40.382861+00:00",
+    "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control"
+  },
+  "https://www.theregister.com/security/2026/08/28/cisa-most-exploited-vulnerabilities-should-have-been-eradicated-decades-ago/5293194": {
+    "ts": "2026-09-05T00:46:40.441379+00:00",
+    "title": "CISA: Most exploited vulnerabilities should have been eradicated decades ago"
+  },
+  "https://www.trendmicro.com/en_us/research/26/e/What-Is-the-Instructure-Canvas-Breach.html": {
+    "ts": "2026-09-05T00:46:40.499012+00:00",
+    "title": "What Is the Instructure Canvas Breach? Impact, Risks, and What Institutions Should Do"
+  },
+  "https://www.welivesecurity.com/en/eset-research/oceanlotus-external-espionage-domestic-targeting/": {
+    "ts": "2026-09-05T00:46:40.558439+00:00",
+    "title": "OceanLotus: From external espionage to domestic targeting"
+  },
+  "https://threats.wiz.io/all-incidents/jinx-0164-targeting-cryptocurrency-development-infrastructure": {
+    "ts": "2026-09-05T00:46:40.615973+00:00",
+    "title": "JINX-0164 Targeting Cryptocurrency Development Infrastructure (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/technical-analysis-mltbackdoor": {
+    "ts": "2026-09-05T00:46:40.674653+00:00",
+    "title": "Technical Analysis of MLTBackdoor"
+  },
+  "https://www.darktrace.com/blog/ivanti-under-siege-investigating-the-ivanti-endpoint-manager-mobile-vulnerabilities-cve-2025-4427-cve-2025-4428": {
+    "ts": "2026-09-05T00:46:40.732786+00:00",
+    "title": "Investigating the Ivanti Endpoint Manager Mobile Vulnerabilities"
+  },
+  "https://www.group-ib.com/blog/architecture-deception-investment-crypto-fraud/": {
+    "ts": "2026-09-05T00:46:40.732802+00:00",
+    "title": "The Architecture of Deception: How a $187 Million Fraud Ecosystem Exploits Trust Across Australia and the United States"
+  },
+  "https://www.recordedfuture.com/blog/remembering-sir-alex-younger": {
+    "ts": "2026-09-05T00:46:40.732807+00:00",
+    "title": "Remembering Sir Alex Younger"
+  },
+  "https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/": {
+    "ts": "2026-09-05T00:46:40.732810+00:00",
+    "title": "Nvidia Is Buying AI Platform Hugging Face for $13 Billion"
+  },
+  "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html": {
+    "ts": "2026-09-05T00:46:40.791167+00:00",
+    "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain"
+  },
+  "https://www.theregister.com/security/2026/08/28/industry-that-built-the-problem-offers-to-sell-you-the-solution/5293207": {
+    "ts": "2026-09-05T00:46:40.851296+00:00",
+    "title": "Industry that built the problem offers to sell you the solution"
+  },
+  "https://www.trendmicro.com/en_us/research/26/e/national-cyber-strategy.html": {
+    "ts": "2026-09-05T00:46:40.910515+00:00",
+    "title": "Supporting the National Cyber Strategy: How TrendAI\u2122 Helps"
+  },
+  "https://www.welivesecurity.com/en/business-security/smb-cyber-readiness-what-makes-breaks-it/": {
+    "ts": "2026-09-05T00:46:40.969861+00:00",
+    "title": "Unpacking SMB cyber-readiness \u2013 and what makes or breaks it"
+  },
+  "https://threats.wiz.io/all-incidents/supply-chain-campaign-targeting-composer-and-github-repositories": {
+    "ts": "2026-09-05T00:46:41.028409+00:00",
+    "title": "Supply Chain Campaign Targeting Composer and GitHub Repositories (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/when-scanner-starts-thinking-learnings-mythos-gpt-5-5-cyber-security": {
+    "ts": "2026-09-05T00:46:41.028424+00:00",
+    "title": "When the Scanner Starts Thinking: Learnings from Mythos &amp; GPT 5.5 Cyber in Security Testing"
+  },
+  "https://www.darktrace.com/blog/top-eight-threats-to-saas-security-and-how-to-combat-them": {
+    "ts": "2026-09-05T00:46:41.028428+00:00",
+    "title": "Top Eight Threats to SaaS Security and How to Combat Them"
+  },
+  "https://www.group-ib.com/blog/phoenix-phaas-kit-smishing/": {
+    "ts": "2026-09-05T00:46:41.087208+00:00",
+    "title": "Phoenix Rising: Exposing the PhaaS Kit Behind Global Mass Phishing Campaigns"
+  },
+  "https://www.recordedfuture.com/research/iran-handala-physical-threats": {
+    "ts": "2026-09-05T00:46:41.148723+00:00",
+    "title": "Iran Expands Handala Brand to Physical Threats"
+  },
+  "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html": {
+    "ts": "2026-09-05T00:46:41.206341+00:00",
+    "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends"
+  },
+  "https://www.theregister.com/security/2026/08/28/print-management-outfit-papercut-is-under-0-day-attack-and-its-drawing-customers-blood/5293168": {
+    "ts": "2026-09-05T00:46:41.264521+00:00",
+    "title": "Print management outfit PaperCut is under 0-day attack, and it\u2019s drawing customers\u2019 blood"
+  },
+  "https://www.trendmicro.com/en_us/research/26/e/installfix-and-claude-code.html": {
+    "ts": "2026-09-05T00:46:41.324192+00:00",
+    "title": "InstallFix and Claude Code: How Fake Install Pages Lead to Real Compromise"
+  },
+  "https://www.welivesecurity.com/en/business-security/cybercriminals-auditors-never-hired/": {
+    "ts": "2026-09-05T00:46:41.382764+00:00",
+    "title": "Cybercriminals: the 'auditors' you never hired"
+  },
+  "https://threats.wiz.io/all-incidents/megalodon-campaign-backdoors-github-repositories-via-ci-workflow-compromise": {
+    "ts": "2026-09-05T00:46:41.444700+00:00",
+    "title": "Megalodon Campaign Backdoors GitHub Repositories via CI Workflow Compromise (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/malicious-openclaw-skill-distributes-remcos-rat-and-ghostloader": {
+    "ts": "2026-09-05T00:46:41.504399+00:00",
+    "title": "Malicious OpenClaw Skill Distributes Remcos RAT and GhostLoader"
   }
 }

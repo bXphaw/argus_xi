@@ -149,6 +149,46 @@
       "category": "malware_windows",
       "title": "NodeStealer Can Now Record Everything Victims Type and Steal Their Screenshots",
       "url": "https://cybersecuritynews.com/nodestealer-record-everything/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "AI Analyst in Action: 4 Real-World Investigations using AI Investigations",
+      "url": "https://www.darktrace.com/blog/darktraces-cyber-ai-analyst-in-action-4-real-world-investigations-into-advanced-threat-actors"
+    },
+    {
+      "category": "new_technique",
+      "title": "U.S. CISA adds Google Chromium V8 flaw to its Known Exploited Vulnerabilities catalog",
+      "url": "https://securityaffairs.com/198455/security/u-s-cisa-adds-google-chromium-v8-flaw-to-its-known-exploited-vulnerabilities-catalog-2.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Google Patches 6th Chrome Zero-Day of 2026",
+      "url": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Technical Analysis of MLTBackdoor",
+      "url": "https://www.zscaler.com/blogs/security-research/technical-analysis-mltbackdoor"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Investigating the Ivanti Endpoint Manager Mobile Vulnerabilities",
+      "url": "https://www.darktrace.com/blog/ivanti-under-siege-investigating-the-ivanti-endpoint-manager-mobile-vulnerabilities-cve-2025-4427-cve-2025-4428"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Phoenix Rising: Exposing the PhaaS Kit Behind Global Mass Phishing Campaigns",
+      "url": "https://www.group-ib.com/blog/phoenix-phaas-kit-smishing/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Iran Expands Handala Brand to Physical Threats",
+      "url": "https://www.recordedfuture.com/research/iran-handala-physical-threats"
+    },
+    {
+      "category": "new_technique",
+      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
+      "url": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html"
     }
   ],
   "last_sent_date": "2026-09-04"
