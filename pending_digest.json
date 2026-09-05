@@ -189,6 +189,46 @@
       "category": "new_technique",
       "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
       "url": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Wallet Drainers: How Scams Steal Funds",
+      "url": "https://www.darktrace.com/blog/crypto-wallets-continue-to-be-drained-in-elaborate-social-media-scam"
+    },
+    {
+      "category": "new_technique",
+      "title": "MECCHA CHAMELEON Flaw Lets Malicious Custom Maps Achieve Remote Code Execution",
+      "url": "https://gbhackers.com/meccha-chameleon-flaw/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Broadcom Patches Critical VMware Workstation and Fusion VM-Escape Vulnerabilities",
+      "url": "https://securityaffairs.com/198465/security/broadcom-patches-critical-vmware-workstation-and-fusion-vm-escape-vulnerabilities.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "TeamPCP Claims Breach of Internal GitHub Repositories (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/teampcp-claims-breach-of-internal-github-repositories"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Tropic Trooper Pivots to AdaptixC2 and Custom Beacon Listener",
+      "url": "https://www.zscaler.com/blogs/security-research/tropic-trooper-pivots-adaptixc2-and-custom-beacon-listener"
+    },
+    {
+      "category": "threat_actor",
+      "title": "W3LL Unmasked: Inside the Takedown of a Global BEC Phishing-as-a-Service Ecosystem",
+      "url": "https://www.group-ib.com/blog/w3ll-phishing-ecosystem-takedown/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Payouts King Takes Aim at the Ransomware Throne",
+      "url": "https://www.zscaler.com/blogs/security-research/payouts-king-takes-aim-ransomware-throne"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
+      "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html"
     }
   ],
   "last_sent_date": "2026-09-04"

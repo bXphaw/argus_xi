@@ -4398,5 +4398,125 @@
   "https://www.zscaler.com/blogs/security-research/malicious-openclaw-skill-distributes-remcos-rat-and-ghostloader": {
     "ts": "2026-09-05T00:46:41.504399+00:00",
     "title": "Malicious OpenClaw Skill Distributes Remcos RAT and GhostLoader"
+  },
+  "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html": {
+    "ts": "2026-09-05T05:25:08.965801+00:00",
+    "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials"
+  },
+  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-may-2026/": {
+    "ts": "2026-09-05T05:25:10.423916+00:00",
+    "title": "This month in security with Tony Anscombe \u2013 May 2026 edition"
+  },
+  "https://gbhackers.com/plex-urges-users-to-update-media-server/": {
+    "ts": "2026-09-05T05:25:12.893109+00:00",
+    "title": "Plex Urges Users to Update Media Server as Multiple Security Flaws Are Discovered"
+  },
+  "https://www.recordedfuture.com/blog/april-cve-landscape": {
+    "ts": "2026-09-05T05:25:13.991034+00:00",
+    "title": "April 2026 CVE Landscape"
+  },
+  "https://www.darktrace.com/blog/crypto-wallets-continue-to-be-drained-in-elaborate-social-media-scam": {
+    "ts": "2026-09-05T05:26:38.184724+00:00",
+    "title": "Wallet Drainers: How Scams Steal Funds"
+  },
+  "https://gbhackers.com/meccha-chameleon-flaw/": {
+    "ts": "2026-09-05T05:26:38.228154+00:00",
+    "title": "MECCHA CHAMELEON Flaw Lets Malicious Custom Maps Achieve Remote Code Execution"
+  },
+  "https://www.group-ib.com/blog/french-fintech-mule-accounts/": {
+    "ts": "2026-09-05T05:26:38.228165+00:00",
+    "title": "Anatomy of a Fraud Operation: Mule Account Creation on B2B Fintech Platforms in France"
+  },
+  "https://www.recordedfuture.com/blog/vulnerability-board-conversation": {
+    "ts": "2026-09-05T05:26:38.228169+00:00",
+    "title": "The Vulnerability Flood Is Now a Board Conversation. Here's How to Lead It."
+  },
+  "https://securityaffairs.com/198465/security/broadcom-patches-critical-vmware-workstation-and-fusion-vm-escape-vulnerabilities.html": {
+    "ts": "2026-09-05T05:26:38.271522+00:00",
+    "title": "Broadcom Patches Critical VMware Workstation and Fusion VM-Escape Vulnerabilities"
+  },
+  "https://socradar.io/blog/cve-2026-73749-hpe-arubaos-cx-rce/": {
+    "ts": "2026-09-05T05:26:38.313601+00:00",
+    "title": "CVE-2026-73749: HPE ArubaOS-CX RCE"
+  },
+  "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html": {
+    "ts": "2026-09-05T05:26:38.357943+00:00",
+    "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands"
+  },
+  "https://www.theregister.com/security/2026/08/28/australian-cops-cuff-alleged-teampcp-masterminds/5293157": {
+    "ts": "2026-09-05T05:26:38.398187+00:00",
+    "title": "Australian cops cuff alleged TeamPCP masterminds"
+  },
+  "https://www.trendmicro.com/en_us/research/26/e/quasar-linux-qlnx-a-silent-foothold-in-the-software-supply-chain.html": {
+    "ts": "2026-09-05T05:26:38.441918+00:00",
+    "title": "Quasar Linux (QLNX) \u2013 A Silent Foothold in the Supply Chain: Inside a Full-Featured Linux RAT With Rootkit, PAM Backdoor, Credential Harvesting Capabilities"
+  },
+  "https://www.welivesecurity.com/en/kids-online/lessons-life-childrens-data-long-term-identity-risk/": {
+    "ts": "2026-09-05T05:26:38.485766+00:00",
+    "title": "Lessons for life: Why children\u2019s data is a long-term identity risk"
+  },
+  "https://threats.wiz.io/all-incidents/teampcp-claims-breach-of-internal-github-repositories": {
+    "ts": "2026-09-05T05:26:38.527461+00:00",
+    "title": "TeamPCP Claims Breach of Internal GitHub Repositories (Incident)"
+  },
+  "https://www.zscaler.com/blogs/security-research/tropic-trooper-pivots-adaptixc2-and-custom-beacon-listener": {
+    "ts": "2026-09-05T05:26:38.570092+00:00",
+    "title": "Tropic Trooper Pivots to AdaptixC2 and Custom Beacon Listener"
+  },
+  "https://www.darktrace.com/blog/forensics-or-fauxrensics-five-core-capabilities-for-cloud-forensics-and-incident-response": {
+    "ts": "2026-09-05T05:26:38.570104+00:00",
+    "title": "5 Core Capabilities for Cloud Forensics and Incident Response"
+  },
+  "https://gbhackers.com/critical-super-forms-wordpress-flaw-actively-exploited/": {
+    "ts": "2026-09-05T05:26:38.570107+00:00",
+    "title": "Critical Super Forms WordPress Flaw Actively Exploited to Achieve Remote Code Execution"
+  },
+  "https://www.group-ib.com/blog/w3ll-phishing-ecosystem-takedown/": {
+    "ts": "2026-09-05T05:26:38.613464+00:00",
+    "title": "W3LL Unmasked: Inside the Takedown of a Global BEC Phishing-as-a-Service Ecosystem"
+  },
+  "https://www.recordedfuture.com/blog/ai-vulnerability-playbook": {
+    "ts": "2026-09-05T05:26:38.655585+00:00",
+    "title": "At Mythos Speed: A Defender's Playbook for the AI Vulnerability Surge in 2026"
+  },
+  "https://socradar.io/blog/cve-2026-20212-cisco-nexus-9000-rce/": {
+    "ts": "2026-09-05T05:26:38.697018+00:00",
+    "title": "CVE-2026-20212: Cisco Nexus 9000 RCE Flaw"
+  },
+  "https://www.theregister.com/cyber-crime/2026/08/27/crpx0-hacking-service-for-dummies-claims-victim-count-more-than-quintupled/5293097": {
+    "ts": "2026-09-05T05:26:38.740135+00:00",
+    "title": "CRPx0 hacking service for dummies claims victim count more than quintupled"
+  },
+  "https://www.trendmicro.com/en_us/research/26/d/inside-shadow-earth-053.html": {
+    "ts": "2026-09-05T05:26:38.786402+00:00",
+    "title": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia"
+  },
+  "https://threats.wiz.io/all-incidents/new-mini-shai-hulud-wave-targets-npm-pypi-packages-and-vscode-extension": {
+    "ts": "2026-09-05T05:26:38.828066+00:00",
+    "title": "New Mini-Shai-Hulud Wave Targets NPM, PyPi Packages and VSCode Extension (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/payouts-king-takes-aim-ransomware-throne": {
+    "ts": "2026-09-05T05:26:38.871702+00:00",
+    "title": "Payouts King Takes Aim at the Ransomware Throne"
+  },
+  "https://www.darktrace.com/blog/modernising-uk-cyber-regulation-implications-of-the-cyber-security-and-resilience-bill": {
+    "ts": "2026-09-05T05:26:38.871714+00:00",
+    "title": "UK Cyber Bill: What CISOs Need to Know"
+  },
+  "https://www.group-ib.com/blog/seven-cyber-signals-first-paris-2026/": {
+    "ts": "2026-09-05T05:26:38.871719+00:00",
+    "title": "Seven Signals Cyber Experts Agreed on at FIRST Paris 2026"
+  },
+  "https://socradar.io/blog/elementor-pro-rce-under-attack/": {
+    "ts": "2026-09-05T05:26:38.871721+00:00",
+    "title": "Elementor Pro RCE Flaw Under Active Attack"
+  },
+  "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html": {
+    "ts": "2026-09-05T05:26:38.913161+00:00",
+    "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads"
+  },
+  "https://www.theregister.com/security/2026/08/27/ai-girlfriend-review-sites-secrets-were-exposed-to-the-world-for-three-weeks/5293064": {
+    "ts": "2026-09-05T05:26:38.913173+00:00",
+    "title": "AI girlfriend review site's secrets were exposed to the world for three weeks"
   }
 }
