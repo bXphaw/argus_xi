@@ -4518,5 +4518,125 @@
   "https://www.theregister.com/security/2026/08/27/ai-girlfriend-review-sites-secrets-were-exposed-to-the-world-for-three-weeks/5293064": {
     "ts": "2026-09-05T05:26:38.913173+00:00",
     "title": "AI girlfriend review site's secrets were exposed to the world for three weeks"
+  },
+  "https://threats.wiz.io/all-incidents/tanstack-and-other-packages-compromised-in-supply-chain-attack": {
+    "ts": "2026-09-05T10:15:03.870791+00:00",
+    "title": "Tanstack and other Packages Compromised in Supply Chain Attack (Campaign)"
+  },
+  "https://cybersecuritynews.com/microsoft-teams-desktop-client-fails/": {
+    "ts": "2026-09-05T10:17:05.783035+00:00",
+    "title": "Microsoft Teams Desktop Client Fails to Load on Windows System \u2013 Microsoft Investigating"
+  },
+  "https://www.darktrace.com/blog/unpacking-clickfix-darktraces-detection-of-a-prolific-social-engineering-tactic": {
+    "ts": "2026-09-05T10:17:06.065116+00:00",
+    "title": "Unpacking ClickFix: Darktrace Detection Insights"
+  },
+  "https://gbhackers.com/chainguard-hits-1-billion-build-manifests/": {
+    "ts": "2026-09-05T10:17:06.065134+00:00",
+    "title": "Chainguard Hits 1 Billion Build Manifests With AI-Powered Software Supply Chain Security"
+  },
+  "https://www.group-ib.com/blog/behavioral-analytics-cybersecurity/": {
+    "ts": "2026-09-05T10:17:06.065140+00:00",
+    "title": "Are Risks Revealed in Actions or Activity? Understanding Behavioral Analytics in Cybersecurity"
+  },
+  "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html": {
+    "ts": "2026-09-05T10:17:06.065144+00:00",
+    "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel"
+  },
+  "https://www.theregister.com/os-platforms/2026/08/27/omarchy-distro-gains-serious-backing/5293026": {
+    "ts": "2026-09-05T10:17:06.255353+00:00",
+    "title": "Omarchy distro gains serious backing"
+  },
+  "https://www.trendmicro.com/en_us/research/26/d/kuse-web-app-abused-to-host-phishing-document.html": {
+    "ts": "2026-09-05T10:17:06.455062+00:00",
+    "title": "Kuse Web App Abused to Host Phishing Document"
+  },
+  "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q4-2025-q1-2026/": {
+    "ts": "2026-09-05T10:17:06.646295+00:00",
+    "title": "ESET APT Activity Report Q4 2025\u2013Q1 2026"
+  },
+  "https://threats.wiz.io/all-incidents/node-ipc-npm-distribution-compromised": {
+    "ts": "2026-09-05T10:17:06.832209+00:00",
+    "title": "node-ipc npm Distribution Compromised (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/ai-finds-a-way-out-alibaba-incident-why-zero-trust-matters": {
+    "ts": "2026-09-05T10:17:07.023741+00:00",
+    "title": "When AI Finds a Way Out: The Alibaba Incident and Why Zero Trust Matters More Than Ever"
+  },
+  "https://cybersecuritynews.com/ai-agents-breach-company-network/": {
+    "ts": "2026-09-05T10:17:07.207414+00:00",
+    "title": "AI Agents Breach Company Network in Under 10 Hours and Steal Root Credentials"
+  },
+  "https://www.darktrace.com/blog/tracking-cve-2025-31324-darktraces-detection-of-sap-netweaver-exploitation-before-and-after-disclosure": {
+    "ts": "2026-09-05T10:17:07.399189+00:00",
+    "title": "Darktrace Tracks CVE\u20112025\u201131324 Activity"
+  },
+  "https://gbhackers.com/russian-apt28-linked-hackers-deploy-hookedge-backdoor/": {
+    "ts": "2026-09-05T10:17:07.586444+00:00",
+    "title": "Russian Hackers Deploy New HOOKEDGE Backdoor in Espionage Attacks Across Europe"
+  },
+  "https://www.group-ib.com/blog/dprk-fake-remote-developers/": {
+    "ts": "2026-09-05T10:17:07.780653+00:00",
+    "title": "Cyber Saga: In the Footsteps of the DPRK IT Workers"
+  },
+  "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html": {
+    "ts": "2026-09-05T10:17:07.780671+00:00",
+    "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities"
+  },
+  "https://www.theregister.com/security/2026/08/27/atf-responds-to-major-cybersecurity-incident-after-ransomware-gangs-claims/5292990": {
+    "ts": "2026-09-05T10:17:07.969356+00:00",
+    "title": "ATF responds to 'major' cybersecurity incident after ransomware gang's claims"
+  },
+  "https://www.trendmicro.com/en_us/research/26/d/void-dokkaebi-uses-fake-job-interview-lure-to-spread-malware-via-code-repositories.html": {
+    "ts": "2026-09-05T10:17:08.178596+00:00",
+    "title": "Void Dokkaebi Uses Fake Job Interview Lure to Spread Malware via Code Repositories"
+  },
+  "https://www.welivesecurity.com/en/privacy/what-consider-asking-ai-chatbot-health-advice/": {
+    "ts": "2026-09-05T10:17:08.365900+00:00",
+    "title": "What to consider before asking an AI chatbot for health advice"
+  },
+  "https://www.zscaler.com/blogs/security-research/memory-loader-drops-screenconnect": {
+    "ts": "2026-09-05T10:17:08.560523+00:00",
+    "title": "In-Memory Loader Drops ScreenConnect"
+  },
+  "https://cybersecuritynews.com/hackers-use-invisible-unicode/": {
+    "ts": "2026-09-05T10:17:08.746173+00:00",
+    "title": "Hackers Use Invisible Unicode Characters to Evade Phishing Detection in Millions of Emails"
+  },
+  "https://www.darktrace.com/blog/darktrace-recognized-as-leader-in-the-2025-gartner-magic": {
+    "ts": "2026-09-05T10:17:08.746190+00:00",
+    "title": "Darktrace\u00a0Recognized as a Leader in the 2025 Gartner\u00ae Magic Quadrant\u2122 for Network Detection and Response"
+  },
+  "https://gbhackers.com/new-panzer-ransomware-hits-16-victim/": {
+    "ts": "2026-09-05T10:17:08.928751+00:00",
+    "title": "New Panzer Ransomware Hits 16 Victims Across 11 Countries With Data Theft and Encryption"
+  },
+  "https://www.group-ib.com/blog/phisles-phishing-banks-philippines/": {
+    "ts": "2026-09-05T10:17:09.120355+00:00",
+    "title": "Hooking the Archipelago: Dissecting a Phishing Campaign Targeting Philippine Banking Users"
+  },
+  "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html": {
+    "ts": "2026-09-05T10:17:09.310086+00:00",
+    "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000"
+  },
+  "https://www.theregister.com/security/2026/08/27/sponsored-schroedingers-backup-not-actually-recovered-until-you-try-to-restore-it/5286772": {
+    "ts": "2026-09-05T10:17:09.310105+00:00",
+    "title": "Schr\u00f6dinger's backup: not actually recovered until you try to restore IT"
+  },
+  "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html": {
+    "ts": "2026-09-05T10:17:09.500263+00:00",
+    "title": "The Vercel Breach: OAuth Supply Chain Attack Exposes the Hidden Risk in Platform Environment Variables"
+  },
+  "https://www.welivesecurity.com/en/malware/btmob-stealthy-rat-burrowing-deep-android-devices/": {
+    "ts": "2026-09-05T10:17:09.684605+00:00",
+    "title": "BTMOB: A stealthy RAT burrowing deep into Android devices"
+  },
+  "https://threats.wiz.io/all-incidents/ddos-botnet-leveraging-jenkins-misconfigurations-for-initial-access": {
+    "ts": "2026-09-05T10:17:09.869797+00:00",
+    "title": "DDoS Botnet Leveraging Jenkins Misconfigurations for Initial Access (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/supply-chain-attacks-surge-march-2026": {
+    "ts": "2026-09-05T10:17:10.053994+00:00",
+    "title": "Supply Chain Attacks Surge in March 2026"
   }
 }
