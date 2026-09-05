@@ -4638,5 +4638,125 @@
   "https://www.zscaler.com/blogs/security-research/supply-chain-attacks-surge-march-2026": {
     "ts": "2026-09-05T10:17:10.053994+00:00",
     "title": "Supply Chain Attacks Surge in March 2026"
+  },
+  "https://threats.wiz.io/all-incidents/lightning-and-intercom-packages-compromised-in-supply-chain-attack": {
+    "ts": "2026-09-05T13:46:27.326890+00:00",
+    "title": "Lightning and Intercom Packages Compromised in Supply Chain Attack (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/": {
+    "ts": "2026-09-05T13:48:42.664167+00:00",
+    "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident"
+  },
+  "https://www.darktrace.com/blog/catching-a-rat-how-darktrace-neutralized-asyncrat": {
+    "ts": "2026-09-05T13:48:42.808275+00:00",
+    "title": "AsyncRAT Exposed: Signals and Mitigations"
+  },
+  "https://www.group-ib.com/blog/phantom-stealer-credential-theft/": {
+    "ts": "2026-09-05T13:48:42.902836+00:00",
+    "title": "Phantom Stealer: Credential Theft as a Service"
+  },
+  "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/": {
+    "ts": "2026-09-05T13:48:42.998873+00:00",
+    "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites"
+  },
+  "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html": {
+    "ts": "2026-09-05T13:48:43.100966+00:00",
+    "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis"
+  },
+  "https://www.trendmicro.com/en_us/research/26/d/ai-era-identity-production.html": {
+    "ts": "2026-09-05T13:48:43.204219+00:00",
+    "title": "Identity Protection in the AI Era"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/foul-play-fake-fifa-world-cup-websites-tickets/": {
+    "ts": "2026-09-05T13:48:43.304731+00:00",
+    "title": "Foul play: Fake FIFA websites target soccer fans looking for World Cup tickets, merchandise"
+  },
+  "https://threats.wiz.io/all-incidents/compromise-of-checkmarx-jenkins-ast-plugin-by-teampcp": {
+    "ts": "2026-09-05T13:48:43.392591+00:00",
+    "title": "Compromise of Checkmarx Jenkins AST Plugin by TeamPCP (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/anthropic-claude-code-leak": {
+    "ts": "2026-09-05T13:48:43.482137+00:00",
+    "title": "Anthropic Claude Code Leak"
+  },
+  "https://www.darktrace.com/blog/anomaly-based-threat-hunting-darktraces-approach-in-action": {
+    "ts": "2026-09-05T13:48:43.583966+00:00",
+    "title": "Anomaly-Based Threat Hunting: Darktrace's Approach in Action"
+  },
+  "https://www.group-ib.com/blog/beyond-compliance-fraud-sharing-privacy/": {
+    "ts": "2026-09-05T13:48:43.583976+00:00",
+    "title": "Beyond Compliance: How Financial Institutions Can Meet New Fraud-Sharing Mandates While Respecting Privacy"
+  },
+  "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html": {
+    "ts": "2026-09-05T13:48:43.680151+00:00",
+    "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity"
+  },
+  "https://www.trendmicro.com/en_us/research/26/d/us-public-sector-under-siege.html": {
+    "ts": "2026-09-05T13:48:43.774108+00:00",
+    "title": "U.S. Public Sector Under Siege: Threat Intelligence for Q1 2026"
+  },
+  "https://www.welivesecurity.com/en/eset-research/webworm-new-burrowing-techniques/": {
+    "ts": "2026-09-05T13:48:43.875302+00:00",
+    "title": "Webworm: New burrowing techniques"
+  },
+  "https://www.zscaler.com/blogs/security-research/latest-xloader-obfuscation-methods-and-network-protocol": {
+    "ts": "2026-09-05T13:48:43.977844+00:00",
+    "title": "Latest Xloader Obfuscation Methods and Network Protocol"
+  },
+  "https://www.darktrace.com/blog/socgholish-from-loader-and-c2-activity-to-ransomhub-deployment": {
+    "ts": "2026-09-05T13:48:44.072563+00:00",
+    "title": "Darktrace Tracks SocGholish to RansomHub"
+  },
+  "https://www.group-ib.com/blog/cybersecurity-strategy-planning-2026/": {
+    "ts": "2026-09-05T13:48:44.168618+00:00",
+    "title": "Cybersecurity Strategy Planning:  The Essential Reset for Security Teams and Leaders in 2026"
+  },
+  "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html": {
+    "ts": "2026-09-05T13:48:44.268144+00:00",
+    "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales"
+  },
+  "https://www.trendmicro.com/en_us/research/26/d/claude-code-remains-a-lure-what-defenders-should-do.html": {
+    "ts": "2026-09-05T13:48:44.370373+00:00",
+    "title": "Claude Code Packaging Error Remains a Lure in an Active Campaign: What Defenders Should Do"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/quest-greater-tech-independence/": {
+    "ts": "2026-09-05T13:48:44.463708+00:00",
+    "title": "The quest for greater tech independence"
+  },
+  "https://threats.wiz.io/all-incidents/supply-chain-campaign-targets-sap-npm-packages-with-credential-stealing-malware": {
+    "ts": "2026-09-05T13:48:44.564576+00:00",
+    "title": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/critical-remote-code-execution-vulnerability-cisco-secure-firewall": {
+    "ts": "2026-09-05T13:48:44.564588+00:00",
+    "title": "Critical Remote Code Execution Vulnerability in Cisco Secure Firewall Management Center (CVE-2026-20131)"
+  },
+  "https://www.darktrace.com/blog/evaluating-email-security-how-to-select-the-best-solution-for-your-organization": {
+    "ts": "2026-09-05T13:48:44.564592+00:00",
+    "title": "Evaluating Email Security: How to Select the Best Solution for Your Organization"
+  },
+  "https://www.group-ib.com/blog/gtfire-phishing-scheme-es/": {
+    "ts": "2026-09-05T13:48:44.666755+00:00",
+    "title": "Esquema de Phishing GTFire: Evitando la detecci\u00f3n mediante servicios de Google"
+  },
+  "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html": {
+    "ts": "2026-09-05T13:48:44.666803+00:00",
+    "title": "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More"
+  },
+  "https://www.trendmicro.com/en_us/research/26/d/weaponizing-trust-claude-code-lures-and-github-release-payloads.html": {
+    "ts": "2026-09-05T13:48:44.757968+00:00",
+    "title": "Weaponizing Trust Signals: Claude Code Lures and GitHub Release Payloads"
+  },
+  "https://www.welivesecurity.com/en/scams/geopolitical-turmoil-gift-scammers-how-stay-safe/": {
+    "ts": "2026-09-05T13:48:44.860655+00:00",
+    "title": "Why geopolitical turmoil is a gift for scammers, and how to stay safe"
+  },
+  "https://threats.wiz.io/all-incidents/critical-sql-injection-vulnerability-in-litellm-exploited-in-the-wild": {
+    "ts": "2026-09-05T13:48:44.949120+00:00",
+    "title": "Critical SQL Injection Vulnerability in LiteLLM Exploited in-the-Wild (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/technical-analysis-snappyclient": {
+    "ts": "2026-09-05T13:48:45.043679+00:00",
+    "title": "Technical Analysis of SnappyClient"
   }
 }
