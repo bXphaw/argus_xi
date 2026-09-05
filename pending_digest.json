@@ -139,6 +139,46 @@
       "category": "malware_windows",
       "title": "Technical Analysis of Marco Stealer",
       "url": "https://www.zscaler.com/blogs/security-research/technical-analysis-marco-stealer"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Shaping Shadows: Breaking Down New ShadowSyndicate Methods and Infrastructure",
+      "url": "https://www.group-ib.com/blog/new-shadowsyndicate-infrastructure/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "PaperCut Flaws Exploited in Attacks on U.S. and European Schools",
+      "url": "https://securityaffairs.com/198476/hacking/papercut-flaws-exploited-in-attacks-on-u-s-and-european-schools.html"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html"
+    },
+    {
+      "category": "malware_other",
+      "title": "Your AI Stack Just Handed Over Your Root Keys: Inside the litellm PyPI Breach",
+      "url": "https://www.trendmicro.com/en_us/research/26/c/your-ai-stack-just-handed-over-your-root-keys-inside-the-litellm-pypi-breach.html"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "GopherWhisper: A burrow full of malware",
+      "url": "https://www.welivesecurity.com/en/eset-research/gopherwhisper-burrow-full-malware/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Exploitation Campaign of Vulnerable GitHub Workflows (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/exploitation-campaign-of-vulnerable-github-workflows"
+    },
+    {
+      "category": "malware_android",
+      "title": "New NGate variant hides in a trojanized NFC payment app",
+      "url": "https://www.welivesecurity.com/en/eset-research/new-ngate-variant-hides-in-a-trojanized-nfc-payment-app/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "UAT-10608 Campaign Abuses React2Shell for Cloud Credential Harvesting (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/uat-10608-campaign-abuses-react2shell-for-cloud-credential-harvesting"
     }
   ],
   "last_sent_date": "2026-09-05"

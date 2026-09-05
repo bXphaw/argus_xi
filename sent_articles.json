@@ -4998,5 +4998,125 @@
   "https://www.theregister.com/security/2026/08/26/carhartt-data-breach-affects-129m-half-of-what-shinyhunters-claimed/5292626": {
     "ts": "2026-09-05T18:56:03.711574+00:00",
     "title": "Carhartt data breach affects 12.9M, half of what ShinyHunters claimed"
+  },
+  "https://www.darktrace.com/blog/our-annual-survey-reveals-how-security-teams-are-adapting-to-ai-powered-threats": {
+    "ts": "2026-09-05T21:03:45.010239+00:00",
+    "title": "Our Annual Survey Reveals How Security Teams Are Adapting to AI-Powered Threats"
+  },
+  "https://www.group-ib.com/blog/new-shadowsyndicate-infrastructure/": {
+    "ts": "2026-09-05T21:03:45.272808+00:00",
+    "title": "Shaping Shadows: Breaking Down New ShadowSyndicate Methods and Infrastructure"
+  },
+  "https://securityaffairs.com/198476/hacking/papercut-flaws-exploited-in-attacks-on-u-s-and-european-schools.html": {
+    "ts": "2026-09-05T21:03:45.508378+00:00",
+    "title": "PaperCut Flaws Exploited in Attacks on U.S. and European Schools"
+  },
+  "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html": {
+    "ts": "2026-09-05T21:03:45.746690+00:00",
+    "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores"
+  },
+  "https://www.theregister.com/security/2026/08/25/you-couldve-applied-all-1449-oracle-patches-and-still-been-hit-by-this-attack/5292335": {
+    "ts": "2026-09-05T21:03:45.746703+00:00",
+    "title": "You could've applied all 1,449 Oracle patches and still been hit by this attack"
+  },
+  "https://www.trendmicro.com/en_us/research/26/c/inside-litellm-supply-chain-compromise.html": {
+    "ts": "2026-09-05T21:03:45.992303+00:00",
+    "title": "Your AI Gateway Was a Backdoor: Inside the LiteLLM Supply Chain Compromise"
+  },
+  "https://www.welivesecurity.com/en/ransomware/calm-ransom-what-you-see-is-not-all-there-is/": {
+    "ts": "2026-09-05T21:03:46.222423+00:00",
+    "title": "The calm before the ransom: What you see is not all there is"
+  },
+  "https://threats.wiz.io/all-incidents/o365-device-code-phishing-campaign-using-eviltokens-and-abusing-railway-platform": {
+    "ts": "2026-09-05T21:03:46.450075+00:00",
+    "title": "O365 Device Code Phishing Campaign using EvilTokens and Abusing Railway Platform (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/apt28-leverages-cve-2026-21509-operation-neusploit": {
+    "ts": "2026-09-05T21:03:46.690671+00:00",
+    "title": "APT28 Leverages CVE-2026-21509 in Operation Neusploit"
+  },
+  "https://www.darktrace.com/blog/why-darktrace-email-excels-against-apts": {
+    "ts": "2026-09-05T21:03:46.924145+00:00",
+    "title": "Why Darktrace / EMAIL Excels Against APTs"
+  },
+  "https://www.group-ib.com/blog/xai-cybersecurity/": {
+    "ts": "2026-09-05T21:03:46.924158+00:00",
+    "title": "AI, Explain Yourself: Why Is Explainable AI (XAI) Becoming Critical for Cybersecurity?"
+  },
+  "https://www.theregister.com/security/2026/08/25/cisa-slaps-its-tightest-three-day-patching-deadline-on-perfect-10-oracle-flaw/5292107": {
+    "ts": "2026-09-05T21:03:46.924164+00:00",
+    "title": "CISA slaps its tightest three-day patching deadline on perfect-10 Oracle flaw"
+  },
+  "https://www.trendmicro.com/en_us/research/26/c/your-ai-stack-just-handed-over-your-root-keys-inside-the-litellm-pypi-breach.html": {
+    "ts": "2026-09-05T21:03:47.169037+00:00",
+    "title": "Your AI Stack Just Handed Over Your Root Keys: Inside the litellm PyPI Breach"
+  },
+  "https://www.welivesecurity.com/en/eset-research/gopherwhisper-burrow-full-malware/": {
+    "ts": "2026-09-05T21:03:47.404381+00:00",
+    "title": "GopherWhisper: A burrow full of malware"
+  },
+  "https://threats.wiz.io/all-incidents/exploitation-campaign-of-vulnerable-github-workflows": {
+    "ts": "2026-09-05T21:03:47.641909+00:00",
+    "title": "Exploitation Campaign of Vulnerable GitHub Workflows (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/7-predictions-2026-threat-landscape-navigating-year-ahead": {
+    "ts": "2026-09-05T21:03:47.873089+00:00",
+    "title": "7 Predictions for the 2026 Threat Landscape: Navigating the Year Ahead"
+  },
+  "https://www.darktrace.com/blog/ransomhub-revisited-new-front-runner-in-the-ransomware-as-a-service-marketplace": {
+    "ts": "2026-09-05T21:03:48.118708+00:00",
+    "title": "RansomHub\u2019s Rise: RaaS Market Insights"
+  },
+  "https://www.group-ib.com/blog/multicloud-cspm-security/": {
+    "ts": "2026-09-05T21:03:48.355964+00:00",
+    "title": "Your Cloud(s). Adversaries\u2019 Chance At Control"
+  },
+  "https://www.theregister.com/security/2026/08/25/crooks-push-mac-malware-through-fake-openai-codex-ads/5291899": {
+    "ts": "2026-09-05T21:03:48.592100+00:00",
+    "title": "Crooks push Mac malware through fake OpenAI Codex ads"
+  },
+  "https://www.trendmicro.com/en_us/research/26/c/copyright-lures-mask-a-multistage-purelog-stealer-attack.html": {
+    "ts": "2026-09-05T21:03:48.832484+00:00",
+    "title": "Copyright Lures Mask a Multi\u2011Stage PureLog Stealer Attack on Key Industries"
+  },
+  "https://www.welivesecurity.com/en/eset-research/new-ngate-variant-hides-in-a-trojanized-nfc-payment-app/": {
+    "ts": "2026-09-05T21:03:49.075722+00:00",
+    "title": "New NGate variant hides in a trojanized NFC payment app"
+  },
+  "https://threats.wiz.io/all-incidents/uat-10608-campaign-abuses-react2shell-for-cloud-credential-harvesting": {
+    "ts": "2026-09-05T21:03:49.315769+00:00",
+    "title": "UAT-10608 Campaign Abuses React2Shell for Cloud Credential Harvesting (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/ai-now-default-enterprise-accelerator-takeaways-threatlabz-2026-ai-security": {
+    "ts": "2026-09-05T21:03:49.315784+00:00",
+    "title": "AI is Now Default Enterprise Accelerator: Takeaways from ThreatLabz 2026 AI Security Report"
+  },
+  "https://www.darktrace.com/blog/cnapp-alone-isnt-enough-darktrace-clouds-focus-on-cdr-for-real-time-cross-domain-protection": {
+    "ts": "2026-09-05T21:03:49.315789+00:00",
+    "title": "CNAPP Alone Isn\u2019t Enough: Focusing on CDR for Real-Time Cross Domain Protection"
+  },
+  "https://www.group-ib.com/blog/peru-digital-loan-scam/": {
+    "ts": "2026-09-05T21:03:49.315793+00:00",
+    "title": "Peruvian Peaks: The Digital Loan Illusion"
+  },
+  "https://www.theregister.com/security/2026/08/24/you-dont-want-this-sleepwalker-backdoor-on-your-windows-machine/5292021": {
+    "ts": "2026-09-05T21:03:49.544227+00:00",
+    "title": "You don't want this Sleepwalker backdoor on your Windows machine"
+  },
+  "https://www.trendmicro.com/en_us/research/26/c/why-east-west-visibility-matters-for-grid-security.html": {
+    "ts": "2026-09-05T21:03:49.782885+00:00",
+    "title": "Why East-West Visibility Matters for Grid Security"
+  },
+  "https://www.welivesecurity.com/en/ransomware/what-ransom-note-doesnt-say/": {
+    "ts": "2026-09-05T21:03:50.020316+00:00",
+    "title": "What the ransom note won\u2019t say"
+  },
+  "https://threats.wiz.io/all-incidents/axios-supply-chain-attack": {
+    "ts": "2026-09-05T21:03:50.286583+00:00",
+    "title": "Axios supply chain attack (Incident)"
+  },
+  "https://www.zscaler.com/blogs/security-research/apt-attacks-target-indian-government-using-sheetcreep-firepower-and": {
+    "ts": "2026-09-05T21:03:50.525902+00:00",
+    "title": "APT Attacks Target Indian Government Using SHEETCREEP, FIREPOWER, and MAILCREEP | Part 2"
   }
 }
