@@ -49,6 +49,51 @@
       "category": "threat_actor",
       "title": "Esquema de Phishing GTFire: Evitando la detecci\u00f3n mediante servicios de Google",
       "url": "https://www.group-ib.com/blog/gtfire-phishing-scheme-es/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
+      "url": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Hackers Turn Claude, Qwen and DeepSeek Into AI Agents for Real-World Cyberattacks",
+      "url": "https://cybersecuritynews.com/ai-agents-for-real-world-cyberattacks/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Email bombing exposed: Darktrace\u2019s email defense in action",
+      "url": "https://www.darktrace.com/blog/email-bombing-exposed-darktraces-email-defense-in-action"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Hackers Use Frontier AI Agents to Breach Enterprise Network in Under 10 Hours",
+      "url": "https://gbhackers.com/hackers-use-frontier-ai-agents/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "How Hastalamuerte Operates: Group-IB\u2019s Analysis of The Gentlemen\u2019s Attack Methods",
+      "url": "https://www.group-ib.com/blog/hastalamuerte-gentlemen-raas-ttps/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+      "url": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "The Rise of Fake Shipment Tracking Scams in MEA",
+      "url": "https://www.group-ib.com/blog/mea-shipment-tracking-scam/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
+      "url": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks",
+      "url": "https://www.theregister.com/security/2026/08/27/fbi-seizes-hacking-tools-it-says-china-used-to-attack-nasa-doe-us-senate-and-other-critical-networks/5292742"
     }
   ],
   "last_sent_date": "2026-09-05"

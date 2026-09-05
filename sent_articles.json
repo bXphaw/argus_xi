@@ -4758,5 +4758,125 @@
   "https://www.zscaler.com/blogs/security-research/technical-analysis-snappyclient": {
     "ts": "2026-09-05T13:48:45.043679+00:00",
     "title": "Technical Analysis of SnappyClient"
+  },
+  "https://threats.wiz.io/all-incidents/elementary-data-compromised-in-supply-chain-attack": {
+    "ts": "2026-09-05T16:40:16.698187+00:00",
+    "title": "Elementary Data Compromised in Supply Chain Attack (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/xinference-compromised-in-supply-chain-attack": {
+    "ts": "2026-09-05T16:40:33.704246+00:00",
+    "title": "Xinference Compromised in Supply Chain Attack (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/": {
+    "ts": "2026-09-05T16:42:26.730400+00:00",
+    "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain"
+  },
+  "https://cybersecuritynews.com/ai-agents-for-real-world-cyberattacks/": {
+    "ts": "2026-09-05T16:42:26.852531+00:00",
+    "title": "Hackers Turn Claude, Qwen and DeepSeek Into AI Agents for Real-World Cyberattacks"
+  },
+  "https://www.darktrace.com/blog/force-multiply-your-security-team-with-agentic-ai-how-the-industrys-only-true-cyber-ai-analyst-tm-saves-time-and-stop-threats": {
+    "ts": "2026-09-05T16:42:26.852552+00:00",
+    "title": "Force Multiply Your Security Team with Agentic AI: How the Industry\u2019s Only True Cyber AI Analyst\u2122 Saves Time and Stop Threats"
+  },
+  "https://gbhackers.com/12-year-old-postgresql-flaw/": {
+    "ts": "2026-09-05T16:42:26.852555+00:00",
+    "title": "12-Year-Old PostgreSQL Flaw Lets Attackers Execute Code and Take Over Database Servers"
+  },
+  "https://www.group-ib.com/blog/cloud-phones-invisible-threat/": {
+    "ts": "2026-09-05T16:42:26.852558+00:00",
+    "title": "Cloud Phones: The Invisible Threat"
+  },
+  "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html": {
+    "ts": "2026-09-05T16:42:26.982082+00:00",
+    "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted"
+  },
+  "https://www.theregister.com/security/2026/08/27/cybercrooks-jet-off-with-manchester-airports-group-customer-data/5292943": {
+    "ts": "2026-09-05T16:42:27.101907+00:00",
+    "title": "Cybercrooks jet off with Manchester Airports Group customer data"
+  },
+  "https://www.trendmicro.com/en_us/research/26/c/trendai-insight-new-us-national-cyber-strategy.html": {
+    "ts": "2026-09-05T16:42:27.226757+00:00",
+    "title": "TrendAI Insight: New U.S. National Cyber Strategy"
+  },
+  "https://www.welivesecurity.com/en/eset-research/frostyneighbor-fresh-mischief-digital-shenanigans/": {
+    "ts": "2026-09-05T16:42:27.344649+00:00",
+    "title": "FrostyNeighbor: Fresh mischief and digital shenanigans"
+  },
+  "https://www.zscaler.com/blogs/security-research/china-nexus-threat-actor-targets-arabian-gulf-region-plugx": {
+    "ts": "2026-09-05T16:42:27.472903+00:00",
+    "title": "China-nexus Threat Actor Targets Arabian Gulf Region With PlugX"
+  },
+  "https://cybersecuritynews.com/multiple-tp-link-archer-vulnerabilities/": {
+    "ts": "2026-09-05T16:42:27.472920+00:00",
+    "title": "Multiple TP-Link Archer Vulnerabilities Allow Attackers to Execute Remote Code"
+  },
+  "https://www.darktrace.com/blog/email-bombing-exposed-darktraces-email-defense-in-action": {
+    "ts": "2026-09-05T16:42:27.588578+00:00",
+    "title": "Email bombing exposed: Darktrace\u2019s email defense in action"
+  },
+  "https://gbhackers.com/hackers-use-frontier-ai-agents/": {
+    "ts": "2026-09-05T16:42:27.711867+00:00",
+    "title": "Hackers Use Frontier AI Agents to Breach Enterprise Network in Under 10 Hours"
+  },
+  "https://www.group-ib.com/blog/hastalamuerte-gentlemen-raas-ttps/": {
+    "ts": "2026-09-05T16:42:27.831936+00:00",
+    "title": "How Hastalamuerte Operates: Group-IB\u2019s Analysis of The Gentlemen\u2019s Attack Methods"
+  },
+  "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html": {
+    "ts": "2026-09-05T16:42:27.945264+00:00",
+    "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions"
+  },
+  "https://www.theregister.com/security/2026/08/27/nuisance-call-blocker-fined-190k-for-being-a-nuisance-caller/5292888": {
+    "ts": "2026-09-05T16:42:28.056539+00:00",
+    "title": "Nuisance-call blocker fined \u00a3190k for being a nuisance caller"
+  },
+  "https://www.trendmicro.com/en_us/research/26/c/trendai-research-at-rsac-2026.html": {
+    "ts": "2026-09-05T16:42:28.177644+00:00",
+    "title": "TrendAI\u2122 Research at RSAC 2026: Advancing Defense Across AI\u2011Driven and Cyber\u2011Physical Threats"
+  },
+  "https://www.welivesecurity.com/en/privacy/eyes-wide-open-mitigate-security-privacy-risks-smart-glasses/": {
+    "ts": "2026-09-05T16:42:28.291342+00:00",
+    "title": "Eyes wide open: How to mitigate the security and privacy risks of smart glasses"
+  },
+  "https://threats.wiz.io/all-incidents/checkmarx-kics-and-bitwarden-cli-compromised-in-fresh-supply-chain-attack": {
+    "ts": "2026-09-05T16:42:28.410902+00:00",
+    "title": "Checkmarx KICS and Bitwarden CLI Compromised in Fresh Supply Chain Attack (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/middle-east-conflict-fuels-opportunistic-cyber-attacks": {
+    "ts": "2026-09-05T16:42:28.533668+00:00",
+    "title": "Middle East Conflict Fuels Opportunistic Cyber Attacks"
+  },
+  "https://www.darktrace.com/blog/how-ndr-and-sase-work-together-to-achieve-network-security-outcomes": {
+    "ts": "2026-09-05T16:42:28.533687+00:00",
+    "title": "How NDR and Secure Access Service Edge (SASE) Work Together to Achieve Network Security Outcomes"
+  },
+  "https://gbhackers.com/cars24-data-breach-exposes-3100-customer-records/": {
+    "ts": "2026-09-05T16:42:28.533698+00:00",
+    "title": "CARS24 Data Breach Exposes 3,100 Customer Records, Leads Allegedly Sold for \u20b91,000 Each"
+  },
+  "https://www.group-ib.com/blog/mea-shipment-tracking-scam/": {
+    "ts": "2026-09-05T16:42:28.663782+00:00",
+    "title": "The Rise of Fake Shipment Tracking Scams in MEA"
+  },
+  "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html": {
+    "ts": "2026-09-05T16:42:28.779245+00:00",
+    "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets"
+  },
+  "https://www.theregister.com/security/2026/08/27/fbi-seizes-hacking-tools-it-says-china-used-to-attack-nasa-doe-us-senate-and-other-critical-networks/5292742": {
+    "ts": "2026-09-05T16:42:28.888698+00:00",
+    "title": "FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks"
+  },
+  "https://www.trendmicro.com/en_us/research/26/c/the-real-risk-of-vibecoding.html": {
+    "ts": "2026-09-05T16:42:29.007850+00:00",
+    "title": "The Real Risk of Vibecoding"
+  },
+  "https://www.welivesecurity.com/en/eset-research/fake-call-logs-real-payments-how-callphantom-tricks-android-users/": {
+    "ts": "2026-09-05T16:42:29.128091+00:00",
+    "title": "Fake call logs, real payments: How CallPhantom tricks Android users"
+  },
+  "https://www.zscaler.com/blogs/security-research/dust-specter-apt-targets-government-officials-iraq": {
+    "ts": "2026-09-05T16:42:29.265194+00:00",
+    "title": "Dust Specter APT Targets Government Officials in Iraq"
   }
 }
