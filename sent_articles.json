@@ -5118,5 +5118,125 @@
   "https://www.zscaler.com/blogs/security-research/apt-attacks-target-indian-government-using-sheetcreep-firepower-and": {
     "ts": "2026-09-05T21:03:50.525902+00:00",
     "title": "APT Attacks Target Indian Government Using SHEETCREEP, FIREPOWER, and MAILCREEP | Part 2"
+  },
+  "https://threats.wiz.io/all-incidents/apifox-supply-chain-attack": {
+    "ts": "2026-09-05T23:39:14.372831+00:00",
+    "title": "Apifox supply chain attack (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/buddyboss-supply-chain-attack": {
+    "ts": "2026-09-05T23:39:19.468166+00:00",
+    "title": "BuddyBoss supply chain attack (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/litellm-supply-chain-attack": {
+    "ts": "2026-09-05T23:39:24.525254+00:00",
+    "title": "LiteLLM supply chain attack (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/kics-supply-chain-attack": {
+    "ts": "2026-09-05T23:39:31.298463+00:00",
+    "title": "KICS supply chain attack (Incident)"
+  },
+  "https://www.darktrace.com/blog/ransomhub-ransomware-darktraces-investigation-of-the-newest-tool-in-shadowsyndicates-arsenal": {
+    "ts": "2026-09-05T23:41:45.413175+00:00",
+    "title": "RansomHub Ransomware: Darktrace\u2019s Investigation of the Newest Tool in ShadowSyndicate's Arsenal"
+  },
+  "https://www.group-ib.com/blog/ai-security-risks/": {
+    "ts": "2026-09-05T23:41:45.413198+00:00",
+    "title": "Top 5 AI Security Risks in 2026"
+  },
+  "https://securityaffairs.com/198506/ai/openai-announced-1b-in-defensive-tools-for-water-utilities.html": {
+    "ts": "2026-09-05T23:41:45.413203+00:00",
+    "title": "OpenAI Announced $1B in Defensive Tools for Water Utilities"
+  },
+  "https://www.trendmicro.com/en_us/research/26/c/from-misconfigured-spring-boot-actuator-to-sharepoint-exfiltrati.html": {
+    "ts": "2026-09-05T23:41:45.413206+00:00",
+    "title": "From Misconfigured Spring Boot Actuator to SharePoint Exfiltration: How Stolen Credentials Bypass MFA"
+  },
+  "https://www.welivesecurity.com/en/scams/data-breach-alert-might-be-trap/": {
+    "ts": "2026-09-05T23:41:45.413209+00:00",
+    "title": "That data breach alert might be a trap"
+  },
+  "https://www.zscaler.com/blogs/security-research/apt-attacks-target-indian-government-using-gogitter-gitshellpad-and-goshell": {
+    "ts": "2026-09-05T23:41:45.610898+00:00",
+    "title": "APT Attacks Target Indian Government Using GOGITTER, GITSHELLPAD, and GOSHELL | Part 1"
+  },
+  "https://www.darktrace.com/blog/securing-the-network-through-soc-transformation": {
+    "ts": "2026-09-05T23:41:45.815898+00:00",
+    "title": "Reimagining Your SOC: How to Shift Away From Reactive Network Security"
+  },
+  "https://www.group-ib.com/blog/phishing-email-security/": {
+    "ts": "2026-09-05T23:41:46.011367+00:00",
+    "title": "Phishing & Email Security: An AI-Ready Playbook"
+  },
+  "https://www.trendmicro.com/en_us/research/26/c/dissecting-a-warlock-attack.html": {
+    "ts": "2026-09-05T23:41:46.213170+00:00",
+    "title": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack"
+  },
+  "https://www.welivesecurity.com/en/business-security/supply-chain-dependencies-have-you-checked-your-blind-spot/": {
+    "ts": "2026-09-05T23:41:46.420426+00:00",
+    "title": "Supply chain dependencies: Have you checked your blind spot?"
+  },
+  "https://www.zscaler.com/blogs/security-research/malicious-npm-packages-deliver-nodecordrat": {
+    "ts": "2026-09-05T23:41:46.619270+00:00",
+    "title": "Malicious NPM Packages Deliver NodeCordRAT"
+  },
+  "https://www.darktrace.com/blog/why-ai-powered-email-protection-wasnt-merely-an-option-but-an-imperative-for-this-global-leader-in-financial-services": {
+    "ts": "2026-09-05T23:41:46.619294+00:00",
+    "title": "Why AI-powered Email Protection Became Essential for this Global Financial Services Leader"
+  },
+  "https://www.group-ib.com/blog/examples-of-ai-in-cybersecurity/": {
+    "ts": "2026-09-05T23:41:46.619298+00:00",
+    "title": "Real-World Examples of AI in Cybersecurity"
+  },
+  "https://www.trendmicro.com/en_us/research/26/c/securing-autonomous-ai-agents-with-trendai-and-nvidia-openshell.html": {
+    "ts": "2026-09-05T23:41:46.619300+00:00",
+    "title": "Securing Autonomous AI Agents with TrendAI & NVIDIA OpenShell"
+  },
+  "https://www.welivesecurity.com/en/scams/recovery-scammers-hit-when-down-avoid-second-strike/": {
+    "ts": "2026-09-05T23:41:46.619303+00:00",
+    "title": "Recovery scammers hit you when you\u2019re down: Here\u2019s how to avoid a second strike"
+  },
+  "https://www.zscaler.com/blogs/security-research/whats-powering-enterprise-ai-2025-threatlabz-report-sneak-peek": {
+    "ts": "2026-09-05T23:41:46.817263+00:00",
+    "title": "What\u2019s Powering Enterprise AI in 2025: ThreatLabz Report Sneak Peek"
+  },
+  "https://www.darktrace.com/blog/agent-vs-agentless-cloud-security-why-deployment-methods-matter": {
+    "ts": "2026-09-05T23:41:47.019881+00:00",
+    "title": "Agent vs. Agentless Cloud Security: Why Deployment Methods Matter"
+  },
+  "https://www.group-ib.com/blog/deadlock-ransomware-polygon-smart-contracts/": {
+    "ts": "2026-09-05T23:41:47.216316+00:00",
+    "title": "DeadLock Ransomware: Smart Contracts for Malicious Purposes"
+  },
+  "https://www.trendmicro.com/en_us/research/26/c/trendai-supports-global-law-enforcement-efforts.html": {
+    "ts": "2026-09-05T23:41:47.410497+00:00",
+    "title": "TrendAI\u2122 Supports Global Law Enforcement Efforts"
+  },
+  "https://www.welivesecurity.com/en/business-security/breakout-time-accelerates-prevention-first-cybersecurity-center-stage/": {
+    "ts": "2026-09-05T23:41:47.614726+00:00",
+    "title": "As breakout time accelerates, prevention-first cybersecurity takes center stage"
+  },
+  "https://www.zscaler.com/blogs/security-research/blindeagle-targets-colombian-government-agency-caminho-and-dcrat": {
+    "ts": "2026-09-05T23:41:47.811417+00:00",
+    "title": "BlindEagle Targets Colombian Government Agency with Caminho and DCRAT"
+  },
+  "https://www.darktrace.com/blog/protecting-your-hybrid-cloud-the-future-of-cloud-security-in-2025-and-beyond": {
+    "ts": "2026-09-05T23:41:47.811439+00:00",
+    "title": "Protecting Your Hybrid Cloud: The Future of Cloud Security in 2025 and Beyond"
+  },
+  "https://www.group-ib.com/blog/ghost-tapped-chinese-malware/": {
+    "ts": "2026-09-05T23:41:48.020407+00:00",
+    "title": "Ghost Tapped: Tracking the Rise of Chinese Tap-to-pay Android Malware"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/digital-assets-death-managing-risks-your-loved-ones-digital-estate/": {
+    "ts": "2026-09-05T23:41:48.020430+00:00",
+    "title": "Digital assets after death: Managing risks to your loved one\u2019s digital estate"
+  },
+  "https://threats.wiz.io/all-incidents/exploitation-of-s1ngularity-exposed-cloud-keys-for-lateral-movement": {
+    "ts": "2026-09-05T23:41:48.222711+00:00",
+    "title": "Exploitation of S1ngularity-exposed cloud keys for lateral movement (Incident)"
+  },
+  "https://www.zscaler.com/blogs/security-research/technical-analysis-blackforce-phishing-kit": {
+    "ts": "2026-09-05T23:41:48.422921+00:00",
+    "title": "Technical Analysis of the BlackForce Phishing Kit"
   }
 }

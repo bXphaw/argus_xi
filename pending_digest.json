@@ -179,6 +179,31 @@
       "category": "apt_campaign",
       "title": "UAT-10608 Campaign Abuses React2Shell for Cloud Credential Harvesting (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/uat-10608-campaign-abuses-react2shell-for-cloud-credential-harvesting"
+    },
+    {
+      "category": "threat_actor",
+      "title": "RansomHub Ransomware: Darktrace\u2019s Investigation of the Newest Tool in ShadowSyndicate's Arsenal",
+      "url": "https://www.darktrace.com/blog/ransomhub-ransomware-darktraces-investigation-of-the-newest-tool-in-shadowsyndicates-arsenal"
+    },
+    {
+      "category": "malware_other",
+      "title": "Malicious NPM Packages Deliver NodeCordRAT",
+      "url": "https://www.zscaler.com/blogs/security-research/malicious-npm-packages-deliver-nodecordrat"
+    },
+    {
+      "category": "threat_actor",
+      "title": "BlindEagle Targets Colombian Government Agency with Caminho and DCRAT",
+      "url": "https://www.zscaler.com/blogs/security-research/blindeagle-targets-colombian-government-agency-caminho-and-dcrat"
+    },
+    {
+      "category": "malware_android",
+      "title": "Ghost Tapped: Tracking the Rise of Chinese Tap-to-pay Android Malware",
+      "url": "https://www.group-ib.com/blog/ghost-tapped-chinese-malware/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Exploitation of S1ngularity-exposed cloud keys for lateral movement (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/exploitation-of-s1ngularity-exposed-cloud-keys-for-lateral-movement"
     }
   ],
   "last_sent_date": "2026-09-05"
