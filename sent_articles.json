@@ -4878,5 +4878,125 @@
   "https://www.zscaler.com/blogs/security-research/dust-specter-apt-targets-government-officials-iraq": {
     "ts": "2026-09-05T16:42:29.265194+00:00",
     "title": "Dust Specter APT Targets Government Officials in Iraq"
+  },
+  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-april-2026/": {
+    "ts": "2026-09-05T18:54:05.258693+00:00",
+    "title": "This month in security with Tony Anscombe \u2013 April 2026 edition"
+  },
+  "https://www.darktrace.com/blog/why-data-classification-isnt-enough-to-prevent-data-loss": {
+    "ts": "2026-09-05T18:56:02.507076+00:00",
+    "title": "Why Data Classification Isn\u2019t Enough to Prevent Data Loss"
+  },
+  "https://www.group-ib.com/blog/supply-chain-attack-groups-2026/": {
+    "ts": "2026-09-05T18:56:02.627653+00:00",
+    "title": "Six Supply Chain Attack Groups to Watch Out for in 2026"
+  },
+  "https://socradar.io/blog/peep-browser-rat-chrome-extension/": {
+    "ts": "2026-09-05T18:56:02.677367+00:00",
+    "title": "PEEP: A Browser RAT Posing as a Chrome Extension"
+  },
+  "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html": {
+    "ts": "2026-09-05T18:56:02.677385+00:00",
+    "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials"
+  },
+  "https://www.theregister.com/security/2026/08/27/openai-explains-how-its-naughty-ai-agents-attacked-hugging-face/5292780": {
+    "ts": "2026-09-05T18:56:02.724310+00:00",
+    "title": "OpenAI explains how its naughty AI agents attacked Hugging Face"
+  },
+  "https://www.trendmicro.com/en_us/research/26/c/axios-npm-package-compromised.html": {
+    "ts": "2026-09-05T18:56:02.775166+00:00",
+    "title": "Axios NPM Package Compromised: Supply Chain Attack Hits JavaScript HTTP Client with 100M+ Weekly Downloads"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/fixing-password-problem-as-easy-as-123456/": {
+    "ts": "2026-09-05T18:56:02.823322+00:00",
+    "title": "Fixing the password problem is as easy as 123456"
+  },
+  "https://threats.wiz.io/all-incidents/contextai-oauth-token-compromise": {
+    "ts": "2026-09-05T18:56:02.873870+00:00",
+    "title": "Context.ai OAuth Token Compromise (Incident)"
+  },
+  "https://www.zscaler.com/blogs/security-research/apt37-adds-new-capabilities-air-gapped-networks": {
+    "ts": "2026-09-05T18:56:02.928358+00:00",
+    "title": "APT37 Adds New Capabilities for Air-Gapped Networks"
+  },
+  "https://www.darktrace.com/blog/new-threat-on-the-prowl-investigating-lynx-ransomware": {
+    "ts": "2026-09-05T18:56:02.977375+00:00",
+    "title": "New Threat on the Prowl: Investigating Lynx Ransomware"
+  },
+  "https://www.group-ib.com/blog/gtfire-phishing-scheme/": {
+    "ts": "2026-09-05T18:56:03.028400+00:00",
+    "title": "GTFire Phishing Scheme: Avoiding Detection Using Google Services"
+  },
+  "https://socradar.io/blog/falconflank-crowdstrike-falcon-0day-poc/": {
+    "ts": "2026-09-05T18:56:03.075056+00:00",
+    "title": "FalconFlank: CrowdStrike Falcon 0-Day PoC"
+  },
+  "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html": {
+    "ts": "2026-09-05T18:56:03.075065+00:00",
+    "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code"
+  },
+  "https://www.theregister.com/cyber-crime/2026/08/26/more-than-100-water-systems-were-hit-in-july-cyberattacks/5292685": {
+    "ts": "2026-09-05T18:56:03.075069+00:00",
+    "title": "More than 100 water systems were hit in July cyberattacks"
+  },
+  "https://www.trendmicro.com/en_us/research/26/c/teampcp-telnyx-attack-marks-a-shift-in-tactics.html": {
+    "ts": "2026-09-05T18:56:03.122865+00:00",
+    "title": "TeamPCP\u2019s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM"
+  },
+  "https://www.welivesecurity.com/en/eset-research/rigged-game-scarcruft-compromises-gaming-platform-supply-chain-attack/": {
+    "ts": "2026-09-05T18:56:03.172118+00:00",
+    "title": "A rigged game: ScarCruft compromises gaming platform in a supply-chain attack"
+  },
+  "https://threats.wiz.io/all-incidents/polinrider-campaign-dprk-linked-supply-chain-attack-infects-github-repositories": {
+    "ts": "2026-09-05T18:56:03.217723+00:00",
+    "title": "PolinRider Campaign: DPRK-Linked Supply Chain Attack Infects GitHub Repositories (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/technical-analysis-guloader-obfuscation-techniques": {
+    "ts": "2026-09-05T18:56:03.265164+00:00",
+    "title": "Technical Analysis of GuLoader Obfuscation Techniques"
+  },
+  "https://www.darktrace.com/blog/survey-findings-how-is-ai-impacting-the-soc": {
+    "ts": "2026-09-05T18:56:03.315497+00:00",
+    "title": "Survey findings: How is AI Impacting the SOC?"
+  },
+  "https://www.group-ib.com/blog/muddywater-operation-olalampo/": {
+    "ts": "2026-09-05T18:56:03.366437+00:00",
+    "title": "Operation Olalampo: Inside MuddyWater\u2019s Latest Campaign"
+  },
+  "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html": {
+    "ts": "2026-09-05T18:56:03.366447+00:00",
+    "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance"
+  },
+  "https://www.theregister.com/security/2026/08/26/boston-scientific-discloses-global-disruption-in-ongoing-cyberattack/5292641": {
+    "ts": "2026-09-05T18:56:03.366451+00:00",
+    "title": "Boston Scientific discloses 'global disruption' in ongoing cyberattack"
+  },
+  "https://www.trendmicro.com/en_us/research/26/c/pawn-storm-targets-govt-infra.html": {
+    "ts": "2026-09-05T18:56:03.417120+00:00",
+    "title": "Pawn Storm Campaign Deploys PRISMEX, Targets Government and Critical Infrastructure Entities"
+  },
+  "https://threats.wiz.io/all-incidents/stolen-saas-integration-tokens-enable-data-theft-across-snowflake-environments": {
+    "ts": "2026-09-05T18:56:03.464628+00:00",
+    "title": "Stolen SaaS Integration Tokens Enable Data Theft Across Snowflake Environments (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/technical-analysis-marco-stealer": {
+    "ts": "2026-09-05T18:56:03.515377+00:00",
+    "title": "Technical Analysis of Marco Stealer"
+  },
+  "https://www.darktrace.com/blog/global-technology-provider-transforms-email-threat-detection-with-darktrace": {
+    "ts": "2026-09-05T18:56:03.564251+00:00",
+    "title": "Global Technology Provider Transforms Email Threat Detection with Darktrace"
+  },
+  "https://www.group-ib.com/blog/indonesia-tax-impersonation-goldfactory-malware/": {
+    "ts": "2026-09-05T18:56:03.614821+00:00",
+    "title": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia"
+  },
+  "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html": {
+    "ts": "2026-09-05T18:56:03.663970+00:00",
+    "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs"
+  },
+  "https://www.theregister.com/security/2026/08/26/carhartt-data-breach-affects-129m-half-of-what-shinyhunters-claimed/5292626": {
+    "ts": "2026-09-05T18:56:03.711574+00:00",
+    "title": "Carhartt data breach affects 12.9M, half of what ShinyHunters claimed"
   }
 }

@@ -94,6 +94,51 @@
       "category": "threat_actor",
       "title": "FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks",
       "url": "https://www.theregister.com/security/2026/08/27/fbi-seizes-hacking-tools-it-says-china-used-to-attack-nasa-doe-us-senate-and-other-critical-networks/5292742"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Six Supply Chain Attack Groups to Watch Out for in 2026",
+      "url": "https://www.group-ib.com/blog/supply-chain-attack-groups-2026/"
+    },
+    {
+      "category": "malware_other",
+      "title": "PEEP: A Browser RAT Posing as a Chrome Extension",
+      "url": "https://socradar.io/blog/peep-browser-rat-chrome-extension/"
+    },
+    {
+      "category": "new_technique",
+      "title": "OpenAI explains how its naughty AI agents attacked Hugging Face",
+      "url": "https://www.theregister.com/security/2026/08/27/openai-explains-how-its-naughty-ai-agents-attacked-hugging-face/5292780"
+    },
+    {
+      "category": "new_technique",
+      "title": "GTFire Phishing Scheme: Avoiding Detection Using Google Services",
+      "url": "https://www.group-ib.com/blog/gtfire-phishing-scheme/"
+    },
+    {
+      "category": "new_technique",
+      "title": "FalconFlank: CrowdStrike Falcon 0-Day PoC",
+      "url": "https://socradar.io/blog/falconflank-crowdstrike-falcon-0day-poc/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "TeamPCP\u2019s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM",
+      "url": "https://www.trendmicro.com/en_us/research/26/c/teampcp-telnyx-attack-marks-a-shift-in-tactics.html"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Pawn Storm Campaign Deploys PRISMEX, Targets Government and Critical Infrastructure Entities",
+      "url": "https://www.trendmicro.com/en_us/research/26/c/pawn-storm-targets-govt-infra.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Stolen SaaS Integration Tokens Enable Data Theft Across Snowflake Environments (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/stolen-saas-integration-tokens-enable-data-theft-across-snowflake-environments"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Technical Analysis of Marco Stealer",
+      "url": "https://www.zscaler.com/blogs/security-research/technical-analysis-marco-stealer"
     }
   ],
   "last_sent_date": "2026-09-05"
