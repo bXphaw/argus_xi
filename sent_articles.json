@@ -5958,5 +5958,125 @@
   "https://threats.wiz.io/all-incidents/warlock-ransomware-exploiting-sharepoint-vulnerabilities-": {
     "ts": "2026-09-06T21:13:45.686009+00:00",
     "title": "Warlock Ransomware Exploiting Sharepoint Vulnerabilities  (Campaign)"
+  },
+  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-november-2025/": {
+    "ts": "2026-09-06T23:37:51.991543+00:00",
+    "title": "This month in security with Tony Anscombe \u2013 November 2025 edition"
+  },
+  "https://www.group-ib.com/blog/fraud-underbelly-australia/": {
+    "ts": "2026-09-06T23:39:46.158130+00:00",
+    "title": "Fraud Underbelly: Australia\u2019s Digital Boom\u2014A Fraudster\u2019s Goldmine?"
+  },
+  "https://www.welivesecurity.com/en/eset-research/muddywater-snakes-riverbank/": {
+    "ts": "2026-09-06T23:39:46.499980+00:00",
+    "title": "MuddyWater: Snakes by the riverbank"
+  },
+  "https://threats.wiz.io/all-incidents/dripdropper-malware-exploits-patched-apache-activemq-for-persistence-on-cloud-linux-systems": {
+    "ts": "2026-09-06T23:39:46.620398+00:00",
+    "title": "DripDropper Malware Exploits Patched Apache ActiveMQ for Persistence on Cloud Linux Systems (Campaign)"
+  },
+  "https://www.group-ib.com/blog/hunters-international-ransomware-group/": {
+    "ts": "2026-09-06T23:39:46.745921+00:00",
+    "title": "The beginning of the end: the story of Hunters International"
+  },
+  "https://www.welivesecurity.com/en/business-security/oversharing-is-not-caring-stake-employees-post-too-much-online/": {
+    "ts": "2026-09-06T23:39:46.745939+00:00",
+    "title": "Oversharing is not caring: What\u2019s at stake if your employees post too much online"
+  },
+  "https://threats.wiz.io/all-incidents/uat-7237-targets-taiwanese-web-infrastructure-using-customized-open-source-tools": {
+    "ts": "2026-09-06T23:39:46.888679+00:00",
+    "title": "UAT-7237 Targets Taiwanese Web Infrastructure Using Customized Open-Source Tools (Campaign)"
+  },
+  "https://www.group-ib.com/blog/navigating-cybercrime-latin-america/": {
+    "ts": "2026-09-06T23:39:46.888697+00:00",
+    "title": "Navigating Cybercrime Currents in Latin America: Strengthening the Region\u2019s Defenses"
+  },
+  "https://threats.wiz.io/all-incidents/akira-ransomware-targeting-critical-vulnerability-in-sonicwall-sslvpn": {
+    "ts": "2026-09-06T23:39:47.003077+00:00",
+    "title": "Akira Ransomware Targeting Critical Vulnerability in SonicWall SSLVPN (Campaign)"
+  },
+  "https://www.group-ib.com/blog/unmasking-the-classiscam-in-central-asia/": {
+    "ts": "2026-09-06T23:39:47.124280+00:00",
+    "title": "Unmasking the Classiscam in Central Asia"
+  },
+  "https://www.welivesecurity.com/en/kids-online/parents-protect-children-doxxing/": {
+    "ts": "2026-09-06T23:39:47.124297+00:00",
+    "title": "What parents should know to protect their children from doxxing"
+  },
+  "https://threats.wiz.io/all-incidents/plague-pam-based-backdoor-for-linux": {
+    "ts": "2026-09-06T23:39:47.251017+00:00",
+    "title": "Plague PAM-Based Backdoor for Linux (Campaign)"
+  },
+  "https://www.group-ib.com/blog/hunting-rituals-5/": {
+    "ts": "2026-09-06T23:39:47.367265+00:00",
+    "title": "Hunting Rituals #5: Why hypothesis-based threat hunting is essential in cybersecurity"
+  },
+  "https://www.welivesecurity.com/en/social-media/influencers-crosshairs-cybercriminals-targeting-content-creators/": {
+    "ts": "2026-09-06T23:39:47.485844+00:00",
+    "title": "Influencers in the crosshairs: How cybercriminals are targeting content creators"
+  },
+  "https://threats.wiz.io/all-incidents/auto-color-malware-exploits-sap-vulnerability-for--linux-backdoor": {
+    "ts": "2026-09-06T23:39:47.610648+00:00",
+    "title": "Auto-Color Malware Exploits SAP Vulnerability for  Linux Backdoor (Campaign)"
+  },
+  "https://www.group-ib.com/blog/the-cybercriminal-with-four-faces-revealing-group-ib-s-investigation-into-altdos-desorden-ghostr-and-0mid16b/": {
+    "ts": "2026-09-06T23:39:47.735969+00:00",
+    "title": "The Cybercriminal with Four Faces: Revealing Group-IB\u2019s Investigation into ALTDOS, DESORDEN, GHOSTR and 0mid16B"
+  },
+  "https://threats.wiz.io/all-incidents/aws-codebuild-vulnerability-allows-build-process-secrets-extraction": {
+    "ts": "2026-09-06T23:39:47.856609+00:00",
+    "title": "AWS CodeBuild Vulnerability Allows Build Process Secrets Extraction (Research)"
+  },
+  "https://www.group-ib.com/blog/clickfix-the-social-engineering-technique-hackers-use-to-manipulate-victims/": {
+    "ts": "2026-09-06T23:39:47.980701+00:00",
+    "title": "ClickFix: The Social Engineering Technique Hackers Use to Manipulate Victims"
+  },
+  "https://threats.wiz.io/all-incidents/soco404-cryptomining-campaign-exploits-postgresql-and-cloud-misconfigurations": {
+    "ts": "2026-09-06T23:39:48.108852+00:00",
+    "title": "Soco404 Cryptomining Campaign Exploits PostgreSQL and Cloud Misconfigurations (Campaign)"
+  },
+  "https://www.group-ib.com/blog/the-evolution-of-sim-swapping-fraud-how-fraudsters-bypass-security-layers/": {
+    "ts": "2026-09-06T23:39:48.108870+00:00",
+    "title": "The Evolution of SIM Swapping Fraud: How Fraudsters Bypass Security Layers"
+  },
+  "https://threats.wiz.io/all-incidents/mimo-targets-magento-docker-and-cloud-environments": {
+    "ts": "2026-09-06T23:39:48.238610+00:00",
+    "title": "Mimo Targets Magento, Docker, and Cloud Environments (Campaign)"
+  },
+  "https://www.group-ib.com/blog/building-zero-trust-security-selectively-trust-to-rightfully-secure/": {
+    "ts": "2026-09-06T23:39:48.362434+00:00",
+    "title": "Building Zero Trust Security: Selectively Trust To Rightfully Secure"
+  },
+  "https://threats.wiz.io/all-incidents/supply-chain-attack-on-npm-packages-via-maintainer-phishing": {
+    "ts": "2026-09-06T23:39:48.479644+00:00",
+    "title": "Supply Chain Attack on npm Packages via Maintainer Phishing (Campaign)"
+  },
+  "https://www.group-ib.com/blog/technology-alone-isn-t-the-answer-to-cyber-threats-time-to-rethink-security-culture/": {
+    "ts": "2026-09-06T23:39:48.610599+00:00",
+    "title": "Technology Alone Isn\u2019t the Answer to Cyber Threats: Time to Rethink Security Culture"
+  },
+  "https://threats.wiz.io/all-incidents/0day-vulnerability-in-microsoft-sharepoint-exploited-in-the-wild": {
+    "ts": "2026-09-06T23:39:48.741254+00:00",
+    "title": "0day Vulnerability in Microsoft Sharepoint Exploited in-the-Wild (Campaign)"
+  },
+  "https://www.group-ib.com/blog/fingerprint-heists/": {
+    "ts": "2026-09-06T23:39:48.865460+00:00",
+    "title": "Fingerprint Heists: How your browser fingerprint can be stolen and used by fraudsters"
+  },
+  "https://threats.wiz.io/all-incidents/linuxsys-cryptominer-campaign": {
+    "ts": "2026-09-06T23:39:48.996418+00:00",
+    "title": "Linuxsys Cryptominer Campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/ransomhub-never-sleeps-episode-1/": {
+    "ts": "2026-09-06T23:39:49.131652+00:00",
+    "title": "RansomHub Never Sleeps Episode 1: The evolution of modern ransomware"
+  },
+  "https://threats.wiz.io/all-incidents/aws-network-exploitation-and-ransomware-detonation": {
+    "ts": "2026-09-06T23:39:49.131671+00:00",
+    "title": "AWS Network Exploitation and Ransomware Detonation (Campaign)"
+  },
+  "https://www.group-ib.com/blog/5-ways-to-leverage-our-malware-reports/": {
+    "ts": "2026-09-06T23:39:49.131675+00:00",
+    "title": "5 ways to leverage our Malware Reports for malware analysis"
   }
 }

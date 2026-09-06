@@ -164,6 +164,66 @@
       "category": "malware_windows",
       "title": "Warlock Ransomware Exploiting Sharepoint Vulnerabilities  (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/warlock-ransomware-exploiting-sharepoint-vulnerabilities-"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "MuddyWater: Snakes by the riverbank",
+      "url": "https://www.welivesecurity.com/en/eset-research/muddywater-snakes-riverbank/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "DripDropper Malware Exploits Patched Apache ActiveMQ for Persistence on Cloud Linux Systems (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/dripdropper-malware-exploits-patched-apache-activemq-for-persistence-on-cloud-linux-systems"
+    },
+    {
+      "category": "threat_actor",
+      "title": "The beginning of the end: the story of Hunters International",
+      "url": "https://www.group-ib.com/blog/hunters-international-ransomware-group/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "UAT-7237 Targets Taiwanese Web Infrastructure Using Customized Open-Source Tools (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/uat-7237-targets-taiwanese-web-infrastructure-using-customized-open-source-tools"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Akira Ransomware Targeting Critical Vulnerability in SonicWall SSLVPN (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/akira-ransomware-targeting-critical-vulnerability-in-sonicwall-sslvpn"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Unmasking the Classiscam in Central Asia",
+      "url": "https://www.group-ib.com/blog/unmasking-the-classiscam-in-central-asia/"
+    },
+    {
+      "category": "new_technique",
+      "title": "AWS CodeBuild Vulnerability Allows Build Process Secrets Extraction (Research)",
+      "url": "https://threats.wiz.io/all-incidents/aws-codebuild-vulnerability-allows-build-process-secrets-extraction"
+    },
+    {
+      "category": "new_technique",
+      "title": "ClickFix: The Social Engineering Technique Hackers Use to Manipulate Victims",
+      "url": "https://www.group-ib.com/blog/clickfix-the-social-engineering-technique-hackers-use-to-manipulate-victims/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Soco404 Cryptomining Campaign Exploits PostgreSQL and Cloud Misconfigurations (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/soco404-cryptomining-campaign-exploits-postgresql-and-cloud-misconfigurations"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Mimo Targets Magento, Docker, and Cloud Environments (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/mimo-targets-magento-docker-and-cloud-environments"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Linuxsys Cryptominer Campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/linuxsys-cryptominer-campaign"
+    },
+    {
+      "category": "threat_actor",
+      "title": "RansomHub Never Sleeps Episode 1: The evolution of modern ransomware",
+      "url": "https://www.group-ib.com/blog/ransomhub-never-sleeps-episode-1/"
     }
   ],
   "last_sent_date": "2026-09-06"
