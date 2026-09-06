@@ -5598,5 +5598,125 @@
   "https://threats.wiz.io/all-incidents/shai-hulud-20-supply-chain-attack": {
     "ts": "2026-09-06T12:45:32.593919+00:00",
     "title": "Shai-Hulud 2.0 Supply Chain Attack (Campaign)"
+  },
+  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-january-2026-edition/": {
+    "ts": "2026-09-06T16:03:27.248639+00:00",
+    "title": "This month in security with Tony Anscombe \u2013 January 2026 edition"
+  },
+  "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/": {
+    "ts": "2026-09-06T16:05:25.895377+00:00",
+    "title": "Attackers conceal phishing lures using invisible Unicode characters"
+  },
+  "https://cybersecuritynews.com/crowdstrike-launches-safemind/": {
+    "ts": "2026-09-06T16:05:25.895397+00:00",
+    "title": "CrowdStrike Launches SafeMind \u2013 First Agentic Cybersecurity Solution Built for Defenders"
+  },
+  "https://www.darktrace.com/blog/exploring-the-benefits-and-risks-of-third-party-data-solutions": {
+    "ts": "2026-09-06T16:05:25.895402+00:00",
+    "title": "Exploring the Benefits and Risks of Third-Party Data Solutions"
+  },
+  "https://www.group-ib.com/blog/cybersecurity-podcasts/": {
+    "ts": "2026-09-06T16:05:25.895406+00:00",
+    "title": "10 Cybersecurity Podcasts to Add to Your Queue Now"
+  },
+  "https://securityaffairs.com/198538/security/your-mikrotik-router-may-already-be-compromised-look-for-ssh-user-2.html": {
+    "ts": "2026-09-06T16:05:25.940743+00:00",
+    "title": "Your MikroTik Router May Already Be Compromised: Look for SSH User \u201c-2\u201d"
+  },
+  "https://www.welivesecurity.com/en/kids-online/children-selfies-online/": {
+    "ts": "2026-09-06T16:05:25.987942+00:00",
+    "title": "Is it OK to let your children post selfies online?"
+  },
+  "https://threats.wiz.io/all-incidents/cryptomining-campaign-exploiting-exposed-ray-ai-infrastructure": {
+    "ts": "2026-09-06T16:05:26.033932+00:00",
+    "title": "Cryptomining Campaign Exploiting Exposed Ray AI Infrastructure (Campaign)"
+  },
+  "https://www.darktrace.com/blog/elevating-network-security-confronting-trust-challenges-ransomware-epidemics-and-novel-attack-tactics": {
+    "ts": "2026-09-06T16:05:26.081532+00:00",
+    "title": "Elevating Network Security: Confronting Trust, Ransomware, & Novel Attacks"
+  },
+  "https://www.group-ib.com/blog/ai-cybercrime-usecases/": {
+    "ts": "2026-09-06T16:05:26.128612+00:00",
+    "title": "From Deepfakes to Dark LLMs: 5 use-cases of how AI is Powering Cybercrime"
+  },
+  "https://www.welivesecurity.com/en/ransomware/naming-shaming-ransomware-groups-tighten-screws-victims/": {
+    "ts": "2026-09-06T16:05:26.176872+00:00",
+    "title": "Naming and shaming: How ransomware groups tighten the screws on victims"
+  },
+  "https://threats.wiz.io/all-incidents/cisco-ise-vulnerability-exploited-as-0day-by-apt": {
+    "ts": "2026-09-06T16:05:26.222417+00:00",
+    "title": "Cisco ISE Vulnerability Exploited as 0day by APT (Campaign)"
+  },
+  "https://www.darktrace.com/blog/medusa-ransomware-looking-cyber-threats-in-the-eye-with-darktrace": {
+    "ts": "2026-09-06T16:05:26.269200+00:00",
+    "title": "Darktrace Investigation Into Medusa Ransomware"
+  },
+  "https://www.group-ib.com/blog/shadowsilk/": {
+    "ts": "2026-09-06T16:05:26.318421+00:00",
+    "title": "ShadowSilk: A Cross-Border Binary Union for Data Exfiltration"
+  },
+  "https://www.welivesecurity.com/en/scams/taxing-times-top-irs-scams-look-out-2026/": {
+    "ts": "2026-09-06T16:05:26.318461+00:00",
+    "title": "Taxing times: Top IRS scams to look out for in 2026"
+  },
+  "https://threats.wiz.io/all-incidents/unauthenticated-remote-access-via-triofox-vulnerability-exploited-by-unc6485": {
+    "ts": "2026-09-06T16:05:26.364926+00:00",
+    "title": "Unauthenticated Remote Access via Triofox Vulnerability Exploited by UNC6485 (Campaign)"
+  },
+  "https://www.darktrace.com/blog/safeguarding-distribution-centers-in-the-digital-age": {
+    "ts": "2026-09-06T16:05:26.413956+00:00",
+    "title": "Safeguarding Distribution Centers in the Digital Age"
+  },
+  "https://www.group-ib.com/blog/how-email-threats-hide-behind-your-partners/": {
+    "ts": "2026-09-06T16:05:26.463877+00:00",
+    "title": "Trust issues: How email threats hide behind your partners"
+  },
+  "https://www.welivesecurity.com/en/scams/offerup-scammers-out-force-heres-what-you-should-know/": {
+    "ts": "2026-09-06T16:05:26.509824+00:00",
+    "title": "OfferUp scammers are out in force: Here\u2019s what you should know"
+  },
+  "https://threats.wiz.io/all-incidents/gambling-network-exploits-abandoned-subdomains": {
+    "ts": "2026-09-06T16:05:26.556568+00:00",
+    "title": "Gambling Network Exploits Abandoned Subdomains (Campaign)"
+  },
+  "https://www.group-ib.com/blog/evolving-mule-tactics/": {
+    "ts": "2026-09-06T16:05:26.604660+00:00",
+    "title": "Evolving Mule Tactics in the META Region Banking Sector"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/slippery-slope-winter-olympics-scams-cyberthreats/": {
+    "ts": "2026-09-06T16:05:26.604675+00:00",
+    "title": "A slippery slope: Beware of Winter Olympics scams and other cyberthreats"
+  },
+  "https://threats.wiz.io/all-incidents/china-linked-actors-target-us-policy-oriented-non-profit-organisations": {
+    "ts": "2026-09-06T16:05:26.655872+00:00",
+    "title": "China-Linked Actors Target U.S. Policy-Oriented Non-Profit Organisations (Campaign)"
+  },
+  "https://www.group-ib.com/blog/exposing-investment-scams/": {
+    "ts": "2026-09-06T16:05:26.655890+00:00",
+    "title": "Exposing Investment Scams: AI Trading, Deepfake & Online Fraud"
+  },
+  "https://threats.wiz.io/all-incidents/trufflenet-campaign-exploits-aws-ses-for-large-scale-cloud-abuse-and-bec-fraud": {
+    "ts": "2026-09-06T16:05:26.704600+00:00",
+    "title": "TruffleNet Campaign Exploits AWS SES for Large-Scale Cloud Abuse and BEC Fraud (Campaign)"
+  },
+  "https://www.group-ib.com/blog/voice-deepfake-scams/": {
+    "ts": "2026-09-06T16:05:26.704617+00:00",
+    "title": "The Anatomy of a Deepfake\u202fVoice Phishing Attack: How AI-Generated Voices Are Powering the Next Wave of Scams"
+  },
+  "https://www.welivesecurity.com/en/eset-research/dynowiper-update-technical-analysis-attribution/": {
+    "ts": "2026-09-06T16:05:26.752082+00:00",
+    "title": "DynoWiper update: Technical analysis and attribution"
+  },
+  "https://threats.wiz.io/all-incidents/tata-motors-hardcoded-aws-keys-and-api-tokens-exposed-": {
+    "ts": "2026-09-06T16:05:26.798148+00:00",
+    "title": "Tata Motors Hardcoded AWS Keys and API Tokens Exposed  (Research)"
+  },
+  "https://www.group-ib.com/blog/unc2891-bank-heist/": {
+    "ts": "2026-09-06T16:05:26.845561+00:00",
+    "title": "UNC2891 Bank Heist: Physical ATM Backdoor & Linux Forensic Evasion"
+  },
+  "https://www.welivesecurity.com/en/eset-research/love-actually-fake-dating-app-used-lure-targeted-spyware-campaign-pakistan/": {
+    "ts": "2026-09-06T16:05:26.893479+00:00",
+    "title": "Love? Actually: Fake dating app used as lure in targeted spyware campaign in Pakistan"
   }
 }

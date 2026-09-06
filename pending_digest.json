@@ -44,6 +44,46 @@
       "category": "apt_campaign",
       "title": "Shai-Hulud 2.0 Supply Chain Attack (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/shai-hulud-20-supply-chain-attack"
+    },
+    {
+      "category": "new_technique",
+      "title": "Attackers conceal phishing lures using invisible Unicode characters",
+      "url": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Your MikroTik Router May Already Be Compromised: Look for SSH User \u201c-2\u201d",
+      "url": "https://securityaffairs.com/198538/security/your-mikrotik-router-may-already-be-compromised-look-for-ssh-user-2.html"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Cisco ISE Vulnerability Exploited as 0day by APT (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/cisco-ise-vulnerability-exploited-as-0day-by-apt"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Darktrace Investigation Into Medusa Ransomware",
+      "url": "https://www.darktrace.com/blog/medusa-ransomware-looking-cyber-threats-in-the-eye-with-darktrace"
+    },
+    {
+      "category": "threat_actor",
+      "title": "ShadowSilk: A Cross-Border Binary Union for Data Exfiltration",
+      "url": "https://www.group-ib.com/blog/shadowsilk/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Unauthenticated Remote Access via Triofox Vulnerability Exploited by UNC6485 (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/unauthenticated-remote-access-via-triofox-vulnerability-exploited-by-unc6485"
+    },
+    {
+      "category": "threat_actor",
+      "title": "China-Linked Actors Target U.S. Policy-Oriented Non-Profit Organisations (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/china-linked-actors-target-us-policy-oriented-non-profit-organisations"
+    },
+    {
+      "category": "new_technique",
+      "title": "TruffleNet Campaign Exploits AWS SES for Large-Scale Cloud Abuse and BEC Fraud (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/trufflenet-campaign-exploits-aws-ses-for-large-scale-cloud-abuse-and-bec-fraud"
     }
   ],
   "last_sent_date": "2026-09-06"
