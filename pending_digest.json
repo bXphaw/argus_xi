@@ -204,6 +204,46 @@
       "category": "apt_campaign",
       "title": "Exploitation of S1ngularity-exposed cloud keys for lateral movement (Incident)",
       "url": "https://threats.wiz.io/all-incidents/exploitation-of-s1ngularity-exposed-cloud-keys-for-lateral-movement"
+    },
+    {
+      "category": "new_technique",
+      "title": "Defending AITM Phishing and Mamba Attacks",
+      "url": "https://www.darktrace.com/blog/a-snake-in-the-net-defending-against-aitm-phishing-threats-and-mamba-2fa"
+    },
+    {
+      "category": "new_technique",
+      "title": "Browser fingerprint tool shows how easy you are to track using the latest sneaky tricks",
+      "url": "https://www.theregister.com/security/2026/08/24/browser-fingerprint-tool-shows-how-easy-you-are-to-track-using-the-latest-sneaky-tricks/5292015"
+    },
+    {
+      "category": "new_technique",
+      "title": "xygeni-action repository hijack (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/xygeni-action-repository-hijack"
+    },
+    {
+      "category": "malware_android",
+      "title": "Choose Your Fighter: A New Stage in the Evolution of Android SMS Stealers in Uzbekistan",
+      "url": "https://www.group-ib.com/blog/mobile-malware-uzbekistan/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
+      "url": "https://www.welivesecurity.com/en/business-security/cunning-predator-how-silver-fox-preys-japanese-firms-tax-season/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Technical Analysis of Matanbuchus 3.0",
+      "url": "https://www.zscaler.com/blogs/security-research/technical-analysis-matanbuchus-3-0"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "SANDWORM_MODE: Typosquatted npm Packages Used to Hijack CI Workflows (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/sandwormmode-typosquatted-npm-packages-used-to-hijack-ci-workflows"
+    },
+    {
+      "category": "new_technique",
+      "title": "CVE-2025-50165: Critical Flaw in Windows Graphics Component",
+      "url": "https://www.zscaler.com/blogs/security-research/cve-2025-50165-critical-flaw-windows-graphics-component"
     }
   ],
   "last_sent_date": "2026-09-05"

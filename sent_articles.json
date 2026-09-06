@@ -5238,5 +5238,125 @@
   "https://www.zscaler.com/blogs/security-research/technical-analysis-blackforce-phishing-kit": {
     "ts": "2026-09-05T23:41:48.422921+00:00",
     "title": "Technical Analysis of the BlackForce Phishing Kit"
+  },
+  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-march-2026/": {
+    "ts": "2026-09-06T03:43:18.912942+00:00",
+    "title": "This month in security with Tony Anscombe \u2013 March 2026 edition"
+  },
+  "https://threats.wiz.io/all-incidents/polinrider-supply-chain-attack": {
+    "ts": "2026-09-06T03:43:24.704341+00:00",
+    "title": "PolinRider supply chain attack (Incident)"
+  },
+  "https://www.darktrace.com/blog/phishing-attacks-surge-in-buildup-to-black-friday": {
+    "ts": "2026-09-06T03:43:25.541017+00:00",
+    "title": "Phishing Attacks Surge Over 600% in the Buildup to Black Friday"
+  },
+  "https://threats.wiz.io/all-incidents/trivy-supply-chain-attack": {
+    "ts": "2026-09-06T03:43:32.361443+00:00",
+    "title": "Trivy supply chain attack (Incident)"
+  },
+  "https://www.darktrace.com/blog/a-snake-in-the-net-defending-against-aitm-phishing-threats-and-mamba-2fa": {
+    "ts": "2026-09-06T03:45:17.284820+00:00",
+    "title": "Defending AITM Phishing and Mamba Attacks"
+  },
+  "https://www.group-ib.com/blog/docusign-impersonation-logokit/": {
+    "ts": "2026-09-06T03:45:17.284837+00:00",
+    "title": "The DocuSign Impersonation Wave with Real-Time Customizable LogoKit"
+  },
+  "https://www.theregister.com/security/2026/08/24/browser-fingerprint-tool-shows-how-easy-you-are-to-track-using-the-latest-sneaky-tricks/5292015": {
+    "ts": "2026-09-06T03:45:17.327063+00:00",
+    "title": "Browser fingerprint tool shows how easy you are to track using the latest sneaky tricks"
+  },
+  "https://threats.wiz.io/all-incidents/xygeni-action-repository-hijack": {
+    "ts": "2026-09-06T03:45:17.367341+00:00",
+    "title": "xygeni-action repository hijack (Incident)"
+  },
+  "https://www.zscaler.com/blogs/security-research/react2shell-remote-code-execution-vulnerability-cve-2025-55182": {
+    "ts": "2026-09-06T03:45:17.367354+00:00",
+    "title": "React2Shell: Remote Code Execution Vulnerability (CVE-2025-55182)"
+  },
+  "https://www.darktrace.com/blog/darktrace-positioned-leader-in-idc-network-detection-and-response-2024": {
+    "ts": "2026-09-06T03:45:17.407736+00:00",
+    "title": "Darktrace is Positioned as a Leader in the IDC MarketScape: Worldwide Network Detection and Response 2024 Vendor Assessment"
+  },
+  "https://www.group-ib.com/blog/online-job-scams-mena/": {
+    "ts": "2026-09-06T03:45:17.450404+00:00",
+    "title": "Empty Promises in MENA: How Online Quick Cash Schemes Exploit the Gig Economy"
+  },
+  "https://www.theregister.com/security/2026/08/24/iran-linked-cyberattack-shut-down-a-uk-power-plant/5291930": {
+    "ts": "2026-09-06T03:45:17.491819+00:00",
+    "title": "Iran-linked cyberattack shut down a UK power plant"
+  },
+  "https://www.welivesecurity.com/en/videos/rsac-2026-wrap-up-week-security-tony-anscombe/": {
+    "ts": "2026-09-06T03:45:17.532821+00:00",
+    "title": "RSAC 2026 wrap-up \u2013 Week in security with Tony Anscombe"
+  },
+  "https://www.zscaler.com/blogs/security-research/shai-hulud-v2-poses-risk-npm-supply-chain": {
+    "ts": "2026-09-06T03:45:17.576184+00:00",
+    "title": "Shai-Hulud V2 Poses Risk To NPM Supply Chain"
+  },
+  "https://www.group-ib.com/blog/mobile-malware-uzbekistan/": {
+    "ts": "2026-09-06T03:45:17.620690+00:00",
+    "title": "Choose Your Fighter: A New Stage in the Evolution of Android SMS Stealers in Uzbekistan"
+  },
+  "https://www.welivesecurity.com/en/business-security/cunning-predator-how-silver-fox-preys-japanese-firms-tax-season/": {
+    "ts": "2026-09-06T03:45:17.664200+00:00",
+    "title": "A cunning predator: How Silver Fox preys on Japanese firms this tax season"
+  },
+  "https://threats.wiz.io/all-incidents/lexisnexis-breach": {
+    "ts": "2026-09-06T03:45:17.664240+00:00",
+    "title": "LexisNexis breach (Incident)"
+  },
+  "https://www.zscaler.com/blogs/security-research/technical-analysis-matanbuchus-3-0": {
+    "ts": "2026-09-06T03:45:17.709380+00:00",
+    "title": "Technical Analysis of Matanbuchus 3.0"
+  },
+  "https://www.darktrace.com/blog/ai-and-cybersecurity-predictions-for-2025": {
+    "ts": "2026-09-06T03:45:17.709392+00:00",
+    "title": "AI and Cybersecurity: Predictions for 2025"
+  },
+  "https://www.group-ib.com/blog/ai-cybersecurity-guide-2025/": {
+    "ts": "2026-09-06T03:45:17.754376+00:00",
+    "title": "Your Updated Guide to AI in Cybersecurity: Adoption, Trends, Challenges, and The Future"
+  },
+  "https://www.welivesecurity.com/en/business-security/virtual-machines-virtually-everywhere-real-security-gaps/": {
+    "ts": "2026-09-06T03:45:17.795059+00:00",
+    "title": "Virtual machines, virtually everywhere \u2013 and with real security gaps"
+  },
+  "https://www.zscaler.com/blogs/security-research/water-gamayun-apt-attack": {
+    "ts": "2026-09-06T03:45:17.836388+00:00",
+    "title": "Zscaler Threat Hunting Discovers and Reconstructs a Sophisticated Water Gamayun APT Group Attack"
+  },
+  "https://www.darktrace.com/blog/darktrace-leading-the-future-of-network-detection-and-response-with-recognition-from-kuppingercole": {
+    "ts": "2026-09-06T03:45:17.880270+00:00",
+    "title": "Darktrace Leading the Future of Network Detection and Response With Recognition from KuppingerCole"
+  },
+  "https://www.group-ib.com/blog/credit-fraud-in-uzbekistan/": {
+    "ts": "2026-09-06T03:45:17.923469+00:00",
+    "title": "Fighting Credit Fraud in Uzbekistan: An Uphill Battle Against Social Engineering"
+  },
+  "https://www.welivesecurity.com/en/business-security/cloud-workload-security-mind-gaps/": {
+    "ts": "2026-09-06T03:45:17.923481+00:00",
+    "title": "Cloud workload security: Mind the gaps"
+  },
+  "https://threats.wiz.io/all-incidents/sandwormmode-typosquatted-npm-packages-used-to-hijack-ci-workflows": {
+    "ts": "2026-09-06T03:45:17.967014+00:00",
+    "title": "SANDWORM_MODE: Typosquatted npm Packages Used to Hijack CI Workflows (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/cve-2025-50165-critical-flaw-windows-graphics-component": {
+    "ts": "2026-09-06T03:45:18.008292+00:00",
+    "title": "CVE-2025-50165: Critical Flaw in Windows Graphics Component"
+  },
+  "https://www.darktrace.com/blog/why-artificial-intelligence-is-the-future-of-cybersecurity": {
+    "ts": "2026-09-06T03:45:18.008303+00:00",
+    "title": "Why Artificial Intelligence is the Future of Cybersecurity"
+  },
+  "https://www.group-ib.com/blog/cyber-predictions-2026/": {
+    "ts": "2026-09-06T03:45:18.008307+00:00",
+    "title": "Stranger Threats Are Coming: Group-IB Cyber Predictions for 2026 and Beyond"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/move-fast-save-things-quick-guide-recovering-hacked-account/": {
+    "ts": "2026-09-06T03:45:18.008310+00:00",
+    "title": "Move fast and save things: A quick guide to recovering a hacked account"
   }
 }
