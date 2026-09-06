@@ -5478,5 +5478,125 @@
   "https://www.group-ib.com/blog/illusion-wealth-investment-scams/": {
     "ts": "2026-09-06T08:32:37.137423+00:00",
     "title": "The Illusion of Wealth: Inside the Engineered Reality of Investment Scam Platforms"
+  },
+  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-february-2026/": {
+    "ts": "2026-09-06T12:43:35.167870+00:00",
+    "title": "This month in security with Tony Anscombe \u2013 February 2026 edition"
+  },
+  "https://www.darktrace.com/blog/a-busy-agenda-darktraces-detection-of-qilin-ransomware-as-a-service-operator": {
+    "ts": "2026-09-06T12:43:53.111574+00:00",
+    "title": "Qilin RaaS: Darktrace Detection Insights"
+  },
+  "https://cybersecuritynews.com/asus-control-center-vulnerability/": {
+    "ts": "2026-09-06T12:45:28.646920+00:00",
+    "title": "ASUS Control Center Flaw Allows Attackers to Gain Full Admin Control of the System"
+  },
+  "https://www.darktrace.com/blog/introducing-defend-beyond": {
+    "ts": "2026-09-06T12:45:28.646936+00:00",
+    "title": "Introducing \u2018Defend Beyond\u2019: Our promise to customers in the face of evolving threats"
+  },
+  "https://www.group-ib.com/blog/muddywater-espionage/": {
+    "ts": "2026-09-06T12:45:29.082401+00:00",
+    "title": "Unmasking MuddyWater\u2019s New Malware Toolkit Driving International Espionage"
+  },
+  "https://securityaffairs.com/198524/ai/ai-agents-hijacked-german-wiki-to-cheat-openai-delayed-disclosure.html": {
+    "ts": "2026-09-06T12:45:29.082417+00:00",
+    "title": "AI Agents Hijacked German Wiki to Cheat, OpenAI Delayed Disclosure"
+  },
+  "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html": {
+    "ts": "2026-09-06T12:45:29.272872+00:00",
+    "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication"
+  },
+  "https://www.welivesecurity.com/en/business-security/protecting-education-how-mdr-can-tip-balance-favor-schools/": {
+    "ts": "2026-09-06T12:45:29.466047+00:00",
+    "title": "Protecting education: How MDR can tip the balance in favor of schools"
+  },
+  "https://threats.wiz.io/all-incidents/canonical-snap-store-hijacking-campaign": {
+    "ts": "2026-09-06T12:45:29.659810+00:00",
+    "title": "Canonical Snap Store Hijacking Campaign (Campaign)"
+  },
+  "https://cybersecuritynews.com/mikrotik-routeros-vulnerability/": {
+    "ts": "2026-09-06T12:45:29.855243+00:00",
+    "title": "Hackers Exploiting MikroTik RouterOS Vulnerability in the Wild to Gain Complete Network Access"
+  },
+  "https://www.darktrace.com/blog/cdr-is-just-ndr-for-the-cloud-right": {
+    "ts": "2026-09-06T12:45:30.053306+00:00",
+    "title": "CDR is just NDR for the Cloud... Right?"
+  },
+  "https://www.group-ib.com/blog/immediate-era-fraud-singapore/": {
+    "ts": "2026-09-06T12:45:30.248037+00:00",
+    "title": "Exposing the Immediate Era Fraud in Singapore"
+  },
+  "https://securityaffairs.com/198522/security/security-affairs-malware-newsletter-round-113.html": {
+    "ts": "2026-09-06T12:45:30.248051+00:00",
+    "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 113"
+  },
+  "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html": {
+    "ts": "2026-09-06T12:45:30.447964+00:00",
+    "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner"
+  },
+  "https://threats.wiz.io/all-incidents/voidlink-a-cloud-native-linux-malware-framework": {
+    "ts": "2026-09-06T12:45:30.639396+00:00",
+    "title": "VoidLink: A Cloud-Native Linux Malware Framework (Campaign)"
+  },
+  "https://www.darktrace.com/blog/darktrace-releases-2024-half-year-threat-insights-2": {
+    "ts": "2026-09-06T12:45:30.639415+00:00",
+    "title": "Darktrace Releases 2024 Half-Year Threat Insights"
+  },
+  "https://www.group-ib.com/blog/east-west-ndr/": {
+    "ts": "2026-09-06T12:45:30.639418+00:00",
+    "title": "East-west tension: Are NDR vendors monitoring the wrong traffic?"
+  },
+  "https://www.welivesecurity.com/en/mobile-security/mobile-app-permissions-still-matter-more-think/": {
+    "ts": "2026-09-06T12:45:30.831779+00:00",
+    "title": "Mobile app permissions (still) matter more than you may think"
+  },
+  "https://threats.wiz.io/all-incidents/geoserver-rce-exploited-in-coinminer-campaigns": {
+    "ts": "2026-09-06T12:45:31.031117+00:00",
+    "title": "GeoServer RCE Exploited in CoinMiner Campaigns (Campaign)"
+  },
+  "https://www.darktrace.com/blog/the-rise-in-safelink-smuggling-how-to-enhance-your-resilience-against-malicious-links": {
+    "ts": "2026-09-06T12:45:31.223418+00:00",
+    "title": "Safelink Smuggling: Enhancing Resilience Against Malicious Links"
+  },
+  "https://www.group-ib.com/blog/payment-fraud-defense/": {
+    "ts": "2026-09-06T12:45:31.417779+00:00",
+    "title": "A new weapon against payment fraud: Unique threat intelligence for anti-fraud teams"
+  },
+  "https://www.welivesecurity.com/en/business-security/faking-it-phone-how-tell-voice-call-ai/": {
+    "ts": "2026-09-06T12:45:31.617675+00:00",
+    "title": "Faking it on the phone: How to tell if a voice call is AI or not"
+  },
+  "https://threats.wiz.io/all-incidents/amadey-loader-abuses-compromised-self-hosted-gitlab-to-deliver-stealc-infostealer": {
+    "ts": "2026-09-06T12:45:31.816158+00:00",
+    "title": "Amadey Loader Abuses Compromised Self-Hosted GitLab to Deliver StealC Infostealer (Campaign)"
+  },
+  "https://www.darktrace.com/blog/how-darktraces-ai-applies-a-zero-trust-mentality-within-critical-infrastructure-supply-chains": {
+    "ts": "2026-09-06T12:45:31.816175+00:00",
+    "title": "How Darktrace\u2019s AI Applies a Zero-Trust Mentality within Critical Infrastructure Supply Chains"
+  },
+  "https://www.group-ib.com/blog/cybersecurity-newsletters/": {
+    "ts": "2026-09-06T12:45:31.816179+00:00",
+    "title": "Top 7 Cybersecurity Newsletters Worth Your Inbox"
+  },
+  "https://www.welivesecurity.com/en/eset-research/promptspy-ushers-in-era-android-threats-using-genai/": {
+    "ts": "2026-09-06T12:45:32.010910+00:00",
+    "title": "PromptSpy ushers in the era of Android threats using GenAI"
+  },
+  "https://threats.wiz.io/all-incidents/china-nexus-campaign-exploits-cve-2025-20393-in-cisco-email-security-devices": {
+    "ts": "2026-09-06T12:45:32.203422+00:00",
+    "title": "China-nexus Campaign Exploits CVE-2025-20393 in Cisco Email Security Devices (Campaign)"
+  },
+  "https://www.group-ib.com/blog/muddywater-infrastructure-malware/": {
+    "ts": "2026-09-06T12:45:32.400364+00:00",
+    "title": "Tracking MuddyWater in Action: Infrastructure, Malware and Operations during 2025"
+  },
+  "https://www.welivesecurity.com/en/scams/poshmark-safe-buy-sell-scammed/": {
+    "ts": "2026-09-06T12:45:32.400382+00:00",
+    "title": "Is Poshmark safe? How to buy and sell without getting scammed"
+  },
+  "https://threats.wiz.io/all-incidents/shai-hulud-20-supply-chain-attack": {
+    "ts": "2026-09-06T12:45:32.593919+00:00",
+    "title": "Shai-Hulud 2.0 Supply Chain Attack (Campaign)"
   }
 }

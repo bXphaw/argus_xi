@@ -1,4 +1,50 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "threat_actor",
+      "title": "Unmasking MuddyWater\u2019s New Malware Toolkit Driving International Espionage",
+      "url": "https://www.group-ib.com/blog/muddywater-espionage/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+      "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+      "url": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html"
+    },
+    {
+      "category": "malware_linux",
+      "title": "VoidLink: A Cloud-Native Linux Malware Framework (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/voidlink-a-cloud-native-linux-malware-framework"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Amadey Loader Abuses Compromised Self-Hosted GitLab to Deliver StealC Infostealer (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/amadey-loader-abuses-compromised-self-hosted-gitlab-to-deliver-stealc-infostealer"
+    },
+    {
+      "category": "malware_android",
+      "title": "PromptSpy ushers in the era of Android threats using GenAI",
+      "url": "https://www.welivesecurity.com/en/eset-research/promptspy-ushers-in-era-android-threats-using-genai/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "China-nexus Campaign Exploits CVE-2025-20393 in Cisco Email Security Devices (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/china-nexus-campaign-exploits-cve-2025-20393-in-cisco-email-security-devices"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Tracking MuddyWater in Action: Infrastructure, Malware and Operations during 2025",
+      "url": "https://www.group-ib.com/blog/muddywater-infrastructure-malware/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Shai-Hulud 2.0 Supply Chain Attack (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/shai-hulud-20-supply-chain-attack"
+    }
+  ],
   "last_sent_date": "2026-09-06"
 }
