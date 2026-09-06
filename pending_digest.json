@@ -129,6 +129,41 @@
       "category": "threat_actor",
       "title": "Middle East Cyber Escalation: From Hacktivism to Sophisticated Threat Operations",
       "url": "https://www.group-ib.com/blog/middle-east-cyber-escalation/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Shai-Hulud: Ongoing Package Supply Chain Compromise Delivering Data-Stealing Malware (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/shai-hulud-ongoing-package-supply-chain-compromise-delivering-data-stealing-malware"
+    },
+    {
+      "category": "malware_other",
+      "title": "Qix npm package supply chain compromise (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/qix-npm-package-supply-chain-compromise"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Ransomware debris: an analysis of the RansomHub operation",
+      "url": "https://www.group-ib.com/blog/ransomware-debris/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Storm-0501 Deploys Cloud-Based Ransomware (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/storm-0501-deploys-cloud-based-ransomware"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Silk Typhoon Exploiting Trusted Relationships for Cloud Environments Compromise (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/silk-typhoon-exploiting-trusted-relationships-for-cloud-environments-compromise"
+    },
+    {
+      "category": "new_technique",
+      "title": "SMS Pumping: How Criminals Turn Your Messaging Service into Their Cash Machine",
+      "url": "https://www.group-ib.com/blog/sms-pumping/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Warlock Ransomware Exploiting Sharepoint Vulnerabilities  (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/warlock-ransomware-exploiting-sharepoint-vulnerabilities-"
     }
   ],
   "last_sent_date": "2026-09-06"

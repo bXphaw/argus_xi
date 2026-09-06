@@ -5838,5 +5838,125 @@
   "https://threats.wiz.io/all-incidents/sonicwall-mysonicwall-cloud-backup-file-security-incident": {
     "ts": "2026-09-06T18:59:42.762870+00:00",
     "title": "SonicWall MySonicWall Cloud Backup File Security Incident (Incident)"
+  },
+  "https://www.welivesecurity.com/en/eset-research/revisiting-cve-2025-50165-critical-flaw-windows-imaging-component/": {
+    "ts": "2026-09-06T21:11:59.161848+00:00",
+    "title": "Revisiting CVE-2025-50165: A critical flaw in Windows Imaging Component"
+  },
+  "https://www.welivesecurity.com/en/eset-research/eset-threat-report-h2-2025/": {
+    "ts": "2026-09-06T21:12:03.867120+00:00",
+    "title": "ESET Threat Report H2 2025"
+  },
+  "https://threats.wiz.io/all-incidents/nx-package-supply-chain-compromise-delivers-data-stealing-malware": {
+    "ts": "2026-09-06T21:12:09.717695+00:00",
+    "title": "Nx Package Supply Chain Compromise Delivers Data-Stealing Malware (Campaign)"
+  },
+  "https://www.group-ib.com/blog/declaration-trap/": {
+    "ts": "2026-09-06T21:13:41.580358+00:00",
+    "title": "Declaration trap: Crypto Drainers masquerading as European Tax Authorities"
+  },
+  "https://www.welivesecurity.com/en/scams/brush-online-fraud-what-are-brushing-scams-how-do-i-stay-safe/": {
+    "ts": "2026-09-06T21:13:41.580375+00:00",
+    "title": "A brush with online fraud: What are brushing scams and how do I stay safe?"
+  },
+  "https://threats.wiz.io/all-incidents/shai-hulud-ongoing-package-supply-chain-compromise-delivering-data-stealing-malware": {
+    "ts": "2026-09-06T21:13:41.842596+00:00",
+    "title": "Shai-Hulud: Ongoing Package Supply Chain Compromise Delivering Data-Stealing Malware (Campaign)"
+  },
+  "https://www.group-ib.com/blog/colombian-cybertrap/": {
+    "ts": "2026-09-06T21:13:41.842615+00:00",
+    "title": "Disguised Cyber Risks On The Colombian Shore: The Insurance Trap"
+  },
+  "https://threats.wiz.io/all-incidents/qix-npm-package-supply-chain-compromise": {
+    "ts": "2026-09-06T21:13:42.080249+00:00",
+    "title": "Qix npm package supply chain compromise (Incident)"
+  },
+  "https://www.group-ib.com/blog/pam-harvesting-insight/": {
+    "ts": "2026-09-06T21:13:42.320166+00:00",
+    "title": "Understanding Credential Harvesting via PAM: A Real-World Threat"
+  },
+  "https://www.welivesecurity.com/en/eset-research/longnosedgoblin-tries-sniff-out-governmental-affairs-southeast-asia-japan/": {
+    "ts": "2026-09-06T21:13:42.566558+00:00",
+    "title": "LongNosedGoblin tries to sniff out governmental affairs in Southeast Asia and Japan"
+  },
+  "https://threats.wiz.io/all-incidents/ghostaction-campaign": {
+    "ts": "2026-09-06T21:13:42.807608+00:00",
+    "title": "GhostAction campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/cyber-integration-mistakes/": {
+    "ts": "2026-09-06T21:13:43.048367+00:00",
+    "title": "How To Avoid Critical Integration Mistakes In Your Cybersecurity Stack"
+  },
+  "https://threats.wiz.io/all-incidents/compromised-salesloft-drift-tokens-enable-data-theft-across-integrations": {
+    "ts": "2026-09-06T21:13:43.286971+00:00",
+    "title": "Compromised Salesloft Drift Tokens Enable Data Theft Across Integrations (Campaign)"
+  },
+  "https://www.group-ib.com/blog/ransomware-debris/": {
+    "ts": "2026-09-06T21:13:43.525182+00:00",
+    "title": "Ransomware debris: an analysis of the RansomHub operation"
+  },
+  "https://www.welivesecurity.com/en/internet-of-things/black-hat-europe-2025-device-designed-internet/": {
+    "ts": "2026-09-06T21:13:43.525201+00:00",
+    "title": "Black Hat Europe 2025: Was that device designed to be on the internet at all?"
+  },
+  "https://threats.wiz.io/all-incidents/storm-0501-deploys-cloud-based-ransomware": {
+    "ts": "2026-09-06T21:13:43.767625+00:00",
+    "title": "Storm-0501 Deploys Cloud-Based Ransomware (Campaign)"
+  },
+  "https://www.group-ib.com/blog/toll-of-deception/": {
+    "ts": "2026-09-06T21:13:43.767643+00:00",
+    "title": "Toll of Deception: Where Evasion Drives Phishing Forward"
+  },
+  "https://www.welivesecurity.com/en/business-security/black-hat-europe-2025-reputation-ransomware/": {
+    "ts": "2026-09-06T21:13:43.767647+00:00",
+    "title": "Black Hat Europe 2025: Reputation matters \u2013 even in the ransomware economy"
+  },
+  "https://www.group-ib.com/blog/smart-ai-assistant/": {
+    "ts": "2026-09-06T21:13:44.001425+00:00",
+    "title": "Fast, smart, and private: Group-IB introduces AI Assistant"
+  },
+  "https://www.welivesecurity.com/en/business-security/locks-socs-cat-box-what-schrodinger-can-teach-us-about-cybersecurity/": {
+    "ts": "2026-09-06T21:13:44.248206+00:00",
+    "title": "Locks, SOCs and a cat in a box: What Schr\u00f6dinger can teach us about cybersecurity"
+  },
+  "https://threats.wiz.io/all-incidents/genesis-pandas-cloud-intrusions-persistent-control-plane-exploitation-and-access-brokerage": {
+    "ts": "2026-09-06T21:13:44.487310+00:00",
+    "title": "GENESIS PANDA's Cloud Intrusions: Persistent Control Plane Exploitation and Access Brokerage (Campaign)"
+  },
+  "https://www.group-ib.com/blog/dark-web-fraud/": {
+    "ts": "2026-09-06T21:13:44.740140+00:00",
+    "title": "Typical Dark Web Fraud: Where Scammers Operate and What They Look Like"
+  },
+  "https://www.welivesecurity.com/en/business-security/seeking-symmetry-attck-season-harness-todays-diverse-analyst-tester-landscape-paint-security-masterpiece/": {
+    "ts": "2026-09-06T21:13:44.979647+00:00",
+    "title": "Seeking symmetry during ATT&CK\u00ae season: How to harness today\u2019s diverse analyst and tester landscape to paint a security masterpiece"
+  },
+  "https://threats.wiz.io/all-incidents/silk-typhoon-exploiting-trusted-relationships-for-cloud-environments-compromise": {
+    "ts": "2026-09-06T21:13:45.208312+00:00",
+    "title": "Silk Typhoon Exploiting Trusted Relationships for Cloud Environments Compromise (Campaign)"
+  },
+  "https://www.group-ib.com/blog/ciso-risk-management/": {
+    "ts": "2026-09-06T21:13:45.208331+00:00",
+    "title": "CISOs Top Order Of Business: Cyber Risk Reduction & Management"
+  },
+  "https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/": {
+    "ts": "2026-09-06T21:13:45.208335+00:00",
+    "title": "The big catch: How whaling attacks target top executives"
+  },
+  "https://threats.wiz.io/all-incidents/salesloft-drift-supply-chain-compromise": {
+    "ts": "2026-09-06T21:13:45.208338+00:00",
+    "title": "Salesloft Drift supply chain compromise (Incident)"
+  },
+  "https://www.group-ib.com/blog/sms-pumping/": {
+    "ts": "2026-09-06T21:13:45.448408+00:00",
+    "title": "SMS Pumping: How Criminals Turn Your Messaging Service into Their Cash Machine"
+  },
+  "https://www.welivesecurity.com/en/business-security/phishing-privileges-passwords-identity-cybersecurity-posture/": {
+    "ts": "2026-09-06T21:13:45.448427+00:00",
+    "title": "Phishing, privileges and passwords: Why identity is critical to improving cybersecurity posture"
+  },
+  "https://threats.wiz.io/all-incidents/warlock-ransomware-exploiting-sharepoint-vulnerabilities-": {
+    "ts": "2026-09-06T21:13:45.686009+00:00",
+    "title": "Warlock Ransomware Exploiting Sharepoint Vulnerabilities  (Campaign)"
   }
 }
