@@ -5718,5 +5718,125 @@
   "https://www.welivesecurity.com/en/eset-research/love-actually-fake-dating-app-used-lure-targeted-spyware-campaign-pakistan/": {
     "ts": "2026-09-06T16:05:26.893479+00:00",
     "title": "Love? Actually: Fake dating app used as lure in targeted spyware campaign in Pakistan"
+  },
+  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-december-2025/": {
+    "ts": "2026-09-06T18:57:51.150775+00:00",
+    "title": "This month in security with Tony Anscombe \u2013 December 2025 edition"
+  },
+  "https://www.group-ib.com/blog/predictive-ai/": {
+    "ts": "2026-09-06T18:59:38.041042+00:00",
+    "title": "Predictive AI: The \u201cQuiet Catalyst\u201d Behind The Future of Cybersecurity"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/drowning-spam-scam-emails-why/": {
+    "ts": "2026-09-06T18:59:38.041058+00:00",
+    "title": "Drowning in spam or scam emails? Here\u2019s probably why"
+  },
+  "https://threats.wiz.io/all-incidents/iis-backdoor-exploiting-exposed-aspnet-machine-keys": {
+    "ts": "2026-09-06T18:59:38.324039+00:00",
+    "title": "IIS Backdoor Exploiting Exposed ASP.NET Machine Keys (Campaign)"
+  },
+  "https://www.group-ib.com/blog/pdf-tampering/": {
+    "ts": "2026-09-06T18:59:38.324055+00:00",
+    "title": "Signed, Sealed, Altered? Deepdive into PDF Tampering"
+  },
+  "https://www.welivesecurity.com/en/eset-research/eset-research-sandworm-cyberattack-poland-power-grid-late-2025/": {
+    "ts": "2026-09-06T18:59:38.572091+00:00",
+    "title": "ESET Research: Sandworm behind cyberattack on Poland\u2019s power grid in late 2025"
+  },
+  "https://threats.wiz.io/all-incidents/passiveneuron-campaign-espionage-campaign-targeting-windows-server-environments": {
+    "ts": "2026-09-06T18:59:38.823282+00:00",
+    "title": "PassiveNeuron Campaign: Espionage Campaign Targeting Windows Server Environments (Campaign)"
+  },
+  "https://www.group-ib.com/blog/bioconfirm-security/": {
+    "ts": "2026-09-06T18:59:38.823299+00:00",
+    "title": "Fraud-Proof Your Security: How BioConfirm Protects iGaming Platforms and Players"
+  },
+  "https://www.welivesecurity.com/en/kids-online/children-chatbots-what-parents-should-know/": {
+    "ts": "2026-09-06T18:59:38.823303+00:00",
+    "title": "Children and chatbots: What parents should know"
+  },
+  "https://threats.wiz.io/all-incidents/f5-incident": {
+    "ts": "2026-09-06T18:59:39.064738+00:00",
+    "title": "F5 incident (Incident)"
+  },
+  "https://www.group-ib.com/blog/fake-receipts-generators/": {
+    "ts": "2026-09-06T18:59:39.064755+00:00",
+    "title": "Fake Receipts Generators: the rising threat to major retail brands"
+  },
+  "https://www.welivesecurity.com/en/scams/common-apple-pay-scams-how-stay-safe/": {
+    "ts": "2026-09-06T18:59:39.306965+00:00",
+    "title": "Common Apple Pay scams, and how to stay safe"
+  },
+  "https://threats.wiz.io/all-incidents/ebpf-rootkit-targeting-aws-and-linux-environments": {
+    "ts": "2026-09-06T18:59:39.547577+00:00",
+    "title": "eBPF Rootkit Targeting AWS and Linux Environments (Campaign)"
+  },
+  "https://www.group-ib.com/blog/combolists-ulp-darkweb/": {
+    "ts": "2026-09-06T18:59:39.794087+00:00",
+    "title": "What Is a Combolist? How It Works, Risks, and Prevention"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/old-habits-die-hard-2025-most-common-passwords/": {
+    "ts": "2026-09-06T18:59:40.043298+00:00",
+    "title": "Old habits die hard: 2025\u2019s most common passwords were as predictable as ever"
+  },
+  "https://threats.wiz.io/all-incidents/supply-chain-risk-in-axis-autodesk-revit-plugin-due-to-exposed-azure-storage-credentials-and-revit-rce-vulnerabilities": {
+    "ts": "2026-09-06T18:59:40.283674+00:00",
+    "title": "Supply Chain Risk in Axis Autodesk Revit Plugin Due to Exposed Azure Storage Credentials and Revit RCE Vulnerabilities (Research)"
+  },
+  "https://www.group-ib.com/blog/bioconfirm/": {
+    "ts": "2026-09-06T18:59:40.283691+00:00",
+    "title": "Authenticate Users, Secure Transactions: How BioConfirm Secures High-Stakes Banking Operations"
+  },
+  "https://www.welivesecurity.com/en/social-media/linkedin-hunting-ground-threat-actors-how-protect-yourself/": {
+    "ts": "2026-09-06T18:59:40.526875+00:00",
+    "title": "Why LinkedIn is a hunting ground for threat actors \u2013 and how to protect yourself"
+  },
+  "https://threats.wiz.io/all-incidents/crimson-collective-claims-theft-of-customer-data-from-red-hat": {
+    "ts": "2026-09-06T18:59:40.774935+00:00",
+    "title": "\u201cCrimson Collective\u201d Claims Theft of Customer Data from Red Hat (Campaign)"
+  },
+  "https://www.group-ib.com/blog/kernel-driver-threats/": {
+    "ts": "2026-09-06T18:59:41.027696+00:00",
+    "title": "Exploiting Trust: How Signed Drivers Fuel Modern Kernel Level Attacks on Windows"
+  },
+  "https://www.welivesecurity.com/en/social-media/time-internet-services-adopt-identity-verification/": {
+    "ts": "2026-09-06T18:59:41.027714+00:00",
+    "title": "Is it time for internet services to adopt identity verification?"
+  },
+  "https://threats.wiz.io/all-incidents/cl0p-extortion-campaign-claims-theft-via-oracle-e-business-suite": {
+    "ts": "2026-09-06T18:59:41.269949+00:00",
+    "title": "Cl0p Extortion Campaign Claims Theft via Oracle E-Business Suite (Campaign)"
+  },
+  "https://www.group-ib.com/blog/one-attack-one-alert/": {
+    "ts": "2026-09-06T18:59:41.519613+00:00",
+    "title": "One attack, one alert: From thousands of signals to one clear story"
+  },
+  "https://www.welivesecurity.com/en/privacy/information-dark-web-what-happens-next/": {
+    "ts": "2026-09-06T18:59:41.761013+00:00",
+    "title": "Your personal information is on the dark web. What happens next?"
+  },
+  "https://threats.wiz.io/all-incidents/renewed-arcanedoor-campaign-targeting-0-day-vulnerabilities-in-cisco-asa": {
+    "ts": "2026-09-06T18:59:42.002379+00:00",
+    "title": "Renewed \"ArcaneDoor\" Campaign Targeting 0-day Vulnerabilities in Cisco ASA (Campaign)"
+  },
+  "https://www.group-ib.com/blog/rise-of-qwizzserial/": {
+    "ts": "2026-09-06T18:59:42.262532+00:00",
+    "title": "June\u2019s Dark Gift: The Rise of Qwizzserial"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/credential-stuffing-what-it-is-how-protect-yourself/": {
+    "ts": "2026-09-06T18:59:42.262548+00:00",
+    "title": "Credential stuffing: What it is and how to protect yourself"
+  },
+  "https://threats.wiz.io/all-incidents/brickstorm-espionage-backdoor-targeting-us-tech-and-legal-sectors": {
+    "ts": "2026-09-06T18:59:42.510240+00:00",
+    "title": "BRICKSTORM Espionage Backdoor Targeting U.S. Tech and Legal Sectors (Campaign)"
+  },
+  "https://www.group-ib.com/blog/middle-east-cyber-escalation/": {
+    "ts": "2026-09-06T18:59:42.762851+00:00",
+    "title": "Middle East Cyber Escalation: From Hacktivism to Sophisticated Threat Operations"
+  },
+  "https://threats.wiz.io/all-incidents/sonicwall-mysonicwall-cloud-backup-file-security-incident": {
+    "ts": "2026-09-06T18:59:42.762870+00:00",
+    "title": "SonicWall MySonicWall Cloud Backup File Security Incident (Incident)"
   }
 }

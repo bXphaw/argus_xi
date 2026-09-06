@@ -84,6 +84,51 @@
       "category": "new_technique",
       "title": "TruffleNet Campaign Exploits AWS SES for Large-Scale Cloud Abuse and BEC Fraud (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/trufflenet-campaign-exploits-aws-ses-for-large-scale-cloud-abuse-and-bec-fraud"
+    },
+    {
+      "category": "new_technique",
+      "title": "IIS Backdoor Exploiting Exposed ASP.NET Machine Keys (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/iis-backdoor-exploiting-exposed-aspnet-machine-keys"
+    },
+    {
+      "category": "poland",
+      "title": "ESET Research: Sandworm behind cyberattack on Poland\u2019s power grid in late 2025",
+      "url": "https://www.welivesecurity.com/en/eset-research/eset-research-sandworm-cyberattack-poland-power-grid-late-2025/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "PassiveNeuron Campaign: Espionage Campaign Targeting Windows Server Environments (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/passiveneuron-campaign-espionage-campaign-targeting-windows-server-environments"
+    },
+    {
+      "category": "threat_actor",
+      "title": "F5 incident (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/f5-incident"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Why LinkedIn is a hunting ground for threat actors \u2013 and how to protect yourself",
+      "url": "https://www.welivesecurity.com/en/social-media/linkedin-hunting-ground-threat-actors-how-protect-yourself/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "\u201cCrimson Collective\u201d Claims Theft of Customer Data from Red Hat (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/crimson-collective-claims-theft-of-customer-data-from-red-hat"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Exploiting Trust: How Signed Drivers Fuel Modern Kernel Level Attacks on Windows",
+      "url": "https://www.group-ib.com/blog/kernel-driver-threats/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "BRICKSTORM Espionage Backdoor Targeting U.S. Tech and Legal Sectors (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/brickstorm-espionage-backdoor-targeting-us-tech-and-legal-sectors"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Middle East Cyber Escalation: From Hacktivism to Sophisticated Threat Operations",
+      "url": "https://www.group-ib.com/blog/middle-east-cyber-escalation/"
     }
   ],
   "last_sent_date": "2026-09-06"
