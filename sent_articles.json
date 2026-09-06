@@ -5358,5 +5358,125 @@
   "https://www.welivesecurity.com/en/cybersecurity/move-fast-save-things-quick-guide-recovering-hacked-account/": {
     "ts": "2026-09-06T03:45:18.008310+00:00",
     "title": "Move fast and save things: A quick guide to recovering a hacked account"
+  },
+  "https://cybersecuritynews.com/best-ztna-solutions/": {
+    "ts": "2026-09-06T08:32:31.861275+00:00",
+    "title": "10 Best ZTNA Solutions (Zero Trust Network Access) In 2026"
+  },
+  "https://www.darktrace.com/blog/how-darktrace-won-an-email-security-trial-by-learning-the-business-not-the-breach": {
+    "ts": "2026-09-06T08:32:31.861294+00:00",
+    "title": "How Darktrace won an email security trial by learning the business, not the breach"
+  },
+  "https://www.group-ib.com/blog/turning-apps-into-gold/": {
+    "ts": "2026-09-06T08:32:32.137094+00:00",
+    "title": "Hook for Gold: Inside GoldFactory\u2019s \u0421ampaign That Turns Apps Into Goldmines"
+  },
+  "https://www.helpnetsecurity.com/2026/09/06/week-in-review-claude-accounts-compromised-through-infostealer-patch-tuesday-forecast/": {
+    "ts": "2026-09-06T08:32:32.373046+00:00",
+    "title": "Week in review: Claude accounts compromised through infostealer, Patch Tuesday forecast"
+  },
+  "https://securityaffairs.com/198495/breaking-news/security-affairs-newsletter-round-593-by-pierluigi-paganini-international-edition.html": {
+    "ts": "2026-09-06T08:32:32.603265+00:00",
+    "title": "Security Affairs newsletter Round 593 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION"
+  },
+  "https://www.welivesecurity.com/en/eset-research/edr-killers-explained-beyond-the-drivers/": {
+    "ts": "2026-09-06T08:32:32.844739+00:00",
+    "title": "EDR killers explained: Beyond the drivers"
+  },
+  "https://threats.wiz.io/all-incidents/sshstalker-linux-botnet-campaign": {
+    "ts": "2026-09-06T08:32:33.082887+00:00",
+    "title": "SSHStalker Linux Botnet campaign (Campaign)"
+  },
+  "https://cybersecuritynews.com/magento-and-adobe-commerce-0-day-rce/": {
+    "ts": "2026-09-06T08:32:33.318938+00:00",
+    "title": "Hackers Actively Exploiting Magento and Adobe Commerce 0-Day RCE Vulnerability"
+  },
+  "https://www.darktrace.com/blog/introducing-real-time-multi-cloud-detection-response-powered-by-ai": {
+    "ts": "2026-09-06T08:32:33.555660+00:00",
+    "title": "Introducing Real-Time Multi-Cloud Detection & Response Powered by AI"
+  },
+  "https://www.group-ib.com/blog/app-fraud-prevention/": {
+    "ts": "2026-09-06T08:32:33.794237+00:00",
+    "title": "Can You Actually Stop APP Fraud Before It Happens? Inside The Secure, Real-Time Fraud Intelligence Network Proving It\u2019s Possible"
+  },
+  "https://www.welivesecurity.com/en/privacy/face-value-what-takes-fool-facial-recognition/": {
+    "ts": "2026-09-06T08:32:33.794254+00:00",
+    "title": "Face value: What it takes to fool facial recognition"
+  },
+  "https://threats.wiz.io/all-incidents/teampcp-cloud-native-campaign-targeting-exposed-control-planes": {
+    "ts": "2026-09-06T08:32:34.031469+00:00",
+    "title": "TeamPCP Cloud-Native Campaign Targeting Exposed Control Planes (Campaign)"
+  },
+  "https://www.darktrace.com/blog/from-call-to-compromise-darktraces-response-to-a-vishing-induced-network-attack": {
+    "ts": "2026-09-06T08:32:34.031488+00:00",
+    "title": "From Call to Compromise: Darktrace\u2019s Response to a Vishing-Induced Network Attack"
+  },
+  "https://www.group-ib.com/blog/bloody-wolf/": {
+    "ts": "2026-09-06T08:32:34.279435+00:00",
+    "title": "Bloody Wolf: A Blunt Crowbar Threat To Justice"
+  },
+  "https://www.welivesecurity.com/en/business-security/cyber-fallout-iran-war-what-have-radar/": {
+    "ts": "2026-09-06T08:32:34.279452+00:00",
+    "title": "Cyber fallout from the Iran war: What to have on your radar"
+  },
+  "https://threats.wiz.io/all-incidents/supply-chain-hijacking-of-notepad-updates-via-hosting-provider-compromise": {
+    "ts": "2026-09-06T08:32:34.517692+00:00",
+    "title": "Supply-Chain Hijacking of Notepad++ Updates via Hosting Provider Compromise (Campaign)"
+  },
+  "https://www.darktrace.com/blog/navigating-buying-and-adoption-journeys-for-ai-cybersecurity-tools": {
+    "ts": "2026-09-06T08:32:34.754143+00:00",
+    "title": "Navigating Buying and Adoption Journeys for AI Cybersecurity Tools"
+  },
+  "https://www.group-ib.com/blog/uncover-phishing-italy/": {
+    "ts": "2026-09-06T08:32:34.991035+00:00",
+    "title": "Uncovering a Multi-Stage Phishing Kit Targeting Italy\u2019s Infrastructure"
+  },
+  "https://www.welivesecurity.com/en/eset-research/sednit-reloaded-back-trenches/": {
+    "ts": "2026-09-06T08:32:35.229296+00:00",
+    "title": "Sednit reloaded: Back in the trenches"
+  },
+  "https://threats.wiz.io/all-incidents/supply-chain-attack-via-force-pushes-on-plone-github-repositories": {
+    "ts": "2026-09-06T08:32:35.466920+00:00",
+    "title": "Supply-Chain Attack via Force Pushes on Plone GitHub Repositories (Campaign)"
+  },
+  "https://www.darktrace.com/blog/business-email-compromise-bec-in-the-age-of-ai": {
+    "ts": "2026-09-06T08:32:35.466937+00:00",
+    "title": "Business Email Compromise (BEC) in the Age of AI"
+  },
+  "https://www.group-ib.com/blog/ghosts-in-proc/": {
+    "ts": "2026-09-06T08:32:35.710307+00:00",
+    "title": "Ghosts in /proc: Manipulation and Timeline Corruption"
+  },
+  "https://www.welivesecurity.com/en/business-security/what-cybersecurity-actually-does-for-your-business/": {
+    "ts": "2026-09-06T08:32:35.710324+00:00",
+    "title": "What cybersecurity actually does for your business"
+  },
+  "https://threats.wiz.io/all-incidents/operation-bizarre-bazaar-commercialized-llmjacking": {
+    "ts": "2026-09-06T08:32:35.954451+00:00",
+    "title": "Operation Bizarre Bazaar: Commercialized LLMjacking (Campaign)"
+  },
+  "https://www.darktrace.com/blog/how-ai-can-help-cisos-navigate-the-global-cyber-talent-shortage": {
+    "ts": "2026-09-06T08:32:35.954470+00:00",
+    "title": "How AI can help CISOs navigate the global cyber talent shortage"
+  },
+  "https://www.group-ib.com/blog/detect-npm-supply-chain-attack/": {
+    "ts": "2026-09-06T08:32:36.190746+00:00",
+    "title": "Detecting the NPM Supply Chain Compromise Before It Spread"
+  },
+  "https://www.welivesecurity.com/en/business-security/how-smbs-use-threat-research-mdr-build-defensive-edge/": {
+    "ts": "2026-09-06T08:32:36.429771+00:00",
+    "title": "How SMBs use threat research and MDR to build a defensive edge"
+  },
+  "https://threats.wiz.io/all-incidents/cloud-native-phishing-infrastructure-via-abused-aws-workmail": {
+    "ts": "2026-09-06T08:32:36.672436+00:00",
+    "title": "Cloud-Native Phishing Infrastructure via Abused AWS WorkMail (Campaign)"
+  },
+  "https://www.darktrace.com/blog/what-you-need-to-know-about-faa-equipment-systems-and-network-information-security-protection-2024": {
+    "ts": "2026-09-06T08:32:36.903765+00:00",
+    "title": "What you need to know about FAA Security Protection Regulations 2024"
+  },
+  "https://www.group-ib.com/blog/illusion-wealth-investment-scams/": {
+    "ts": "2026-09-06T08:32:37.137423+00:00",
+    "title": "The Illusion of Wealth: Inside the Engineered Reality of Investment Scam Platforms"
   }
 }
