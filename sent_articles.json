@@ -6198,5 +6198,125 @@
   "https://threats.wiz.io/all-incidents/earth-lamia-custom-toolkit-targets-multiple-sectors-via-web-vulnerabilities": {
     "ts": "2026-09-07T03:45:18.258020+00:00",
     "title": "Earth Lamia Custom Toolkit Targets Multiple Sectors via Web Vulnerabilities (Campaign)"
+  },
+  "https://rewterz.com/threat-advisory/google-fixes-actively-exploited-chrome-zero-day-enabling-rce": {
+    "ts": "2026-09-07T09:07:31.667820+00:00",
+    "title": "Google Fixes Actively Exploited Chrome Zero-Day Enabling RCE"
+  },
+  "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/": {
+    "ts": "2026-09-07T09:09:22.676253+00:00",
+    "title": "N-able patches max severity N-central flaw amid ongoing attacks"
+  },
+  "https://www.group-ib.com/blog/strengthening-aml-defenses/": {
+    "ts": "2026-09-07T09:09:22.676272+00:00",
+    "title": "Strengthening AML Defenses: Detect Money Mules During Their \u2018Warm-Up\u2019 Phase"
+  },
+  "https://www.helpnetsecurity.com/2026/09/07/toolhive-open-source-mcp-server-security/": {
+    "ts": "2026-09-07T09:09:22.676276+00:00",
+    "title": "ToolHive: The open-source way to run any MCP server securely"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/a-week-in-security-august-31-september-6": {
+    "ts": "2026-09-07T09:09:22.676278+00:00",
+    "title": "A week in security (August 31 \u2013 September 6)"
+  },
+  "https://rewterz.com/threat-advisory/sidewinder-apt-group-aka-rattlesnake-targeting-pakistan-active-iocs-25": {
+    "ts": "2026-09-07T09:09:22.899873+00:00",
+    "title": "SideWinder APT Group aka Rattlesnake Targeting Pakistan \u2013 Active IOCs"
+  },
+  "https://securityaffairs.com/198545/cyber-crime/berlin-ransomware-leak-exposes-state-secrets.html": {
+    "ts": "2026-09-07T09:09:22.899890+00:00",
+    "title": "Berlin Ransomware Leak Exposes State Secrets"
+  },
+  "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html": {
+    "ts": "2026-09-07T09:09:23.102749+00:00",
+    "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies"
+  },
+  "https://www.theregister.com/columnists/2026/09/07/openais-rebel-agent-swarm-died-young-but-its-chilling-logs-live-on/5294446": {
+    "ts": "2026-09-07T09:09:23.102770+00:00",
+    "title": "OpenAI's rebel agent swarm died young, but its chilling logs live on"
+  },
+  "https://threats.wiz.io/all-incidents/dragonforce-exploits-simplehelp-vulnerabilities-in-ransomware-campaign": {
+    "ts": "2026-09-07T09:09:23.102774+00:00",
+    "title": "DragonForce Exploits SimpleHelp Vulnerabilities in Ransomware Campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/stealthy-attributes-of-apt-lazarus/": {
+    "ts": "2026-09-07T09:09:23.297727+00:00",
+    "title": "Stealthy Attributes of Lazarus APT Group: Evading Detection with Extended Attributes"
+  },
+  "https://www.helpnetsecurity.com/2026/09/07/chris-webber-teleport-zero-trust-ai-agents/": {
+    "ts": "2026-09-07T09:09:23.491519+00:00",
+    "title": "Zero trust AI agents demand a different kind of security"
+  },
+  "https://threats.wiz.io/all-incidents/coordinated-one-day-cloud-scanning-operation-targets-75-exposure-points": {
+    "ts": "2026-09-07T09:09:23.690503+00:00",
+    "title": "Coordinated One-Day Cloud Scanning Operation Targets 75 Exposure Points (Campaign)"
+  },
+  "https://www.group-ib.com/blog/chase-cyber-threats/": {
+    "ts": "2026-09-07T09:09:23.895536+00:00",
+    "title": "<s>Run from</s> Chase Cyber Threats"
+  },
+  "https://www.helpnetsecurity.com/2026/09/07/etsi-ai-data-quality-metrics/": {
+    "ts": "2026-09-07T09:09:24.089805+00:00",
+    "title": "18 ways to check whether data can be trusted for AI"
+  },
+  "https://rewterz.com/threat-advisory/microsoft-teams-abuse-leading-to-enterprise-compromise-active-iocs": {
+    "ts": "2026-09-07T09:09:24.284706+00:00",
+    "title": "Microsoft Teams Abuse Leading to Enterprise Compromise \u2013 Active IOCs"
+  },
+  "https://threats.wiz.io/all-incidents/mimo-exploits-craft-cms-rce-to-deploy-cryptominer-and-proxyware-in-coordinated-campaign": {
+    "ts": "2026-09-07T09:09:24.480459+00:00",
+    "title": "Mimo Exploits Craft CMS RCE to Deploy Cryptominer and Proxyware in Coordinated Campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/cybercriminal-tactics-in-the-balkan-region/": {
+    "ts": "2026-09-07T09:09:24.480477+00:00",
+    "title": "Delivery Deception: Escalating cybercriminal tactics in the Balkan region"
+  },
+  "https://rewterz.com/threat-advisory/d-link-router-flaws-enable-credential-theft": {
+    "ts": "2026-09-07T09:09:24.680280+00:00",
+    "title": "D-Link Router Flaws Enable Credential Theft"
+  },
+  "https://threats.wiz.io/all-incidents/ivanti-epmm-rce-vulnerability-chain-exploited-in-the-wild": {
+    "ts": "2026-09-07T09:09:24.875259+00:00",
+    "title": "Ivanti EPMM RCE Vulnerability Chain Exploited in the Wild (Campaign)"
+  },
+  "https://www.group-ib.com/blog/fraud-protection-know-your-real-users/": {
+    "ts": "2026-09-07T09:09:24.875280+00:00",
+    "title": "Group-IB Fraud Protection: Know your real users, catch the fraudsters"
+  },
+  "https://rewterz.com/threat-advisory/cisa-warns-of-exploited-microsoft-sql-server-rce-flaw": {
+    "ts": "2026-09-07T09:09:25.069597+00:00",
+    "title": "CISA Warns of Exploited Microsoft SQL Server RCE Flaw"
+  },
+  "https://threats.wiz.io/all-incidents/utg-q-015-exploits-0-days-for-espionage-in-asia": {
+    "ts": "2026-09-07T09:09:25.273767+00:00",
+    "title": "UTG-Q-015 Exploits 0-Days for Espionage in Asia (Campaign)"
+  },
+  "https://www.group-ib.com/blog/global-igaming/": {
+    "ts": "2026-09-07T09:09:25.474490+00:00",
+    "title": "Global iGaming? Tailor Your Security with Group-IB Fraud Protection"
+  },
+  "https://threats.wiz.io/all-incidents/from-stolen-cloud-key-to-persistence-as-a-service": {
+    "ts": "2026-09-07T09:09:25.674182+00:00",
+    "title": "From stolen cloud key to persistence-as-a-service (Incident)"
+  },
+  "https://www.group-ib.com/blog/fake-wood-scams/": {
+    "ts": "2026-09-07T09:09:25.876258+00:00",
+    "title": "Woodn\u2019t You Believe It? The Rise of Fake Wood Scams"
+  },
+  "https://threats.wiz.io/all-incidents/redisraider-linux-cryptojacking-campaign-targets-redis-servers": {
+    "ts": "2026-09-07T09:09:26.070525+00:00",
+    "title": "RedisRaider Linux Cryptojacking Campaign Targets Redis Servers (Campaign)"
+  },
+  "https://www.group-ib.com/blog/cicada3301/": {
+    "ts": "2026-09-07T09:09:26.266021+00:00",
+    "title": "Encrypted Symphony: Infiltrating the Cicada3301 Ransomware-as-a-Service Group"
+  },
+  "https://threats.wiz.io/all-incidents/comfyui-exploitation-campaign--": {
+    "ts": "2026-09-07T09:09:26.456498+00:00",
+    "title": "ComfyUI exploitation campaign   (Campaign)"
+  },
+  "https://www.group-ib.com/blog/firming-grip-of-cyber-fraud-in-asia/": {
+    "ts": "2026-09-07T09:09:26.456517+00:00",
+    "title": "The firming grip of cyber fraud in Asia: What effective actions must banks take today?"
   }
 }
