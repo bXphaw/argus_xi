@@ -1,4 +1,50 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "threat_actor",
+      "title": "7th September \u2013 Threat Intelligence Report",
+      "url": "https://research.checkpoint.com/2026/7th-september-threat-intelligence-report/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Linux Rootkit Injects Fileless PHP Web Shells Into Compromised F5 BIG-IP Servers",
+      "url": "https://cybersecuritynews.com/linux-rootkit/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "PoisonedRefresh Malware Backdoors F5 BIG-IP Servers With Memory-Only PHP Web Shells",
+      "url": "https://gbhackers.com/poisonedrefresh-malware/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "StyleSmuggler: Unpatched Magento and Adobe Commerce Zero-Day Exploited",
+      "url": "https://socradar.io/blog/stylesmuggler-magento-adobe-commerce-0day/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Dissecting a PHP web server rootkit",
+      "url": "https://www.sophos.com/en-us/blog/dissecting-a-php-web-server-rootkit"
+    },
+    {
+      "category": "threat_actor",
+      "title": "760,000 Leaked Logins and Five Spy Campaigns: Inside Pakistan\u2019s Worst Cyber Year Yet",
+      "url": "https://threatmon.io/760000-leaked-logins-and-five-spy-campaigns-inside-pakistans-worst-cyber-year-yet/"
+    },
+    {
+      "category": "new_technique",
+      "title": "N-able patches critical N-central zero-day exploited in the wild (CVE-2026-86218)",
+      "url": "https://www.helpnetsecurity.com/2026/09/07/n-able-n-central-hotfix-cve-2026-86218/"
+    },
+    {
+      "category": "malware_other",
+      "title": "JSCeal Hides Crypto Malware in V8 Bytecode",
+      "url": "https://securityaffairs.com/198573/malware/jsceal-hides-crypto-malware-in-v8-bytecode.html"
+    },
+    {
+      "category": "malware_linux",
+      "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
+      "url": "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/"
+    }
+  ],
   "last_sent_date": "2026-09-07"
 }

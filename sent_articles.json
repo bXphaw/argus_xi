@@ -6318,5 +6318,125 @@
   "https://www.group-ib.com/blog/firming-grip-of-cyber-fraud-in-asia/": {
     "ts": "2026-09-07T09:09:26.456517+00:00",
     "title": "The firming grip of cyber fraud in Asia: What effective actions must banks take today?"
+  },
+  "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/": {
+    "ts": "2026-09-07T15:40:36.702093+00:00",
+    "title": "Mathspace discloses data breach affecting over 1 million people"
+  },
+  "https://research.checkpoint.com/2026/7th-september-threat-intelligence-report/": {
+    "ts": "2026-09-07T15:40:36.872280+00:00",
+    "title": "7th September \u2013 Threat Intelligence Report"
+  },
+  "https://cybersecuritynews.com/linux-rootkit/": {
+    "ts": "2026-09-07T15:40:36.963568+00:00",
+    "title": "Linux Rootkit Injects Fileless PHP Web Shells Into Compromised F5 BIG-IP Servers"
+  },
+  "https://cyble.com/blog/qatar-digital-boom-blindspot/": {
+    "ts": "2026-09-07T15:40:36.963589+00:00",
+    "title": "Qatar\u2019s Digital Boom Has a Blind Spot: What the 2025-26 Threat Data Is Telling Us"
+  },
+  "https://gbhackers.com/poisonedrefresh-malware/": {
+    "ts": "2026-09-07T15:40:37.066696+00:00",
+    "title": "PoisonedRefresh Malware Backdoors F5 BIG-IP Servers With Memory-Only PHP Web Shells"
+  },
+  "https://www.group-ib.com/blog/unveiling-usb-artifacts/": {
+    "ts": "2026-09-07T15:40:37.166986+00:00",
+    "title": "Unveiling USB Artifacts: A Comparative Analysis"
+  },
+  "https://www.helpnetsecurity.com/2026/09/07/mikrotik-routeros-ssh-vulnerabilities-exploited/": {
+    "ts": "2026-09-07T15:40:37.270229+00:00",
+    "title": "Hackers exploit RouterOS flaws to hijack MikroTik devices without authentication"
+  },
+  "https://www.malwarebytes.com/blog/privacy/2026/09/lg-tv-flaws-could-let-attackers-listen-in-even-in-standby-mode": {
+    "ts": "2026-09-07T15:40:37.373748+00:00",
+    "title": "LG TV flaws could let attackers listen in, even in standby mode"
+  },
+  "https://securityaffairs.com/198589/hacking/chaotic-eclipse-released-a-poc-for-nvidia-greensection-memory-corruption-zero-day.html": {
+    "ts": "2026-09-07T15:40:37.465518+00:00",
+    "title": "Chaotic Eclipse Released A PoC For NVIDIA GreenSection Memory Corruption Zero-Day"
+  },
+  "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/": {
+    "ts": "2026-09-07T15:40:37.561339+00:00",
+    "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits"
+  },
+  "https://socradar.io/blog/stylesmuggler-magento-adobe-commerce-0day/": {
+    "ts": "2026-09-07T15:40:37.658429+00:00",
+    "title": "StyleSmuggler: Unpatched Magento and Adobe Commerce Zero-Day Exploited"
+  },
+  "https://www.sophos.com/en-us/blog/dissecting-a-php-web-server-rootkit": {
+    "ts": "2026-09-07T15:40:37.763232+00:00",
+    "title": "Dissecting a PHP web server rootkit"
+  },
+  "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html": {
+    "ts": "2026-09-07T15:40:37.763251+00:00",
+    "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does"
+  },
+  "https://www.theregister.com/security/2026/09/07/nightwing-ceo-has-a-labor-day-message-for-staff-and-apparently-the-register/5294819": {
+    "ts": "2026-09-07T15:40:37.763255+00:00",
+    "title": "Nightwing CEO has a Labor Day message for staff \u2013 and apparently The Register"
+  },
+  "https://threatmon.io/760000-leaked-logins-and-five-spy-campaigns-inside-pakistans-worst-cyber-year-yet/": {
+    "ts": "2026-09-07T15:40:37.864605+00:00",
+    "title": "760,000 Leaked Logins and Five Spy Campaigns: Inside Pakistan\u2019s Worst Cyber Year Yet"
+  },
+  "https://threats.wiz.io/all-incidents/coder-module-registry-compromise-leads-to-credential-stealing-malware-distribution": {
+    "ts": "2026-09-07T15:40:37.980331+00:00",
+    "title": "Coder Module Registry Compromise Leads to Credential-Stealing Malware Distribution (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/": {
+    "ts": "2026-09-07T15:40:38.080805+00:00",
+    "title": "Trezor data breach impact now reaches 81,000 customers"
+  },
+  "https://cybersecuritynews.com/mathspace-data-breach/": {
+    "ts": "2026-09-07T15:40:38.183776+00:00",
+    "title": "Online Maths Learning Platform Mathspace Disclosed Data Breach Impacts 1 Million Users"
+  },
+  "https://gbhackers.com/natural-resources-wales-data-breach/": {
+    "ts": "2026-09-07T15:40:38.285370+00:00",
+    "title": "Natural Resources Wales Data Breach Exposes Sensitive Employee Diversity Data"
+  },
+  "https://www.group-ib.com/blog/pig-butchering/": {
+    "ts": "2026-09-07T15:40:38.383525+00:00",
+    "title": "Pig Butchering Alert: Fraudulent Trading App targeted iOS and Android users"
+  },
+  "https://www.helpnetsecurity.com/2026/09/07/n-able-n-central-hotfix-cve-2026-86218/": {
+    "ts": "2026-09-07T15:40:38.485692+00:00",
+    "title": "N-able patches critical N-central zero-day exploited in the wild (CVE-2026-86218)"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/09/flirty-onlyfans-promoters-on-x-may-be-using-ai-to-appear-human": {
+    "ts": "2026-09-07T15:40:38.485712+00:00",
+    "title": "Flirty OnlyFans promoters on X may be using AI to appear human"
+  },
+  "https://securityaffairs.com/198573/malware/jsceal-hides-crypto-malware-in-v8-bytecode.html": {
+    "ts": "2026-09-07T15:40:38.590513+00:00",
+    "title": "JSCeal Hides Crypto Malware in V8 Bytecode"
+  },
+  "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/": {
+    "ts": "2026-09-07T15:40:38.691200+00:00",
+    "title": "North Korean Hackers Deploy New Linux Espionage Toolkit"
+  },
+  "https://socradar.io/blog/socradar-mcp-server-chatgpt/": {
+    "ts": "2026-09-07T15:40:38.691222+00:00",
+    "title": "Bring Licensed Threat Intelligence into Every Conversation with SOCRadar and ChatGPT"
+  },
+  "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html": {
+    "ts": "2026-09-07T15:40:38.781727+00:00",
+    "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts"
+  },
+  "https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770": {
+    "ts": "2026-09-07T15:40:38.877862+00:00",
+    "title": "Hackers drain $320M in Bitcoin from Liquid Network, claim they're the good guys"
+  },
+  "https://threats.wiz.io/all-incidents/jetbrains-cadence-compromised-via-exploitation-of-teamcity-vulnerability": {
+    "ts": "2026-09-07T15:40:38.972626+00:00",
+    "title": "JetBrains Cadence Compromised via Exploitation of TeamCity Vulnerability (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/": {
+    "ts": "2026-09-07T15:40:39.083661+00:00",
+    "title": "ChatGPT can now connect to your personal apps to mimic writing style"
+  },
+  "https://cybersecuritynews.com/switzerland-moves-away-from-microsoft-365/": {
+    "ts": "2026-09-07T15:40:39.188429+00:00",
+    "title": "Switzerland Moves Away From Microsoft 365 to Open-Source Alternatives"
   }
 }
