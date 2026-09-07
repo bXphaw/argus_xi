@@ -6078,5 +6078,125 @@
   "https://www.group-ib.com/blog/5-ways-to-leverage-our-malware-reports/": {
     "ts": "2026-09-06T23:39:49.131675+00:00",
     "title": "5 ways to leverage our Malware Reports for malware analysis"
+  },
+  "https://asec.ahnlab.com/en/95254/": {
+    "ts": "2026-09-07T03:45:12.744104+00:00",
+    "title": "Detection and Removal of the Syslogk Rootkit in a Linux Environment"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/": {
+    "ts": "2026-09-07T03:45:12.744122+00:00",
+    "title": "ChatGPT Astra is now rolling out to $20 Plus subscription"
+  },
+  "https://www.group-ib.com/blog/the-dark-side-of-automation-and-rise-of-ai-agent/": {
+    "ts": "2026-09-07T03:45:12.991702+00:00",
+    "title": "The Dark Side of Automation and Rise of AI Agents: Emerging Risks of Card Testing Attacks"
+  },
+  "https://threats.wiz.io/all-incidents/aws-data-exfiltration-and-attempted-ransomware": {
+    "ts": "2026-09-07T03:45:13.231871+00:00",
+    "title": "AWS Data Exfiltration and Attempted Ransomware (Campaign)"
+  },
+  "https://www.group-ib.com/blog/cat-s-out-of-the-bag-lynx-ransomware/": {
+    "ts": "2026-09-07T03:45:13.474246+00:00",
+    "title": "Cat\u2019s out of the bag: Lynx Ransomware-as-a-Service"
+  },
+  "https://threats.wiz.io/all-incidents/azure-account-hijack-via-stolen-tokens": {
+    "ts": "2026-09-07T03:45:13.713014+00:00",
+    "title": "Azure Account Hijack via Stolen Tokens (Campaign)"
+  },
+  "https://www.group-ib.com/blog/odds-ends-unraveling-the-surebet-playbook/": {
+    "ts": "2026-09-07T03:45:13.713035+00:00",
+    "title": "Odds & Ends: Unraveling the Surebet Playbook"
+  },
+  "https://threats.wiz.io/all-incidents/in-memory-iis-attacks-via-view-state-deserialization": {
+    "ts": "2026-09-07T03:45:13.943270+00:00",
+    "title": "In-Memory IIS Attacks via View State Deserialization (Campaign)"
+  },
+  "https://www.group-ib.com/blog/glocal-vision/": {
+    "ts": "2026-09-07T03:45:13.943285+00:00",
+    "title": "Group-IB\u2019s GLOCAL Vision Leading The Fight Against Global Cybercrime"
+  },
+  "https://threats.wiz.io/all-incidents/unc5174-exploits-ivanti-csa-zero-days-in-houken-campaign": {
+    "ts": "2026-09-07T03:45:14.189519+00:00",
+    "title": "UNC5174 Exploits Ivanti CSA Zero-Days in \u201cHouken\u201d Campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/the-reality-of-deception-real-estate-scams/": {
+    "ts": "2026-09-07T03:45:14.421342+00:00",
+    "title": "The Realty of Deception: Real Estate Frauds Uncovered in the Middle East"
+  },
+  "https://threats.wiz.io/all-incidents/jdwp-exploited-in-the-wild": {
+    "ts": "2026-09-07T03:45:14.655349+00:00",
+    "title": "JDWP Exploited in the Wild (Campaign)"
+  },
+  "https://www.group-ib.com/blog/beyond-ai/": {
+    "ts": "2026-09-07T03:45:14.889107+00:00",
+    "title": "Beyond AI: Group-IB\u2019s Local Expertise in Fraud Protection"
+  },
+  "https://threats.wiz.io/all-incidents/linux-ssh-servers-compromised-to-deploy-proxies": {
+    "ts": "2026-09-07T03:45:15.129710+00:00",
+    "title": "Linux SSH Servers Compromised to Deploy Proxies (Campaign)"
+  },
+  "https://www.group-ib.com/blog/social-engineering-in-action/": {
+    "ts": "2026-09-07T03:45:15.368520+00:00",
+    "title": "Social Engineering in Action: How Fraudsters Exploit Trust with Fake Refund Schemes in the Middle East"
+  },
+  "https://threats.wiz.io/all-incidents/attacks-on-korean-iis--linux-servers": {
+    "ts": "2026-09-07T03:45:15.606026+00:00",
+    "title": "Attacks on Korean IIS & Linux Servers (Campaign)"
+  },
+  "https://www.group-ib.com/blog/cyber-predictions-for-2025/": {
+    "ts": "2026-09-07T03:45:15.606045+00:00",
+    "title": "Cyber Predictions For 2025 (and Beyond): Group-IB\u2019s Expert Take On What\u2019s Coming"
+  },
+  "https://threats.wiz.io/all-incidents/langflow-vulnerability-exploited-to-deliver-flodrix-botnet": {
+    "ts": "2026-09-07T03:45:15.835200+00:00",
+    "title": "Langflow Vulnerability Exploited to Deliver Flodrix Botnet (Campaign)"
+  },
+  "https://www.group-ib.com/blog/patch-me-if-you-can/": {
+    "ts": "2026-09-07T03:45:15.835219+00:00",
+    "title": "Patch Me If You Can: The Truth About Smartphone Vulnerabilities"
+  },
+  "https://threats.wiz.io/all-incidents/sfiretruck-malicious-javascript-campaign-using-obfuscation": {
+    "ts": "2026-09-07T03:45:16.073215+00:00",
+    "title": "SFireTruck: Malicious JavaScript Campaign Using Obfuscation (Campaign)"
+  },
+  "https://www.group-ib.com/blog/trust-hijacked/": {
+    "ts": "2026-09-07T03:45:16.316145+00:00",
+    "title": "Trust Hijacked: The Subtle Art of Phishing Through Familiar Facades"
+  },
+  "https://threats.wiz.io/all-incidents/teamfiltration-account-takeover-campaign": {
+    "ts": "2026-09-07T03:45:16.581049+00:00",
+    "title": "TeamFiltration Account Takeover Campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/deepfake-fraud/": {
+    "ts": "2026-09-07T03:45:16.816313+00:00",
+    "title": "Deepfake Fraud: How AI is Deceiving Biometric Security in Financial Institutions"
+  },
+  "https://threats.wiz.io/all-incidents/npm-supply-chain-attack-compromises-16-popular-react-native-and-gluestack-packages": {
+    "ts": "2026-09-07T03:45:17.056370+00:00",
+    "title": "NPM Supply Chain Attack Compromises 16 Popular React Native and GlueStack Packages (Campaign)"
+  },
+  "https://www.group-ib.com/blog/shady-bets/": {
+    "ts": "2026-09-07T03:45:17.295771+00:00",
+    "title": "Shady Bets: How to Protect Yourself from Gambling Fraud Online"
+  },
+  "https://threats.wiz.io/all-incidents/open-webui-misconfiguration-exploited-for-cryptojacking": {
+    "ts": "2026-09-07T03:45:17.535367+00:00",
+    "title": "Open WebUI Misconfiguration Exploited for Cryptojacking (Campaign)"
+  },
+  "https://www.group-ib.com/blog/rethinking-investigation/": {
+    "ts": "2026-09-07T03:45:17.535386+00:00",
+    "title": "Rethinking investigation: Group-IB\u2019s Graph takes a leap forward"
+  },
+  "https://threats.wiz.io/all-incidents/cryptojacking-campaign-targets-misconfigured-devops-tools": {
+    "ts": "2026-09-07T03:45:17.774337+00:00",
+    "title": "Cryptojacking Campaign Targets Misconfigured DevOps Tools (Campaign)"
+  },
+  "https://www.group-ib.com/blog/tracing-the-path-of-vietcredcare-and-ducktail/": {
+    "ts": "2026-09-07T03:45:18.016550+00:00",
+    "title": "Tracing the Path of VietCredCare and DuckTail: Vietnamese dark market of infostealers\u2019 data"
+  },
+  "https://threats.wiz.io/all-incidents/earth-lamia-custom-toolkit-targets-multiple-sectors-via-web-vulnerabilities": {
+    "ts": "2026-09-07T03:45:18.258020+00:00",
+    "title": "Earth Lamia Custom Toolkit Targets Multiple Sectors via Web Vulnerabilities (Campaign)"
   }
 }

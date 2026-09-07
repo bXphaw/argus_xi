@@ -224,6 +224,76 @@
       "category": "threat_actor",
       "title": "RansomHub Never Sleeps Episode 1: The evolution of modern ransomware",
       "url": "https://www.group-ib.com/blog/ransomhub-never-sleeps-episode-1/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Detection and Removal of the Syslogk Rootkit in a Linux Environment",
+      "url": "https://asec.ahnlab.com/en/95254/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "The Dark Side of Automation and Rise of AI Agents: Emerging Risks of Card Testing Attacks",
+      "url": "https://www.group-ib.com/blog/the-dark-side-of-automation-and-rise-of-ai-agent/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "AWS Data Exfiltration and Attempted Ransomware (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/aws-data-exfiltration-and-attempted-ransomware"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Cat\u2019s out of the bag: Lynx Ransomware-as-a-Service",
+      "url": "https://www.group-ib.com/blog/cat-s-out-of-the-bag-lynx-ransomware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Azure Account Hijack via Stolen Tokens (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/azure-account-hijack-via-stolen-tokens"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "In-Memory IIS Attacks via View State Deserialization (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/in-memory-iis-attacks-via-view-state-deserialization"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "UNC5174 Exploits Ivanti CSA Zero-Days in \u201cHouken\u201d Campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/unc5174-exploits-ivanti-csa-zero-days-in-houken-campaign"
+    },
+    {
+      "category": "new_technique",
+      "title": "Attacks on Korean IIS & Linux Servers (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/attacks-on-korean-iis--linux-servers"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Langflow Vulnerability Exploited to Deliver Flodrix Botnet (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/langflow-vulnerability-exploited-to-deliver-flodrix-botnet"
+    },
+    {
+      "category": "new_technique",
+      "title": "SFireTruck: Malicious JavaScript Campaign Using Obfuscation (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/sfiretruck-malicious-javascript-campaign-using-obfuscation"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Open WebUI Misconfiguration Exploited for Cryptojacking (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/open-webui-misconfiguration-exploited-for-cryptojacking"
+    },
+    {
+      "category": "new_technique",
+      "title": "Cryptojacking Campaign Targets Misconfigured DevOps Tools (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/cryptojacking-campaign-targets-misconfigured-devops-tools"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Tracing the Path of VietCredCare and DuckTail: Vietnamese dark market of infostealers\u2019 data",
+      "url": "https://www.group-ib.com/blog/tracing-the-path-of-vietcredcare-and-ducktail/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Earth Lamia Custom Toolkit Targets Multiple Sectors via Web Vulnerabilities (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/earth-lamia-custom-toolkit-targets-multiple-sectors-via-web-vulnerabilities"
     }
   ],
   "last_sent_date": "2026-09-06"
