@@ -6558,5 +6558,121 @@
   "https://www.theregister.com/security/2026/09/07/peers-ask-why-uk-cyber-bill-leaves-execs-off-the-personal-liability-hook/5294586": {
     "ts": "2026-09-07T19:45:01.043442+00:00",
     "title": "Peers ask why UK cyber bill leaves execs off the personal liability hook"
+  },
+  "https://threats.wiz.io/all-incidents/apache-druid-cryptojacking": {
+    "ts": "2026-09-07T22:41:06.715761+00:00",
+    "title": "Apache Druid cryptojacking (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/rspack-supply-chain-attack": {
+    "ts": "2026-09-07T22:39:28.602527+00:00",
+    "title": "Rspack supply chain attack (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/": {
+    "ts": "2026-09-07T22:41:02.817920+00:00",
+    "title": "ConnectWise warns of new ScreenConnect flaw without patch"
+  },
+  "https://www.group-ib.com/blog/ajina-malware/": {
+    "ts": "2026-09-07T22:41:03.117180+00:00",
+    "title": "Ajina attacks Central Asia: Story of an Uzbek Android Pandemic"
+  },
+  "https://securityaffairs.com/198628/data-breach/conde-nast-data-of-32-8-million-users-offered-for-sale-after-wired-leak.html": {
+    "ts": "2026-09-07T22:41:03.117202+00:00",
+    "title": "Cond\u00e9 Nast Data of 32.8 Million Users Offered for Sale After WIRED Leak"
+  },
+  "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html": {
+    "ts": "2026-09-07T22:41:03.357999+00:00",
+    "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE \u2014 Public Exploit Released"
+  },
+  "https://threats.wiz.io/all-incidents/supply-chain-compromise-of-": {
+    "ts": "2026-09-07T22:41:03.593983+00:00",
+    "title": "Supply Chain Compromise of  (Campaign)"
+  },
+  "https://www.group-ib.com/blog/pluggable-authentication-module/": {
+    "ts": "2026-09-07T22:41:03.833767+00:00",
+    "title": "The Duality of the Pluggable Authentication Module (PAM)"
+  },
+  "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html": {
+    "ts": "2026-09-07T22:41:04.069378+00:00",
+    "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw"
+  },
+  "https://threats.wiz.io/all-incidents/xai-leaked-api-key": {
+    "ts": "2026-09-07T22:41:04.326732+00:00",
+    "title": "xAI leaked API key (Research)"
+  },
+  "https://www.group-ib.com/blog/apt-lazarus-python-scripts/": {
+    "ts": "2026-09-07T22:41:04.569067+00:00",
+    "title": "APT Lazarus: Eager Crypto Beavers, Video calls and Games"
+  },
+  "https://threats.wiz.io/all-incidents/larva-25003-iis-native-module-malware-used-in-targeted-web-server-attacks": {
+    "ts": "2026-09-07T22:41:04.804023+00:00",
+    "title": "Larva-25003: IIS Native Module Malware Used in Targeted Web Server Attacks (Campaign)"
+  },
+  "https://www.group-ib.com/blog/ransomhub-raas/": {
+    "ts": "2026-09-07T22:41:05.064370+00:00",
+    "title": "RansomHub ransomware-as-a-service"
+  },
+  "https://threats.wiz.io/all-incidents/nodejs-repository-cicd-vulnerable-to-rce": {
+    "ts": "2026-09-07T22:41:05.309370+00:00",
+    "title": "Node.js repository CI/CD vulnerable to RCE (Research)"
+  },
+  "https://www.group-ib.com/blog/linux-pro-manipulation/": {
+    "ts": "2026-09-07T22:41:05.546088+00:00",
+    "title": "Hiding in plain sight: Techniques and defenses against `/proc` filesystem manipulation in Linux"
+  },
+  "https://threats.wiz.io/all-incidents/grafana-github-action-attempted-supply-chain-attack": {
+    "ts": "2026-09-07T22:41:05.781614+00:00",
+    "title": "Grafana GitHub Action attempted supply chain attack (Incident)"
+  },
+  "https://www.group-ib.com/blog/brain-cipher-ransomware/": {
+    "ts": "2026-09-07T22:41:06.015964+00:00",
+    "title": "Deciphering the Brain Cipher Ransomware"
+  },
+  "https://threats.wiz.io/all-incidents/password-spray-attack-leads-to-containers-being-used-for-cryptomining": {
+    "ts": "2026-09-07T22:41:06.250330+00:00",
+    "title": "Password spray attack leads to containers being used for cryptomining (Campaign)"
+  },
+  "https://www.group-ib.com/blog/compromised-mdm-credentials/": {
+    "ts": "2026-09-07T22:41:06.250343+00:00",
+    "title": "Under Siege: The threat of compromised Mobile Device Management credentials and its implications for organizational security"
+  },
+  "https://threats.wiz.io/all-incidents/hybrid-attack-discovered-by-mandiant": {
+    "ts": "2026-09-07T22:41:06.488052+00:00",
+    "title": "Hybrid attack discovered by Mandiant (Incident)"
+  },
+  "https://www.group-ib.com/blog/nis-2-compliance/": {
+    "ts": "2026-09-07T22:41:06.488064+00:00",
+    "title": "NIS 2 compliance for EU businesses: Meet cybersecurity requirements before the deadline (October 17)"
+  },
+  "https://www.group-ib.com/blog/craxs-rat-malaysia/": {
+    "ts": "2026-09-07T22:41:06.956256+00:00",
+    "title": "Beware CraxsRAT: Android Remote Access malware strikes in Malaysia"
+  },
+  "https://www.group-ib.com/blog/gxc-team-unmasked/": {
+    "ts": "2026-09-07T22:41:07.200891+00:00",
+    "title": "GXC Team Unmasked: The cybercriminal group targeting Spanish bank users with AI-powered phishing tools and Android malware"
+  },
+  "https://threats.wiz.io/all-incidents/sap-netweaver-visual-composer-exploitation-campaign": {
+    "ts": "2026-09-07T22:41:07.446865+00:00",
+    "title": "SAP NetWeaver Visual Composer exploitation campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/qilin-revisited/": {
+    "ts": "2026-09-07T22:41:07.694464+00:00",
+    "title": "Qilin Revisited: Diving into the techniques and procedures of the recent Qilin Ransomware Attacks"
+  },
+  "https://threats.wiz.io/all-incidents/multi-layered-cryptojacking-via-docker": {
+    "ts": "2026-09-07T22:41:07.931999+00:00",
+    "title": "Multi-Layered Cryptojacking via Docker (Campaign)"
+  },
+  "https://www.group-ib.com/blog/digital-risk-protection/": {
+    "ts": "2026-09-07T22:41:07.932010+00:00",
+    "title": "Group-IB Digital Risk Protection: How does it enable the fastest violation detection and takedown?"
+  },
+  "https://www.group-ib.com/blog/estate-ransomware/": {
+    "ts": "2026-09-07T22:41:08.174618+00:00",
+    "title": "Patch or Peril: A Veeam vulnerability incident"
+  },
+  "https://threats.wiz.io/all-incidents/unc5174-linux-espionage-campaign": {
+    "ts": "2026-09-07T22:41:08.408754+00:00",
+    "title": "UNC5174 Linux Espionage Campaign (Campaign)"
   }
 }

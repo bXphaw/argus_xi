@@ -99,6 +99,71 @@
       "category": "malware_windows",
       "title": "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
       "url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html"
+    },
+    {
+      "category": "malware_android",
+      "title": "Ajina attacks Central Asia: Story of an Uzbek Android Pandemic",
+      "url": "https://www.group-ib.com/blog/ajina-malware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE \u2014 Public Exploit Released",
+      "url": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html"
+    },
+    {
+      "category": "malware_other",
+      "title": "Supply Chain Compromise of  (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/supply-chain-compromise-of-"
+    },
+    {
+      "category": "threat_actor",
+      "title": "RansomHub ransomware-as-a-service",
+      "url": "https://www.group-ib.com/blog/ransomhub-raas/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Node.js repository CI/CD vulnerable to RCE (Research)",
+      "url": "https://threats.wiz.io/all-incidents/nodejs-repository-cicd-vulnerable-to-rce"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hiding in plain sight: Techniques and defenses against `/proc` filesystem manipulation in Linux",
+      "url": "https://www.group-ib.com/blog/linux-pro-manipulation/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Grafana GitHub Action attempted supply chain attack (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/grafana-github-action-attempted-supply-chain-attack"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Deciphering the Brain Cipher Ransomware",
+      "url": "https://www.group-ib.com/blog/brain-cipher-ransomware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Password spray attack leads to containers being used for cryptomining (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/password-spray-attack-leads-to-containers-being-used-for-cryptomining"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hybrid attack discovered by Mandiant (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/hybrid-attack-discovered-by-mandiant"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Apache Druid cryptojacking (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/apache-druid-cryptojacking"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Patch or Peril: A Veeam vulnerability incident",
+      "url": "https://www.group-ib.com/blog/estate-ransomware/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "UNC5174 Linux Espionage Campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/unc5174-linux-espionage-campaign"
     }
   ],
   "last_sent_date": "2026-09-07"
