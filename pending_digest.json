@@ -44,6 +44,61 @@
       "category": "malware_linux",
       "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
       "url": "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
+      "url": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Bimbo Bakeries USA Confirms Data Breach in Oracle EBS Zero-Day Attack",
+      "url": "https://cybersecuritynews.com/bimbo-oracle-ebs-data-breach/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Inside the Dragon: DragonForce Ransomware Group",
+      "url": "https://www.group-ib.com/blog/dragonforce-ransomware/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Attackers use rogue ScreenConnect clients to spread malware",
+      "url": "https://www.helpnetsecurity.com/2026/09/07/connectwise-screenconnect-file-transfer-flaw/"
+    },
+    {
+      "category": "new_technique",
+      "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
+      "url": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Abuse Trusted Google Services to Hide Credential-Stealing Phishing Attacks",
+      "url": "https://cybersecuritynews.com/trusted-google-services/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Global Phishing Campaign Abuses Google Infrastructure to Evade Security and Steal Credentials",
+      "url": "https://gbhackers.com/global-phishing-campaign/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Storm clouds on the horizon: Resurgence of TeamTNT?",
+      "url": "https://www.group-ib.com/blog/teamtnt/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Modified ScreenConnect Clients Used in Worm-Like Campaign",
+      "url": "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html"
     }
   ],
   "last_sent_date": "2026-09-07"

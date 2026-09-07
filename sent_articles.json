@@ -6438,5 +6438,125 @@
   "https://cybersecuritynews.com/switzerland-moves-away-from-microsoft-365/": {
     "ts": "2026-09-07T15:40:39.188429+00:00",
     "title": "Switzerland Moves Away From Microsoft 365 to Open-Source Alternatives"
+  },
+  "https://threats.wiz.io/all-incidents/7noheopenapi-react-query-codegen-compromised-in-supply-chain-attack": {
+    "ts": "2026-09-07T19:43:07.833335+00:00",
+    "title": "@7nohe/openapi-react-query-codegen Compromised in Supply Chain Attack (Campaign)"
+  },
+  "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/": {
+    "ts": "2026-09-07T19:43:13.958558+00:00",
+    "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores"
+  },
+  "https://threats.wiz.io/all-incidents/arrayref-and-other-rust-crates-hijacked-in-supply-chain-attack": {
+    "ts": "2026-09-07T19:43:16.155785+00:00",
+    "title": "arrayref and Other Rust Crates Hijacked in Supply Chain Attack (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/": {
+    "ts": "2026-09-07T19:44:58.174720+00:00",
+    "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor"
+  },
+  "https://cybersecuritynews.com/bimbo-oracle-ebs-data-breach/": {
+    "ts": "2026-09-07T19:44:58.322110+00:00",
+    "title": "Bimbo Bakeries USA Confirms Data Breach in Oracle EBS Zero-Day Attack"
+  },
+  "https://gbhackers.com/connectwise-screenconnect-remote-access-flaw/": {
+    "ts": "2026-09-07T19:44:58.322130+00:00",
+    "title": "ConnectWise ScreenConnect Remote Access Flaw Impacts Guest File Transfer Sessions"
+  },
+  "https://www.group-ib.com/blog/dragonforce-ransomware/": {
+    "ts": "2026-09-07T19:44:58.459735+00:00",
+    "title": "Inside the Dragon: DragonForce Ransomware Group"
+  },
+  "https://www.helpnetsecurity.com/2026/09/07/connectwise-screenconnect-file-transfer-flaw/": {
+    "ts": "2026-09-07T19:44:58.592872+00:00",
+    "title": "Attackers use rogue ScreenConnect clients to spread malware"
+  },
+  "https://www.malwarebytes.com/blog/podcast/2026/09/loyalty-points-fraud-is-funding-hacker-holidays-lock-and-code-s07e18": {
+    "ts": "2026-09-07T19:44:58.736384+00:00",
+    "title": "Loyalty points fraud is funding hacker holidays (Lock and Code S07E18)"
+  },
+  "https://securityaffairs.com/198603/uncategorized/stylesmuggler-the-magento-zero-day-behind-new-store-attacks.html": {
+    "ts": "2026-09-07T19:44:58.870071+00:00",
+    "title": "StyleSmuggler: The Magento Zero-Day Behind New Store Attacks"
+  },
+  "https://www.securityweek.com/openai-agents-hijack-another-victim-website/": {
+    "ts": "2026-09-07T19:44:58.979193+00:00",
+    "title": "OpenAI Agents Hijack Another Victim Website"
+  },
+  "https://socradar.io/blog/e-commerce-access-vedicline-data-langflow-rce-asus-claim-and-energy-shell-access/": {
+    "ts": "2026-09-07T19:44:59.111707+00:00",
+    "title": "E-Commerce Access, Vedicline Data, Langflow RCE, ASUS Claim, and Energy Shell Access"
+  },
+  "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html": {
+    "ts": "2026-09-07T19:44:59.259013+00:00",
+    "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution"
+  },
+  "https://www.theregister.com/security/2026/09/07/welsh-environment-regulators-foi-blunder-exposes-diversity-data-of-2000-staff/5294748": {
+    "ts": "2026-09-07T19:44:59.259032+00:00",
+    "title": "Welsh environment regulator's FoI blunder exposes diversity data of 2,000 staff"
+  },
+  "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/": {
+    "ts": "2026-09-07T19:44:59.387544+00:00",
+    "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations"
+  },
+  "https://cybersecuritynews.com/trusted-google-services/": {
+    "ts": "2026-09-07T19:44:59.534539+00:00",
+    "title": "Hackers Abuse Trusted Google Services to Hide Credential-Stealing Phishing Attacks"
+  },
+  "https://gbhackers.com/global-phishing-campaign/": {
+    "ts": "2026-09-07T19:44:59.670272+00:00",
+    "title": "Global Phishing Campaign Abuses Google Infrastructure to Evade Security and Steal Credentials"
+  },
+  "https://www.group-ib.com/blog/teamtnt/": {
+    "ts": "2026-09-07T19:44:59.818685+00:00",
+    "title": "Storm clouds on the horizon: Resurgence of TeamTNT?"
+  },
+  "https://www.helpnetsecurity.com/2026/09/07/openai-research-automation-intern/": {
+    "ts": "2026-09-07T19:44:59.950482+00:00",
+    "title": "OpenAI just hit a milestone on the road to self-improving AI"
+  },
+  "https://securityaffairs.com/198563/ai/why-ai-agent-sandboxes-are-failing-security-tests.html": {
+    "ts": "2026-09-07T19:45:00.080882+00:00",
+    "title": "Why AI Agent Sandboxes Are Failing Security Tests"
+  },
+  "https://socradar.io/blog/n-able-n-central-hf4-critical-rce-auth-flaws/": {
+    "ts": "2026-09-07T19:45:00.220825+00:00",
+    "title": "N-able N-central HF4 Fixes Critical RCE After Series of Authentication Flaws"
+  },
+  "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html": {
+    "ts": "2026-09-07T19:45:00.424669+00:00",
+    "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks"
+  },
+  "https://www.theregister.com/security/2026/09/07/uk-food-supply-chain-at-risk-from-hostile-attacks/5294719": {
+    "ts": "2026-09-07T19:45:00.645027+00:00",
+    "title": "UK food supply chain at risk from hostile attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/": {
+    "ts": "2026-09-07T19:45:00.775809+00:00",
+    "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers"
+  },
+  "https://cybersecuritynews.com/natural-resources-wales-expose/": {
+    "ts": "2026-09-07T19:45:00.775846+00:00",
+    "title": "Natural Resources Wales Exposes Sensitive Employee Data in Spreadsheet Breach"
+  },
+  "https://gbhackers.com/openai-commits-1-billion-in-daybreak-ai-cyber-tools/": {
+    "ts": "2026-09-07T19:45:00.775851+00:00",
+    "title": "OpenAI Commits $1 Billion in Daybreak AI Cyber Tools to Protect Critical Infrastructure"
+  },
+  "https://www.group-ib.com/blog/concealed-networks/": {
+    "ts": "2026-09-07T19:45:00.775875+00:00",
+    "title": "Concealed networks: Are dark web syndicates turning to social media for cybercrime?"
+  },
+  "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/": {
+    "ts": "2026-09-07T19:45:00.911549+00:00",
+    "title": "Modified ScreenConnect Clients Used in Worm-Like Campaign"
+  },
+  "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html": {
+    "ts": "2026-09-07T19:45:01.043424+00:00",
+    "title": "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More"
+  },
+  "https://www.theregister.com/security/2026/09/07/peers-ask-why-uk-cyber-bill-leaves-execs-off-the-personal-liability-hook/5294586": {
+    "ts": "2026-09-07T19:45:01.043442+00:00",
+    "title": "Peers ask why UK cyber bill leaves execs off the personal liability hook"
   }
 }
