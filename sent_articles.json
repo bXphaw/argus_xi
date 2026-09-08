@@ -7034,5 +7034,125 @@
   "https://www.group-ib.com/blog/hunting-rituals-windows-services-part-2/": {
     "ts": "2026-09-08T12:45:47.897328+00:00",
     "title": "Hunting Rituals #2.2: Threat hunting for abuse of Windows Services"
+  },
+  "https://www.group-ib.com/blog/christmas-miracle-incident-response/": {
+    "ts": "2026-09-08T17:08:22.893775+00:00",
+    "title": "The untold story of incident response: A Christmas Miracle"
+  },
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/": {
+    "ts": "2026-09-08T17:09:58.636687+00:00",
+    "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database"
+  },
+  "https://research.checkpoint.com/2026/the-shared-clipboard-inside-the-sandbox-cross-account-data-leakage-in-chatgpt/": {
+    "ts": "2026-09-08T17:09:58.682921+00:00",
+    "title": "The Shared Clipboard Inside the Sandbox: Cross-Account Data Leakage in ChatGPT"
+  },
+  "https://www.group-ib.com/blog/farnetwork/": {
+    "ts": "2026-09-08T17:09:58.733637+00:00",
+    "title": "Ransomware manager: Investigation into farnetwork, a threat actor linked to five strains of ransomware"
+  },
+  "https://www.helpnetsecurity.com/2026/09/08/ai-agents-cyberattacks-automation-google-research/": {
+    "ts": "2026-09-08T17:09:58.733652+00:00",
+    "title": "Threat actors are giving AI agents a bigger role in cyberattacks"
+  },
+  "https://www.malwarebytes.com/blog/privacy/2026/09/grindr-settles-hiv-status-data-sharing-lawsuit-for-35-million": {
+    "ts": "2026-09-08T17:09:58.733656+00:00",
+    "title": "Grindr settles HIV status data-sharing lawsuit for $35 million"
+  },
+  "https://www.morphisec.com/blog/when-detection-arrives-after-the-damage-ransomware-as-a-patient-safety-emergency/": {
+    "ts": "2026-09-08T17:09:58.780032+00:00",
+    "title": "When Detection Arrives After the Damage: Ransomware as a Patient-Safety Emergency"
+  },
+  "https://www.securityweek.com/the-hidden-instructions-that-can-hijack-ai-agents/": {
+    "ts": "2026-09-08T17:09:58.827033+00:00",
+    "title": "The Hidden Instructions That Can Hijack AI Agents"
+  },
+  "https://www.security.com/expert-perspectives/who-will-win-ai-arms-race": {
+    "ts": "2026-09-08T17:09:58.872995+00:00",
+    "title": "Who Will Win the AI Arms Race?"
+  },
+  "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html": {
+    "ts": "2026-09-08T17:09:58.918477+00:00",
+    "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution"
+  },
+  "https://threats.wiz.io/all-incidents/earth-pretas-campaign-abusing-mavinject-to-bypass-detection": {
+    "ts": "2026-09-08T17:09:58.963105+00:00",
+    "title": "Earth Preta\u2019s Campaign Abusing MAVInject to Bypass Detection (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/": {
+    "ts": "2026-09-08T17:09:58.963116+00:00",
+    "title": "OpenAI says ChatGPT outage causes image generation errors"
+  },
+  "https://www.group-ib.com/blog/untold-story-insiders-gambit/": {
+    "ts": "2026-09-08T17:09:58.963120+00:00",
+    "title": "The untold story of incident response: Insider\u2019s Gambit"
+  },
+  "https://www.helpnetsecurity.com/2026/09/08/wechat-weworm-vulnerability-exploit-account-hijacking/": {
+    "ts": "2026-09-08T17:09:59.007853+00:00",
+    "title": "\u201cZero-click\u201d WeChat worm could hijack accounts and spread via a single call"
+  },
+  "https://www.securityweek.com/hackers-return-263-million-stolen-from-liquid-network/": {
+    "ts": "2026-09-08T17:09:59.007870+00:00",
+    "title": "Hackers Return $263 Million Stolen From Liquid Network"
+  },
+  "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html": {
+    "ts": "2026-09-08T17:09:59.007875+00:00",
+    "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC"
+  },
+  "https://threats.wiz.io/all-incidents/seashell-blizzard-subgroups-campaign-exploiting-vulnerabilities-for-data-exfiltration": {
+    "ts": "2026-09-08T17:09:59.054322+00:00",
+    "title": "Seashell Blizzard Subgroup's Campaign Exploiting Vulnerabilities for Data Exfiltration (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/": {
+    "ts": "2026-09-08T17:09:59.054338+00:00",
+    "title": "August updates trigger 0xc0000409 errors on Windows Server 2016"
+  },
+  "https://www.group-ib.com/blog/middle-east-conflict-week-1/": {
+    "ts": "2026-09-08T17:09:59.054342+00:00",
+    "title": "Analyzing cyber activity surrounding the conflict in the Middle East"
+  },
+  "https://www.helpnetsecurity.com/2026/09/08/jellyfin-12-0-security-fixes/": {
+    "ts": "2026-09-08T17:09:59.054344+00:00",
+    "title": "Jellyfin 12.0 security fixes arrive alongside the removal of legacy client logins"
+  },
+  "https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/": {
+    "ts": "2026-09-08T17:09:59.054347+00:00",
+    "title": "Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta"
+  },
+  "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html": {
+    "ts": "2026-09-08T17:09:59.102951+00:00",
+    "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account"
+  },
+  "https://threats.wiz.io/all-incidents/code-injection-attacks-exploiting-publicly-disclosed-aspnet-keys": {
+    "ts": "2026-09-08T17:09:59.148315+00:00",
+    "title": "Code Injection Attacks Exploiting Publicly Disclosed ASP.NET Keys (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/": {
+    "ts": "2026-09-08T17:09:59.194735+00:00",
+    "title": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability"
+  },
+  "https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/": {
+    "ts": "2026-09-08T17:09:59.240233+00:00",
+    "title": "SAP Patches Critical Extended Passport Processing Vulnerability"
+  },
+  "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html": {
+    "ts": "2026-09-08T17:09:59.285497+00:00",
+    "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours"
+  },
+  "https://threats.wiz.io/all-incidents/black-basta-exploiting-vulnerabilities-in-multiple-products": {
+    "ts": "2026-09-08T17:09:59.334905+00:00",
+    "title": "Black Basta Exploiting Vulnerabilities in Multiple Products (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/": {
+    "ts": "2026-09-08T17:09:59.334916+00:00",
+    "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor"
+  },
+  "https://www.group-ib.com/blog/golddigger-fraud-matrix/": {
+    "ts": "2026-09-08T17:09:59.382606+00:00",
+    "title": "Let\u2019s dig deeper: dissecting the new Android Trojan GoldDigger with Group-IB Fraud Matrix"
+  },
+  "https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/": {
+    "ts": "2026-09-08T17:09:59.382620+00:00",
+    "title": "Party\u2019s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft"
   }
 }

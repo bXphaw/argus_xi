@@ -49,6 +49,41 @@
       "category": "apt_campaign",
       "title": "RevivalStone Campaign by Winnti (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/revivalstone-campaign-by-winnti"
+    },
+    {
+      "category": "threat_actor",
+      "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/"
+    },
+    {
+      "category": "new_technique",
+      "title": "The Shared Clipboard Inside the Sandbox: Cross-Account Data Leakage in ChatGPT",
+      "url": "https://research.checkpoint.com/2026/the-shared-clipboard-inside-the-sandbox-cross-account-data-leakage-in-chatgpt/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Ransomware manager: Investigation into farnetwork, a threat actor linked to five strains of ransomware",
+      "url": "https://www.group-ib.com/blog/farnetwork/"
+    },
+    {
+      "category": "malware_android",
+      "title": "\u201cZero-click\u201d WeChat worm could hijack accounts and spread via a single call",
+      "url": "https://www.helpnetsecurity.com/2026/09/08/wechat-weworm-vulnerability-exploit-account-hijacking/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Seashell Blizzard Subgroup's Campaign Exploiting Vulnerabilities for Data Exfiltration (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/seashell-blizzard-subgroups-campaign-exploiting-vulnerabilities-for-data-exfiltration"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Black Basta Exploiting Vulnerabilities in Multiple Products (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/black-basta-exploiting-vulnerabilities-in-multiple-products"
+    },
+    {
+      "category": "malware_android",
+      "title": "Let\u2019s dig deeper: dissecting the new Android Trojan GoldDigger with Group-IB Fraud Matrix",
+      "url": "https://www.group-ib.com/blog/golddigger-fraud-matrix/"
     }
   ],
   "last_sent_date": "2026-09-08"
