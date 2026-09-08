@@ -6914,5 +6914,125 @@
   "https://www.group-ib.com/blog/you-versus-adversaries-part-2/": {
     "ts": "2026-09-08T07:05:41.421823+00:00",
     "title": "You versus adversaries: How to become unbeatable in 20 cybersecurity moves (Part 2)"
+  },
+  "https://threats.wiz.io/all-incidents/krpano-xss-exploitation-campaign": {
+    "ts": "2026-09-08T12:43:35.046714+00:00",
+    "title": "Krpano XSS exploitation campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/you-versus-adversaries-part-1/": {
+    "ts": "2026-09-08T12:43:36.901383+00:00",
+    "title": "You versus adversaries: How to become unbeatable in 20 cybersecurity moves (Part 1)"
+  },
+  "https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/": {
+    "ts": "2026-09-08T12:43:39.010380+00:00",
+    "title": "Mathspace Data Breach Exposes Over 1 Million People"
+  },
+  "https://www.helpnetsecurity.com/2026/09/08/mathspace-data-breach-metabase-vulnerability/": {
+    "ts": "2026-09-08T12:43:45.723863+00:00",
+    "title": "Mathspace breach exposes data on over a million students and parents"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/": {
+    "ts": "2026-09-08T12:45:43.921962+00:00",
+    "title": "Hackers build AI frameworks for widescale credential theft"
+  },
+  "https://blog.talosintelligence.com/clearfake-webdav-infection-chain/": {
+    "ts": "2026-09-08T12:45:44.121428+00:00",
+    "title": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/": {
+    "ts": "2026-09-08T12:45:44.318126+00:00",
+    "title": "GTIG AI Threat Tracker: From Prompting to Autonomy \u2013 The Evolution of Adversarial AI"
+  },
+  "https://www.group-ib.com/blog/gambleforce-gang/": {
+    "ts": "2026-09-08T12:45:44.510490+00:00",
+    "title": "Ace in the Hole: exposing GambleForce, an SQL injection gang"
+  },
+  "https://www.helpnetsecurity.com/2026/09/08/trezor-shipping-partner-breach-phishing-attacks/": {
+    "ts": "2026-09-08T12:45:44.510508+00:00",
+    "title": "Trezor customers hit with phishing calls and letters after shipping-partner breach"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/mikrotik-routers-can-be-taken-over-without-password": {
+    "ts": "2026-09-08T12:45:44.711564+00:00",
+    "title": "MikroTik router flaws allow takeover without a password"
+  },
+  "https://www.rapid7.com/blog/post/ve-cve-2026-86206-cve-2026-86207-n-able-n-central-authentication-bypass-fixed": {
+    "ts": "2026-09-08T12:45:44.909324+00:00",
+    "title": "CVE-2026-86206, CVE-2026-86207: N-able N-central Authentication Bypass (FIXED)"
+  },
+  "https://securityaffairs.com/198671/data-breach/massive-vietnam-linked-apis-database-exposes-passport-and-flight-data.html": {
+    "ts": "2026-09-08T12:45:45.101666+00:00",
+    "title": "Massive Vietnam-Linked APIS Database Exposes Passport and Flight Data"
+  },
+  "https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/": {
+    "ts": "2026-09-08T12:45:45.303095+00:00",
+    "title": "MikroTik Patches Critical Flaws Chained to Hack Routers"
+  },
+  "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html": {
+    "ts": "2026-09-08T12:45:45.501444+00:00",
+    "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials"
+  },
+  "https://www.intego.com/mac-security-blog/phishing-dangers-in-business-and-how-to-avoid-getting-hooked/": {
+    "ts": "2026-09-08T12:45:45.501462+00:00",
+    "title": "How to recognize and avoid phishing attacks on your Mac"
+  },
+  "https://www.theregister.com/research/2026/09/08/extortion-crews-have-their-eyes-on-high-value-ai-data-google-warns/5294640": {
+    "ts": "2026-09-08T12:45:45.501466+00:00",
+    "title": "Extortion crews have their eyes on high-value AI data, Google warns"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/": {
+    "ts": "2026-09-08T12:45:45.501469+00:00",
+    "title": "Microsoft: Windows Server 2025 changes causing app crashes"
+  },
+  "https://blog.talosintelligence.com/clickfix-moves-into-the-browser/": {
+    "ts": "2026-09-08T12:45:45.742544+00:00",
+    "title": "ClickFix moves into the browser: Cryptocurrency theft with Google-hosted C2"
+  },
+  "https://www.helpnetsecurity.com/2026/09/08/vishing-microsoft-365-data-theft-extortion/": {
+    "ts": "2026-09-08T12:45:45.936235+00:00",
+    "title": "IT help-desk vishing tricks executives into handing over Microsoft 365 access"
+  },
+  "https://securityaffairs.com/198656/apt/north-korea-linked-hackers-hide-a-backdoor-inside-haproxy.html": {
+    "ts": "2026-09-08T12:45:46.128585+00:00",
+    "title": "North Korea-linked Hackers Hide a Backdoor Inside HAProxy"
+  },
+  "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html": {
+    "ts": "2026-09-08T12:45:46.328761+00:00",
+    "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell"
+  },
+  "https://www.theregister.com/public-sector/2026/09/08/britain-reboots-its-space-strategy-with-78b-already-on-the-launchpad/5294839": {
+    "ts": "2026-09-08T12:45:46.526239+00:00",
+    "title": "Britain reboots its space strategy with \u00a37.8B already on the launchpad"
+  },
+  "https://threats.wiz.io/all-incidents/teammate-app-exposed-mongodb": {
+    "ts": "2026-09-08T12:45:46.719456+00:00",
+    "title": "Teammate App exposed MongoDB (Research)"
+  },
+  "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/": {
+    "ts": "2026-09-08T12:45:46.912438+00:00",
+    "title": "220 million traveler records exposed in Vietnam-linked APIS leak"
+  },
+  "https://www.group-ib.com/blog/krasue-rat/": {
+    "ts": "2026-09-08T12:45:47.108517+00:00",
+    "title": "Curse of the Krasue: New Linux Remote Access Trojan targets Thailand"
+  },
+  "https://securityaffairs.com/198634/cyber-crime/it-help-desk-impersonation-lets-hackers-bypass-mfa.html": {
+    "ts": "2026-09-08T12:45:47.302593+00:00",
+    "title": "IT Help Desk Impersonation Lets Hackers Bypass MFA"
+  },
+  "https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/": {
+    "ts": "2026-09-08T12:45:47.302611+00:00",
+    "title": "N-able Patches Critical Zero-Day in N-central"
+  },
+  "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html": {
+    "ts": "2026-09-08T12:45:47.495749+00:00",
+    "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams"
+  },
+  "https://threats.wiz.io/all-incidents/revivalstone-campaign-by-winnti": {
+    "ts": "2026-09-08T12:45:47.688109+00:00",
+    "title": "RevivalStone Campaign by Winnti (Campaign)"
+  },
+  "https://www.group-ib.com/blog/hunting-rituals-windows-services-part-2/": {
+    "ts": "2026-09-08T12:45:47.897328+00:00",
+    "title": "Hunting Rituals #2.2: Threat hunting for abuse of Windows Services"
   }
 }
