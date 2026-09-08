@@ -7274,5 +7274,125 @@
   "https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/": {
     "ts": "2026-09-08T20:56:46.236239+00:00",
     "title": "Adobe fixes critical Magento zero-day exploited to backdoor servers"
+  },
+  "https://www.group-ib.com/blog/hunting-rituals-dll-side-loading/": {
+    "ts": "2026-09-08T23:16:19.680556+00:00",
+    "title": "Hunting Rituals #1: Threat hunting for DLL side-loading"
+  },
+  "https://threats.wiz.io/all-incidents/otelier-data-breach": {
+    "ts": "2026-09-08T23:16:19.717785+00:00",
+    "title": "Otelier data breach (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/": {
+    "ts": "2026-09-08T23:17:54.545492+00:00",
+    "title": "Webinar: The forgotten Google Workspace access that can lead to a breach"
+  },
+  "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/": {
+    "ts": "2026-09-08T23:17:54.545510+00:00",
+    "title": "Microsoft Patch Tuesday for September 2026 \u2014 Snort rules and prominent vulnerabilities"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves": {
+    "ts": "2026-09-08T23:17:54.545514+00:00",
+    "title": "Patch Tuesday Sets Another Record With 974 CVEs"
+  },
+  "https://www.group-ib.com/blog/classiscam-2023/": {
+    "ts": "2026-09-08T23:17:54.906043+00:00",
+    "title": "New hierarchy, heightened threat: Classiscam\u2019s sustained global campaign"
+  },
+  "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/": {
+    "ts": "2026-09-08T23:17:54.906064+00:00",
+    "title": "Microsoft Plugs Nearly 1,000 Security Holes"
+  },
+  "https://securityaffairs.com/198697/cyber-crime/hackers-drain-320-million-from-liquid-network-then-return-most-of-it.html": {
+    "ts": "2026-09-08T23:17:55.106246+00:00",
+    "title": "Hackers Drain $320 Million From Liquid Network, Then Return Most of It"
+  },
+  "https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124": {
+    "ts": "2026-09-08T23:17:55.299745+00:00",
+    "title": "OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack"
+  },
+  "https://threats.wiz.io/all-incidents/triplestrength-cloud-account-hijacking-and-cryptocurrency-mining-via-stolen-credentials": {
+    "ts": "2026-09-08T23:17:55.494899+00:00",
+    "title": "TRIPLESTRENGTH: Cloud Account Hijacking and Cryptocurrency Mining via Stolen Credentials (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/industry-attacks-surge-mobile-malware-spreads-threatlabz-2025-mobile-iot-ot": {
+    "ts": "2026-09-08T23:17:55.691352+00:00",
+    "title": "Industry Attacks Surge, Mobile Malware Spreads: The ThreatLabz 2025 Mobile, IoT &amp; OT Report"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign": {
+    "ts": "2026-09-08T23:17:55.895952+00:00",
+    "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign"
+  },
+  "https://www.group-ib.com/blog/cve-2023-38831-winrar-zero-day/": {
+    "ts": "2026-09-08T23:17:56.094521+00:00",
+    "title": "Traders\u2019 dollars in danger: CVE-2023-38831 zero-day vulnerability in WinRAR exploited by cybercriminals to target traders"
+  },
+  "https://threats.wiz.io/all-incidents/unc2165-targets-hybrid-environments-with-ransomware": {
+    "ts": "2026-09-08T23:17:56.291460+00:00",
+    "title": "UNC2165 Targets Hybrid Environments with Ransomware (Campaign)"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack": {
+    "ts": "2026-09-08T23:17:56.291481+00:00",
+    "title": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack"
+  },
+  "https://www.group-ib.com/blog/gigabud-banking-malware/": {
+    "ts": "2026-09-08T23:17:56.489322+00:00",
+    "title": "Breaking down Gigabud banking malware with Group-IB Fraud Matrix"
+  },
+  "https://threats.wiz.io/all-incidents/bapak-exploiting-stolen-cloud-access-keys": {
+    "ts": "2026-09-08T23:17:56.697059+00:00",
+    "title": "Bapak Exploiting Stolen Cloud Access Keys (Campaign)"
+  },
+  "https://www.group-ib.com/blog/cybercrime-fighters-club/": {
+    "ts": "2026-09-08T23:17:56.891994+00:00",
+    "title": "JOIN THE CYBERCRIME FIGHTERS CLUB"
+  },
+  "https://threats.wiz.io/all-incidents/codefinger-ransomware-campaign-targeting-s3-buckets": {
+    "ts": "2026-09-08T23:17:57.088533+00:00",
+    "title": "Codefinger Ransomware Campaign Targeting S3 Buckets (Campaign)"
+  },
+  "https://www.group-ib.com/blog/mysterious-team-bangladesh/": {
+    "ts": "2026-09-08T23:17:57.287767+00:00",
+    "title": "Demystifying Mysterious Team Bangladesh"
+  },
+  "https://threats.wiz.io/all-incidents/exploitation-in-the-wild-of-aviatrix-controller-rce": {
+    "ts": "2026-09-08T23:17:57.483991+00:00",
+    "title": "Exploitation in the Wild of Aviatrix Controller RCE (Campaign)"
+  },
+  "https://www.group-ib.com/blog/cloud-infrastructure-threats/": {
+    "ts": "2026-09-08T23:17:57.681137+00:00",
+    "title": "Clouded Judgment: how mismanaged cloud infrastructure can expose users to cyber risks"
+  },
+  "https://threats.wiz.io/all-incidents/campaign-targeting-publicly-exposed-management-interfaces-on-fortinet-fortigate-firewalls": {
+    "ts": "2026-09-08T23:17:57.883729+00:00",
+    "title": "Campaign Targeting Publicly Exposed Management Interfaces on Fortinet FortiGate Firewalls (Campaign)"
+  },
+  "https://www.group-ib.com/blog/cryptoslabs-investment-scams/": {
+    "ts": "2026-09-08T23:17:57.883751+00:00",
+    "title": "Busting CryptosLabs: a scam ring targeting French speakers for millions"
+  },
+  "https://threats.wiz.io/all-incidents/gravy-analytics-data-breach": {
+    "ts": "2026-09-08T23:17:57.883755+00:00",
+    "title": "Gravy Analytics data breach (Incident)"
+  },
+  "https://www.group-ib.com/blog/operation-triangulation/": {
+    "ts": "2026-09-08T23:17:58.082568+00:00",
+    "title": "Operation Triangulation: Mapping the threat"
+  },
+  "https://threats.wiz.io/all-incidents/kong-image-compromise": {
+    "ts": "2026-09-08T23:17:58.280131+00:00",
+    "title": "Kong image compromise (Incident)"
+  },
+  "https://www.group-ib.com/blog/dark-pink-episode-2/": {
+    "ts": "2026-09-08T23:17:58.481456+00:00",
+    "title": "Dark Pink. Episode 2"
+  },
+  "https://threats.wiz.io/all-incidents/us-treasury-breach": {
+    "ts": "2026-09-08T23:17:58.678790+00:00",
+    "title": "US Treasury Breach (Incident)"
+  },
+  "https://www.group-ib.com/blog/api-security-best-practices/": {
+    "ts": "2026-09-08T23:17:58.678834+00:00",
+    "title": "Bridging the gap: How to leverage API security best practices to combat top 3 vulnerability types"
   }
 }

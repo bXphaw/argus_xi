@@ -119,6 +119,56 @@
       "category": "new_technique",
       "title": "Adobe fixes critical Magento zero-day exploited to backdoor servers",
       "url": "https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "New hierarchy, heightened threat: Classiscam\u2019s sustained global campaign",
+      "url": "https://www.group-ib.com/blog/classiscam-2023/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Traders\u2019 dollars in danger: CVE-2023-38831 zero-day vulnerability in WinRAR exploited by cybercriminals to target traders",
+      "url": "https://www.group-ib.com/blog/cve-2023-38831-winrar-zero-day/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "UNC2165 Targets Hybrid Environments with Ransomware (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/unc2165-targets-hybrid-environments-with-ransomware"
+    },
+    {
+      "category": "malware_android",
+      "title": "Breaking down Gigabud banking malware with Group-IB Fraud Matrix",
+      "url": "https://www.group-ib.com/blog/gigabud-banking-malware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Bapak Exploiting Stolen Cloud Access Keys (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/bapak-exploiting-stolen-cloud-access-keys"
+    },
+    {
+      "category": "new_technique",
+      "title": "Campaign Targeting Publicly Exposed Management Interfaces on Fortinet FortiGate Firewalls (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/campaign-targeting-publicly-exposed-management-interfaces-on-fortinet-fortigate-firewalls"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Operation Triangulation: Mapping the threat",
+      "url": "https://www.group-ib.com/blog/operation-triangulation/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Kong image compromise (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/kong-image-compromise"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Dark Pink. Episode 2",
+      "url": "https://www.group-ib.com/blog/dark-pink-episode-2/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "US Treasury Breach (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/us-treasury-breach"
     }
   ],
   "last_sent_date": "2026-09-08"
