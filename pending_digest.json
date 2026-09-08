@@ -84,6 +84,41 @@
       "category": "malware_android",
       "title": "Let\u2019s dig deeper: dissecting the new Android Trojan GoldDigger with Group-IB Fraud Matrix",
       "url": "https://www.group-ib.com/blog/golddigger-fraud-matrix/"
+    },
+    {
+      "category": "new_technique",
+      "title": "ClickFix Campaigns Abuse Legitimate Services for Persistent Access",
+      "url": "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Dusting for fingerprints: ShadowSyndicate, a new RaaS player?",
+      "url": "https://www.group-ib.com/blog/shadowsyndicate-raas/"
+    },
+    {
+      "category": "malware_android",
+      "title": "WeChat Worm Can Hijack Accounts Without Victims Answering Calls",
+      "url": "https://securityaffairs.com/198688/hacking/wechat-worm-can-hijack-accounts-without-victims-answering-calls.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day",
+      "url": "https://www.securityweek.com/adobe-patches-over-170-vulnerabilities-including-commerce-zero-day/"
+    },
+    {
+      "category": "new_technique",
+      "title": "From social engineering to Lambda modification (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/from-social-engineering-to-lambda-modification"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Adobe fixes critical Magento zero-day exploited to backdoor servers",
+      "url": "https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/"
     }
   ],
   "last_sent_date": "2026-09-08"
