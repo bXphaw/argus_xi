@@ -6674,5 +6674,125 @@
   "https://threats.wiz.io/all-incidents/unc5174-linux-espionage-campaign": {
     "ts": "2026-09-07T22:41:08.408754+00:00",
     "title": "UNC5174 Linux Espionage Campaign (Campaign)"
+  },
+  "https://gbhackers.com/best-secure-web-gateway-compared/": {
+    "ts": "2026-09-08T01:01:34.704314+00:00",
+    "title": "The 12 Best Secure Web Gateway (SWG) Solutions, Compared and Priced"
+  },
+  "https://cybersecuritynews.com/microsoft-to-retire-manifest-v2-extensions/": {
+    "ts": "2026-09-08T01:03:20.396260+00:00",
+    "title": "Microsoft to Retire Manifest V2 Extensions and Switch to V3 for Improved Security and Performance"
+  },
+  "https://gbhackers.com/tengu-mirai-style-linux-bot/": {
+    "ts": "2026-09-08T01:03:20.823998+00:00",
+    "title": "Tengu Mirai-Style Linux Bot Hides as Kernel Worker to Launch DDoS and Proxy Attacks"
+  },
+  "https://www.group-ib.com/blog/cyber-fraud-prevention/": {
+    "ts": "2026-09-08T01:03:20.824020+00:00",
+    "title": "Breaking silos: The convergence of cybersecurity and fraud prevention"
+  },
+  "https://threats.wiz.io/all-incidents/crazyhunter-ransomware-group-targets-critical-sectors-in-taiwan": {
+    "ts": "2026-09-08T01:03:21.022031+00:00",
+    "title": "CrazyHunter Ransomware Group Targets Critical Sectors in Taiwan (Campaign)"
+  },
+  "https://cybersecuritynews.com/connectwise-screenconnect-remote-access-flaw/": {
+    "ts": "2026-09-08T01:03:21.022053+00:00",
+    "title": "ConnectWise Warns of New ScreenConnect Remote Access Flaw \u2013 Released Mitigation Steps"
+  },
+  "https://gbhackers.com/best-wifi-security-solutions-compared/": {
+    "ts": "2026-09-08T01:03:21.216790+00:00",
+    "title": "The 12 Best Wireless / Wi-Fi Security Solutions, Compared and Priced"
+  },
+  "https://www.group-ib.com/blog/eldorado-ransomware/": {
+    "ts": "2026-09-08T01:03:21.416360+00:00",
+    "title": "Eldorado Ransomware: The New Golden Empire of Cybercrime?"
+  },
+  "https://threats.wiz.io/all-incidents/aws-breach-at-a-saas-company": {
+    "ts": "2026-09-08T01:03:21.611734+00:00",
+    "title": "AWS Breach at a SaaS Company (Incident)"
+  },
+  "https://cybersecuritynews.com/new-linux-bot/": {
+    "ts": "2026-09-08T01:03:21.813589+00:00",
+    "title": "New Linux Bot Hides as Kernel Process and Launches DDoS Attacks"
+  },
+  "https://gbhackers.com/best-network-sandboxing-compared/": {
+    "ts": "2026-09-08T01:03:22.008647+00:00",
+    "title": "The 12 Best Network Sandboxing Solutions, Compared and Priced"
+  },
+  "https://www.group-ib.com/blog/mssp-competitive-edge/": {
+    "ts": "2026-09-08T01:03:22.008667+00:00",
+    "title": "Boost your MSSP\u2019s competitive edge: New strategies for leveraging Threat Intelligence"
+  },
+  "https://threats.wiz.io/all-incidents/bpfdoors-hidden-controller-targets-amea-sectors": {
+    "ts": "2026-09-08T01:03:22.204692+00:00",
+    "title": "BPFDoor\u2019s Hidden Controller Targets AMEA Sectors (Campaign)"
+  },
+  "https://cybersecuritynews.com/openai-commits-1-billion/": {
+    "ts": "2026-09-08T01:03:22.204711+00:00",
+    "title": "OpenAI Commits $1 Billion to Give Critical Infrastructure Defenders Frontier AI Cyber Tools"
+  },
+  "https://gbhackers.com/best-sdp-solutions-compared/": {
+    "ts": "2026-09-08T01:03:22.204714+00:00",
+    "title": "The 12 Best Software-Defined Perimeter (SDP) Solutions, Compared and Priced"
+  },
+  "https://www.group-ib.com/blog/craxs-rat-malware/": {
+    "ts": "2026-09-08T01:03:22.400843+00:00",
+    "title": "Craxs Rat, the master tool behind fake app scams and banking fraud"
+  },
+  "https://threats.wiz.io/all-incidents/atlas-lion-campaign-exploits-device-enrollment-and-mfa-for-persistence": {
+    "ts": "2026-09-08T01:03:22.595317+00:00",
+    "title": "Atlas Lion Campaign Exploits Device Enrollment and MFA for Persistence (Campaign)"
+  },
+  "https://www.group-ib.com/blog/boolka/": {
+    "ts": "2026-09-08T01:03:22.792656+00:00",
+    "title": "Boolka Unveiled: From web attacks to modular malware"
+  },
+  "https://threats.wiz.io/all-incidents/long-term-email-breach-at-occ-exposes-sensitive-bank-oversight-data": {
+    "ts": "2026-09-08T01:03:22.792675+00:00",
+    "title": "Long-Term Email Breach at OCC Exposes Sensitive Bank Oversight Data (Incident)"
+  },
+  "https://www.group-ib.com/blog/goldpickaxe-ios-trojan/": {
+    "ts": "2026-09-08T01:03:22.989029+00:00",
+    "title": "GoldPickaxe exposed: How Group-IB analyzed the face-stealing iOS Trojan and how to do it yourself"
+  },
+  "https://threats.wiz.io/all-incidents/europecar-gitlab-breach": {
+    "ts": "2026-09-08T01:03:22.989051+00:00",
+    "title": "Europecar Gitlab Breach (Incident)"
+  },
+  "https://www.group-ib.com/blog/genai-or-not-genai/": {
+    "ts": "2026-09-08T01:03:23.189848+00:00",
+    "title": "Reorienting Cybersecurity: To GenAI or not to GenAI?"
+  },
+  "https://threats.wiz.io/all-incidents/critical-ivanti-connect-secure-vulnerability-exploited-by-china-linked-actor": {
+    "ts": "2026-09-08T01:03:23.385251+00:00",
+    "title": "Critical Ivanti Connect Secure Vulnerability Exploited by China-linked Actor (Campaign)"
+  },
+  "https://www.group-ib.com/blog/gdpr/": {
+    "ts": "2026-09-08T01:03:23.584446+00:00",
+    "title": "GDPR: A shield for consumers, a shackle for fraud fighters?"
+  },
+  "https://threats.wiz.io/all-incidents/weaver-ant-data-exfiltration-campaign": {
+    "ts": "2026-09-08T01:03:23.777989+00:00",
+    "title": "Weaver Ant data exfiltration campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/generative-ai/": {
+    "ts": "2026-09-08T01:03:23.973122+00:00",
+    "title": "Generative AI: Raising the stakes for fraud in iGaming"
+  },
+  "https://threats.wiz.io/all-incidents/albabat-ransomware-targets-windows-linux-and-macos-using-github-infrastructure": {
+    "ts": "2026-09-08T01:03:24.168632+00:00",
+    "title": "Albabat Ransomware Targets Windows, Linux, and macOS Using GitHub Infrastructure (Campaign)"
+  },
+  "https://www.group-ib.com/blog/labhost-operation/": {
+    "ts": "2026-09-08T01:03:24.374075+00:00",
+    "title": "Phishy Business: Unraveling LabHost\u2019s scam ecosystem"
+  },
+  "https://threats.wiz.io/all-incidents/oracle-cloud-potential-supply-chain-breach": {
+    "ts": "2026-09-08T01:03:24.374095+00:00",
+    "title": "Oracle Cloud Potential Supply Chain Breach (Incident)"
+  },
+  "https://www.group-ib.com/blog/hunting-rituals-4/": {
+    "ts": "2026-09-08T01:03:24.374099+00:00",
+    "title": "Hunting Rituals #4: Threat hunting for execution via Windows Management Instrumentation"
   }
 }

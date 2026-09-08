@@ -164,6 +164,51 @@
       "category": "apt_campaign",
       "title": "UNC5174 Linux Espionage Campaign (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/unc5174-linux-espionage-campaign"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Tengu Mirai-Style Linux Bot Hides as Kernel Worker to Launch DDoS and Proxy Attacks",
+      "url": "https://gbhackers.com/tengu-mirai-style-linux-bot/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "CrazyHunter Ransomware Group Targets Critical Sectors in Taiwan (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/crazyhunter-ransomware-group-targets-critical-sectors-in-taiwan"
+    },
+    {
+      "category": "malware_linux",
+      "title": "BPFDoor\u2019s Hidden Controller Targets AMEA Sectors (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/bpfdoors-hidden-controller-targets-amea-sectors"
+    },
+    {
+      "category": "malware_android",
+      "title": "Craxs Rat, the master tool behind fake app scams and banking fraud",
+      "url": "https://www.group-ib.com/blog/craxs-rat-malware/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Atlas Lion Campaign Exploits Device Enrollment and MFA for Persistence (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/atlas-lion-campaign-exploits-device-enrollment-and-mfa-for-persistence"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Boolka Unveiled: From web attacks to modular malware",
+      "url": "https://www.group-ib.com/blog/boolka/"
+    },
+    {
+      "category": "malware_ios",
+      "title": "GoldPickaxe exposed: How Group-IB analyzed the face-stealing iOS Trojan and how to do it yourself",
+      "url": "https://www.group-ib.com/blog/goldpickaxe-ios-trojan/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Albabat Ransomware Targets Windows, Linux, and macOS Using GitHub Infrastructure (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/albabat-ransomware-targets-windows-linux-and-macos-using-github-infrastructure"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Phishy Business: Unraveling LabHost\u2019s scam ecosystem",
+      "url": "https://www.group-ib.com/blog/labhost-operation/"
     }
   ],
   "last_sent_date": "2026-09-07"
