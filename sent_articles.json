@@ -6794,5 +6794,125 @@
   "https://www.group-ib.com/blog/hunting-rituals-4/": {
     "ts": "2026-09-08T01:03:24.374099+00:00",
     "title": "Hunting Rituals #4: Threat hunting for execution via Windows Management Instrumentation"
+  },
+  "https://gbhackers.com/bimbo-bakeries-usa-data-breach-exposes-ssns/": {
+    "ts": "2026-09-08T07:03:42.920746+00:00",
+    "title": "Bimbo Bakeries USA Data Breach Exposes SSNs in Oracle E-Business Suite Zero-Day Attack"
+  },
+  "https://threats.wiz.io/all-incidents/tj-actionschanged-files-supply-chain-attack": {
+    "ts": "2026-09-08T07:03:45.049088+00:00",
+    "title": "tj-actions/changed-files supply chain attack (Incident)"
+  },
+  "https://gbhackers.com/new-injecteave-attack-lets-hackers-eavesdrop-on-headphone/": {
+    "ts": "2026-09-08T07:03:57.178205+00:00",
+    "title": "New InjectEave Attack Lets Hackers Eavesdrop on Headphone Audio From 30 Meters Away"
+  },
+  "https://www.group-ib.com/blog/cybersecurity-trends-part-1/": {
+    "ts": "2026-09-08T07:04:03.439101+00:00",
+    "title": "The future is now: Watch out for these 20 trends that will change the course of cybersecurity (Part 1)"
+  },
+  "https://cybersecuritynews.com/injecteave-attack/": {
+    "ts": "2026-09-08T07:05:38.057948+00:00",
+    "title": "New InjectEave Attack Allows Hackers to Recover Audio Playing on Headphones from 30 Meters"
+  },
+  "https://gbhackers.com/microsoft-365-sessions-hijacked/": {
+    "ts": "2026-09-08T07:05:38.243543+00:00",
+    "title": "Hackers Steal Microsoft 365 Sessions to Hijack Accounts Even After MFA"
+  },
+  "https://www.group-ib.com/blog/ransomware-2026-incident-response-data/": {
+    "ts": "2026-09-08T07:05:38.243559+00:00",
+    "title": "Ransomware in 2026: What the Data Demands From You"
+  },
+  "https://www.helpnetsecurity.com/2026/09/08/ransomware-negotiation-tactics-video/": {
+    "ts": "2026-09-08T07:05:38.243593+00:00",
+    "title": "Ransomware negotiation tactics have turned into a business process"
+  },
+  "https://threats.wiz.io/all-incidents/exposed-jupyter-notebooks-targeted-for-cryptomining": {
+    "ts": "2026-09-08T07:05:38.432170+00:00",
+    "title": "Exposed Jupyter Notebooks Targeted for Cryptomining (Campaign)"
+  },
+  "https://www.group-ib.com/blog/pegasus-spyware/": {
+    "ts": "2026-09-08T07:05:38.618698+00:00",
+    "title": "In-Depth Analysis of Pegasus Spyware and How To Detect It on Your Mobile Devices"
+  },
+  "https://www.helpnetsecurity.com/2026/09/08/product-showcase-doppler-secrets-management-platform/": {
+    "ts": "2026-09-08T07:05:38.796067+00:00",
+    "title": "Product showcase: Doppler secures secrets for humans, pipelines, and AI agents"
+  },
+  "https://gbhackers.com/npm-worm-returns-after-111-days/": {
+    "ts": "2026-09-08T07:05:38.979289+00:00",
+    "title": "Known npm Worm Returns After 111 Days and Security Scanning Still Let It Through"
+  },
+  "https://www.group-ib.com/blog/vietcredcare-stealer/": {
+    "ts": "2026-09-08T07:05:39.171304+00:00",
+    "title": "Extra credit: VietCredCare information stealer takes aim at Vietnamese businesses"
+  },
+  "https://www.helpnetsecurity.com/2026/09/08/microsoft-project-zenith-windows-11-experience/": {
+    "ts": "2026-09-08T07:05:39.361448+00:00",
+    "title": "Microsoft\u2019s Project Zenith puts large AI models directly on developer PCs"
+  },
+  "https://threats.wiz.io/all-incidents/cdc-dangling-domain-hijack": {
+    "ts": "2026-09-08T07:05:39.552154+00:00",
+    "title": "CDC dangling domain hijack (Incident)"
+  },
+  "https://gbhackers.com/switzerland-builds-open-source-workplace-platform/": {
+    "ts": "2026-09-08T07:05:39.552172+00:00",
+    "title": "Switzerland Builds Open-Source Workplace Platform to Operate Alongside Microsoft 365"
+  },
+  "https://www.group-ib.com/blog/goldfactory-ios-trojan/": {
+    "ts": "2026-09-08T07:05:39.740336+00:00",
+    "title": "Face Off: Group-IB identifies first iOS trojan stealing facial recognition data"
+  },
+  "https://www.helpnetsecurity.com/2026/09/08/cybersecurity-jobs-available-right-now-september-8-2026/": {
+    "ts": "2026-09-08T07:05:39.740353+00:00",
+    "title": "Cybersecurity jobs available right now: September 8, 2026"
+  },
+  "https://threats.wiz.io/all-incidents/php-cgi-vulnerability-exploited-in-attacks-targeting-japan": {
+    "ts": "2026-09-08T07:05:39.921539+00:00",
+    "title": "PHP-CGI Vulnerability Exploited in Attacks Targeting Japan (Campaign)"
+  },
+  "https://gbhackers.com/mathspace-data-breach-exposes-personal-data-of-over-1-million/": {
+    "ts": "2026-09-08T07:05:39.921557+00:00",
+    "title": "Mathspace Data Breach Exposes Personal Data of Over 1 Million Students, Parents and Staff"
+  },
+  "https://www.group-ib.com/blog/resumelooters/": {
+    "ts": "2026-09-08T07:05:40.114235+00:00",
+    "title": "Dead-end job: ResumeLooters infect websites in APAC through SQL injection and XSS attacks"
+  },
+  "https://threats.wiz.io/all-incidents/silk-typhoon-targeting-it-and-cloud-applications": {
+    "ts": "2026-09-08T07:05:40.303178+00:00",
+    "title": "Silk Typhoon Targeting IT and Cloud Applications (Campaign)"
+  },
+  "https://www.group-ib.com/blog/inferno-drainer/": {
+    "ts": "2026-09-08T07:05:40.488230+00:00",
+    "title": "Inferno Drainer: A Deep Dive into Crypto Wallet-Draining Malware"
+  },
+  "https://threats.wiz.io/all-incidents/zapier-data-breach": {
+    "ts": "2026-09-08T07:05:40.488246+00:00",
+    "title": "Zapier data breach (Incident)"
+  },
+  "https://www.group-ib.com/blog/hunting-rituals-3/": {
+    "ts": "2026-09-08T07:05:40.672440+00:00",
+    "title": "Hunting Rituals #3: Threat hunting for scheduled tasks"
+  },
+  "https://threats.wiz.io/all-incidents/javaghost-ses-abuse": {
+    "ts": "2026-09-08T07:05:40.857134+00:00",
+    "title": "JavaGhost SES abuse (Campaign)"
+  },
+  "https://www.group-ib.com/blog/cybersecurity-trends-part-2/": {
+    "ts": "2026-09-08T07:05:41.040455+00:00",
+    "title": "The future is now: Watch out for these 20 trends that will change the course of cybersecurity (Part 2)"
+  },
+  "https://threats.wiz.io/all-incidents/cpuhu-malicious-campaign-targeting-misconfigured-postgresql-servers-for-cryptomining": {
+    "ts": "2026-09-08T07:05:41.232730+00:00",
+    "title": "CPU_HU: Malicious Campaign Targeting Misconfigured PostgreSQL Servers for Cryptomining (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/bybit-hack": {
+    "ts": "2026-09-08T07:05:41.421806+00:00",
+    "title": "ByBit hack (Incident)"
+  },
+  "https://www.group-ib.com/blog/you-versus-adversaries-part-2/": {
+    "ts": "2026-09-08T07:05:41.421823+00:00",
+    "title": "You versus adversaries: How to become unbeatable in 20 cybersecurity moves (Part 2)"
   }
 }
