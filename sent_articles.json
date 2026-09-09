@@ -7394,5 +7394,125 @@
   "https://www.group-ib.com/blog/api-security-best-practices/": {
     "ts": "2026-09-08T23:17:58.678834+00:00",
     "title": "Bridging the gap: How to leverage API security best practices to combat top 3 vulnerability types"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/": {
+    "ts": "2026-09-09T03:54:29.339386+00:00",
+    "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults"
+  },
+  "https://www.group-ib.com/blog/hunting-sidewinder/": {
+    "ts": "2026-09-09T03:54:29.555148+00:00",
+    "title": "The distinctive rattle of APT SideWinder"
+  },
+  "https://www.rapid7.com/blog/post/em-patch-tuesday-september-2026": {
+    "ts": "2026-09-09T03:54:29.555165+00:00",
+    "title": "Patch Tuesday - September 2026"
+  },
+  "https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160": {
+    "ts": "2026-09-09T03:54:29.555168+00:00",
+    "title": "Microsoft breaks Patch Tuesday record with 974-CVE deluge"
+  },
+  "https://threats.wiz.io/all-incidents/volkswagen-massive-data-leak-through-spring-boot-actuator-misconfiguration": {
+    "ts": "2026-09-09T03:54:29.555171+00:00",
+    "title": "Volkswagen massive data leak through Spring Boot Actuator misconfiguration (Incident)"
+  },
+  "https://www.group-ib.com/blog/qilin-ransomware/": {
+    "ts": "2026-09-09T03:54:29.744819+00:00",
+    "title": "The Qilin Ransomware: Analysis and Protection Strategies"
+  },
+  "https://threats.wiz.io/all-incidents/ec2-grouper-campaign": {
+    "ts": "2026-09-09T03:54:29.935552+00:00",
+    "title": "EC2 Grouper Campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/managed-xdr-updates/": {
+    "ts": "2026-09-09T03:54:29.935562+00:00",
+    "title": "Managed upgrades. Enhance malware analysis efficiency with Group-IB Malware Detonation Platform updates"
+  },
+  "https://threats.wiz.io/all-incidents/zagg-customer-data-compromised-via-hijacked-freshclicks-bigcommerce-app": {
+    "ts": "2026-09-09T03:54:29.935565+00:00",
+    "title": "ZAGG customer data compromised via hijacked FreshClicks BigCommerce app (Incident)"
+  },
+  "https://www.group-ib.com/blog/meta-phishing-campaign/": {
+    "ts": "2026-09-09T03:54:29.935567+00:00",
+    "title": "Tech (non)support: Scammers pose as Meta in Facebook account grab ploy"
+  },
+  "https://threats.wiz.io/all-incidents/phishing-campaign-leading-to-azure-account-takeover": {
+    "ts": "2026-09-09T03:54:30.128021+00:00",
+    "title": "Phishing campaign leading to Azure account takeover (Campaign)"
+  },
+  "https://www.group-ib.com/blog/phishing-investigation-guide/": {
+    "ts": "2026-09-09T03:54:30.323136+00:00",
+    "title": "Investigation into PostalFurious: a Chinese-speaking phishing gang targeting Singapore and Australia"
+  },
+  "https://threats.wiz.io/all-incidents/diicot-campaign-targeting-linux-environments": {
+    "ts": "2026-09-09T03:54:30.511076+00:00",
+    "title": "Diicot Campaign Targeting Linux Environments (Campaign)"
+  },
+  "https://www.group-ib.com/blog/muddywater-infrastructure/": {
+    "ts": "2026-09-09T03:54:30.699420+00:00",
+    "title": "SimpleHarm: Tracking MuddyWater\u2019s infrastructure"
+  },
+  "https://threats.wiz.io/all-incidents/rce-vulnerability-in-apache-struts-targeted-by-attackers": {
+    "ts": "2026-09-09T03:54:30.885465+00:00",
+    "title": "RCE Vulnerability in Apache Struts Targeted by Attackers (Campaign)"
+  },
+  "https://www.group-ib.com/blog/bablock-ransomware/": {
+    "ts": "2026-09-09T03:54:31.072371+00:00",
+    "title": "The old way: BabLock, new ransomware quietly cruising around Europe, Middle East, and Asia"
+  },
+  "https://threats.wiz.io/all-incidents/php-targeted-with-glutton-backdoor": {
+    "ts": "2026-09-09T03:54:31.259002+00:00",
+    "title": "PHP Targeted with Glutton backdoor (Campaign)"
+  },
+  "https://www.group-ib.com/blog/3cx-supply-chain-attack/": {
+    "ts": "2026-09-09T03:54:31.446423+00:00",
+    "title": "36gate: supply chain attack"
+  },
+  "https://threats.wiz.io/all-incidents/llm-hijacking-targeting-aws": {
+    "ts": "2026-09-09T03:54:31.630810+00:00",
+    "title": "LLM Hijacking Targeting AWS (Campaign)"
+  },
+  "https://www.group-ib.com/blog/venomous-vacancies/": {
+    "ts": "2026-09-09T03:54:31.630824+00:00",
+    "title": "Venomous vacancies: Job seekers across MEA hit by sting in scammers\u2019 tail"
+  },
+  "https://threats.wiz.io/all-incidents/cleo-vulnerabilities-targeted-by-cl0p-ransomware": {
+    "ts": "2026-09-09T03:54:31.822371+00:00",
+    "title": "Cleo Vulnerabilities Targeted by Cl0p Ransomware (Campaign)"
+  },
+  "https://www.group-ib.com/blog/bleak-outlook/": {
+    "ts": "2026-09-09T03:54:32.006390+00:00",
+    "title": "Bleak outlook: Mitigating CVE-2023-23397"
+  },
+  "https://threats.wiz.io/all-incidents/byte-federal-data-breach-via-gitlab-vulnerability": {
+    "ts": "2026-09-09T03:54:32.198640+00:00",
+    "title": "Byte Federal Data Breach via Gitlab Vulnerability (Incident)"
+  },
+  "https://www.group-ib.com/blog/banking-malware/": {
+    "ts": "2026-09-09T03:54:32.390412+00:00",
+    "title": "Bad Behaviour: How to detect banking trojans"
+  },
+  "https://threats.wiz.io/all-incidents/attacks-abusing-amazon-ses": {
+    "ts": "2026-09-09T03:54:32.577205+00:00",
+    "title": "Attacks abusing Amazon SES (Incident)"
+  },
+  "https://www.group-ib.com/blog/malware-bundles/": {
+    "ts": "2026-09-09T03:54:32.764328+00:00",
+    "title": "Package deal: Malware bundles causing disruption and damage across EMEA"
+  },
+  "https://threats.wiz.io/all-incidents/state-sponsored-apt-abuse-visual-studio-code-in-attacks": {
+    "ts": "2026-09-09T03:54:32.956964+00:00",
+    "title": "State-Sponsored APT Abuse Visual Studio Code in Attacks (Campaign)"
+  },
+  "https://www.group-ib.com/blog/tonto-team/": {
+    "ts": "2026-09-09T03:54:33.144420+00:00",
+    "title": "Nice Try Tonto Team"
+  },
+  "https://threats.wiz.io/all-incidents/ultralytics-compromise": {
+    "ts": "2026-09-09T03:54:33.331944+00:00",
+    "title": "Ultralytics compromise (Incident)"
+  },
+  "https://www.group-ib.com/blog/know-thy-enemy/": {
+    "ts": "2026-09-09T03:54:33.331959+00:00",
+    "title": "Know Thy Enemy: unraveling the \u201cHi-Tech Crime Trends 2022/2023\u201d report"
   }
 }

@@ -169,6 +169,61 @@
       "category": "apt_campaign",
       "title": "US Treasury Breach (Incident)",
       "url": "https://threats.wiz.io/all-incidents/us-treasury-breach"
+    },
+    {
+      "category": "threat_actor",
+      "title": "The distinctive rattle of APT SideWinder",
+      "url": "https://www.group-ib.com/blog/hunting-sidewinder/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "The Qilin Ransomware: Analysis and Protection Strategies",
+      "url": "https://www.group-ib.com/blog/qilin-ransomware/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "EC2 Grouper Campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/ec2-grouper-campaign"
+    },
+    {
+      "category": "malware_windows",
+      "title": "The old way: BabLock, new ransomware quietly cruising around Europe, Middle East, and Asia",
+      "url": "https://www.group-ib.com/blog/bablock-ransomware/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "PHP Targeted with Glutton backdoor (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/php-targeted-with-glutton-backdoor"
+    },
+    {
+      "category": "malware_windows",
+      "title": "36gate: supply chain attack",
+      "url": "https://www.group-ib.com/blog/3cx-supply-chain-attack/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "LLM Hijacking Targeting AWS (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/llm-hijacking-targeting-aws"
+    },
+    {
+      "category": "new_technique",
+      "title": "Package deal: Malware bundles causing disruption and damage across EMEA",
+      "url": "https://www.group-ib.com/blog/malware-bundles/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "State-Sponsored APT Abuse Visual Studio Code in Attacks (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/state-sponsored-apt-abuse-visual-studio-code-in-attacks"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Nice Try Tonto Team",
+      "url": "https://www.group-ib.com/blog/tonto-team/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Ultralytics compromise (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/ultralytics-compromise"
     }
   ],
   "last_sent_date": "2026-09-08"
