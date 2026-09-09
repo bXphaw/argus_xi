@@ -149,6 +149,51 @@
       "category": "malware_android",
       "title": "GoldFactory Weaponizes Open-Source Vwork App Cloner in Gigabud Banking Malware Attacks",
       "url": "https://gbhackers.com/gigabud-banking-malware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Switching side jobs",
+      "url": "https://www.group-ib.com/blog/switching-side-jobs/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
+      "url": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "EMERALDWHALE Attacks Targeting Exposed Git Config Files (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/emeraldwhale-attacks-targeting-exposed-git-config-files"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Triad Nexus: Funnull malicious campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/triad-nexus-funnull-malicious-campaign"
+    },
+    {
+      "category": "malware_linux",
+      "title": "perfctl campaign targeting Docker API (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/perfctl-campaign-targeting-docker-api"
+    },
+    {
+      "category": "threat_actor",
+      "title": "SideWinder.AntiBot.Script",
+      "url": "https://www.group-ib.com/blog/sidewinder-antibot/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Earth Simnavaz (APT34) Targeting UAE and Gulf Regions (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/earth-simnavaz-apt34-targeting-uae-and-gulf-regions"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Old Gremlins, new methods",
+      "url": "https://www.group-ib.com/blog/oldgremlin-comeback/"
     }
   ],
   "last_sent_date": "2026-09-09"

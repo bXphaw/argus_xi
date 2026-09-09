@@ -7994,5 +7994,125 @@
   "https://www.group-ib.com/blog/apt41-world-tour-2021/": {
     "ts": "2026-09-09T20:45:18.667706+00:00",
     "title": "APT41 World Tour 2021 on a tight schedule"
+  },
+  "https://threats.wiz.io/all-incidents/prometei-campaign": {
+    "ts": "2026-09-09T23:04:30.701543+00:00",
+    "title": "Prometei campaign (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/": {
+    "ts": "2026-09-09T23:06:02.539867+00:00",
+    "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks"
+  },
+  "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck": {
+    "ts": "2026-09-09T23:06:02.539889+00:00",
+    "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck"
+  },
+  "https://www.group-ib.com/blog/switching-side-jobs/": {
+    "ts": "2026-09-09T23:06:02.731660+00:00",
+    "title": "Switching side jobs"
+  },
+  "https://www.silentpush.com/blog/built-to-get-there-first/?utm_source=rss&utm_medium=rss&utm_campaign=built-to-get-there-first": {
+    "ts": "2026-09-09T23:06:02.731681+00:00",
+    "title": "Silent Push 6.1: Built to Get There First"
+  },
+  "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html": {
+    "ts": "2026-09-09T23:06:02.910819+00:00",
+    "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed"
+  },
+  "https://www.theregister.com/research/2026/09/09/novel-blue-moon-kit-targeting-chrome-and-windows-reflects-new-reality-of-ai-driven-exploits/5295399": {
+    "ts": "2026-09-09T23:06:03.095746+00:00",
+    "title": "Novel Blue Moon kit targeting Chrome and Windows reflects new reality of AI-driven exploits"
+  },
+  "https://threats.wiz.io/all-incidents/sharepoint-vulnerability-exploited-in-the-wild": {
+    "ts": "2026-09-09T23:06:03.286340+00:00",
+    "title": "SharePoint Vulnerability Exploited in-the-Wild (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/": {
+    "ts": "2026-09-09T23:06:03.465550+00:00",
+    "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack"
+  },
+  "https://www.group-ib.com/blog/malibot/": {
+    "ts": "2026-09-09T23:06:03.657781+00:00",
+    "title": "Challenge accepted"
+  },
+  "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html": {
+    "ts": "2026-09-09T23:06:03.843013+00:00",
+    "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution"
+  },
+  "https://threats.wiz.io/all-incidents/emeraldwhale-attacks-targeting-exposed-git-config-files": {
+    "ts": "2026-09-09T23:06:04.027861+00:00",
+    "title": "EMERALDWHALE Attacks Targeting Exposed Git Config Files (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/": {
+    "ts": "2026-09-09T23:06:04.027883+00:00",
+    "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking"
+  },
+  "https://www.group-ib.com/blog/investment-scams-europe/": {
+    "ts": "2026-09-09T23:06:04.027889+00:00",
+    "title": "Fake investment scams in Europe"
+  },
+  "https://threats.wiz.io/all-incidents/amazon-db-exposed-with-prime-video-viewing-habits": {
+    "ts": "2026-09-09T23:06:04.027893+00:00",
+    "title": "Amazon DB exposed with Prime Video viewing habits (Research)"
+  },
+  "https://www.group-ib.com/blog/managed-xdr/": {
+    "ts": "2026-09-09T23:06:04.027896+00:00",
+    "title": "Under the Hood. Group-IB Managed XDR"
+  },
+  "https://threats.wiz.io/all-incidents/teamtnts-docker-gatling-gun-campaign": {
+    "ts": "2026-09-09T23:06:04.220639+00:00",
+    "title": "TeamTNT\u2019s Docker Gatling Gun Campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/unified-risk-platform/": {
+    "ts": "2026-09-09T23:06:04.413039+00:00",
+    "title": "Group-IB introduces the Unified Risk Platform"
+  },
+  "https://threats.wiz.io/all-incidents/unc5820-exploiting-fortimanager-flaw": {
+    "ts": "2026-09-09T23:06:04.615225+00:00",
+    "title": "UNC5820 exploiting FortiManager flaw (Campaign)"
+  },
+  "https://www.group-ib.com/blog/gozi-latest-ttps/": {
+    "ts": "2026-09-09T23:06:04.799369+00:00",
+    "title": "We see you, Gozi"
+  },
+  "https://www.group-ib.com/blog/rostovtsev/": {
+    "ts": "2026-09-09T23:06:04.993648+00:00",
+    "title": "\u201cWe find many things that others do not even see\u201d"
+  },
+  "https://threats.wiz.io/all-incidents/triad-nexus-funnull-malicious-campaign": {
+    "ts": "2026-09-09T23:06:05.172864+00:00",
+    "title": "Triad Nexus: Funnull malicious campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/brazil-exposed-db/": {
+    "ts": "2026-09-09T23:06:05.172882+00:00",
+    "title": "Thousands of IDs exposed in yet another data breach in Brazil"
+  },
+  "https://threats.wiz.io/all-incidents/perfctl-campaign-targeting-docker-api": {
+    "ts": "2026-09-09T23:06:05.360022+00:00",
+    "title": "perfctl campaign targeting Docker API (Campaign)"
+  },
+  "https://www.group-ib.com/blog/phishing-vietnam-banks/": {
+    "ts": "2026-09-09T23:06:05.360041+00:00",
+    "title": "Swiss Army Knife Phishing"
+  },
+  "https://threats.wiz.io/all-incidents/ea-cross-user-access-via-api": {
+    "ts": "2026-09-09T23:06:05.360045+00:00",
+    "title": "EA cross-user access via API (Research)"
+  },
+  "https://www.group-ib.com/blog/sidewinder-antibot/": {
+    "ts": "2026-09-09T23:06:05.557197+00:00",
+    "title": "SideWinder.AntiBot.Script"
+  },
+  "https://threats.wiz.io/all-incidents/earth-simnavaz-apt34-targeting-uae-and-gulf-regions": {
+    "ts": "2026-09-09T23:06:05.739790+00:00",
+    "title": "Earth Simnavaz (APT34) Targeting UAE and Gulf Regions (Campaign)"
+  },
+  "https://www.group-ib.com/blog/oldgremlin-comeback/": {
+    "ts": "2026-09-09T23:06:05.951973+00:00",
+    "title": "Old Gremlins, new methods"
+  },
+  "https://threats.wiz.io/all-incidents/game-freak-data-leak": {
+    "ts": "2026-09-09T23:06:05.951994+00:00",
+    "title": "Game Freak data leak (Incident)"
   }
 }
