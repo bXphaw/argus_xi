@@ -1,4 +1,45 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "threat_actor",
+      "title": "Cybercriminals Hack Brazilian Government Servers to Host Phishing Sites",
+      "url": "https://www.darkreading.com/threat-intelligence/cybercriminals-hack-brazilian-government-servers-host-phishing-sites"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Understanding Money Mules: The Hidden Link in Cybercrime",
+      "url": "https://www.group-ib.com/blog/money-mules/"
+    },
+    {
+      "category": "malware_android",
+      "title": "WeChat worm could pwn a friend before they even answered the call",
+      "url": "https://www.theregister.com/security/2026/09/09/wechat-worm-could-pwn-a-friend-before-they-even-answered-the-call/5295234"
+    },
+    {
+      "category": "new_technique",
+      "title": "Sports Piracy Exploiting Misconfigured Jupyter Servers (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/sports-piracy-exploiting-misconfigured-jupyter-servers"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Hackers deploy Linux rootkit on F5 BIG-IP APM devices, hiding web shell in memory",
+      "url": "https://www.helpnetsecurity.com/2026/09/09/f5-big-ip-apm-rootkit-hides-web-shell-in-memory/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "August 2026 CVE Landscape",
+      "url": "https://www.recordedfuture.com/blog/august-2026-cve-landscape"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Arm\u00e9s et dangereux : une soif d\u2019argent inextinguible L\u2019APT OPERA1ER en Afrique",
+      "url": "https://www.group-ib.com/blog/opera1er-apt-fr/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Chinese AI firms are siphoning capabilities from American models, CISA warns",
+      "url": "https://www.helpnetsecurity.com/2026/09/09/china-malicious-ai-knowledge-distillation-against-us-companies/"
+    }
+  ],
   "last_sent_date": "2026-09-09"
 }

@@ -7634,5 +7634,125 @@
   "https://cybersecuritynews.com/best-mobile-threat-defense-solutions/": {
     "ts": "2026-09-09T08:52:28.748725+00:00",
     "title": "Top 10 Best Mobile Threat Defense (MTD) Solutions in 2026"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/microsoft-fixes-record-964-flaws-including-2-exploited-zero-days": {
+    "ts": "2026-09-09T13:35:03.617637+00:00",
+    "title": "Microsoft fixes record 964 flaws, including 2 exploited zero-days"
+  },
+  "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/": {
+    "ts": "2026-09-09T13:36:56.246708+00:00",
+    "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws"
+  },
+  "https://cybersecuritynews.com/n-able-n-central-rce/": {
+    "ts": "2026-09-09T13:36:56.246724+00:00",
+    "title": "CISA Warns of N-able N-central RCE Vulnerability Exploited in the Wild"
+  },
+  "https://www.darkreading.com/threat-intelligence/cybercriminals-hack-brazilian-government-servers-host-phishing-sites": {
+    "ts": "2026-09-09T13:36:56.419345+00:00",
+    "title": "Cybercriminals Hack Brazilian Government Servers to Host Phishing Sites"
+  },
+  "https://www.group-ib.com/blog/money-mules/": {
+    "ts": "2026-09-09T13:36:56.464525+00:00",
+    "title": "Understanding Money Mules: The Hidden Link in Cybercrime"
+  },
+  "https://www.helpnetsecurity.com/2026/09/09/singapore-man-pleads-guilty-245-million-crypto-theft/": {
+    "ts": "2026-09-09T13:36:56.464541+00:00",
+    "title": "$245 million in stolen crypto funded racketeering crew\u2019s lavish lifestyle"
+  },
+  "https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/": {
+    "ts": "2026-09-09T13:36:56.511836+00:00",
+    "title": "Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure"
+  },
+  "https://www.recordedfuture.com/blog/unified-brand-identity-monitoring": {
+    "ts": "2026-09-09T13:36:56.558232+00:00",
+    "title": "Recorded Future Launches Digital Risk Protection, Unifying Brand and Identity Monitoring"
+  },
+  "https://securityaffairs.com/198746/malware/poisonedrefresh-a-fileless-linux-rootkit-that-injects-php-web-shells-into-f5-big-ip-apm-server-memory.html": {
+    "ts": "2026-09-09T13:36:56.602284+00:00",
+    "title": "PoisonedRefresh: A Fileless Linux Rootkit That Injects PHP Web Shells Into F5 BIG-IP APM Server Memory"
+  },
+  "https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/": {
+    "ts": "2026-09-09T13:36:56.648525+00:00",
+    "title": "US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities"
+  },
+  "https://www.silentpush.com/blog/infrastructure-problem/?utm_source=rss&utm_medium=rss&utm_campaign=infrastructure-problem": {
+    "ts": "2026-09-09T13:36:56.693295+00:00",
+    "title": "Brand Impersonation Is an Infrastructure Problem"
+  },
+  "https://socradar.io/blog/dark-web-market-anubis-market/": {
+    "ts": "2026-09-09T13:36:56.693312+00:00",
+    "title": "Dark Web Market: Anubis Market"
+  },
+  "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html": {
+    "ts": "2026-09-09T13:36:56.693316+00:00",
+    "title": "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE"
+  },
+  "https://www.theregister.com/security/2026/09/09/wechat-worm-could-pwn-a-friend-before-they-even-answered-the-call/5295234": {
+    "ts": "2026-09-09T13:36:56.738167+00:00",
+    "title": "WeChat worm could pwn a friend before they even answered the call"
+  },
+  "https://threats.wiz.io/all-incidents/sports-piracy-exploiting-misconfigured-jupyter-servers": {
+    "ts": "2026-09-09T13:36:56.781480+00:00",
+    "title": "Sports Piracy Exploiting Misconfigured Jupyter Servers (Campaign)"
+  },
+  "https://cybersecuritynews.com/microsoft-teams-android-vulnerability/": {
+    "ts": "2026-09-09T13:36:56.781497+00:00",
+    "title": "Microsoft Teams for Android Vulnerability Exposes Sensitive Information"
+  },
+  "https://www.group-ib.com/blog/hired-hand/": {
+    "ts": "2026-09-09T13:36:56.781502+00:00",
+    "title": "Hired hand: Scammers mimic Saudi manpower provider"
+  },
+  "https://www.helpnetsecurity.com/2026/09/09/f5-big-ip-apm-rootkit-hides-web-shell-in-memory/": {
+    "ts": "2026-09-09T13:36:56.825075+00:00",
+    "title": "Hackers deploy Linux rootkit on F5 BIG-IP APM devices, hiding web shell in memory"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/the-push-to-stop-algorithms-controlling-social-media-feeds-has-begun": {
+    "ts": "2026-09-09T13:36:56.825090+00:00",
+    "title": "The push to stop algorithms controlling social media feeds has begun"
+  },
+  "https://www.recordedfuture.com/blog/august-2026-cve-landscape": {
+    "ts": "2026-09-09T13:36:56.869268+00:00",
+    "title": "August 2026 CVE Landscape"
+  },
+  "https://www.securityweek.com/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy/": {
+    "ts": "2026-09-09T13:36:56.869284+00:00",
+    "title": "Meta Launches Personal AI Agent, Muse, Emphasizes Safety and Privacy"
+  },
+  "https://www.silentpush.com/press-releases/platform-6-1-earlier-action/?utm_source=rss&utm_medium=rss&utm_campaign=platform-6-1-earlier-action": {
+    "ts": "2026-09-09T13:36:56.914741+00:00",
+    "title": "Silent Push 6.1 Platform Detects Attacker Infrastructure Earlier for Preemptive Action"
+  },
+  "https://socradar.io/blog/cve-2025-25249-pivotc2-fortigate-rat/": {
+    "ts": "2026-09-09T13:36:56.964660+00:00",
+    "title": "CVE-2025-25249 Exploitation Delivers PivotC2, a FortiGate Post-Exploitation RAT"
+  },
+  "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html": {
+    "ts": "2026-09-09T13:36:57.010305+00:00",
+    "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval"
+  },
+  "https://threats.wiz.io/all-incidents/earth-kashas-campaign-exploiting-fortinet-vulnerability": {
+    "ts": "2026-09-09T13:36:57.055308+00:00",
+    "title": "Earth Kasha\u2019s Campaign Exploiting Fortinet Vulnerability (Campaign)"
+  },
+  "https://cybersecuritynews.com/hackers-clone-banking-apps/": {
+    "ts": "2026-09-09T13:36:57.100573+00:00",
+    "title": "Hackers Clone Banking Apps Into Hidden Android Work Profiles to Evade Fraud Detection"
+  },
+  "https://www.group-ib.com/blog/opera1er-apt-fr/": {
+    "ts": "2026-09-09T13:36:57.145133+00:00",
+    "title": "Arm\u00e9s et dangereux : une soif d\u2019argent inextinguible L\u2019APT OPERA1ER en Afrique"
+  },
+  "https://www.helpnetsecurity.com/2026/09/09/china-malicious-ai-knowledge-distillation-against-us-companies/": {
+    "ts": "2026-09-09T13:36:57.207016+00:00",
+    "title": "Chinese AI firms are siphoning capabilities from American models, CISA warns"
+  },
+  "https://www.securityweek.com/ics-patch-tuesday-schneider-electric-siemens-fix-critical-flaws/": {
+    "ts": "2026-09-09T13:36:57.207037+00:00",
+    "title": "ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws"
+  },
+  "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html": {
+    "ts": "2026-09-09T13:36:57.207042+00:00",
+    "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets"
   }
 }
