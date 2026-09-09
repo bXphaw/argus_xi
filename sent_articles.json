@@ -7874,5 +7874,125 @@
   "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html": {
     "ts": "2026-09-09T17:45:00.179248+00:00",
     "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox"
+  },
+  "https://cybersecuritynews.com/papercut-flaws-compromised-using-ai/": {
+    "ts": "2026-09-09T20:45:14.340660+00:00",
+    "title": "Hackers Use Hundreds of AI Agents to Exploit PaperCut Flaws and Compromise 440 Servers Worldwide"
+  },
+  "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models": {
+    "ts": "2026-09-09T20:45:14.340675+00:00",
+    "title": "US Government Accuses Chinese AI Firms of Distilling Frontier Models"
+  },
+  "https://gbhackers.com/fake-linkedin-job-offers/": {
+    "ts": "2026-09-09T20:45:14.534280+00:00",
+    "title": "Iran-Linked Hackers Use Fake LinkedIn Job Offers to Deploy NodeRabbit and PollCat RATs"
+  },
+  "https://www.group-ib.com/blog/scam-is-rising/": {
+    "ts": "2026-09-09T20:45:14.534295+00:00",
+    "title": "Scam is rising"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/": {
+    "ts": "2026-09-09T20:45:14.738526+00:00",
+    "title": "Passkey-themed social engineering leads to identity and cloud compromise"
+  },
+  "https://securityaffairs.com/198770/security/us-agencies-warn-chinese-ai-firms-are-extracting-advanced-ai-models.html": {
+    "ts": "2026-09-09T20:45:14.932384+00:00",
+    "title": "US Agencies Warn Chinese AI Firms Are Extracting Advanced AI Models"
+  },
+  "https://www.securityweek.com/chipmaker-patch-tuesday-nvidia-amd-arm-issue-security-advisories/": {
+    "ts": "2026-09-09T20:45:15.130963+00:00",
+    "title": "Chipmaker Patch Tuesday: Nvidia, AMD, Arm Issue Security Advisories"
+  },
+  "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html": {
+    "ts": "2026-09-09T20:45:15.322499+00:00",
+    "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto"
+  },
+  "https://threats.wiz.io/all-incidents/silent-skimmer-attacks-exploiting-telerik-ui-to-steal-payment-data": {
+    "ts": "2026-09-09T20:45:15.521432+00:00",
+    "title": "Silent Skimmer Attacks Exploiting Telerik UI to Steal Payment Data (Campaign)"
+  },
+  "https://cybersecuritynews.com/clearfake-deploys-crypto-stealer/": {
+    "ts": "2026-09-09T20:45:15.712227+00:00",
+    "title": "ClearFake Deploys Crypto Stealer That Uses Vulnerable Driver to Kill EDR Security Tools"
+  },
+  "https://gbhackers.com/arango-vulnerabilities/": {
+    "ts": "2026-09-09T20:45:15.910940+00:00",
+    "title": "Critical ArangoDB Bugs Expose Entire Databases and Enable Remote Code Execution as Root"
+  },
+  "https://www.group-ib.com/blog/attack-surface-management/": {
+    "ts": "2026-09-09T20:45:15.910952+00:00",
+    "title": "Take control of your shadow IT"
+  },
+  "https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortimonitoronsight-chrome-extension/": {
+    "ts": "2026-09-09T20:45:15.910956+00:00",
+    "title": "Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension"
+  },
+  "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html": {
+    "ts": "2026-09-09T20:45:16.102790+00:00",
+    "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week"
+  },
+  "https://threats.wiz.io/all-incidents/mozi-botnet-using-androxgh0st-toolkit-to-target-cloud-environments": {
+    "ts": "2026-09-09T20:45:16.294485+00:00",
+    "title": "Mozi Botnet Using AndroxGh0st Toolkit to Target Cloud Environments (Campaign)"
+  },
+  "https://cybersecuritynews.com/hackers-use-fake-linkedin-job-offers/": {
+    "ts": "2026-09-09T20:45:16.490661+00:00",
+    "title": "Hackers Use Fake LinkedIn Job Offers to Infect Developers With New Cross-Platform RATs"
+  },
+  "https://gbhackers.com/critical-maplibre-gl-js-vulnerability/": {
+    "ts": "2026-09-09T20:45:16.690999+00:00",
+    "title": "Critical MapLibre GL JS Vulnerability Enables Zero-Click XSS Attacks"
+  },
+  "https://www.group-ib.com/blog/steam/": {
+    "ts": "2026-09-09T20:45:16.887458+00:00",
+    "title": "Letting off steam"
+  },
+  "https://www.securityweek.com/ivanti-patches-critical-flaws-across-enterprise-security-products/": {
+    "ts": "2026-09-09T20:45:17.090267+00:00",
+    "title": "Ivanti Patches Critical Flaws Across Enterprise Security Products"
+  },
+  "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html": {
+    "ts": "2026-09-09T20:45:17.292723+00:00",
+    "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root"
+  },
+  "https://threats.wiz.io/all-incidents/supply-chain-attack-on-lottie-player": {
+    "ts": "2026-09-09T20:45:17.493649+00:00",
+    "title": "Supply Chain Attack on lottie-player (Campaign)"
+  },
+  "https://cybersecuritynews.com/maplibre-zero-click-vulnerability/": {
+    "ts": "2026-09-09T20:45:17.493661+00:00",
+    "title": "MapLibre Vulnerability Exposes 2.7M Users to Zero-Click Attacks"
+  },
+  "https://gbhackers.com/gigabud-banking-malware/": {
+    "ts": "2026-09-09T20:45:17.692819+00:00",
+    "title": "GoldFactory Weaponizes Open-Source Vwork App Cloner in Gigabud Banking Malware Attacks"
+  },
+  "https://www.group-ib.com/blog/0ktapus/": {
+    "ts": "2026-09-09T20:45:17.692834+00:00",
+    "title": "Roasting 0ktapus: The phishing campaign going after Okta identity credentials"
+  },
+  "https://www.securityweek.com/this-key-will-self-destruct-an-open-standard-for-revocable-api-keys/": {
+    "ts": "2026-09-09T20:45:17.692841+00:00",
+    "title": "This Key Will Self-Destruct: An Open Standard for Revocable API Keys"
+  },
+  "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html": {
+    "ts": "2026-09-09T20:45:17.896561+00:00",
+    "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans"
+  },
+  "https://threats.wiz.io/all-incidents/cyberoam-breach-2018": {
+    "ts": "2026-09-09T20:45:18.088226+00:00",
+    "title": "Cyberoam breach (2018) (Incident)"
+  },
+  "https://cybersecuritynews.com/microsoft-expands-windows-family-safety/": {
+    "ts": "2026-09-09T20:45:18.281230+00:00",
+    "title": "Microsoft Expands Windows Family Safety With Built-In Age Verification and Parental Controls"
+  },
+  "https://gbhackers.com/windows-bitlocker-flaw-2/": {
+    "ts": "2026-09-09T20:45:18.474454+00:00",
+    "title": "Windows BitLocker Flaw Lets Attackers Execute Code on Vulnerable Systems"
+  },
+  "https://www.group-ib.com/blog/apt41-world-tour-2021/": {
+    "ts": "2026-09-09T20:45:18.667706+00:00",
+    "title": "APT41 World Tour 2021 on a tight schedule"
   }
 }

@@ -109,6 +109,46 @@
       "category": "new_technique",
       "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
       "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Use Hundreds of AI Agents to Exploit PaperCut Flaws and Compromise 440 Servers Worldwide",
+      "url": "https://cybersecuritynews.com/papercut-flaws-compromised-using-ai/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Iran-Linked Hackers Use Fake LinkedIn Job Offers to Deploy NodeRabbit and PollCat RATs",
+      "url": "https://gbhackers.com/fake-linkedin-job-offers/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Passkey-themed social engineering leads to identity and cloud compromise",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical ArangoDB Bugs Expose Entire Databases and Enable Remote Code Execution as Root",
+      "url": "https://gbhackers.com/arango-vulnerabilities/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+      "url": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Mozi Botnet Using AndroxGh0st Toolkit to Target Cloud Environments (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/mozi-botnet-using-androxgh0st-toolkit-to-target-cloud-environments"
+    },
+    {
+      "category": "new_technique",
+      "title": "Supply Chain Attack on lottie-player (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/supply-chain-attack-on-lottie-player"
+    },
+    {
+      "category": "malware_android",
+      "title": "GoldFactory Weaponizes Open-Source Vwork App Cloner in Gigabud Banking Malware Attacks",
+      "url": "https://gbhackers.com/gigabud-banking-malware/"
     }
   ],
   "last_sent_date": "2026-09-09"
