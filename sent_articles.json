@@ -7754,5 +7754,125 @@
   "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html": {
     "ts": "2026-09-09T13:36:57.207042+00:00",
     "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets"
+  },
+  "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/": {
+    "ts": "2026-09-09T17:42:39.365383+00:00",
+    "title": "US says Chinese firms extracted billions of tokens from frontier AI models"
+  },
+  "https://securityaffairs.com/198757/security/google-fixes-the-seventh-actively-exploited-chrome-zero-day-of-2026.html": {
+    "ts": "2026-09-09T17:42:47.187840+00:00",
+    "title": "Google fixes the seventh actively exploited Chrome zero-day of 2026"
+  },
+  "https://threats.wiz.io/all-incidents/rce-vulnerability-in-pan-os-exploited-in-the-wild": {
+    "ts": "2026-09-09T17:42:58.756421+00:00",
+    "title": "RCE Vulnerability in PAN-OS Exploited in-the-Wild (Campaign)"
+  },
+  "https://blog.talosintelligence.com/fmc-ongoing-exploitation/": {
+    "ts": "2026-09-09T17:44:55.437174+00:00",
+    "title": "Active exploitation of Cisco Secure Firewall Management Center vulnerabilities"
+  },
+  "https://cybersecuritynews.com/bluemoon-exploit-chain/": {
+    "ts": "2026-09-09T17:44:55.644633+00:00",
+    "title": "Hackers Chain Chrome and Windows Zero-Days in New BlueMoon Exploit Kit Attacks"
+  },
+  "https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data": {
+    "ts": "2026-09-09T17:44:55.854648+00:00",
+    "title": "Identity-Based AI Attack Threatens Security of Enterprise Data"
+  },
+  "https://gbhackers.com/google-captcha-abuse/": {
+    "ts": "2026-09-09T17:44:56.046346+00:00",
+    "title": "Hackers Abuse Google CAPTCHA, WebDAV and BNB Smart Chain to Deploy Credential-Stealing Malware"
+  },
+  "https://www.group-ib.com/blog/opera1er-apt/": {
+    "ts": "2026-09-09T17:44:56.257159+00:00",
+    "title": "Financially motivated, dangerously activated: OPERA1ER APT in Africa"
+  },
+  "https://www.helpnetsecurity.com/2026/09/09/september-2026-patch-tuesday-zero-days-sigred-successor/": {
+    "ts": "2026-09-09T17:44:56.463752+00:00",
+    "title": "September 2026 Patch Tuesday: Record patch count, 2 zero-days, and a SigRed successor"
+  },
+  "https://www.malwarebytes.com/blog/scams/2026/09/more-than-100000-fake-stores-are-out-to-steal-your-card-details": {
+    "ts": "2026-09-09T17:44:56.672245+00:00",
+    "title": "More than 100,000 fake stores are out to steal your card details"
+  },
+  "https://www.rapid7.com/blog/post/pt-credentialed-pre-port-discovery-asking-host": {
+    "ts": "2026-09-09T17:44:56.885176+00:00",
+    "title": "Credentialed Pre-Port Discovery: Don't Probe the Host, Ask it"
+  },
+  "https://www.securityweek.com/helmguard-raises-7-3-million-for-agentic-grc-and-security/": {
+    "ts": "2026-09-09T17:44:57.091978+00:00",
+    "title": "HelmGuard Raises $7.3 Million for Agentic GRC and Security"
+  },
+  "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html": {
+    "ts": "2026-09-09T17:44:57.301080+00:00",
+    "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA"
+  },
+  "https://www.theregister.com/security/2026/09/09/serial-microsoft-0-day-hunter-drops-yet-another-defender-exploit/5295335": {
+    "ts": "2026-09-09T17:44:57.490329+00:00",
+    "title": "Serial Microsoft 0-day hunter drops yet another Defender exploit"
+  },
+  "https://www.volexity.com/blog/2026/09/09/mind-the-patch-gap-multiple-chinese-threat-actors-chain-0-day-exploits-in-chrome-windows/": {
+    "ts": "2026-09-09T17:44:57.684222+00:00",
+    "title": "Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows"
+  },
+  "https://threats.wiz.io/all-incidents/brazenbamboo-weaponizes-forticlient-vulnerability-to-steal-credentials": {
+    "ts": "2026-09-09T17:44:57.874549+00:00",
+    "title": "BrazenBamboo Weaponizes FortiClient Vulnerability to Steal Credentials (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/": {
+    "ts": "2026-09-09T17:44:58.092067+00:00",
+    "title": "Veradigm warns of patient data breach after ransomware gang claims attack"
+  },
+  "https://cybersecuritynews.com/veradigm-patient-data-breach/": {
+    "ts": "2026-09-09T17:44:58.298811+00:00",
+    "title": "Veradigm Confirms Patient Data Exposed in Third-Party Data Breach"
+  },
+  "https://gbhackers.com/fortipam-chrome-extension-vulnerability/": {
+    "ts": "2026-09-09T17:44:58.514894+00:00",
+    "title": "FortiPAM Chrome Extension Vulnerability Lets Malicious Sites Control Browser Proxy and Record Tabs"
+  },
+  "https://www.group-ib.com/blog/majikpos-treasurehunter-malware/": {
+    "ts": "2026-09-09T17:44:58.729968+00:00",
+    "title": "Treasure trove. Alive and well point-of-sale malware"
+  },
+  "https://www.helpnetsecurity.com/2026/09/09/picus-security-autonomous-breach-attack-simulation/": {
+    "ts": "2026-09-09T17:44:58.935799+00:00",
+    "title": "What breach and attack simulation needs to become in the AI era"
+  },
+  "https://www.securityweek.com/ai-is-giving-lesser-resourced-attackers-nation-state-level-reach-google-warns/": {
+    "ts": "2026-09-09T17:44:59.131971+00:00",
+    "title": "AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns"
+  },
+  "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html": {
+    "ts": "2026-09-09T17:44:59.348263+00:00",
+    "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok"
+  },
+  "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/": {
+    "ts": "2026-09-09T17:44:59.558933+00:00",
+    "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path"
+  },
+  "https://cybersecuritynews.com/new-n0va-phishkit-targets-north-america-and-eu-a-growing-identity-risk-for-socs/": {
+    "ts": "2026-09-09T17:44:59.766485+00:00",
+    "title": "New\u00a0N0va\u00a0Phishkit\u00a0Targets North America and EU: A Growing Identity Risk for SOCs"
+  },
+  "https://gbhackers.com/spycloud-2026-identity-threat-report-finds-non-human-identities-are-now-the-leading-path-into-the-enterprise/": {
+    "ts": "2026-09-09T17:44:59.766497+00:00",
+    "title": "SpyCloud 2026 Identity Threat Report Finds Non-Human Identities Are Now the Leading Path into the Enterprise"
+  },
+  "https://www.group-ib.com/blog/deadbolt-ransomware-decryption/": {
+    "ts": "2026-09-09T17:44:59.958493+00:00",
+    "title": "Deadbolt ransomware decryption: unlock your data"
+  },
+  "https://www.helpnetsecurity.com/2026/09/09/bleachbit-6-0-4-released/": {
+    "ts": "2026-09-09T17:44:59.958504+00:00",
+    "title": "BleachBit 6.0.4 fixes secure wiping that skipped clusters on Windows"
+  },
+  "https://www.securityweek.com/androids-september-2026-updates-patch-180-vulnerabilities/": {
+    "ts": "2026-09-09T17:44:59.958507+00:00",
+    "title": "Android\u2019s September 2026 Updates Patch 180 Vulnerabilities"
+  },
+  "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html": {
+    "ts": "2026-09-09T17:45:00.179248+00:00",
+    "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox"
   }
 }

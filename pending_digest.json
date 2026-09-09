@@ -39,6 +39,76 @@
       "category": "new_technique",
       "title": "Chinese AI firms are siphoning capabilities from American models, CISA warns",
       "url": "https://www.helpnetsecurity.com/2026/09/09/china-malicious-ai-knowledge-distillation-against-us-companies/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Active exploitation of Cisco Secure Firewall Management Center vulnerabilities",
+      "url": "https://blog.talosintelligence.com/fmc-ongoing-exploitation/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Chain Chrome and Windows Zero-Days in New BlueMoon Exploit Kit Attacks",
+      "url": "https://cybersecuritynews.com/bluemoon-exploit-chain/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Identity-Based AI Attack Threatens Security of Enterprise Data",
+      "url": "https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Abuse Google CAPTCHA, WebDAV and BNB Smart Chain to Deploy Credential-Stealing Malware",
+      "url": "https://gbhackers.com/google-captcha-abuse/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Financially motivated, dangerously activated: OPERA1ER APT in Africa",
+      "url": "https://www.group-ib.com/blog/opera1er-apt/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Serial Microsoft 0-day hunter drops yet another Defender exploit",
+      "url": "https://www.theregister.com/security/2026/09/09/serial-microsoft-0-day-hunter-drops-yet-another-defender-exploit/5295335"
+    },
+    {
+      "category": "new_technique",
+      "title": "Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows",
+      "url": "https://www.volexity.com/blog/2026/09/09/mind-the-patch-gap-multiple-chinese-threat-actors-chain-0-day-exploits-in-chrome-windows/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "BrazenBamboo Weaponizes FortiClient Vulnerability to Steal Credentials (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/brazenbamboo-weaponizes-forticlient-vulnerability-to-steal-credentials"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
+      "url": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Veradigm Confirms Patient Data Exposed in Third-Party Data Breach",
+      "url": "https://cybersecuritynews.com/veradigm-patient-data-breach/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
+      "url": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/"
+    },
+    {
+      "category": "malware_other",
+      "title": "New\u00a0N0va\u00a0Phishkit\u00a0Targets North America and EU: A Growing Identity Risk for SOCs",
+      "url": "https://cybersecuritynews.com/new-n0va-phishkit-targets-north-america-and-eu-a-growing-identity-risk-for-socs/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Deadbolt ransomware decryption: unlock your data",
+      "url": "https://www.group-ib.com/blog/deadbolt-ransomware-decryption/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
+      "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html"
     }
   ],
   "last_sent_date": "2026-09-09"
