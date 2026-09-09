@@ -7514,5 +7514,125 @@
   "https://www.group-ib.com/blog/know-thy-enemy/": {
     "ts": "2026-09-09T03:54:33.331959+00:00",
     "title": "Know Thy Enemy: unraveling the \u201cHi-Tech Crime Trends 2022/2023\u201d report"
+  },
+  "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html": {
+    "ts": "2026-09-09T08:50:38.823207+00:00",
+    "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days"
+  },
+  "https://threats.wiz.io/all-incidents/solana-web3js-supply-chain-attack": {
+    "ts": "2026-09-09T08:50:38.826535+00:00",
+    "title": "Solana web3.js Supply Chain Attack (Campaign)"
+  },
+  "https://securityaffairs.com/198589/hacking/chaotic-eclipse-released-greensection-a-poc-for-nvidia-memory-corruption-zero-day.html": {
+    "ts": "2026-09-09T08:50:50.828972+00:00",
+    "title": "Chaotic Eclipse Released GreenSection, A PoC For NVIDIA Memory Corruption Zero-Day"
+  },
+  "https://gbhackers.com/best-mdr-services-compared/": {
+    "ts": "2026-09-09T08:50:52.455033+00:00",
+    "title": "The 12 Best Managed Detection & Response (MDR) Services, Compared and Priced"
+  },
+  "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/": {
+    "ts": "2026-09-09T08:52:25.220057+00:00",
+    "title": "Man gets 15 years for extorting women with AI-generated porn videos"
+  },
+  "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/": {
+    "ts": "2026-09-09T08:52:25.220070+00:00",
+    "title": "September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs"
+  },
+  "https://cybersecuritynews.com/cisa-warns-chinese-ai-firms/": {
+    "ts": "2026-09-09T08:52:25.220074+00:00",
+    "title": "CISA Warns Chinese AI Firms Extract Billions of Tokens From Claude, GPT, Gemini and Grok"
+  },
+  "https://gbhackers.com/windows-defender-shieldcrash-0-day/": {
+    "ts": "2026-09-09T08:52:25.455203+00:00",
+    "title": "Windows Defender ShieldCrash 0-Day Lets Attackers Read Arbitrary Files as SYSTEM"
+  },
+  "https://www.group-ib.com/blog/vwork-app-cloning-gigabud-goldfactory/": {
+    "ts": "2026-09-09T08:52:25.685329+00:00",
+    "title": "Vwork: Weaponized Open-source Software as an Addon for Gigabud"
+  },
+  "https://www.helpnetsecurity.com/2026/09/09/google-chrome-cve-2026-87491-zero-day-flaw/": {
+    "ts": "2026-09-09T08:52:25.685343+00:00",
+    "title": "Google fixes yet another actively exploited Chrome zero-day (CVE-2026-87491)"
+  },
+  "https://securityaffairs.com/198726/security/chaotic-eclipse-released-shieldcrash-a-poc-for-microsoft-defender-zero-day.html": {
+    "ts": "2026-09-09T08:52:25.919547+00:00",
+    "title": "Chaotic Eclipse Released\u00a0ShieldCrash, A PoC For Microsoft Defender\u00a0Zero-Day"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/": {
+    "ts": "2026-09-09T08:52:26.153912+00:00",
+    "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access"
+  },
+  "https://cybersecuritynews.com/cpanel-sql-injection-vulnerability/": {
+    "ts": "2026-09-09T08:52:26.153929+00:00",
+    "title": "New cPanel Vulnerability Allows Attacker to Gain Full Control of the Server"
+  },
+  "https://gbhackers.com/u-s-ai-models-targeted/": {
+    "ts": "2026-09-09T08:52:26.153934+00:00",
+    "title": "DeepSeek, Alibaba and Chinese AI Firms Extract Billions of Tokens From U.S. AI Models"
+  },
+  "https://www.group-ib.com/blog/dark-pink-apt/": {
+    "ts": "2026-09-09T08:52:26.391947+00:00",
+    "title": "Dark Pink"
+  },
+  "https://www.helpnetsecurity.com/2026/09/09/ai-infra-guard-open-source-security-scanner-ai-systems/": {
+    "ts": "2026-09-09T08:52:26.626533+00:00",
+    "title": "AI-Infra-Guard: Open-source security scanner for AI systems"
+  },
+  "https://securityaffairs.com/198705/security/microsofts-biggest-patch-tuesday-974-cves-2-zero-days-and-20-wormable-bugs.html": {
+    "ts": "2026-09-09T08:52:26.863030+00:00",
+    "title": "Microsoft\u2019s Biggest Patch Tuesday: 974 CVEs, 2 Zero-Days and 20 Wormable Bugs"
+  },
+  "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html": {
+    "ts": "2026-09-09T08:52:27.096546+00:00",
+    "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild"
+  },
+  "https://threats.wiz.io/all-incidents/gafgyt-malware-targeting-misconfigured-docker-servers": {
+    "ts": "2026-09-09T08:52:27.330373+00:00",
+    "title": "Gafgyt Malware Targeting Misconfigured Docker Servers (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/": {
+    "ts": "2026-09-09T08:52:27.330391+00:00",
+    "title": "Google warns of new Chrome zero-day bug exploited in attacks"
+  },
+  "https://cybersecuritynews.com/best-application-control-allowlisting-tools/": {
+    "ts": "2026-09-09T08:52:27.330396+00:00",
+    "title": "Top 10 Best Application Control & Allowlisting Tools in 2026"
+  },
+  "https://gbhackers.com/best-managed-xdr-compared/": {
+    "ts": "2026-09-09T08:52:27.330399+00:00",
+    "title": "The 12 Best Managed XDR Services, Compared and Priced"
+  },
+  "https://www.group-ib.com/blog/godfather-trojan/": {
+    "ts": "2026-09-09T08:52:27.568940+00:00",
+    "title": "Godfather Trojan \u2013 mobile banking malware that is impossible to refuse"
+  },
+  "https://www.helpnetsecurity.com/2026/09/09/prophet-security-evaluating-ai-soc-agents/": {
+    "ts": "2026-09-09T08:52:27.568964+00:00",
+    "title": "Gartner: 70% of SOCs will pilot AI agents. Only 15% will see results"
+  },
+  "https://threats.wiz.io/all-incidents/mauri-ransomware-exploiting-apache-activemq": {
+    "ts": "2026-09-09T08:52:27.817775+00:00",
+    "title": "Mauri Ransomware Exploiting Apache ActiveMQ (Campaign)"
+  },
+  "https://cybersecuritynews.com/best-patch-management-software/": {
+    "ts": "2026-09-09T08:52:28.047565+00:00",
+    "title": "Top 10 Best Patch Management Software in 2026"
+  },
+  "https://www.group-ib.com/blog/scam-free-christmas/": {
+    "ts": "2026-09-09T08:52:28.281612+00:00",
+    "title": "Scam-free Christmas"
+  },
+  "https://www.helpnetsecurity.com/2026/09/09/aws-routing-control-plane-network/": {
+    "ts": "2026-09-09T08:52:28.514972+00:00",
+    "title": "AWS spent years rebuilding its routing control plane without taking the network down"
+  },
+  "https://threats.wiz.io/all-incidents/gelsemiums-shift-to-linux-malware-with-wolfsbane-and-firewood": {
+    "ts": "2026-09-09T08:52:28.748714+00:00",
+    "title": "Gelsemium\u2019s Shift to Linux Malware with WolfsBane and FireWood (Campaign)"
+  },
+  "https://cybersecuritynews.com/best-mobile-threat-defense-solutions/": {
+    "ts": "2026-09-09T08:52:28.748725+00:00",
+    "title": "Top 10 Best Mobile Threat Defense (MTD) Solutions in 2026"
   }
 }
