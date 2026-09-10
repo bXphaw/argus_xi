@@ -8474,5 +8474,125 @@
   "https://threats.wiz.io/all-incidents/godzilla-backdoor-exploiting-confluence-vulnerability": {
     "ts": "2026-09-10T13:28:28.251483+00:00",
     "title": "Godzilla Backdoor Exploiting Confluence Vulnerability (Campaign)"
+  },
+  "https://www.group-ib.com/blog/gib-tia-db/": {
+    "ts": "2026-09-10T17:35:51.535302+00:00",
+    "title": "Under the hood. Group-IB Threat Intelligence. Part 1"
+  },
+  "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/": {
+    "ts": "2026-09-10T17:37:43.467983+00:00",
+    "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations"
+  },
+  "https://research.checkpoint.com/2026/puzzlemask-abusing-plain-prose-as-a-covert-ai-attack-vector/": {
+    "ts": "2026-09-10T17:37:43.672524+00:00",
+    "title": "PuzzleMask: Abusing Plain Prose as a Covert AI Attack Vector"
+  },
+  "https://cofense.com/blog/false-allegations,-real-threats-sexual-misconduct-claims-used-as-phishing-lures": {
+    "ts": "2026-09-10T17:37:43.866072+00:00",
+    "title": "False Allegations, Real Threats: Sexual Misconduct Claims Used as Phishing Lures"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit": {
+    "ts": "2026-09-10T17:37:44.070018+00:00",
+    "title": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit"
+  },
+  "https://www.forescout.com/blog/iot-medical-devices-smart-hospitals-need-smarter-security/": {
+    "ts": "2026-09-10T17:37:44.070039+00:00",
+    "title": "IoT Medical Devices: Smart Hospitals Need Smarter Security"
+  },
+  "https://www.group-ib.com/blog/prometheus-tds/": {
+    "ts": "2026-09-10T17:37:44.268564+00:00",
+    "title": "Prometheus TDS"
+  },
+  "https://www.helpnetsecurity.com/2026/09/10/google-android-password-manager-transfer/": {
+    "ts": "2026-09-10T17:37:44.472766+00:00",
+    "title": "Your passkeys can now move between password managers on Android"
+  },
+  "https://www.malwarebytes.com/blog/bugs/2026/09/bluemoon-exploit-kit-turns-chrome-and-windows-flaws-into-attacks": {
+    "ts": "2026-09-10T17:37:44.677761+00:00",
+    "title": "BlueMoon exploit kit turns Chrome and Windows flaws into attacks"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/": {
+    "ts": "2026-09-10T17:37:44.871457+00:00",
+    "title": "Detect and disrupt AI-themed attacks with Microsoft Defender"
+  },
+  "https://moonlock.com/trojanized-mac-installers-the-unarchiver": {
+    "ts": "2026-09-10T17:37:45.069537+00:00",
+    "title": "Trojanized Mac installers are posing as The Unarchiver and other popular apps"
+  },
+  "https://www.recordedfuture.com/blog/intelligible-world-agents": {
+    "ts": "2026-09-10T17:37:45.069559+00:00",
+    "title": "The Intelligible World of Agents"
+  },
+  "https://securityaffairs.com/198833/ai/more-capable-ai-not-enough-guardrails.html": {
+    "ts": "2026-09-10T17:37:45.069562+00:00",
+    "title": "More Capable AI, Not Enough Guardrails"
+  },
+  "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/": {
+    "ts": "2026-09-10T17:37:45.069564+00:00",
+    "title": "Cybersecurity M&A Roundup: 33 Deals Announced in August 2026"
+  },
+  "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html": {
+    "ts": "2026-09-10T17:37:45.266676+00:00",
+    "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps"
+  },
+  "https://threats.wiz.io/all-incidents/confluence-exploited-for-cryptojacking": {
+    "ts": "2026-09-10T17:37:45.464635+00:00",
+    "title": "Confluence exploited for cryptojacking (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/sloppyrat-new-tool-ransomware-attacks": {
+    "ts": "2026-09-10T17:37:45.663780+00:00",
+    "title": "SloppyRAT: A New Tool For Ransomware Attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/": {
+    "ts": "2026-09-10T17:37:45.861998+00:00",
+    "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers"
+  },
+  "https://www.group-ib.com/blog/task/": {
+    "ts": "2026-09-10T17:37:46.057839+00:00",
+    "title": "The Art of Cyberwarfare"
+  },
+  "https://www.helpnetsecurity.com/2026/09/10/microsoft-365-social-engineering-personal-phones/": {
+    "ts": "2026-09-10T17:37:46.287998+00:00",
+    "title": "Attackers call employees\u2019 personal phones to break into Microsoft 365 accounts"
+  },
+  "https://moonlock.com/black-friday-scams": {
+    "ts": "2026-09-10T17:37:46.486638+00:00",
+    "title": "Black Friday scams: 11 ways scammers trick online shoppers"
+  },
+  "https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/": {
+    "ts": "2026-09-10T17:37:46.486657+00:00",
+    "title": "Anthropic Researcher Resigns With Warning About the Dangers of AI Development"
+  },
+  "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html": {
+    "ts": "2026-09-10T17:37:46.683264+00:00",
+    "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline"
+  },
+  "https://threats.wiz.io/all-incidents/shinyhunters-ransomware-targeting-cloud-environments": {
+    "ts": "2026-09-10T17:37:46.873970+00:00",
+    "title": "ShinyHunters Ransomware Targeting Cloud Environments (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/": {
+    "ts": "2026-09-10T17:37:46.873995+00:00",
+    "title": "IDScan confirms breach tied to 153 million stolen driver\u2019s licenses"
+  },
+  "https://www.helpnetsecurity.com/2026/09/10/proofpoint-ciso-ai-security-risks-report/": {
+    "ts": "2026-09-10T17:37:46.873999+00:00",
+    "title": "AI adoption brings new security headaches for already stretched CISOs"
+  },
+  "https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/": {
+    "ts": "2026-09-10T17:37:47.071609+00:00",
+    "title": "Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster"
+  },
+  "https://threats.wiz.io/all-incidents/pgmem-malware-exploiting-misconfigured-postresql-instances": {
+    "ts": "2026-09-10T17:37:47.274215+00:00",
+    "title": "PG_MEM Malware Exploiting Misconfigured PostreSQL Instances (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/": {
+    "ts": "2026-09-10T17:37:47.479337+00:00",
+    "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws"
+  },
+  "https://www.group-ib.com/blog/fraud-family-nl/": {
+    "ts": "2026-09-10T17:37:47.681775+00:00",
+    "title": "The Fraud Family"
   }
 }

@@ -44,6 +44,46 @@
       "category": "new_technique",
       "title": "Godzilla Backdoor Exploiting Confluence Vulnerability (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/godzilla-backdoor-exploiting-confluence-vulnerability"
+    },
+    {
+      "category": "new_technique",
+      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/"
+    },
+    {
+      "category": "new_technique",
+      "title": "PuzzleMask: Abusing Plain Prose as a Covert AI Attack Vector",
+      "url": "https://research.checkpoint.com/2026/puzzlemask-abusing-plain-prose-as-a-covert-ai-attack-vector/"
+    },
+    {
+      "category": "new_technique",
+      "title": "False Allegations, Real Threats: Sexual Misconduct Claims Used as Phishing Lures",
+      "url": "https://cofense.com/blog/false-allegations,-real-threats-sexual-misconduct-claims-used-as-phishing-lures"
+    },
+    {
+      "category": "new_technique",
+      "title": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit"
+    },
+    {
+      "category": "malware_android",
+      "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
+      "url": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Confluence exploited for cryptojacking (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/confluence-exploited-for-cryptojacking"
+    },
+    {
+      "category": "malware_other",
+      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
+      "url": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "ShinyHunters Ransomware Targeting Cloud Environments (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/shinyhunters-ransomware-targeting-cloud-environments"
     }
   ],
   "last_sent_date": "2026-09-10"
