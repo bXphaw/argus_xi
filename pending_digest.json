@@ -1,4 +1,50 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "threat_actor",
+      "title": "Cisco FMC bugs exploited by nation-state and ransomware actors (CVE-2026-20079, CVE-2026-20316)",
+      "url": "https://www.helpnetsecurity.com/2026/09/10/cisco-fmc-exploited-cve-2026-20079-cve-2026-20316/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "The Load Balancer as a Backdoor: Investigating DPRK-Linked Tradecraft Inside HAProxy",
+      "url": "https://threatmon.io/the-load-balancer-as-a-backdoor-investigating-dprk-linked-tradecraft-inside-haproxy/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Hadooken Malware Targeting Weblogic Servers (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/hadooken-malware-targeting-weblogic-servers"
+    },
+    {
+      "category": "threat_actor",
+      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
+      "url": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "DragonRank Targeting IIS Web Servers (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/dragonrank-targeting-iis-web-servers"
+    },
+    {
+      "category": "malware_windows",
+      "title": "It\u2019s alive!",
+      "url": "https://www.group-ib.com/blog/blackmatter-ransomware/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Fake GTA 6 download delivers malware-packed bundle to impatient gamers",
+      "url": "https://www.helpnetsecurity.com/2026/09/10/fake-gta-6-downloads-malware-ransomware/"
+    },
+    {
+      "category": "malware_android",
+      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
+      "url": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Godzilla Backdoor Exploiting Confluence Vulnerability (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/godzilla-backdoor-exploiting-confluence-vulnerability"
+    }
+  ],
   "last_sent_date": "2026-09-10"
 }

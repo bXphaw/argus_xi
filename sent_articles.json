@@ -8354,5 +8354,125 @@
   "https://cybersecuritynews.com/gpt-powered-tools/": {
     "ts": "2026-09-10T08:51:50.975298+00:00",
     "title": "Hackers Use Claude and GPT-Powered Tools to Help Breach Government and Financial Networks"
+  },
+  "https://socradar.io/blog/september-2026-patch-tuesday-974-flaws/": {
+    "ts": "2026-09-10T13:26:45.206283+00:00",
+    "title": "September 2026 Patch Tuesday: 974 Flaws, 2 Zero-Days"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/": {
+    "ts": "2026-09-10T13:28:23.629531+00:00",
+    "title": "Microsoft says September updates fix mouse settings reset issues"
+  },
+  "https://cyble.com/blog/cyble-major-upgrades-to-executive-monitoring-module/": {
+    "ts": "2026-09-10T13:28:23.629548+00:00",
+    "title": "Cyble Introduces Major Upgrade to its Executive Monitoring Module"
+  },
+  "https://www.group-ib.com/blog/tailored-threat-intel/": {
+    "ts": "2026-09-10T13:28:23.629553+00:00",
+    "title": "Under the hood. Group-IB Threat Intelligence. Part 2"
+  },
+  "https://www.helpnetsecurity.com/2026/09/10/cisco-fmc-exploited-cve-2026-20079-cve-2026-20316/": {
+    "ts": "2026-09-10T13:28:23.886342+00:00",
+    "title": "Cisco FMC bugs exploited by nation-state and ransomware actors (CVE-2026-20079, CVE-2026-20316)"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/09/will-ai-kill-us-all-within-the-next-decade": {
+    "ts": "2026-09-10T13:28:23.886361+00:00",
+    "title": "Will AI kill us all within the next decade?"
+  },
+  "https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/": {
+    "ts": "2026-09-10T13:28:24.127380+00:00",
+    "title": "The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE"
+  },
+  "https://securityaffairs.com/198814/hacking/a-new-claude-s-sandbox-failure-shows-how-ai-can-rationalize-real-world-harm.html": {
+    "ts": "2026-09-10T13:28:24.368812+00:00",
+    "title": "A New Claude \u2018s Sandbox Failure Shows How AI Can Rationalize Real-World Harm"
+  },
+  "https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/": {
+    "ts": "2026-09-10T13:28:24.611274+00:00",
+    "title": "Critical NetScaler Vulnerability Exploited in Attacks"
+  },
+  "https://socradar.io/blog/shieldcrash-poc-microsoft-defender-fix-bypass/": {
+    "ts": "2026-09-10T13:28:24.851027+00:00",
+    "title": "ShieldCrash PoC: Microsoft Defender Fix Bypass"
+  },
+  "https://www.security.com/expert-perspectives/detection-gap-mitre-attck-t1047": {
+    "ts": "2026-09-10T13:28:25.088442+00:00",
+    "title": "The Detection Gap: MITRE ATT&CK T1047"
+  },
+  "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html": {
+    "ts": "2026-09-10T13:28:25.088460+00:00",
+    "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE"
+  },
+  "https://www.intego.com/mac-security-blog/syncing-with-icloud-paused/": {
+    "ts": "2026-09-10T13:28:25.088464+00:00",
+    "title": "Syncing with iCloud paused? What it means and how to fix it"
+  },
+  "https://www.theregister.com/security/2026/09/10/shinyhunters-expose-64m-in-attack-on-medical-supplier-mckesson/5295550": {
+    "ts": "2026-09-10T13:28:25.088468+00:00",
+    "title": "ShinyHunters expose 6.4M in attack on medical supplier McKesson"
+  },
+  "https://threatmon.io/the-load-balancer-as-a-backdoor-investigating-dprk-linked-tradecraft-inside-haproxy/": {
+    "ts": "2026-09-10T13:28:25.327183+00:00",
+    "title": "The Load Balancer as a Backdoor: Investigating DPRK-Linked Tradecraft Inside HAProxy"
+  },
+  "https://threats.wiz.io/all-incidents/hadooken-malware-targeting-weblogic-servers": {
+    "ts": "2026-09-10T13:28:25.564224+00:00",
+    "title": "Hadooken Malware Targeting Weblogic Servers (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/": {
+    "ts": "2026-09-10T13:28:25.801517+00:00",
+    "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks"
+  },
+  "https://cyble.com/blog/infostealer-malware-credential-theft-pipeline/": {
+    "ts": "2026-09-10T13:28:26.051243+00:00",
+    "title": "From Infostealer Log to Marketplace Listing: A Technical Walkthrough of the Credential Theft Pipeline"
+  },
+  "https://www.group-ib.com/blog/awc/": {
+    "ts": "2026-09-10T13:28:26.295330+00:00",
+    "title": "Bold ad campaign"
+  },
+  "https://www.helpnetsecurity.com/2026/09/10/wordpress-automated-plugin-security-review/": {
+    "ts": "2026-09-10T13:28:26.538949+00:00",
+    "title": "WordPress adds automated security checks to block risky plugin releases"
+  },
+  "https://www.malwarebytes.com/blog/bugs/2026/09/update-chrome-now-to-protect-against-an-actively-exploited-vulnerability": {
+    "ts": "2026-09-10T13:28:26.777148+00:00",
+    "title": "Update Chrome now to protect against an actively exploited vulnerability"
+  },
+  "https://www.securityweek.com/widened-scan-turns-up-fourth-rogue-claude-cyber-incident/": {
+    "ts": "2026-09-10T13:28:26.777167+00:00",
+    "title": "Widened Scan Turns Up Fourth Rogue Claude Cyber Incident"
+  },
+  "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html": {
+    "ts": "2026-09-10T13:28:27.038701+00:00",
+    "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances"
+  },
+  "https://threats.wiz.io/all-incidents/dragonrank-targeting-iis-web-servers": {
+    "ts": "2026-09-10T13:28:27.282181+00:00",
+    "title": "DragonRank Targeting IIS Web Servers (Campaign)"
+  },
+  "https://www.group-ib.com/blog/blackmatter-ransomware/": {
+    "ts": "2026-09-10T13:28:27.529512+00:00",
+    "title": "It\u2019s alive!"
+  },
+  "https://www.helpnetsecurity.com/2026/09/10/fake-gta-6-downloads-malware-ransomware/": {
+    "ts": "2026-09-10T13:28:27.778928+00:00",
+    "title": "Fake GTA 6 download delivers malware-packed bundle to impatient gamers"
+  },
+  "https://www.malwarebytes.com/blog/scams/2026/09/copyright-scammers-get-instagram-accounts-suspended-and-demand-payment": {
+    "ts": "2026-09-10T13:28:27.778947+00:00",
+    "title": "Copyright scammers get Instagram accounts suspended and demand payment"
+  },
+  "https://www.securityweek.com/4-1-million-impacted-by-adapthealth-data-breach/": {
+    "ts": "2026-09-10T13:28:27.778951+00:00",
+    "title": "4.1 Million Impacted by AdaptHealth Data Breach"
+  },
+  "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html": {
+    "ts": "2026-09-10T13:28:28.014788+00:00",
+    "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks"
+  },
+  "https://threats.wiz.io/all-incidents/godzilla-backdoor-exploiting-confluence-vulnerability": {
+    "ts": "2026-09-10T13:28:28.251483+00:00",
+    "title": "Godzilla Backdoor Exploiting Confluence Vulnerability (Campaign)"
   }
 }
