@@ -8714,5 +8714,125 @@
   "https://threats.wiz.io/all-incidents/scattered-spider-abuses-cloud-management-agent": {
     "ts": "2026-09-10T20:39:45.141359+00:00",
     "title": "Scattered Spider Abuses Cloud Management Agent (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/earth-baku-campaign": {
+    "ts": "2026-09-10T23:00:52.266452+00:00",
+    "title": "Earth Baku campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/panamorfi-campaign": {
+    "ts": "2026-09-10T23:00:53.136436+00:00",
+    "title": "Panamorfi campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/born-group-supply-chain-attack": {
+    "ts": "2026-09-10T23:00:57.224593+00:00",
+    "title": "BORN Group supply chain attack (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/": {
+    "ts": "2026-09-10T23:03:03.624156+00:00",
+    "title": "New Android malware encrypts files, steals data, and harasses victims"
+  },
+  "https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data": {
+    "ts": "2026-09-10T23:03:03.624172+00:00",
+    "title": "Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data"
+  },
+  "https://www.group-ib.com/blog/hancitor-cuba-ransomware/": {
+    "ts": "2026-09-10T23:03:03.865677+00:00",
+    "title": "Connecting the Bots"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/09/10/latest-anthropic-horror-story-chills-with-tales-of-kamikaze-drone-swarms-and-bioweapons-research/5295702": {
+    "ts": "2026-09-10T23:03:03.865700+00:00",
+    "title": "Latest Anthropic horror story chills with tales of kamikaze drone swarms and bioweapons research"
+  },
+  "https://www.group-ib.com/blog/grelosgtm/": {
+    "ts": "2026-09-10T23:03:04.097192+00:00",
+    "title": "GrelosGTM group abuses Google Tag Manager to attack e-commerce websites"
+  },
+  "https://www.group-ib.com/blog/btc-changer/": {
+    "ts": "2026-09-10T23:03:04.331449+00:00",
+    "title": "Lazarus BTC Changer"
+  },
+  "https://threats.wiz.io/all-incidents/mirai-botnet-exploiting-apache-ofbiz-vulnerability": {
+    "ts": "2026-09-10T23:03:04.567293+00:00",
+    "title": "Mirai Botnet Exploiting Apache OFBiz Vulnerability (Campaign)"
+  },
+  "https://www.group-ib.com/blog/phishing-kits/": {
+    "ts": "2026-09-10T23:03:04.804832+00:00",
+    "title": "Deep water: exploring phishing kits"
+  },
+  "https://threats.wiz.io/all-incidents/ransomware-operators-exploit-esxi-vulnerability": {
+    "ts": "2026-09-10T23:03:05.038900+00:00",
+    "title": "Ransomware operators exploit ESXi vulnerability (Campaign)"
+  },
+  "https://www.group-ib.com/blog/swarmshop/": {
+    "ts": "2026-09-10T23:03:05.283147+00:00",
+    "title": "When Karma Comes Back"
+  },
+  "https://www.group-ib.com/blog/rats-nigeria/": {
+    "ts": "2026-09-10T23:03:05.522364+00:00",
+    "title": "Kremlin RATs from Nigeria"
+  },
+  "https://threats.wiz.io/all-incidents/seleniumgreed-threat-actors-exploit-exposed-selenium-grid-services-for-cryptomining": {
+    "ts": "2026-09-10T23:03:05.775108+00:00",
+    "title": "SeleniumGreed: Threat actors exploit exposed Selenium Grid services for Cryptomining (Campaign)"
+  },
+  "https://www.group-ib.com/blog/bootkits/": {
+    "ts": "2026-09-10T23:03:05.775121+00:00",
+    "title": "Masters of disguise"
+  },
+  "https://threats.wiz.io/all-incidents/disney-slack-breach": {
+    "ts": "2026-09-10T23:03:05.775125+00:00",
+    "title": "Disney Slack breach (Incident)"
+  },
+  "https://www.group-ib.com/blog/e1rb/": {
+    "ts": "2026-09-10T23:03:06.011009+00:00",
+    "title": "JavaScript sniffers\u2019 new tricks"
+  },
+  "https://threats.wiz.io/all-incidents/crystalray": {
+    "ts": "2026-09-10T23:03:06.246763+00:00",
+    "title": "crystalray (Campaign)"
+  },
+  "https://www.group-ib.com/blog/classiscam/": {
+    "ts": "2026-09-10T23:03:06.488685+00:00",
+    "title": "Inside Classiscam"
+  },
+  "https://threats.wiz.io/all-incidents/python-infrastructure-leaked-access-token": {
+    "ts": "2026-09-10T23:03:06.721040+00:00",
+    "title": "Python infrastructure leaked access token (Research)"
+  },
+  "https://www.group-ib.com/blog/gitlab-jenkins-forensics/": {
+    "ts": "2026-09-10T23:03:06.963032+00:00",
+    "title": "The source of everything"
+  },
+  "https://threats.wiz.io/all-incidents/misconfigured-jenkins-servers-used-for-cryptomining": {
+    "ts": "2026-09-10T23:03:07.209747+00:00",
+    "title": "Misconfigured Jenkins Servers Used for Cryptomining (Campaign)"
+  },
+  "https://www.group-ib.com/blog/ultrarank/": {
+    "ts": "2026-09-10T23:03:07.447017+00:00",
+    "title": "New attacks by UltraRank group"
+  },
+  "https://threats.wiz.io/all-incidents/8220-gang-exploiting-weblogic-vulnerabilities-for-cryptojacking": {
+    "ts": "2026-09-10T23:03:07.683787+00:00",
+    "title": "8220 Gang Exploiting WebLogic Vulnerabilities for Cryptojacking (Campaign)"
+  },
+  "https://www.group-ib.com/blog/fakesecurity-raccoon/": {
+    "ts": "2026-09-10T23:03:07.933765+00:00",
+    "title": "The footprints of Raccoon"
+  },
+  "https://threats.wiz.io/all-incidents/funnull-polyfill-supply-chain-attack": {
+    "ts": "2026-09-10T23:03:08.172210+00:00",
+    "title": "Funnull Polyfill supply chain attack (Campaign)"
+  },
+  "https://www.group-ib.com/blog/egregor/": {
+    "ts": "2026-09-10T23:03:08.402191+00:00",
+    "title": "The Locking Egregor"
+  },
+  "https://threats.wiz.io/all-incidents/rabbit-ai-exposed-keys-in-code": {
+    "ts": "2026-09-10T23:03:08.643596+00:00",
+    "title": "Rabbit AI exposed keys in code (Research)"
+  },
+  "https://www.group-ib.com/blog/oldgremlin/": {
+    "ts": "2026-09-10T23:03:08.881459+00:00",
+    "title": "Big Game Hunting: Now in Russia"
   }
 }

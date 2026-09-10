@@ -134,6 +134,61 @@
       "category": "apt_campaign",
       "title": "Scattered Spider Abuses Cloud Management Agent (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/scattered-spider-abuses-cloud-management-agent"
+    },
+    {
+      "category": "malware_android",
+      "title": "New Android malware encrypts files, steals data, and harasses victims",
+      "url": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Connecting the Bots",
+      "url": "https://www.group-ib.com/blog/hancitor-cuba-ransomware/"
+    },
+    {
+      "category": "malware_other",
+      "title": "GrelosGTM group abuses Google Tag Manager to attack e-commerce websites",
+      "url": "https://www.group-ib.com/blog/grelosgtm/"
+    },
+    {
+      "category": "poland",
+      "title": "Kremlin RATs from Nigeria",
+      "url": "https://www.group-ib.com/blog/rats-nigeria/"
+    },
+    {
+      "category": "new_technique",
+      "title": "SeleniumGreed: Threat actors exploit exposed Selenium Grid services for Cryptomining (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/seleniumgreed-threat-actors-exploit-exposed-selenium-grid-services-for-cryptomining"
+    },
+    {
+      "category": "malware_other",
+      "title": "JavaScript sniffers\u2019 new tricks",
+      "url": "https://www.group-ib.com/blog/e1rb/"
+    },
+    {
+      "category": "malware_other",
+      "title": "New attacks by UltraRank group",
+      "url": "https://www.group-ib.com/blog/ultrarank/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "8220 Gang Exploiting WebLogic Vulnerabilities for Cryptojacking (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/8220-gang-exploiting-weblogic-vulnerabilities-for-cryptojacking"
+    },
+    {
+      "category": "malware_windows",
+      "title": "The footprints of Raccoon",
+      "url": "https://www.group-ib.com/blog/fakesecurity-raccoon/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Funnull Polyfill supply chain attack (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/funnull-polyfill-supply-chain-attack"
+    },
+    {
+      "category": "malware_windows",
+      "title": "The Locking Egregor",
+      "url": "https://www.group-ib.com/blog/egregor/"
     }
   ],
   "last_sent_date": "2026-09-10"
