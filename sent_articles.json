@@ -8234,5 +8234,125 @@
   "https://www.group-ib.com/blog/blackmatter2/": {
     "ts": "2026-09-10T03:53:10.204358+00:00",
     "title": "The Darker Things"
+  },
+  "https://gbhackers.com/best-mobile-threat-defense-compared/": {
+    "ts": "2026-09-10T08:49:57.931336+00:00",
+    "title": "The 12 Best Mobile Threat Defense (MTD) Solutions, Compared and Priced"
+  },
+  "https://asec.ahnlab.com/en/95338/": {
+    "ts": "2026-09-10T08:51:48.660654+00:00",
+    "title": "Ransom & Dark Web Issues Week 2, September 2026"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/": {
+    "ts": "2026-09-10T08:51:48.660673+00:00",
+    "title": "Microsoft fixes bug that wiped Windows desktop settings"
+  },
+  "https://cybersecuritynews.com/best-server-security-solutions/": {
+    "ts": "2026-09-10T08:51:48.660676+00:00",
+    "title": "Top 10 Best Server Security Solutions in 2026"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/eu-cyber-resilience-act-reporting-requirements": {
+    "ts": "2026-09-10T08:51:48.660679+00:00",
+    "title": "EU Cyber Resilience Act to Enforce New Reporting Requirements"
+  },
+  "https://gbhackers.com/best-application-control-compared-2/": {
+    "ts": "2026-09-10T08:51:48.660682+00:00",
+    "title": "12 Best Application Control & Allowlisting Tools Compared (2026): Features & Pricing"
+  },
+  "https://www.group-ib.com/blog/cannibal-carders-fake-shops/": {
+    "ts": "2026-09-10T08:51:48.830789+00:00",
+    "title": "Cannibal Carders"
+  },
+  "https://www.helpnetsecurity.com/2026/09/10/apple-reference-image-iphone-18-pro/": {
+    "ts": "2026-09-10T08:51:48.830805+00:00",
+    "title": "Apple is building photo verification for the people who need it most"
+  },
+  "https://securityaffairs.com/198802/hacking/u-s-cisa-adds-microsoft-windows-n-able-n-central-and-adobe-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-09-10T08:51:48.830808+00:00",
+    "title": "U.S. CISA adds Microsoft Windows, N-able N-central, and Adobe flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.securityweek.com/new-shieldcrash-zero-day-exploit-targets-microsoft-defender/": {
+    "ts": "2026-09-10T08:51:48.955249+00:00",
+    "title": "New \u2018ShieldCrash\u2019 Zero-Day Exploit Targets Microsoft Defender"
+  },
+  "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html": {
+    "ts": "2026-09-10T08:51:48.955264+00:00",
+    "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key"
+  },
+  "https://www.intego.com/mac-security-blog/allow-pop-ups-on-mac/": {
+    "ts": "2026-09-10T08:51:49.093948+00:00",
+    "title": "How to allow pop-ups on a Mac in Safari, Chrome, and Firefox"
+  },
+  "https://www.theregister.com/security/2026/09/10/dental-contractor-set-up-secret-account-with-access-to-4000-patient-records-then-left-the-company/5295361": {
+    "ts": "2026-09-10T08:51:49.226338+00:00",
+    "title": "Dental contractor set up secret account with access to 4,000 patient records then left the company"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/safe-word-what-why-need-one/": {
+    "ts": "2026-09-10T08:51:49.360648+00:00",
+    "title": "Safe word: What is it and why do you need one?"
+  },
+  "https://threats.wiz.io/all-incidents/github-pat-leakage-leading-to-rds-database-exfiltration": {
+    "ts": "2026-09-10T08:51:49.492918+00:00",
+    "title": "GitHub PAT leakage leading to RDS Database exfiltration (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/": {
+    "ts": "2026-09-10T08:51:49.626446+00:00",
+    "title": "Trezor warns users of email provider breach, phishing attacks"
+  },
+  "https://cybersecuritynews.com/best-ransomware-protection-solutions-2/": {
+    "ts": "2026-09-10T08:51:49.626458+00:00",
+    "title": "Top 10 Best Ransomware Protection Solutions in 2026"
+  },
+  "https://gbhackers.com/best-patch-management-compared-2/": {
+    "ts": "2026-09-10T08:51:49.626460+00:00",
+    "title": "12 Best Patch Management Software Compared (2026): Features & Pricing"
+  },
+  "https://www.group-ib.com/blog/middle-east-scam/": {
+    "ts": "2026-09-10T08:51:49.626463+00:00",
+    "title": "Scamdemic outbreak"
+  },
+  "https://www.helpnetsecurity.com/2026/09/10/product-showcase-gitguardian-honeytoken-decoy-service/": {
+    "ts": "2026-09-10T08:51:49.626465+00:00",
+    "title": "Product showcase: GitGuardian Honeytoken catches credential theft as it happens"
+  },
+  "https://securityaffairs.com/198783/apt/four-nation-state-actors-used-the-same-chrome-zero-day-exploit-kit-within-12-days.html": {
+    "ts": "2026-09-10T08:51:49.760244+00:00",
+    "title": "Four Nation-State Actors Used the Same Chrome Zero-Day Exploit Kit Within 12 Days"
+  },
+  "https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/": {
+    "ts": "2026-09-10T08:51:49.899949+00:00",
+    "title": "Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks"
+  },
+  "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html": {
+    "ts": "2026-09-10T08:51:50.029685+00:00",
+    "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/09/10/anthropic-reveals-fourth-likely-crime-committed-by-its-ai/5295412": {
+    "ts": "2026-09-10T08:51:50.152776+00:00",
+    "title": "Anthropic reveals fourth likely crime committed by its AI"
+  },
+  "https://threats.wiz.io/all-incidents/fortinet-sharepoint-data-leak": {
+    "ts": "2026-09-10T08:51:50.288151+00:00",
+    "title": "Fortinet Sharepoint data leak (Incident)"
+  },
+  "https://cybersecuritynews.com/best-endpoint-encryption-software/": {
+    "ts": "2026-09-10T08:51:50.416897+00:00",
+    "title": "Top 10 Best Endpoint Encryption Software in 2026"
+  },
+  "https://www.group-ib.com/blog/runlir/": {
+    "ts": "2026-09-10T08:51:50.548664+00:00",
+    "title": "RUNLIR \u2013 phishing campaign targeting Netherlands"
+  },
+  "https://www.helpnetsecurity.com/2026/09/10/browser-based-phishing-blob-urls-microsoft-oauth/": {
+    "ts": "2026-09-10T08:51:50.680263+00:00",
+    "title": "Cybercriminals are building phishing pages that exist only inside victims\u2019 browsers"
+  },
+  "https://threats.wiz.io/all-incidents/campaign-targeting-selenium-grid-for-cryptomining": {
+    "ts": "2026-09-10T08:51:50.840121+00:00",
+    "title": "Campaign targeting Selenium Grid for cryptomining (Campaign)"
+  },
+  "https://cybersecuritynews.com/gpt-powered-tools/": {
+    "ts": "2026-09-10T08:51:50.975298+00:00",
+    "title": "Hackers Use Claude and GPT-Powered Tools to Help Breach Government and Financial Networks"
   }
 }
