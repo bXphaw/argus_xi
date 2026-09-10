@@ -84,6 +84,56 @@
       "category": "threat_actor",
       "title": "ShinyHunters Ransomware Targeting Cloud Environments (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/shinyhunters-ransomware-targeting-cloud-environments"
+    },
+    {
+      "category": "threat_actor",
+      "title": "We've got one word for it, and it's usually the wrong one",
+      "url": "https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "The Brothers Grim",
+      "url": "https://www.group-ib.com/blog/grimagent/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Protecting organizations from AI-assisted executive impersonation and invoice fraud",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/"
+    },
+    {
+      "category": "malware_other",
+      "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hundreds of AI agents helped PaperCut attacker hit 395+ orgs, and some went off script",
+      "url": "https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650"
+    },
+    {
+      "category": "new_technique",
+      "title": "Extortion Campaign Exploiting Exposed Environment Variable (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/extortion-campaign-exploiting-exposed-environment-variable"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Big airline heist",
+      "url": "https://www.group-ib.com/blog/colunmtk-apt41/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Horde Panda targeting South Asian telecommunications provider  (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/horde-panda-targeting-south-asian-telecommunications-provider-"
+    },
+    {
+      "category": "threat_actor",
+      "title": "BlackCat Ransomware: Tactics, Techniques & Mitigation Strategies",
+      "url": "https://www.group-ib.com/blog/blackcat/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Scattered Spider Abuses Cloud Management Agent (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/scattered-spider-abuses-cloud-management-agent"
     }
   ],
   "last_sent_date": "2026-09-10"

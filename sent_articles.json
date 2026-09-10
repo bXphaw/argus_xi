@@ -8594,5 +8594,125 @@
   "https://www.group-ib.com/blog/fraud-family-nl/": {
     "ts": "2026-09-10T17:37:47.681775+00:00",
     "title": "The Fraud Family"
+  },
+  "https://threats.wiz.io/all-incidents/gafgyt-malware-targeting-cloud-environments": {
+    "ts": "2026-09-10T20:38:05.498693+00:00",
+    "title": "Gafgyt Malware Targeting Cloud Environments (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/": {
+    "ts": "2026-09-10T20:39:43.179263+00:00",
+    "title": "September Windows Server updates break Remote Desktop Services"
+  },
+  "https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/": {
+    "ts": "2026-09-10T20:39:43.281184+00:00",
+    "title": "We've got one word for it, and it's usually the wrong one"
+  },
+  "https://cybersecuritynews.com/openmatter-network-realigns-leadership-team-to-accelerate-global-commercial-growth/": {
+    "ts": "2026-09-10T20:39:43.281202+00:00",
+    "title": "OpenMatter Network Realigns Leadership Team to Accelerate Global Commercial Growth"
+  },
+  "https://www.group-ib.com/blog/grimagent/": {
+    "ts": "2026-09-10T20:39:43.384759+00:00",
+    "title": "The Brothers Grim"
+  },
+  "https://www.helpnetsecurity.com/2026/09/10/weight-custody-manifest-open-standard/": {
+    "ts": "2026-09-10T20:39:43.384777+00:00",
+    "title": "A new open standard locks AI weights to approved hardware"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/": {
+    "ts": "2026-09-10T20:39:43.480513+00:00",
+    "title": "Protecting organizations from AI-assisted executive impersonation and invoice fraud"
+  },
+  "https://securityaffairs.com/198850/security/u-s-cisa-adds-cisco-google-chromium-v8-fortinet-and-citrix-netscaler-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-09-10T20:39:43.480556+00:00",
+    "title": "U.S. CISA adds Cisco, Google Chromium V8, Fortinet, and Citrix NetScaler\u00a0flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/": {
+    "ts": "2026-09-10T20:39:43.480561+00:00",
+    "title": "Mandiant Founder Kevin Mandia Joins Amazon Board"
+  },
+  "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html": {
+    "ts": "2026-09-10T20:39:43.581942+00:00",
+    "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories"
+  },
+  "https://www.theregister.com/security/2026/09/10/watch-out-apple-timepiece-can-grab-snippets-of-conversation-without-both-speakers-consent/5295666": {
+    "ts": "2026-09-10T20:39:43.581960+00:00",
+    "title": "Watch out: Apple timepiece can grab snippets of conversation without both speakers' consent"
+  },
+  "https://threats.wiz.io/all-incidents/msupedge-backdoor-targeting-taiwanese-university": {
+    "ts": "2026-09-10T20:39:43.672180+00:00",
+    "title": "Msupedge Backdoor Targeting Taiwanese University (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/": {
+    "ts": "2026-09-10T20:39:43.768149+00:00",
+    "title": "Surfshark VPN says hackers breached internal testing, proxy servers"
+  },
+  "https://cybersecuritynews.com/fake-gta-6-downloads/": {
+    "ts": "2026-09-10T20:39:43.857173+00:00",
+    "title": "Hackers Use Fake GTA 6 Downloads to Deploy RATs, Infostealers and Data-Wiping Malware"
+  },
+  "https://www.group-ib.com/blog/revil-raas/": {
+    "ts": "2026-09-10T20:39:43.957050+00:00",
+    "title": "REvil Twins: Ransomware-as-a-Service program"
+  },
+  "https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/": {
+    "ts": "2026-09-10T20:39:44.053536+00:00",
+    "title": "Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews"
+  },
+  "https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650": {
+    "ts": "2026-09-10T20:39:44.159500+00:00",
+    "title": "Hundreds of AI agents helped PaperCut attacker hit 395+ orgs, and some went off script"
+  },
+  "https://threats.wiz.io/all-incidents/extortion-campaign-exploiting-exposed-environment-variable": {
+    "ts": "2026-09-10T20:39:44.256881+00:00",
+    "title": "Extortion Campaign Exploiting Exposed Environment Variable (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/": {
+    "ts": "2026-09-10T20:39:44.256898+00:00",
+    "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users"
+  },
+  "https://cybersecuritynews.com/wordpress-uses-ai-to-stop-malicious-plugin/": {
+    "ts": "2026-09-10T20:39:44.256902+00:00",
+    "title": "WordPress Uses AI to Stop Malicious Plugin Updates Before They Reach Millions of Websites"
+  },
+  "https://www.group-ib.com/blog/colunmtk-apt41/": {
+    "ts": "2026-09-10T20:39:44.352731+00:00",
+    "title": "Big airline heist"
+  },
+  "https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/": {
+    "ts": "2026-09-10T20:39:44.461791+00:00",
+    "title": "Webinar Today: Keep Pace With AI \u2013 A New Operating Model for Endpoint Remediation"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/": {
+    "ts": "2026-09-10T20:39:44.557452+00:00",
+    "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter"
+  },
+  "https://cybersecuritynews.com/hackers-use-blob-urls/": {
+    "ts": "2026-09-10T20:39:44.646396+00:00",
+    "title": "Hackers Use Blob URLs and Microsoft Teams to Create Phishing Pages Inside Victims\u2019 Browsers"
+  },
+  "https://www.group-ib.com/blog/fontpack/": {
+    "ts": "2026-09-10T20:39:44.741979+00:00",
+    "title": "FontPack: A dangerous update"
+  },
+  "https://www.securityweek.com/organizations-warned-of-cisco-secure-fmc-exploitation/": {
+    "ts": "2026-09-10T20:39:44.843274+00:00",
+    "title": "Organizations Warned of Cisco Secure FMC Exploitation"
+  },
+  "https://threats.wiz.io/all-incidents/horde-panda-targeting-south-asian-telecommunications-provider-": {
+    "ts": "2026-09-10T20:39:44.942241+00:00",
+    "title": "Horde Panda targeting South Asian telecommunications provider  (Campaign)"
+  },
+  "https://cybersecuritynews.com/cisco-firewall-root-access-flaw/": {
+    "ts": "2026-09-10T20:39:44.942258+00:00",
+    "title": "Hackers Exploit Critical Cisco Firewall Flaw to Gain Root Access and Deploy Malware"
+  },
+  "https://www.group-ib.com/blog/blackcat/": {
+    "ts": "2026-09-10T20:39:45.047959+00:00",
+    "title": "BlackCat Ransomware: Tactics, Techniques & Mitigation Strategies"
+  },
+  "https://threats.wiz.io/all-incidents/scattered-spider-abuses-cloud-management-agent": {
+    "ts": "2026-09-10T20:39:45.141359+00:00",
+    "title": "Scattered Spider Abuses Cloud Management Agent (Campaign)"
   }
 }
