@@ -194,6 +194,56 @@
       "category": "threat_actor",
       "title": "Old Gremlins, new methods",
       "url": "https://www.group-ib.com/blog/oldgremlin-comeback/"
+    },
+    {
+      "category": "new_technique",
+      "title": "ChatGPT Flaw Could Let Attackers Steal Gmail Data Across User Accounts",
+      "url": "https://gbhackers.com/chatgpt-flaw/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "APT29 Targeting Zimbra and TeamCity Servers (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/apt29-targeting-zimbra-and-teamcity-servers"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Weaponize Agentic AI to Automate Reconnaissance, Exploitation and Post-Exploitation",
+      "url": "https://gbhackers.com/agentic-ai-automates-cyberattacks/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Veeam Vulnerability Exploited by Akira and Fog Ransomware (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/veeam-vulnerability-exploited-by-akira-and-fog-ransomware"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Cleaning the atmosphere",
+      "url": "https://www.group-ib.com/blog/atmosphere/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Docker Swarm and K8s cryptojacking campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/docker-swarm-and-k8s-cryptojacking-campaign"
+    },
+    {
+      "category": "malware_windows",
+      "title": "UNC1860 Attacks Targeting the Middle East (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/unc1860-attacks-targeting-the-middle-east"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Inside the Hive",
+      "url": "https://www.group-ib.com/blog/hive/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Scattered Spider targeting GCP environment (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/scattered-spider-targeting-gcp-environment"
+    },
+    {
+      "category": "malware_windows",
+      "title": "The Darker Things",
+      "url": "https://www.group-ib.com/blog/blackmatter2/"
     }
   ],
   "last_sent_date": "2026-09-09"

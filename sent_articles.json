@@ -8114,5 +8114,125 @@
   "https://threats.wiz.io/all-incidents/game-freak-data-leak": {
     "ts": "2026-09-09T23:06:05.951994+00:00",
     "title": "Game Freak data leak (Incident)"
+  },
+  "https://cybersecuritynews.com/critical-arangodb-flaws/": {
+    "ts": "2026-09-10T03:51:24.411632+00:00",
+    "title": "Critical ArangoDB Flaws Allow Authentication Bypass and Remote Code Execution as Root"
+  },
+  "https://threats.wiz.io/all-incidents/ref6138-campaign": {
+    "ts": "2026-09-10T03:51:32.240543+00:00",
+    "title": "REF6138 campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/storm-0501-targeting-hybrid-environments-with-ransomware": {
+    "ts": "2026-09-10T03:51:33.045096+00:00",
+    "title": "Storm-0501 Targeting Hybrid Environments with Ransomware (Campaign)"
+  },
+  "https://www.group-ib.com/blog/log4shell/": {
+    "ts": "2026-09-10T03:51:33.093776+00:00",
+    "title": "Mitigating Log4Shell in Log4j with Group-IB"
+  },
+  "https://threats.wiz.io/all-incidents/storm-0501-attacking-hybrid-environments-with-ransomware": {
+    "ts": "2026-09-10T03:51:33.134334+00:00",
+    "title": "Storm-0501 attacking hybrid environments with ransomware (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/scattered-spider-targeting-azure-environment": {
+    "ts": "2026-09-10T03:51:37.891031+00:00",
+    "title": "Scattered Spider targeting Azure environment (Incident)"
+  },
+  "https://cybersecuritynews.com/claude-ai-models-gained-unauthorized-access/": {
+    "ts": "2026-09-10T03:53:09.126021+00:00",
+    "title": "Claude AI Models Gained Unauthorized Access to Real Systems During Cybersecurity Tests"
+  },
+  "https://gbhackers.com/chatgpt-flaw/": {
+    "ts": "2026-09-10T03:53:09.213013+00:00",
+    "title": "ChatGPT Flaw Could Let Attackers Steal Gmail Data Across User Accounts"
+  },
+  "https://www.group-ib.com/blog/fake-crypto-giveaway/": {
+    "ts": "2026-09-10T03:53:09.213030+00:00",
+    "title": "Scammers make off with $1.6 million in crypto"
+  },
+  "https://www.helpnetsecurity.com/2026/09/10/openssl-4-1-0-alpha1-released/": {
+    "ts": "2026-09-10T03:53:09.213034+00:00",
+    "title": "OpenSSL\u2019s new alpha build speeds up post-quantum crypto"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/": {
+    "ts": "2026-09-10T03:53:09.213038+00:00",
+    "title": "Threat matrix: Mapping threats across cloud web applications"
+  },
+  "https://threats.wiz.io/all-incidents/apt29-targeting-zimbra-and-teamcity-servers": {
+    "ts": "2026-09-10T03:53:09.269734+00:00",
+    "title": "APT29 Targeting Zimbra and TeamCity Servers (Campaign)"
+  },
+  "https://gbhackers.com/agentic-ai-automates-cyberattacks/": {
+    "ts": "2026-09-10T03:53:09.328867+00:00",
+    "title": "Hackers Weaponize Agentic AI to Automate Reconnaissance, Exploitation and Post-Exploitation"
+  },
+  "https://www.group-ib.com/blog/spring4shell/": {
+    "ts": "2026-09-10T03:53:09.328884+00:00",
+    "title": "Mitigating Spring4Shell with Group-IB"
+  },
+  "https://threats.wiz.io/all-incidents/veeam-vulnerability-exploited-by-akira-and-fog-ransomware": {
+    "ts": "2026-09-10T03:53:09.385021+00:00",
+    "title": "Veeam Vulnerability Exploited by Akira and Fog Ransomware (Campaign)"
+  },
+  "https://www.group-ib.com/blog/fake-delivery-scams-singapore/": {
+    "ts": "2026-09-10T03:53:09.385036+00:00",
+    "title": "Empty Box"
+  },
+  "https://threats.wiz.io/all-incidents/llmjacking-for-roleplaying-campaign": {
+    "ts": "2026-09-10T03:53:09.442185+00:00",
+    "title": "LLMJacking for Roleplaying Campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/assetzero/": {
+    "ts": "2026-09-10T03:53:09.500888+00:00",
+    "title": "Lost & Found: Group-IB Unveils Attack Surface Management (ex. AssetZero)"
+  },
+  "https://threats.wiz.io/all-incidents/perfctl-malware-targeting-linux": {
+    "ts": "2026-09-10T03:53:09.558500+00:00",
+    "title": "perfctl Malware Targeting Linux (Campaign)"
+  },
+  "https://www.group-ib.com/blog/5-ransomware-tips/": {
+    "ts": "2026-09-10T03:53:09.617320+00:00",
+    "title": "Top 5 recommendations for preventing ransomware for 2022"
+  },
+  "https://threats.wiz.io/all-incidents/rackspace-incident-2024": {
+    "ts": "2026-09-10T03:53:09.675017+00:00",
+    "title": "Rackspace incident (2024) (Incident)"
+  },
+  "https://www.group-ib.com/blog/atmosphere/": {
+    "ts": "2026-09-10T03:53:09.735406+00:00",
+    "title": "Cleaning the atmosphere"
+  },
+  "https://www.group-ib.com/blog/ml-in-investigations/": {
+    "ts": "2026-09-10T03:53:09.735422+00:00",
+    "title": "Shedding light on the dark web"
+  },
+  "https://www.group-ib.com/blog/tia-mitre/": {
+    "ts": "2026-09-10T03:53:09.735427+00:00",
+    "title": "How MITRE ATT&CK\u00ae helps users of Threat Intelligence"
+  },
+  "https://threats.wiz.io/all-incidents/docker-swarm-and-k8s-cryptojacking-campaign": {
+    "ts": "2026-09-10T03:53:09.792271+00:00",
+    "title": "Docker Swarm and K8s cryptojacking campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/target/": {
+    "ts": "2026-09-10T03:53:09.792291+00:00",
+    "title": "Ready-made fraud"
+  },
+  "https://threats.wiz.io/all-incidents/unc1860-attacks-targeting-the-middle-east": {
+    "ts": "2026-09-10T03:53:09.850612+00:00",
+    "title": "UNC1860 Attacks Targeting the Middle East (Campaign)"
+  },
+  "https://www.group-ib.com/blog/hive/": {
+    "ts": "2026-09-10T03:53:09.911757+00:00",
+    "title": "Inside the Hive"
+  },
+  "https://threats.wiz.io/all-incidents/scattered-spider-targeting-gcp-environment": {
+    "ts": "2026-09-10T03:53:09.969591+00:00",
+    "title": "Scattered Spider targeting GCP environment (Incident)"
+  },
+  "https://www.group-ib.com/blog/blackmatter2/": {
+    "ts": "2026-09-10T03:53:10.204358+00:00",
+    "title": "The Darker Things"
   }
 }
