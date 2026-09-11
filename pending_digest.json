@@ -1,4 +1,65 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
+      "url": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Russia-Aligned Hackers Use GuardBreaker Prompt Injection to Disrupt AI Malware Analysis",
+      "url": "https://cybersecuritynews.com/hackers-guardbreaker-prompt-injection/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Researchers Uncover 10,000+ Malware Loaders Behind YouTube and SEO Poisoning Campaign",
+      "url": "https://gbhackers.com/10000-malware-loaders/"
+    },
+    {
+      "category": "malware_android",
+      "title": "Gustuff: Weapon of Mass Infection",
+      "url": "https://www.group-ib.com/blog/gustuff/"
+    },
+    {
+      "category": "malware_android",
+      "title": "Android malware creates a hidden copy of your banking app",
+      "url": "https://www.malwarebytes.com/blog/mobile/2026/09/android-malware-creates-a-hidden-copy-of-your-banking-app"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Ukrainian lawyer's second career as a Conti coder earns him 4 years behind bars",
+      "url": "https://www.theregister.com/cyber-crime/2026/09/11/ukrainian-lawyers-second-career-as-a-conti-coder-earns-him-4-years-behind-bars/5295841"
+    },
+    {
+      "category": "threat_actor",
+      "title": "GuardBreaker: Derailing AI-assisted malware analysis with a code comment",
+      "url": "https://www.welivesecurity.com/en/business-security/guardbreaker-derailing-ai-assisted-malware-analysis-code-comment/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Kubernetes Clusters Targeted in OpenMetadata Exploits (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/kubernetes-clusters-targeted-in-openmetadata-exploits"
+    },
+    {
+      "category": "malware_other",
+      "title": "New KATARU IoT Malware Packs Linux Privilege Escalation Exploits and Mirai-Style DDoS Attacks",
+      "url": "https://cybersecuritynews.com/new-kataru-iot-malware/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+      "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Silence: Moving into the Darkside",
+      "url": "https://www.group-ib.com/blog/silence/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Cisco FMC CVE-2026-20079 Actively Exploited",
+      "url": "https://socradar.io/blog/cisco-fmc-cve-2026-20079-actively-exploited/"
+    }
+  ],
   "last_sent_date": "2026-09-11"
 }

@@ -9194,5 +9194,125 @@
   "https://gbhackers.com/okta-patches-auth0-and-access-gateway-vulnerabilities/": {
     "ts": "2026-09-11T10:56:24.202805+00:00",
     "title": "Okta Patches Auth0 and Access Gateway Vulnerabilities Let Attackers Enable XSS, Authentication Bypass and SQL Injection"
+  },
+  "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/": {
+    "ts": "2026-09-11T14:56:38.218118+00:00",
+    "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack"
+  },
+  "https://threats.wiz.io/all-incidents/delinea-breach": {
+    "ts": "2026-09-11T14:56:40.407913+00:00",
+    "title": "Delinea breach (Incident)"
+  },
+  "https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/": {
+    "ts": "2026-09-11T14:56:44.228663+00:00",
+    "title": "Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison"
+  },
+  "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/": {
+    "ts": "2026-09-11T14:58:19.426027+00:00",
+    "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface"
+  },
+  "https://cybersecuritynews.com/hackers-guardbreaker-prompt-injection/": {
+    "ts": "2026-09-11T14:58:19.624880+00:00",
+    "title": "Russia-Aligned Hackers Use GuardBreaker Prompt Injection to Disrupt AI Malware Analysis"
+  },
+  "https://gbhackers.com/10000-malware-loaders/": {
+    "ts": "2026-09-11T14:58:19.818293+00:00",
+    "title": "Researchers Uncover 10,000+ Malware Loaders Behind YouTube and SEO Poisoning Campaign"
+  },
+  "https://www.group-ib.com/blog/gustuff/": {
+    "ts": "2026-09-11T14:58:20.013677+00:00",
+    "title": "Gustuff: Weapon of Mass Infection"
+  },
+  "https://www.malwarebytes.com/blog/mobile/2026/09/android-malware-creates-a-hidden-copy-of-your-banking-app": {
+    "ts": "2026-09-11T14:58:20.205920+00:00",
+    "title": "Android malware creates a hidden copy of your banking app"
+  },
+  "https://moonlock.com/spotify-scams": {
+    "ts": "2026-09-11T14:58:20.404631+00:00",
+    "title": "8 tactics behind Spotify scams that steal accounts and data"
+  },
+  "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-goes-to-sixteen": {
+    "ts": "2026-09-11T14:58:20.595353+00:00",
+    "title": "Metasploit Wrap Up: This One Goes to Sixteen!"
+  },
+  "https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/": {
+    "ts": "2026-09-11T14:58:20.801600+00:00",
+    "title": "In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review"
+  },
+  "https://socradar.io/blog/socradar-aws-marketplace-threat-intelligence/": {
+    "ts": "2026-09-11T14:58:21.000308+00:00",
+    "title": "Simplify Threat Intelligence Procurement with SOCRadar and AWS Marketplace"
+  },
+  "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html": {
+    "ts": "2026-09-11T14:58:21.191812+00:00",
+    "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk"
+  },
+  "https://www.theregister.com/cyber-crime/2026/09/11/ukrainian-lawyers-second-career-as-a-conti-coder-earns-him-4-years-behind-bars/5295841": {
+    "ts": "2026-09-11T14:58:21.384588+00:00",
+    "title": "Ukrainian lawyer's second career as a Conti coder earns him 4 years behind bars"
+  },
+  "https://www.welivesecurity.com/en/business-security/guardbreaker-derailing-ai-assisted-malware-analysis-code-comment/": {
+    "ts": "2026-09-11T14:58:21.575887+00:00",
+    "title": "GuardBreaker: Derailing AI-assisted malware analysis with a code comment"
+  },
+  "https://threats.wiz.io/all-incidents/kubernetes-clusters-targeted-in-openmetadata-exploits": {
+    "ts": "2026-09-11T14:58:21.766262+00:00",
+    "title": "Kubernetes Clusters Targeted in OpenMetadata Exploits (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/": {
+    "ts": "2026-09-11T14:58:21.766281+00:00",
+    "title": "GitLab urges users to patch max severity path traversal flaw"
+  },
+  "https://cybersecuritynews.com/new-kataru-iot-malware/": {
+    "ts": "2026-09-11T14:58:21.956949+00:00",
+    "title": "New KATARU IoT Malware Packs Linux Privilege Escalation Exploits and Mirai-Style DDoS Attacks"
+  },
+  "https://gbhackers.com/vlc-media-player-flaws/": {
+    "ts": "2026-09-11T14:58:22.148188+00:00",
+    "title": "VLC Media Player Flaws Let Attackers Corrupt Memory and Leak Sensitive Data"
+  },
+  "https://www.group-ib.com/blog/torrents/": {
+    "ts": "2026-09-11T14:58:22.346711+00:00",
+    "title": "The end of torrents era in Russia"
+  },
+  "https://moonlock.com/hinge-scams": {
+    "ts": "2026-09-11T14:58:22.539975+00:00",
+    "title": "Hinge scam: How to spot warning signs before they cost you"
+  },
+  "https://www.rapid7.com/blog/post/tr-fraud-ecosystem-fragmenting-marketplaces": {
+    "ts": "2026-09-11T14:58:22.741638+00:00",
+    "title": "The Fraud Ecosystem: A Transition From Known Marketplaces to a Fragmented Environment"
+  },
+  "https://socradar.io/blog/vibe-yemen-cell-claude-guided-weapons/": {
+    "ts": "2026-09-11T14:58:22.943122+00:00",
+    "title": "Vibe-Terrorism: Inside the Yemen Cell That Used Claude to Build Guided Weapons"
+  },
+  "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html": {
+    "ts": "2026-09-11T14:58:23.135179+00:00",
+    "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware"
+  },
+  "https://www.theregister.com/security/2026/09/11/eus-cyber-resilience-act-starts-the-24-hour-vulnerability-clock/5295821": {
+    "ts": "2026-09-11T14:58:23.135197+00:00",
+    "title": "EU's Cyber Resilience Act starts the 24-hour vulnerability clock"
+  },
+  "https://cybersecuritynews.com/hackers-impersonate-ceos/": {
+    "ts": "2026-09-11T14:58:23.135202+00:00",
+    "title": "Hackers Impersonate CEOs in 1 Million Emails to Trick Employees Into $50,000 Payments"
+  },
+  "https://gbhackers.com/cisa-adds-exploited-mikrotik-routeros-flaws/": {
+    "ts": "2026-09-11T14:58:23.135205+00:00",
+    "title": "CISA Adds Exploited MikroTik RouterOS Flaws to Security Alert"
+  },
+  "https://www.group-ib.com/blog/silence/": {
+    "ts": "2026-09-11T14:58:23.333392+00:00",
+    "title": "Silence: Moving into the Darkside"
+  },
+  "https://moonlock.com/apple-scams": {
+    "ts": "2026-09-11T14:58:23.333410+00:00",
+    "title": "What an Apple scam actually looks like, from fake emails and texts to calls"
+  },
+  "https://socradar.io/blog/cisco-fmc-cve-2026-20079-actively-exploited/": {
+    "ts": "2026-09-11T14:58:23.526399+00:00",
+    "title": "Cisco FMC CVE-2026-20079 Actively Exploited"
   }
 }
