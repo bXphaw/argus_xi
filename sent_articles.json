@@ -8954,5 +8954,125 @@
   "https://threats.wiz.io/all-incidents/redtail-cryptomining-campaign-": {
     "ts": "2026-09-11T01:01:31.924297+00:00",
     "title": "RedTail Cryptomining campaign  (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/mirai-campaign-targeting-ivanti-products": {
+    "ts": "2026-09-11T05:50:32.117010+00:00",
+    "title": "Mirai campaign targeting Ivanti products (Campaign)"
+  },
+  "https://gbhackers.com/openmatter-network-realigns-leadership-team-to-accelerate-global-commercial-growth/": {
+    "ts": "2026-09-11T05:50:32.837968+00:00",
+    "title": "OpenMatter Network Realigns Leadership Team to Accelerate Global Commercial Growth"
+  },
+  "https://gbhackers.com/skullcandy-dime-3-bluetooth-flaw/": {
+    "ts": "2026-09-11T05:50:39.635427+00:00",
+    "title": "Skullcandy Dime 3 Bluetooth Flaw Lets Nearby Attackers Hijack Audio and Microphone"
+  },
+  "https://cybersecuritynews.com/remote-desktop-services-failures/": {
+    "ts": "2026-09-11T05:52:13.660210+00:00",
+    "title": "Remote Desktop Services Failures on Windows Servers Following September Update"
+  },
+  "https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign": {
+    "ts": "2026-09-11T05:52:13.734074+00:00",
+    "title": "Indonesia Hit by Android Banking App-Cloning Campaign"
+  },
+  "https://gbhackers.com/wordpress-blocks-high-risk-plugin-releases/": {
+    "ts": "2026-09-11T05:52:13.734089+00:00",
+    "title": "WordPress Blocks High-Risk Plugin Releases With New AI-Powered Automated Security Review"
+  },
+  "https://www.group-ib.com/blog/windows10-timeline-for-forensics/": {
+    "ts": "2026-09-11T05:52:13.734093+00:00",
+    "title": "No Time to Waste"
+  },
+  "https://www.helpnetsecurity.com/2026/09/11/ransomware-decision-tree-video/": {
+    "ts": "2026-09-11T05:52:13.734097+00:00",
+    "title": "Building a ransomware decision tree before the call comes in"
+  },
+  "https://threats.wiz.io/all-incidents/snowflake-compromised-creds-abuse-campaign": {
+    "ts": "2026-09-11T05:52:13.779255+00:00",
+    "title": "Snowflake compromised creds abuse campaign (Incident)"
+  },
+  "https://cybersecuritynews.com/skullcandy-dime-3-bluetooth-flaw/": {
+    "ts": "2026-09-11T05:52:13.824185+00:00",
+    "title": "Skullcandy Dime 3 Bluetooth Flaw Lets Nearby Attackers Hijack Audio and Spy Through Microphone"
+  },
+  "https://gbhackers.com/critical-cisco-fmc-flaws-actively-exploited/": {
+    "ts": "2026-09-11T05:52:13.868704+00:00",
+    "title": "Critical Cisco FMC Flaws Actively Exploited to Gain Root Access and Deploy Malware"
+  },
+  "https://www.group-ib.com/blog/troldesh/": {
+    "ts": "2026-09-11T05:52:13.914544+00:00",
+    "title": "50 Shades of Ransomware"
+  },
+  "https://www.helpnetsecurity.com/2026/09/11/pistachio-employee-phishing-risk-report/": {
+    "ts": "2026-09-11T05:52:13.959901+00:00",
+    "title": "Companies may be measuring phishing resilience the wrong way"
+  },
+  "https://threats.wiz.io/all-incidents/kinsing-targeting-cloud-servers": {
+    "ts": "2026-09-11T05:52:14.003688+00:00",
+    "title": "Kinsing targeting cloud servers (Campaign)"
+  },
+  "https://cybersecuritynews.com/claude-ai-agents-used-to-automate-cyberattacks/": {
+    "ts": "2026-09-11T05:52:14.051824+00:00",
+    "title": "Hackers Use Claude AI Agents to Automate Cyberattacks, Develop 0-Days and Evade Detection"
+  },
+  "https://gbhackers.com/critical-check-point-vpn-flaws/": {
+    "ts": "2026-09-11T05:52:14.051843+00:00",
+    "title": "Critical Check Point VPN Flaws Let Unauthenticated Attackers Execute Remote Code"
+  },
+  "https://www.group-ib.com/blog/digital-forensics-tools/": {
+    "ts": "2026-09-11T05:52:14.051848+00:00",
+    "title": "Tools up: the best software and hardware tools for computer forensics"
+  },
+  "https://www.helpnetsecurity.com/2026/09/11/withsecure-salesforce-ai-trust-governance-paper/": {
+    "ts": "2026-09-11T05:52:14.051852+00:00",
+    "title": "AI is changing what Salesforce security needs to govern"
+  },
+  "https://cybersecuritynews.com/cisa-citrix-netscaler-authentication/": {
+    "ts": "2026-09-11T05:52:14.100245+00:00",
+    "title": "CISA Warns of Citrix NetScaler Authentication Bypass Vulnerability Exploited in Attacks"
+  },
+  "https://www.group-ib.com/blog/voice-kids-investigation/": {
+    "ts": "2026-09-11T05:52:14.100263+00:00",
+    "title": "Voting results of \u201cThe Voice Kids Russia Season 6\u201d"
+  },
+  "https://www.helpnetsecurity.com/2026/09/11/ubuntu-24-04-5-lts-released/": {
+    "ts": "2026-09-11T05:52:14.100269+00:00",
+    "title": "Ubuntu 24.04.5 LTS release patches security bugs across ten flavors"
+  },
+  "https://threats.wiz.io/all-incidents/atlas-lion-phishing-campaign": {
+    "ts": "2026-09-11T05:52:14.144950+00:00",
+    "title": "Atlas Lion phishing campaign (Campaign)"
+  },
+  "https://cybersecuritynews.com/passkey-themed-phishing/": {
+    "ts": "2026-09-11T05:52:14.218362+00:00",
+    "title": "Hackers Use Passkey-Themed Phishing to Hijack Microsoft 365 Accounts and Steal Cloud Data"
+  },
+  "https://gbhackers.com/litellm-ai-gateways/": {
+    "ts": "2026-09-11T05:52:14.264060+00:00",
+    "title": "Hackers Can Turn Vulnerable LiteLLM AI Gateways Into Root Access and Cloud Credential Theft"
+  },
+  "https://www.group-ib.com/blog/muddywater/": {
+    "ts": "2026-09-11T05:52:14.308012+00:00",
+    "title": "Catching fish in muddy waters"
+  },
+  "https://www.helpnetsecurity.com/2026/09/11/new-infosec-products-of-the-week-september-11-2026/": {
+    "ts": "2026-09-11T05:52:14.353875+00:00",
+    "title": "New infosec products of the week: September 11, 2026"
+  },
+  "https://threats.wiz.io/all-incidents/llmjacking-via-laravel-exploitation": {
+    "ts": "2026-09-11T05:52:14.400733+00:00",
+    "title": "LLMjacking via Laravel exploitation (Incident)"
+  },
+  "https://www.group-ib.com/blog/rtm/": {
+    "ts": "2026-09-11T05:52:14.446146+00:00",
+    "title": "Following the RTM"
+  },
+  "https://threats.wiz.io/all-incidents/utah-bathroom-bill-open-database": {
+    "ts": "2026-09-11T05:52:14.446159+00:00",
+    "title": "Utah \u201cBathroom Bill\u201d open database (Research)"
+  },
+  "https://gbhackers.com/hackers-steal-active-directory-password-hashes/": {
+    "ts": "2026-09-11T05:52:14.446164+00:00",
+    "title": "Hackers Steal Active Directory Password Hashes Without Attacking Domain Controllers Directly"
   }
 }

@@ -239,6 +239,36 @@
       "category": "malware_other",
       "title": "RedTail Cryptomining campaign  (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/redtail-cryptomining-campaign-"
+    },
+    {
+      "category": "malware_android",
+      "title": "Indonesia Hit by Android Banking App-Cloning Campaign",
+      "url": "https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Kinsing targeting cloud servers (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/kinsing-targeting-cloud-servers"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Use Claude AI Agents to Automate Cyberattacks, Develop 0-Days and Evade Detection",
+      "url": "https://cybersecuritynews.com/claude-ai-agents-used-to-automate-cyberattacks/"
+    },
+    {
+      "category": "new_technique",
+      "title": "CISA Warns of Citrix NetScaler Authentication Bypass Vulnerability Exploited in Attacks",
+      "url": "https://cybersecuritynews.com/cisa-citrix-netscaler-authentication/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Atlas Lion phishing campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/atlas-lion-phishing-campaign"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Use Passkey-Themed Phishing to Hijack Microsoft 365 Accounts and Steal Cloud Data",
+      "url": "https://cybersecuritynews.com/passkey-themed-phishing/"
     }
   ],
   "last_sent_date": "2026-09-10"
