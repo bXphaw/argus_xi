@@ -9074,5 +9074,125 @@
   "https://gbhackers.com/hackers-steal-active-directory-password-hashes/": {
     "ts": "2026-09-11T05:52:14.446164+00:00",
     "title": "Hackers Steal Active Directory Password Hashes Without Attacking Domain Controllers Directly"
+  },
+  "https://www.helpnetsecurity.com/2026/09/11/ai-agents-papercut-ng-mf-attack-campaign/": {
+    "ts": "2026-09-11T10:54:16.443675+00:00",
+    "title": "AI agents exploited PaperCut flaws to breach 395 organizations"
+  },
+  "https://www.group-ib.com/blog/illum/": {
+    "ts": "2026-09-11T10:54:22.856602+00:00",
+    "title": "Meet the JS-Sniffers 3: Illum Family"
+  },
+  "https://www.helpnetsecurity.com/2026/09/11/idscan-net-data-breach-153-million-drivers-licenses/": {
+    "ts": "2026-09-11T10:54:22.927500+00:00",
+    "title": "IDScan confirms breach after 153 million driver\u2019s licenses leak on dark web"
+  },
+  "https://www.group-ib.com/blog/reactget/": {
+    "ts": "2026-09-11T10:54:36.133585+00:00",
+    "title": "Meet the JS-Sniffers: ReactGet Family"
+  },
+  "https://asec.ahnlab.com/en/95374/": {
+    "ts": "2026-09-11T10:56:18.920259+00:00",
+    "title": "I just trusted the security certificate prompt\u2026 Beware of the LegionLoader malware being distributed via the ClickFix method"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/": {
+    "ts": "2026-09-11T10:56:18.920280+00:00",
+    "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs"
+  },
+  "https://cybersecuritynews.com/idscan-confirms-data-breach/": {
+    "ts": "2026-09-11T10:56:18.920284+00:00",
+    "title": "IDScan Confirms Data Breach Following 153 Million Driver\u2019s Licenses Leaked on the Dark Web"
+  },
+  "https://gbhackers.com/ai-safety-guardrails/": {
+    "ts": "2026-09-11T10:56:19.155994+00:00",
+    "title": "Hackers Weaponize AI Safety Guardrails to Hide Malware From LLM-Powered Security Scanners"
+  },
+  "https://www.group-ib.com/blog/coffemokko/": {
+    "ts": "2026-09-11T10:56:19.417218+00:00",
+    "title": "Meet the JS-Sniffers 4: CoffeMokko Family"
+  },
+  "https://securityaffairs.com/198884/cyber-crime/attackers-exploit-critical-cisco-fmc-flaw-to-deploy-qilin-ransomware.html": {
+    "ts": "2026-09-11T10:56:19.658464+00:00",
+    "title": "Attackers Exploit Critical Cisco FMC Flaw to deploy Qilin ransomware"
+  },
+  "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/": {
+    "ts": "2026-09-11T10:56:19.896699+00:00",
+    "title": "Surfshark Systems Targeted by Hackers"
+  },
+  "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html": {
+    "ts": "2026-09-11T10:56:20.139164+00:00",
+    "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors"
+  },
+  "https://threats.wiz.io/all-incidents/targetcompany-abusing-mssql-servers-for-ransomware": {
+    "ts": "2026-09-11T10:56:20.368474+00:00",
+    "title": "TargetCompany Abusing MSSQL Servers for Ransomware (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/": {
+    "ts": "2026-09-11T10:56:20.611732+00:00",
+    "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach"
+  },
+  "https://cybersecuritynews.com/hackers-deploy-new-sloppyrat/": {
+    "ts": "2026-09-11T10:56:20.864235+00:00",
+    "title": "Hackers Deploy New SloppyRAT via ClickFix to Enable Ransomware Lateral Movement"
+  },
+  "https://gbhackers.com/critical-gitlab-flaws/": {
+    "ts": "2026-09-11T10:56:20.864252+00:00",
+    "title": "Critical GitLab Flaws Let Attackers Read Arbitrary Files, Steal Credentials and Execute Code"
+  },
+  "https://securityaffairs.com/198864/hacking/uk-council-attack-linked-to-mass-exploitation-of-sonicwall-flaw.html": {
+    "ts": "2026-09-11T10:56:21.111615+00:00",
+    "title": "UK Council Attack Linked to Mass Exploitation of SonicWall Flaw"
+  },
+  "https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/": {
+    "ts": "2026-09-11T10:56:21.357508+00:00",
+    "title": "Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion"
+  },
+  "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html": {
+    "ts": "2026-09-11T10:56:21.598838+00:00",
+    "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor"
+  },
+  "https://threats.wiz.io/all-incidents/arcanedoor-campaign-targeting-cisco-adaptive-security-appliance-0day": {
+    "ts": "2026-09-11T10:56:21.840317+00:00",
+    "title": "ArcaneDoor Campaign Targeting Cisco Adaptive Security Appliance 0day (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/": {
+    "ts": "2026-09-11T10:56:22.077103+00:00",
+    "title": "Conti ransomware gang member sentenced to 4 years in prison"
+  },
+  "https://cybersecuritynews.com/gitlab-patches-critical-flaws/": {
+    "ts": "2026-09-11T10:56:22.333322+00:00",
+    "title": "GitLab Patches Critical Flaws Enabling Arbitrary File Read, Credential Theft and Remote Code Execution"
+  },
+  "https://gbhackers.com/hackers-exploit-jfrog-artifactory-flaws/": {
+    "ts": "2026-09-11T10:56:22.568817+00:00",
+    "title": "Hackers Exploit JFrog Artifactory Flaws to Bypass Authentication and Gain Admin Access"
+  },
+  "https://www.group-ib.com/blog/g-analytics/": {
+    "ts": "2026-09-11T10:56:23.256475+00:00",
+    "title": "Meet the JS-Sniffers 2: G-Analytics Family"
+  },
+  "https://www.helpnetsecurity.com/2026/09/11/cellular-network-lost-phone-reporting/": {
+    "ts": "2026-09-11T10:56:23.490737+00:00",
+    "title": "Getting a stranger\u2019s phone kicked off the cellular network costs a few dollars"
+  },
+  "https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/": {
+    "ts": "2026-09-11T10:56:23.728371+00:00",
+    "title": "PaperCut Flaws Exploited in AI-Powered Attacks"
+  },
+  "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html": {
+    "ts": "2026-09-11T10:56:23.966291+00:00",
+    "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws"
+  },
+  "https://threats.wiz.io/all-incidents/mitre-breach-via-ivanti-connect-secure": {
+    "ts": "2026-09-11T10:56:23.966308+00:00",
+    "title": "MITRE breach via Ivanti Connect Secure (Incident)"
+  },
+  "https://cybersecuritynews.com/jfrog-artifactory-vulnerabilities-actively-exploited/": {
+    "ts": "2026-09-11T10:56:24.202786+00:00",
+    "title": "JFrog Artifactory Vulnerabilities Actively Exploited in the Wild to Gain Administrative Control"
+  },
+  "https://gbhackers.com/okta-patches-auth0-and-access-gateway-vulnerabilities/": {
+    "ts": "2026-09-11T10:56:24.202805+00:00",
+    "title": "Okta Patches Auth0 and Access Gateway Vulnerabilities Let Attackers Enable XSS, Authentication Bypass and SQL Injection"
   }
 }
