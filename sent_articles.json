@@ -9434,5 +9434,125 @@
   "https://www.group-ib.com/blog/hype/": {
     "ts": "2026-09-11T18:19:31.461709+00:00",
     "title": "In a Queue for a Scam"
+  },
+  "https://threats.wiz.io/all-incidents/sisense-breach": {
+    "ts": "2026-09-11T21:37:23.588614+00:00",
+    "title": "Sisense breach (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/": {
+    "ts": "2026-09-11T21:39:09.406898+00:00",
+    "title": "Hackers abused Claude to extract secrets from 1.8M Android apps"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days": {
+    "ts": "2026-09-11T21:39:09.612242+00:00",
+    "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days"
+  },
+  "https://www.group-ib.com/blog/reportbadrabbit/": {
+    "ts": "2026-09-11T21:39:09.809391+00:00",
+    "title": "NotPetya pulls BadRabbit out of the hat"
+  },
+  "https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/": {
+    "ts": "2026-09-11T21:39:09.809410+00:00",
+    "title": "Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance"
+  },
+  "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html": {
+    "ts": "2026-09-11T21:39:10.003154+00:00",
+    "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection"
+  },
+  "https://threatmon.io/ransomware-2026-report-august/": {
+    "ts": "2026-09-11T21:39:10.198000+00:00",
+    "title": "Ransomware 2026 Report August"
+  },
+  "https://threats.wiz.io/all-incidents/personal-local-drive-to-aws-ransomware": {
+    "ts": "2026-09-11T21:39:10.398130+00:00",
+    "title": "Personal local drive to AWS ransomware (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/": {
+    "ts": "2026-09-11T21:39:10.595157+00:00",
+    "title": "Florida confirms DMV database breached via stolen police account"
+  },
+  "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate": {
+    "ts": "2026-09-11T21:39:10.796914+00:00",
+    "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate"
+  },
+  "https://www.group-ib.com/blog/badrabbit/": {
+    "ts": "2026-09-11T21:39:10.999195+00:00",
+    "title": "BadRabbit: spread of new cryptolocker"
+  },
+  "https://threats.wiz.io/all-incidents/abusing-management-tooling-for-cloud-access": {
+    "ts": "2026-09-11T21:39:11.192153+00:00",
+    "title": "Abusing management tooling for cloud access (Incident)"
+  },
+  "https://www.darkreading.com/cyber-risk/ai-scamming-humans": {
+    "ts": "2026-09-11T21:39:11.192172+00:00",
+    "title": "Why AI Is So Good at Scamming Humans"
+  },
+  "https://www.group-ib.com/blog/black-label/": {
+    "ts": "2026-09-11T21:39:11.192175+00:00",
+    "title": "\u2018Black spot\u2019 for pirates"
+  },
+  "https://www.group-ib.com/blog/avia/": {
+    "ts": "2026-09-11T21:39:11.192179+00:00",
+    "title": "Airline companies \u00ablanding\u00bb on fake pages"
+  },
+  "https://threats.wiz.io/all-incidents/rubycarp-botnet-exploiting-vulnerabilities-for-crypto": {
+    "ts": "2026-09-11T21:39:11.394909+00:00",
+    "title": "RUBYCARP: Botnet Exploiting Vulnerabilities for Crypto (Campaign)"
+  },
+  "https://www.group-ib.com/blog/cobalt/": {
+    "ts": "2026-09-11T21:39:11.588651+00:00",
+    "title": "Secrets of Cobalt"
+  },
+  "https://threats.wiz.io/all-incidents/muddled-libra-campaigns-2024": {
+    "ts": "2026-09-11T21:39:11.790592+00:00",
+    "title": "Muddled Libra campaigns (2024) (Campaign)"
+  },
+  "https://www.group-ib.com/blog/venture/": {
+    "ts": "2026-09-11T21:39:11.986080+00:00",
+    "title": "Insecure venture"
+  },
+  "https://threats.wiz.io/all-incidents/microsoft-exposed-storage-with-credentials": {
+    "ts": "2026-09-11T21:39:12.186225+00:00",
+    "title": "Microsoft exposed storage with credentials (Research)"
+  },
+  "https://www.group-ib.com/blog/kronos/": {
+    "ts": "2026-09-11T21:39:12.380218+00:00",
+    "title": "Kronos devouring its children"
+  },
+  "https://threats.wiz.io/all-incidents/hugging-face-cross-tenant-access": {
+    "ts": "2026-09-11T21:39:12.574631+00:00",
+    "title": "Hugging Face cross-tenant access (Research)"
+  },
+  "https://www.group-ib.com/blog/uicf/": {
+    "ts": "2026-09-11T21:39:12.768189+00:00",
+    "title": "Hacktivists unmasked"
+  },
+  "https://threats.wiz.io/all-incidents/affirmed-networks-breach": {
+    "ts": "2026-09-11T21:39:12.961787+00:00",
+    "title": "Affirmed Networks breach (Incident)"
+  },
+  "https://www.group-ib.com/blog/polygon/": {
+    "ts": "2026-09-11T21:39:12.961807+00:00",
+    "title": "Targeted attacks on banks"
+  },
+  "https://threats.wiz.io/all-incidents/xz-utils-backdoor-incident": {
+    "ts": "2026-09-11T21:39:13.155065+00:00",
+    "title": "XZ Utils backdoor incident (Incident)"
+  },
+  "https://www.group-ib.com/blog/petya/": {
+    "ts": "2026-09-11T21:39:13.348742+00:00",
+    "title": "Petya starts with Ukraine and then goes global"
+  },
+  "https://threats.wiz.io/all-incidents/agenda-ransomware-targets-esxi-and-vcenter-servers": {
+    "ts": "2026-09-11T21:39:13.549436+00:00",
+    "title": "Agenda Ransomware Targets ESXi and vCenter Servers (Campaign)"
+  },
+  "https://www.group-ib.com/blog/fake/": {
+    "ts": "2026-09-11T21:39:13.549455+00:00",
+    "title": "Ghost flights"
+  },
+  "https://threats.wiz.io/all-incidents/compromise-of-topgg-repo": {
+    "ts": "2026-09-11T21:39:13.549459+00:00",
+    "title": "Compromise of Top.gg repo (Incident)"
   }
 }

@@ -99,6 +99,66 @@
       "category": "apt_campaign",
       "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
       "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days"
+    },
+    {
+      "category": "malware_windows",
+      "title": "NotPetya pulls BadRabbit out of the hat",
+      "url": "https://www.group-ib.com/blog/reportbadrabbit/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+      "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Abusing management tooling for cloud access (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/abusing-management-tooling-for-cloud-access"
+    },
+    {
+      "category": "threat_actor",
+      "title": "RUBYCARP: Botnet Exploiting Vulnerabilities for Crypto (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/rubycarp-botnet-exploiting-vulnerabilities-for-crypto"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hugging Face cross-tenant access (Research)",
+      "url": "https://threats.wiz.io/all-incidents/hugging-face-cross-tenant-access"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Hacktivists unmasked",
+      "url": "https://www.group-ib.com/blog/uicf/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Affirmed Networks breach (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/affirmed-networks-breach"
+    },
+    {
+      "category": "malware_linux",
+      "title": "XZ Utils backdoor incident (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/xz-utils-backdoor-incident"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Petya starts with Ukraine and then goes global",
+      "url": "https://www.group-ib.com/blog/petya/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Agenda Ransomware Targets ESXi and vCenter Servers (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/agenda-ransomware-targets-esxi-and-vcenter-servers"
     }
   ],
   "last_sent_date": "2026-09-11"
