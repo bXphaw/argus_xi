@@ -9314,5 +9314,125 @@
   "https://socradar.io/blog/cisco-fmc-cve-2026-20079-actively-exploited/": {
     "ts": "2026-09-11T14:58:23.526399+00:00",
     "title": "Cisco FMC CVE-2026-20079 Actively Exploited"
+  },
+  "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/": {
+    "ts": "2026-09-11T18:19:27.387765+00:00",
+    "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft"
+  },
+  "https://cybersecuritynews.com/windows-11-security-update-kb5124008/": {
+    "ts": "2026-09-11T18:19:27.387780+00:00",
+    "title": "Windows 11 Security Update KB5124008 Breaks Always-On VPN Connections"
+  },
+  "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait": {
+    "ts": "2026-09-11T18:19:27.625283+00:00",
+    "title": "AI Governance Can't Wait"
+  },
+  "https://gbhackers.com/cpanel-urges-users-to-patch-configserver-firewall/": {
+    "ts": "2026-09-11T18:19:27.625302+00:00",
+    "title": "cPanel Urges Users to Patch ConfigServer Firewall Remote Code Execution Flaw"
+  },
+  "https://www.group-ib.com/blog/renaissance/": {
+    "ts": "2026-09-11T18:19:27.867801+00:00",
+    "title": "Cobalt Renaissance"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/crypto-customers-targeted-by-scammers-after-email-marketing-provider-breach": {
+    "ts": "2026-09-11T18:19:28.103144+00:00",
+    "title": "Crypto customers targeted by scammers after email marketing provider breach"
+  },
+  "https://moonlock.com/ai-agents-can-hack-systems": {
+    "ts": "2026-09-11T18:19:28.340042+00:00",
+    "title": "AI agents can hack systems and find vulnerabilities. What now?"
+  },
+  "https://securityaffairs.com/198898/ai/the-ai-supply-chain-has-a-security-problem-and-much-of-it-is-sitting-on-the-open-internet.html": {
+    "ts": "2026-09-11T18:19:28.575203+00:00",
+    "title": "The AI Supply Chain Has a Security Problem, and Much of It Is Sitting on the Open Internet"
+  },
+  "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/": {
+    "ts": "2026-09-11T18:19:28.814184+00:00",
+    "title": "Phishing Research Challenges Conventional Security Awareness Testing"
+  },
+  "https://www.sophos.com/en-us/blog/-eye-spy-cyclops-blink-returns-with-extended-capabilities": {
+    "ts": "2026-09-11T18:19:29.058915+00:00",
+    "title": "\u201cEye\u201d spy: Cyclops Blink returns with extended capabilities"
+  },
+  "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html": {
+    "ts": "2026-09-11T18:19:29.297419+00:00",
+    "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure"
+  },
+  "https://www.intego.com/mac-security-blog/mac-security-blog-clear-ram-on-mac/": {
+    "ts": "2026-09-11T18:19:29.297435+00:00",
+    "title": "How to clear RAM on a Mac and reduce memory usage"
+  },
+  "https://www.theregister.com/security/2026/09/11/more-jfrog-artifactory-bugs-under-attack-and-all-3-have-patches/5295943": {
+    "ts": "2026-09-11T18:19:29.297439+00:00",
+    "title": "More JFrog Artifactory bugs under attack, and all 3 have patches"
+  },
+  "https://threats.wiz.io/all-incidents/from-password-reset-to-data-exfiltration": {
+    "ts": "2026-09-11T18:19:29.297442+00:00",
+    "title": "From password reset to data exfiltration (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/": {
+    "ts": "2026-09-11T18:19:29.545605+00:00",
+    "title": "Artifactory flaws chained in attacks deploying backdoor malware"
+  },
+  "https://cybersecuritynews.com/conti-ransomware-hacker-sentenced/": {
+    "ts": "2026-09-11T18:19:29.785972+00:00",
+    "title": "Conti Ransomware Hacker Sentenced After Group Attacked Over 1,000 Victims Worldwide"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain": {
+    "ts": "2026-09-11T18:19:30.025069+00:00",
+    "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain"
+  },
+  "https://gbhackers.com/iot-malware-attacks/": {
+    "ts": "2026-09-11T18:19:30.261274+00:00",
+    "title": "New IoT Malware Uses Public Linux Exploits to Gain Root and Launch DDoS Attacks"
+  },
+  "https://www.group-ib.com/blog/moneytaker/": {
+    "ts": "2026-09-11T18:19:30.495846+00:00",
+    "title": "MoneyTaker: in pursuit of the invisible"
+  },
+  "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/": {
+    "ts": "2026-09-11T18:19:30.739989+00:00",
+    "title": "GitLab Vulnerability Exploited One Day After Disclosure"
+  },
+  "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html": {
+    "ts": "2026-09-11T18:19:30.740004+00:00",
+    "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks"
+  },
+  "https://threats.wiz.io/all-incidents/smishing-into-entra-onto-vmware-ransomware": {
+    "ts": "2026-09-11T18:19:30.740008+00:00",
+    "title": "Smishing into Entra onto VMWare ransomware (Incident)"
+  },
+  "https://cybersecuritynews.com/new-android-ransomware/": {
+    "ts": "2026-09-11T18:19:30.986325+00:00",
+    "title": "New Android Ransomware Records Screens, Steals OTPs and Secretly Takes Photos of Victims"
+  },
+  "https://gbhackers.com/cisa-urges-service-providers-to-provide-transparent-updates/": {
+    "ts": "2026-09-11T18:19:30.986345+00:00",
+    "title": "CISA Urges Service Providers to Provide Transparent Updates During Major IT and OT Outages"
+  },
+  "https://www.group-ib.com/blog/antivirus/": {
+    "ts": "2026-09-11T18:19:31.228805+00:00",
+    "title": "When Hackers are Quicker than Antiviruses: Cobalt Group Bypasses Antivirus Protection"
+  },
+  "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/": {
+    "ts": "2026-09-11T18:19:31.228857+00:00",
+    "title": "Check Point Patches Critical VPN Vulnerabilities"
+  },
+  "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html": {
+    "ts": "2026-09-11T18:19:31.461685+00:00",
+    "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims"
+  },
+  "https://threats.wiz.io/all-incidents/third-party-to-cloud-compromise": {
+    "ts": "2026-09-11T18:19:31.461701+00:00",
+    "title": "Third party to cloud compromise (Incident)"
+  },
+  "https://cybersecuritynews.com/ubuntu-24-04-5-lts-linux-7/": {
+    "ts": "2026-09-11T18:19:31.461705+00:00",
+    "title": "Ubuntu 24.04.5 LTS Released With Linux 7.0 Kernel and Latest Security Updates"
+  },
+  "https://www.group-ib.com/blog/hype/": {
+    "ts": "2026-09-11T18:19:31.461709+00:00",
+    "title": "In a Queue for a Scam"
   }
 }

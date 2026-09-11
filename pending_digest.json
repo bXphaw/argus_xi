@@ -59,6 +59,46 @@
       "category": "new_technique",
       "title": "Cisco FMC CVE-2026-20079 Actively Exploited",
       "url": "https://socradar.io/blog/cisco-fmc-cve-2026-20079-actively-exploited/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/"
+    },
+    {
+      "category": "new_technique",
+      "title": "AI Governance Can't Wait",
+      "url": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Cobalt Renaissance",
+      "url": "https://www.group-ib.com/blog/renaissance/"
+    },
+    {
+      "category": "new_technique",
+      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+      "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+      "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/"
+    },
+    {
+      "category": "malware_android",
+      "title": "New Android Ransomware Records Screens, Steals OTPs and Secretly Takes Photos of Victims",
+      "url": "https://cybersecuritynews.com/new-android-ransomware/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "When Hackers are Quicker than Antiviruses: Cobalt Group Bypasses Antivirus Protection",
+      "url": "https://www.group-ib.com/blog/antivirus/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+      "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html"
     }
   ],
   "last_sent_date": "2026-09-11"
