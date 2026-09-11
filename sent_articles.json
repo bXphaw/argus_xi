@@ -8834,5 +8834,125 @@
   "https://www.group-ib.com/blog/oldgremlin/": {
     "ts": "2026-09-10T23:03:08.881459+00:00",
     "title": "Big Game Hunting: Now in Russia"
+  },
+  "https://threats.wiz.io/all-incidents/boolka-campaign": {
+    "ts": "2026-09-11T00:59:27.608027+00:00",
+    "title": "Boolka campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/gitloker-campaign": {
+    "ts": "2026-09-11T00:59:38.244058+00:00",
+    "title": "Gitloker campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/operation-veles": {
+    "ts": "2026-09-11T00:59:42.426344+00:00",
+    "title": "Operation Veles (Campaign)"
+  },
+  "https://www.group-ib.com/blog/fhp/": {
+    "ts": "2026-09-11T01:01:28.106338+00:00",
+    "title": "Group-IB Fraud Protection (ex. Fraud Hunting Platform)"
+  },
+  "https://threats.wiz.io/all-incidents/chinese-threat-actor-redjuliett-exploiting-vpn-and-firewall-vulnerabilities": {
+    "ts": "2026-09-11T01:01:28.359858+00:00",
+    "title": "Chinese Threat Actor RedJuliett Exploiting VPN and Firewall Vulnerabilities (Campaign)"
+  },
+  "https://www.group-ib.com/blog/prolock-evolution/": {
+    "ts": "2026-09-11T01:01:28.544697+00:00",
+    "title": "Lock Like a Pro"
+  },
+  "https://www.group-ib.com/blog/shelf/": {
+    "ts": "2026-09-11T01:01:28.544718+00:00",
+    "title": "Digital forensics specialist\u2019s bookshelf"
+  },
+  "https://threats.wiz.io/all-incidents/scattered-spider-saas-targeting-2024": {
+    "ts": "2026-09-11T01:01:28.728277+00:00",
+    "title": "Scattered Spider SaaS targeting (2024) (Campaign)"
+  },
+  "https://www.group-ib.com/blog/icedid/": {
+    "ts": "2026-09-11T01:01:28.909917+00:00",
+    "title": "IcedID: new malware version"
+  },
+  "https://threats.wiz.io/all-incidents/ncs-mass-server-deletion": {
+    "ts": "2026-09-11T01:01:28.909940+00:00",
+    "title": "NCS mass server deletion (Incident)"
+  },
+  "https://www.group-ib.com/blog/prolock/": {
+    "ts": "2026-09-11T01:01:29.095311+00:00",
+    "title": "ATT&CKing ProLock Ransomware"
+  },
+  "https://threats.wiz.io/all-incidents/rce-vulnerability-in-php-cgi-exploited-by-tellyouthepass": {
+    "ts": "2026-09-11T01:01:29.288615+00:00",
+    "title": "RCE Vulnerability in PHP CGI Exploited by TellYouThePass (Campaign)"
+  },
+  "https://www.group-ib.com/blog/perswaysion/": {
+    "ts": "2026-09-11T01:01:29.288636+00:00",
+    "title": "PerSwaysion Campaign"
+  },
+  "https://threats.wiz.io/all-incidents/nyt-source-code-theft": {
+    "ts": "2026-09-11T01:01:29.479963+00:00",
+    "title": "NYT source code theft (Incident)"
+  },
+  "https://www.group-ib.com/blog/featureusage/": {
+    "ts": "2026-09-11T01:01:29.664691+00:00",
+    "title": "Reconstructing User Activity for Forensics with FeatureUsage"
+  },
+  "https://threats.wiz.io/all-incidents/dero-cryptojacking-campaign-2024": {
+    "ts": "2026-09-11T01:01:29.857226+00:00",
+    "title": "DERO cryptojacking campaign (2024) (Campaign)"
+  },
+  "https://www.group-ib.com/blog/forensics-edge/": {
+    "ts": "2026-09-11T01:01:30.042722+00:00",
+    "title": "Chromium-based Microsoft Edge from a Forensic Point of View"
+  },
+  "https://threats.wiz.io/all-incidents/scylla-llmjacking-campaign": {
+    "ts": "2026-09-11T01:01:30.236605+00:00",
+    "title": "Scylla LLMJacking campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/nextcloud/": {
+    "ts": "2026-09-11T01:01:30.236723+00:00",
+    "title": "Hunting for Nextcloud Cloud Storage Forensic Artifacts on Endpoints"
+  },
+  "https://www.group-ib.com/blog/cobaltphishing/": {
+    "ts": "2026-09-11T01:01:30.417022+00:00",
+    "title": "A Shortcut to Compromise: Cobalt Gang phishing campaign"
+  },
+  "https://threats.wiz.io/all-incidents/club-penguin-data-theft-via-confluence": {
+    "ts": "2026-09-11T01:01:30.417044+00:00",
+    "title": "Club Penguin data theft via Confluence (Incident)"
+  },
+  "https://www.group-ib.com/blog/hunting-for-ttps-with-prefetch-files/": {
+    "ts": "2026-09-11T01:01:30.417048+00:00",
+    "title": "Hunting for Attacker\u2019s Tactics and Techniques With Prefetch Files"
+  },
+  "https://threats.wiz.io/all-incidents/dama-webshell-deployment-via-thinkphp-exploitation": {
+    "ts": "2026-09-11T01:01:30.600250+00:00",
+    "title": "Dama webshell deployment via ThinkPHP exploitation (Campaign)"
+  },
+  "https://www.group-ib.com/blog/graph-network-analysis/": {
+    "ts": "2026-09-11T01:01:30.785391+00:00",
+    "title": "Group-IB unveils its Graph"
+  },
+  "https://www.group-ib.com/blog/fakesecurity/": {
+    "ts": "2026-09-11T01:01:30.970981+00:00",
+    "title": "Massive malicious campaign by FakeSecurity JS-sniffer"
+  },
+  "https://threats.wiz.io/all-incidents/muhstik": {
+    "ts": "2026-09-11T01:01:31.156714+00:00",
+    "title": "Muhstik (Campaign)"
+  },
+  "https://www.group-ib.com/blog/whatsapp-forensic-artifacts/": {
+    "ts": "2026-09-11T01:01:31.346528+00:00",
+    "title": "WhatsApp in Plain Sight: Where and How You Can Collect Forensic Artifacts"
+  },
+  "https://threats.wiz.io/all-incidents/bytedance-rspack-github-misconfiguration": {
+    "ts": "2026-09-11T01:01:31.537880+00:00",
+    "title": "ByteDance Rspack GitHub misconfiguration (Research)"
+  },
+  "https://www.group-ib.com/blog/fakeapt28/": {
+    "ts": "2026-09-11T01:01:31.729261+00:00",
+    "title": "RDoS attacks by fake Fancy Bear hit banks in multiple locations"
+  },
+  "https://threats.wiz.io/all-incidents/redtail-cryptomining-campaign-": {
+    "ts": "2026-09-11T01:01:31.924297+00:00",
+    "title": "RedTail Cryptomining campaign  (Campaign)"
   }
 }

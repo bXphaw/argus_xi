@@ -189,6 +189,56 @@
       "category": "malware_windows",
       "title": "The Locking Egregor",
       "url": "https://www.group-ib.com/blog/egregor/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Chinese Threat Actor RedJuliett Exploiting VPN and Firewall Vulnerabilities (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/chinese-threat-actor-redjuliett-exploiting-vpn-and-firewall-vulnerabilities"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Lock Like a Pro",
+      "url": "https://www.group-ib.com/blog/prolock-evolution/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Scattered Spider SaaS targeting (2024) (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/scattered-spider-saas-targeting-2024"
+    },
+    {
+      "category": "malware_windows",
+      "title": "IcedID: new malware version",
+      "url": "https://www.group-ib.com/blog/icedid/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "ATT&CKing ProLock Ransomware",
+      "url": "https://www.group-ib.com/blog/prolock/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "RCE Vulnerability in PHP CGI Exploited by TellYouThePass (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/rce-vulnerability-in-php-cgi-exploited-by-tellyouthepass"
+    },
+    {
+      "category": "threat_actor",
+      "title": "A Shortcut to Compromise: Cobalt Gang phishing campaign",
+      "url": "https://www.group-ib.com/blog/cobaltphishing/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Dama webshell deployment via ThinkPHP exploitation (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/dama-webshell-deployment-via-thinkphp-exploitation"
+    },
+    {
+      "category": "new_technique",
+      "title": "RDoS attacks by fake Fancy Bear hit banks in multiple locations",
+      "url": "https://www.group-ib.com/blog/fakeapt28/"
+    },
+    {
+      "category": "malware_other",
+      "title": "RedTail Cryptomining campaign  (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/redtail-cryptomining-campaign-"
     }
   ],
   "last_sent_date": "2026-09-10"
