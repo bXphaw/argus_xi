@@ -10262,5 +10262,125 @@
   "https://threats.wiz.io/all-incidents/apt29-targeting-microsoft-365": {
     "ts": "2026-09-12T19:03:56.089323+00:00",
     "title": "APT29 targeting Microsoft 365 (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/microsoft-credential-exposure-on-github": {
+    "ts": "2026-09-12T22:02:16.549767+00:00",
+    "title": "Microsoft credential exposure on GitHub (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/twilio-breach": {
+    "ts": "2026-09-12T22:02:16.563851+00:00",
+    "title": "twilio-breach (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/premint-hack": {
+    "ts": "2026-09-12T22:02:16.586013+00:00",
+    "title": "PREMINT hack (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/bondnet-campaign-2022": {
+    "ts": "2026-09-12T22:02:16.608785+00:00",
+    "title": "Bondnet campaign (2022) (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/unc2903-campaigns": {
+    "ts": "2026-09-12T22:02:19.806257+00:00",
+    "title": "UNC2903 campaigns (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/lemonduck-docker-campaign": {
+    "ts": "2026-09-12T22:02:19.819927+00:00",
+    "title": "LemonDuck Docker campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/github-npm-breach": {
+    "ts": "2026-09-12T22:02:19.847405+00:00",
+    "title": "github-npm-breach (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/denonia-campaign": {
+    "ts": "2026-09-12T22:02:19.847479+00:00",
+    "title": "Denonia campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/incident-report-from-cli-to-console-chasing-an-attacker-in-aws": {
+    "ts": "2026-09-12T22:02:19.909221+00:00",
+    "title": "incident-report-from-cli-to-console-chasing-an-attacker-in-aws (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/muhstick-redis-campaign": {
+    "ts": "2026-09-12T22:02:19.936027+00:00",
+    "title": "Muhstick Redis campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/lapsus-campaigns": {
+    "ts": "2026-09-12T22:02:19.936092+00:00",
+    "title": "LAPSUS$ campaigns (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/coinstomp-campaign": {
+    "ts": "2026-09-12T22:02:19.936127+00:00",
+    "title": "CoinStomp campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/unc3379-npm-supply-chain-attacks": {
+    "ts": "2026-09-12T22:02:21.469632+00:00",
+    "title": "UNC3379 npm supply chain attacks (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/siloscape-campaign": {
+    "ts": "2026-09-12T22:02:23.717172+00:00",
+    "title": "Siloscape campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/codecov-incident": {
+    "ts": "2026-09-12T22:02:23.740600+00:00",
+    "title": "Codecov incident (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/gin-docker-cryptojacking-campaign": {
+    "ts": "2026-09-12T22:02:24.492010+00:00",
+    "title": "Gin Docker cryptojacking campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/teamtnt-campaigns": {
+    "ts": "2026-09-12T22:02:24.492101+00:00",
+    "title": "TeamTNT campaigns (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/dreambus-campaign": {
+    "ts": "2026-09-12T22:02:24.492138+00:00",
+    "title": "dreambus-campaign (Campaign)"
+  },
+  "https://securityaffairs.com/198922/data-breach/revolut-exposed-kyc-data-after-fraudulent-government-email-passed-security-checks.html": {
+    "ts": "2026-09-12T22:02:28.504586+00:00",
+    "title": "Revolut Exposed KYC Data After Fraudulent Government Email Passed Security Checks"
+  },
+  "https://threats.wiz.io/all-incidents/8220-gang-targeting-confluence": {
+    "ts": "2026-09-12T22:02:28.752322+00:00",
+    "title": "8220 Gang targeting Confluence (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/darkradiation-container-ransomwarewiper": {
+    "ts": "2026-09-12T22:02:28.986032+00:00",
+    "title": "darkradiation-container-ransomwarewiper (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/incident-report-spotting-an-attacker-in-gcp": {
+    "ts": "2026-09-12T22:02:28.986052+00:00",
+    "title": "incident-report-spotting-an-attacker-in-gcp (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/javascript-injection-via-wordpress-exploitation": {
+    "ts": "2026-09-12T22:02:29.218771+00:00",
+    "title": "JavaScript injection via WordPress exploitation (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/from-code-commit-to-production-takeover": {
+    "ts": "2026-09-12T22:02:29.218792+00:00",
+    "title": "From code commit to production takeover (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/from-s3-bucket-to-jenkins-credential-dump": {
+    "ts": "2026-09-12T22:02:29.218796+00:00",
+    "title": "From S3 bucket to Jenkins credential dump (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/ivanti-supply-chain": {
+    "ts": "2026-09-12T22:02:29.455632+00:00",
+    "title": "ivanti-supply-chain (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/tsunami-targeting-jenkins-and-weblogic": {
+    "ts": "2026-09-12T22:02:29.688258+00:00",
+    "title": "Tsunami targeting Jenkins and Weblogic (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/abcbot-huawei-cloud-targeting-campaign": {
+    "ts": "2026-09-12T22:02:29.922171+00:00",
+    "title": "Abcbot Huawei Cloud targeting campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/multiple-organizations-vulnerable-to-dependency-confusion": {
+    "ts": "2026-09-12T22:02:30.154395+00:00",
+    "title": "Multiple organizations vulnerable to dependency confusion (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/solarwinds-supply-chain-attack": {
+    "ts": "2026-09-12T22:02:30.380396+00:00",
+    "title": "solarwinds-supply-chain-attack (Campaign)"
   }
 }

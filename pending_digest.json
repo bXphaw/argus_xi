@@ -184,6 +184,46 @@
       "category": "apt_campaign",
       "title": "APT29 targeting Microsoft 365 (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/apt29-targeting-microsoft-365"
+    },
+    {
+      "category": "threat_actor",
+      "title": "8220 Gang targeting Confluence (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/8220-gang-targeting-confluence"
+    },
+    {
+      "category": "malware_linux",
+      "title": "darkradiation-container-ransomwarewiper (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/darkradiation-container-ransomwarewiper"
+    },
+    {
+      "category": "new_technique",
+      "title": "JavaScript injection via WordPress exploitation (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/javascript-injection-via-wordpress-exploitation"
+    },
+    {
+      "category": "new_technique",
+      "title": "ivanti-supply-chain (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/ivanti-supply-chain"
+    },
+    {
+      "category": "malware_other",
+      "title": "Tsunami targeting Jenkins and Weblogic (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/tsunami-targeting-jenkins-and-weblogic"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Abcbot Huawei Cloud targeting campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/abcbot-huawei-cloud-targeting-campaign"
+    },
+    {
+      "category": "new_technique",
+      "title": "Multiple organizations vulnerable to dependency confusion (Research)",
+      "url": "https://threats.wiz.io/all-incidents/multiple-organizations-vulnerable-to-dependency-confusion"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "solarwinds-supply-chain-attack (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/solarwinds-supply-chain-attack"
     }
   ],
   "last_sent_date": "2026-09-12"
