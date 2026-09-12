@@ -219,6 +219,51 @@
       "category": "new_technique",
       "title": "CGI Federal incident (Incident)",
       "url": "https://threats.wiz.io/all-incidents/cgi-federal-incident"
+    },
+    {
+      "category": "new_technique",
+      "title": "OpenAI Agents Flood RubyGems With 2,000 Packages and Exploit Build System for RCE",
+      "url": "https://cybersecuritynews.com/openai-agents-flood-rubygems/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Cryptojacking via Azure Batch (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/cryptojacking-via-azure-batch"
+    },
+    {
+      "category": "malware_windows",
+      "title": "trigona-ransomware-infecting-misconfigured-mssql-servers (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/trigona-ransomware-infecting-misconfigured-mssql-servers"
+    },
+    {
+      "category": "new_technique",
+      "title": "ECS Fargate cryptojacking (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/ecs-fargate-cryptojacking"
+    },
+    {
+      "category": "new_technique",
+      "title": "S3 data exfiltration (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/s3-data-exfiltration"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Microsoft email exfiltration by Nobelium (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/microsoft-email-exfiltration-by-nobelium"
+    },
+    {
+      "category": "malware_other",
+      "title": "From ActiveMQ to Godzilla webshell (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/from-activemq-to-godzilla-webshell"
+    },
+    {
+      "category": "malware_other",
+      "title": "AndroxGh0st usage (2024) (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/androxgh0st-usage-2024"
+    },
+    {
+      "category": "malware_other",
+      "title": "S3 RansomOp following long-term key exposure (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/s3-ransomop-following-long-term-key-exposure"
     }
   ],
   "last_sent_date": "2026-09-11"

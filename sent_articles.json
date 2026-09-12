@@ -9670,5 +9670,121 @@
   "https://threats.wiz.io/all-incidents/cgi-federal-incident": {
     "ts": "2026-09-12T00:00:35.218372+00:00",
     "title": "CGI Federal incident (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/wrk-exposed-database": {
+    "ts": "2026-09-12T04:24:36.086201+00:00",
+    "title": "wrk-exposed-database (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/almerys-incident": {
+    "ts": "2026-09-12T04:24:36.823312+00:00",
+    "title": "Almerys incident (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/viamedis-incident": {
+    "ts": "2026-09-12T04:24:36.853100+00:00",
+    "title": "Viamedis incident (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/c3pool-mining-via-confluence-vulnerability": {
+    "ts": "2026-09-12T04:24:36.874927+00:00",
+    "title": "C3Pool mining via Confluence vulnerability (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/windows-smartscreen-vulnerability-exploited-by-mispadu-trojan": {
+    "ts": "2026-09-12T04:24:37.719081+00:00",
+    "title": "Windows SmartScreen vulnerability exploited by Mispadu trojan (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/commando-cat-campaign": {
+    "ts": "2026-09-12T04:24:39.284187+00:00",
+    "title": "Commando Cat campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/mimo-cryptomining-campaign": {
+    "ts": "2026-09-12T04:24:45.111648+00:00",
+    "title": "Mimo cryptomining campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/9hits-docker-campaign": {
+    "ts": "2026-09-12T04:24:45.131325+00:00",
+    "title": "9hits Docker campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/tensorflow-github-misconfiguration": {
+    "ts": "2026-09-12T04:24:45.915521+00:00",
+    "title": "TensorFlow GitHub misconfiguration (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/pytorch-github-misconfiguration": {
+    "ts": "2026-09-12T04:24:45.941985+00:00",
+    "title": "PyTorch GitHub misconfiguration (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/dreambus-campaign-2023": {
+    "ts": "2026-09-12T04:24:46.588246+00:00",
+    "title": "Dreambus campaign (2023) (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/fbot-toolkit-targets-cloud-environments": {
+    "ts": "2026-09-12T04:24:46.598565+00:00",
+    "title": "FBot toolkit targets cloud environments (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/ivanti-connect-secure-targeting-campaign": {
+    "ts": "2026-09-12T04:24:46.645429+00:00",
+    "title": "Ivanti Connect Secure targeting campaign (Campaign)"
+  },
+  "https://cybersecuritynews.com/openai-agents-flood-rubygems/": {
+    "ts": "2026-09-12T04:24:51.655276+00:00",
+    "title": "OpenAI Agents Flood RubyGems With 2,000 Packages and Exploit Build System for RCE"
+  },
+  "https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/": {
+    "ts": "2026-09-12T04:24:51.655296+00:00",
+    "title": "Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says"
+  },
+  "https://threats.wiz.io/all-incidents/juniper-support-portal-exposure": {
+    "ts": "2026-09-12T04:24:51.655753+00:00",
+    "title": "Juniper support portal exposure (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/cryptojacking-via-azure-batch": {
+    "ts": "2026-09-12T04:24:51.843588+00:00",
+    "title": "Cryptojacking via Azure Batch (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/football-australia-exposed-cloud-key": {
+    "ts": "2026-09-12T04:24:51.843606+00:00",
+    "title": "Football Australia exposed cloud key (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/cloudflare-incident-following-okta-breach": {
+    "ts": "2026-09-12T04:24:51.843610+00:00",
+    "title": "Cloudflare incident following Okta breach (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/new-relic-incident-november-2023": {
+    "ts": "2026-09-12T04:24:51.843613+00:00",
+    "title": "New Relic incident (November 2023) (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/dangerdev-ses-abuse-incident": {
+    "ts": "2026-09-12T04:24:51.843616+00:00",
+    "title": "DangerDev SES abuse incident (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/trigona-ransomware-infecting-misconfigured-mssql-servers": {
+    "ts": "2026-09-12T04:24:52.032182+00:00",
+    "title": "trigona-ransomware-infecting-misconfigured-mssql-servers (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/mercedes-benz-source-code-exposure": {
+    "ts": "2026-09-12T04:24:52.032201+00:00",
+    "title": "Mercedes-Benz source code exposure (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/ecs-fargate-cryptojacking": {
+    "ts": "2026-09-12T04:24:52.228369+00:00",
+    "title": "ECS Fargate cryptojacking (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/s3-data-exfiltration": {
+    "ts": "2026-09-12T04:24:52.417579+00:00",
+    "title": "S3 data exfiltration (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/microsoft-email-exfiltration-by-nobelium": {
+    "ts": "2026-09-12T04:24:52.608634+00:00",
+    "title": "Microsoft email exfiltration by Nobelium (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/from-activemq-to-godzilla-webshell": {
+    "ts": "2026-09-12T04:24:52.798228+00:00",
+    "title": "From ActiveMQ to Godzilla webshell (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/androxgh0st-usage-2024": {
+    "ts": "2026-09-12T04:24:52.997648+00:00",
+    "title": "AndroxGh0st usage (2024) (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/s3-ransomop-following-long-term-key-exposure": {
+    "ts": "2026-09-12T04:24:53.186347+00:00",
+    "title": "S3 RansomOp following long-term key exposure (Incident)"
   }
 }
