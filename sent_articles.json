@@ -9786,5 +9786,125 @@
   "https://threats.wiz.io/all-incidents/s3-ransomop-following-long-term-key-exposure": {
     "ts": "2026-09-12T04:24:53.186347+00:00",
     "title": "S3 RansomOp following long-term key exposure (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/sliver-deployment-via-confluence--vulnerability": {
+    "ts": "2026-09-12T09:07:06.910863+00:00",
+    "title": "Sliver deployment via Confluence\n  vulnerability (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/apache-app-cryptojacking-campaign": {
+    "ts": "2026-09-12T09:07:10.327697+00:00",
+    "title": "Apache app cryptojacking campaign (Campaign)"
+  },
+  "https://gbhackers.com/openai-agents-flood-rubygems-with-2000-packages/": {
+    "ts": "2026-09-12T09:07:10.394661+00:00",
+    "title": "OpenAI Agents Flood RubyGems With 2,000 Packages and Exploit Build System for RCE"
+  },
+  "https://gbhackers.com/cisa-warns-of-critical-gitlab-vulnerability-exploited-in-attacks/": {
+    "ts": "2026-09-12T09:07:11.198615+00:00",
+    "title": "CISA Warns of Critical GitLab Vulnerability Exploited in Attacks"
+  },
+  "https://threats.wiz.io/all-incidents/apt29-teamcity-campaign": {
+    "ts": "2026-09-12T09:07:12.643879+00:00",
+    "title": "APT29 TeamCity campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/krasue-thailand-campaign": {
+    "ts": "2026-09-12T09:07:14.091387+00:00",
+    "title": "Krasue Thailand campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/gotitan-activemq-campaign": {
+    "ts": "2026-09-12T09:07:14.819045+00:00",
+    "title": "GoTitan ActiveMQ campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/oracleiv-campaign": {
+    "ts": "2026-09-12T09:07:17.596069+00:00",
+    "title": "OracleIV campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/okta-support-system-supply-chain-attack": {
+    "ts": "2026-09-12T09:07:19.016973+00:00",
+    "title": "Okta support system supply chain attack (Incident)"
+  },
+  "https://cybersecuritynews.com/cisa-gitlab-path-traversal/": {
+    "ts": "2026-09-12T09:07:48.963597+00:00",
+    "title": "CISA Warns of GitLab Path Traversal Vulnerability Exploited in Attacks"
+  },
+  "https://gbhackers.com/threat-actors-use-claude-ai-agents-to-automate-cyberattacks-and-steal-sensitive-data/": {
+    "ts": "2026-09-12T09:07:49.194840+00:00",
+    "title": "Threat Actors Use Claude AI Agents to Automate Cyberattacks and Steal Sensitive Data"
+  },
+  "https://gbhackers.com/china-linked-hackers-chain-chrome-zero-day/": {
+    "ts": "2026-09-12T09:07:49.420040+00:00",
+    "title": "China-Linked Hackers Chain Chrome Zero-Day With Windows Kernel Flaw in Attacks"
+  },
+  "https://threats.wiz.io/all-incidents/returgence-campaign-targeting-mssql-servers-with-ransomware": {
+    "ts": "2026-09-12T09:07:49.644507+00:00",
+    "title": "returgence-campaign-targeting-mssql-servers-with-ransomware (Campaign)"
+  },
+  "https://gbhackers.com/new-phishing-campaign-abuses-windows-mshta-exe/": {
+    "ts": "2026-09-12T09:07:49.871430+00:00",
+    "title": "New Phishing Campaign Abuses Windows Mshta.exe to Steal Credentials and Secrets"
+  },
+  "https://threats.wiz.io/all-incidents/cyber-toufan-linux-destruction": {
+    "ts": "2026-09-12T09:07:50.095685+00:00",
+    "title": "Cyber Toufan Linux destruction (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/cloud-lateral-movement-via-citrix-cookie": {
+    "ts": "2026-09-12T09:07:50.328872+00:00",
+    "title": "Cloud lateral movement via Citrix cookie (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/gambleforce-sql-injection-campaign": {
+    "ts": "2026-09-12T09:07:50.557518+00:00",
+    "title": "GambleForce SQL injection campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/oauth-applications-to-deploy-vms-for-cryptomining": {
+    "ts": "2026-09-12T09:07:50.794429+00:00",
+    "title": "OAuth applications to deploy VMs for cryptomining (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/first-republic-bank-incident": {
+    "ts": "2026-09-12T09:07:50.794448+00:00",
+    "title": "First Republic Bank incident (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/package-hijacking-redteam-op": {
+    "ts": "2026-09-12T09:07:51.025640+00:00",
+    "title": "Package hijacking redteam op (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/line-and-naver-cloud-incident": {
+    "ts": "2026-09-12T09:07:51.025659+00:00",
+    "title": "LINE and NAVER Cloud incident (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/andariel-exploiting-apache-activemq": {
+    "ts": "2026-09-12T09:07:51.259826+00:00",
+    "title": "Andariel exploiting Apache ActiveMQ (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/cryptojacking-against-apache-servers-with-cobalt-strike": {
+    "ts": "2026-09-12T09:07:51.485056+00:00",
+    "title": "cryptojacking-against-apache-servers-with-cobalt-strike (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/confluence-targeting-by-c3rb3r": {
+    "ts": "2026-09-12T09:07:51.710524+00:00",
+    "title": "Confluence targeting by C3RB3R (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/sumologic-breach": {
+    "ts": "2026-09-12T09:07:51.710543+00:00",
+    "title": "sumologic-breach (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/elektra-leak": {
+    "ts": "2026-09-12T09:07:51.934890+00:00",
+    "title": "EleKtra-Leak (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/qubitstrike-crypto-mining-and-rootkit-campaign": {
+    "ts": "2026-09-12T09:07:52.159418+00:00",
+    "title": "Qubitstrike Crypto Mining and Rootkit Campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/cloud-tools-imitation-campaign": {
+    "ts": "2026-09-12T09:07:52.390966+00:00",
+    "title": "Cloud tools imitation campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/sql-server-to-cloud-lateral-movement": {
+    "ts": "2026-09-12T09:07:52.618333+00:00",
+    "title": "SQL Server to cloud lateral movement (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/darkbeam-data-exposure": {
+    "ts": "2026-09-12T09:07:52.618353+00:00",
+    "title": "Darkbeam data exposure (Research)"
   }
 }
