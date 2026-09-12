@@ -10142,5 +10142,125 @@
   "https://threats.wiz.io/all-incidents/javascript-injection-via-vulnerable-cms": {
     "ts": "2026-09-12T16:52:10.946141+00:00",
     "title": "JavaScript injection via vulnerable CMS (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/gobruteforcer-campaign": {
+    "ts": "2026-09-12T19:03:31.606308+00:00",
+    "title": "GoBruteforcer campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/scarleteel": {
+    "ts": "2026-09-12T19:03:33.366649+00:00",
+    "title": "scarleteel (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/fayvo-exposed-database": {
+    "ts": "2026-09-12T19:03:33.393558+00:00",
+    "title": "Fayvo exposed database (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/headcrab-campaign": {
+    "ts": "2026-09-12T19:03:34.891595+00:00",
+    "title": "HeadCrab campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/jupyter-notebook-cred-harvesting-campaign": {
+    "ts": "2026-09-12T19:03:38.060835+00:00",
+    "title": "Jupyter Notebook cred harvesting campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/okta-source-code-theft": {
+    "ts": "2026-09-12T19:03:38.077094+00:00",
+    "title": "Okta source code theft (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/redigo-campaign": {
+    "ts": "2026-09-12T19:03:38.078828+00:00",
+    "title": "Redigo campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/dropbox-breach": {
+    "ts": "2026-09-12T19:03:40.342643+00:00",
+    "title": "Dropbox breach (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/auth0-source-code-theft": {
+    "ts": "2026-09-12T19:03:42.550512+00:00",
+    "title": "Auth0 source code theft (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/fast-company-breach": {
+    "ts": "2026-09-12T19:03:42.581069+00:00",
+    "title": "fast-company-breach (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/optus-breach": {
+    "ts": "2026-09-12T19:03:42.599472+00:00",
+    "title": "optus-breach (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/kiss-a-dog-campaign": {
+    "ts": "2026-09-12T19:03:43.382159+00:00",
+    "title": "Kiss-A-Dog campaign (Campaign)"
+  },
+  "https://securityaffairs.com/198905/ai/anthropic-ai-misuse-is-entering-a-new-phase-from-cybercrime-to-surveillance-propaganda-and-weapons.html": {
+    "ts": "2026-09-12T19:03:54.152559+00:00",
+    "title": "Anthropic: AI Misuse Is Entering a New Phase: From Cybercrime to Surveillance, Propaganda and Weapons"
+  },
+  "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html": {
+    "ts": "2026-09-12T19:03:54.577760+00:00",
+    "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV"
+  },
+  "https://threats.wiz.io/all-incidents/icefire-aspera-faspex-campaign": {
+    "ts": "2026-09-12T19:03:54.766386+00:00",
+    "title": "IceFire Aspera Faspex campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/stealing-the-lightshow": {
+    "ts": "2026-09-12T19:03:54.955147+00:00",
+    "title": "Stealing the LIGHTSHOW (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/us-military-email-server-exposure": {
+    "ts": "2026-09-12T19:03:54.955165+00:00",
+    "title": "US military email server exposure (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/esxiargs-attack": {
+    "ts": "2026-09-12T19:03:55.143108+00:00",
+    "title": "esxiargs-attack (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/github-certificate-theft-incident": {
+    "ts": "2026-09-12T19:03:55.143128+00:00",
+    "title": "GitHub certificate theft incident (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/commuteair-exposed-jenkins": {
+    "ts": "2026-09-12T19:03:55.143131+00:00",
+    "title": "CommuteAir exposed Jenkins (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/circleci-breach": {
+    "ts": "2026-09-12T19:03:55.143134+00:00",
+    "title": "circleci-breach (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/pytorch-nightly-torchtriton-dependency-compromise": {
+    "ts": "2026-09-12T19:03:55.338677+00:00",
+    "title": "PyTorch-nightly torchtriton dependency compromise (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/lastpass-goto-breach": {
+    "ts": "2026-09-12T19:03:55.338697+00:00",
+    "title": "lastpass-goto-breach (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/watchdog-east-asian-csp-campaign": {
+    "ts": "2026-09-12T19:03:55.526837+00:00",
+    "title": "WatchDog East-Asian CSP campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/dropbox-github-breach": {
+    "ts": "2026-09-12T19:03:55.526855+00:00",
+    "title": "Dropbox Github breach (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/backdooring-self-hosted-github-runner": {
+    "ts": "2026-09-12T19:03:55.714174+00:00",
+    "title": "Backdooring self-hosted GitHub Runner (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/reuters-leaky-elasticsearch-dbs": {
+    "ts": "2026-09-12T19:03:55.903018+00:00",
+    "title": "reuters-leaky-elasticsearch-dbs (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/leaked-long-lived-aws-creds": {
+    "ts": "2026-09-12T19:03:55.903038+00:00",
+    "title": "Leaked long-lived AWS creds (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/redirection-roulette": {
+    "ts": "2026-09-12T19:03:55.903042+00:00",
+    "title": "Redirection Roulette (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/apt29-targeting-microsoft-365": {
+    "ts": "2026-09-12T19:03:56.089323+00:00",
+    "title": "APT29 targeting Microsoft 365 (Campaign)"
   }
 }

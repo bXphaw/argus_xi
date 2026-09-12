@@ -139,6 +139,51 @@
       "category": "new_technique",
       "title": "JavaScript injection via vulnerable CMS (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/javascript-injection-via-vulnerable-cms"
+    },
+    {
+      "category": "new_technique",
+      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+      "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html"
+    },
+    {
+      "category": "malware_linux",
+      "title": "IceFire Aspera Faspex campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/icefire-aspera-faspex-campaign"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Stealing the LIGHTSHOW (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/stealing-the-lightshow"
+    },
+    {
+      "category": "threat_actor",
+      "title": "esxiargs-attack (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/esxiargs-attack"
+    },
+    {
+      "category": "malware_linux",
+      "title": "PyTorch-nightly torchtriton dependency compromise (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/pytorch-nightly-torchtriton-dependency-compromise"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "WatchDog East-Asian CSP campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/watchdog-east-asian-csp-campaign"
+    },
+    {
+      "category": "new_technique",
+      "title": "Backdooring self-hosted GitHub Runner (Research)",
+      "url": "https://threats.wiz.io/all-incidents/backdooring-self-hosted-github-runner"
+    },
+    {
+      "category": "new_technique",
+      "title": "reuters-leaky-elasticsearch-dbs (Research)",
+      "url": "https://threats.wiz.io/all-incidents/reuters-leaky-elasticsearch-dbs"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "APT29 targeting Microsoft 365 (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/apt29-targeting-microsoft-365"
     }
   ],
   "last_sent_date": "2026-09-12"
