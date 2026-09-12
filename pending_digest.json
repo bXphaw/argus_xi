@@ -159,6 +159,66 @@
       "category": "malware_other",
       "title": "Agenda Ransomware Targets ESXi and vCenter Servers (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/agenda-ransomware-targets-esxi-and-vcenter-servers"
+    },
+    {
+      "category": "threat_actor",
+      "title": "LAZARUS ARISEN",
+      "url": "https://www.group-ib.com/blog/lazarus/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "UNC5174 ScreenConnect and F5 BIG-IP exploitation (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/unc5174-screenconnect-and-f5-big-ip-exploitation"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "teamcity-exploitation (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/teamcity-exploitation"
+    },
+    {
+      "category": "malware_android",
+      "title": "Cron has fallen",
+      "url": "https://www.group-ib.com/blog/cron/"
+    },
+    {
+      "category": "new_technique",
+      "title": "vulnerability-in-aiohttp-targeted-by-shadowsyndicate (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/vulnerability-in-aiohttp-targeted-by-shadowsyndicate"
+    },
+    {
+      "category": "new_technique",
+      "title": "From writable bucket to credential theft (Research)",
+      "url": "https://threats.wiz.io/all-incidents/from-writable-bucket-to-credential-theft"
+    },
+    {
+      "category": "malware_linux",
+      "title": "lucifer-botnet-targeting-apache-hadoop (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/lucifer-botnet-targeting-apache-hadoop"
+    },
+    {
+      "category": "malware_other",
+      "title": "S3 ransomware scam (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/s3-ransomware-scam"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Migo cryptominer targeting Redis (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/migo-cryptominer-targeting-redis"
+    },
+    {
+      "category": "malware_linux",
+      "title": "SSH-Snake Confluence targeting campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/ssh-snake-confluence-targeting-campaign"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Microsoft Smartscreen Vulnerability Exploited by Water Hydra (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/microsoft-smartscreen-vulnerability-exploited-by-water-hydra"
+    },
+    {
+      "category": "new_technique",
+      "title": "CGI Federal incident (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/cgi-federal-incident"
     }
   ],
   "last_sent_date": "2026-09-11"

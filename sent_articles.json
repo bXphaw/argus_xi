@@ -9554,5 +9554,121 @@
   "https://threats.wiz.io/all-incidents/compromise-of-topgg-repo": {
     "ts": "2026-09-11T21:39:13.549459+00:00",
     "title": "Compromise of Top.gg repo (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/meson-network-cryptojacking-campaign": {
+    "ts": "2026-09-11T23:59:36.854373+00:00",
+    "title": "Meson Network cryptojacking campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/magnet-goblin-campaign-2024": {
+    "ts": "2026-09-11T23:59:37.676027+00:00",
+    "title": "Magnet Goblin campaign (2024) (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/malware-campaign-targeting-misconfigured-servers": {
+    "ts": "2026-09-11T23:59:37.682806+00:00",
+    "title": "malware-campaign-targeting-misconfigured-servers (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/z0miner-targeting-weblogic-servers": {
+    "ts": "2026-09-11T23:59:37.709874+00:00",
+    "title": "z0Miner targeting WebLogic servers (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/zenlayer-exposed-database": {
+    "ts": "2026-09-11T23:59:49.366256+00:00",
+    "title": "Zenlayer exposed database (Research)"
+  },
+  "https://cybersecuritynews.com/cpanel-configserver-security-firewall-vulnerability/": {
+    "ts": "2026-09-12T00:00:32.865756+00:00",
+    "title": "cPanel ConfigServer Security & Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands"
+  },
+  "https://www.group-ib.com/blog/lazarus/": {
+    "ts": "2026-09-12T00:00:33.101840+00:00",
+    "title": "LAZARUS ARISEN"
+  },
+  "https://threats.wiz.io/all-incidents/unc5174-screenconnect-and-f5-big-ip-exploitation": {
+    "ts": "2026-09-12T00:00:33.286067+00:00",
+    "title": "UNC5174 ScreenConnect and F5 BIG-IP exploitation (Campaign)"
+  },
+  "https://www.group-ib.com/blog/echoes/": {
+    "ts": "2026-09-12T00:00:33.286085+00:00",
+    "title": "Echoes of cyberwar"
+  },
+  "https://threats.wiz.io/all-incidents/fujitsu-exposed-bucket": {
+    "ts": "2026-09-12T00:00:33.286090+00:00",
+    "title": "Fujitsu exposed bucket (Research)"
+  },
+  "https://www.group-ib.com/blog/hurricane/": {
+    "ts": "2026-09-12T00:00:33.286094+00:00",
+    "title": "In a Risk Group"
+  },
+  "https://threats.wiz.io/all-incidents/teamcity-exploitation": {
+    "ts": "2026-09-12T00:00:33.456895+00:00",
+    "title": "teamcity-exploitation (Campaign)"
+  },
+  "https://www.group-ib.com/blog/cron/": {
+    "ts": "2026-09-12T00:00:33.634199+00:00",
+    "title": "Cron has fallen"
+  },
+  "https://threats.wiz.io/all-incidents/vulnerability-in-aiohttp-targeted-by-shadowsyndicate": {
+    "ts": "2026-09-12T00:00:33.924547+00:00",
+    "title": "vulnerability-in-aiohttp-targeted-by-shadowsyndicate (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/from-writable-bucket-to-credential-theft": {
+    "ts": "2026-09-12T00:00:34.111404+00:00",
+    "title": "From writable bucket to credential theft (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/from-social-engineering-to-cryptocurrency-theft": {
+    "ts": "2026-09-12T00:00:34.111422+00:00",
+    "title": "From social engineering to cryptocurrency theft\u00a0 (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/cutoutpro-breach": {
+    "ts": "2026-09-12T00:00:34.111426+00:00",
+    "title": "Cutout.Pro Breach (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/pure-incubation-demandscience-breach": {
+    "ts": "2026-09-12T00:00:34.111429+00:00",
+    "title": "Pure Incubation (DemandScience) Breach (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/from-refresh-token-theft-to-global-admin": {
+    "ts": "2026-09-12T00:00:34.111432+00:00",
+    "title": "From refresh token theft to global admin (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/lucifer-botnet-targeting-apache-hadoop": {
+    "ts": "2026-09-12T00:00:34.302140+00:00",
+    "title": "lucifer-botnet-targeting-apache-hadoop (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/us-doi-pii-exfiltration-pentest": {
+    "ts": "2026-09-12T00:00:34.302160+00:00",
+    "title": "US DOI PII exfiltration pentest (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/s3-ransomware-scam": {
+    "ts": "2026-09-12T00:00:34.480788+00:00",
+    "title": "S3 ransomware scam (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/migo-cryptominer-targeting-redis": {
+    "ts": "2026-09-12T00:00:34.666244+00:00",
+    "title": "Migo cryptominer targeting Redis (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/ssh-snake-confluence-targeting-campaign": {
+    "ts": "2026-09-12T00:00:34.848499+00:00",
+    "title": "SSH-Snake Confluence targeting campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/winstar-exposed-app-database": {
+    "ts": "2026-09-12T00:00:34.848518+00:00",
+    "title": "WinStar exposed app database (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/bmw-exposed-cloud-storage": {
+    "ts": "2026-09-12T00:00:34.849094+00:00",
+    "title": "BMW exposed cloud storage (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/us-internet-exposed-email-server": {
+    "ts": "2026-09-12T00:00:34.849104+00:00",
+    "title": "U.S. Internet exposed email server (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/microsoft-smartscreen-vulnerability-exploited-by-water-hydra": {
+    "ts": "2026-09-12T00:00:35.032920+00:00",
+    "title": "Microsoft Smartscreen Vulnerability Exploited by Water Hydra (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/cgi-federal-incident": {
+    "ts": "2026-09-12T00:00:35.218372+00:00",
+    "title": "CGI Federal incident (Incident)"
   }
 }
