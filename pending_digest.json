@@ -1,4 +1,55 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
+      "url": "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/"
+    },
+    {
+      "category": "malware_other",
+      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+      "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "peach-sandstorm-cloud-activity (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/peach-sandstorm-cloud-activity"
+    },
+    {
+      "category": "malware_linux",
+      "title": "From SSH bruteforce to cryptojacking (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/from-ssh-bruteforce-to-cryptojacking"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Kinsing campaigns (2023-2024) (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/kinsing-campaigns-2023-2024"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "UNC4841 Barracuda ESG Campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/unc4841-barracuda-esg-campaign"
+    },
+    {
+      "category": "new_technique",
+      "title": "From PHP exploitation to AWS lateral movement (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/from-php-exploitation-to-aws-lateral-movement"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "use-of-azure-run-commands (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/use-of-azure-run-commands"
+    },
+    {
+      "category": "new_technique",
+      "title": "SugarCRM as initial access to AWS envs (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/sugarcrm-as-initial-access-to-aws-envs"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Meow Jupyter Notebook campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/meow-jupyter-notebook-campaign"
+    }
+  ],
   "last_sent_date": "2026-09-12"
 }

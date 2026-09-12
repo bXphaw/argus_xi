@@ -9906,5 +9906,125 @@
   "https://threats.wiz.io/all-incidents/darkbeam-data-exposure": {
     "ts": "2026-09-12T09:07:52.618353+00:00",
     "title": "Darkbeam data exposure (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/scattered-spider-saas-targeting": {
+    "ts": "2026-09-12T13:27:28.962043+00:00",
+    "title": "Scattered Spider SaaS targeting (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/prophet-spider-campaign": {
+    "ts": "2026-09-12T13:27:30.724068+00:00",
+    "title": "Prophet Spider campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/ambersquid-campaign": {
+    "ts": "2026-09-12T13:27:31.644648+00:00",
+    "title": "AmberSquid campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/evilminio-campaign": {
+    "ts": "2026-09-12T13:27:34.123445+00:00",
+    "title": "Evil_MinIO campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/retool-hack": {
+    "ts": "2026-09-12T13:27:35.395768+00:00",
+    "title": "Retool hack (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/fatal-model-exposed-database": {
+    "ts": "2026-09-12T13:27:35.443030+00:00",
+    "title": "Fatal Model exposed database (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/labrat-gitlab-campaign": {
+    "ts": "2026-09-12T13:27:35.451037+00:00",
+    "title": "Labrat GitLab campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/p2pinfect-campaign": {
+    "ts": "2026-09-12T13:27:37.983022+00:00",
+    "title": "P2PInfect campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/skidmap-targeting-redis": {
+    "ts": "2026-09-12T13:27:38.649958+00:00",
+    "title": "SkidMap targeting Redis (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/jumpcloud-supply-chain-attack": {
+    "ts": "2026-09-12T13:27:39.298552+00:00",
+    "title": "JumpCloud supply chain attack (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/silentbob-cryptomining-campaign": {
+    "ts": "2026-09-12T13:27:39.329812+00:00",
+    "title": "SilentBob cryptomining campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/storm-0558-phishing-campaigns": {
+    "ts": "2026-09-12T13:27:39.360110+00:00",
+    "title": "Storm-0558 phishing campaigns (Campaign)"
+  },
+  "https://cybersecuritynews.com/containing-machine-speed-cyber-attacks-inside-ai-infrastructure/": {
+    "ts": "2026-09-12T13:28:15.567040+00:00",
+    "title": "Containing Machine Speed Cyber Attacks Inside AI Infrastructure"
+  },
+  "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/": {
+    "ts": "2026-09-12T13:28:15.845838+00:00",
+    "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days"
+  },
+  "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html": {
+    "ts": "2026-09-12T13:28:15.845856+00:00",
+    "title": "When the Whole Company Adopts AI: What It Does to Your SOC"
+  },
+  "https://cybersecuritynews.com/beyond-the-perimeter-building-resilience-against-cloud-and-saas-supply-chain-attacks/": {
+    "ts": "2026-09-12T13:28:15.845860+00:00",
+    "title": "Beyond the Perimeter: Building Resilience Against Cloud and SaaS Supply-Chain Attacks"
+  },
+  "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html": {
+    "ts": "2026-09-12T13:28:16.085544+00:00",
+    "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers"
+  },
+  "https://threats.wiz.io/all-incidents/microsoft-ai-data-exposure": {
+    "ts": "2026-09-12T13:28:16.085563+00:00",
+    "title": "Microsoft AI data exposure (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/peach-sandstorm-cloud-activity": {
+    "ts": "2026-09-12T13:28:16.323541+00:00",
+    "title": "peach-sandstorm-cloud-activity (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/rollbar-hack": {
+    "ts": "2026-09-12T13:28:16.323559+00:00",
+    "title": "Rollbar hack (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/blackcat-azure-storage-account-ransomop": {
+    "ts": "2026-09-12T13:28:16.323563+00:00",
+    "title": "BlackCat Azure Storage Account RansomOp (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/from-ssh-bruteforce-to-cryptojacking": {
+    "ts": "2026-09-12T13:28:16.557277+00:00",
+    "title": "From SSH bruteforce to cryptojacking (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/kinsing-campaigns-2023-2024": {
+    "ts": "2026-09-12T13:28:16.797343+00:00",
+    "title": "Kinsing campaigns (2023-2024) (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/unc4841-barracuda-esg-campaign": {
+    "ts": "2026-09-12T13:28:17.032501+00:00",
+    "title": "UNC4841 Barracuda ESG Campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/from-php-exploitation-to-aws-lateral-movement": {
+    "ts": "2026-09-12T13:28:17.275564+00:00",
+    "title": "From PHP exploitation to AWS lateral movement (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/use-of-azure-run-commands": {
+    "ts": "2026-09-12T13:28:17.523282+00:00",
+    "title": "use-of-azure-run-commands (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/use-of-linpeas-for-cloud-enumeration": {
+    "ts": "2026-09-12T13:28:17.523299+00:00",
+    "title": "Use of linPEAS for cloud enumeration (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/sugarcrm-as-initial-access-to-aws-envs": {
+    "ts": "2026-09-12T13:28:17.753215+00:00",
+    "title": "SugarCRM as initial access to AWS envs (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/meow-jupyter-notebook-campaign": {
+    "ts": "2026-09-12T13:28:17.994121+00:00",
+    "title": "Meow Jupyter Notebook campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/depositfiles-exposed-config-file": {
+    "ts": "2026-09-12T13:28:17.994139+00:00",
+    "title": "DepositFiles exposed config file (Research)"
   }
 }
