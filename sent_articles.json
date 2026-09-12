@@ -10026,5 +10026,121 @@
   "https://threats.wiz.io/all-incidents/depositfiles-exposed-config-file": {
     "ts": "2026-09-12T13:28:17.994139+00:00",
     "title": "DepositFiles exposed config file (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/pyloose-campaign": {
+    "ts": "2026-09-12T16:51:42.723245+00:00",
+    "title": "PyLoose campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/apt31-rekoobe-campaign": {
+    "ts": "2026-09-12T16:51:42.727426+00:00",
+    "title": "APT31 Rekoobe campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/from-wso2-rce-to-ssh-lateral-movement": {
+    "ts": "2026-09-12T16:52:08.833875+00:00",
+    "title": "from-wso2-rce-to-ssh-lateral-movement (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/capita-data-leak": {
+    "ts": "2026-09-12T16:51:51.101015+00:00",
+    "title": "Capita data leak (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/fsevents-supply-chain-attack": {
+    "ts": "2026-09-12T16:51:51.118740+00:00",
+    "title": "fsevents supply chain attack (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/trigona-targeting-mssql-servers": {
+    "ts": "2026-09-12T16:51:53.545247+00:00",
+    "title": "Trigona targeting MSSQL servers (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/mexals-cryptojacking-campaign": {
+    "ts": "2026-09-12T16:51:53.553595+00:00",
+    "title": "Mexals cryptojacking campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/alienfox-campaign": {
+    "ts": "2026-09-12T16:51:54.298590+00:00",
+    "title": "AlienFox campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/chinaz-campaigns": {
+    "ts": "2026-09-12T16:51:55.045362+00:00",
+    "title": "ChinaZ campaigns (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/unc3886-campaigns": {
+    "ts": "2026-09-12T16:51:55.827544+00:00",
+    "title": "UNC3886 campaigns (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/dero-cryptojacking-targeting-k8s": {
+    "ts": "2026-09-12T16:51:55.848006+00:00",
+    "title": "Dero cryptojacking targeting K8s (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/": {
+    "ts": "2026-09-12T16:52:07.685156+00:00",
+    "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent"
+  },
+  "https://cybersecuritynews.com/multiple-vlc-media-player-vulnerabilities/": {
+    "ts": "2026-09-12T16:52:07.876623+00:00",
+    "title": "Multiple VLC Media Player Vulnerabilities Allow Attackers to Corrupt or Read Heap Memory"
+  },
+  "https://threats.wiz.io/all-incidents/storm-0558-signing-key-compromise": {
+    "ts": "2026-09-12T16:52:08.065608+00:00",
+    "title": "storm-0558-signing-key-compromise (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/scarleteel20": {
+    "ts": "2026-09-12T16:52:08.260632+00:00",
+    "title": "scarleteel20 (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/romcom-exploiting-word-vulnerability-in-campaign-targeting-government-entities": {
+    "ts": "2026-09-12T16:52:08.448115+00:00",
+    "title": "RomCom exploiting Word vulnerability in campaign targeting government entities (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/diicot-campaign-targeting-exposed-ssh": {
+    "ts": "2026-09-12T16:52:08.636883+00:00",
+    "title": "Diicot Campaign Targeting Exposed SSH (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/from-php-vuln-to-silver-execution-via-cron": {
+    "ts": "2026-09-12T16:52:09.022003+00:00",
+    "title": "from-php-vuln-to-silver-execution-via-cron (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/cosmic-wolf-cloud-activity": {
+    "ts": "2026-09-12T16:52:09.212955+00:00",
+    "title": "Cosmic Wolf cloud activity (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/poisoned-image-to-k8s-to-cloud": {
+    "ts": "2026-09-12T16:52:09.402359+00:00",
+    "title": "Poisoned image to K8s to cloud (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/8820-gang-targeting-oracle-weblogic": {
+    "ts": "2026-09-12T16:52:09.598619+00:00",
+    "title": "8820-gang-targeting-oracle-weblogic (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/sim-swapping-to-serial-port-abuse": {
+    "ts": "2026-09-12T16:52:09.794122+00:00",
+    "title": "SIM swapping to serial port abuse (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/optimeyes-data-leak": {
+    "ts": "2026-09-12T16:52:09.794140+00:00",
+    "title": "Optimeyes data leak (Research)"
+  },
+  "https://threats.wiz.io/all-incidents/8220-gang-exploiting-log4shell8220-gang-targeting-confluence": {
+    "ts": "2026-09-12T16:52:09.989935+00:00",
+    "title": "8220 Gang exploiting Log4Shell8220 Gang targeting Confluence (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/misconfigured-fw-to-cryptojacking-botnet": {
+    "ts": "2026-09-12T16:52:10.181017+00:00",
+    "title": "misconfigured-fw-to-cryptojacking-botnet (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/sim-swap-to-data-leak-on-dark-web": {
+    "ts": "2026-09-12T16:52:10.368879+00:00",
+    "title": "SIM-Swap to Data Leak on Dark Web (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/muddywater-cloud-destruction-operation": {
+    "ts": "2026-09-12T16:52:10.559439+00:00",
+    "title": "MuddyWater cloud destruction operation (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/3cx-and-trading-technologies-supply-chain-attack": {
+    "ts": "2026-09-12T16:52:10.746558+00:00",
+    "title": "3CX and Trading Technologies supply chain attack (Incident)"
+  },
+  "https://threats.wiz.io/all-incidents/javascript-injection-via-vulnerable-cms": {
+    "ts": "2026-09-12T16:52:10.946141+00:00",
+    "title": "JavaScript injection via vulnerable CMS (Campaign)"
   }
 }
