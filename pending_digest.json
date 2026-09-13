@@ -1,4 +1,15 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "GitLab CVE-2026-85706: One HTTP Request, No Authentication, Full File Read \u2013 Exploited Within 24 Hours",
+      "url": "https://securityaffairs.com/198945/hacking/gitlab-cve-2026-85706-one-http-request-no-authentication-full-file-read-exploited-within-24-hours.html"
+    }
+  ],
   "last_sent_date": "2026-09-13"
 }

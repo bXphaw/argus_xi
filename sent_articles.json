@@ -10502,5 +10502,29 @@
   "https://cybersecuritynews.com/plesk-backup-manager-flaw/": {
     "ts": "2026-09-13T11:22:59.505770+00:00",
     "title": "Plesk Backup Manager Flaw Lets Low-Privileged Users Gain Root Access to Servers"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/": {
+    "ts": "2026-09-13T15:52:49.150186+00:00",
+    "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware"
+  },
+  "https://cybersecuritynews.com/dell-objectscale-vulnerabilities/": {
+    "ts": "2026-09-13T15:52:49.150211+00:00",
+    "title": "Critical Dell ObjectScale Vulnerabilities Allows Malicious Users to Compromise the Affected system"
+  },
+  "https://securityaffairs.com/198957/security/security-affairs-newsletter-round-594-by-pierluigi-paganini-international-edition.html": {
+    "ts": "2026-09-13T15:52:49.150216+00:00",
+    "title": "Security Affairs newsletter Round 594 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION"
+  },
+  "https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/": {
+    "ts": "2026-09-13T15:52:49.150219+00:00",
+    "title": "Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up"
+  },
+  "https://threatmon.io/what-is-infostealer-malware-and-how-do-you-know-youre-infected/": {
+    "ts": "2026-09-13T15:52:49.150222+00:00",
+    "title": "What Is Infostealer Malware and How Do You Know You\u2019re Infected?"
+  },
+  "https://securityaffairs.com/198945/hacking/gitlab-cve-2026-85706-one-http-request-no-authentication-full-file-read-exploited-within-24-hours.html": {
+    "ts": "2026-09-13T15:52:49.346010+00:00",
+    "title": "GitLab CVE-2026-85706: One HTTP Request, No Authentication, Full File Read \u2013 Exploited Within 24 Hours"
   }
 }
