@@ -10526,5 +10526,9 @@
   "https://securityaffairs.com/198945/hacking/gitlab-cve-2026-85706-one-http-request-no-authentication-full-file-read-exploited-within-24-hours.html": {
     "ts": "2026-09-13T15:52:49.346010+00:00",
     "title": "GitLab CVE-2026-85706: One HTTP Request, No Authentication, Full File Read \u2013 Exploited Within 24 Hours"
+  },
+  "https://securityaffairs.com/198980/breaking-news/security-affairs-malware-newsletter-round-114.html": {
+    "ts": "2026-09-13T18:38:33.738346+00:00",
+    "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 114"
   }
 }
