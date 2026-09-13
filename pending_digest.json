@@ -224,6 +224,26 @@
       "category": "apt_campaign",
       "title": "solarwinds-supply-chain-attack (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/solarwinds-supply-chain-attack"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Meow database server campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/meow-database-server-campaign"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Exim exploitation by Sandworm (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/exim-exploitation-by-sandworm"
+    },
+    {
+      "category": "new_technique",
+      "title": "Large-scale cryptomining attack against K8s clusters detected by Azure (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/large-scale-cryptomining-attack-against-k8s-clusters-detected-by-azure"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Operation Aurora (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/operation-aurora"
     }
   ],
   "last_sent_date": "2026-09-12"
