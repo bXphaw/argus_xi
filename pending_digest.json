@@ -1,4 +1,25 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/"
+    },
+    {
+      "category": "malware_android",
+      "title": "14th September \u2013 Threat Intelligence Report",
+      "url": "https://research.checkpoint.com/2026/14th-september-threat-intelligence-report/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Devil\u2019s advocate? Uncensored Luciferus AI service advertised underground",
+      "url": "https://www.sophos.com/en-us/blog/uncensored-luciferus-ai-service-advertised-underground"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution",
+      "url": "https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/"
+    }
+  ],
   "last_sent_date": "2026-09-14"
 }

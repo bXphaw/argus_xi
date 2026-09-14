@@ -10670,5 +10670,117 @@
   "https://www.helpnetsecurity.com/2026/09/14/ot-intrusion-response-agent/": {
     "ts": "2026-09-14T10:27:25.958997+00:00",
     "title": "Turn it off and on again, but for critical infrastructure"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/": {
+    "ts": "2026-09-14T16:53:35.709081+00:00",
+    "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets"
+  },
+  "https://research.checkpoint.com/2026/14th-september-threat-intelligence-report/": {
+    "ts": "2026-09-14T16:53:35.881721+00:00",
+    "title": "14th September \u2013 Threat Intelligence Report"
+  },
+  "https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning": {
+    "ts": "2026-09-14T16:53:35.881740+00:00",
+    "title": "SpiderSilk Hunts External Threats With AI-Based Scanner"
+  },
+  "https://www.helpnetsecurity.com/2026/09/14/enisa-cra-single-reporting-platform/": {
+    "ts": "2026-09-14T16:53:35.881745+00:00",
+    "title": "ENISA launched the CRA Single Reporting Platform for actively exploited vulnerabilities"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/googles-new-search-redirects-make-links-harder-to-check-before-you-click": {
+    "ts": "2026-09-14T16:53:35.881748+00:00",
+    "title": "Google\u2019s new search redirects make links harder to check before you click"
+  },
+  "https://moonlock.com/mac-hacked": {
+    "ts": "2026-09-14T16:53:35.987663+00:00",
+    "title": "Can Macs be hacked and how can you tell if your Mac has been hacked?"
+  },
+  "https://www.rapid7.com/blog/post/dr-forrester-mdr-landscape-notable-vendor-preemptive": {
+    "ts": "2026-09-14T16:53:36.037050+00:00",
+    "title": "Rapid7 Named Among Notable Vendors in Forrester MDR Landscape: Why the Future is Exposure-informed, Preemptive MDR"
+  },
+  "https://www.recordedfuture.com/blog/proactive-threat-intelligence": {
+    "ts": "2026-09-14T16:53:36.092657+00:00",
+    "title": "What is Proactive Threat Intelligence? | Recorded Future"
+  },
+  "https://rewterz.com/threat-advisory/blackmoon-banking-trojan-aka-krbanker-active-iocs-10": {
+    "ts": "2026-09-14T16:53:36.137519+00:00",
+    "title": "BlackMoon Banking Trojan aka KrBanker \u2013 Active IOCs"
+  },
+  "https://securityaffairs.com/199032/security/u-s-cisa-adds-gitlab-jfrog-artifactory-and-connectwise-screenconnect-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-09-14T16:53:36.181667+00:00",
+    "title": "U.S. CISA adds GitLab, JFrog Artifactory, and ConnectWise ScreenConnect\u00a0flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/": {
+    "ts": "2026-09-14T16:53:36.181680+00:00",
+    "title": "Beijing Hits Back at Anthropic CEO\u2019s Call to Curb China\u2019s AI Development"
+  },
+  "https://www.sophos.com/en-us/blog/uncensored-luciferus-ai-service-advertised-underground": {
+    "ts": "2026-09-14T16:53:36.228023+00:00",
+    "title": "Devil\u2019s advocate? Uncensored Luciferus AI service advertised underground"
+  },
+  "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html": {
+    "ts": "2026-09-14T16:53:36.228037+00:00",
+    "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution"
+  },
+  "https://www.theregister.com/security/2026/09/14/perfect-10-gitlab-bug-under-attack-days-after-patch-lands/5296176": {
+    "ts": "2026-09-14T16:53:36.228041+00:00",
+    "title": "Perfect-10 GitLab bug under attack days after patch lands"
+  },
+  "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/": {
+    "ts": "2026-09-14T16:53:36.228044+00:00",
+    "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator"
+  },
+  "https://www.helpnetsecurity.com/2026/09/14/permify-open-source-authorization-as-a-service/": {
+    "ts": "2026-09-14T16:53:36.228048+00:00",
+    "title": "Permify: Open-source authorization as a service"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/revolut-gave-customer-ids-and-financial-data-to-a-government-impostor": {
+    "ts": "2026-09-14T16:53:36.228051+00:00",
+    "title": "Revolut gave customer IDs and financial data to a government impostor"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-85706-critical-gitlab-path-traversal-exploited-in-the-wild": {
+    "ts": "2026-09-14T16:53:36.228054+00:00",
+    "title": "CVE-2026-85706: Critical GitLab Path Traversal Exploited in the Wild"
+  },
+  "https://securityaffairs.com/199015/security/dutch-ncsc-warns-critical-check-point-vpn-flaws-put-networks-at-risk.html": {
+    "ts": "2026-09-14T16:53:36.228057+00:00",
+    "title": "Dutch NCSC Warns: Critical Check Point VPN Flaws Put Networks at Risk"
+  },
+  "https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/": {
+    "ts": "2026-09-14T16:53:36.228060+00:00",
+    "title": "New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate"
+  },
+  "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html": {
+    "ts": "2026-09-14T16:53:36.276806+00:00",
+    "title": "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits"
+  },
+  "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/": {
+    "ts": "2026-09-14T16:53:36.743543+00:00",
+    "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches"
+  },
+  "https://www.helpnetsecurity.com/2026/09/14/manageengine-cybersecurity-breach-confidence-report/": {
+    "ts": "2026-09-14T16:53:36.797965+00:00",
+    "title": "Cybersecurity attention fades within months after a breach"
+  },
+  "https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/": {
+    "ts": "2026-09-14T16:53:36.848381+00:00",
+    "title": "Personal, Financial Info Exposed in Revolut Data Breach"
+  },
+  "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html": {
+    "ts": "2026-09-14T16:53:36.902595+00:00",
+    "title": "AI Changed the Exposure Problem. Validation Needs to Change With It."
+  },
+  "https://www.securityweek.com/the-race-to-control-ai-and-protect-what-makes-us-human/": {
+    "ts": "2026-09-14T16:53:36.902611+00:00",
+    "title": "The Race to Control AI and Protect What Makes Us Human"
+  },
+  "https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/": {
+    "ts": "2026-09-14T16:53:36.952182+00:00",
+    "title": "Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution"
+  },
+  "https://www.securityweek.com/cisos-race-to-control-ai-agents-without-destroying-their-value/": {
+    "ts": "2026-09-14T16:53:36.952197+00:00",
+    "title": "CISOs Race to Control AI Agents Without Destroying Their Value"
   }
 }
