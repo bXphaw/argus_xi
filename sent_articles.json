@@ -10550,5 +10550,125 @@
   "https://www.helpnetsecurity.com/2026/09/14/aws-deception-benchmark-security-vulnerabilities/": {
     "ts": "2026-09-14T04:42:30.409197+00:00",
     "title": "AWS puts AI vulnerability detection to the test, and false positives pile up"
+  },
+  "https://gbhackers.com/grayrabbit-backdoor/": {
+    "ts": "2026-09-14T10:25:28.226831+00:00",
+    "title": "China-Linked Hackers Exploit Sogou One-Click RCE to Deploy GRAYRABBIT Backdoor"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/": {
+    "ts": "2026-09-14T10:27:23.932741+00:00",
+    "title": "Microsoft: September updates cause RDS failures on Windows Server"
+  },
+  "https://cybersecuritynews.com/github-pays-bounty-for-rce-flaw-in-git-push/": {
+    "ts": "2026-09-14T10:27:24.250489+00:00",
+    "title": "GitHub Pays $100,000 Bounty for Critical RCE Flaw in Git Push Pipeline"
+  },
+  "https://gbhackers.com/cyclops-blink-variant/": {
+    "ts": "2026-09-14T10:27:24.344938+00:00",
+    "title": "Sandworm-Linked Cyclops Blink Returns With Network Scanning and Packet-Sniffing Capabilities"
+  },
+  "https://www.group-ib.com/blog/smishing-triad-outsider-jwr/": {
+    "ts": "2026-09-14T10:27:24.452565+00:00",
+    "title": "Smish. Click. Drained: Inside the Smishing Triad\u2019s Phishing Cockpit"
+  },
+  "https://www.helpnetsecurity.com/2026/09/14/whatsapp-restricted-chat-feature/": {
+    "ts": "2026-09-14T10:27:24.452588+00:00",
+    "title": "WhatsApp Restricted Chat locks a conversation to your primary phone"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/a-week-in-security-september-7-september-13": {
+    "ts": "2026-09-14T10:27:24.452593+00:00",
+    "title": "A week in security (September 7 \u2013 September 13)"
+  },
+  "https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/": {
+    "ts": "2026-09-14T10:27:24.548535+00:00",
+    "title": "Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection"
+  },
+  "https://rewterz.com/threat-advisory/cisco-firewall-flaw-exploited-for-root-access-active-iocs": {
+    "ts": "2026-09-14T10:27:24.644531+00:00",
+    "title": "Cisco Firewall Flaw Exploited for Root Access \u2013 Active IOCs"
+  },
+  "https://securityaffairs.com/198994/ai/anthropic-ceo-calls-for-an-ai-slowdown-is-it-possible.html": {
+    "ts": "2026-09-14T10:27:24.644553+00:00",
+    "title": "Anthropic CEO Calls for an AI Slowdown. Is It Possible?"
+  },
+  "https://www.securityweek.com/telus-warns-customers-of-account-breaches/": {
+    "ts": "2026-09-14T10:27:24.644558+00:00",
+    "title": "Telus Warns Customers of Account Breaches"
+  },
+  "https://www.silentpush.com/blog/nk-it-worker/?utm_source=rss&utm_medium=rss&utm_campaign=nk-it-worker": {
+    "ts": "2026-09-14T10:27:24.738842+00:00",
+    "title": "Silent Push Exposes North Korean IT Worker Recruiting Facilitators Through Discord Servers"
+  },
+  "https://www.security.com/expert-perspectives/13-cybersecurity-stats-you-should-know-2026": {
+    "ts": "2026-09-14T10:27:24.839380+00:00",
+    "title": "13 Cybersecurity Stats You Should Know in 2026"
+  },
+  "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html": {
+    "ts": "2026-09-14T10:27:24.951204+00:00",
+    "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users"
+  },
+  "https://www.theregister.com/security/2026/09/14/ukgov-begins-killing-off-passwords-for-23-million-users/5296088": {
+    "ts": "2026-09-14T10:27:25.050898+00:00",
+    "title": "UK.gov begins killing off passwords for 23 million users"
+  },
+  "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/": {
+    "ts": "2026-09-14T10:27:25.168470+00:00",
+    "title": "Revolut discloses data breach exposing financial info, passports"
+  },
+  "https://cybersecuritynews.com/casbaneiro-banking-trojan/": {
+    "ts": "2026-09-14T10:27:25.265699+00:00",
+    "title": "Hackers Deploy Casbaneiro Banking Trojan That Activates When Victims Open Bank Websites"
+  },
+  "https://www.helpnetsecurity.com/2026/09/14/debian-13-7-point-release/": {
+    "ts": "2026-09-14T10:27:25.265720+00:00",
+    "title": "Debian 13.7 ships the fixes behind 92 security advisories, updates 106 packages"
+  },
+  "https://rewterz.com/threat-advisory/gitlab-fixes-critical-rce-and-credential-theft-flaws": {
+    "ts": "2026-09-14T10:27:25.265725+00:00",
+    "title": "GitLab Fixes Critical RCE and Credential Theft Flaws"
+  },
+  "https://www.securityweek.com/three-jfrog-artifactory-flaws-exploited-for-backdoor-deployment/": {
+    "ts": "2026-09-14T10:27:25.265729+00:00",
+    "title": "Three JFrog Artifactory Flaws Exploited for Backdoor Deployment"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/": {
+    "ts": "2026-09-14T10:27:25.265732+00:00",
+    "title": "Microsoft: September updates break audio on some Windows PCs"
+  },
+  "https://cybersecuritynews.com/hackers-abuse-youtube-gaming/": {
+    "ts": "2026-09-14T10:27:25.363780+00:00",
+    "title": "Hackers Abuse YouTube Gaming Channels and SEO Poisoning to Deploy RATs and Chrome Hijacker"
+  },
+  "https://gbhackers.com/casbaneiro-banking-trojan/": {
+    "ts": "2026-09-14T10:27:25.465671+00:00",
+    "title": "Casbaneiro Banking Trojan Uses Distributed C2 Servers to Evade Detection and Target Bank Users"
+  },
+  "https://www.helpnetsecurity.com/2026/09/14/revolut-data-breach-privacy/": {
+    "ts": "2026-09-14T10:27:25.569092+00:00",
+    "title": "What we know about the Revolut data breach so far"
+  },
+  "https://rewterz.com/threat-advisory/multiple-microsoft-windows-products-vulnerabilities-exploit-in-the-wild": {
+    "ts": "2026-09-14T10:27:25.664541+00:00",
+    "title": "Multiple Microsoft Windows Products Vulnerabilities Exploit in the Wild"
+  },
+  "https://www.securityweek.com/connectwise-patches-screenconnect-vulnerability-exploited-in-worm-like-attacks/": {
+    "ts": "2026-09-14T10:27:25.764291+00:00",
+    "title": "ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/": {
+    "ts": "2026-09-14T10:27:25.764312+00:00",
+    "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks"
+  },
+  "https://cybersecuritynews.com/hackers-inject-asyncrat/": {
+    "ts": "2026-09-14T10:27:25.859216+00:00",
+    "title": "Hackers Abuse AutoIt to Inject AsyncRAT Into Microsoft-Signed Windows Process"
+  },
+  "https://gbhackers.com/asyncrat-in-hides-windows-process/": {
+    "ts": "2026-09-14T10:27:25.958975+00:00",
+    "title": "AsyncRAT Malware Abuses AutoIt and PowerShell to Hide Inside Legitimate Windows Process"
+  },
+  "https://www.helpnetsecurity.com/2026/09/14/ot-intrusion-response-agent/": {
+    "ts": "2026-09-14T10:27:25.958997+00:00",
+    "title": "Turn it off and on again, but for critical infrastructure"
   }
 }
