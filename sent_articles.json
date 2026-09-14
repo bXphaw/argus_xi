@@ -10878,5 +10878,25 @@
   "https://cybersecuritynews.com/zcopyreaper-linux-kernel-vulnerability/": {
     "ts": "2026-09-14T20:49:43.807876+00:00",
     "title": "New ZcopyReaper Linux Kernel Vulnerability Enables Privilege Escalation Attacks"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/": {
+    "ts": "2026-09-14T23:45:07.784706+00:00",
+    "title": "Microsoft releases emergency Windows updates to fix RDS failures"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink": {
+    "ts": "2026-09-14T23:45:08.006774+00:00",
+    "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink"
+  },
+  "https://www.helpnetsecurity.com/2026/09/15/apple-parental-controls-ios-27/": {
+    "ts": "2026-09-14T23:45:08.006795+00:00",
+    "title": "Apple parental controls in iOS 27 let kids ask before opening new websites"
+  },
+  "https://www.theregister.com/cyber-crime/2026/09/14/hbo-max-reddit-account-compromised-to-serve-clickfix-attacks/5296408": {
+    "ts": "2026-09-14T23:45:08.006799+00:00",
+    "title": "HBO Max Reddit account compromised to serve ClickFix attacks"
+  },
+  "https://www.helpnetsecurity.com/2026/09/15/cybersecurity-jobs-available-right-now-september-15-2026/": {
+    "ts": "2026-09-14T23:45:08.006802+00:00",
+    "title": "Cybersecurity jobs available right now: September 15, 2026"
   }
 }

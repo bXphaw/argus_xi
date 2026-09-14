@@ -49,6 +49,11 @@
       "category": "new_technique",
       "title": "New ZcopyReaper Linux Kernel Vulnerability Enables Privilege Escalation Attacks",
       "url": "https://cybersecuritynews.com/zcopyreaper-linux-kernel-vulnerability/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink"
     }
   ],
   "last_sent_date": "2026-09-14"
