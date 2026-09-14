@@ -10530,5 +10530,25 @@
   "https://securityaffairs.com/198980/breaking-news/security-affairs-malware-newsletter-round-114.html": {
     "ts": "2026-09-13T18:38:33.738346+00:00",
     "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 114"
+  },
+  "https://asec.ahnlab.com/en/95390/": {
+    "ts": "2026-09-14T04:42:28.919678+00:00",
+    "title": "August 2026 Dark Web Threat Actor Trend Report"
+  },
+  "https://asec.ahnlab.com/en/95391/": {
+    "ts": "2026-09-14T04:42:29.724675+00:00",
+    "title": "August 2026 Dark Web Issue Trend Report"
+  },
+  "https://asec.ahnlab.com/en/95385/": {
+    "ts": "2026-09-14T04:42:30.409178+00:00",
+    "title": "August 2026 Dark Web Breach Incident Trend Report"
+  },
+  "https://www.helpnetsecurity.com/2026/09/14/digicert-certificate-management-automation-report/": {
+    "ts": "2026-09-14T04:42:30.409193+00:00",
+    "title": "Certificate failures can cost firms over $250,000"
+  },
+  "https://www.helpnetsecurity.com/2026/09/14/aws-deception-benchmark-security-vulnerabilities/": {
+    "ts": "2026-09-14T04:42:30.409197+00:00",
+    "title": "AWS puts AI vulnerability detection to the test, and false positives pile up"
   }
 }
