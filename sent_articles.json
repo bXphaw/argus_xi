@@ -10782,5 +10782,101 @@
   "https://www.securityweek.com/cisos-race-to-control-ai-agents-without-destroying-their-value/": {
     "ts": "2026-09-14T16:53:36.952197+00:00",
     "title": "CISOs Race to Control AI Agents Without Destroying Their Value"
+  },
+  "https://cybersecuritynews.com/vite-servers-under-attack/": {
+    "ts": "2026-09-14T20:48:15.773922+00:00",
+    "title": "Hackers Mass-Scan Exposed Vite Servers to Steal AWS and Azure Cloud Credentials"
+  },
+  "https://cybersecuritynews.com/whatsapps-new-restricted-chat-feature/": {
+    "ts": "2026-09-14T20:48:24.699950+00:00",
+    "title": "WhatsApp\u2019s New Restricted Chat Feature Locks Conversation on Your Primary Phone"
+  },
+  "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/": {
+    "ts": "2026-09-14T20:49:41.592245+00:00",
+    "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records"
+  },
+  "https://cybersecuritynews.com/fortigate-ssl-vpn-vulnerability/": {
+    "ts": "2026-09-14T20:49:41.592263+00:00",
+    "title": "Hackers Exploit FortiGate SSL-VPN Vulnerability to Attack Broadband Provider"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk": {
+    "ts": "2026-09-14T20:49:41.592267+00:00",
+    "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk"
+  },
+  "https://securityaffairs.com/199063/ai/enisa-frontier-ai-is-changing-the-speed-of-cyberattacks-europe-needs-to-catch-up.html": {
+    "ts": "2026-09-14T20:49:41.592270+00:00",
+    "title": "ENISA: Frontier AI Is Changing the Speed of Cyberattacks. Europe Needs to Catch Up"
+  },
+  "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html": {
+    "ts": "2026-09-14T20:49:41.798252+00:00",
+    "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing"
+  },
+  "https://www.theregister.com/security/2026/09/14/new-hardware-device-can-ram-into-encrypted-memory-expose-your-data/5296377": {
+    "ts": "2026-09-14T20:49:41.932000+00:00",
+    "title": "New hardware device can RAM into encrypted memory, expose your data"
+  },
+  "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/": {
+    "ts": "2026-09-14T20:49:42.073483+00:00",
+    "title": "Homebrew 7.0.0 gets built-in GUI, better security controls"
+  },
+  "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai": {
+    "ts": "2026-09-14T20:49:42.193148+00:00",
+    "title": "Anthropic CEO: Time to Shift From Improving to Controlling AI"
+  },
+  "https://securityaffairs.com/199048/uncategorized/china-calls-amodeis-ai-proposal-a-new-cold-war-playbook.html": {
+    "ts": "2026-09-14T20:49:42.324650+00:00",
+    "title": "China Calls Amodei\u2019s AI Proposal a New Cold War Playbook"
+  },
+  "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html": {
+    "ts": "2026-09-14T20:49:42.474845+00:00",
+    "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials"
+  },
+  "https://www.theregister.com/security/2026/09/14/openais-malicious-bot-swarm-attacked-rubygems/5296356": {
+    "ts": "2026-09-14T20:49:42.611195+00:00",
+    "title": "OpenAI's malicious bot swarm attacked RubyGems"
+  },
+  "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/": {
+    "ts": "2026-09-14T20:49:42.611215+00:00",
+    "title": "Twitch extension with 30K installs exposes users\u2019 OAuth tokens"
+  },
+  "https://cybersecuritynews.com/uk-government-passwordless/": {
+    "ts": "2026-09-14T20:49:42.611219+00:00",
+    "title": "UK Government Begins Moving 23 Million Users Away From Passwords"
+  },
+  "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html": {
+    "ts": "2026-09-14T20:49:42.731501+00:00",
+    "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/": {
+    "ts": "2026-09-14T20:49:42.861486+00:00",
+    "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads"
+  },
+  "https://cybersecuritynews.com/nintendo-switch-code-execution-flaw/": {
+    "ts": "2026-09-14T20:49:43.000597+00:00",
+    "title": "Nintendo Switch Vulnerability Allows Attackers to Run Unauthorized Code on Your Console"
+  },
+  "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html": {
+    "ts": "2026-09-14T20:49:43.133372+00:00",
+    "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries"
+  },
+  "https://cybersecuritynews.com/microsoft-ai-bug-bounty/": {
+    "ts": "2026-09-14T20:49:43.276144+00:00",
+    "title": "Microsoft Offers Up to $30,000 for Critical AI Flaws in Dynamics 365 and Power Platform"
+  },
+  "https://cybersecuritynews.com/aws-systems-manager-agent-vulnerability/": {
+    "ts": "2026-09-14T20:49:43.412937+00:00",
+    "title": "AWS Systems Manager Agent Vulnerability Allows Attackers to Bypass Port-Forwarding Restrictions"
+  },
+  "https://cybersecuritynews.com/malicious-twitch-extension/": {
+    "ts": "2026-09-14T20:49:43.551814+00:00",
+    "title": "Malicious Twitch Extension Exposes OAuth Tokens of 30,000 Chrome and Firefox Users"
+  },
+  "https://cybersecuritynews.com/cyclops-blink-evolves/": {
+    "ts": "2026-09-14T20:49:43.689575+00:00",
+    "title": "Cyclops Blink Evolves Into x86-64 Linux Implant With Packet Sniffing and Internal Network Scanning"
+  },
+  "https://cybersecuritynews.com/zcopyreaper-linux-kernel-vulnerability/": {
+    "ts": "2026-09-14T20:49:43.807876+00:00",
+    "title": "New ZcopyReaper Linux Kernel Vulnerability Enables Privilege Escalation Attacks"
   }
 }

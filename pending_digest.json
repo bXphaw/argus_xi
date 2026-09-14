@@ -19,6 +19,36 @@
       "category": "malware_windows",
       "title": "Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution",
       "url": "https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/"
+    },
+    {
+      "category": "new_technique",
+      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "OpenAI's malicious bot swarm attacked RubyGems",
+      "url": "https://www.theregister.com/security/2026/09/14/openais-malicious-bot-swarm-attacked-rubygems/5296356"
+    },
+    {
+      "category": "new_technique",
+      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+      "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Cyclops Blink Evolves Into x86-64 Linux Implant With Packet Sniffing and Internal Network Scanning",
+      "url": "https://cybersecuritynews.com/cyclops-blink-evolves/"
+    },
+    {
+      "category": "new_technique",
+      "title": "New ZcopyReaper Linux Kernel Vulnerability Enables Privilege Escalation Attacks",
+      "url": "https://cybersecuritynews.com/zcopyreaper-linux-kernel-vulnerability/"
     }
   ],
   "last_sent_date": "2026-09-14"
