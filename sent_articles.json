@@ -11142,5 +11142,73 @@
   "https://www.helpnetsecurity.com/2026/09/15/microsoft-ai-safety-rules-humanist-ai-code-of-conduct/": {
     "ts": "2026-09-15T14:46:02.020278+00:00",
     "title": "Microsoft sets security and safety rules for its AI models"
+  },
+  "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html": {
+    "ts": "2026-09-15T18:47:29.228042+00:00",
+    "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems"
+  },
+  "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/": {
+    "ts": "2026-09-15T18:48:11.554872+00:00",
+    "title": "CenterPoint Energy confirms customer data stolen in cyberattack"
+  },
+  "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises": {
+    "ts": "2026-09-15T18:48:11.805969+00:00",
+    "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month"
+  },
+  "https://www.helpnetsecurity.com/2026/09/15/hbo-max-reddit-account-clickfix-infostealer-malware/": {
+    "ts": "2026-09-15T18:48:12.045827+00:00",
+    "title": "Attackers hijack HBO Max\u2019s Reddit account for 48-hour malvertising blitz"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/how-money-laundering-scams-and-espionage-hide-in-a-web-full-of-casino-garbage/": {
+    "ts": "2026-09-15T18:48:12.286449+00:00",
+    "title": "How Money Laundering, Scams, and Espionage Hide in a Web Full of Casino Garbage"
+  },
+  "https://www.malwarebytes.com/blog/how-to/2026/09/how-to-opt-out-of-ai-chatbot-training": {
+    "ts": "2026-09-15T18:48:12.286470+00:00",
+    "title": "How to opt out of AI chatbot training"
+  },
+  "https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/": {
+    "ts": "2026-09-15T18:48:12.525385+00:00",
+    "title": "$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws"
+  },
+  "https://www.sophos.com/en-us/blog/ai-research-messageboards": {
+    "ts": "2026-09-15T18:48:12.771006+00:00",
+    "title": "ai research messageboards"
+  },
+  "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html": {
+    "ts": "2026-09-15T18:48:13.007753+00:00",
+    "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists"
+  },
+  "https://www.theregister.com/security/2026/09/15/iranian-spies-hit-windows-machines-with-chosen-brick-data-stealing-malware/5296646": {
+    "ts": "2026-09-15T18:48:13.249675+00:00",
+    "title": "Iranian spies hit Windows machines with Chosen Brick data-stealing malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/": {
+    "ts": "2026-09-15T18:48:13.488111+00:00",
+    "title": "BambooToken malware controls Windows and Linux systems via MQTT"
+  },
+  "https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/": {
+    "ts": "2026-09-15T18:48:13.488131+00:00",
+    "title": "Exein Secures $270M at $1.7B Valuation for Physical AI Security"
+  },
+  "https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604": {
+    "ts": "2026-09-15T18:48:13.488136+00:00",
+    "title": "Cisco email security boxes can be rooted by... an email"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/": {
+    "ts": "2026-09-15T18:48:13.488140+00:00",
+    "title": "Hackers target WordPress sites via third-party WooCommerce plugin"
+  },
+  "https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/": {
+    "ts": "2026-09-15T18:48:13.727359+00:00",
+    "title": "Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data"
+  },
+  "https://www.theregister.com/security/2026/09/15/sponsored-whos-governing-your-ai-a-trust-framework-for-enterprise-agents-and-models/5294237": {
+    "ts": "2026-09-15T18:48:13.727378+00:00",
+    "title": "Who's governing your AI? A trust framework for enterprise agents and models"
+  },
+  "https://www.securityweek.com/apple-patches-200-vulnerabilities-with-new-ios-27-macos-golden-gate-27-releases/": {
+    "ts": "2026-09-15T18:48:13.727383+00:00",
+    "title": "Apple Patches 200 Vulnerabilities With New iOS 27, macOS Golden Gate 27 Releases"
   }
 }

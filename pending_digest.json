@@ -44,6 +44,26 @@
       "category": "new_technique",
       "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
       "url": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month",
+      "url": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Attackers hijack HBO Max\u2019s Reddit account for 48-hour malvertising blitz",
+      "url": "https://www.helpnetsecurity.com/2026/09/15/hbo-max-reddit-account-clickfix-infostealer-malware/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "How Money Laundering, Scams, and Espionage Hide in a Web Full of Casino Garbage",
+      "url": "https://www.infoblox.com/blog/threat-intelligence/how-money-laundering-scams-and-espionage-hide-in-a-web-full-of-casino-garbage/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data",
+      "url": "https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/"
     }
   ],
   "last_sent_date": "2026-09-15"
