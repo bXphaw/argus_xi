@@ -10902,5 +10902,125 @@
   "https://www.helpnetsecurity.com/2026/09/15/homebrew-7-0-0-security-open-source/": {
     "ts": "2026-09-15T04:06:40.219704+00:00",
     "title": "Homebrew 7.0.0 is out, here\u2019s what changed for security"
+  },
+  "https://cybersecuritynews.com/kb5002914-update-breaks-copy-paste/": {
+    "ts": "2026-09-15T09:51:43.018278+00:00",
+    "title": "Microsoft Confirms KB5002914 Update Breaks Copy and Paste on Excel"
+  },
+  "https://gbhackers.com/best-cwpp-compared/": {
+    "ts": "2026-09-15T09:51:49.146862+00:00",
+    "title": "12 Best CWPP Solutions Compared (2026): Features & Pricing"
+  },
+  "https://cybersecuritynews.com/hackers-hijack-hbo-max/": {
+    "ts": "2026-09-15T09:51:49.171656+00:00",
+    "title": "Hackers Hijack HBO Max Reddit Account to Push 108 ClickFix Malware Ads"
+  },
+  "https://gbhackers.com/best-cspm-compared/": {
+    "ts": "2026-09-15T09:51:49.194886+00:00",
+    "title": "11 Best CSPM Tools Compared (2026): Features & Pricing"
+  },
+  "https://gbhackers.com/best-enterprise-browsers-compared/": {
+    "ts": "2026-09-15T09:51:50.082115+00:00",
+    "title": "12 Best Enterprise Browsers Compared (2026): Features & Pricing"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/": {
+    "ts": "2026-09-15T09:53:20.696606+00:00",
+    "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste"
+  },
+  "https://cybersecuritynews.com/telegram-desktop-flaw/": {
+    "ts": "2026-09-15T09:53:20.925238+00:00",
+    "title": "Telegram Desktop Flaw Lets Attackers Steal Chat Messages Through Poisoned HTML Exports"
+  },
+  "https://gbhackers.com/linux-kernel-zcopyreaper-vulnerability/": {
+    "ts": "2026-09-15T09:53:21.121222+00:00",
+    "title": "Linux Kernel ZcopyReaper Vulnerability Lets Local Attackers Gain Root Privileges"
+  },
+  "https://www.helpnetsecurity.com/2026/09/15/product-showcase-msecure-password-manager/": {
+    "ts": "2026-09-15T09:53:21.121242+00:00",
+    "title": "Product showcase: mSecure makes one vault do more than remember passwords"
+  },
+  "https://www.malwarebytes.com/blog/threat-intel/2026/09/search-results-are-sending-people-to-fake-bitrefill-checkouts": {
+    "ts": "2026-09-15T09:53:21.121245+00:00",
+    "title": "Search results are sending people to fake Bitrefill checkouts"
+  },
+  "https://securityaffairs.com/199076/security/telegram-desktop-flaw-could-turn-old-chat-exports-into-data-theft-traps.html": {
+    "ts": "2026-09-15T09:53:21.317703+00:00",
+    "title": "Telegram Desktop Flaw Could Turn Old Chat Exports Into Data Theft Traps"
+  },
+  "https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/": {
+    "ts": "2026-09-15T09:53:21.504550+00:00",
+    "title": "Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints"
+  },
+  "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html": {
+    "ts": "2026-09-15T09:53:21.699925+00:00",
+    "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server"
+  },
+  "https://www.intego.com/mac-security-blog/do-i-need-antivirus-on-my-mac/": {
+    "ts": "2026-09-15T09:53:21.896010+00:00",
+    "title": "Do Macs need antivirus, or is built-in protection enough?"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/09/15/the-latest-ai-doomsayer-is-chinas-intelligence-boss/5296451": {
+    "ts": "2026-09-15T09:53:22.091955+00:00",
+    "title": "The latest AI doomsayer is China\u2019s intelligence boss"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/": {
+    "ts": "2026-09-15T09:53:22.294707+00:00",
+    "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks"
+  },
+  "https://cybersecuritynews.com/hackers-use-autonomous-ai-agents/": {
+    "ts": "2026-09-15T09:53:22.490291+00:00",
+    "title": "Hackers Use Autonomous AI Agents to Harvest Thousands of Credentials in Under 6 Hours"
+  },
+  "https://gbhackers.com/microsoft-offers-60000-bounty/": {
+    "ts": "2026-09-15T09:53:22.490308+00:00",
+    "title": "Microsoft Offers $60,000 Bounty for Critical Cross-Tenant Vulnerabilities"
+  },
+  "https://www.helpnetsecurity.com/2026/09/15/onetrust-enterprise-ai-governance-trends-report/": {
+    "ts": "2026-09-15T09:53:22.490312+00:00",
+    "title": "Your employees are already using AI tools you never approved"
+  },
+  "https://securityaffairs.com/199090/security/non-zero-day-vpn-flaw-left-japan-government-shared-network-platform-exposed-246000-records-at-risk.html": {
+    "ts": "2026-09-15T09:53:22.490315+00:00",
+    "title": "Non-Zero-Day VPN Flaw Left Japan \u2018s Government Shared Network Platform Exposed: 246,000 Records at Risk"
+  },
+  "https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/": {
+    "ts": "2026-09-15T09:53:22.676805+00:00",
+    "title": "Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack"
+  },
+  "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html": {
+    "ts": "2026-09-15T09:53:22.871736+00:00",
+    "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution"
+  },
+  "https://gbhackers.com/agentic-ai-exploitation/": {
+    "ts": "2026-09-15T09:53:23.067233+00:00",
+    "title": "Hackers Deploy Agentic AI to Automate Exploitation and Mass Credential Harvesting"
+  },
+  "https://www.helpnetsecurity.com/2026/09/15/gartner-ai-in-internal-audit/": {
+    "ts": "2026-09-15T09:53:23.067252+00:00",
+    "title": "Most chief audit executives can\u2019t tell you what AI is worth yet"
+  },
+  "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/": {
+    "ts": "2026-09-15T09:53:23.255908+00:00",
+    "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation"
+  },
+  "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html": {
+    "ts": "2026-09-15T09:53:23.451636+00:00",
+    "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE"
+  },
+  "https://cybersecuritynews.com/marimo-rce-to-steal-aws-credentials-in-8-seconds/": {
+    "ts": "2026-09-15T09:53:23.638982+00:00",
+    "title": "Hackers Exploit Marimo RCE to Steal AWS Credentials and Reach Bastion Host in 8 Seconds"
+  },
+  "https://gbhackers.com/best-cnapp-compared/": {
+    "ts": "2026-09-15T09:53:23.826491+00:00",
+    "title": "12 Best CNAPP Platforms Compared (2026): Features & Pricing"
+  },
+  "https://cybersecuritynews.com/hackers-abuse-vssadmin/": {
+    "ts": "2026-09-15T09:53:24.013445+00:00",
+    "title": "Hackers Abuse VSSAdmin to Extract NTDS.dit and Delete Windows Recovery Copies"
+  },
+  "https://cybersecuritynews.com/best-serverless-security-solutions/": {
+    "ts": "2026-09-15T09:53:24.201163+00:00",
+    "title": "Top 10 Best Serverless Security Solutions in 2026"
   }
 }
