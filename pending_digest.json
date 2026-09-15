@@ -1,4 +1,50 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "threat_actor",
+      "title": "HBO Max\u2019s verified Reddit account hijacked to spread malware",
+      "url": "https://www.malwarebytes.com/blog/news/2026/09/hbo-maxs-verified-reddit-account-hijacked-to-spread-malware"
+    },
+    {
+      "category": "new_technique",
+      "title": "CVE-2026-76461: Critical Cisco Secure Email Gateway Vulnerability Exploited in the Wild",
+      "url": "https://www.rapid7.com/blog/post/etr-cve-2026-76461-critical-cisco-secure-email-gateway-vulnerability-exploited-in-the-wild"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Tajin Group: Guarantee Marketplace Vendor Involved in Phishing and Chinese Money Laundering Group",
+      "url": "https://www.recordedfuture.com/research/tajin-group-gurantee-marketplace"
+    },
+    {
+      "category": "new_technique",
+      "title": "Cisco Warns of Ongoing Exploitation of Critical Email Gateway Zero-Day",
+      "url": "https://securityaffairs.com/199137/hacking/cisco-warns-of-ongoing-exploitation-of-critical-email-gateway-zero-day.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Cisco Secure Email Gateway vulnerability (CVE-2026-76461) in active exploitation",
+      "url": "https://www.sophos.com/en-us/blog/cisco-secure-email-gateway-vulnerability-cve-2026-76461-in-active-exploitation"
+    },
+    {
+      "category": "new_technique",
+      "title": "Uncensored AI sold on hacking forum as alternative to ChatGPT and Claude jailbreaks",
+      "url": "https://www.helpnetsecurity.com/2026/09/15/luciferus-uncensored-ai-service-hacking-forum/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Shared Hosting at Risk: LiteSpeed Enterprise Bug Can Grant Root from a Single Tenant",
+      "url": "https://securityaffairs.com/199127/security/shared-hosting-at-risk-litespeed-enterprise-bug-can-grant-root-from-a-single-tenant.html"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "OpenAI Investigates Report Linking AI Agents to RubyGems Attack",
+      "url": "https://www.securityweek.com/openai-investigates-report-linking-ai-agents-to-rubygems-attack/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
+      "url": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html"
+    }
+  ],
   "last_sent_date": "2026-09-15"
 }

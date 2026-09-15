@@ -11022,5 +11022,125 @@
   "https://cybersecuritynews.com/best-serverless-security-solutions/": {
     "ts": "2026-09-15T09:53:24.201163+00:00",
     "title": "Top 10 Best Serverless Security Solutions in 2026"
+  },
+  "https://cybersecuritynews.com/googles-new-search/": {
+    "ts": "2026-09-15T14:44:13.771521+00:00",
+    "title": "Google\u2019s New Search Redirects Make It Harder to Check Where Links Lead Before Clicking"
+  },
+  "https://cybersecuritynews.com/new-phishing-attacks/": {
+    "ts": "2026-09-15T14:44:18.073585+00:00",
+    "title": "New Phishing Attacks Use Trusted Email Infrastructure and URL Cloaking to Bypass Security Tools"
+  },
+  "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/": {
+    "ts": "2026-09-15T14:45:56.992548+00:00",
+    "title": "What Zero-Day Response Should Be in the Post-Mythos Era"
+  },
+  "https://cybersecuritynews.com/homebrew-7-0-0-adds-vulnerability-scanner/": {
+    "ts": "2026-09-15T14:45:56.992563+00:00",
+    "title": "Homebrew 7.0.0 Adds Built-In Vulnerability Scanner and Stronger Package Sandboxing"
+  },
+  "https://gbhackers.com/harder-link-verification/": {
+    "ts": "2026-09-15T14:45:56.992567+00:00",
+    "title": "Google Search Makes It Harder to See Where a Link Really Goes Before You Click"
+  },
+  "https://www.helpnetsecurity.com/2026/09/15/enzoic-ebook-identity-first-threat-intelligence/": {
+    "ts": "2026-09-15T14:45:56.992570+00:00",
+    "title": "eBook: Identity-First Threat Intelligence"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/hbo-maxs-verified-reddit-account-hijacked-to-spread-malware": {
+    "ts": "2026-09-15T14:45:57.662317+00:00",
+    "title": "HBO Max\u2019s verified Reddit account hijacked to spread malware"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-76461-critical-cisco-secure-email-gateway-vulnerability-exploited-in-the-wild": {
+    "ts": "2026-09-15T14:45:57.895966+00:00",
+    "title": "CVE-2026-76461: Critical Cisco Secure Email Gateway Vulnerability Exploited in the Wild"
+  },
+  "https://www.recordedfuture.com/research/tajin-group-gurantee-marketplace": {
+    "ts": "2026-09-15T14:45:58.143878+00:00",
+    "title": "Tajin Group: Guarantee Marketplace Vendor Involved in Phishing and Chinese Money Laundering Group"
+  },
+  "https://securityaffairs.com/199137/hacking/cisco-warns-of-ongoing-exploitation-of-critical-email-gateway-zero-day.html": {
+    "ts": "2026-09-15T14:45:58.374554+00:00",
+    "title": "Cisco Warns of Ongoing Exploitation of Critical Email Gateway Zero-Day"
+  },
+  "https://www.securityweek.com/thai-broadband-provider-hacked-via-fortinet-vulnerability/": {
+    "ts": "2026-09-15T14:45:58.374571+00:00",
+    "title": "Thai Broadband Provider Hacked via Fortinet Vulnerability"
+  },
+  "https://www.sophos.com/en-us/blog/cisco-secure-email-gateway-vulnerability-cve-2026-76461-in-active-exploitation": {
+    "ts": "2026-09-15T14:45:58.611951+00:00",
+    "title": "Cisco Secure Email Gateway vulnerability (CVE-2026-76461) in active exploitation"
+  },
+  "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html": {
+    "ts": "2026-09-15T14:45:58.858274+00:00",
+    "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds"
+  },
+  "https://www.theregister.com/security/2026/09/15/swiss-court-sentences-52-year-old-ukrainian-ransomware-dev-to-nearly-13-years-in-the-cooler/5296482": {
+    "ts": "2026-09-15T14:45:59.099352+00:00",
+    "title": "Swiss court sentences 52-year-old Ukrainian ransomware dev to nearly 13 years in the cooler"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/": {
+    "ts": "2026-09-15T14:45:59.335513+00:00",
+    "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs"
+  },
+  "https://cybersecuritynews.com/cpanel-litespeed-web-server-vulnerability/": {
+    "ts": "2026-09-15T14:45:59.569520+00:00",
+    "title": "cPanel LiteSpeed Web Server Vulnerability Allows Shared Server Users to Gain Root-Level Access"
+  },
+  "https://gbhackers.com/trusted-email-abuse/": {
+    "ts": "2026-09-15T14:45:59.852288+00:00",
+    "title": "Phishing Attacks Abuse Trusted Email Infrastructure and URL Cloaking to Evade Security Filters"
+  },
+  "https://www.helpnetsecurity.com/2026/09/15/luciferus-uncensored-ai-service-hacking-forum/": {
+    "ts": "2026-09-15T14:46:00.098764+00:00",
+    "title": "Uncensored AI sold on hacking forum as alternative to ChatGPT and Claude jailbreaks"
+  },
+  "https://www.malwarebytes.com/blog/family-and-parenting/2026/09/meta-ai-builds-detailed-profiles-of-children-from-years-of-family-posts": {
+    "ts": "2026-09-15T14:46:00.098783+00:00",
+    "title": "Meta AI builds detailed profiles of children from years of family posts"
+  },
+  "https://securityaffairs.com/199127/security/shared-hosting-at-risk-litespeed-enterprise-bug-can-grant-root-from-a-single-tenant.html": {
+    "ts": "2026-09-15T14:46:00.351711+00:00",
+    "title": "Shared Hosting at Risk: LiteSpeed Enterprise Bug Can Grant Root from a Single Tenant"
+  },
+  "https://www.securityweek.com/openai-investigates-report-linking-ai-agents-to-rubygems-attack/": {
+    "ts": "2026-09-15T14:46:00.587929+00:00",
+    "title": "OpenAI Investigates Report Linking AI Agents to RubyGems Attack"
+  },
+  "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html": {
+    "ts": "2026-09-15T14:46:00.587946+00:00",
+    "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point"
+  },
+  "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/": {
+    "ts": "2026-09-15T14:46:00.827680+00:00",
+    "title": "Suspected Black Axe gang leaders face cybercrime charges in the US"
+  },
+  "https://gbhackers.com/woocommerce-plugin-vulnerability/": {
+    "ts": "2026-09-15T14:46:01.074570+00:00",
+    "title": "Hackers Actively Exploit Critical WooCommerce Plugin Vulnerability to Upload PHP Backdoors"
+  },
+  "https://www.helpnetsecurity.com/2026/09/15/cve-2026-76461-cisco-email-gateway-zero-day-exploited/": {
+    "ts": "2026-09-15T14:46:01.309787+00:00",
+    "title": "Cisco patches actively exploited email gateway zero-day (CVE-2026-76461)"
+  },
+  "https://securityaffairs.com/199104/apt/one-exploit-chain-two-espionage-campaigns-chrome-and-windows-under-fire.html": {
+    "ts": "2026-09-15T14:46:01.549584+00:00",
+    "title": "One Exploit Chain, Two Espionage Campaigns: Chrome and Windows Under Fire"
+  },
+  "https://www.securityweek.com/240000-hit-by-data-breach-at-japans-digital-agency/": {
+    "ts": "2026-09-15T14:46:01.785827+00:00",
+    "title": "240,000 Hit by Data Breach at Japan\u2019s Digital Agency"
+  },
+  "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html": {
+    "ts": "2026-09-15T14:46:02.020260+00:00",
+    "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers"
+  },
+  "https://gbhackers.com/weekly-cybersecurity-newsletter-september-7-12-2026/": {
+    "ts": "2026-09-15T14:46:02.020274+00:00",
+    "title": "Weekly Cybersecurity Newsletter \u2013 Top 50 Biggest Cybersecurity Stories of the Week"
+  },
+  "https://www.helpnetsecurity.com/2026/09/15/microsoft-ai-safety-rules-humanist-ai-code-of-conduct/": {
+    "ts": "2026-09-15T14:46:02.020278+00:00",
+    "title": "Microsoft sets security and safety rules for its AI models"
   }
 }
