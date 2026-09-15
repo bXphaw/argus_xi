@@ -11210,5 +11210,49 @@
   "https://www.securityweek.com/apple-patches-200-vulnerabilities-with-new-ios-27-macos-golden-gate-27-releases/": {
     "ts": "2026-09-15T18:48:13.727383+00:00",
     "title": "Apple Patches 200 Vulnerabilities With New iOS 27, macOS Golden Gate 27 Releases"
+  },
+  "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/": {
+    "ts": "2026-09-15T22:00:21.146992+00:00",
+    "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin"
+  },
+  "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday": {
+    "ts": "2026-09-15T22:00:21.147009+00:00",
+    "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday"
+  },
+  "https://securityaffairs.com/199156/security/u-s-cisa-adds-cisco-secure-email-gateway-flaw-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-09-15T22:00:21.147012+00:00",
+    "title": "U.S. CISA adds Cisco Secure Email Gateway flaw to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/": {
+    "ts": "2026-09-15T22:00:21.147016+00:00",
+    "title": "Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?"
+  },
+  "https://www.silentpush.com/blog/fast-flux-phishing/?utm_source=rss&utm_medium=rss&utm_campaign=fast-flux-phishing": {
+    "ts": "2026-09-15T22:00:21.147019+00:00",
+    "title": "Silent Push Tracks a Mass Phishing Operation Through Fast Flux"
+  },
+  "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html": {
+    "ts": "2026-09-15T22:00:21.488119+00:00",
+    "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens"
+  },
+  "https://www.theregister.com/security/2026/09/15/the-vulnpocalypse-rains-ibugs-down-on-apple-with-record-setting-number-of-patches/5296679": {
+    "ts": "2026-09-15T22:00:21.611475+00:00",
+    "title": "The vulnpocalypse rains iBugs down on Apple with record-setting number of patches"
+  },
+  "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/": {
+    "ts": "2026-09-15T22:00:21.755561+00:00",
+    "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk": {
+    "ts": "2026-09-15T22:00:21.868382+00:00",
+    "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI\u2013Hugging Face Incident"
+  },
+  "https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/": {
+    "ts": "2026-09-15T22:00:22.015447+00:00",
+    "title": "\u201cWe Think the Security Control Is Working\u201d Is No Longer Good Enough"
+  },
+  "https://www.theregister.com/security/2026/09/15/low-quality-casino-sites-conceal-highly-dangerous-threat-actors/5296652": {
+    "ts": "2026-09-15T22:00:22.145642+00:00",
+    "title": "Low-quality casino sites conceal highly dangerous threat actors"
   }
 }
