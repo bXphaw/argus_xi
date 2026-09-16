@@ -84,6 +84,16 @@
       "category": "new_technique",
       "title": "CISA Warns of Cisco Secure Email Gateway 0-Day Vulnerability Actively Exploited in Attacks",
       "url": "https://cybersecuritynews.com/cisco-secure-email-gateway-0-day-vulnerability-exploited/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Cyber Op Targets South Korean Media &amp; Automotive Sectors",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive"
+    },
+    {
+      "category": "malware_windows",
+      "title": "KREMLIN Banking Malware Bypasses Chrome Security to Steal Banking Sessions",
+      "url": "https://gbhackers.com/kremlin-banking-malware/"
     }
   ],
   "last_sent_date": "2026-09-15"

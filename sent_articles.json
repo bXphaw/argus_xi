@@ -11306,5 +11306,45 @@
   "https://cybersecuritynews.com/japan-digital-agency-data-breach/": {
     "ts": "2026-09-16T00:10:49.063741+00:00",
     "title": "Japan\u2019s Digital Agency Breach Exposes 240,000+ Users\u2019 Personal Records to Hackers"
+  },
+  "https://cybersecuritynews.com/google-chrome-fixes-42-flaws/": {
+    "ts": "2026-09-16T05:47:43.496596+00:00",
+    "title": "Google Chrome 153 Update Fixes 42 Security Flaws, Including 3 Critical Ones"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive": {
+    "ts": "2026-09-16T05:47:43.574061+00:00",
+    "title": "Cyber Op Targets South Korean Media &amp; Automotive Sectors"
+  },
+  "https://gbhackers.com/apple-releases-ios-27-security-update/": {
+    "ts": "2026-09-16T05:47:43.574083+00:00",
+    "title": "Apple Releases iOS 27 Security Update to Fix Over 120 Vulnerabilities"
+  },
+  "https://www.helpnetsecurity.com/2026/09/16/vulnerable-windows-drivers-deepzero-open-source/": {
+    "ts": "2026-09-16T05:47:43.574087+00:00",
+    "title": "DeepZero: Open-source hunting for vulnerable Windows drivers"
+  },
+  "https://gbhackers.com/kremlin-banking-malware/": {
+    "ts": "2026-09-16T05:47:43.632558+00:00",
+    "title": "KREMLIN Banking Malware Bypasses Chrome Security to Steal Banking Sessions"
+  },
+  "https://www.helpnetsecurity.com/2026/09/16/material-google-workspace-attack-chains/": {
+    "ts": "2026-09-16T05:47:43.691523+00:00",
+    "title": "The modern attack chain: Rethinking Google Workspace security in the age of AI"
+  },
+  "https://gbhackers.com/luciferus-uncensored-ai-service/": {
+    "ts": "2026-09-16T05:47:43.751495+00:00",
+    "title": "Luciferus Uncensored AI Service Lets Cybercriminals Generate RAT Malware"
+  },
+  "https://www.helpnetsecurity.com/2026/09/16/msp-ciso-services-compliance/": {
+    "ts": "2026-09-16T05:47:43.808850+00:00",
+    "title": "MSPs say nearly half their customers rely on them for CISO services"
+  },
+  "https://gbhackers.com/3022-malicious-rubygems/": {
+    "ts": "2026-09-16T05:47:43.867532+00:00",
+    "title": "OpenAI Agent Swarm Linked to 3,022 Malicious RubyGems Packages in GemStuffer Campaign"
+  },
+  "https://gbhackers.com/google-chrome-153-released/": {
+    "ts": "2026-09-16T05:47:43.927072+00:00",
+    "title": "Google Chrome 153 Released With Fixes for 42 Security Vulnerabilities"
   }
 }
