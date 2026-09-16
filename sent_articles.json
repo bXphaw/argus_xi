@@ -11346,5 +11346,113 @@
   "https://gbhackers.com/google-chrome-153-released/": {
     "ts": "2026-09-16T05:47:43.927072+00:00",
     "title": "Google Chrome 153 Released With Fixes for 42 Security Vulnerabilities"
+  },
+  "https://securityaffairs.com/199170/data-breach/texas-utility-centerpoint-energy-confirms-data-breach-after-hacker-claims-7-49m-records-stolen.html": {
+    "ts": "2026-09-16T11:09:00.070721+00:00",
+    "title": "Texas Utility CenterPoint Energy Confirms Data Breach After Hacker Claims 7.49M Records Stolen"
+  },
+  "https://www.helpnetsecurity.com/2026/09/16/iranian-hackers-chosen-brick-malware-dissidents-journalists/": {
+    "ts": "2026-09-16T11:09:09.964659+00:00",
+    "title": "Iranian hackers use CHOSEN BRICK data-stealing malware to spy on dissidents and journalists"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/": {
+    "ts": "2026-09-16T11:10:43.470127+00:00",
+    "title": "Windows Server 2022 reaches end of mainstream support next month"
+  },
+  "https://blog.talosintelligence.com/securing-the-unpatchable-in-an-age-of-ai-driven-vulnerabilities/": {
+    "ts": "2026-09-16T11:10:43.470147+00:00",
+    "title": "Securing the unpatchable in an age of AI-driven vulnerabilities"
+  },
+  "https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/": {
+    "ts": "2026-09-16T11:10:43.717504+00:00",
+    "title": "PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting"
+  },
+  "https://www.group-ib.com/blog/adversary-full-force-industry/": {
+    "ts": "2026-09-16T11:10:43.717519+00:00",
+    "title": "The Adversary We Are Fighting Is Now a Full-Force Industry: Inside cybercrime\u2019s new economy"
+  },
+  "https://www.helpnetsecurity.com/2026/09/16/centerpoint-energy-data-breach-hacker-claims/": {
+    "ts": "2026-09-16T11:10:43.717523+00:00",
+    "title": "CenterPoint Energy confirms data breach following claims on hacking forum"
+  },
+  "https://www.malwarebytes.com/blog/mobile/2026/09/google-pixel-owners-urged-to-patch-actively-exploited-modem-flaw": {
+    "ts": "2026-09-16T11:10:43.763219+00:00",
+    "title": "Google Pixel owners urged to patch actively exploited modem flaw"
+  },
+  "https://unit42.paloaltonetworks.com/atomic-macos-amos-stealer-activity/": {
+    "ts": "2026-09-16T11:10:43.807667+00:00",
+    "title": "Atomic macOS (AMOS) Stealer Activity"
+  },
+  "https://securelist.com/tr/nighteagle-apt-ghostcontainer-and-tunneling/121323/": {
+    "ts": "2026-09-16T11:10:43.852841+00:00",
+    "title": "NightEagle targets Russian companies"
+  },
+  "https://www.securityweek.com/280000-impacted-by-premier-medical-group-data-breach/": {
+    "ts": "2026-09-16T11:10:43.897849+00:00",
+    "title": "280,000 Impacted by Premier Medical Group Data Breach"
+  },
+  "https://www.sentinelone.com/labs/agents-at-large-tracing-illicit-openai-agent-activity-on-hugging-face/": {
+    "ts": "2026-09-16T11:10:43.944682+00:00",
+    "title": "Agents at Large | Tracing Illicit OpenAI Agent Activity on Hugging Face"
+  },
+  "https://www.security.com/product-insights/sensitive-data-thrives-quiet-environment": {
+    "ts": "2026-09-16T11:10:43.944740+00:00",
+    "title": "Sensitive Data Thrives in a Quiet Environment"
+  },
+  "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html": {
+    "ts": "2026-09-16T11:10:43.989805+00:00",
+    "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells"
+  },
+  "https://www.theregister.com/security/2026/09/16/ministry-of-justice-apologizes-after-court-staff-accessed-southport-victims-files/5296808": {
+    "ts": "2026-09-16T11:10:43.989823+00:00",
+    "title": "Ministry of Justice apologizes after court staff accessed Southport victims' files"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/": {
+    "ts": "2026-09-16T11:10:44.034053+00:00",
+    "title": "Google fixes actively exploited Android zero-day on Pixel devices"
+  },
+  "https://www.helpnetsecurity.com/2026/09/16/google-mandiant-enterprise-ai-security-risks-report/": {
+    "ts": "2026-09-16T11:10:44.034067+00:00",
+    "title": "One runaway AI agent racked up a $50,000 cloud bill"
+  },
+  "https://www.malwarebytes.com/blog/threat-intel/2026/09/ai-helps-scammers-build-convincing-antivirus-renewal-pages": {
+    "ts": "2026-09-16T11:10:44.034071+00:00",
+    "title": "AI helps scammers build convincing antivirus renewal pages"
+  },
+  "https://www.securityweek.com/chrome-firefox-updates-patch-115-vulnerabilities/": {
+    "ts": "2026-09-16T11:10:44.034074+00:00",
+    "title": "Chrome, Firefox Updates Patch 115 Vulnerabilities"
+  },
+  "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html": {
+    "ts": "2026-09-16T11:10:44.080967+00:00",
+    "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens"
+  },
+  "https://www.theregister.com/security/2026/09/16/mythos-has-made-2026-patching-hell-it-might-make-2027-a-breeze/5296747": {
+    "ts": "2026-09-16T11:10:44.080983+00:00",
+    "title": "Mythos has made 2026 patching hell. It might make 2027 a breeze"
+  },
+  "https://www.helpnetsecurity.com/2026/09/16/acronis-backup-plugin-vulnerability-exploited-cve-2026-87886/": {
+    "ts": "2026-09-16T11:10:44.127085+00:00",
+    "title": "Acronis backup plugin flaw exploited in targeted attacks (CVE-2026-87886)"
+  },
+  "https://www.securityweek.com/acronis-patches-exploited-vulnerability-in-cpanel-backup-plugin/": {
+    "ts": "2026-09-16T11:10:44.171410+00:00",
+    "title": "Acronis Patches Exploited Vulnerability in cPanel Backup Plugin"
+  },
+  "https://www.securityweek.com/enterprises-warned-of-attacks-exploiting-wso2-vulnerability/": {
+    "ts": "2026-09-16T11:10:44.222749+00:00",
+    "title": "Enterprises Warned of Attacks Exploiting WSO2 Vulnerability"
+  },
+  "https://www.helpnetsecurity.com/2026/09/16/nist-cisa-cloud-token-security-guidance/": {
+    "ts": "2026-09-16T11:10:44.267813+00:00",
+    "title": "NIST and CISA finalize playbook to stop token theft and forgery"
+  },
+  "https://www.securityweek.com/oracle-patches-800-vulnerabilities-in-september-2026-security-update/": {
+    "ts": "2026-09-16T11:10:44.314780+00:00",
+    "title": "Oracle Patches 800+ Vulnerabilities in September 2026 Security Update"
+  },
+  "https://www.helpnetsecurity.com/2026/09/16/gourab-basu-meshiq-ai-agent-governance/": {
+    "ts": "2026-09-16T11:10:44.361445+00:00",
+    "title": "What happens when AI agent governance is missing at scale"
   }
 }
