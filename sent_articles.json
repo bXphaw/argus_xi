@@ -11454,5 +11454,125 @@
   "https://www.helpnetsecurity.com/2026/09/16/gourab-basu-meshiq-ai-agent-governance/": {
     "ts": "2026-09-16T11:10:44.361445+00:00",
     "title": "What happens when AI agent governance is missing at scale"
+  },
+  "https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/": {
+    "ts": "2026-09-16T16:29:14.079838+00:00",
+    "title": "Pixel Modem Zero-Day Exploited in Targeted Attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/": {
+    "ts": "2026-09-16T16:31:09.851559+00:00",
+    "title": "The true cost of a ransomware attack, with and without BCDR"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/": {
+    "ts": "2026-09-16T16:31:09.851580+00:00",
+    "title": "CrowdStrike Accelerates Real-Time Data Classification with On-Device AI"
+  },
+  "https://www.helpnetsecurity.com/2026/09/16/parallels-desktop-cve-2026-90894-parashells-vulnerability/": {
+    "ts": "2026-09-16T16:31:10.320170+00:00",
+    "title": "Parallels Desktop flaw hands any local user root on a Mac (CVE-2026-90894)"
+  },
+  "https://www.morphisec.com/blog/malware-that-rewrites-itself-every-hour-ai-powered-polymorphic-threats-break-signature-based-defense/": {
+    "ts": "2026-09-16T16:31:10.557170+00:00",
+    "title": "Malware That Rewrites Itself Every Hour: AI-Powered Polymorphic Threats Break Signature-Based Defense"
+  },
+  "https://securityaffairs.com/199193/hacking/google-patches-pixel-modem-zero-day-exploited-in-targeted-attacks.html": {
+    "ts": "2026-09-16T16:31:10.788909+00:00",
+    "title": "Google Patches Pixel Modem Zero-Day Exploited in Targeted Attacks"
+  },
+  "https://www.securityweek.com/virtual-event-today-attack-surface-management-summit-2/": {
+    "ts": "2026-09-16T16:31:11.028344+00:00",
+    "title": "Virtual Event Today: Attack Surface Management Summit"
+  },
+  "https://socradar.io/blog/cve-2026-76461-cisco-email-gateway-flaw/": {
+    "ts": "2026-09-16T16:31:11.263157+00:00",
+    "title": "CVE-2026-76461: Cisco Email Gateway Flaw Exploited"
+  },
+  "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html": {
+    "ts": "2026-09-16T16:31:11.497864+00:00",
+    "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution"
+  },
+  "https://www.theregister.com/cyber-crime/2026/09/16/spain-gets-its-first-taste-of-ai-aided-cyber-attack/5296844": {
+    "ts": "2026-09-16T16:31:11.733751+00:00",
+    "title": "Spain gets its first taste of AI-aided cyber attack"
+  },
+  "https://www.zscaler.com/blogs/security-research/operation-rapidrust-apt36-deploys-rustyshade-rustymove-psnatch-and": {
+    "ts": "2026-09-16T16:31:11.972136+00:00",
+    "title": "Operation RapidRust: APT36 Deploys RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/": {
+    "ts": "2026-09-16T16:31:11.972154+00:00",
+    "title": "Microsoft says Copilot buttons still missing in classic Outlook"
+  },
+  "https://www.helpnetsecurity.com/2026/09/16/eu-ursula-von-der-leyen-ai/": {
+    "ts": "2026-09-16T16:31:11.972157+00:00",
+    "title": "Self-improving AI should slow down, von der Leyen tells EU lawmakers"
+  },
+  "https://securityaffairs.com/199180/data-breach/revolut-data-leak-may-trace-back-to-compromised-italian-government-accounts.html": {
+    "ts": "2026-09-16T16:31:11.972160+00:00",
+    "title": "Revolut Data Leak May Trace Back to Compromised Italian Government Accounts"
+  },
+  "https://www.securityweek.com/eu-chief-warns-of-ai-powered-hacking-moves-to-rein-in-social-media/": {
+    "ts": "2026-09-16T16:31:11.972162+00:00",
+    "title": "EU Chief Warns of AI-Powered Hacking, Moves to Rein In Social Media"
+  },
+  "https://socradar.io/blog/cve-2026-27540-woocommerce-flaw/": {
+    "ts": "2026-09-16T16:31:12.211081+00:00",
+    "title": "CVE-2026-27540 WooCommerce Flaw Exploited"
+  },
+  "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html": {
+    "ts": "2026-09-16T16:31:12.455370+00:00",
+    "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers"
+  },
+  "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/": {
+    "ts": "2026-09-16T16:31:12.686439+00:00",
+    "title": "Webinar: What happens in the first hours of a Google Workspace breach"
+  },
+  "https://www.securityweek.com/aiuc-raises-40-million-to-certify-enterprise-ai-agents/": {
+    "ts": "2026-09-16T16:31:12.925177+00:00",
+    "title": "AIUC Raises $40 Million to Certify Enterprise AI Agents"
+  },
+  "https://socradar.io/blog/blackhatsect0r-dxqrtxx-operation-server/": {
+    "ts": "2026-09-16T16:31:13.162952+00:00",
+    "title": "Discernment Deleted: Inside the Operation Server of BlackHatSect0r && DXQRTXX"
+  },
+  "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html": {
+    "ts": "2026-09-16T16:31:13.397076+00:00",
+    "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/": {
+    "ts": "2026-09-16T16:31:13.630941+00:00",
+    "title": "Critical ScreenConnect flaw now actively exploited in attacks"
+  },
+  "https://socradar.io/blog/agentic-ransomware-human-to-ai-attacks/": {
+    "ts": "2026-09-16T16:31:13.865424+00:00",
+    "title": "Agentic Ransomware: From Human-Operated to AI-Operated Attacks"
+  },
+  "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html": {
+    "ts": "2026-09-16T16:31:14.111112+00:00",
+    "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories"
+  },
+  "https://www.securityweek.com/us-uk-dutch-agencies-expose-iranian-chosen-brick-surveillance-malware/": {
+    "ts": "2026-09-16T16:31:14.344463+00:00",
+    "title": "US, UK, Dutch Agencies Expose Iranian \u2018Chosen Brick\u2019 Surveillance Malware"
+  },
+  "https://socradar.io/blog/socradar-microsoft-marketplace-threat-intelligence/": {
+    "ts": "2026-09-16T16:31:14.344482+00:00",
+    "title": "Simplify Threat Intelligence Procurement with SOCRadar and Microsoft Marketplace"
+  },
+  "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html": {
+    "ts": "2026-09-16T16:31:14.583280+00:00",
+    "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix"
+  },
+  "https://www.securityweek.com/unauthenticated-rce-flaws-could-expose-200000-wordpress-sites-to-takeover/": {
+    "ts": "2026-09-16T16:31:14.825963+00:00",
+    "title": "Unauthenticated RCE Flaws Could Expose 200,000+ WordPress Sites to Takeover"
+  },
+  "https://socradar.io/blog/vectrarat-undocumented-stack-maas/": {
+    "ts": "2026-09-16T16:31:15.065078+00:00",
+    "title": "VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch"
+  },
+  "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html": {
+    "ts": "2026-09-16T16:31:15.304810+00:00",
+    "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security"
   }
 }

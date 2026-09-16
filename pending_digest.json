@@ -1,4 +1,45 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "Parallels Desktop flaw hands any local user root on a Mac (CVE-2026-90894)",
+      "url": "https://www.helpnetsecurity.com/2026/09/16/parallels-desktop-cve-2026-90894-parashells-vulnerability/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Malware That Rewrites Itself Every Hour: AI-Powered Polymorphic Threats Break Signature-Based Defense",
+      "url": "https://www.morphisec.com/blog/malware-that-rewrites-itself-every-hour-ai-powered-polymorphic-threats-break-signature-based-defense/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Google Patches Pixel Modem Zero-Day Exploited in Targeted Attacks",
+      "url": "https://securityaffairs.com/199193/hacking/google-patches-pixel-modem-zero-day-exploited-in-targeted-attacks.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "CVE-2026-27540 WooCommerce Flaw Exploited",
+      "url": "https://socradar.io/blog/cve-2026-27540-woocommerce-flaw/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Agentic Ransomware: From Human-Operated to AI-Operated Attacks",
+      "url": "https://socradar.io/blog/agentic-ransomware-human-to-ai-attacks/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+      "url": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "US, UK, Dutch Agencies Expose Iranian \u2018Chosen Brick\u2019 Surveillance Malware",
+      "url": "https://www.securityweek.com/us-uk-dutch-agencies-expose-iranian-chosen-brick-surveillance-malware/"
+    }
+  ],
   "last_sent_date": "2026-09-16"
 }
