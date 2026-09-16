@@ -69,6 +69,21 @@
       "category": "threat_actor",
       "title": "Low-quality casino sites conceal highly dangerous threat actors",
       "url": "https://www.theregister.com/security/2026/09/15/low-quality-casino-sites-conceal-highly-dangerous-threat-actors/5296652"
+    },
+    {
+      "category": "new_technique",
+      "title": "WordPress Events Calendar Vulnerabilities Let Hackers Take Over 600,000 Websites",
+      "url": "https://gbhackers.com/wordpress-events-calendar-vulnerabilities/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Red Heron Hackers Exploit Critical Gitea RCE to Steal Source Code and Deploy Linux Rootkit",
+      "url": "https://gbhackers.com/red-heron-hackers-exploit-critical-gitea-rce/"
+    },
+    {
+      "category": "new_technique",
+      "title": "CISA Warns of Cisco Secure Email Gateway 0-Day Vulnerability Actively Exploited in Attacks",
+      "url": "https://cybersecuritynews.com/cisco-secure-email-gateway-0-day-vulnerability-exploited/"
     }
   ],
   "last_sent_date": "2026-09-15"

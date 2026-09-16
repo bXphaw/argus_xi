@@ -11254,5 +11254,57 @@
   "https://www.theregister.com/security/2026/09/15/low-quality-casino-sites-conceal-highly-dangerous-threat-actors/5296652": {
     "ts": "2026-09-15T22:00:22.145642+00:00",
     "title": "Low-quality casino sites conceal highly dangerous threat actors"
+  },
+  "https://cybersecuritynews.com/cisa-nist-identity-token-security/": {
+    "ts": "2026-09-16T00:10:47.881662+00:00",
+    "title": "CISA and NIST Release Technical Checklist for Safeguarding Identity Tokens From Theft and Misuse"
+  },
+  "https://gbhackers.com/wordpress-events-calendar-vulnerabilities/": {
+    "ts": "2026-09-16T00:10:48.048955+00:00",
+    "title": "WordPress Events Calendar Vulnerabilities Let Hackers Take Over 600,000 Websites"
+  },
+  "https://cybersecuritynews.com/cisa-active-directory-attack-techniques/": {
+    "ts": "2026-09-16T00:10:48.048968+00:00",
+    "title": "CISA Shares 17 Techniques Used by Hackers to Compromise Active Directory Environments"
+  },
+  "https://gbhackers.com/red-heron-hackers-exploit-critical-gitea-rce/": {
+    "ts": "2026-09-16T00:10:48.093151+00:00",
+    "title": "Red Heron Hackers Exploit Critical Gitea RCE to Steal Source Code and Deploy Linux Rootkit"
+  },
+  "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/": {
+    "ts": "2026-09-16T00:10:48.093162+00:00",
+    "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices"
+  },
+  "https://gbhackers.com/telegram-desktop-xss-vulnerability-lets-attackers-steal-entire-chat-histories/": {
+    "ts": "2026-09-16T00:10:48.137521+00:00",
+    "title": "Telegram Desktop XSS Vulnerability Lets Attackers Steal Entire Chat Histories"
+  },
+  "https://cybersecuritynews.com/how-to-keep-malwares-rotating-infrastructure-from-becoming-a-detection-gap/": {
+    "ts": "2026-09-16T00:10:48.195472+00:00",
+    "title": "How to Keep Malware\u2019s Rotating Infrastructure From Becoming a Detection Gap"
+  },
+  "https://gbhackers.com/marimo-rce-flaw/": {
+    "ts": "2026-09-16T00:10:48.663142+00:00",
+    "title": "Marimo RCE Flaw Lets Hackers Steal AWS Credentials and Pivot to Bastion Host in 8 Seconds"
+  },
+  "https://cybersecuritynews.com/microsoft-ai-cyberattack-ban/": {
+    "ts": "2026-09-16T00:10:48.716772+00:00",
+    "title": "Microsoft Bans Its AI Models From Launching Cyberattacks or Escalating Their Own Access"
+  },
+  "https://gbhackers.com/intel-tdx-under-attack/": {
+    "ts": "2026-09-16T00:10:49.017428+00:00",
+    "title": "DDRop Attack Forces Intel TDX Confidential VMs Into Debug Mode and Exposes Memory"
+  },
+  "https://cybersecuritynews.com/hackers-advertise-luciferus-ai-service/": {
+    "ts": "2026-09-16T00:10:49.017443+00:00",
+    "title": "Hackers Advertise Uncensored Luciferus AI Service on Underground Forums"
+  },
+  "https://cybersecuritynews.com/cisco-secure-email-gateway-0-day-vulnerability-exploited/": {
+    "ts": "2026-09-16T00:10:49.063727+00:00",
+    "title": "CISA Warns of Cisco Secure Email Gateway 0-Day Vulnerability Actively Exploited in Attacks"
+  },
+  "https://cybersecuritynews.com/japan-digital-agency-data-breach/": {
+    "ts": "2026-09-16T00:10:49.063741+00:00",
+    "title": "Japan\u2019s Digital Agency Breach Exposes 240,000+ Users\u2019 Personal Records to Hackers"
   }
 }
