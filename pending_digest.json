@@ -59,6 +59,16 @@
       "category": "new_technique",
       "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
       "url": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "BambooToken: The Malware That Speaks MQTT to Stay Under the Radar",
+      "url": "https://securityaffairs.com/199205/malware/bambootoken-the-malware-that-speaks-mqtt-to-stay-under-the-radar.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
+      "url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/"
     }
   ],
   "last_sent_date": "2026-09-16"

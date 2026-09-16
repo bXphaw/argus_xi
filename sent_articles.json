@@ -11626,5 +11626,33 @@
   "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html": {
     "ts": "2026-09-16T19:55:22.730326+00:00",
     "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/": {
+    "ts": "2026-09-16T22:45:43.650269+00:00",
+    "title": "Windows 11 KB5124008 update breaks domain trust for some users"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value": {
+    "ts": "2026-09-16T22:45:43.650290+00:00",
+    "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value"
+  },
+  "https://securityaffairs.com/199205/malware/bambootoken-the-malware-that-speaks-mqtt-to-stay-under-the-radar.html": {
+    "ts": "2026-09-16T22:45:43.767175+00:00",
+    "title": "BambooToken: The Malware That Speaks MQTT to Stay Under the Radar"
+  },
+  "https://www.sophos.com/en-us/blog/september-2026-patch-tuesday": {
+    "ts": "2026-09-16T22:45:43.767197+00:00",
+    "title": "September Patch Tuesday haul includes 973 CVEs"
+  },
+  "https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991": {
+    "ts": "2026-09-16T22:45:43.767202+00:00",
+    "title": "AI agents can modify themselves without humans telling them to do so"
+  },
+  "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/": {
+    "ts": "2026-09-16T22:45:43.878213+00:00",
+    "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets"
+  },
+  "https://www.theregister.com/security/2026/09/16/cisa-decides-weekly-vulnerability-bulletin-isnt-necessary-anymore/5296968": {
+    "ts": "2026-09-16T22:45:43.878235+00:00",
+    "title": "CISA decides weekly vulnerability bulletin isn't necessary anymore"
   }
 }
