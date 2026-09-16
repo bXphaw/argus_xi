@@ -39,6 +39,26 @@
       "category": "malware_windows",
       "title": "US, UK, Dutch Agencies Expose Iranian \u2018Chosen Brick\u2019 Surveillance Malware",
       "url": "https://www.securityweek.com/us-uk-dutch-agencies-expose-iranian-chosen-brick-surveillance-malware/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/"
+    },
+    {
+      "category": "new_technique",
+      "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
+      "url": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/"
+    },
+    {
+      "category": "new_technique",
+      "title": "GitLab CVE-2026-85706 Added to CISA KEV",
+      "url": "https://socradar.io/blog/gitlab-cve-2026-85706-cisa-kev/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
+      "url": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html"
     }
   ],
   "last_sent_date": "2026-09-16"

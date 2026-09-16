@@ -11574,5 +11574,57 @@
   "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html": {
     "ts": "2026-09-16T16:31:15.304810+00:00",
     "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security"
+  },
+  "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/": {
+    "ts": "2026-09-16T19:55:21.172671+00:00",
+    "title": "Malware bypasses browser checks to force install Chrome, Edge extensions"
+  },
+  "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market": {
+    "ts": "2026-09-16T19:55:21.172688+00:00",
+    "title": "Fighting Your Dragons Through Tough Tech Times"
+  },
+  "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/": {
+    "ts": "2026-09-16T19:55:21.172692+00:00",
+    "title": "Data Broker Radaris Loses Domains in Privacy Fight"
+  },
+  "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/": {
+    "ts": "2026-09-16T19:55:21.369330+00:00",
+    "title": "First Agentic AI Data Breach Reported to Spanish Regulator"
+  },
+  "https://socradar.io/blog/ucq-leak-israeli-globalprotect-access-digital-nirvana-dump-32baar-and-ghorer-bazar/": {
+    "ts": "2026-09-16T19:55:21.369348+00:00",
+    "title": "UCQ Leak, Israeli GlobalProtect Access, Digital Nirvana Dump, 32baar, and Ghorer Bazar"
+  },
+  "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html": {
+    "ts": "2026-09-16T19:55:21.566557+00:00",
+    "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation"
+  },
+  "https://www.theregister.com/security/2026/09/16/google-pixel-phones-pwned-in-zero-click-attacks/5296936": {
+    "ts": "2026-09-16T19:55:21.762045+00:00",
+    "title": "Google Pixel phones pwned in zero-click attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/": {
+    "ts": "2026-09-16T19:55:21.961203+00:00",
+    "title": "Spain's data agency gets first report of AI-powered data breach"
+  },
+  "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai": {
+    "ts": "2026-09-16T19:55:22.160057+00:00",
+    "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It"
+  },
+  "https://www.securityweek.com/hackuity-raises-19-million-for-ai-powered-vulnerability-management/": {
+    "ts": "2026-09-16T19:55:22.349837+00:00",
+    "title": "Hackuity Raises $19 Million for AI-Powered Vulnerability Management"
+  },
+  "https://socradar.io/blog/gitlab-cve-2026-85706-cisa-kev/": {
+    "ts": "2026-09-16T19:55:22.541637+00:00",
+    "title": "GitLab CVE-2026-85706 Added to CISA KEV"
+  },
+  "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html": {
+    "ts": "2026-09-16T19:55:22.541650+00:00",
+    "title": "Threat Intelligence Alone Won't Close the Exploitation Gap"
+  },
+  "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html": {
+    "ts": "2026-09-16T19:55:22.730326+00:00",
+    "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks"
   }
 }
