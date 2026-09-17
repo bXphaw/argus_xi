@@ -11774,5 +11774,125 @@
   "https://www.helpnetsecurity.com/2026/09/17/autonomous-ai-weapons-future/": {
     "ts": "2026-09-17T07:23:30.014464+00:00",
     "title": "The world must establish red lines for autonomous AI weapons"
+  },
+  "https://securityaffairs.com/199239/security/u-s-cisa-adds-acronis-backup-cisco-ise-and-google-pixel-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-09-17T13:13:07.368074+00:00",
+    "title": "U.S. CISA adds Acronis Backup, Cisco\u00a0ISE, and Google Pixel\u00a0flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/": {
+    "ts": "2026-09-17T13:13:07.394852+00:00",
+    "title": "ISC Patches 14 Vulnerabilities in BIND 9 Security Update"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/": {
+    "ts": "2026-09-17T13:14:47.316243+00:00",
+    "title": "US takes down NightmareStresser DDoS-for-hire platform"
+  },
+  "https://blog.talosintelligence.com/ransomware-incidents-in-japan-in-the-first-half-of-2026/": {
+    "ts": "2026-09-17T13:14:47.582308+00:00",
+    "title": "Ransomware incidents in Japan in the first half of 2026: Investigation of The Gentlemen\u2019s infrastructure and evidence of Qilin's AI use"
+  },
+  "https://cyble.com/blog/cybersecurity-compliance-apac-2026/": {
+    "ts": "2026-09-17T13:14:47.582328+00:00",
+    "title": "Why APAC Enterprises Need Real-Time Threat Intelligence as Singapore, Malaysia, and Thailand Tighten Cyber Compliance in 2026"
+  },
+  "https://www.group-ib.com/blog/heavygram-handala-hack-telegram-c2/": {
+    "ts": "2026-09-17T13:14:47.644057+00:00",
+    "title": "HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack"
+  },
+  "https://www.helpnetsecurity.com/2026/09/17/chatgpt-phishing-email-openai-password/": {
+    "ts": "2026-09-17T13:14:47.702960+00:00",
+    "title": "A fake ChatGPT billing email is after your OpenAI password"
+  },
+  "https://threatresearch.ext.hp.com/hp-wolf-security-threat-insights-report-september-2026/": {
+    "ts": "2026-09-17T13:14:47.702980+00:00",
+    "title": "HP Wolf Security Threat Insights Report: September 2026"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/09/12-celebrity-deepfake-websites-seized-by-manhattan-da": {
+    "ts": "2026-09-17T13:14:47.702984+00:00",
+    "title": "12 celebrity deepfake websites seized by Manhattan DA"
+  },
+  "https://securelist.com/moviereaper-malware-torrent-odyssey-solana/121344/": {
+    "ts": "2026-09-17T13:14:47.761359+00:00",
+    "title": "The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents"
+  },
+  "https://securityaffairs.com/199251/cyber-crime/nightmarestresser-goes-offline-in-global-ddos-for-hire-crackdown.html": {
+    "ts": "2026-09-17T13:14:47.761376+00:00",
+    "title": "NightmareStresser Goes Offline in Global DDoS-for-Hire Crackdown"
+  },
+  "https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/": {
+    "ts": "2026-09-17T13:14:47.761380+00:00",
+    "title": "Comp AI Raises $34 Million for AI-Native Compliance and Security"
+  },
+  "https://www.theregister.com/security/2026/09/17/cisco-drops-another-exploited-zero-day-this-time-a-perfect-10/5297180": {
+    "ts": "2026-09-17T13:14:47.840184+00:00",
+    "title": "Cisco drops another exploited zero-day, this time a perfect 10"
+  },
+  "https://threatmon.io/xan-rat-a-closer-look-at-its-capabilities-and-inner-workings/": {
+    "ts": "2026-09-17T13:14:47.900086+00:00",
+    "title": "Xan-RAT A Closer Look at Its Capabilities and Inner Workings"
+  },
+  "https://www.welivesecurity.com/en/business-security/cyberthreats-moving-faster-smbs-readiness-must-accelerate/": {
+    "ts": "2026-09-17T13:14:47.966122+00:00",
+    "title": "Cyberthreats are moving faster than SMBs: Readiness must accelerate"
+  },
+  "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/": {
+    "ts": "2026-09-17T13:14:48.023817+00:00",
+    "title": "Chinese hackers use SparroWocky malware in govt espionage attacks"
+  },
+  "https://www.group-ib.com/blog/top-fraud-prevention-platforms-banks-fintechs/": {
+    "ts": "2026-09-17T13:14:48.091233+00:00",
+    "title": "Top 5 Fraud Prevention Platforms for Banks and Fintechs in 2026"
+  },
+  "https://www.helpnetsecurity.com/2026/09/17/tines-ai-code-sprawl-guide/": {
+    "ts": "2026-09-17T13:14:48.091250+00:00",
+    "title": "Download: The IT leader\u2019s guide to AI code sprawl"
+  },
+  "https://www.malwarebytes.com/blog/threat-intel/2026/09/t-mobile-rewards-points-expiry-texts-are-a-phishing-scam": {
+    "ts": "2026-09-17T13:14:48.091254+00:00",
+    "title": "T-Mobile rewards points expiry texts are a phishing scam"
+  },
+  "https://www.theregister.com/security/2026/09/17/test-environment-let-anyone-access-live-customer-data/5296977": {
+    "ts": "2026-09-17T13:14:48.091257+00:00",
+    "title": "Test environment let anyone access live customer data"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/": {
+    "ts": "2026-09-17T13:14:48.091260+00:00",
+    "title": "Microsoft shares workaround for Windows domain login issues"
+  },
+  "https://www.helpnetsecurity.com/2026/09/17/cisa-guidance-for-implementing-cyber-decoys/": {
+    "ts": "2026-09-17T13:14:48.091262+00:00",
+    "title": "CISA wants critical infrastructure orgs and smaller security teams to start using cyber decoys"
+  },
+  "https://securityaffairs.com/199217/malware/chosen-brick-irans-surveillance-malware.html": {
+    "ts": "2026-09-17T13:14:48.152283+00:00",
+    "title": "Chosen Brick, Iran\u2019s Surveillance Malware"
+  },
+  "https://www.securityweek.com/ransomware-attacks-on-manufacturers-surge-as-supply-chain-risk-grows/": {
+    "ts": "2026-09-17T13:14:48.210910+00:00",
+    "title": "Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows"
+  },
+  "https://www.theregister.com/security/2026/09/17/ofcom-discovers-issuing-online-safety-act-fines-is-easier-than-collecting-them/5297110": {
+    "ts": "2026-09-17T13:14:48.269330+00:00",
+    "title": "Ofcom discovers issuing Online Safety Act fines is easier than collecting them"
+  },
+  "https://www.helpnetsecurity.com/2026/09/17/google-agent-anomaly-detection-audit-layer/": {
+    "ts": "2026-09-17T13:14:48.328304+00:00",
+    "title": "Google\u2019s new agent security system detects tool misuse, loops and rogue behavior"
+  },
+  "https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/": {
+    "ts": "2026-09-17T13:14:48.388628+00:00",
+    "title": "Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard"
+  },
+  "https://www.helpnetsecurity.com/2026/09/17/fbi-nightmarestresser-ddos-for-hire-service-seized/": {
+    "ts": "2026-09-17T13:14:48.388645+00:00",
+    "title": "FBI takes down one of the longest-running DDoS-for-hire services"
+  },
+  "https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/": {
+    "ts": "2026-09-17T13:14:48.388649+00:00",
+    "title": "CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses"
+  },
+  "https://www.helpnetsecurity.com/2026/09/17/cisco-ise-vulnerability-exploited-cve-2026-76460/": {
+    "ts": "2026-09-17T13:14:48.446676+00:00",
+    "title": "Unauthenticated attackers are bypassing Cisco ISE\u2019s management interface (CVE-2026-76460)"
   }
 }
