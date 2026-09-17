@@ -11738,5 +11738,41 @@
   "https://cybersecuritynews.com/cross-platform-noodle-rat/": {
     "ts": "2026-09-17T01:13:06.915217+00:00",
     "title": "Hackers Use Cross-Platform Noodle RAT to Secretly Control Windows and Linux Systems"
+  },
+  "https://asec.ahnlab.com/en/95450/": {
+    "ts": "2026-09-17T07:23:29.893276+00:00",
+    "title": "Ransom & Dark Web Issues Week 3, September 2026"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/": {
+    "ts": "2026-09-17T07:23:29.963455+00:00",
+    "title": "Cisco warns of max severity ISE zero-day exploited in attacks"
+  },
+  "https://www.helpnetsecurity.com/2026/09/17/frederic-bull-gremlin-ai-in-cybersecurity-gap/": {
+    "ts": "2026-09-17T07:23:29.963469+00:00",
+    "title": "The AI security question leaders should be asking instead"
+  },
+  "https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/": {
+    "ts": "2026-09-17T07:23:30.014437+00:00",
+    "title": "Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day"
+  },
+  "https://www.helpnetsecurity.com/2026/09/17/flat-cybersecurity-budget-video/": {
+    "ts": "2026-09-17T07:23:30.014450+00:00",
+    "title": "A flat cybersecurity budget doesn\u2019t have to mean weaker coverage"
+  },
+  "https://www.helpnetsecurity.com/2026/09/17/aws-spend-limit-agent-set-permissions/": {
+    "ts": "2026-09-17T07:23:30.014455+00:00",
+    "title": "AWS\u2019s new sign-up gives accounts spend caps, email invites, and agent-set permissions"
+  },
+  "https://www.helpnetsecurity.com/2026/09/17/gnome-51-new-features/": {
+    "ts": "2026-09-17T07:23:30.014458+00:00",
+    "title": "GNOME 51 adds passkey logins, offline maps and drawn PDF signatures"
+  },
+  "https://www.helpnetsecurity.com/2026/09/17/ai-and-open-source-projects/": {
+    "ts": "2026-09-17T07:23:30.014461+00:00",
+    "title": "AI is adding to the review load on open-source projects, many of them thinly funded"
+  },
+  "https://www.helpnetsecurity.com/2026/09/17/autonomous-ai-weapons-future/": {
+    "ts": "2026-09-17T07:23:30.014464+00:00",
+    "title": "The world must establish red lines for autonomous AI weapons"
   }
 }
