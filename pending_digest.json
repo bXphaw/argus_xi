@@ -69,6 +69,31 @@
       "category": "malware_windows",
       "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
       "url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/"
+    },
+    {
+      "category": "new_technique",
+      "title": "GhostCode Abuses Microsoft Entra Device Enrollment to Maintain Access After Token Revocation",
+      "url": "https://gbhackers.com/ghostcode-abuses-microsoft-entra/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "VectraRAT Malware-as-a-Service Lets Hackers Bypass UAC and Hijack Windows Systems",
+      "url": "https://gbhackers.com/vectrarat-malware-as-a-service/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Chinese-Speaking Hackers Use Noodle RAT Backdoor to Spy on Windows and Linux Systems",
+      "url": "https://gbhackers.com/noodle-rat-backdoor/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Can Rent VectraRAT for $250 a Month to Take Control of Windows PCs",
+      "url": "https://cybersecuritynews.com/hackers-can-rent-vectrarat/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Use Cross-Platform Noodle RAT to Secretly Control Windows and Linux Systems",
+      "url": "https://cybersecuritynews.com/cross-platform-noodle-rat/"
     }
   ],
   "last_sent_date": "2026-09-16"

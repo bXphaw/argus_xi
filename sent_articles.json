@@ -11654,5 +11654,89 @@
   "https://www.theregister.com/security/2026/09/16/cisa-decides-weekly-vulnerability-bulletin-isnt-necessary-anymore/5296968": {
     "ts": "2026-09-16T22:45:43.878235+00:00",
     "title": "CISA decides weekly vulnerability bulletin isn't necessary anymore"
+  },
+  "https://cybersecuritynews.com/windows-11-kb5124008-update/": {
+    "ts": "2026-09-17T01:11:53.723639+00:00",
+    "title": "Windows 11 KB5124008 Update Breaks Active Directory Domain Trust and Blocks User Logins"
+  },
+  "https://cybersecuritynews.com/screenconnect-vulnerability-exploited/": {
+    "ts": "2026-09-17T01:11:58.062020+00:00",
+    "title": "CISA Warns of Critical ScreenConnect Vulnerability Actively Exploited in Attacks"
+  },
+  "https://gbhackers.com/best-kubernetes-security-compared/": {
+    "ts": "2026-09-17T01:12:08.944279+00:00",
+    "title": "12 Best Kubernetes Security Tools Compared (2026): Features & Pricing"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/": {
+    "ts": "2026-09-17T01:13:05.362523+00:00",
+    "title": "Anthropic wants Claude to analyze your bank account and financial data"
+  },
+  "https://gbhackers.com/ghostcode-abuses-microsoft-entra/": {
+    "ts": "2026-09-17T01:13:05.557242+00:00",
+    "title": "GhostCode Abuses Microsoft Entra Device Enrollment to Maintain Access After Token Revocation"
+  },
+  "https://cybersecuritynews.com/check-point-root-access-flaw/": {
+    "ts": "2026-09-17T01:13:05.557262+00:00",
+    "title": "Check Point Vulnerability Lets Remote Hackers Gain Root Access Without Authentication"
+  },
+  "https://gbhackers.com/vectrarat-malware-as-a-service/": {
+    "ts": "2026-09-17T01:13:05.707712+00:00",
+    "title": "VectraRAT Malware-as-a-Service Lets Hackers Bypass UAC and Hijack Windows Systems"
+  },
+  "https://cybersecuritynews.com/centerpoint-energy-data-breach/": {
+    "ts": "2026-09-17T01:13:05.707732+00:00",
+    "title": "CenterPoint Energy Data Breach \u2013 Hackers Stolen Customer\u2019s Personal Data"
+  },
+  "https://gbhackers.com/tp-link-tapo-camera-flaw/": {
+    "ts": "2026-09-17T01:13:05.707736+00:00",
+    "title": "TP-Link Tapo Camera Flaw Lets Attackers Gain Admin Access Without Password"
+  },
+  "https://gbhackers.com/noodle-rat-backdoor/": {
+    "ts": "2026-09-17T01:13:05.856790+00:00",
+    "title": "Chinese-Speaking Hackers Use Noodle RAT Backdoor to Spy on Windows and Linux Systems"
+  },
+  "https://cybersecuritynews.com/german-manufacturer-security-alerts/": {
+    "ts": "2026-09-17T01:13:05.856811+00:00",
+    "title": "German Manufacturer Shrinks Security Alert Response While Protecting 10,000 Endpoints"
+  },
+  "https://gbhackers.com/axoflow-launches-axodetect-bringing-detection-into-the-pipeline-and-making-the-siem-optional/": {
+    "ts": "2026-09-17T01:13:05.856815+00:00",
+    "title": "Axoflow Launches AxoDetect, Bringing Detection Into the Pipeline and Making the SIEM Optional"
+  },
+  "https://cybersecuritynews.com/critical-wso2-vulnerability/": {
+    "ts": "2026-09-17T01:13:05.856819+00:00",
+    "title": "Critical WSO2 Vulnerability Allow Hackers to Gain Full Admin Access"
+  },
+  "https://gbhackers.com/jwr-phishing-kit/": {
+    "ts": "2026-09-17T01:13:06.000930+00:00",
+    "title": "Smishing Triad Hackers Use JWR Phishing Kit to Steal Cards, OTPs and Bank Credentials"
+  },
+  "https://cybersecuritynews.com/ghostcode-phishing-kit/": {
+    "ts": "2026-09-17T01:13:06.151263+00:00",
+    "title": "GhostCode Phishing Kit Bypasses Microsoft 365 MFA to Hijack Accounts in 78 Seconds"
+  },
+  "https://gbhackers.com/centerpoint-energy-confirms-data-breach/": {
+    "ts": "2026-09-17T01:13:06.302570+00:00",
+    "title": "CenterPoint Energy Confirms Data Breach Exposing Customers\u2019 Personal Information"
+  },
+  "https://cybersecuritynews.com/microsoft-365-hit-by-new-outage/": {
+    "ts": "2026-09-17T01:13:06.452006+00:00",
+    "title": "Microsoft 365 Hit by New Outage as Users Report Widespread 502 and 503 Errors"
+  },
+  "https://gbhackers.com/parallels-desktop-flaw/": {
+    "ts": "2026-09-17T01:13:06.626449+00:00",
+    "title": "Parallels Desktop Flaw Lets Unprivileged Mac Users Gain Root Access"
+  },
+  "https://cybersecuritynews.com/hackers-can-rent-vectrarat/": {
+    "ts": "2026-09-17T01:13:06.771917+00:00",
+    "title": "Hackers Can Rent VectraRAT for $250 a Month to Take Control of Windows PCs"
+  },
+  "https://gbhackers.com/acronis-backup-plugin-vulnerability/": {
+    "ts": "2026-09-17T01:13:06.771937+00:00",
+    "title": "Acronis Backup Plugin Vulnerability Exploited in the Wild to Gain Elevated Linux Privileges"
+  },
+  "https://cybersecuritynews.com/cross-platform-noodle-rat/": {
+    "ts": "2026-09-17T01:13:06.915217+00:00",
+    "title": "Hackers Use Cross-Platform Noodle RAT to Secretly Control Windows and Linux Systems"
   }
 }
