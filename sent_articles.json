@@ -12014,5 +12014,125 @@
   "https://cybersecuritynews.com/cisa-fake-credentials-catch-hackers/": {
     "ts": "2026-09-17T18:04:40.327853+00:00",
     "title": "CISA Wants Defenders to Deploy Fake Credentials and Systems to Catch Hackers"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/": {
+    "ts": "2026-09-17T22:01:50.478665+00:00",
+    "title": "New RatHat Android malware uses AI to automate device control"
+  },
+  "https://cybersecuritynews.com/hacked-thai-college-website-abused-to-redirect-google-searchers-to-illegal-online-casino/": {
+    "ts": "2026-09-17T22:01:50.478688+00:00",
+    "title": "Hacked Thai College Website Abused to Redirect Google Searchers to Illegal Online Casino"
+  },
+  "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus": {
+    "ts": "2026-09-17T22:01:50.478692+00:00",
+    "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus"
+  },
+  "https://gbhackers.com/proxy-interviews-scam/": {
+    "ts": "2026-09-17T22:01:50.672352+00:00",
+    "title": "North Korean IT Workers Pay People to Sit Through Job Interviews While They Control the Computer"
+  },
+  "https://www.helpnetsecurity.com/2026/09/17/fake-ai-trading-agent-research/": {
+    "ts": "2026-09-17T22:01:50.875512+00:00",
+    "title": "Fake AI trading agent steals crypto wallet passwords"
+  },
+  "https://www.malwarebytes.com/blog/privacy/2026/09/flock-cameras-are-tracking-people-as-well-as-cars": {
+    "ts": "2026-09-17T22:01:51.068587+00:00",
+    "title": "Flock cameras are tracking people as well as cars"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/": {
+    "ts": "2026-09-17T22:01:51.277113+00:00",
+    "title": "From guidance to action: Security fundamentals that materially reduce risk"
+  },
+  "https://securityaffairs.com/199280/hacking/cyberattacks-on-oil-tankers-put-maritime-critical-infrastructure-at-risk.html": {
+    "ts": "2026-09-17T22:01:51.477204+00:00",
+    "title": "Cyberattacks on Oil Tankers Put Maritime Critical Infrastructure at Risk"
+  },
+  "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/": {
+    "ts": "2026-09-17T22:01:51.674531+00:00",
+    "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom"
+  },
+  "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html": {
+    "ts": "2026-09-17T22:01:51.874531+00:00",
+    "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America"
+  },
+  "https://www.theregister.com/security/2026/09/17/researchers-find-way-to-listen-in-on-headphones-from-afar/5297303": {
+    "ts": "2026-09-17T22:01:51.874550+00:00",
+    "title": "Researchers find way to listen in on headphones from afar"
+  },
+  "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/": {
+    "ts": "2026-09-17T22:01:51.874554+00:00",
+    "title": "OpenAI details more cases of AI agents taking unauthorized actions"
+  },
+  "https://cybersecuritynews.com/heavygram-surveillance-malware/": {
+    "ts": "2026-09-17T22:01:52.077483+00:00",
+    "title": "Hackers Turn Telegram Into a Command Center for HEAVYGRAM Surveillance Malware"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america": {
+    "ts": "2026-09-17T22:01:52.270716+00:00",
+    "title": "China's FamousSparrow APT Spies on US Politics in Latin America"
+  },
+  "https://gbhackers.com/gpt4free-privacy-risks-expose-ai-prompts/": {
+    "ts": "2026-09-17T22:01:52.270736+00:00",
+    "title": "GPT4Free Privacy Risks Expose AI Prompts to Third-Party Servers and Hidden Logs"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/": {
+    "ts": "2026-09-17T22:01:52.464185+00:00",
+    "title": "Improving email security outcomes with real-world Microsoft Defender insights"
+  },
+  "https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/": {
+    "ts": "2026-09-17T22:01:52.658534+00:00",
+    "title": "AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals"
+  },
+  "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html": {
+    "ts": "2026-09-17T22:01:52.853053+00:00",
+    "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads"
+  },
+  "https://cybersecuritynews.com/silkparasite-linked-malware/": {
+    "ts": "2026-09-17T22:01:53.062299+00:00",
+    "title": "SilkParasite-Linked Malware Infrastructure Traced Back Four Years Across Central Asia"
+  },
+  "https://gbhackers.com/bind-9-20-29-fixes-14-security-flaws/": {
+    "ts": "2026-09-17T22:01:53.258420+00:00",
+    "title": "BIND 9.20.29 Fixes 14 Security Flaws Enabling DNSSEC Bypass and Denial-of-Service Attacks"
+  },
+  "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html": {
+    "ts": "2026-09-17T22:01:53.258440+00:00",
+    "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS"
+  },
+  "https://cybersecuritynews.com/north-korean-it-workers-2/": {
+    "ts": "2026-09-17T22:01:53.458534+00:00",
+    "title": "North Korean IT Workers Use AI and Remote Desktop Tools to Fake Technical Interviews"
+  },
+  "https://gbhackers.com/sparrowocky-backdoor/": {
+    "ts": "2026-09-17T22:01:53.653629+00:00",
+    "title": "FamousSparrow Deploys New SparroWocky Backdoor Against Latin American Governments"
+  },
+  "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html": {
+    "ts": "2026-09-17T22:01:53.653650+00:00",
+    "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records"
+  },
+  "https://cybersecuritynews.com/famoussparrow-exploits/": {
+    "ts": "2026-09-17T22:01:53.849603+00:00",
+    "title": "FamousSparrow Exploits Public-Facing Exchange Servers to Deploy SparroWocky Backdoor"
+  },
+  "https://gbhackers.com/cisa-urges-organizations-to-deploy-cyber-decoys/": {
+    "ts": "2026-09-17T22:01:54.052206+00:00",
+    "title": "CISA Urges Organizations to Deploy Cyber Decoys to Detect Hackers Inside Networks"
+  },
+  "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html": {
+    "ts": "2026-09-17T22:01:54.255446+00:00",
+    "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks"
+  },
+  "https://cybersecuritynews.com/critical-docker-sandboxes-vulnerabilities/": {
+    "ts": "2026-09-17T22:01:54.450271+00:00",
+    "title": "Critical Docker Sandbox Vulnerabilities Enable Malicious Guests to Escape Isolated microVM Workspaces"
+  },
+  "https://gbhackers.com/kubernetes-identity-attack/": {
+    "ts": "2026-09-17T22:01:54.645748+00:00",
+    "title": "Kubernetes Attack Lets Hackers Steal SPIFFE Workload Identities and Impersonate Applications"
+  },
+  "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html": {
+    "ts": "2026-09-17T22:01:54.853841+00:00",
+    "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks"
   }
 }

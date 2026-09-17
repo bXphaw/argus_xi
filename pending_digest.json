@@ -39,6 +39,46 @@
       "category": "apt_campaign",
       "title": "SilkParasite Infrastructure Links SpiceRAT to Central Asian Targets",
       "url": "https://securityaffairs.com/199267/apt/silkparasite-infrastructure-links-spicerat-to-central-asian-targets.html"
+    },
+    {
+      "category": "malware_android",
+      "title": "New RatHat Android malware uses AI to automate device control",
+      "url": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "North Korean IT Workers Pay People to Sit Through Job Interviews While They Control the Computer",
+      "url": "https://gbhackers.com/proxy-interviews-scam/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Fake AI trading agent steals crypto wallet passwords",
+      "url": "https://www.helpnetsecurity.com/2026/09/17/fake-ai-trading-agent-research/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Turn Telegram Into a Command Center for HEAVYGRAM Surveillance Malware",
+      "url": "https://cybersecuritynews.com/heavygram-surveillance-malware/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america"
+    },
+    {
+      "category": "threat_actor",
+      "title": "North Korean IT Workers Use AI and Remote Desktop Tools to Fake Technical Interviews",
+      "url": "https://cybersecuritynews.com/north-korean-it-workers-2/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "FamousSparrow Deploys New SparroWocky Backdoor Against Latin American Governments",
+      "url": "https://gbhackers.com/sparrowocky-backdoor/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "FamousSparrow Exploits Public-Facing Exchange Servers to Deploy SparroWocky Backdoor",
+      "url": "https://cybersecuritynews.com/famoussparrow-exploits/"
     }
   ],
   "last_sent_date": "2026-09-17"
