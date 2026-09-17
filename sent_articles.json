@@ -11894,5 +11894,125 @@
   "https://www.helpnetsecurity.com/2026/09/17/cisco-ise-vulnerability-exploited-cve-2026-76460/": {
     "ts": "2026-09-17T13:14:48.446676+00:00",
     "title": "Unauthenticated attackers are bypassing Cisco ISE\u2019s management interface (CVE-2026-76460)"
+  },
+  "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/": {
+    "ts": "2026-09-17T18:04:39.526009+00:00",
+    "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites"
+  },
+  "https://research.checkpoint.com/2026/ai-threat-landscape-digest-july-august-2026/": {
+    "ts": "2026-09-17T18:04:39.526028+00:00",
+    "title": "AI Threat Landscape Digest: July\u2013August 2026"
+  },
+  "https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/": {
+    "ts": "2026-09-17T18:04:39.573868+00:00",
+    "title": "Should you care about an \u201cAI slowdown?\u201d"
+  },
+  "https://cofense.com/blog/chatbot-conundrum-phishing-attempts-of-openai-s-chatgpt": {
+    "ts": "2026-09-17T18:04:39.573886+00:00",
+    "title": "Chatbot Conundrum: Phishing Attempts of OpenAI\u2019s ChatGPT"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/": {
+    "ts": "2026-09-17T18:04:39.573892+00:00",
+    "title": "CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026"
+  },
+  "https://cybersecuritynews.com/openai-models-api-key-leaks/": {
+    "ts": "2026-09-17T18:04:39.620354+00:00",
+    "title": "OpenAI Models Searched for Leaked API Keys and Uploaded Files Without Permission"
+  },
+  "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027": {
+    "ts": "2026-09-17T18:04:39.667330+00:00",
+    "title": "[Virtual Event] Cybersecurity Outlook 2027"
+  },
+  "https://gbhackers.com/zero-code-cloaking-attackers-weaponize-google-search-and-hacked-ac-th-domain-to-bypass-ad-moderation/": {
+    "ts": "2026-09-17T18:04:39.713201+00:00",
+    "title": "\u201cZero-Code Cloaking\u201d: Attackers Weaponize Google Search and Hacked .ac.th Domain to Bypass Ad Moderation"
+  },
+  "https://www.helpnetsecurity.com/2026/09/17/aws-middle-east-outage-permanent-data-loss-bahrain-uae/": {
+    "ts": "2026-09-17T18:04:39.759325+00:00",
+    "title": "Iranian strikes on AWS facilities left customer data beyond recovery in Bahrain, UAE"
+  },
+  "https://www.malwarebytes.com/blog/threat-intel/2026/09/revolut-phishing-texts-appear-days-after-data-breach": {
+    "ts": "2026-09-17T18:04:39.806084+00:00",
+    "title": "Revolut phishing texts appear days after data breach"
+  },
+  "https://www.recordedfuture.com/blog/forrester-wave-external-threat-intelligence-2026": {
+    "ts": "2026-09-17T18:04:39.806101+00:00",
+    "title": "Our View on What It Takes To Be Named an Industry-Recognized Threat Intelligence Leader"
+  },
+  "https://securityaffairs.com/199267/apt/silkparasite-infrastructure-links-spicerat-to-central-asian-targets.html": {
+    "ts": "2026-09-17T18:04:39.853144+00:00",
+    "title": "SilkParasite Infrastructure Links SpiceRAT to Central Asian Targets"
+  },
+  "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/": {
+    "ts": "2026-09-17T18:04:39.853161+00:00",
+    "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels"
+  },
+  "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html": {
+    "ts": "2026-09-17T18:04:39.853166+00:00",
+    "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone"
+  },
+  "https://www.theregister.com/security/2026/09/17/chinas-salt-typhoon-backdoors-latin-american-orgs-with-new-snooping-malware/5297286": {
+    "ts": "2026-09-17T18:04:39.853169+00:00",
+    "title": "China's Salt Typhoon backdoors Latin American orgs with new snooping malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/": {
+    "ts": "2026-09-17T18:04:39.900749+00:00",
+    "title": "What Recent AI-Powered Attacks Mean for Your Identity Security"
+  },
+  "https://cybersecuritynews.com/nightmarestresser-ddos-service/": {
+    "ts": "2026-09-17T18:04:39.948828+00:00",
+    "title": "FBI Takes Down NightmareStresser DDoS Service Used in Hundreds of Thousands of Attacks"
+  },
+  "https://gbhackers.com/heavygram-malware-deployment/": {
+    "ts": "2026-09-17T18:04:39.998662+00:00",
+    "title": "Handala Hack Uses CRUDEEXCLUDE to Disable Defender Protections and Deploy HEAVYGRAM"
+  },
+  "https://www.helpnetsecurity.com/2026/09/17/ai-antivirus-renewal-scam-fake-pages/": {
+    "ts": "2026-09-17T18:04:40.044908+00:00",
+    "title": "Scammers leave AI fingerprints all over fake antivirus renewal page"
+  },
+  "https://www.recordedfuture.com/blog/new-rules-machine-speed-defense": {
+    "ts": "2026-09-17T18:04:40.095350+00:00",
+    "title": "The New Rules of Machine Speed Defense"
+  },
+  "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/": {
+    "ts": "2026-09-17T18:04:40.095365+00:00",
+    "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training"
+  },
+  "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html": {
+    "ts": "2026-09-17T18:04:40.095369+00:00",
+    "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar"
+  },
+  "https://www.theregister.com/security/2026/09/17/london-property-manager-breach-may-have-exposed-bank-details-and-lockbox-codes/5297232": {
+    "ts": "2026-09-17T18:04:40.095372+00:00",
+    "title": "London property manager breach may have exposed bank details and lockbox codes"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/": {
+    "ts": "2026-09-17T18:04:40.095376+00:00",
+    "title": "Windows 11 24H2 Home and Pro reach end of support in October"
+  },
+  "https://cybersecuritynews.com/bind-dns-servers-hit-by-14-security-flaws/": {
+    "ts": "2026-09-17T18:04:40.095379+00:00",
+    "title": "BIND DNS Servers Hit by 14 Security Flaws Enabling Cache Poisoning and Remote Crashes"
+  },
+  "https://gbhackers.com/spicerat-infrastructure/": {
+    "ts": "2026-09-17T18:04:40.143478+00:00",
+    "title": "SilkParasite Hackers Use SpiceRAT Infrastructure to Target Central Asian Governments and Energy Firms"
+  },
+  "https://www.helpnetsecurity.com/2026/09/17/spain-ai-agent-data-breach/": {
+    "ts": "2026-09-17T18:04:40.189462+00:00",
+    "title": "Spain reports first data breach involving autonomous AI agent"
+  },
+  "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/": {
+    "ts": "2026-09-17T18:04:40.234556+00:00",
+    "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot"
+  },
+  "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html": {
+    "ts": "2026-09-17T18:04:40.280349+00:00",
+    "title": "CISO's Expert Guide to Agentic Pentesting for Websites"
+  },
+  "https://cybersecuritynews.com/cisa-fake-credentials-catch-hackers/": {
+    "ts": "2026-09-17T18:04:40.327853+00:00",
+    "title": "CISA Wants Defenders to Deploy Fake Credentials and Systems to Catch Hackers"
   }
 }

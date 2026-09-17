@@ -24,6 +24,21 @@
       "category": "new_technique",
       "title": "Unauthenticated attackers are bypassing Cisco ISE\u2019s management interface (CVE-2026-76460)",
       "url": "https://www.helpnetsecurity.com/2026/09/17/cisco-ise-vulnerability-exploited-cve-2026-76460/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+      "url": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Should you care about an \u201cAI slowdown?\u201d",
+      "url": "https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "SilkParasite Infrastructure Links SpiceRAT to Central Asian Targets",
+      "url": "https://securityaffairs.com/199267/apt/silkparasite-infrastructure-links-spicerat-to-central-asian-targets.html"
     }
   ],
   "last_sent_date": "2026-09-17"
