@@ -12154,5 +12154,81 @@
   "https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335": {
     "ts": "2026-09-18T00:05:46.300134+00:00",
     "title": "AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom"
+  },
+  "https://gbhackers.com/fbi-seizes-nightmarestresser-ddos/": {
+    "ts": "2026-09-18T05:44:39.783955+00:00",
+    "title": "FBI Seizes NightmareStresser DDoS-for-Hire Domains Used in Hundreds of Thousands of Attacks"
+  },
+  "https://asec.ahnlab.com/en/95469/": {
+    "ts": "2026-09-18T05:46:04.534326+00:00",
+    "title": "Private HTS programs that spread ransomware"
+  },
+  "https://cybersecuritynews.com/opus-5-to-help-exploit-openai-flaws/": {
+    "ts": "2026-09-18T05:46:04.596795+00:00",
+    "title": "Researchers Use Claude Opus 5 to Hack OpenAI Forum and Reach Internal Repositories"
+  },
+  "https://gbhackers.com/ai-powered-malware/": {
+    "ts": "2026-09-18T05:46:04.918617+00:00",
+    "title": "AI Malware Keeps Changing Its Code to Break Traditional Signature-Based Detection"
+  },
+  "https://www.helpnetsecurity.com/2026/09/18/hush-security-mcp-credential-exposure-report/": {
+    "ts": "2026-09-18T05:46:04.918636+00:00",
+    "title": "Hardcoded MCP credentials found in public GitHub files"
+  },
+  "https://thehackernews.com/2026/09/critical-check-point-management-server.html": {
+    "ts": "2026-09-18T05:46:04.987722+00:00",
+    "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root"
+  },
+  "https://www.theregister.com/security/2026/09/18/usas-venezuela-takeover-comes-with-bonus-exposure-to-chinese-ai-surveillance-tech/5297357": {
+    "ts": "2026-09-18T05:46:05.045004+00:00",
+    "title": "USA\u2019s Venezuela takeover comes with bonus exposure to Chinese AI surveillance tech"
+  },
+  "https://www.welivesecurity.com/en/eset-research/beware-sparrowock-backdoor-bites-commands-catch/": {
+    "ts": "2026-09-18T05:46:05.109214+00:00",
+    "title": "Beware the SparroWock: The backdoor that bites, the commands that catch"
+  },
+  "https://cybersecuritynews.com/steam-windows-0-day-vulnerability/": {
+    "ts": "2026-09-18T05:46:05.166129+00:00",
+    "title": "Steam Windows 0-Day Vulnerability Allows Users to Silently Escalate to Full SYSTEM Privileges"
+  },
+  "https://www.helpnetsecurity.com/2026/09/18/hypr-hiring-fraud-detection-report/": {
+    "ts": "2026-09-18T05:46:05.225160+00:00",
+    "title": "98% of fraudulent hires have company credentials by the time they\u2019re caught"
+  },
+  "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html": {
+    "ts": "2026-09-18T05:46:05.285979+00:00",
+    "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories"
+  },
+  "https://gbhackers.com/moviereaper-malware/": {
+    "ts": "2026-09-18T05:46:05.343114+00:00",
+    "title": "MovieReaper Malware Spreads Through Pirated Movie Torrents and Uses Solana for C2"
+  },
+  "https://www.helpnetsecurity.com/2026/09/18/wordpress-security-survey-recovery-plan/": {
+    "ts": "2026-09-18T05:46:05.343128+00:00",
+    "title": "Most WordPress pros still lack a breach recovery plan"
+  },
+  "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html": {
+    "ts": "2026-09-18T05:46:05.399829+00:00",
+    "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files"
+  },
+  "https://gbhackers.com/openai-reveals-ai-models-concealing-mistakes/": {
+    "ts": "2026-09-18T05:46:05.399845+00:00",
+    "title": "OpenAI Reveals AI Models Concealing Mistakes, Using Exposed API Keys and Sharing Files"
+  },
+  "https://www.helpnetsecurity.com/2026/09/18/new-infosec-products-of-the-week-september-18-2026/": {
+    "ts": "2026-09-18T05:46:05.399849+00:00",
+    "title": "New infosec products of the week: September 18, 2026"
+  },
+  "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html": {
+    "ts": "2026-09-18T05:46:05.457499+00:00",
+    "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords"
+  },
+  "https://gbhackers.com/steam-windows-vulnerability/": {
+    "ts": "2026-09-18T05:46:05.514237+00:00",
+    "title": "Steam Windows Vulnerability Lets Users Escalate Privileges to NT AUTHORITY\\SYSTEM"
+  },
+  "https://gbhackers.com/how-pentest-companies-adapt-in-the-era-of-ai/": {
+    "ts": "2026-09-18T05:46:05.571803+00:00",
+    "title": "How Pentest Companies Adapt In The Era of AI"
   }
 }

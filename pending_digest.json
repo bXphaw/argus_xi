@@ -79,6 +79,36 @@
       "category": "malware_windows",
       "title": "FamousSparrow Exploits Public-Facing Exchange Servers to Deploy SparroWocky Backdoor",
       "url": "https://cybersecuritynews.com/famoussparrow-exploits/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Private HTS programs that spread ransomware",
+      "url": "https://asec.ahnlab.com/en/95469/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Researchers Use Claude Opus 5 to Hack OpenAI Forum and Reach Internal Repositories",
+      "url": "https://cybersecuritynews.com/opus-5-to-help-exploit-openai-flaws/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "AI Malware Keeps Changing Its Code to Break Traditional Signature-Based Detection",
+      "url": "https://gbhackers.com/ai-powered-malware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+      "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "MovieReaper Malware Spreads Through Pirated Movie Torrents and Uses Solana for C2",
+      "url": "https://gbhackers.com/moviereaper-malware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
+      "url": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html"
     }
   ],
   "last_sent_date": "2026-09-17"
