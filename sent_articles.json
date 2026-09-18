@@ -12230,5 +12230,125 @@
   "https://gbhackers.com/how-pentest-companies-adapt-in-the-era-of-ai/": {
     "ts": "2026-09-18T05:46:05.571803+00:00",
     "title": "How Pentest Companies Adapt In The Era of AI"
+  },
+  "https://gbhackers.com/google-chrome-153-update-fixes-16-security-flaws/": {
+    "ts": "2026-09-18T10:51:03.736179+00:00",
+    "title": "Google Chrome 153 Update Fixes 16 Security Flaws, Including Two Critical Vulnerabilities"
+  },
+  "https://asec.ahnlab.com/en/95478/": {
+    "ts": "2026-09-18T10:53:15.131841+00:00",
+    "title": "August 2026 Threat Trend Report on APT Groups"
+  },
+  "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/": {
+    "ts": "2026-09-18T10:53:15.131860+00:00",
+    "title": "New Check Point flaw lets hackers execute code with root privileges"
+  },
+  "https://cybersecuritynews.com/android-apps-check-security-patches/": {
+    "ts": "2026-09-18T10:53:15.131865+00:00",
+    "title": "Android Apps Can Now Check If Your Phone Is Missing Critical Security Patches"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data": {
+    "ts": "2026-09-18T10:53:15.131868+00:00",
+    "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data"
+  },
+  "https://www.helpnetsecurity.com/2026/09/18/social-media-bot-detection-study/": {
+    "ts": "2026-09-18T10:53:15.131872+00:00",
+    "title": "Bots with good manners are better at fooling people on social media"
+  },
+  "https://www.malwarebytes.com/blog/scams/2026/09/fake-parcel-delivery-messages-steal-your-card-and-bank-details": {
+    "ts": "2026-09-18T10:53:15.401342+00:00",
+    "title": "Fake parcel delivery messages steal your card and bank details"
+  },
+  "https://moonlock.com/apple-patches-macos-flaws-sensitive-data": {
+    "ts": "2026-09-18T10:53:15.630441+00:00",
+    "title": "Apple patches macOS flaws that could expose sensitive user data"
+  },
+  "https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/": {
+    "ts": "2026-09-18T10:53:15.874313+00:00",
+    "title": "A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity"
+  },
+  "https://securityaffairs.com/199317/malware/rathat-turns-android-accessibility-into-an-attack-weapon.html": {
+    "ts": "2026-09-18T10:53:16.102844+00:00",
+    "title": "RatHat Turns Android Accessibility Into an Attack Weapon"
+  },
+  "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/": {
+    "ts": "2026-09-18T10:53:16.344680+00:00",
+    "title": "NightmareStresser DDoS Service Disrupted in International Operation"
+  },
+  "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html": {
+    "ts": "2026-09-18T10:53:16.578794+00:00",
+    "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage"
+  },
+  "https://threatmon.io/top-api-security-vulnerabilities-risks-and-mitigation-strategies-2/": {
+    "ts": "2026-09-18T10:53:16.804875+00:00",
+    "title": "Top API Security Vulnerabilities: Risks and Mitigation Strategies"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/": {
+    "ts": "2026-09-18T10:53:16.804892+00:00",
+    "title": "Microsoft fixes broken copy and paste for Excel 2016 users"
+  },
+  "https://cybersecuritynews.com/mikrotrick-attack/": {
+    "ts": "2026-09-18T10:53:17.039856+00:00",
+    "title": "MikroTrick Attack Lets Hackers Gain Full Admin Control of MikroTik Routers Without Login"
+  },
+  "https://gbhackers.com/chatgpt-phishing-campaign/": {
+    "ts": "2026-09-18T10:53:17.039875+00:00",
+    "title": "ChatGPT Phishing Campaign Targets Both Work and Personal OpenAI Accounts"
+  },
+  "https://www.helpnetsecurity.com/2026/09/18/plugin4shell-ai-coding-agents-vulnerability/": {
+    "ts": "2026-09-18T10:53:17.281269+00:00",
+    "title": "Zero-click RCE vulnerability hit four major AI coding agents, two remain unpatched"
+  },
+  "https://moonlock.com/hbo-max-reddit-hacked-spreading-malware": {
+    "ts": "2026-09-18T10:53:17.524477+00:00",
+    "title": "Hackers hijack HBO Max\u2019s Reddit account to spread Mac malware"
+  },
+  "https://securityaffairs.com/199279/security/check-point-fixes-critical-cve-2026-91843-allowing-root-code-execution.html": {
+    "ts": "2026-09-18T10:53:17.752724+00:00",
+    "title": "Check Point Fixes Critical CVE-2026-91843 Allowing Root Code Execution"
+  },
+  "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/": {
+    "ts": "2026-09-18T10:53:17.983315+00:00",
+    "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites"
+  },
+  "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html": {
+    "ts": "2026-09-18T10:53:18.224789+00:00",
+    "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer"
+  },
+  "https://cybersecuritynews.com/fake-t-mobile-rewards/": {
+    "ts": "2026-09-18T10:53:18.224806+00:00",
+    "title": "Hackers Use Fake T-Mobile Rewards Expiry Texts to Lure Users to Phishing Sites"
+  },
+  "https://gbhackers.com/linux-kernel-hit-by-4-lpe-flaws/": {
+    "ts": "2026-09-18T10:53:18.224811+00:00",
+    "title": "Linux Kernel Hit by 4 LPE Flaws Enabling Attackers to Gain Root Shell"
+  },
+  "https://www.helpnetsecurity.com/2026/09/18/google-androidx-security-state-libraries/": {
+    "ts": "2026-09-18T10:53:18.224814+00:00",
+    "title": "Android apps can now check security patches down to individual device components"
+  },
+  "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/": {
+    "ts": "2026-09-18T10:53:18.473352+00:00",
+    "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks"
+  },
+  "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html": {
+    "ts": "2026-09-18T10:53:18.703327+00:00",
+    "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall"
+  },
+  "https://cybersecuritynews.com/brevo-supply-chain-attack/": {
+    "ts": "2026-09-18T10:53:18.934285+00:00",
+    "title": "Brevo Supply Chain Attack Pushes WordPress Backdoors and ClickFix Malware to 100,000+ Sites"
+  },
+  "https://gbhackers.com/tutor-lms-vulnerability/": {
+    "ts": "2026-09-18T10:53:19.183090+00:00",
+    "title": "Over 100,000 WordPress Sites Exposed to RCE Through Tutor LMS Vulnerability"
+  },
+  "https://www.helpnetsecurity.com/2026/09/18/abandoned-iot-apps-data-security-risks/": {
+    "ts": "2026-09-18T10:53:19.424883+00:00",
+    "title": "Abandoned IoT apps keep sending sensitive data to broken servers"
+  },
+  "https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/": {
+    "ts": "2026-09-18T10:53:19.672413+00:00",
+    "title": "MIND Secures $72 Million for AI-Powered DLP"
   }
 }
