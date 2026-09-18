@@ -12134,5 +12134,25 @@
   "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html": {
     "ts": "2026-09-17T22:01:54.853841+00:00",
     "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks"
+  },
+  "https://gbhackers.com/best-dspm-compared/": {
+    "ts": "2026-09-18T00:05:42.606857+00:00",
+    "title": "12 Best DSPM Tools Compared (2026): Features & Pricing"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/": {
+    "ts": "2026-09-18T00:05:46.300110+00:00",
+    "title": "CrowdStrike SafeMind: When the Best Offense Builds the Best Defense"
+  },
+  "https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/": {
+    "ts": "2026-09-18T00:05:46.300129+00:00",
+    "title": "Inside the Modern SOC: Defending the Cross-Environment Pivot"
+  },
+  "https://securityaffairs.com/199302/ai/openai-admits-its-models-lie-to-cover-their-own-mistakes.html": {
+    "ts": "2026-09-18T00:05:46.300132+00:00",
+    "title": "OpenAI admits its models lie to cover their own mistakes"
+  },
+  "https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335": {
+    "ts": "2026-09-18T00:05:46.300134+00:00",
+    "title": "AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom"
   }
 }
