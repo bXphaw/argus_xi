@@ -12470,5 +12470,57 @@
   "https://gbhackers.com/critical-pgadmin-authentication-bypass/": {
     "ts": "2026-09-18T14:53:25.651833+00:00",
     "title": "Critical pgAdmin Authentication Bypass Lets Attackers Login as Administrator Without Credentials"
+  },
+  "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/": {
+    "ts": "2026-09-18T18:11:14.164686+00:00",
+    "title": "Gyazo server flaw exploited to steal 23.6 million user records"
+  },
+  "https://www.forescout.com/blog/ot-security-enters-new-phase-of-operational-risk-reduction/": {
+    "ts": "2026-09-18T18:11:14.164703+00:00",
+    "title": "OT Security Enters New Phase of Operational Risk Reduction"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/new-android-malware-uses-ai-to-steal-bank-logins-and-pins": {
+    "ts": "2026-09-18T18:11:14.401189+00:00",
+    "title": "New Android malware uses AI to steal bank logins and PINs"
+  },
+  "https://securityaffairs.com/199338/data-breach/gyazo-data-breach-exposes-23-million-user-records.html": {
+    "ts": "2026-09-18T18:11:14.401204+00:00",
+    "title": "Gyazo Data Breach Exposes 23 Million User Records"
+  },
+  "https://www.sentinelone.com/labs/dont-call-us-well-call-your-apis-tradertraitor-backdoors-resurface-on-victim-with-no-crypto-ties/": {
+    "ts": "2026-09-18T18:11:14.449055+00:00",
+    "title": "Don\u2019t Call Us, We\u2019ll Call Your APIs | TraderTraitor Backdoors Resurface on Victim With No Crypto Ties"
+  },
+  "https://www.security.com/product-insights/part-1-why-less-more-symantec-pam-clustering": {
+    "ts": "2026-09-18T18:11:14.493001+00:00",
+    "title": "Part 1: Why \"Less Is More\" in Symantec PAM Clustering"
+  },
+  "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html": {
+    "ts": "2026-09-18T18:11:14.537376+00:00",
+    "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution"
+  },
+  "https://www.intego.com/mac-security-blog/mac-hacked-what-to-do/": {
+    "ts": "2026-09-18T18:11:14.586609+00:00",
+    "title": "Think your Mac has been hacked? How to tell and what to do"
+  },
+  "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517": {
+    "ts": "2026-09-18T18:11:14.635210+00:00",
+    "title": "Researchers used Claude to hack OpenAI employees' ChatGPT accounts"
+  },
+  "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/": {
+    "ts": "2026-09-18T18:11:14.679233+00:00",
+    "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer"
+  },
+  "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html": {
+    "ts": "2026-09-18T18:11:14.724960+00:00",
+    "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2"
+  },
+  "https://www.theregister.com/security/2026/09/18/north-koreas-fake-job-interviews-infected-30000-devices/5297461": {
+    "ts": "2026-09-18T18:11:14.724971+00:00",
+    "title": "North Korea's fake job interviews infected 30,000 devices"
+  },
+  "https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499": {
+    "ts": "2026-09-18T18:11:14.724975+00:00",
+    "title": "FBI: Fake cop and government impersonation scams cost victims $1.6B"
   }
 }

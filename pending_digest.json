@@ -34,6 +34,21 @@
       "category": "threat_actor",
       "title": "JADEPUFFER Evolves Agentic Ransomware to Target AI Models and Training Data",
       "url": "https://gbhackers.com/agentic-ransomware-to-target-ai-models/"
+    },
+    {
+      "category": "malware_android",
+      "title": "New Android malware uses AI to steal bank logins and PINs",
+      "url": "https://www.malwarebytes.com/blog/news/2026/09/new-android-malware-uses-ai-to-steal-bank-logins-and-pins"
+    },
+    {
+      "category": "malware_macos",
+      "title": "Don\u2019t Call Us, We\u2019ll Call Your APIs | TraderTraitor Backdoors Resurface on Victim With No Crypto Ties",
+      "url": "https://www.sentinelone.com/labs/dont-call-us-well-call-your-apis-tradertraitor-backdoors-resurface-on-victim-with-no-crypto-ties/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html"
     }
   ],
   "last_sent_date": "2026-09-18"
