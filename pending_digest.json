@@ -1,4 +1,40 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "Critical Microsoft Azure AI Foundry Vulnerability Allows Attackers to Escalate Privileges",
+      "url": "https://cybersecuritynews.com/microsoft-azure-ai-foundry-vulnerability/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Strategies to Combat Microsoft Teams Phishing Attacks",
+      "url": "https://www.darktrace.com/blog/how-to-protect-your-organization-against-microsoft-teams-phishing-attacks"
+    },
+    {
+      "category": "malware_windows",
+      "title": "PeckBirdy C2 Traffic Seen Across Enterprise Networks While Hiding Behind Casino Domains",
+      "url": "https://gbhackers.com/casino-domains-hide-c2-traffic/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Feral Wolf Hackers Exploit Confluence and 1C to Deploy GenieLocker Ransomware",
+      "url": "https://gbhackers.com/genielocker-ransomware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code",
+      "url": "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "AI Agents Now Run Ransomware Attacks End-to-End Without Human Operators",
+      "url": "https://cybersecuritynews.com/ai-agents-3/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "JADEPUFFER Evolves Agentic Ransomware to Target AI Models and Training Data",
+      "url": "https://gbhackers.com/agentic-ransomware-to-target-ai-models/"
+    }
+  ],
   "last_sent_date": "2026-09-18"
 }

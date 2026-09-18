@@ -12350,5 +12350,125 @@
   "https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/": {
     "ts": "2026-09-18T10:53:19.672413+00:00",
     "title": "MIND Secures $72 Million for AI-Powered DLP"
+  },
+  "https://socradar.io/blog/cve-2026-76460-cisco-ise-flaw/": {
+    "ts": "2026-09-18T14:51:11.597087+00:00",
+    "title": "CVE-2026-76460: Cisco ISE Flaw Actively Exploited"
+  },
+  "https://gbhackers.com/settra-ransomware/": {
+    "ts": "2026-09-18T14:51:21.062435+00:00",
+    "title": "New SETTRA Ransomware Uses MeshAgent RMM and BYOVD to Encrypt Windows Systems"
+  },
+  "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/": {
+    "ts": "2026-09-18T14:53:23.024690+00:00",
+    "title": "Secure enterprise sharing with access reviews for Microsoft 365"
+  },
+  "https://cybersecuritynews.com/microsoft-azure-ai-foundry-vulnerability/": {
+    "ts": "2026-09-18T14:53:23.202842+00:00",
+    "title": "Critical Microsoft Azure AI Foundry Vulnerability Allows Attackers to Escalate Privileges"
+  },
+  "https://www.darktrace.com/blog/how-to-protect-your-organization-against-microsoft-teams-phishing-attacks": {
+    "ts": "2026-09-18T14:53:23.322323+00:00",
+    "title": "Strategies to Combat Microsoft Teams Phishing Attacks"
+  },
+  "https://gbhackers.com/casino-domains-hide-c2-traffic/": {
+    "ts": "2026-09-18T14:53:23.471993+00:00",
+    "title": "PeckBirdy C2 Traffic Seen Across Enterprise Networks While Hiding Behind Casino Domains"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/09/did-an-ai-really-try-to-break-free-from-human-control": {
+    "ts": "2026-09-18T14:53:23.472010+00:00",
+    "title": "Did an AI really try to break free from human control?"
+  },
+  "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/": {
+    "ts": "2026-09-18T14:53:23.612313+00:00",
+    "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw"
+  },
+  "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html": {
+    "ts": "2026-09-18T14:53:23.737657+00:00",
+    "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation"
+  },
+  "https://www.intego.com/mac-security-blog/how-to-enable-stolen-device-protection-for-iphone/": {
+    "ts": "2026-09-18T14:53:23.851272+00:00",
+    "title": "How to turn on Stolen Device Protection on iPhone"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/": {
+    "ts": "2026-09-18T14:53:23.993766+00:00",
+    "title": "Microsoft Teams will let admins block custom file extensions"
+  },
+  "https://cybersecuritynews.com/feral-wolf-ransomware/": {
+    "ts": "2026-09-18T14:53:24.101803+00:00",
+    "title": "Feral Wolf Ransomware Attacks Exploit Atlassian Confluence and Misconfigured 1C Systems"
+  },
+  "https://gbhackers.com/genielocker-ransomware/": {
+    "ts": "2026-09-18T14:53:24.231926+00:00",
+    "title": "Feral Wolf Hackers Exploit Confluence and 1C to Deploy GenieLocker Ransomware"
+  },
+  "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/": {
+    "ts": "2026-09-18T14:53:24.373974+00:00",
+    "title": "AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code"
+  },
+  "https://socradar.io/blog/socradar-alert-management-zendesk/": {
+    "ts": "2026-09-18T14:53:24.373993+00:00",
+    "title": "Manage SOCRadar Alerts Where Your Team Already Works with SOCRadar and Zendesk"
+  },
+  "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html": {
+    "ts": "2026-09-18T14:53:24.373995+00:00",
+    "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It."
+  },
+  "https://www.intego.com/mac-security-blog/if-hackers-crack-a-six-digit-iphone-passcode-they-can-get-all-your-passwords/": {
+    "ts": "2026-09-18T14:53:24.373998+00:00",
+    "title": "iPhone passcode security: Why 6 digits may not be enough"
+  },
+  "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/": {
+    "ts": "2026-09-18T14:53:24.511757+00:00",
+    "title": "Webinar: Which Google Workspace security controls actually matter?"
+  },
+  "https://cybersecuritynews.com/new-settra-ransomware/": {
+    "ts": "2026-09-18T14:53:24.636559+00:00",
+    "title": "New SETTRA Ransomware Uses MeshAgent RMM and BYOVD to Encrypt Windows Systems"
+  },
+  "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/": {
+    "ts": "2026-09-18T14:53:24.754257+00:00",
+    "title": "23 Million User Records Compromised in Gyazo Data Breach"
+  },
+  "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html": {
+    "ts": "2026-09-18T14:53:24.893219+00:00",
+    "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/": {
+    "ts": "2026-09-18T14:53:25.016653+00:00",
+    "title": "Microsoft fixes bug behind \u2018Defender Antivirus is turned off\u2019 alerts"
+  },
+  "https://cybersecuritynews.com/ai-agents-3/": {
+    "ts": "2026-09-18T14:53:25.144142+00:00",
+    "title": "AI Agents Now Run Ransomware Attacks End-to-End Without Human Operators"
+  },
+  "https://gbhackers.com/agentic-ransomware-to-target-ai-models/": {
+    "ts": "2026-09-18T14:53:25.280952+00:00",
+    "title": "JADEPUFFER Evolves Agentic Ransomware to Target AI Models and Training Data"
+  },
+  "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/": {
+    "ts": "2026-09-18T14:53:25.280970+00:00",
+    "title": "Microsoft Patches 18 Vulnerabilities in AI, Cloud Products"
+  },
+  "https://cybersecuritynews.com/linux-kernel-privilege-escalation-flaws/": {
+    "ts": "2026-09-18T14:53:25.280973+00:00",
+    "title": "Linux Kernel Hit by Four Privilege Escalation Flaws Enabling Root Access"
+  },
+  "https://gbhackers.com/researchers-find-security-risks-in-73-6-of-61500-abandoned-iot-apps/": {
+    "ts": "2026-09-18T14:53:25.280976+00:00",
+    "title": "Researchers Find Security Risks in 73.6% of 61,500 Abandoned IoT Apps"
+  },
+  "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/": {
+    "ts": "2026-09-18T14:53:25.410163+00:00",
+    "title": "Check Point, Kaspersky, Tanium Patch Product Vulnerabilities"
+  },
+  "https://cybersecuritynews.com/chatgpt-subscription/": {
+    "ts": "2026-09-18T14:53:25.545361+00:00",
+    "title": "Hackers Impersonate ChatGPT Subscription Alerts to Steal OpenAI Account Credentials"
+  },
+  "https://gbhackers.com/critical-pgadmin-authentication-bypass/": {
+    "ts": "2026-09-18T14:53:25.651833+00:00",
+    "title": "Critical pgAdmin Authentication Bypass Lets Attackers Login as Administrator Without Credentials"
   }
 }
