@@ -49,6 +49,11 @@
       "category": "malware_windows",
       "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
       "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+      "url": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html"
     }
   ],
   "last_sent_date": "2026-09-18"

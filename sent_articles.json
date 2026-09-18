@@ -12522,5 +12522,25 @@
   "https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499": {
     "ts": "2026-09-18T18:11:14.724975+00:00",
     "title": "FBI: Fake cop and government impersonation scams cost victims $1.6B"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks": {
+    "ts": "2026-09-18T21:30:58.483075+00:00",
+    "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks"
+  },
+  "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html": {
+    "ts": "2026-09-18T21:30:58.769885+00:00",
+    "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues": {
+    "ts": "2026-09-18T21:30:58.769904+00:00",
+    "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight": {
+    "ts": "2026-09-18T21:30:58.769908+00:00",
+    "title": "EY Survey Finds Autonomous AI Implementation Outpaces Oversight"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse": {
+    "ts": "2026-09-18T21:30:58.769910+00:00",
+    "title": "MFA Won't Save You From OAuth Consent Abuse"
   }
 }
