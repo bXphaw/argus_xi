@@ -12622,5 +12622,45 @@
   "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html": {
     "ts": "2026-09-19T13:47:13.952399+00:00",
     "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE"
+  },
+  "https://cybersecuritynews.com/linux-kernel-vulnerabilities-actively-exploited/": {
+    "ts": "2026-09-19T17:05:27.333778+00:00",
+    "title": "CISA Warns of Linux Kernel Vulnerabilities Actively Exploited in Attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/": {
+    "ts": "2026-09-19T17:06:10.713996+00:00",
+    "title": "BragJack attacks hijack AI browser agents through malicious extensions"
+  },
+  "https://securityaffairs.com/199392/ai/google-gemini-also-broke-out-of-its-test-environment.html": {
+    "ts": "2026-09-19T17:06:10.714016+00:00",
+    "title": "Google Gemini also Broke Out of Its Test Environment"
+  },
+  "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/": {
+    "ts": "2026-09-19T17:06:10.714020+00:00",
+    "title": "TigerByte Cyber Emerges From Stealth With $3 Million in Funding"
+  },
+  "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html": {
+    "ts": "2026-09-19T17:06:10.714024+00:00",
+    "title": "Identity Visibility in 2026: The Foundation of Identity Security"
+  },
+  "https://www.theregister.com/security/2026/09/19/agentic-security-is-the-billion-dollar-challenge-for-some-clever-startup-to-solve/5297546": {
+    "ts": "2026-09-19T17:06:10.714028+00:00",
+    "title": "Agentic security is the billion-dollar challenge for some clever startup to solve"
+  },
+  "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/": {
+    "ts": "2026-09-19T17:06:10.946720+00:00",
+    "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide"
+  },
+  "https://securityaffairs.com/199378/ai/ai-helps-hackers-hijack-openai-staff-accounts-through-a-forum.html": {
+    "ts": "2026-09-19T17:06:11.184364+00:00",
+    "title": "AI Helps Hackers Hijack OpenAI Staff Accounts Through a Forum"
+  },
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/": {
+    "ts": "2026-09-19T17:06:11.433236+00:00",
+    "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang"
+  },
+  "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/": {
+    "ts": "2026-09-19T17:06:11.669426+00:00",
+    "title": "Viral AI actress' hotline face-scans every caller, watches their mood"
   }
 }
