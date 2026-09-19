@@ -12542,5 +12542,21 @@
   "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse": {
     "ts": "2026-09-18T21:30:58.769910+00:00",
     "title": "MFA Won't Save You From OAuth Consent Abuse"
+  },
+  "https://securityaffairs.com/199355/hacking/brevo-supply-chain-attack-infected-over-100000-websites.html": {
+    "ts": "2026-09-19T00:00:05.094307+00:00",
+    "title": "Brevo Supply-Chain Attack Infected Over 100,000 Websites"
+  },
+  "https://cybersecuritynews.com/tutor-lms-flaw/": {
+    "ts": "2026-09-19T00:00:06.715500+00:00",
+    "title": "Tutor LMS Flaw Exposes 100,000+ WordPress Sites to Remote Code Execution"
+  },
+  "https://www.recordedfuture.com/blog/klue-security-incident-jp": {
+    "ts": "2026-09-19T00:00:06.715510+00:00",
+    "title": "Klue\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30a4\u30f3\u30b7\u30c7\u30f3\u30c8\u3068Recorded Future\u3078\u306e\u5f71\u97ff"
+  },
+  "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/": {
+    "ts": "2026-09-19T00:00:06.715512+00:00",
+    "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws"
   }
 }
