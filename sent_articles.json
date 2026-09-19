@@ -12558,5 +12558,49 @@
   "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/": {
     "ts": "2026-09-19T00:00:06.715512+00:00",
     "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws"
+  },
+  "https://cybersecuritynews.com/google-gemini-ai-hacked-3-real-companies/": {
+    "ts": "2026-09-19T09:18:12.691828+00:00",
+    "title": "Google Gemini AI Hacked 3 Real Companies during a Cybersecurity Test"
+  },
+  "https://gbhackers.com/north-korean-waterplum-hackers-target-it-professionals/": {
+    "ts": "2026-09-19T09:18:12.907599+00:00",
+    "title": "North Korean WaterPlum Hackers Target IT Professionals With Fake Job Interviews to Steal Crypto"
+  },
+  "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html": {
+    "ts": "2026-09-19T09:18:13.053600+00:00",
+    "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild"
+  },
+  "https://www.welivesecurity.com/en/privacy/nudify-apps-fake-nude-you/": {
+    "ts": "2026-09-19T09:18:13.053616+00:00",
+    "title": "\u2018Nudify\u2019 apps: What to do if someone makes a fake nude of you"
+  },
+  "https://cybersecuritynews.com/click2shell-wordpress-vulnerability/": {
+    "ts": "2026-09-19T09:18:13.201890+00:00",
+    "title": "Click2Shell WordPress Flaw Lets Attackers Gain RCE With a Single Malicious Link"
+  },
+  "https://gbhackers.com/ai-powered-rathat-android-trojan-steals-bank-credentials/": {
+    "ts": "2026-09-19T09:18:13.656064+00:00",
+    "title": "AI-Powered RatHat Android Trojan Steals Bank Credentials, PINs and MFA Codes"
+  },
+  "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html": {
+    "ts": "2026-09-19T09:18:13.799109+00:00",
+    "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up"
+  },
+  "https://cybersecuritynews.com/bragjack-ai-agent-hijacking/": {
+    "ts": "2026-09-19T09:18:13.932590+00:00",
+    "title": "BragJack Attack Lets Malicious Extensions Hijack AI Agents Across 5 Major Browsers"
+  },
+  "https://gbhackers.com/powershell-malware-abuses-registry-and-dns-txt-records/": {
+    "ts": "2026-09-19T09:18:14.090262+00:00",
+    "title": "PowerShell Malware Abuses Registry and DNS TXT Records to Deploy XMRig Crypto Miner"
+  },
+  "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html": {
+    "ts": "2026-09-19T09:18:14.224258+00:00",
+    "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories"
+  },
+  "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html": {
+    "ts": "2026-09-19T09:18:14.224269+00:00",
+    "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild"
   }
 }
