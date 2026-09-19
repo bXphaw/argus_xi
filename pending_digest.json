@@ -1,4 +1,15 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "TanStack Supply Chain Attack Lets Hackers Steal 170 Private CrowdSec GitHub Repositories",
+      "url": "https://cybersecuritynews.com/tanstack-supply-chain-attack/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html"
+    }
+  ],
   "last_sent_date": "2026-09-19"
 }

@@ -12602,5 +12602,25 @@
   "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html": {
     "ts": "2026-09-19T09:18:14.224269+00:00",
     "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild"
+  },
+  "https://gbhackers.com/google-gemini-ai-hacked-3-real-companies/": {
+    "ts": "2026-09-19T13:47:10.440929+00:00",
+    "title": "Google Gemini AI Hacked 3 Real Companies After Cybersecurity Test Exposed It to Internet"
+  },
+  "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/": {
+    "ts": "2026-09-19T13:47:13.535524+00:00",
+    "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first"
+  },
+  "https://cybersecuritynews.com/tanstack-supply-chain-attack/": {
+    "ts": "2026-09-19T13:47:13.746935+00:00",
+    "title": "TanStack Supply Chain Attack Lets Hackers Steal 170 Private CrowdSec GitHub Repositories"
+  },
+  "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html": {
+    "ts": "2026-09-19T13:47:13.952376+00:00",
+    "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws"
+  },
+  "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html": {
+    "ts": "2026-09-19T13:47:13.952399+00:00",
+    "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE"
   }
 }
