@@ -14,6 +14,16 @@
       "category": "new_technique",
       "title": "BragJack attacks hijack AI browser agents through malicious extensions",
       "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Autonomous AI Attacks: The Hugging Face Reality Check",
+      "url": "https://cybersecuritynews.com/autonomous-ai-attacks-the-hugging-face-reality-check/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "When Ransomware Targets AI Models: Defending the AI/ML Recovery Chain",
+      "url": "https://cybersecuritynews.com/when-ransomware-targets-ai-models-defending-the-ai-ml-recovery-chain/"
     }
   ],
   "last_sent_date": "2026-09-19"
