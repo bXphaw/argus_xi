@@ -12682,5 +12682,21 @@
   "https://www.helpnetsecurity.com/2026/09/20/week-in-review-cisco-patches-exploited-email-gateway-0-day-revolut-breach/": {
     "ts": "2026-09-20T10:57:00.395443+00:00",
     "title": "Week in review: Cisco patches exploited email gateway 0-day, Revolut breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/": {
+    "ts": "2026-09-20T14:38:57.102306+00:00",
+    "title": "Malicious npm packages evade install-script defenses at runtime"
+  },
+  "https://securityaffairs.com/199415/ai/ai-hallucination-nearly-triggered-a-us-china-military-confrontation.html": {
+    "ts": "2026-09-20T14:38:57.102327+00:00",
+    "title": "AI Hallucinations Nearly Triggered a US-China Military Confrontation"
+  },
+  "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/": {
+    "ts": "2026-09-20T14:38:57.204564+00:00",
+    "title": "Researchers escape OpenAI Codex sandbox to run commands on host"
+  },
+  "https://securityaffairs.com/199409/malware/security-affairs-malware-newsletter-round-115.html": {
+    "ts": "2026-09-20T14:38:57.204581+00:00",
+    "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 115"
   }
 }
