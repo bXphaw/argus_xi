@@ -1,30 +1,4 @@
 {
-  "items": [
-    {
-      "category": "new_technique",
-      "title": "TanStack Supply Chain Attack Lets Hackers Steal 170 Private CrowdSec GitHub Repositories",
-      "url": "https://cybersecuritynews.com/tanstack-supply-chain-attack/"
-    },
-    {
-      "category": "new_technique",
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html"
-    },
-    {
-      "category": "new_technique",
-      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/"
-    },
-    {
-      "category": "new_technique",
-      "title": "Autonomous AI Attacks: The Hugging Face Reality Check",
-      "url": "https://cybersecuritynews.com/autonomous-ai-attacks-the-hugging-face-reality-check/"
-    },
-    {
-      "category": "malware_windows",
-      "title": "When Ransomware Targets AI Models: Defending the AI/ML Recovery Chain",
-      "url": "https://cybersecuritynews.com/when-ransomware-targets-ai-models-defending-the-ai-ml-recovery-chain/"
-    }
-  ],
-  "last_sent_date": "2026-09-19"
+  "items": [],
+  "last_sent_date": "2026-09-20"
 }
