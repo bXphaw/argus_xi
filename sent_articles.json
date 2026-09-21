@@ -13046,5 +13046,73 @@
   "https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/": {
     "ts": "2026-09-21T20:55:08.492841+00:00",
     "title": "CrowdSec Confirms Source Code Stolen in Supply Chain Attack"
+  },
+  "https://securityaffairs.com/199494/laws-and-regulations/google-fined-e403-million-over-location-data-practices.html": {
+    "ts": "2026-09-21T23:56:26.783121+00:00",
+    "title": "Google Fined \u20ac403 Million Over Location Data Practices"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/": {
+    "ts": "2026-09-21T23:56:29.361830+00:00",
+    "title": "Microsoft: September updates break File History backup feature"
+  },
+  "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/": {
+    "ts": "2026-09-21T23:57:15.405556+00:00",
+    "title": "BigCommerce alerts merchants of data breach linked to Ribon apps"
+  },
+  "https://research.checkpoint.com/2026/21st-september-threat-intelligence-report/": {
+    "ts": "2026-09-21T23:57:15.534438+00:00",
+    "title": "21st September \u2013 Threat Intelligence Report"
+  },
+  "https://cybersecuritynews.com/windows-updates-breaks-file-history-backup/": {
+    "ts": "2026-09-21T23:57:15.534457+00:00",
+    "title": "Microsoft Confirms September 2026 Windows Updates Break File History Backups"
+  },
+  "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs": {
+    "ts": "2026-09-21T23:57:15.534461+00:00",
+    "title": "How AI Agents Can Trigger Runaway Costs for Enterprises"
+  },
+  "https://gbhackers.com/new-cache-key-injection-attack/": {
+    "ts": "2026-09-21T23:57:15.629492+00:00",
+    "title": "New Cache Key Injection Attack Lets Hackers Bypass Access Controls and Poison Nginx Caches"
+  },
+  "https://www.corporatecomplianceinsights.com/grc-news-roundup-deloitte-onspring-bloomberg-lexisnexis-more/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=grc-news-roundup-deloitte-onspring-bloomberg-lexisnexis-more": {
+    "ts": "2026-09-21T23:57:15.724634+00:00",
+    "title": "GRC News Roundup: Deloitte, Onspring, Bloomberg, LexisNexis & More"
+  },
+  "https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018": {
+    "ts": "2026-09-21T23:57:15.820114+00:00",
+    "title": "Anthropic-linked CVEs pile up, attackers mostly shrug"
+  },
+  "https://www.volexity.com/blog/2026/09/21/mind-the-patch-gap-part-2-fake-websites-used-to-deploy-chrome-windows-0-day-exploits/": {
+    "ts": "2026-09-21T23:57:15.922135+00:00",
+    "title": "Mind the (Patch) Gap, Part 2: Fake Websites Used to Deploy Chrome & Windows 0-Day Exploits"
+  },
+  "https://cybersecuritynews.com/chatgpt-ad-tracking-cookie-follows-users/": {
+    "ts": "2026-09-21T23:57:16.023424+00:00",
+    "title": "ChatGPT Ad Tracking Cookie Follows Users Across Third-Party Advertiser Websites"
+  },
+  "https://gbhackers.com/terraform-lock-files/": {
+    "ts": "2026-09-21T23:57:16.126328+00:00",
+    "title": "Hackers Weaponize Terraform Lock Files to Infect DevOps Engineers With macOS Backdoors"
+  },
+  "https://cyberinsurancenews.org/water-utility-cyber-insurance-alarm-attacks/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=hackers-silenced-the-water-alarms-insurers-are-being-asked-to-fix-it": {
+    "ts": "2026-09-21T23:57:16.223660+00:00",
+    "title": "Hackers Silenced The Water Alarms. Insurers Are Being Asked To Fix It"
+  },
+  "https://www.theregister.com/security/2026/09/21/rustaceans-warned-of-job-interviews-with-a-malicious-payload/5297690": {
+    "ts": "2026-09-21T23:57:16.223704+00:00",
+    "title": "Rustaceans warned of job interviews with a malicious payload"
+  },
+  "https://cybersecuritynews.com/leaky-tls-certificate/": {
+    "ts": "2026-09-21T23:57:16.323342+00:00",
+    "title": "Leaky TLS Certificate Exposes North Korea\u2019s Hangro VPN Infrastructure Across Two Countries"
+  },
+  "https://gbhackers.com/heif-heist-image-flaws/": {
+    "ts": "2026-09-21T23:57:16.454931+00:00",
+    "title": "HEIF Heist Image Flaws Let Attackers Gain RCE Across Meta, Slack and GitHub Enterprise"
+  },
+  "https://digitalitnews.com/silent-push-expands-first-party-infrastructure-intelligence/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=silent-push-expands-first-party-infrastructure-intelligence": {
+    "ts": "2026-09-21T23:57:16.454950+00:00",
+    "title": "Silent Push Expands First-Party Infrastructure Intelligence"
   }
 }

@@ -94,6 +94,31 @@
       "category": "malware_windows",
       "title": "Hackers Abuse Microsoft Teams to Pose as IT Support and Steal Employee Passwords",
       "url": "https://gbhackers.com/hackers-abuse-microsoft-teams/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "21st September \u2013 Threat Intelligence Report",
+      "url": "https://research.checkpoint.com/2026/21st-september-threat-intelligence-report/"
+    },
+    {
+      "category": "new_technique",
+      "title": "New Cache Key Injection Attack Lets Hackers Bypass Access Controls and Poison Nginx Caches",
+      "url": "https://gbhackers.com/new-cache-key-injection-attack/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Silenced The Water Alarms. Insurers Are Being Asked To Fix It",
+      "url": "https://cyberinsurancenews.org/water-utility-cyber-insurance-alarm-attacks/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=hackers-silenced-the-water-alarms-insurers-are-being-asked-to-fix-it"
+    },
+    {
+      "category": "new_technique",
+      "title": "Leaky TLS Certificate Exposes North Korea\u2019s Hangro VPN Infrastructure Across Two Countries",
+      "url": "https://cybersecuritynews.com/leaky-tls-certificate/"
+    },
+    {
+      "category": "new_technique",
+      "title": "HEIF Heist Image Flaws Let Attackers Gain RCE Across Meta, Slack and GitHub Enterprise",
+      "url": "https://gbhackers.com/heif-heist-image-flaws/"
     }
   ],
   "last_sent_date": "2026-09-21"
