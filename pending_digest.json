@@ -1,25 +1,4 @@
 {
-  "items": [
-    {
-      "category": "malware_other",
-      "title": "Malicious npm packages evade install-script defenses at runtime",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/"
-    },
-    {
-      "category": "new_technique",
-      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
-      "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/"
-    },
-    {
-      "category": "threat_actor",
-      "title": "Emperador and Qilin Add New Victims as Ransomware Activity Hits Healthcare and Swiss Mobility Sectors",
-      "url": "https://undercodenews.com/emperador-and-qilin-add-new-victims-as-ransomware-activity-hits-healthcare-and-swiss-mobility-sectors-video/#new_tab"
-    },
-    {
-      "category": "new_technique",
-      "title": "Intent injection attacks are a new worry for AI-native 6G networks",
-      "url": "https://www.helpnetsecurity.com/2026/09/21/6g-intent-injection-attacks/"
-    }
-  ],
-  "last_sent_date": "2026-09-20"
+  "items": [],
+  "last_sent_date": "2026-09-21"
 }
