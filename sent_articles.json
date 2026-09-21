@@ -12806,5 +12806,125 @@
   "https://rewterz.com/threat-advisory/windows-rdp-client-flaw-enables-remote-code-execution": {
     "ts": "2026-09-21T10:32:24.818882+00:00",
     "title": "Windows RDP Client Flaw Enables Remote Code Execution"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/": {
+    "ts": "2026-09-21T16:55:31.653927+00:00",
+    "title": "Google fined \u20ac403 million over location data privacy violations"
+  },
+  "https://cybersecuritynews.com/google-fined-e403-million/": {
+    "ts": "2026-09-21T16:55:31.653951+00:00",
+    "title": "Google Fined \u20ac403 Million for GDPR Violations Over Users\u2019 Location Data"
+  },
+  "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents": {
+    "ts": "2026-09-21T16:55:31.653955+00:00",
+    "title": "Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents"
+  },
+  "https://gbhackers.com/nighteagle-attack-chain/": {
+    "ts": "2026-09-21T16:55:31.833968+00:00",
+    "title": "NightEagle Uses BlueKeep and DCSync to Move Toward Active Directory Domain Controllers"
+  },
+  "https://www.helpnetsecurity.com/2026/09/21/taskstomp-windows-backdoor/": {
+    "ts": "2026-09-21T16:55:32.004047+00:00",
+    "title": "The TASK#STOMP Windows backdoor takes Wi-Fi passwords, screenshots, and business files"
+  },
+  "https://www.malwarebytes.com/blog/podcast/2026/09/the-ai-plot-to-scan-and-destroy-books-lock-and-code-s07e19": {
+    "ts": "2026-09-21T16:55:32.169026+00:00",
+    "title": "The AI plot to scan and destroy books (Lock and Code S07E19)"
+  },
+  "https://securityaffairs.com/199471/malware/chainscript-the-rat-that-hides-its-command-server-inside-a-blockchain-contract.html": {
+    "ts": "2026-09-21T16:55:32.362800+00:00",
+    "title": "ChainScript: the RAT that hides its command server inside a blockchain contract"
+  },
+  "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/": {
+    "ts": "2026-09-21T16:55:32.548967+00:00",
+    "title": "Fake LastPass Installers Push Kernel-Level EDR Killer, \u2018Rapuncel\u2019 Stealer"
+  },
+  "https://gbhackers.com/peer2profit-proxy-threat/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=peer2profit-turns-employee-devices-into-astroproxy-nodes-that-can-expose-internal-networks": {
+    "ts": "2026-09-21T16:55:32.727259+00:00",
+    "title": "Peer2Profit Turns Employee Devices Into AstroProxy Nodes That Can Expose Internal Networks"
+  },
+  "https://socradar.io/blog/click2shell-wordpress-rce-chain/": {
+    "ts": "2026-09-21T16:55:32.887947+00:00",
+    "title": "Click2Shell: WordPress Flaw Enables RCE Chain"
+  },
+  "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html": {
+    "ts": "2026-09-21T16:55:33.067631+00:00",
+    "title": "\u26a1 Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks"
+  },
+  "https://www.zscaler.com/blogs/security-research/vidar-adds-virtual-machine-and-custom-stream-ciphers-string-obfuscation": {
+    "ts": "2026-09-21T16:55:33.245925+00:00",
+    "title": "Vidar Adds Virtual Machine and Custom Stream Ciphers For String Obfuscation"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/": {
+    "ts": "2026-09-21T16:55:33.245945+00:00",
+    "title": "Microsoft fixes broken Excel copy and paste for all Office users"
+  },
+  "https://cybersecuritynews.com/aws-automatically-quarantines-exposed-iam-keys/": {
+    "ts": "2026-09-21T16:55:33.245949+00:00",
+    "title": "AWS Automatically Quarantines Exposed IAM Keys Within 10 Seconds of GitHub Leak"
+  },
+  "https://gbhackers.com/10-malicious-npm-packages/": {
+    "ts": "2026-09-21T16:55:33.411969+00:00",
+    "title": "10 Malicious npm Packages Linked to Runtime Malware Campaign With Millions of Downloads"
+  },
+  "https://www.helpnetsecurity.com/2026/09/21/north-korean-hackers-contagious-interview-defenses/": {
+    "ts": "2026-09-21T16:55:33.602207+00:00",
+    "title": "North Korea\u2019s job interview scam runs both ways"
+  },
+  "https://www.malwarebytes.com/blog/threat-intel/2026/09/the-fake-sites-using-a-cheap-toolkit-to-sell-2000-ai-subscriptions": {
+    "ts": "2026-09-21T16:55:33.784388+00:00",
+    "title": "The fake sites using a cheap toolkit to sell $2,000 AI subscriptions"
+  },
+  "https://securityaffairs.com/199460/hacking/a-byd-shark-6-hack-shows-the-risks-of-connected-cars.html": {
+    "ts": "2026-09-21T16:55:33.965656+00:00",
+    "title": "A BYD Shark 6 Hack Shows the Risks of Connected Cars"
+  },
+  "https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/": {
+    "ts": "2026-09-21T16:55:34.152010+00:00",
+    "title": "CISO Conversations: Noopur Davis \u2013 The Accidental Global CISO at Comcast"
+  },
+  "https://securitypointbreak.com/2026/08/20/your-employees-side-hustle-could-be-your-new-attack-surface/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=your-employees-side-hustle-could-be-your-new-attack-surface": {
+    "ts": "2026-09-21T16:55:34.335858+00:00",
+    "title": "Your Employee\u2019s Side Hustle Could Be Your New Attack Surface"
+  },
+  "https://socradar.io/blog/clop-hack-shinyhunters-hijacks-data-leak-site/": {
+    "ts": "2026-09-21T16:55:34.515915+00:00",
+    "title": "Clop Hack: ShinyHunters Hijacks Data Leak Site"
+  },
+  "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html": {
+    "ts": "2026-09-21T16:55:34.699654+00:00",
+    "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/": {
+    "ts": "2026-09-21T16:55:34.699674+00:00",
+    "title": "FBI's CJIS v6.1: What Security Teams Need to Know."
+  },
+  "https://cybersecuritynews.com/claude-code-agent-file-deletion/": {
+    "ts": "2026-09-21T16:55:34.699678+00:00",
+    "title": "Claude Code Agent Allegedly Deletes 48,000 Files in 103 Seconds"
+  },
+  "https://gbhackers.com/payload-ransomware-abuses-active-directory-group-policy/": {
+    "ts": "2026-09-21T16:55:34.864264+00:00",
+    "title": "PAYLOAD Ransomware Abuses Active Directory Group Policy to Disrupt Entire Windows Domain"
+  },
+  "https://www.helpnetsecurity.com/2026/09/21/ireland-google-users-location-data-processing-fine/": {
+    "ts": "2026-09-21T16:55:35.047664+00:00",
+    "title": "Google hit with \u20ac403 million GDPR fine over location tracking"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/09/geminis-breach-of-real-companies-exposes-an-ai-guardrail-problem": {
+    "ts": "2026-09-21T16:55:35.230662+00:00",
+    "title": "Gemini\u2019s breach of real companies exposes an AI guardrail problem"
+  },
+  "https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/": {
+    "ts": "2026-09-21T16:55:35.415192+00:00",
+    "title": "Dragos Completes NetRise and runZero Acquisitions Following Accenture Deal"
+  },
+  "https://itnerd.blog/2026/08/20/new-research-finds-legitimate-bandwidth-sharing-app-can-expose-corporate-networks-to-proxy-users/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=new-research-finds-legitimate-bandwidth-sharing-app-can-expose-corporate-networks-to-proxy-users": {
+    "ts": "2026-09-21T16:55:35.599363+00:00",
+    "title": "New Research Finds Legitimate Bandwidth-Sharing App Can Expose Corporate Networks to Proxy Users"
+  },
+  "https://socradar.io/blog/dominican-republic-celestial-malware-cvv-auction/": {
+    "ts": "2026-09-21T16:55:35.785295+00:00",
+    "title": "Dominican Republic Leak, Celestial Malware, Money Network Sale, CVV Auction, and US VPN Access"
   }
 }

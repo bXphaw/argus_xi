@@ -1,4 +1,45 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "apt_campaign",
+      "title": "NightEagle Uses BlueKeep and DCSync to Move Toward Active Directory Domain Controllers",
+      "url": "https://gbhackers.com/nighteagle-attack-chain/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "The TASK#STOMP Windows backdoor takes Wi-Fi passwords, screenshots, and business files",
+      "url": "https://www.helpnetsecurity.com/2026/09/21/taskstomp-windows-backdoor/"
+    },
+    {
+      "category": "new_technique",
+      "title": "\u26a1 Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Vidar Adds Virtual Machine and Custom Stream Ciphers For String Obfuscation",
+      "url": "https://www.zscaler.com/blogs/security-research/vidar-adds-virtual-machine-and-custom-stream-ciphers-string-obfuscation"
+    },
+    {
+      "category": "malware_other",
+      "title": "10 Malicious npm Packages Linked to Runtime Malware Campaign With Millions of Downloads",
+      "url": "https://gbhackers.com/10-malicious-npm-packages/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Clop Hack: ShinyHunters Hijacks Data Leak Site",
+      "url": "https://socradar.io/blog/clop-hack-shinyhunters-hijacks-data-leak-site/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+      "url": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "PAYLOAD Ransomware Abuses Active Directory Group Policy to Disrupt Entire Windows Domain",
+      "url": "https://gbhackers.com/payload-ransomware-abuses-active-directory-group-policy/"
+    }
+  ],
   "last_sent_date": "2026-09-21"
 }
