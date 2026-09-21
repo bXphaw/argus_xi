@@ -39,6 +39,61 @@
       "category": "malware_windows",
       "title": "PAYLOAD Ransomware Abuses Active Directory Group Policy to Disrupt Entire Windows Domain",
       "url": "https://gbhackers.com/payload-ransomware-abuses-active-directory-group-policy/"
+    },
+    {
+      "category": "new_technique",
+      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "ShinyHunters Hacked Clop. Now What About Clop's Victims?",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims"
+    },
+    {
+      "category": "malware_windows",
+      "title": "New Rapuncel Infostealer Abuses Microsoft-Signed Driver to Disable 145 Security Tools",
+      "url": "https://gbhackers.com/new-rapuncel-infostealer-abuses-microsoft-signed-driver/"
+    },
+    {
+      "category": "new_technique",
+      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films"
+    },
+    {
+      "category": "new_technique",
+      "title": "BigDiskBuster Windows Defender DoS Vulnerability Blocks Platform and Signature Updates",
+      "url": "https://gbhackers.com/bigdiskbuster-windows-defender-dos-vulnerability/"
+    },
+    {
+      "category": "malware_android",
+      "title": "RatHat Android Trojan Uses AI for Automation",
+      "url": "https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Rust Team Members and Popular Crate Owners Targeted via Video Calls",
+      "url": "https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers",
+      "url": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=researchers-built-a-fake-crypto-startup-and-hired-three-suspected-north-korean-it-workers"
+    },
+    {
+      "category": "malware_other",
+      "title": "Malicious npm Package With 2 Million Downloads Hides Malware in Runtime Code",
+      "url": "https://cybersecuritynews.com/malicious-npm-package/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Abuse Microsoft Teams to Pose as IT Support and Steal Employee Passwords",
+      "url": "https://gbhackers.com/hackers-abuse-microsoft-teams/"
     }
   ],
   "last_sent_date": "2026-09-21"
