@@ -13130,5 +13130,65 @@
   "https://www.helpnetsecurity.com/2026/09/22/davmail-7-0-0-microsoft-graph/": {
     "ts": "2026-09-22T04:11:10.634004+00:00",
     "title": "DavMail 7.0.0 puts most of its work into Microsoft Graph"
+  },
+  "https://asec.ahnlab.com/en/95519/": {
+    "ts": "2026-09-22T09:43:32.894112+00:00",
+    "title": "August 2026 Infostealer Trend Report"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/": {
+    "ts": "2026-09-22T09:43:33.083407+00:00",
+    "title": "CISA orders feds to patch Zyxel flaw exploited for data theft"
+  },
+  "https://blog.eclecticiq.com/intelligence-center-3.9": {
+    "ts": "2026-09-22T09:43:33.083444+00:00",
+    "title": "Intelligence Center 3.9: More AI provider choice, MITRE ATT&CK v19.1 support, and more"
+  },
+  "https://www.helpnetsecurity.com/2026/09/22/fake-ai-subscription-sites-google-sign-in/": {
+    "ts": "2026-09-22T09:43:33.083448+00:00",
+    "title": "Scammers use genuine Google sign-ins to sell costly, unverified AI subscriptions"
+  },
+  "https://securityaffairs.com/199506/uncategorized/contagious-interview-30000-devices-infected-by-a-fake-job-interview.html": {
+    "ts": "2026-09-22T09:43:33.272351+00:00",
+    "title": "Contagious Interview: 30,000 devices infected by a fake job interview"
+  },
+  "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/": {
+    "ts": "2026-09-22T09:43:33.462144+00:00",
+    "title": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme"
+  },
+  "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html": {
+    "ts": "2026-09-22T09:43:33.651256+00:00",
+    "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing"
+  },
+  "https://www.welivesecurity.com/en/business-security/smb-cybersecurity-squeeze-ai-agents-work-old-attacks-overdrive/": {
+    "ts": "2026-09-22T09:43:33.846571+00:00",
+    "title": "The SMB cybersecurity squeeze: AI agents at work, old attacks in overdrive"
+  },
+  "https://asec.ahnlab.com/en/95516/": {
+    "ts": "2026-09-22T09:43:34.035396+00:00",
+    "title": "Larva-25012: A 2026 Proxyware Distribution Campaign by the Threat Actor (DigitalPulse, SOAX, Appsalt, IPRoyal)"
+  },
+  "https://www.helpnetsecurity.com/2026/09/22/5g-subscriber-tracking-research/": {
+    "ts": "2026-09-22T09:43:34.222627+00:00",
+    "title": "A cheap fake base station can still track 5G subscribers"
+  },
+  "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html": {
+    "ts": "2026-09-22T09:43:34.412912+00:00",
+    "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor"
+  },
+  "https://www.helpnetsecurity.com/2026/09/22/passwork-nis2-compliance-guide/": {
+    "ts": "2026-09-22T09:43:34.412931+00:00",
+    "title": "Passwork NIS2 efficiency guide: Save your team hours before the 2026 audit"
+  },
+  "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html": {
+    "ts": "2026-09-22T09:43:34.412935+00:00",
+    "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session"
+  },
+  "https://www.helpnetsecurity.com/2026/09/22/idc-european-ai-spending/": {
+    "ts": "2026-09-22T09:43:34.412938+00:00",
+    "title": "European AI spending is on track to reach nearly $470 billion by 2030"
+  },
+  "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html": {
+    "ts": "2026-09-22T09:43:34.602780+00:00",
+    "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access"
   }
 }
