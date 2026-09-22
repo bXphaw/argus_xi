@@ -13310,5 +13310,125 @@
   "https://www.silentpush.com/video/explore-silent-push-6-1/?utm_source=rss&utm_medium=rss&utm_campaign=explore-silent-push-6-1": {
     "ts": "2026-09-22T14:32:38.536561+00:00",
     "title": "Explore Silent Push 6.1"
+  },
+  "https://cybersecuritynews.com/aembit-launches-support-for-okta-cross-app-access-extending-enterprise-identity-controls-to-ai-agents/": {
+    "ts": "2026-09-22T18:38:14.673973+00:00",
+    "title": "Aembit Launches Support for Okta Cross App Access, Extending Enterprise Identity Controls to AI Agents"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/": {
+    "ts": "2026-09-22T18:39:59.371267+00:00",
+    "title": "New ClosedQuorum Windows malware uses AI for attack decisions"
+  },
+  "https://cofense.com/blog/from-payment-plan-to-ransomware-inside-a-global-group-attack": {
+    "ts": "2026-09-22T18:39:59.499429+00:00",
+    "title": "From Payment Plan to Ransomware - Inside a Global Group Attack"
+  },
+  "https://cybersecuritynews.com/check-point-management-server-0-day-exploited/": {
+    "ts": "2026-09-22T18:39:59.499438+00:00",
+    "title": "Check Point Management Server 0-Day Vulnerability Actively Exploited in Attacks"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data": {
+    "ts": "2026-09-22T18:39:59.632833+00:00",
+    "title": "Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data"
+  },
+  "https://gbhackers.com/aembit-launches-support-for-okta-cross-app-access-extending-enterprise-identity-controls-to-ai-agents/": {
+    "ts": "2026-09-22T18:39:59.632841+00:00",
+    "title": "Aembit Launches Support for Okta Cross App Access, Extending Enterprise Identity Controls to AI Agents"
+  },
+  "https://www.helpnetsecurity.com/2026/09/22/csc-online-intellectual-property-risk-report/": {
+    "ts": "2026-09-22T18:39:59.748354+00:00",
+    "title": "The next intellectual property thief may sound like your CEO"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/some-cheap-smart-glasses-are-a-security-disaster": {
+    "ts": "2026-09-22T18:39:59.882517+00:00",
+    "title": "Some cheap smart glasses are a security disaster"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/": {
+    "ts": "2026-09-22T18:40:00.012846+00:00",
+    "title": "Unmasking EvilTokens: Getting to the root of device code phishing"
+  },
+  "https://www.recordedfuture.com/blog/agent-running-ai": {
+    "ts": "2026-09-22T18:40:00.141894+00:00",
+    "title": "Agent Running in the Age of AI"
+  },
+  "https://securityaffairs.com/199538/hacking/chaotic-eclipse-released-bigdiskbuster-a-poc-for-windows-defender-update-dos-zero-day.html": {
+    "ts": "2026-09-22T18:40:00.274617+00:00",
+    "title": "Chaotic Eclipse Released\u00a0BigDiskBuster, A PoC For Windows Defender Update\u00a0DoS Zero-Day"
+  },
+  "https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/": {
+    "ts": "2026-09-22T18:40:00.274636+00:00",
+    "title": "BigCommerce Data Stolen via Ribon Apps Hack"
+  },
+  "https://cyberinsurancenews.org/data-center-cyber-claims-allianz-accumulation/#google_vignette#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=data-center-cyber-claims-rank-second-the-larger-exposure-is-invisible": {
+    "ts": "2026-09-22T18:40:00.274639+00:00",
+    "title": "Data Center Cyber Claims Rank Second. The Larger Exposure Is Invisible."
+  },
+  "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html": {
+    "ts": "2026-09-22T18:40:00.397522+00:00",
+    "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises"
+  },
+  "https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385": {
+    "ts": "2026-09-22T18:40:00.397536+00:00",
+    "title": "ShinyHunters claims FBI hack: 'This is NOT financially motivated'"
+  },
+  "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/": {
+    "ts": "2026-09-22T18:40:00.397539+00:00",
+    "title": "Reducing shadow IT visibility gaps with Wazuh"
+  },
+  "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real": {
+    "ts": "2026-09-22T18:40:00.519547+00:00",
+    "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real"
+  },
+  "https://gbhackers.com/red-hat-openshift-flaw/": {
+    "ts": "2026-09-22T18:40:00.647533+00:00",
+    "title": "Red Hat OpenShift Flaw Lets Attackers Poison Disconnected Registries With Malicious Releases"
+  },
+  "https://www.helpnetsecurity.com/2026/09/22/zyxel-switches-cve-2026-7273-vulnerability-exploited/": {
+    "ts": "2026-09-22T18:40:00.765897+00:00",
+    "title": "Attacker compromised nearly 1000 Zyxel switches since August (CVE-2026-7273)"
+  },
+  "https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/": {
+    "ts": "2026-09-22T18:40:00.907946+00:00",
+    "title": "Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers"
+  },
+  "https://www.citybiz.co/article/892608/silent-push-kairos-data-among-16-reston-companies-on-2026-inc-5000-list/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=silent-push-kairos-data-among-16-reston-companies-on-2026-inc-5000-list": {
+    "ts": "2026-09-22T18:40:01.051153+00:00",
+    "title": "Silent Push, Kairos Data Among 16 Reston Companies on 2026 Inc. 5000 List"
+  },
+  "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html": {
+    "ts": "2026-09-22T18:40:01.051161+00:00",
+    "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials"
+  },
+  "https://www.theregister.com/security/2026/09/22/nightmareeclipses-latest-zero-day-leaves-microsoft-defender-stuck-in-the-past/5298320": {
+    "ts": "2026-09-22T18:40:01.051164+00:00",
+    "title": "NightmareEclipse's latest zero-day leaves Microsoft Defender stuck in the past"
+  },
+  "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/": {
+    "ts": "2026-09-22T18:40:01.051166+00:00",
+    "title": "Check Point warns of Management Server zero-day exploited in attacks"
+  },
+  "https://cybersecuritynews.com/scaling-soc-capabilities-how-threat-intelligence-cuts-triage-time-and-burnout/": {
+    "ts": "2026-09-22T18:40:01.051169+00:00",
+    "title": "Scaling SOC Capabilities: How Threat Intelligence Cuts Triage Time and Burnout"
+  },
+  "https://gbhackers.com/linux-bambootoken-malware/": {
+    "ts": "2026-09-22T18:40:01.174735+00:00",
+    "title": "Linux BambooToken Malware Uses MQTT C2 for Remote Shell Access and File Exfiltration"
+  },
+  "https://www.helpnetsecurity.com/2026/09/22/ai-crawler-traffic-online-stores/": {
+    "ts": "2026-09-22T18:40:01.174745+00:00",
+    "title": "Somewhere in your traffic logs, a bot is doing more than looking"
+  },
+  "https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/": {
+    "ts": "2026-09-22T18:40:01.284339+00:00",
+    "title": "Malicious B-tree NPM Package Accumulates Millions of Downloads"
+  },
+  "https://www.silentpush.com/video/silent-push-mcp-server-turn-one-phishing-domain-into-a-full-threat-hunt/?utm_source=rss&utm_medium=rss&utm_campaign=silent-push-mcp-server-turn-one-phishing-domain-into-a-full-threat-hunt": {
+    "ts": "2026-09-22T18:40:01.284350+00:00",
+    "title": "Silent Push MCP Server: Turn One Phishing Domain Into a Full Threat Hunt"
+  },
+  "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html": {
+    "ts": "2026-09-22T18:40:01.418443+00:00",
+    "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates"
   }
 }

@@ -29,6 +29,41 @@
       "category": "new_technique",
       "title": "Hackers Exploit Veeam Agent Vulnerability to Gain SYSTEM-Level Access on Windows",
       "url": "https://gbhackers.com/hackers-exploit-veeam-agent-vulnerability/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+      "url": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "From Payment Plan to Ransomware - Inside a Global Group Attack",
+      "url": "https://cofense.com/blog/from-payment-plan-to-ransomware-inside-a-global-group-attack"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+      "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Linux BambooToken Malware Uses MQTT C2 for Remote Shell Access and File Exfiltration",
+      "url": "https://gbhackers.com/linux-bambootoken-malware/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Malicious B-tree NPM Package Accumulates Millions of Downloads",
+      "url": "https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+      "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html"
     }
   ],
   "last_sent_date": "2026-09-22"
