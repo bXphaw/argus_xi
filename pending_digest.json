@@ -1,4 +1,35 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "The Closed Quorum: Inside the first reported autonomous AI C2 implant",
+      "url": "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "New TASK#STOMP Backdoor Uses PowerShell to Steal Documents and Wi-Fi Passwords",
+      "url": "https://cybersecuritynews.com/new-taskstomp-backdoor/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "TASK#STOMP PowerShell Backdoor Steals Business Documents and Executes Remote Commands",
+      "url": "https://gbhackers.com/taskstomp-powershell-backdoor/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Brief hijack makes Elsevier domains redirect to LAPSUS$ \u201cChapter II\u201d page",
+      "url": "https://www.helpnetsecurity.com/2026/09/22/elsevier-domains-hijack-lapsus/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Researchers used Claude to hack OpenAI",
+      "url": "https://www.malwarebytes.com/blog/news/2026/09/researchers-used-claude-to-hack-openai"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Exploit Veeam Agent Vulnerability to Gain SYSTEM-Level Access on Windows",
+      "url": "https://gbhackers.com/hackers-exploit-veeam-agent-vulnerability/"
+    }
+  ],
   "last_sent_date": "2026-09-22"
 }

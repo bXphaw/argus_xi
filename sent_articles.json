@@ -13190,5 +13190,125 @@
   "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html": {
     "ts": "2026-09-22T09:43:34.602780+00:00",
     "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access"
+  },
+  "https://securityaffairs.com/199518/hacking/u-s-cisa-adds-zyxel-flaw-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-09-22T14:30:33.406579+00:00",
+    "title": "U.S. CISA adds Zyxel flaw to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/": {
+    "ts": "2026-09-22T14:32:37.468287+00:00",
+    "title": "Webinar tomorrow: Inside real-world Google Workspace breaches"
+  },
+  "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/": {
+    "ts": "2026-09-22T14:32:37.587479+00:00",
+    "title": "The Closed Quorum: Inside the first reported autonomous AI C2 implant"
+  },
+  "https://cybersecuritynews.com/microsoft-sharepoint-rce-flaw/": {
+    "ts": "2026-09-22T14:32:37.587496+00:00",
+    "title": "Microsoft SharePoint Flaw Lets Attackers Execute Code Remotely With Low Privileges"
+  },
+  "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle": {
+    "ts": "2026-09-22T14:32:37.587501+00:00",
+    "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds"
+  },
+  "https://www.forescout.com/blog/what-47700-segments-reveal-about-network-segmentation/": {
+    "ts": "2026-09-22T14:32:37.587504+00:00",
+    "title": "What 47,700 Segments Reveal About Network Segmentation"
+  },
+  "https://gbhackers.com/critical-linux-kvm-flaw/": {
+    "ts": "2026-09-22T14:32:37.636684+00:00",
+    "title": "Critical Linux KVM Flaw Enables Guest-to-Host Escape on ARM64 Systems"
+  },
+  "https://www.helpnetsecurity.com/2026/09/22/cairn-open-source-framework-ai-malware-closedquorum/": {
+    "ts": "2026-09-22T14:32:37.690397+00:00",
+    "title": "Researchers uncover malware that uses AI to choose its next move"
+  },
+  "https://www.malwarebytes.com/blog/bugs/2026/09/metas-muse-ai-assistant-has-a-zero-day-that-can-turn-it-into-a-mac-backdoor": {
+    "ts": "2026-09-22T14:32:37.737491+00:00",
+    "title": "Meta\u2019s Muse AI assistant has a zero-day that can turn it into a Mac backdoor"
+  },
+  "https://securityaffairs.com/199532/security/public-poc-exposes-critical-veeam-agent-privilege-escalation.html": {
+    "ts": "2026-09-22T14:32:37.785253+00:00",
+    "title": "Public PoC Exposes Critical Veeam Agent Privilege Escalation"
+  },
+  "https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/": {
+    "ts": "2026-09-22T14:32:37.832495+00:00",
+    "title": "Cyera Raises $400 Million at $12+ Billion Valuation"
+  },
+  "https://news.risky.biz/risky-bulletin-academics-find-source-code-overlaps-between-geedge-and-chinas-great-firewall/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=risky-bulletin-academics-find-source-code-overlaps-between-geedge-and-chinas-great-firewall": {
+    "ts": "2026-09-22T14:32:37.879493+00:00",
+    "title": "Risky Bulletin: Academics find source code overlaps between Geedge and China's Great Firewall"
+  },
+  "https://www.security.com/feature-stories/ses-complete-certified-leader-av-comparatives-epr-test": {
+    "ts": "2026-09-22T14:32:37.926864+00:00",
+    "title": "SES Complete Is a Certified Leader in the AV-Comparatives EPR Test"
+  },
+  "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html": {
+    "ts": "2026-09-22T14:32:37.974571+00:00",
+    "title": "AI Agents Are Rewriting the Rules of Lateral Movement"
+  },
+  "https://www.intego.com/mac-security-blog/how-to-keep-your-mac-safe-at-universities-and-public-networks/": {
+    "ts": "2026-09-22T14:32:38.021797+00:00",
+    "title": "How to use public Wi-Fi safely on your Mac"
+  },
+  "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/": {
+    "ts": "2026-09-22T14:32:38.069115+00:00",
+    "title": "D-Link warns of max severity zero-day bug in DIR-822A routers"
+  },
+  "https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/": {
+    "ts": "2026-09-22T14:32:38.069130+00:00",
+    "title": "Introducing CAIRN: Frontier tracking for AI-integrated malware"
+  },
+  "https://cybersecuritynews.com/new-taskstomp-backdoor/": {
+    "ts": "2026-09-22T14:32:38.116172+00:00",
+    "title": "New TASK#STOMP Backdoor Uses PowerShell to Steal Documents and Wi-Fi Passwords"
+  },
+  "https://gbhackers.com/taskstomp-powershell-backdoor/": {
+    "ts": "2026-09-22T14:32:38.162275+00:00",
+    "title": "TASK#STOMP PowerShell Backdoor Steals Business Documents and Executes Remote Commands"
+  },
+  "https://www.helpnetsecurity.com/2026/09/22/elsevier-domains-hijack-lapsus/": {
+    "ts": "2026-09-22T14:32:38.208420+00:00",
+    "title": "Brief hijack makes Elsevier domains redirect to LAPSUS$ \u201cChapter II\u201d page"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/researchers-used-claude-to-hack-openai": {
+    "ts": "2026-09-22T14:32:38.257004+00:00",
+    "title": "Researchers used Claude to hack OpenAI"
+  },
+  "https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/": {
+    "ts": "2026-09-22T14:32:38.302021+00:00",
+    "title": "Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity"
+  },
+  "https://cybersecuritynews.com/bandwidth-sharing-app/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=bandwidth-sharing-app-can-turn-employee-devices-into-gateways-to-internal-networks": {
+    "ts": "2026-09-22T14:32:38.351749+00:00",
+    "title": "Bandwidth-Sharing App Can Turn Employee Devices Into Gateways to Internal Networks"
+  },
+  "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html": {
+    "ts": "2026-09-22T14:32:38.398420+00:00",
+    "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/": {
+    "ts": "2026-09-22T14:32:38.442607+00:00",
+    "title": "New Windows Defender zero-day blocks Microsoft antivirus updates"
+  },
+  "https://cybersecuritynews.com/linux-kvm-arm64-vulnerability/": {
+    "ts": "2026-09-22T14:32:38.490208+00:00",
+    "title": "Linux KVM/arm64 Vulnerability Lets Attackers Escape Virtual Machines and Gain Host Access"
+  },
+  "https://gbhackers.com/hackers-exploit-veeam-agent-vulnerability/": {
+    "ts": "2026-09-22T14:32:38.536538+00:00",
+    "title": "Hackers Exploit Veeam Agent Vulnerability to Gain SYSTEM-Level Access on Windows"
+  },
+  "https://www.helpnetsecurity.com/2026/09/22/cisos-deepfake-incidents-social-engineering-survey/": {
+    "ts": "2026-09-22T14:32:38.536554+00:00",
+    "title": "The latest deepfake numbers give CISOs plenty to worry about"
+  },
+  "https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/": {
+    "ts": "2026-09-22T14:32:38.536558+00:00",
+    "title": "Only 13% of OT Network Segments Are Fully Isolated: Analysis"
+  },
+  "https://www.silentpush.com/video/explore-silent-push-6-1/?utm_source=rss&utm_medium=rss&utm_campaign=explore-silent-push-6-1": {
+    "ts": "2026-09-22T14:32:38.536561+00:00",
+    "title": "Explore Silent Push 6.1"
   }
 }
