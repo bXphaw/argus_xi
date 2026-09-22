@@ -119,6 +119,11 @@
       "category": "new_technique",
       "title": "HEIF Heist Image Flaws Let Attackers Gain RCE Across Meta, Slack and GitHub Enterprise",
       "url": "https://gbhackers.com/heif-heist-image-flaws/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Meta\u2019s Muse AI Agent 0-Day Vulnerability Allows Attackers to Hijack the Tool and Inject Malware",
+      "url": "https://cybersecuritynews.com/metas-muse-ai-agent-0-day-vulnerability/"
     }
   ],
   "last_sent_date": "2026-09-21"

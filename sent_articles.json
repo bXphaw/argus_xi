@@ -13114,5 +13114,21 @@
   "https://digitalitnews.com/silent-push-expands-first-party-infrastructure-intelligence/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=silent-push-expands-first-party-infrastructure-intelligence": {
     "ts": "2026-09-21T23:57:16.454950+00:00",
     "title": "Silent Push Expands First-Party Infrastructure Intelligence"
+  },
+  "https://cybersecuritynews.com/metas-muse-ai-agent-0-day-vulnerability/": {
+    "ts": "2026-09-22T04:11:10.633972+00:00",
+    "title": "Meta\u2019s Muse AI Agent 0-Day Vulnerability Allows Attackers to Hijack the Tool and Inject Malware"
+  },
+  "https://www.helpnetsecurity.com/2026/09/22/cybersecurity-jobs-available-right-now-september-22-2026/": {
+    "ts": "2026-09-22T04:11:10.633996+00:00",
+    "title": "Cybersecurity jobs available right now: September 22, 2026"
+  },
+  "https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/": {
+    "ts": "2026-09-22T04:11:10.634000+00:00",
+    "title": "US Proposes AI Incident Alert System in Talks With China, Bessent Says"
+  },
+  "https://www.helpnetsecurity.com/2026/09/22/davmail-7-0-0-microsoft-graph/": {
+    "ts": "2026-09-22T04:11:10.634004+00:00",
+    "title": "DavMail 7.0.0 puts most of its work into Microsoft Graph"
   }
 }
