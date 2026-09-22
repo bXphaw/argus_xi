@@ -13430,5 +13430,117 @@
   "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html": {
     "ts": "2026-09-22T18:40:01.418443+00:00",
     "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates"
+  },
+  "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html": {
+    "ts": "2026-09-22T21:53:42.388159+00:00",
+    "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/": {
+    "ts": "2026-09-22T21:55:21.653580+00:00",
+    "title": "Rogue external MFA providers can steal passwords during logins"
+  },
+  "https://cybersecuritynews.com/ai-agents-retail-credit-card-theft/": {
+    "ts": "2026-09-22T21:55:21.752453+00:00",
+    "title": "Autonomous AI Agents Hack Retailers for $25 and Steal 600,000 Credit Cards"
+  },
+  "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models": {
+    "ts": "2026-09-22T21:55:21.846623+00:00",
+    "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US"
+  },
+  "https://gbhackers.com/critical-maxkb-ai-agent-flaw/": {
+    "ts": "2026-09-22T21:55:21.948560+00:00",
+    "title": "Critical MaxKB AI Agent Flaw Lets Prompt Injection Execute System Commands"
+  },
+  "https://securityaffairs.com/199549/security/check-point-fixes-a-new-actively-exploited-critical-security-flaw.html": {
+    "ts": "2026-09-22T21:55:22.049441+00:00",
+    "title": "Check Point Fixes a New Actively Exploited Critical Security Flaw"
+  },
+  "https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/": {
+    "ts": "2026-09-22T21:55:22.150484+00:00",
+    "title": "WordPress Patches \u2018Click2Shell\u2019 Vulnerability"
+  },
+  "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435": {
+    "ts": "2026-09-22T21:55:22.251052+00:00",
+    "title": "Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions"
+  },
+  "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/": {
+    "ts": "2026-09-22T21:55:22.344772+00:00",
+    "title": "Sweden fines Milj\u00f6data $183,000 over breach affecting 2.2 million"
+  },
+  "https://cybersecuritynews.com/cairn-tool-for-tracking-ai-malware/": {
+    "ts": "2026-09-22T21:55:22.439668+00:00",
+    "title": "CAIRN \u2013 A New Tool to Track AI Malware That Operates Without Human Control"
+  },
+  "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service": {
+    "ts": "2026-09-22T21:55:22.536509+00:00",
+    "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service"
+  },
+  "https://gbhackers.com/hackers-abuse-stolen-bigcommerce-app-key/": {
+    "ts": "2026-09-22T21:55:22.536527+00:00",
+    "title": "Hackers Abuse Stolen BigCommerce App Key to Steal Master of Malt Customer Data"
+  },
+  "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html": {
+    "ts": "2026-09-22T21:55:22.633695+00:00",
+    "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers"
+  },
+  "https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300": {
+    "ts": "2026-09-22T21:55:22.741364+00:00",
+    "title": "Z.ai says sorry for slurping up your code, open sources ZCode"
+  },
+  "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/": {
+    "ts": "2026-09-22T21:55:22.847202+00:00",
+    "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data"
+  },
+  "https://cybersecuritynews.com/veeam-agent-flaw-exploited/": {
+    "ts": "2026-09-22T21:55:22.958670+00:00",
+    "title": "Veeam Agent Flaw Actively Exploited to Gain SYSTEM Privileges on Windows"
+  },
+  "https://gbhackers.com/apt-exploits-chrome-and-windows/": {
+    "ts": "2026-09-22T21:55:23.052340+00:00",
+    "title": "Chinese APT Clones Legitimate Websites to Deliver Chrome and Windows Zero-Day Exploits"
+  },
+  "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html": {
+    "ts": "2026-09-22T21:55:23.156029+00:00",
+    "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials"
+  },
+  "https://www.theregister.com/security/2026/09/22/uk-cops-arrest-2-eviltokens-suspects-microsoft-seizes-50-phishing-kit-websites/5298317": {
+    "ts": "2026-09-22T21:55:23.260949+00:00",
+    "title": "UK cops arrest 2 EvilTokens suspects, Microsoft seizes 50 phishing kit websites"
+  },
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/": {
+    "ts": "2026-09-22T21:55:23.357651+00:00",
+    "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach"
+  },
+  "https://cybersecuritynews.com/red-hat-openshift-flaw/": {
+    "ts": "2026-09-22T21:55:23.457920+00:00",
+    "title": "Red Hat OpenShift Flaw Lets Attackers Bypass PGP Checks and Push Malicious Releases"
+  },
+  "https://gbhackers.com/d-link-dir-822a-router-vulnerability/": {
+    "ts": "2026-09-22T21:55:23.457935+00:00",
+    "title": "D-Link DIR-822A Router Vulnerability Scores CVSS 10.0 With Public PoC Available"
+  },
+  "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html": {
+    "ts": "2026-09-22T21:55:23.457939+00:00",
+    "title": "DORA Year Two: Can Your SOC Actually See the Attack?"
+  },
+  "https://www.theregister.com/security/2026/09/22/sponsored/5297693": {
+    "ts": "2026-09-22T21:55:23.457942+00:00",
+    "title": "Who signed off on that AI agent? Nobody? Thought so."
+  },
+  "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/": {
+    "ts": "2026-09-22T21:55:23.553752+00:00",
+    "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts"
+  },
+  "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html": {
+    "ts": "2026-09-22T21:55:23.553769+00:00",
+    "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory"
+  },
+  "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html": {
+    "ts": "2026-09-22T21:55:23.647685+00:00",
+    "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE"
+  },
+  "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html": {
+    "ts": "2026-09-22T21:55:23.756739+00:00",
+    "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal"
   }
 }

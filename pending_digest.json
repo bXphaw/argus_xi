@@ -64,6 +64,66 @@
       "category": "malware_windows",
       "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
       "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Rogue external MFA providers can steal passwords during logins",
+      "url": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Autonomous AI Agents Hack Retailers for $25 and Steal 600,000 Credit Cards",
+      "url": "https://cybersecuritynews.com/ai-agents-retail-credit-card-theft/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
+      "url": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical MaxKB AI Agent Flaw Lets Prompt Injection Execute System Commands",
+      "url": "https://gbhackers.com/critical-maxkb-ai-agent-flaw/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Check Point Fixes a New Actively Exploited Critical Security Flaw",
+      "url": "https://securityaffairs.com/199549/security/check-point-fixes-a-new-actively-exploited-critical-security-flaw.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+      "url": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Z.ai says sorry for slurping up your code, open sources ZCode",
+      "url": "https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Veeam Agent Flaw Actively Exploited to Gain SYSTEM Privileges on Windows",
+      "url": "https://cybersecuritynews.com/veeam-agent-flaw-exploited/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/"
+    },
+    {
+      "category": "new_technique",
+      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+      "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html"
+    },
+    {
+      "category": "malware_other",
+      "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
+      "url": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html"
     }
   ],
   "last_sent_date": "2026-09-22"
