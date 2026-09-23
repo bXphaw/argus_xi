@@ -13830,5 +13830,125 @@
   "https://cybersecuritynews.com/outerlimit-ai-agent-zero-trust/": {
     "ts": "2026-09-23T16:29:43.219810+00:00",
     "title": "Outerlimit Raises $16M to Build Zero Trust Security Layer for Autonomous AI Agents"
+  },
+  "https://securityaffairs.com/199619/security/f5-big-ip-apm-zero-day-exploited-in-zero-day-rce-attacks.html": {
+    "ts": "2026-09-23T20:02:22.327351+00:00",
+    "title": "F5 BIG-IP APM Zero-Day Exploited in Zero-Day RCE Attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/": {
+    "ts": "2026-09-23T20:04:14.596760+00:00",
+    "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw"
+  },
+  "https://cybersecuritynews.com/cpanel-user-account-access-flaw/": {
+    "ts": "2026-09-23T20:04:14.791810+00:00",
+    "title": "New Cpanel Vulnerability Allows Attackers to Access Other Users\u2019 Accounts"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals": {
+    "ts": "2026-09-23T20:04:14.791833+00:00",
+    "title": "Deception by Design: CISA's Guide to Tricking Cybercriminals"
+  },
+  "https://gbhackers.com/hpe-networking-analytics-engine-flaws-let-attackers-gain-root-access/": {
+    "ts": "2026-09-23T20:04:14.990434+00:00",
+    "title": "HPE Networking Analytics Engine Flaws Let Attackers Gain Root Access"
+  },
+  "https://www.helpnetsecurity.com/2026/09/23/fake-claude-max-giveaway-phishing/": {
+    "ts": "2026-09-23T20:04:15.183584+00:00",
+    "title": "Fake Claude Max giveaway tricks users into handing over their Google account credentials"
+  },
+  "https://www.malwarebytes.com/blog/how-to/2026/09/how-device-code-phishing-gives-scammers-access-to-your-account": {
+    "ts": "2026-09-23T20:04:15.375981+00:00",
+    "title": "How device code phishing gives scammers access to your account"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/": {
+    "ts": "2026-09-23T20:04:15.571979+00:00",
+    "title": "Reimagining the SOC for the agentic era in Microsoft Defender"
+  },
+  "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/": {
+    "ts": "2026-09-23T20:04:15.785674+00:00",
+    "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin"
+  },
+  "https://www.sekoia.com/blog/beyond-lazarus-organization-of-dprk-cyber-capabilities": {
+    "ts": "2026-09-23T20:04:15.980143+00:00",
+    "title": "Beyond Lazarus: How North Korea Organizes Its Cyber Operations"
+  },
+  "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html": {
+    "ts": "2026-09-23T20:04:16.174463+00:00",
+    "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry"
+  },
+  "https://www.theregister.com/security/2026/09/23/someones-attacking-a-critical-0-day-rce-in-f5-big-ip-apm/5298659": {
+    "ts": "2026-09-23T20:04:16.373744+00:00",
+    "title": "Someone's attacking a critical 0-day RCE in F5 BIG-IP APM"
+  },
+  "https://threatmon.io/blackhatsect0r-dxqrtxx-global-operations/": {
+    "ts": "2026-09-23T20:04:16.568393+00:00",
+    "title": "Blackhatsect0r & DXQRTXX Global Operations"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/": {
+    "ts": "2026-09-23T20:04:16.761690+00:00",
+    "title": "Hackers start exploiting critical WordPress flaw for code execution"
+  },
+  "https://cybersecuritynews.com/critical-ibm-ftm-flaws/": {
+    "ts": "2026-09-23T20:04:16.761713+00:00",
+    "title": "Critical IBM FTM Flaws Let Attackers Execute Code and Access Payment Systems"
+  },
+  "https://gbhackers.com/malware-hosting-networks/": {
+    "ts": "2026-09-23T20:04:16.956804+00:00",
+    "title": "Cybercriminals Abandon Domains but Keep the Hosting Networks Behind Malware Campaigns"
+  },
+  "https://www.helpnetsecurity.com/2026/09/23/microsoft-eviltokens-phishing-service-disrupted/": {
+    "ts": "2026-09-23T20:04:17.150219+00:00",
+    "title": "Microsoft disrupts EvilTokens phishing service that gave criminals access to 12,000 inboxes"
+  },
+  "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/": {
+    "ts": "2026-09-23T20:04:17.370428+00:00",
+    "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios"
+  },
+  "https://www.sekoia.com/blog/ai-transparency-in-cybersecurity-how-sekoia-handles-customer-data": {
+    "ts": "2026-09-23T20:04:17.565865+00:00",
+    "title": "AI SOC Security: All About Sekoia\u2019s AI Trust Architecture"
+  },
+  "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html": {
+    "ts": "2026-09-23T20:04:17.758380+00:00",
+    "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You"
+  },
+  "https://www.theregister.com/security/2026/09/23/british-regulator-takes-a-hard-look-at-pornhubs-apple-powered-age-checks/5298558": {
+    "ts": "2026-09-23T20:04:17.969846+00:00",
+    "title": "British regulator takes a hard look at Pornhub's Apple-powered age checks"
+  },
+  "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/": {
+    "ts": "2026-09-23T20:04:17.969867+00:00",
+    "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day"
+  },
+  "https://cybersecuritynews.com/ryuk-ransomware-operator-sentenced/": {
+    "ts": "2026-09-23T20:04:18.173705+00:00",
+    "title": "Ryuk Ransomware Operator Sentenced for Deploying Malware and Extorting Victim Networks"
+  },
+  "https://gbhackers.com/solarwinds-observability-flaws/": {
+    "ts": "2026-09-23T20:04:18.173725+00:00",
+    "title": "SolarWinds Observability Flaws Let Unauthenticated Attackers Execute Remote Code"
+  },
+  "https://www.helpnetsecurity.com/2026/09/23/anthropic-claude-opus-5-5/": {
+    "ts": "2026-09-23T20:04:18.173729+00:00",
+    "title": "Claude Opus 5.5 cuts costs and adds safeguards for autonomous AI"
+  },
+  "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/": {
+    "ts": "2026-09-23T20:04:18.366590+00:00",
+    "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft"
+  },
+  "https://www.sekoia.com/blog/every-detection-needs-a-next-step-why-runbooks-solve-the-investigation-problem": {
+    "ts": "2026-09-23T20:04:18.366610+00:00",
+    "title": "Here's Why Every Detection Needs a Runbook"
+  },
+  "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html": {
+    "ts": "2026-09-23T20:04:18.556518+00:00",
+    "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/": {
+    "ts": "2026-09-23T20:04:18.556538+00:00",
+    "title": "Microsoft: September Windows updates break Always On VPN connections"
+  },
+  "https://cybersecuritynews.com/aws-lambda-flaw/": {
+    "ts": "2026-09-23T20:04:18.750317+00:00",
+    "title": "AWS Lambda Flaw Lets Attackers Bypass IAM Permissions and Access Cloud Services"
   }
 }

@@ -39,6 +39,66 @@
       "category": "threat_actor",
       "title": "ShinyHunters claims FBI breach was revenge for \u201cfalse\u201d report",
       "url": "https://www.malwarebytes.com/blog/news/2026/09/shinyhunters-claims-fbi-breach-was-revenge-for-false-report"
+    },
+    {
+      "category": "new_technique",
+      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/"
+    },
+    {
+      "category": "new_technique",
+      "title": "New Cpanel Vulnerability Allows Attackers to Access Other Users\u2019 Accounts",
+      "url": "https://cybersecuritynews.com/cpanel-user-account-access-flaw/"
+    },
+    {
+      "category": "new_technique",
+      "title": "HPE Networking Analytics Engine Flaws Let Attackers Gain Root Access",
+      "url": "https://gbhackers.com/hpe-networking-analytics-engine-flaws-let-attackers-gain-root-access/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Fake Claude Max giveaway tricks users into handing over their Google account credentials",
+      "url": "https://www.helpnetsecurity.com/2026/09/23/fake-claude-max-giveaway-phishing/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Someone's attacking a critical 0-day RCE in F5 BIG-IP APM",
+      "url": "https://www.theregister.com/security/2026/09/23/someones-attacking-a-critical-0-day-rce-in-f5-big-ip-apm/5298659"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Blackhatsect0r & DXQRTXX Global Operations",
+      "url": "https://threatmon.io/blackhatsect0r-dxqrtxx-global-operations/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers start exploiting critical WordPress flaw for code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Cybercriminals Abandon Domains but Keep the Hosting Networks Behind Malware Campaigns",
+      "url": "https://gbhackers.com/malware-hosting-networks/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Ryuk Ransomware Operator Sentenced for Deploying Malware and Extorting Victim Networks",
+      "url": "https://cybersecuritynews.com/ryuk-ransomware-operator-sentenced/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft",
+      "url": "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "AWS Lambda Flaw Lets Attackers Bypass IAM Permissions and Access Cloud Services",
+      "url": "https://cybersecuritynews.com/aws-lambda-flaw/"
     }
   ],
   "last_sent_date": "2026-09-23"
