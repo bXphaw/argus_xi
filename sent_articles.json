@@ -13950,5 +13950,125 @@
   "https://cybersecuritynews.com/aws-lambda-flaw/": {
     "ts": "2026-09-23T20:04:18.750317+00:00",
     "title": "AWS Lambda Flaw Lets Attackers Bypass IAM Permissions and Access Cloud Services"
+  },
+  "https://gbhackers.com/critical-wordpress-flaw/": {
+    "ts": "2026-09-23T23:29:11.844091+00:00",
+    "title": "Critical WordPress Flaw Lets Unauthenticated Attackers Execute Remote Code"
+  },
+  "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html": {
+    "ts": "2026-09-23T23:29:19.013341+00:00",
+    "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants"
+  },
+  "https://www.sekoia.com/blog/fsbs-matryoshka-2-3-gamaredons-gifts-that-keeps-unpacking-gammaload": {
+    "ts": "2026-09-23T23:29:20.920039+00:00",
+    "title": "FSB\u2019s matryoshka #2/3: Gamaredon's Gammaload Malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/": {
+    "ts": "2026-09-23T23:31:09.047708+00:00",
+    "title": "Placeholder domain used in dev docs now serves ClickFix attacks"
+  },
+  "https://cybersecuritynews.com/critical-next-js-flaw-allows-remote-code-execution/": {
+    "ts": "2026-09-23T23:31:09.092879+00:00",
+    "title": "Critical NEXT.JS Flaw Enables RCE Attacks Via Weaponized SVG File"
+  },
+  "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses": {
+    "ts": "2026-09-23T23:31:09.137881+00:00",
+    "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses"
+  },
+  "https://gbhackers.com/manageengine-rce-flaw/": {
+    "ts": "2026-09-23T23:31:09.182130+00:00",
+    "title": "ManageEngine RCE Flaw Enables SYSTEM Code Execution From Windows Login Screen"
+  },
+  "https://www.helpnetsecurity.com/2026/09/24/americans-views-on-data-centers/": {
+    "ts": "2026-09-23T23:31:09.182145+00:00",
+    "title": "Americans\u2019 views on data centers have turned more negative"
+  },
+  "https://securityaffairs.com/199631/hacking/u-s-cisa-adds-check-point-arista-velocloud-orchestrator-and-f5-big-ip-apm-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-09-23T23:31:09.182150+00:00",
+    "title": "U.S. CISA adds Check Point, Arista VeloCloud Orchestrator, and F5 BIG-IP APM\u00a0flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/": {
+    "ts": "2026-09-23T23:31:09.182154+00:00",
+    "title": "Arista Urges Immediate Patching of Exploited VCO Zero-Day"
+  },
+  "https://www.sekoia.com/blog/what-you-need-to-know-before-putting-ai-agents-in-your-production-soc": {
+    "ts": "2026-09-23T23:31:09.182156+00:00",
+    "title": "AI Agents in the SOC: 5 Production Questions To Ask Beforehand"
+  },
+  "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html": {
+    "ts": "2026-09-23T23:31:09.182159+00:00",
+    "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/": {
+    "ts": "2026-09-23T23:31:09.229011+00:00",
+    "title": "New RemControl Android banking malware targets users in Europe and Canada"
+  },
+  "https://cybersecuritynews.com/fake-crypto-wallet-app-spreads-pamstealer-malware-to-steal-mac-passwords/": {
+    "ts": "2026-09-23T23:31:09.274589+00:00",
+    "title": "Fake Crypto Wallet App Spreads PamStealer Malware to Steal Mac Passwords"
+  },
+  "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks": {
+    "ts": "2026-09-23T23:31:09.319404+00:00",
+    "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks"
+  },
+  "https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/": {
+    "ts": "2026-09-23T23:31:09.366311+00:00",
+    "title": "Critical F5 BIG-IP Vulnerability Exploited as Zero-Day"
+  },
+  "https://www.sekoia.com/blog/ai-soc-integrations-6-capabilities-worth-connecting": {
+    "ts": "2026-09-23T23:31:09.413435+00:00",
+    "title": "6 AI SOC Integrations Actually Worth Connecting"
+  },
+  "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html": {
+    "ts": "2026-09-23T23:31:09.464067+00:00",
+    "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent"
+  },
+  "https://cybersecuritynews.com/domains-keep-disappearing/": {
+    "ts": "2026-09-23T23:31:09.526316+00:00",
+    "title": "The Domains Keep Disappearing, but the Malware Infrastructure Behind Them Never Moves"
+  },
+  "https://www.sekoia.com/blog/the-best-of-cloud-built-safely-inside-your-own-perimeter": {
+    "ts": "2026-09-23T23:31:09.526333+00:00",
+    "title": "How to Bring Cloud-Grade Security to your Own Stack"
+  },
+  "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html": {
+    "ts": "2026-09-23T23:31:09.526338+00:00",
+    "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests"
+  },
+  "https://www.sekoia.com/blog/dont-eat-the-chocopocs-how-vulnerability-researchers-were-repeatedly-targeted-by-trojanised-exploits": {
+    "ts": "2026-09-23T23:31:09.572908+00:00",
+    "title": "Don't Eat the ChocoPoCs: Trojanised PoCs Hit Researchers"
+  },
+  "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html": {
+    "ts": "2026-09-23T23:31:09.619310+00:00",
+    "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape"
+  },
+  "https://www.sekoia.com/blog/sekoias-new-identity-designed-for-clarity": {
+    "ts": "2026-09-23T23:31:09.665094+00:00",
+    "title": "Sekoia\u2019s New Identity: Designed for Clarity"
+  },
+  "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html": {
+    "ts": "2026-09-23T23:31:09.709904+00:00",
+    "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input"
+  },
+  "https://www.sekoia.com/blog/apt28-an-evolution-of-tradecraft": {
+    "ts": "2026-09-23T23:31:09.758769+00:00",
+    "title": "APT28: An Evolution of Tradecraft from X-Agent to LLM Malware"
+  },
+  "https://www.sekoia.com/blog/sold-to-the-highest-bidder-the-escalation-of-adint-from-geolocation-tracking-to-intrusion-vector": {
+    "ts": "2026-09-23T23:31:09.806331+00:00",
+    "title": "ADINT: From Ad-Based Geolocation Tracking to Intrusion Vector"
+  },
+  "https://www.sekoia.com/blog/unveiling-errtraffic-inside-a-growing-clickfix-malware-distribution-framework": {
+    "ts": "2026-09-23T23:31:09.858314+00:00",
+    "title": "ErrTraffic: A Growing ClickFix Malware Distribution Framework"
+  },
+  "https://www.sekoia.com/blog/fsbs-matryoshka-3-3-gamaredons-gifts-that-keeps-unpacking-gammasteel": {
+    "ts": "2026-09-23T23:31:09.909230+00:00",
+    "title": "FSB\u2019s matryoshka #3/3: Gamaredon's Gammasteel Infostealer"
+  },
+  "https://www.sekoia.com/blog/fsbs-matryoshka-1-3-gamaredons-gifts-that-keeps-unpacking-gammaphish-and-gammaworm": {
+    "ts": "2026-09-23T23:31:09.959521+00:00",
+    "title": "FSB\u2019s matryoshka #1/3: Inside Gamaredon Cyber Operations"
   }
 }
