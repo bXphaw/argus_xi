@@ -13590,5 +13590,125 @@
   "https://www.helpnetsecurity.com/2026/09/23/netbsd-10-2-security-fixes-released/": {
     "ts": "2026-09-23T05:40:33.764674+00:00",
     "title": "NetBSD 10.2 security fixes close a remote kernel bug in ipfilter"
+  },
+  "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/": {
+    "ts": "2026-09-23T11:07:59.687204+00:00",
+    "title": "Ryuk ransomware member sentenced to 24 months in prison"
+  },
+  "https://cybersecuritynews.com/the-phishing-kit/": {
+    "ts": "2026-09-23T11:07:59.867620+00:00",
+    "title": "The Phishing Kit That Turned Microsoft\u2019s Login Flow Into an AI-Powered Fraud Machine"
+  },
+  "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks": {
+    "ts": "2026-09-23T11:07:59.867642+00:00",
+    "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks"
+  },
+  "https://gbhackers.com/eviltokens-ai-phishing/": {
+    "ts": "2026-09-23T11:08:00.001691+00:00",
+    "title": "Microsoft Warns of EvilTokens AI Phishing Service Hijacking Thousands of Accounts"
+  },
+  "https://www.group-ib.com/blog/remcontrol-android-banking-trojan/": {
+    "ts": "2026-09-23T11:08:00.128264+00:00",
+    "title": "RemControl: AI Built the Overlays. Victims Lose their PINs"
+  },
+  "https://www.helpnetsecurity.com/2026/09/23/check-point-f5-big-ip-apm-zero-days-targeted/": {
+    "ts": "2026-09-23T11:08:00.258408+00:00",
+    "title": "Attackers hit Check Point Management Servers and Spark firewalls, F5 BIG-IP APM instances"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-94127-critical-unauthenticated-rce-in-f5-big-ip-apm": {
+    "ts": "2026-09-23T11:08:00.380429+00:00",
+    "title": "CVE-2026-94127: Critical Unauthenticated RCE in F5 BIG-IP APM"
+  },
+  "https://securityaffairs.com/199593/cyber-crime/eviltokens-made-phishing-as-a-service-look-easy-then-it-got-taken-down.html": {
+    "ts": "2026-09-23T11:08:00.512271+00:00",
+    "title": "EvilTokens made phishing-as-a-service look easy. Then it got taken down"
+  },
+  "https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/": {
+    "ts": "2026-09-23T11:08:00.627761+00:00",
+    "title": "Chrome 154 Patches 108 Vulnerabilities"
+  },
+  "https://www.sekoia.com/blog/soc-platform-evaluation-checklist-for-mssps-4-questions-to-ask": {
+    "ts": "2026-09-23T11:08:00.783147+00:00",
+    "title": "SOC Platform Evaluation Checklist for MSSPs: Key Questions for SOC Providers"
+  },
+  "https://socradar.io/blog/berlin-data-leak-rhysida-unresolved/": {
+    "ts": "2026-09-23T11:08:00.783184+00:00",
+    "title": "Berlin Data Leak: What Rhysida Published, and What Is Still Unresolved"
+  },
+  "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html": {
+    "ts": "2026-09-23T11:08:00.910453+00:00",
+    "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers"
+  },
+  "https://www.theregister.com/security/2026/09/23/sponsored-why-security-belongs-in-the-network/5296790": {
+    "ts": "2026-09-23T11:08:01.040823+00:00",
+    "title": "Why security belongs in the network"
+  },
+  "https://www.welivesecurity.com/en/kids-online/looking-for-free-robux-heres-whats-real-whats-scam/": {
+    "ts": "2026-09-23T11:08:01.177361+00:00",
+    "title": "Looking for free Robux? Here\u2019s what\u2019s real, and what\u2019s a scam"
+  },
+  "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/": {
+    "ts": "2026-09-23T11:08:01.303000+00:00",
+    "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks"
+  },
+  "https://cybersecuritynews.com/malware-hiding-in-developer-tools/": {
+    "ts": "2026-09-23T11:08:01.420117+00:00",
+    "title": "The Malware Hiding in Developer Tools That Turned Terraform Providers Into Attack Paths"
+  },
+  "https://gbhackers.com/graphalgo-malware/": {
+    "ts": "2026-09-23T11:08:01.543595+00:00",
+    "title": "Graphalgo Malware Uses Malicious Terraform Providers and Go Modules to Deploy RAT"
+  },
+  "https://www.helpnetsecurity.com/2026/09/23/gpt-6-sol-luna-lower-api-prices/": {
+    "ts": "2026-09-23T11:08:01.668384+00:00",
+    "title": "GPT-6 Sol and Luna arrive with 50% lower API prices"
+  },
+  "https://securityaffairs.com/199577/malware/fake-lastpass-on-github-led-to-an-infostealer-that-killed-145-security-tools.html": {
+    "ts": "2026-09-23T11:08:01.778405+00:00",
+    "title": "Fake LastPass on GitHub Led to an Infostealer That Killed 145 Security Tools"
+  },
+  "https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/": {
+    "ts": "2026-09-23T11:08:01.906844+00:00",
+    "title": "A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk"
+  },
+  "https://www.sekoia.com/blog/ai-in-the-soc-what-europes-new-framework-means-for-trust-and-tech-autonomy": {
+    "ts": "2026-09-23T11:08:01.906861+00:00",
+    "title": "AI in the SOC: EU AI Act and Technology Sovereignty"
+  },
+  "https://socradar.io/blog/operation-conflict-compass-konni-ukraine-lnk-lure/": {
+    "ts": "2026-09-23T11:08:02.046603+00:00",
+    "title": "Operation Conflict Compass: Konni Targets Ukraine via Malicious LNK Lures"
+  },
+  "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html": {
+    "ts": "2026-09-23T11:08:02.169427+00:00",
+    "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware"
+  },
+  "https://cybersecuritynews.com/ai-driven-cyberattacks/": {
+    "ts": "2026-09-23T11:08:02.289030+00:00",
+    "title": "AI-Driven Cyberattacks Enter New Phase With Autonomous Fraud and Digital Trust Abuse"
+  },
+  "https://gbhackers.com/nvidia-infrastructure-controller-hit-by-14-flaws-enabling-code-execution-and-privilege-escalation/": {
+    "ts": "2026-09-23T11:08:02.289047+00:00",
+    "title": "NVIDIA Infrastructure Controller Hit by 14 Flaws Enabling Code Execution and Privilege Escalation"
+  },
+  "https://www.helpnetsecurity.com/2026/09/23/cve-2026-87902-wordpress-7-1-2-security-release/": {
+    "ts": "2026-09-23T11:08:02.426651+00:00",
+    "title": "WordPress 7.1.2 fixes critical unauthenticated path traversal vulnerability (CVE-2026-87902)"
+  },
+  "https://securityaffairs.com/199564/hacking/cve-2026-87902-how-close-is-your-wordpress-to-remote-code-execution.html": {
+    "ts": "2026-09-23T11:08:02.561518+00:00",
+    "title": "CVE-2026-87902: how close is your WordPress to remote code execution?"
+  },
+  "https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/": {
+    "ts": "2026-09-23T11:08:02.687819+00:00",
+    "title": "Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm"
+  },
+  "https://www.sekoia.com/blog/exvicy-a-copycat-of-the-errtraffic-malware-distribution-framework": {
+    "ts": "2026-09-23T11:08:02.828300+00:00",
+    "title": "Exvicy: A Copycat of the ErrTraffic Malware Distribution Framework"
+  },
+  "https://socradar.io/blog/major-cyber-attacks-august-2026/": {
+    "ts": "2026-09-23T11:08:02.956731+00:00",
+    "title": "August 2026: GTA VI Leak, Keyv & Carhartt Breaches"
   }
 }
