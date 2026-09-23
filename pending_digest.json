@@ -124,6 +124,31 @@
       "category": "malware_other",
       "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
       "url": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Exploiting F5 BIG-IP OAuth Server 0-day Flaw to Gain Remote Code Execution",
+      "url": "https://cybersecuritynews.com/f5-big-ip-oauth-server-0-day-flaw/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Exploit Check Point 0-Day Flaw to Execute Code on Management Servers",
+      "url": "https://gbhackers.com/hackers-exploit-check-point-0-day-flaw/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "ShinyHunters Allegedly Claims Breach of FBI Jobs Site and Stolen Agents\u2019 Data",
+      "url": "https://cybersecuritynews.com/shinyhunters-allegedly-claims-fbi-breach/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "ShinyHunters Claims FBI Breach Exposed Data of All Employees and Applicants",
+      "url": "https://gbhackers.com/shinyhunters-claims-fbi-breach-exposed-data/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical F5 BIG-IP APM Flaw Actively Exploited for Remote Code Execution",
+      "url": "https://gbhackers.com/critical-f5-big-ip-apm-flaw/"
     }
   ],
   "last_sent_date": "2026-09-22"

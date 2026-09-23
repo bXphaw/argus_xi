@@ -13542,5 +13542,53 @@
   "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html": {
     "ts": "2026-09-22T21:55:23.756739+00:00",
     "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal"
+  },
+  "https://asec.ahnlab.com/en/95545/": {
+    "ts": "2026-09-23T05:40:33.239838+00:00",
+    "title": "Ransom & Dark Web Issues Week 4, September 2026"
+  },
+  "https://cybersecuritynews.com/f5-big-ip-oauth-server-0-day-flaw/": {
+    "ts": "2026-09-23T05:40:33.380513+00:00",
+    "title": "Hackers Exploiting F5 BIG-IP OAuth Server 0-day Flaw to Gain Remote Code Execution"
+  },
+  "https://gbhackers.com/hackers-exploit-check-point-0-day-flaw/": {
+    "ts": "2026-09-23T05:40:33.476028+00:00",
+    "title": "Hackers Exploit Check Point 0-Day Flaw to Execute Code on Management Servers"
+  },
+  "https://www.helpnetsecurity.com/2026/09/23/prismor-open-source-ai-agent-security/": {
+    "ts": "2026-09-23T05:40:33.476050+00:00",
+    "title": "Prismor: Open-source runtime control plane for AI agents"
+  },
+  "https://cybersecuritynews.com/shinyhunters-allegedly-claims-fbi-breach/": {
+    "ts": "2026-09-23T05:40:33.575421+00:00",
+    "title": "ShinyHunters Allegedly Claims Breach of FBI Jobs Site and Stolen Agents\u2019 Data"
+  },
+  "https://gbhackers.com/stealthy-wordpress-malware/": {
+    "ts": "2026-09-23T05:40:33.575442+00:00",
+    "title": "Stealthy WordPress Malware Uses Must-Use Plugin and Ethereum EtherHiding for Persistent Backdoor Access"
+  },
+  "https://www.helpnetsecurity.com/2026/09/23/product-showcase-savi-scamwise/": {
+    "ts": "2026-09-23T05:40:33.575446+00:00",
+    "title": "Product showcase: Scamwise checks the red flags before you take the bait"
+  },
+  "https://gbhackers.com/shinyhunters-claims-fbi-breach-exposed-data/": {
+    "ts": "2026-09-23T05:40:33.671424+00:00",
+    "title": "ShinyHunters Claims FBI Breach Exposed Data of All Employees and Applicants"
+  },
+  "https://www.helpnetsecurity.com/2026/09/23/datadome-growing-bad-bot-traffic-report/": {
+    "ts": "2026-09-23T05:40:33.671446+00:00",
+    "title": "Nearly two-thirds of tested websites fail every bot test"
+  },
+  "https://gbhackers.com/critical-f5-big-ip-apm-flaw/": {
+    "ts": "2026-09-23T05:40:33.764649+00:00",
+    "title": "Critical F5 BIG-IP APM Flaw Actively Exploited for Remote Code Execution"
+  },
+  "https://www.helpnetsecurity.com/2026/09/23/rabbit-os3-ai-agent-now-available/": {
+    "ts": "2026-09-23T05:40:33.764670+00:00",
+    "title": "Rabbit\u2019s new OS lives in the cloud and borrows your laptop to get things done"
+  },
+  "https://www.helpnetsecurity.com/2026/09/23/netbsd-10-2-security-fixes-released/": {
+    "ts": "2026-09-23T05:40:33.764674+00:00",
+    "title": "NetBSD 10.2 security fixes close a remote kernel bug in ipfilter"
   }
 }
