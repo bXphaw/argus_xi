@@ -1,4 +1,45 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
+      "url": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign"
+    },
+    {
+      "category": "new_technique",
+      "title": "The Lure Isn't The Malware. It's Your Logo.",
+      "url": "https://www.recordedfuture.com/blog/your-logo-is-the-lure"
+    },
+    {
+      "category": "new_technique",
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Academic publisher Elsevier hit by LAPSUS$ redirect attack",
+      "url": "https://www.theregister.com/security/2026/09/23/academic-publisher-elsevier-hit-by-lapsus-redirect-attack/5298592"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Exvicy ClickFix Malware-as-a-Service Copies ErrTraffic to Hijack WordPress Sites",
+      "url": "https://gbhackers.com/exvicy-clickfix-malware/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "DarkMe RAT trades zero-days for plain phishing emails",
+      "url": "https://www.helpnetsecurity.com/2026/09/23/darkme-rat-phishing-email-hits-corporate-targets/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "ShinyHunters claims FBI breach was revenge for \u201cfalse\u201d report",
+      "url": "https://www.malwarebytes.com/blog/news/2026/09/shinyhunters-claims-fbi-breach-was-revenge-for-false-report"
+    }
+  ],
   "last_sent_date": "2026-09-23"
 }
