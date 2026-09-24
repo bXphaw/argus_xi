@@ -14190,5 +14190,125 @@
   "https://www.sekoia.com/blog/navigating-dora-compliance-with-sekoia": {
     "ts": "2026-09-24T03:58:14.690108+00:00",
     "title": "DORA: How Sekoia can support your compliance journey"
+  },
+  "https://gbhackers.com/galago-ransomware-operation/": {
+    "ts": "2026-09-24T09:09:57.972499+00:00",
+    "title": "New Galago Ransomware Operation Emerges With Links to Panzer Extortion Group"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/": {
+    "ts": "2026-09-24T09:11:49.531197+00:00",
+    "title": "Microsoft fixes bug that broke Windows File History backup feature"
+  },
+  "https://cybersecuritynews.com/new-galago-ransomware/": {
+    "ts": "2026-09-24T09:11:49.760505+00:00",
+    "title": "New Galago Ransomware Operation Emerges With Links to Panzer Group"
+  },
+  "https://gbhackers.com/p2p-command-network/": {
+    "ts": "2026-09-24T09:11:49.948603+00:00",
+    "title": "New Windows Malware Built to Survive Takedowns With a Hidden P2P Command Network"
+  },
+  "https://www.group-ib.com/blog/no-one-gets-phished-browser-agent/": {
+    "ts": "2026-09-24T09:11:49.948623+00:00",
+    "title": "No One Gets Phished: The New Group-IB Browser Agent Applies Predictive Intelligence At The Click."
+  },
+  "https://www.helpnetsecurity.com/2026/09/24/gnome-50-5-security-fixes/": {
+    "ts": "2026-09-24T09:11:49.948627+00:00",
+    "title": "GNOME 50.5 security fixes patch a gvfs CVE and Epiphany code injection"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/googles-location-data-privacy-failures-draw-a-e403-million-fine": {
+    "ts": "2026-09-24T09:11:50.136035+00:00",
+    "title": "Google\u2019s location data privacy failures draw a \u20ac403 million fine"
+  },
+  "https://securityaffairs.com/199640/malware/closedquorum-the-malware-that-asks-four-ai-models-what-to-do-next.html": {
+    "ts": "2026-09-24T09:11:50.331055+00:00",
+    "title": "CLOSEDQUORUM, the malware that asks four AI models what to do next"
+  },
+  "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/": {
+    "ts": "2026-09-24T09:11:50.517604+00:00",
+    "title": "US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks"
+  },
+  "https://www.sekoia.com/blog/the-sharp-taste-of-mimolette-analyzing-mimos-latest-campaign-targeting-craft-cms": {
+    "ts": "2026-09-24T09:11:50.709924+00:00",
+    "title": "The Sharp Taste of Mimo'lette: Mimo Targets Craft CMS"
+  },
+  "https://socradar.io/blog/cve-2026-87902-wordpress-conditional-rce/": {
+    "ts": "2026-09-24T09:11:50.900022+00:00",
+    "title": "CVE-2026-87902 in WordPress Enables Conditional RCE"
+  },
+  "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html": {
+    "ts": "2026-09-24T09:11:51.089213+00:00",
+    "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files"
+  },
+  "https://www.theregister.com/security/2026/09/24/government-contractor-exposed-path-to-immigration-records/5298689": {
+    "ts": "2026-09-24T09:11:51.275212+00:00",
+    "title": "Government contractor exposed path to immigration records"
+  },
+  "https://cybersecuritynews.com/openai-agent-hacked-australian-portal/": {
+    "ts": "2026-09-24T09:11:51.462482+00:00",
+    "title": "OpenAI Agent Hacked Australian Government Medicare Portal in World\u2019s First Rogue AI Breach"
+  },
+  "https://gbhackers.com/ai-powered-soc/": {
+    "ts": "2026-09-24T09:11:51.462501+00:00",
+    "title": "Microsoft Rebuilds the SOC With AI Agents to Fight Machine-Speed Cyberattacks"
+  },
+  "https://www.helpnetsecurity.com/2026/09/24/apple-ios-27-impersonation-risk-detection/": {
+    "ts": "2026-09-24T09:11:51.462504+00:00",
+    "title": "Apple\u2019s new iOS 27 feature looks for signs you\u2019re being scammed"
+  },
+  "https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/": {
+    "ts": "2026-09-24T09:11:51.649050+00:00",
+    "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure"
+  },
+  "https://www.sekoia.com/blog/vicioustrap-infiltrate-control-lure-turning-edge-devices-into-honeypots-en-masse": {
+    "ts": "2026-09-24T09:11:51.845274+00:00",
+    "title": "ViciousTrap: Turning Edge Devices into Honeypots at Scale"
+  },
+  "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html": {
+    "ts": "2026-09-24T09:11:52.035303+00:00",
+    "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords"
+  },
+  "https://cybersecuritynews.com/roundcube-webmail-vulnerability-exploited/": {
+    "ts": "2026-09-24T09:11:52.223953+00:00",
+    "title": "Roundcube Webmail SQL Injection Vulnerability Exploited in the Wild"
+  },
+  "https://gbhackers.com/remcontrol-android-malware/": {
+    "ts": "2026-09-24T09:11:52.415412+00:00",
+    "title": "RemControl Android Malware Targets 30+ Banking Apps to Steal PINs and Credentials"
+  },
+  "https://www.helpnetsecurity.com/2026/09/24/anthropic-claude-ai-faster/": {
+    "ts": "2026-09-24T09:11:52.415429+00:00",
+    "title": "Claude.ai is about 3x faster after 3,000+ changes"
+  },
+  "https://www.sekoia.com/blog/detecting-multi-stage-infection-chains-madness": {
+    "ts": "2026-09-24T09:11:52.604403+00:00",
+    "title": "Detecting Multi-Stage Infection Chains Madness"
+  },
+  "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html": {
+    "ts": "2026-09-24T09:11:52.604422+00:00",
+    "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure"
+  },
+  "https://cybersecuritynews.com/hackers-exploit-critical-check-point-vpn-flaws/": {
+    "ts": "2026-09-24T09:11:52.604425+00:00",
+    "title": "Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login"
+  },
+  "https://gbhackers.com/cpanel-permissions-flaw/": {
+    "ts": "2026-09-24T09:11:52.604428+00:00",
+    "title": "cPanel Permissions Flaw Allows Local Users to Read Other Accounts\u2019 Calendar Data"
+  },
+  "https://www.helpnetsecurity.com/2026/09/24/kelly-herrell-nol8-ai-agent-data-security/": {
+    "ts": "2026-09-24T09:11:52.790940+00:00",
+    "title": "What to do first when you get 90 days to secure AI agent data"
+  },
+  "https://www.sekoia.com/blog/interlock-ransomware-evolving-under-the-radar": {
+    "ts": "2026-09-24T09:11:52.982095+00:00",
+    "title": "Interlock Ransomware: Evolving Under the Radar with ClickFix"
+  },
+  "https://cybersecuritynews.com/malicious-firefox-extension/": {
+    "ts": "2026-09-24T09:11:53.172225+00:00",
+    "title": "Malicious Firefox Extension Disguised as PDF Tool Steals Google Account Sessions"
+  },
+  "https://www.helpnetsecurity.com/2026/09/24/ot-asset-visibility-challenges/": {
+    "ts": "2026-09-24T09:11:53.358772+00:00",
+    "title": "Your security program knows about the firewall, but does it know about the elevator?"
   }
 }
