@@ -14070,5 +14070,125 @@
   "https://www.sekoia.com/blog/fsbs-matryoshka-1-3-gamaredons-gifts-that-keeps-unpacking-gammaphish-and-gammaworm": {
     "ts": "2026-09-23T23:31:09.959521+00:00",
     "title": "FSB\u2019s matryoshka #1/3: Inside Gamaredon Cyber Operations"
+  },
+  "https://www.sekoia.com/blog/advent-of-configuration-extraction-part-2-unwrapping-quasarrats-configuration": {
+    "ts": "2026-09-24T03:55:41.000188+00:00",
+    "title": "Advent of Configuration Extraction, Part 2: QuasarRAT Config"
+  },
+  "https://www.sekoia.com/blog/advent-of-configuration-extraction-part-1-pipeline-overview-first-steps-with-kaiji-configuration-unboxing": {
+    "ts": "2026-09-24T03:55:41.052010+00:00",
+    "title": "Advent of Configuration Extraction, Part 1: Kaiji Configuration"
+  },
+  "https://www.sekoia.com/blog/strategic-autonomy-where-you-get-to-choose": {
+    "ts": "2026-09-24T03:58:10.837775+00:00",
+    "title": "Strategic Autonomy in Cybersecurity: Where you Get to Choose"
+  },
+  "https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702": {
+    "ts": "2026-09-24T03:58:11.070969+00:00",
+    "title": "OpenAI agents \u2018infiltrated Australian government website\u2019"
+  },
+  "https://www.sekoia.com/blog/apt28-to-repythonnet-automating-net-malware-analysis": {
+    "ts": "2026-09-24T03:58:11.251177+00:00",
+    "title": "From APT28 to RePythonNET: automating .NET malware analysis"
+  },
+  "https://www.sekoia.com/blog/eviltokens-an-ai-augmented-phishing-as-a-service-for-automating-bec-fraud-part-2": {
+    "ts": "2026-09-24T03:58:11.251192+00:00",
+    "title": "EvilTokens: AI PhaaS for automating BEC fraud - Part 2"
+  },
+  "https://www.sekoia.com/blog/meet-sekoia-reveal-turn-fragmented-asset-data-into-unified-soc-context": {
+    "ts": "2026-09-24T03:58:11.251227+00:00",
+    "title": "Sekoia Reveal: Turn fragmented asset data into unified SOC context"
+  },
+  "https://www.sekoia.com/blog/new-widespread-eviltokens-kit-device-code-phishing-as-a-service-part-1": {
+    "ts": "2026-09-24T03:58:11.438512+00:00",
+    "title": "EvilTokens Kit: Device Code Phishing-as-a-service - Part 1"
+  },
+  "https://www.sekoia.com/blog/ueba-in-the-real-world-catching-intrusions-that-dont-look-like-intrusions": {
+    "ts": "2026-09-24T03:58:11.620337+00:00",
+    "title": "UEBA vs. Stealth Intrusions: Catching Identity & Credential Abuse"
+  },
+  "https://www.sekoia.com/blog/silver-fox-the-only-tax-audit-where-the-fine-print-installs-malware": {
+    "ts": "2026-09-24T03:58:11.790722+00:00",
+    "title": "Silver Fox: The only Tax Audit Where Fine Print Installs Malware"
+  },
+  "https://www.sekoia.com/blog/shadow-it-the-initial-access-you-didnt-log": {
+    "ts": "2026-09-24T03:58:11.961683+00:00",
+    "title": "Shadow IT: The Initial Access You Didn\u2019t Log"
+  },
+  "https://www.sekoia.com/blog/sekoia-achieves-soc2-compliance": {
+    "ts": "2026-09-24T03:58:12.131747+00:00",
+    "title": "Sekoia Achieves SOC2 Compliance"
+  },
+  "https://www.sekoia.com/blog/oysterloader-unmasked-the-multi-stage-evasion-loader": {
+    "ts": "2026-09-24T03:58:12.313352+00:00",
+    "title": "OysterLoader Unmasked: The Multi-Stage Evasion Loader"
+  },
+  "https://www.sekoia.com/blog/meet-iclickfix-a-widespread-wordpress-targeting-framework-using-the-clickfix-tactic": {
+    "ts": "2026-09-24T03:58:12.486612+00:00",
+    "title": "Meet IClickFix: a widespread framework using the ClickFix tactic"
+  },
+  "https://www.sekoia.com/blog/leveraging-landlock-telemetry-for-linux-detection-engineering": {
+    "ts": "2026-09-24T03:58:12.486626+00:00",
+    "title": "Leveraging Landlock Telemetry for Linux Detection Engineering"
+  },
+  "https://www.sekoia.com/blog/advent-of-configuration-extraction-part-4-turning-capa-into-a-configuration-extractor-for-tinyshell-variant": {
+    "ts": "2026-09-24T03:58:12.658840+00:00",
+    "title": "Advent of Config Extraction, Part 4: Extracting TinyShell Configs"
+  },
+  "https://www.sekoia.com/blog/sekoia-io-strengthens-collective-cyber-defense-at-nato-ccdcoes-crossed-swords-2025-exercise": {
+    "ts": "2026-09-24T03:58:12.658857+00:00",
+    "title": "Sekoia at NATO CCDCOE's Crossed Swords 2025 Exercise"
+  },
+  "https://www.sekoia.com/blog/mandating-security-by-design-sekoias-blueprint-for-the-eu-cyber-resilience-act": {
+    "ts": "2026-09-24T03:58:12.839003+00:00",
+    "title": "Cyber Resilience Act (CRA): A Compliance Blueprint"
+  },
+  "https://www.sekoia.com/blog/advent-of-configuration-extraction-part-3-mapping-got-plt-and-disassembling-the-snowlight-loader": {
+    "ts": "2026-09-24T03:58:13.021419+00:00",
+    "title": "Advent of Configuration Extraction, Part 3: SNOWLIGHT Config"
+  },
+  "https://www.sekoia.com/blog/ngo-reporters-without-borders-targeted-by-calisto-in-recent-campaign": {
+    "ts": "2026-09-24T03:58:13.198586+00:00",
+    "title": "French NGO reporters without borders targeted by Calisto"
+  },
+  "https://www.sekoia.com/blog/phishing-campaigns-i-paid-twice-targeting-booking-com-hotels-and-customers": {
+    "ts": "2026-09-24T03:58:13.380995+00:00",
+    "title": "Booking.com Phishing Campaign Targeting Hotels and Customers"
+  },
+  "https://www.sekoia.com/blog/transparenttribe-targets-indian-military-organisations-with-deskrat": {
+    "ts": "2026-09-24T03:58:13.563111+00:00",
+    "title": "TransparentTribe Targets Indian Military with DeskRAT Malware"
+  },
+  "https://www.sekoia.com/blog/userauthenticationmethod-microsoft-365-decode": {
+    "ts": "2026-09-24T03:58:13.563125+00:00",
+    "title": "UserAuthenticationMethod: Understanding M365 Sign-In Logs"
+  },
+  "https://www.sekoia.com/blog/inside-sekoia-io-hackathon-2025": {
+    "ts": "2026-09-24T03:58:13.563130+00:00",
+    "title": "Sekoia's Hackathon 2025: Innovating together for customer satisfaction"
+  },
+  "https://www.sekoia.com/blog/polaredge-backdoor-qnap-cve-2023-20118-analysis": {
+    "ts": "2026-09-24T03:58:13.747847+00:00",
+    "title": "PolarEdge Backdoor on QNAP: CVE-2023-20118 Analysis"
+  },
+  "https://www.sekoia.com/blog/apt28-operation-phantom-net-voxel": {
+    "ts": "2026-09-24T03:58:13.938372+00:00",
+    "title": "APT28 Operation Phantom Net Voxel: BeardShell & Covenant"
+  },
+  "https://www.sekoia.com/blog/silent-smishing-the-hidden-abuse-of-cellular-router-apis": {
+    "ts": "2026-09-24T03:58:14.119893+00:00",
+    "title": "Silent Smishing : The Hidden Abuse of Cellular Router APIs"
+  },
+  "https://www.sekoia.com/blog/predators-for-hire-a-global-overview-of-commercial-surveillance-vendors": {
+    "ts": "2026-09-24T03:58:14.315571+00:00",
+    "title": "Predators for Hire: Commercial Surveillance Vendors Overview"
+  },
+  "https://www.sekoia.com/blog/global-analysis-of-adversary-in-the-middle-phishing-threats": {
+    "ts": "2026-09-24T03:58:14.504014+00:00",
+    "title": "Global analysis of Adversary-in-the-Middle phishing threats"
+  },
+  "https://www.sekoia.com/blog/navigating-dora-compliance-with-sekoia": {
+    "ts": "2026-09-24T03:58:14.690108+00:00",
+    "title": "DORA: How Sekoia can support your compliance journey"
   }
 }
