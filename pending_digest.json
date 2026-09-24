@@ -24,6 +24,31 @@
       "category": "apt_campaign",
       "title": "AI-Powered Campaign Targets Hundreds of Online Retailers",
       "url": "https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Exposed GitLab project email addresses let attackers push code",
+      "url": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "3 Cyber Threats That Defined the Summer of 2026",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026"
+    },
+    {
+      "category": "new_technique",
+      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+      "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Agent Hijacks: How Conversation History Poisoning Can Turn AI Agents Into Attackers",
+      "url": "https://www.darktrace.com/blog/hijacking-agentic-harnesses-to-attack-an-organization"
+    },
+    {
+      "category": "malware_other",
+      "title": "PolarEdge: Unveiling an uncovered ORB network",
+      "url": "https://www.sekoia.com/blog/polaredge-unveiling-an-uncovered-iot-botnet"
     }
   ],
   "last_sent_date": "2026-09-24"

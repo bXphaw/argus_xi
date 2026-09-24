@@ -14430,5 +14430,125 @@
   "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus": {
     "ts": "2026-09-24T14:47:05.202124+00:00",
     "title": "Prompt-Injection Bug Hits $4B Agentic AI App 'Manus'"
+  },
+  "https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/": {
+    "ts": "2026-09-24T18:54:08.764725+00:00",
+    "title": "Island Raises $400 Million at $6.4 Billion Valuation"
+  },
+  "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/": {
+    "ts": "2026-09-24T18:56:07.763157+00:00",
+    "title": "Exposed GitLab project email addresses let attackers push code"
+  },
+  "https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/": {
+    "ts": "2026-09-24T18:56:07.763174+00:00",
+    "title": "Trust and the enticing consultancy offer"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/": {
+    "ts": "2026-09-24T18:56:07.763178+00:00",
+    "title": "CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026": {
+    "ts": "2026-09-24T18:56:07.872032+00:00",
+    "title": "3 Cyber Threats That Defined the Summer of 2026"
+  },
+  "https://www.darktrace.com/blog/darktrace-secure-ai-extending-behavioral-security-for-the-age-of-agentic-ai": {
+    "ts": "2026-09-24T18:56:07.872041+00:00",
+    "title": "Darktrace / SECURE AI: Behavioral Security for the AI enterprise"
+  },
+  "https://www.helpnetsecurity.com/2026/09/24/uk-national-centre-for-information-defence-disinformation-detection/": {
+    "ts": "2026-09-24T18:56:07.975643+00:00",
+    "title": "UK gears up for fight against Russia\u2019s disinformation machine"
+  },
+  "https://www.malwarebytes.com/blog/bugs/2026/09/update-chrome-108-security-fixes-for-desktop-new-release-for-android": {
+    "ts": "2026-09-24T18:56:08.104478+00:00",
+    "title": "Update Chrome: 108 security fixes for desktop, new release for Android"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/": {
+    "ts": "2026-09-24T18:56:08.230195+00:00",
+    "title": "Beyond the ransomware: Tracking Storm-2570\u2019s consistent tradecraft across deployments"
+  },
+  "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/": {
+    "ts": "2026-09-24T18:56:08.361913+00:00",
+    "title": "Kontext Security Emerges With $4 Million for AI Agent Runtime Controls"
+  },
+  "https://www.sekoia.com/blog/clearfakes-new-widespread-variant-increased-web3-exploitation-for-malware-delivery": {
+    "ts": "2026-09-24T18:56:08.477703+00:00",
+    "title": "ClearFake's Variant: Web3 Exploitation for Malware Delivery"
+  },
+  "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html": {
+    "ts": "2026-09-24T18:56:08.585217+00:00",
+    "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions"
+  },
+  "https://www.theregister.com/security/2026/09/24/decades-old-file-security-flaws-found-in-android-linux-macos-and-windows/5298672": {
+    "ts": "2026-09-24T18:56:08.585229+00:00",
+    "title": "Decades-old file security flaws found in Android, Linux, macOS, and Windows"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/": {
+    "ts": "2026-09-24T18:56:08.585231+00:00",
+    "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw"
+  },
+  "https://www.darkreading.com/cloud-security/sase-converges-network-security-one-cloud": {
+    "ts": "2026-09-24T18:56:08.585233+00:00",
+    "title": "SASE Converges Network &amp; Security Into One Cloud Solution"
+  },
+  "https://www.darktrace.com/blog/hijacking-agentic-harnesses-to-attack-an-organization": {
+    "ts": "2026-09-24T18:56:08.705719+00:00",
+    "title": "Agent Hijacks: How Conversation History Poisoning Can Turn AI Agents Into Attackers"
+  },
+  "https://www.helpnetsecurity.com/2026/09/24/remcontrol-android-banking-trojan-fake-tv-app/": {
+    "ts": "2026-09-24T18:56:08.835359+00:00",
+    "title": "New Android malware RemControl steals banking PINs and blocks removal attempts"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/24/whats-new-in-microsoft-security-september-2026/": {
+    "ts": "2026-09-24T18:56:08.967107+00:00",
+    "title": "\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bWhat\u2019s new in Microsoft Security: September 2026\u200b\u200b"
+  },
+  "https://www.sekoia.com/blog/detection-engineering-at-scale-one-step-closer-part-three": {
+    "ts": "2026-09-24T18:56:09.085443+00:00",
+    "title": "Detection Engineering at Scale: One Step Closer (part three)"
+  },
+  "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html": {
+    "ts": "2026-09-24T18:56:09.206226+00:00",
+    "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories"
+  },
+  "https://www.theregister.com/os-platforms/2026/09/24/cve-flood-pushes-ubuntu-onto-weekly-kernel-release-cycle/5298912": {
+    "ts": "2026-09-24T18:56:09.320425+00:00",
+    "title": "CVE flood pushes Ubuntu onto weekly kernel release cycle"
+  },
+  "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/": {
+    "ts": "2026-09-24T18:56:09.320433+00:00",
+    "title": "OpenAI hacked Australian Medicare govt site, probed data providers"
+  },
+  "https://www.darktrace.com/blog/detecting-rogue-agent-behavior-in-the-enterprise": {
+    "ts": "2026-09-24T18:56:09.320436+00:00",
+    "title": "Detecting Rogue AI Agents: When Enterprise Agents Turn to Hacking"
+  },
+  "https://www.helpnetsecurity.com/2026/09/24/google-private-ai-compute-server-side-memory/": {
+    "ts": "2026-09-24T18:56:09.320438+00:00",
+    "title": "Google plans to give Private AI Compute a memory that follows users across devices"
+  },
+  "https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/": {
+    "ts": "2026-09-24T18:56:09.320440+00:00",
+    "title": "OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators"
+  },
+  "https://www.sekoia.com/blog/polaredge-unveiling-an-uncovered-iot-botnet": {
+    "ts": "2026-09-24T18:56:09.439119+00:00",
+    "title": "PolarEdge: Unveiling an uncovered ORB network"
+  },
+  "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html": {
+    "ts": "2026-09-24T18:56:09.560509+00:00",
+    "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content"
+  },
+  "https://www.theregister.com/security/2026/09/24/someone-went-shopping-in-asuss-eshop-for-customer-data/5298860": {
+    "ts": "2026-09-24T18:56:09.673980+00:00",
+    "title": "Someone went shopping in ASUS's eShop \u2013 for customer data"
+  },
+  "https://www.darktrace.com/blog/the-problem-of-re-defining-human-value-in-the-agentic-age": {
+    "ts": "2026-09-24T18:56:09.796561+00:00",
+    "title": "Human Judgement in the Agentic AI Age | Darktrace"
+  },
+  "https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/": {
+    "ts": "2026-09-24T18:56:09.903814+00:00",
+    "title": "Begin at the End: How to Enable Agentic Remediation"
   }
 }
