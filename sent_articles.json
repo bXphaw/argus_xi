@@ -14550,5 +14550,125 @@
   "https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/": {
     "ts": "2026-09-24T18:56:09.903814+00:00",
     "title": "Begin at the End: How to Enable Agentic Remediation"
+  },
+  "https://gbhackers.com/scoutz-prospect-intelligence-platform-launches-for-msps-with-30-day-beta/": {
+    "ts": "2026-09-24T22:08:07.613382+00:00",
+    "title": "SCOUTz Prospect Intelligence Platform Launches for MSPs with 30-Day Beta"
+  },
+  "https://www.sekoia.com/blog/detection-engineering-at-scale-one-step-closer-part-two": {
+    "ts": "2026-09-24T22:08:21.544805+00:00",
+    "title": "Detection Engineering at Scale: One Step Closer (part two)"
+  },
+  "https://www.sekoia.com/blog/detection-engineering-at-scale-one-step-closer-part-one": {
+    "ts": "2026-09-24T22:08:25.255998+00:00",
+    "title": "Detection Engineering at Scale: One Step Closer (part one)"
+  },
+  "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/": {
+    "ts": "2026-09-24T22:10:33.537511+00:00",
+    "title": "MacSync malware uses public iCloud calendars to deliver new payloads"
+  },
+  "https://cybersecuritynews.com/scoutz-prospect-intelligence-platform-launches-for-msps-with-30-day-beta/": {
+    "ts": "2026-09-24T22:10:33.537533+00:00",
+    "title": "SCOUTz Prospect Intelligence Platform Launches for MSPs with 30-Day Beta"
+  },
+  "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing": {
+    "ts": "2026-09-24T22:10:33.632916+00:00",
+    "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing"
+  },
+  "https://securityaffairs.com/199692/cyber-crime/ryuk-member-karen-vardanyan-sentenced-to-two-years-in-u-s-prison.html": {
+    "ts": "2026-09-24T22:10:33.731949+00:00",
+    "title": "Ryuk Member Karen Vardanyan Sentenced to Two Years in U.S. Prison"
+  },
+  "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/": {
+    "ts": "2026-09-24T22:10:33.731972+00:00",
+    "title": "Autonomous AI Hacks Raise Thorny Questions of Legal Accountability"
+  },
+  "https://www.sekoia.com/blog/cyber-threats-impacting-the-financial-sector-in-2024-focus-on-the-main-actors": {
+    "ts": "2026-09-24T22:10:33.836248+00:00",
+    "title": "Cyber Threat Actors Impacting the Financial Sector in 2024"
+  },
+  "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html": {
+    "ts": "2026-09-24T22:10:33.940099+00:00",
+    "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer"
+  },
+  "https://www.theregister.com/security/2026/09/24/salesforce-agentforce-vulns-allowed-0-click-crm-data-theft-anonymous-phishing/5298958": {
+    "ts": "2026-09-24T22:10:34.039562+00:00",
+    "title": "Salesforce Agentforce vulns allowed 0-click CRM data theft, anonymous phishing"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/": {
+    "ts": "2026-09-24T22:10:34.143823+00:00",
+    "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts"
+  },
+  "https://cybersecuritynews.com/new-way-to-break-rsa/": {
+    "ts": "2026-09-24T22:10:34.237996+00:00",
+    "title": "Researchers Found a New Way to Break RSA that Doesn\u2019t Require Factoring the Key"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application": {
+    "ts": "2026-09-24T22:10:34.340905+00:00",
+    "title": "SectopRAT Returns, Hiding Inside a Legitimate Application"
+  },
+  "https://gbhackers.com/velvetcake-powershell-malware/": {
+    "ts": "2026-09-24T22:10:34.435347+00:00",
+    "title": "Operation Conflict Compass Deploys VelvetCake PowerShell Malware Through Malicious LNK Files"
+  },
+  "https://securityaffairs.com/199678/hacking/ai-helps-uncover-mikrotrick-attack-chain-in-mikrotik-routeros.html": {
+    "ts": "2026-09-24T22:10:34.536143+00:00",
+    "title": "AI Helps Uncover MikroTrick Attack Chain in MikroTik RouterOS"
+  },
+  "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/": {
+    "ts": "2026-09-24T22:10:34.536163+00:00",
+    "title": "SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted"
+  },
+  "https://www.sekoia.com/blog/ratatouille-cooking-up-chaos-in-the-i2p-kitchen": {
+    "ts": "2026-09-24T22:10:34.635761+00:00",
+    "title": "RATatouille: Cooking Up Chaos in the I2P Kitchen"
+  },
+  "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html": {
+    "ts": "2026-09-24T22:10:34.729954+00:00",
+    "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360"
+  },
+  "https://cybersecuritynews.com/android-banking-trojan/": {
+    "ts": "2026-09-24T22:10:34.832853+00:00",
+    "title": "New Android Banking Trojan Uses AI-Built Overlays to Steal Users\u2019 Banking PINs"
+  },
+  "https://gbhackers.com/gitlab-email-token/": {
+    "ts": "2026-09-24T22:10:34.929747+00:00",
+    "title": "GitLab Email Token Lets Attackers Push Code to Main and Execute CI/CD Jobs"
+  },
+  "https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/": {
+    "ts": "2026-09-24T22:10:35.024588+00:00",
+    "title": "Astrana Health Data Breach Impacts Private, Confidential Information"
+  },
+  "https://www.sekoia.com/blog/targeted-supply-chain-attack-against-chrome-browser-extensions": {
+    "ts": "2026-09-24T22:10:35.126973+00:00",
+    "title": "Supply Chain Attack Against Chrome Browser Extensions"
+  },
+  "https://www.sekoia.com/blog/transition-from-ibm-qradar-to-sekoia-for-a-modern-rewarding-experience": {
+    "ts": "2026-09-24T22:10:35.126991+00:00",
+    "title": "Transition from IBM QRadar to Sekoia"
+  },
+  "https://www.sekoia.com/blog/sneaky-2fa-exposing-a-new-aitm-phishing-as-a-service": {
+    "ts": "2026-09-24T22:10:35.224133+00:00",
+    "title": "Sneaky 2FA: exposing a new AiTM Phishing-as-a-Service"
+  },
+  "https://www.sekoia.com/blog/double-tap-campaign-russia-nexus-apt-possibly-related-to-apt28-conducts-cyber-espionage-on-central-asia-and-kazakhstan-diplomatic-relations": {
+    "ts": "2026-09-24T22:10:35.315514+00:00",
+    "title": "Double-Tap: APT28-Linked Espionage on Kazakhstan"
+  },
+  "https://www.sekoia.com/blog/plugx-worm-disinfection-campaign-feedbacks": {
+    "ts": "2026-09-24T22:10:35.411825+00:00",
+    "title": "PlugX worm disinfection campaign feedbacks"
+  },
+  "https://www.sekoia.com/blog/the-story-behind-sekoia-io-custom-integrations": {
+    "ts": "2026-09-24T22:10:35.411848+00:00",
+    "title": "The story behind Sekoia.io Custom Integrations"
+  },
+  "https://www.sekoia.com/blog/blocklist-in-sekoia": {
+    "ts": "2026-09-24T22:10:35.506486+00:00",
+    "title": "Implementing blocklists in the Sekoia SOC platform"
+  },
+  "https://www.sekoia.com/blog/happy-yara-christmas": {
+    "ts": "2026-09-24T22:10:35.609934+00:00",
+    "title": "Happy YARA Christmas: How Sekoia TDR Uses YARA Rules!"
   }
 }

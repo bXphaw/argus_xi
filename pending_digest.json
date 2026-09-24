@@ -49,6 +49,56 @@
       "category": "malware_other",
       "title": "PolarEdge: Unveiling an uncovered ORB network",
       "url": "https://www.sekoia.com/blog/polaredge-unveiling-an-uncovered-iot-botnet"
+    },
+    {
+      "category": "malware_macos",
+      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/"
+    },
+    {
+      "category": "new_technique",
+      "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
+      "url": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Ryuk Member Karen Vardanyan Sentenced to Two Years in U.S. Prison",
+      "url": "https://securityaffairs.com/199692/cyber-crime/ryuk-member-karen-vardanyan-sentenced-to-two-years-in-u-s-prison.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Operation Conflict Compass Deploys VelvetCake PowerShell Malware Through Malicious LNK Files",
+      "url": "https://gbhackers.com/velvetcake-powershell-malware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "AI Helps Uncover MikroTrick Attack Chain in MikroTik RouterOS",
+      "url": "https://securityaffairs.com/199678/hacking/ai-helps-uncover-mikrotrick-attack-chain-in-mikrotik-routeros.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "RATatouille: Cooking Up Chaos in the I2P Kitchen",
+      "url": "https://www.sekoia.com/blog/ratatouille-cooking-up-chaos-in-the-i2p-kitchen"
+    },
+    {
+      "category": "new_technique",
+      "title": "Sneaky 2FA: exposing a new AiTM Phishing-as-a-Service",
+      "url": "https://www.sekoia.com/blog/sneaky-2fa-exposing-a-new-aitm-phishing-as-a-service"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Double-Tap: APT28-Linked Espionage on Kazakhstan",
+      "url": "https://www.sekoia.com/blog/double-tap-campaign-russia-nexus-apt-possibly-related-to-apt28-conducts-cyber-espionage-on-central-asia-and-kazakhstan-diplomatic-relations"
+    },
+    {
+      "category": "malware_windows",
+      "title": "PlugX worm disinfection campaign feedbacks",
+      "url": "https://www.sekoia.com/blog/plugx-worm-disinfection-campaign-feedbacks"
     }
   ],
   "last_sent_date": "2026-09-24"
