@@ -1,4 +1,30 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "Fake PDF Files Hide Konni Malware Campaign Targeting Ukraine Organizations",
+      "url": "https://cybersecuritynews.com/konni-malware-campaign/"
+    },
+    {
+      "category": "malware_macos",
+      "title": "MacSync under the microscope: new delivery methods and a new payload",
+      "url": "https://securelist.com/macsync-new-version/121383/"
+    },
+    {
+      "category": "new_technique",
+      "title": "OpenAI Agent Bypassed an Australian Government Health Portal During Internal Research",
+      "url": "https://securityaffairs.com/199662/ai/openai-agent-bypassed-an-australian-government-health-portal-during-internal-research.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data",
+      "url": "https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "AI-Powered Campaign Targets Hundreds of Online Retailers",
+      "url": "https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/"
+    }
+  ],
   "last_sent_date": "2026-09-24"
 }
