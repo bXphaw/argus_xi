@@ -99,6 +99,41 @@
       "category": "malware_windows",
       "title": "PlugX worm disinfection campaign feedbacks",
       "url": "https://www.sekoia.com/blog/plugx-worm-disinfection-campaign-feedbacks"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Helldown Ransomware: An Overview of this Emerging Threat",
+      "url": "https://www.sekoia.com/blog/helldown-ransomware-an-overview-of-this-emerging-threat"
+    },
+    {
+      "category": "new_technique",
+      "title": "ClickFix tactic: Revenge of detection \u2013 Detect Fake CAPTCHA",
+      "url": "https://www.sekoia.com/blog/clickfix-tactic-revenge-of-detection"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Bulbature, beneath the waves of GobRAT",
+      "url": "https://www.sekoia.com/blog/bulbature-beneath-the-waves-of-gobrat"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hadooken and K4Spreader: The 8220 Gang's Latest Arsenal",
+      "url": "https://www.sekoia.com/blog/hadooken-and-k4spreader-the-8220-gangs-latest-arsenal"
+    },
+    {
+      "category": "malware_android",
+      "title": "SilentSelfie: Major Campaign Against Kurdish Websites",
+      "url": "https://www.sekoia.com/blog/silentselfie-uncovering-a-major-watering-hole-campaign-against-kurdish-websites"
+    },
+    {
+      "category": "malware_windows",
+      "title": "WebDAV-as-a-Service: The Infrastructure Behind Emmenhtal",
+      "url": "https://www.sekoia.com/blog/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution"
+    },
+    {
+      "category": "threat_actor",
+      "title": "MuddyWater replaces Atera by custom MuddyRot implant",
+      "url": "https://www.sekoia.com/blog/muddywater-replaces-atera-by-custom-muddyrot-implant-in-a-recent-campaign"
     }
   ],
   "last_sent_date": "2026-09-24"

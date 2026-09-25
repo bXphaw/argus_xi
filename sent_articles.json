@@ -14670,5 +14670,125 @@
   "https://www.sekoia.com/blog/happy-yara-christmas": {
     "ts": "2026-09-24T22:10:35.609934+00:00",
     "title": "Happy YARA Christmas: How Sekoia TDR Uses YARA Rules!"
+  },
+  "https://www.sekoia.com/blog/ransomware-driven-data-exfiltration-techniques-and-implications": {
+    "ts": "2026-09-25T01:18:58.111008+00:00",
+    "title": "Ransomware-driven data exfiltration: techniques & implications"
+  },
+  "https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012": {
+    "ts": "2026-09-25T01:18:58.111030+00:00",
+    "title": "Crook used three open source agents to break into a Fortune 500 hospitality company, a major US airline and 25+ other orgs"
+  },
+  "https://www.sekoia.com/blog/helldown-ransomware-an-overview-of-this-emerging-threat": {
+    "ts": "2026-09-25T01:18:58.372852+00:00",
+    "title": "Helldown Ransomware: An Overview of this Emerging Threat"
+  },
+  "https://www.sekoia.com/blog/a-three-beats-waltz-the-ecosystem-behind-chinese-state-sponsored-cyber-threats": {
+    "ts": "2026-09-25T01:18:58.372868+00:00",
+    "title": "China's State-Sponsored Cyber Operations & Ecosystem"
+  },
+  "https://www.sekoia.com/blog/clickfix-tactic-revenge-of-detection": {
+    "ts": "2026-09-25T01:18:58.622974+00:00",
+    "title": "ClickFix tactic: Revenge of detection \u2013 Detect Fake CAPTCHA"
+  },
+  "https://www.sekoia.com/blog/clickfix-tactic-the-phantom-meet": {
+    "ts": "2026-09-25T01:18:59.081145+00:00",
+    "title": "ClickFix tactic: The Phantom Meet Infostealer Campaign"
+  },
+  "https://www.sekoia.com/blog/mastering-soc-complexity-optimizing-access-management-with-sekoia-defend": {
+    "ts": "2026-09-25T01:18:59.373027+00:00",
+    "title": "Optimizing SOC access management with Sekoia Defend"
+  },
+  "https://www.sekoia.com/blog/getting-started-with-detection-as-code-and-sekoia-platform": {
+    "ts": "2026-09-25T01:18:59.608324+00:00",
+    "title": "Getting started with Detection-as-Code and Sekoia Platform"
+  },
+  "https://www.sekoia.com/blog/hunting-for-iocs-from-singles-searches-to-an-automated-and-repeatable-process": {
+    "ts": "2026-09-25T01:18:59.848248+00:00",
+    "title": "IoC: Boosting Cyber Threat Intelligence for Better Security Ops"
+  },
+  "https://www.sekoia.com/blog/mamba-2fa-a-new-contender-in-the-aitm-phishing-ecosystem": {
+    "ts": "2026-09-25T01:19:00.078006+00:00",
+    "title": "Mamba 2FA: A new contender in the AiTM phishing ecosystem"
+  },
+  "https://www.sekoia.com/blog/bulbature-beneath-the-waves-of-gobrat": {
+    "ts": "2026-09-25T01:19:00.316238+00:00",
+    "title": "Bulbature, beneath the waves of GobRAT"
+  },
+  "https://www.sekoia.com/blog/hadooken-and-k4spreader-the-8220-gangs-latest-arsenal": {
+    "ts": "2026-09-25T01:19:00.544084+00:00",
+    "title": "Hadooken and K4Spreader: The 8220 Gang's Latest Arsenal"
+  },
+  "https://www.sekoia.com/blog/why-its-time-to-replace-your-legacy-siem-with-a-soc-platform": {
+    "ts": "2026-09-25T01:19:00.544103+00:00",
+    "title": "Why it\u2019s time to replace your legacy SIEM with a SOC platform"
+  },
+  "https://www.sekoia.com/blog/silentselfie-uncovering-a-major-watering-hole-campaign-against-kurdish-websites": {
+    "ts": "2026-09-25T01:19:00.780023+00:00",
+    "title": "SilentSelfie: Major Campaign Against Kurdish Websites"
+  },
+  "https://www.sekoia.com/blog/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution": {
+    "ts": "2026-09-25T01:19:01.019856+00:00",
+    "title": "WebDAV-as-a-Service: The Infrastructure Behind Emmenhtal"
+  },
+  "https://www.sekoia.com/blog/securing-gold-hunting-typosquatted-domains-during-the-olympics": {
+    "ts": "2026-09-25T01:19:01.260440+00:00",
+    "title": "Hunting typosquatted domains during the 2024 Olympics"
+  },
+  "https://www.sekoia.com/blog/a-glimpse-into-the-quad7-operators-next-moves-and-associated-botnets": {
+    "ts": "2026-09-25T01:19:01.488808+00:00",
+    "title": "Quad7 Operators' Next Moves And Associated Botnets"
+  },
+  "https://www.sekoia.com/blog/enabling-new-service-models-with-ssdp": {
+    "ts": "2026-09-25T01:19:01.728094+00:00",
+    "title": "Enabling New Service Models With SSDP"
+  },
+  "https://www.sekoia.com/blog/emulating-and-detecting-scattered-spider-like-attacks": {
+    "ts": "2026-09-25T01:19:01.950231+00:00",
+    "title": "Emulating and Detecting Scattered Spider-like Attacks"
+  },
+  "https://www.sekoia.com/blog/solving-the-7777-botnet-enigma-a-cybersecurity-quest": {
+    "ts": "2026-09-25T01:19:02.201900+00:00",
+    "title": "Solving the 7777 Botnet enigma: A cybersecurity quest"
+  },
+  "https://www.sekoia.com/blog/technological-evolution-and-the-rise-of-advanced-security-solutions-for-smes": {
+    "ts": "2026-09-25T01:19:02.201913+00:00",
+    "title": "Advanced Security Solutions for SMEs: The Technology Shift"
+  },
+  "https://www.sekoia.com/blog/muddywater-replaces-atera-by-custom-muddyrot-implant-in-a-recent-campaign": {
+    "ts": "2026-09-25T01:19:02.443622+00:00",
+    "title": "MuddyWater replaces Atera by custom MuddyRot implant"
+  },
+  "https://www.sekoia.com/blog/how-sekoia-io-uses-the-mitre-attck-framework-to-enhance-soc-capabilities": {
+    "ts": "2026-09-25T01:19:02.443639+00:00",
+    "title": "Benefits of MITRE ATT&CK in Sekoia SOC Platform"
+  },
+  "https://www.sekoia.com/blog/efficiency-driven-soc-operations": {
+    "ts": "2026-09-25T01:19:02.443643+00:00",
+    "title": "Efficiency-Driven SOC Operations: Integrated AI SOC Platform"
+  },
+  "https://www.sekoia.com/blog/whats-up-with-the-new-kids": {
+    "ts": "2026-09-25T01:19:02.443646+00:00",
+    "title": "The Shift from On-Prem SIEM to SaaS SOC Platforms"
+  },
+  "https://www.sekoia.com/blog/combining-sekoia-intelligence-and-opencti": {
+    "ts": "2026-09-25T01:19:03.058808+00:00",
+    "title": "Combining Sekoia Intelligence and OpenCTI"
+  },
+  "https://www.sekoia.com/blog/pikabot-a-guide-to-its-deep-secrets-and-operations": {
+    "ts": "2026-09-25T01:19:03.314865+00:00",
+    "title": "PikaBot: a Guide to its Deep Secrets and Operations"
+  },
+  "https://www.sekoia.com/blog/introducing-sekoia-tdr": {
+    "ts": "2026-09-25T01:19:03.550390+00:00",
+    "title": "Meet Sekoia TDR: Our Threat Detection & Research Team"
+  },
+  "https://www.sekoia.com/blog/master-of-puppets-uncovering-the-doppelganger-pro-russian-influence-campaign": {
+    "ts": "2026-09-25T01:19:03.788194+00:00",
+    "title": "DoppelG\u00e4nger: inside the pro-Russian influence campaign"
+  },
+  "https://www.sekoia.com/blog/how-to-empower-the-mssp-business-with-the-sekoia-soc-platform": {
+    "ts": "2026-09-25T01:19:04.038832+00:00",
+    "title": "How to empower MSSP business with Sekoia SOC platform?"
   }
 }
