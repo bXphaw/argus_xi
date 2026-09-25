@@ -14790,5 +14790,45 @@
   "https://www.sekoia.com/blog/how-to-empower-the-mssp-business-with-the-sekoia-soc-platform": {
     "ts": "2026-09-25T01:19:04.038832+00:00",
     "title": "How to empower MSSP business with Sekoia SOC platform?"
+  },
+  "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe": {
+    "ts": "2026-09-25T07:22:42.782124+00:00",
+    "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up"
+  },
+  "https://www.helpnetsecurity.com/2026/09/25/ariel-assaraf-coralogix-ai-agent-guardrails/": {
+    "ts": "2026-09-25T07:22:42.782145+00:00",
+    "title": "Stop watching what AI agents say and start watching what they do"
+  },
+  "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/": {
+    "ts": "2026-09-25T07:22:42.782149+00:00",
+    "title": "Roundcube Webmail Vulnerability in Attackers\u2019 Crosshairs"
+  },
+  "https://www.sekoia.com/blog/mallox-ransomware-affiliate-leverages-purecrypter-in-microsoft-sql-exploitation-campaigns": {
+    "ts": "2026-09-25T07:22:43.259760+00:00",
+    "title": "Mallox ransomware affiliate uses PureCrypter in MS-SQL attacks"
+  },
+  "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html": {
+    "ts": "2026-09-25T07:22:43.259778+00:00",
+    "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data"
+  },
+  "https://www.helpnetsecurity.com/2026/09/25/sans-threat-hunting-data-quality/": {
+    "ts": "2026-09-25T07:22:43.447497+00:00",
+    "title": "Half of threat hunters say bad data is their biggest problem"
+  },
+  "https://www.sekoia.com/blog/guarding-democracy-assessing-cyber-threats-to-2024-worldwide-elections": {
+    "ts": "2026-09-25T07:22:43.635384+00:00",
+    "title": "Assessing Cyber Threats to 2024 Worldwide Elections"
+  },
+  "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html": {
+    "ts": "2026-09-25T07:22:43.822803+00:00",
+    "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV"
+  },
+  "https://www.helpnetsecurity.com/2026/09/25/eu-usa-retail-chain-cyberattacks/": {
+    "ts": "2026-09-25T07:22:44.019015+00:00",
+    "title": "Your incident count is missing a few incidents"
+  },
+  "https://www.helpnetsecurity.com/2026/09/25/new-infosec-products-of-the-month-september-2026/": {
+    "ts": "2026-09-25T07:22:44.215475+00:00",
+    "title": "New infosec products of the month: September 2026"
   }
 }
