@@ -39,6 +39,31 @@
       "category": "new_technique",
       "title": "\u2018SalesBleed\u2019 Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration",
       "url": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Elementor WordPress flaw lets attackers create admin accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/"
+    },
+    {
+      "category": "new_technique",
+      "title": "OnePlus 15 Flaws Let Zero-Permission Apps Gain Root Access Through OxygenOS Services",
+      "url": "https://cybersecuritynews.com/oneplus-15-flaws-zero-permission-apps/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Dark Web Profile: Blue Locker Ransomware",
+      "url": "https://socradar.io/blog/dark-web-profile-blue-locker-ransomware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
+      "url": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html"
+    },
+    {
+      "category": "malware_macos",
+      "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
+      "url": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html"
     }
   ],
   "last_sent_date": "2026-09-25"
