@@ -1,4 +1,45 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "threat_actor",
+      "title": "Inside the Telecom Attack Surface: SS7, BGP Hijacking, and the Technical Reality of Nation-State Intrusions",
+      "url": "https://cyble.com/blog/ss7-bgp-nation-state-intrusions/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Criminals turn placeholder domain into ClickFix trap",
+      "url": "https://www.malwarebytes.com/blog/news/2026/09/criminals-turn-placeholder-domain-into-clickfix-trap"
+    },
+    {
+      "category": "malware_macos",
+      "title": "MacSync info-stealing malware hides malicious commands in an iCloud calendar",
+      "url": "https://www.helpnetsecurity.com/2026/09/25/macsync-info-stealing-malware-for-macos/"
+    },
+    {
+      "category": "malware_macos",
+      "title": "Fake Zoom and Slack downloads are spreading the new Sonoma stealer",
+      "url": "https://moonlock.com/zoom-slack-downloads-spreading-sonoma-stealer"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Fake payroll desktop apps hand attackers a route to company paychecks",
+      "url": "https://www.helpnetsecurity.com/2026/09/25/fake-payroll-desktop-apps-screenconnect/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Windows, Linux, Android File Notification Systems Leak User Activity",
+      "url": "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/"
+    },
+    {
+      "category": "new_technique",
+      "title": "\u2018SalesBleed\u2019 Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration",
+      "url": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/"
+    }
+  ],
   "last_sent_date": "2026-09-25"
 }

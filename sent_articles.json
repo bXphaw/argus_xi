@@ -14830,5 +14830,121 @@
   "https://www.helpnetsecurity.com/2026/09/25/new-infosec-products-of-the-month-september-2026/": {
     "ts": "2026-09-25T07:22:44.215475+00:00",
     "title": "New infosec products of the month: September 2026"
+  },
+  "https://securityaffairs.com/199704/hacking/u-s-cisa-adds-adobe-and-wso2-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-09-25T13:26:00.762517+00:00",
+    "title": "U.S. CISA adds Adobe and WSO2\u00a0flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html": {
+    "ts": "2026-09-25T13:26:07.353481+00:00",
+    "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/": {
+    "ts": "2026-09-25T13:28:01.613163+00:00",
+    "title": "Microsoft plans to deprecate Windows Deployment Services"
+  },
+  "https://cyble.com/blog/ss7-bgp-nation-state-intrusions/": {
+    "ts": "2026-09-25T13:28:01.843735+00:00",
+    "title": "Inside the Telecom Attack Surface: SS7, BGP Hijacking, and the Technical Reality of Nation-State Intrusions"
+  },
+  "https://www.helpnetsecurity.com/2026/09/25/threat-detections-coverage-gaps-report/": {
+    "ts": "2026-09-25T13:28:01.843755+00:00",
+    "title": "Threat detection dashboards are masking security coverage gaps"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/criminals-turn-placeholder-domain-into-clickfix-trap": {
+    "ts": "2026-09-25T13:28:02.024650+00:00",
+    "title": "Criminals turn placeholder domain into ClickFix trap"
+  },
+  "https://moonlock.com/ccspayment-scam": {
+    "ts": "2026-09-25T13:28:02.024669+00:00",
+    "title": "Is CCSPayment a scam or legit? What CCS Offices notices really mean"
+  },
+  "https://securityaffairs.com/199716/malware/ai-powered-carbonato-botnet-steals-credentials-to-fund-its-own-llm-gateway.html": {
+    "ts": "2026-09-25T13:28:02.203369+00:00",
+    "title": "AI-Powered CARBONATO Botnet Steals Credentials to Fund Its Own LLM Gateway"
+  },
+  "https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/": {
+    "ts": "2026-09-25T13:28:02.383294+00:00",
+    "title": "CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks"
+  },
+  "https://socradar.io/blog/check-point-pre-auth-flaws/": {
+    "ts": "2026-09-25T13:28:02.563705+00:00",
+    "title": "Check Point Pre-Auth Flaws Under Attack"
+  },
+  "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html": {
+    "ts": "2026-09-25T13:28:02.744902+00:00",
+    "title": "The SOC Doesn't Need to Start Over with Every Alert"
+  },
+  "https://www.intego.com/mac-security-blog/hide-notes-on-iphone/": {
+    "ts": "2026-09-25T13:28:02.923761+00:00",
+    "title": "How to hide notes on your iPhone"
+  },
+  "https://threatmon.io/port-scanning-vs-service-detection-what-an-open-port-really-means/": {
+    "ts": "2026-09-25T13:28:02.923780+00:00",
+    "title": "Port Scanning vs Service Detection: What an Open Port Really Means"
+  },
+  "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/": {
+    "ts": "2026-09-25T13:28:02.923784+00:00",
+    "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison"
+  },
+  "https://www.helpnetsecurity.com/2026/09/25/macsync-info-stealing-malware-for-macos/": {
+    "ts": "2026-09-25T13:28:03.103690+00:00",
+    "title": "MacSync info-stealing malware hides malicious commands in an iCloud calendar"
+  },
+  "https://www.malwarebytes.com/blog/threat-intel/2026/09/that-shipping-rebate-offer-may-come-with-a-monthly-charge": {
+    "ts": "2026-09-25T13:28:03.103709+00:00",
+    "title": "That shipping rebate offer may come with a monthly charge"
+  },
+  "https://moonlock.com/zoom-slack-downloads-spreading-sonoma-stealer": {
+    "ts": "2026-09-25T13:28:03.284996+00:00",
+    "title": "Fake Zoom and Slack downloads are spreading the new Sonoma stealer"
+  },
+  "https://www.securityweek.com/kosovar-owner-of-rydox-marketplace-pleads-guilty-in-us-court/": {
+    "ts": "2026-09-25T13:28:03.469428+00:00",
+    "title": "Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court"
+  },
+  "https://socradar.io/blog/operation-master-intrusion-monetization-pipeline/": {
+    "ts": "2026-09-25T13:28:03.653284+00:00",
+    "title": "Operation Master: Deconstructing a Multi-Tiered Intrusion and Monetization Pipeline"
+  },
+  "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html": {
+    "ts": "2026-09-25T13:28:03.840054+00:00",
+    "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise"
+  },
+  "https://www.intego.com/mac-security-blog/are-corrupt-my-file-sites-safe-heres-why-to-avoid-corrupt-a-file-services/": {
+    "ts": "2026-09-25T13:28:04.006525+00:00",
+    "title": "Are \u201ccorrupt my file\u201d sites safe? What to know before uploading a file"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/": {
+    "ts": "2026-09-25T13:28:04.182947+00:00",
+    "title": "Microsoft: Recent Windows updates cause desktop loading issues"
+  },
+  "https://www.helpnetsecurity.com/2026/09/25/fake-payroll-desktop-apps-screenconnect/": {
+    "ts": "2026-09-25T13:28:04.361466+00:00",
+    "title": "Fake payroll desktop apps hand attackers a route to company paychecks"
+  },
+  "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/": {
+    "ts": "2026-09-25T13:28:04.541562+00:00",
+    "title": "Windows, Linux, Android File Notification Systems Leak User Activity"
+  },
+  "https://socradar.io/blog/eclecticiq-intelligence-center-socradar-dark-web/": {
+    "ts": "2026-09-25T13:28:04.541582+00:00",
+    "title": "Closing the Dark Web Blind Spot in EclecticIQ Intelligence Center with SOCRadar"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/": {
+    "ts": "2026-09-25T13:28:04.726781+00:00",
+    "title": "Hackers steal $351.6 million in Bitget crypto exchange hack"
+  },
+  "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/": {
+    "ts": "2026-09-25T13:28:04.891463+00:00",
+    "title": "\u2018SalesBleed\u2019 Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration"
+  },
+  "https://socradar.io/blog/cve-2026-94127-f5-big-ip-apm-rce/": {
+    "ts": "2026-09-25T13:28:05.070948+00:00",
+    "title": "CVE-2026-94127: F5 BIG-IP APM RCE Under Active Exploitation"
+  },
+  "https://socradar.io/blog/shinyhunters-access-fbi-systems/": {
+    "ts": "2026-09-25T13:28:05.248784+00:00",
+    "title": "ShinyHunters Claims Access to FBI Systems"
   }
 }
