@@ -15066,5 +15066,101 @@
   "https://cybersecuritynews.com/botnet-uses-ai-agent/": {
     "ts": "2026-09-25T18:23:32.127108+00:00",
     "title": "Researchers Found a Botnet That Uses an AI Agent to Operate Inside Compromised Servers"
+  },
+  "https://securityaffairs.com/199777/hacking/u-s-cisa-adds-microsoft-sharepoint-and-mikrotik-routeros-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-09-25T22:06:01.388194+00:00",
+    "title": "U.S. CISA adds Microsoft SharePoint and Mikrotik RouterOS flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://cybersecuritynews.com/salmon-introduces-execution-verification-infrastructure-evi-for-securing-ai-agents-and-autonomous-systems/": {
+    "ts": "2026-09-25T22:06:04.681491+00:00",
+    "title": "Salmon Introduces Execution Verification Infrastructure (EVI) for Securing AI Agents and Autonomous Systems"
+  },
+  "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/": {
+    "ts": "2026-09-25T22:07:31.829235+00:00",
+    "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks"
+  },
+  "https://cybersecuritynews.com/sauron-loader-malware/": {
+    "ts": "2026-09-25T22:07:32.119547+00:00",
+    "title": "Sauron Loader Malware Uses DLL Side-Loading and In-Memory Decryption to Evade Detection"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness": {
+    "ts": "2026-09-25T22:07:32.119591+00:00",
+    "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment"
+  },
+  "https://gbhackers.com/rogue-ai-agents-tried-to-hack-public-websites/": {
+    "ts": "2026-09-25T22:07:32.119596+00:00",
+    "title": "Rogue AI Agents Tried to Hack Public Websites After Data Retrieval Failed"
+  },
+  "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/": {
+    "ts": "2026-09-25T22:07:32.119600+00:00",
+    "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions"
+  },
+  "https://www.recordedfuture.com/blog/ransomware-threat-intelligence": {
+    "ts": "2026-09-25T22:07:32.222001+00:00",
+    "title": "Using Threat Intelligence to Stop Ransomware Attacks"
+  },
+  "https://www.sophos.com/en-us/blog/kiteworks-recommends-server-shutdown-pending-possible-attack": {
+    "ts": "2026-09-25T22:07:32.325216+00:00",
+    "title": "Kiteworks recommends server shutdown pending possible attack"
+  },
+  "https://www.theregister.com/security/2026/09/25/fake-google-security-team-ad-says-no-script-reading-in-voice-phishing-then-prints-the-script/5299264": {
+    "ts": "2026-09-25T22:07:32.421090+00:00",
+    "title": "Fake Google Security Team ad says 'no script reading' in voice phishing - then prints the script"
+  },
+  "https://www.zscaler.com/blogs/security-research/threat-actors-use-google-ads-target-ledger-users": {
+    "ts": "2026-09-25T22:07:32.516164+00:00",
+    "title": "Threat Actors Use Google Ads To Target Ledger Users"
+  },
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/": {
+    "ts": "2026-09-25T22:07:32.616064+00:00",
+    "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw"
+  },
+  "https://gbhackers.com/cisa-flags-wso2-security-flaw/": {
+    "ts": "2026-09-25T22:07:32.616078+00:00",
+    "title": "CISA Flags WSO2 Security Flaw Under Active Exploitation"
+  },
+  "https://www.theregister.com/cyber-crime/2026/09/25/shinyhunters-tells-the-reg-we-hacked-the-fbi-to-protect-our-business/5299250": {
+    "ts": "2026-09-25T22:07:32.718172+00:00",
+    "title": "ShinyHunters tells The Reg: We hacked the FBI to 'protect our business'"
+  },
+  "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/": {
+    "ts": "2026-09-25T22:07:32.718187+00:00",
+    "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance"
+  },
+  "https://cybersecuritynews.com/tweakos-malware/": {
+    "ts": "2026-09-25T22:07:32.812224+00:00",
+    "title": "TWEAKOS Malware Turns Telegram Into a Stealer, C2 Platform and Stolen Account Marketplace"
+  },
+  "https://gbhackers.com/cisa-adds-multiple-check-point-product-flaws/": {
+    "ts": "2026-09-25T22:07:32.812239+00:00",
+    "title": "CISA Adds Multiple Check Point Product Flaws to Exploited Vulnerabilities List"
+  },
+  "https://cybersecuritynews.com/critical-servicenow-vulnerabilities/": {
+    "ts": "2026-09-25T22:07:32.911213+00:00",
+    "title": "Critical ServiceNow Vulnerabilities Let Attackers Bypass Authorization \u2013 Update Now!"
+  },
+  "https://gbhackers.com/salesforce-agentforce-flaw/": {
+    "ts": "2026-09-25T22:07:33.015297+00:00",
+    "title": "Salesforce Agentforce Flaw Enables 0-Click Data Exfiltration via Prompt Injection"
+  },
+  "https://cybersecuritynews.com/wordpress-comment2shell-vulnerability/": {
+    "ts": "2026-09-25T22:07:33.119721+00:00",
+    "title": "WordPress Comment2Shell Vulnerability Lets Hackers Take Over Sites Through Comments"
+  },
+  "https://gbhackers.com/sudo-vulnerability/": {
+    "ts": "2026-09-25T22:07:33.219341+00:00",
+    "title": "Sudo Vulnerability Lets Attackers Bypass Time-Based Authorization Controls"
+  },
+  "https://cybersecuritynews.com/business-emails/": {
+    "ts": "2026-09-25T22:07:33.323323+00:00",
+    "title": "Attackers Are Turning Everyday Business Emails Into Malware Delivery Machines"
+  },
+  "https://gbhackers.com/duelbits-hot-wallet-hack-drains-7-million/": {
+    "ts": "2026-09-25T22:07:33.426641+00:00",
+    "title": "Duelbits Hot Wallet Hack Drains $7 Million, Forces Platform Offline"
+  },
+  "https://gbhackers.com/attackers-drain-payy-network/": {
+    "ts": "2026-09-25T22:07:33.529868+00:00",
+    "title": "Attackers Drain Payy Network After Exploiting Ethereum Bridge Contract"
   }
 }
