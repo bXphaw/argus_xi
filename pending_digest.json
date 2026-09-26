@@ -89,6 +89,11 @@
       "category": "new_technique",
       "title": "Attackers Drain Payy Network After Exploiting Ethereum Bridge Contract",
       "url": "https://gbhackers.com/attackers-drain-payy-network/"
+    },
+    {
+      "category": "new_technique",
+      "title": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/"
     }
   ],
   "last_sent_date": "2026-09-25"
