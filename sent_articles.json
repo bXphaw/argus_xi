@@ -15274,5 +15274,17 @@
   "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/": {
     "ts": "2026-09-26T16:58:22.667766+00:00",
     "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active"
+  },
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/": {
+    "ts": "2026-09-26T19:40:33.142558+00:00",
+    "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks"
+  },
+  "https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/": {
+    "ts": "2026-09-26T19:40:33.142582+00:00",
+    "title": "China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks"
+  },
+  "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html": {
+    "ts": "2026-09-26T19:40:33.246365+00:00",
+    "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials"
   }
 }
