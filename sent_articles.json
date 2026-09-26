@@ -15234,5 +15234,45 @@
   "https://gbhackers.com/openai-says-misaligned-ai-agents-hacked-hugging-face/": {
     "ts": "2026-09-26T12:49:43.631501+00:00",
     "title": "OpenAI Says Misaligned AI Agents Hacked Hugging Face and Bypassed Security Controls"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/": {
+    "ts": "2026-09-26T16:58:20.928266+00:00",
+    "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer"
+  },
+  "https://cybersecuritynews.com/local-ai-bypasses-edr/": {
+    "ts": "2026-09-26T16:58:21.156674+00:00",
+    "title": "Local AI Model Modifies Windows Credential Dumper to Bypass EDR Detection"
+  },
+  "https://securityaffairs.com/199815/ai/openai-agents-accessed-us-government-websites-without-authorization.html": {
+    "ts": "2026-09-26T16:58:21.156698+00:00",
+    "title": "OpenAI Agents Accessed US Government Websites Without Authorization"
+  },
+  "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html": {
+    "ts": "2026-09-26T16:58:21.666673+00:00",
+    "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells"
+  },
+  "https://www.trendmicro.com/en_us/research/26/i/safely-securing-ai-agents.html": {
+    "ts": "2026-09-26T16:58:21.666696+00:00",
+    "title": "AI Agents Can Be Secured. We Can Do It."
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/": {
+    "ts": "2026-09-26T16:58:21.863434+00:00",
+    "title": "Microsoft pauses KB5002907 update after Office license deactivations"
+  },
+  "https://cybersecuritynews.com/f-droid-2-0-released/": {
+    "ts": "2026-09-26T16:58:22.066254+00:00",
+    "title": "F-Droid 2.0 Released After 10 years With Major Redesign to Transform Open-Source Android App Discovery"
+  },
+  "https://securityaffairs.com/199800/cyber-crime/exploit-in-database-reveals-the-roots-of-todays-ransomware-ecosystem.html": {
+    "ts": "2026-09-26T16:58:22.269225+00:00",
+    "title": "Exploit.in Database Reveals the Roots of Today\u2019s Ransomware Ecosystem"
+  },
+  "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html": {
+    "ts": "2026-09-26T16:58:22.464223+00:00",
+    "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility"
+  },
+  "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/": {
+    "ts": "2026-09-26T16:58:22.667766+00:00",
+    "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active"
   }
 }

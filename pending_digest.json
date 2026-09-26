@@ -24,6 +24,16 @@
       "category": "new_technique",
       "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
       "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Local AI Model Modifies Windows Credential Dumper to Bypass EDR Detection",
+      "url": "https://cybersecuritynews.com/local-ai-bypasses-edr/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+      "url": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html"
     }
   ],
   "last_sent_date": "2026-09-26"
