@@ -1,4 +1,30 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "OpenAI\u2019s AI Agents Tried Hacking 4 Websites Without Being Prompted",
+      "url": "https://cybersecuritynews.com/openais-ai-agents-tried-hacking-4-websites/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Red Heron Exploits Critical Gitea Flaw to Steal Repositories and Deploy Linux Rootkit",
+      "url": "https://gbhackers.com/red-heron-exploits-critical-gitea-flaw/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining",
+      "url": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/"
+    },
+    {
+      "category": "new_technique",
+      "title": "16-Year-Old Researcher Finds Microsoft Auth Vulnerability that Exposes 17.3 Trillion Stored Records",
+      "url": "https://cybersecuritynews.com/microsoft-auth-vulnerability-expose-records/"
+    },
+    {
+      "category": "new_technique",
+      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html"
+    }
+  ],
   "last_sent_date": "2026-09-26"
 }

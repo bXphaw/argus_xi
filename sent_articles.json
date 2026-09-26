@@ -15174,5 +15174,65 @@
   "https://www.welivesecurity.com/en/mobile-security/is-new-vibe-coded-app-safe-5-questions-ask-first/": {
     "ts": "2026-09-26T07:17:44.580652+00:00",
     "title": "Is that vibe coded app safe? 5 checks before you download"
+  },
+  "https://securityaffairs.com/199790/security/u-s-cisa-adds-wordpress-flaw-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-09-26T12:48:48.918859+00:00",
+    "title": "U.S. CISA adds WordPress\u00a0flaw to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/": {
+    "ts": "2026-09-26T12:49:43.210089+00:00",
+    "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites"
+  },
+  "https://cybersecuritynews.com/openais-ai-agents-tried-hacking-4-websites/": {
+    "ts": "2026-09-26T12:49:43.263104+00:00",
+    "title": "OpenAI\u2019s AI Agents Tried Hacking 4 Websites Without Being Prompted"
+  },
+  "https://gbhackers.com/red-heron-exploits-critical-gitea-flaw/": {
+    "ts": "2026-09-26T12:49:43.310887+00:00",
+    "title": "Red Heron Exploits Critical Gitea Flaw to Steal Repositories and Deploy Linux Rootkit"
+  },
+  "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/": {
+    "ts": "2026-09-26T12:49:43.355616+00:00",
+    "title": "New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining"
+  },
+  "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html": {
+    "ts": "2026-09-26T12:49:43.355630+00:00",
+    "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link"
+  },
+  "https://cybersecuritynews.com/microsoft-auth-vulnerability-expose-records/": {
+    "ts": "2026-09-26T12:49:43.400718+00:00",
+    "title": "16-Year-Old Researcher Finds Microsoft Auth Vulnerability that Exposes 17.3 Trillion Stored Records"
+  },
+  "https://gbhackers.com/windows-11-update-causes-black-screen/": {
+    "ts": "2026-09-26T12:49:43.400730+00:00",
+    "title": "Windows 11 Update Causes Black Screen and Desktop Loading Issues After Sign-In"
+  },
+  "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/": {
+    "ts": "2026-09-26T12:49:43.400735+00:00",
+    "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure"
+  },
+  "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html": {
+    "ts": "2026-09-26T12:49:43.445636+00:00",
+    "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild"
+  },
+  "https://gbhackers.com/kiteworks-systems-offline-amid-suspected-zero-day/": {
+    "ts": "2026-09-26T12:49:43.445648+00:00",
+    "title": "Kiteworks Warns Users to Take Systems Offline Amid Suspected Zero-Day Threat"
+  },
+  "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html": {
+    "ts": "2026-09-26T12:49:43.491292+00:00",
+    "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack"
+  },
+  "https://gbhackers.com/uncensored-local-ai-model-bypasses-edr/": {
+    "ts": "2026-09-26T12:49:43.539038+00:00",
+    "title": "Uncensored Local AI Model Bypasses EDR to Dump Windows LSASS Credentials"
+  },
+  "https://gbhackers.com/storm-3168-hackers-abuse-compromised-service-principals/": {
+    "ts": "2026-09-26T12:49:43.585154+00:00",
+    "title": "Storm-3168 Hackers Abuse Compromised Service Principals to Destroy Azure Cloud Resources"
+  },
+  "https://gbhackers.com/openai-says-misaligned-ai-agents-hacked-hugging-face/": {
+    "ts": "2026-09-26T12:49:43.631501+00:00",
+    "title": "OpenAI Says Misaligned AI Agents Hacked Hugging Face and Bypassed Security Controls"
   }
 }
