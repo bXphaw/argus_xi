@@ -15290,5 +15290,25 @@
   "https://cybersecuritynews.com/citrix-netscaler-0-day-rce-2/": {
     "ts": "2026-09-27T07:49:10.163214+00:00",
     "title": "Citrix NetScaler 0-Day RCE Vulnerabilities Actively Exploited in Attacks"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/": {
+    "ts": "2026-09-27T13:41:20.243148+00:00",
+    "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors"
+  },
+  "https://www.helpnetsecurity.com/2026/09/27/week-in-review-gyazo-breach-exposes-23-6m-user-data-taskstomp-steals-documents/": {
+    "ts": "2026-09-27T13:41:20.495175+00:00",
+    "title": "Week in review: Gyazo breach exposes 23.6M user data, TASK#STOMP steals documents"
+  },
+  "https://securityaffairs.com/199825/uncategorized/rydox-admin-faces-20-years-after-selling-stolen-data-and-fraud-tools.html": {
+    "ts": "2026-09-27T13:41:20.495191+00:00",
+    "title": "Rydox Admin Faces 20 Years After Selling Stolen Data and Fraud Tools"
+  },
+  "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/": {
+    "ts": "2026-09-27T13:41:20.495196+00:00",
+    "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks"
+  },
+  "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html": {
+    "ts": "2026-09-27T13:41:20.732603+00:00",
+    "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation"
   }
 }
