@@ -15286,5 +15286,9 @@
   "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html": {
     "ts": "2026-09-26T19:40:33.246365+00:00",
     "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials"
+  },
+  "https://cybersecuritynews.com/citrix-netscaler-0-day-rce-2/": {
+    "ts": "2026-09-27T07:49:10.163214+00:00",
+    "title": "Citrix NetScaler 0-Day RCE Vulnerabilities Actively Exploited in Attacks"
   }
 }
