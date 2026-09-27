@@ -24,6 +24,11 @@
       "category": "new_technique",
       "title": "New Windows Process Injection Attack Evades EDR Monitoring Without WriteProcessMemory",
       "url": "https://cybersecuritynews.com/windows-process-injection-evades-edr/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Citrix Confirmed Two New NetScaler Flaws Exploited as Zero-Day",
+      "url": "https://securityaffairs.com/199873/security/citrix-confirmed-two-new-netscaler-flaws-exploited-as-zero-day.html"
     }
   ],
   "last_sent_date": "2026-09-27"
