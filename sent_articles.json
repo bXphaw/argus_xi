@@ -15414,5 +15414,125 @@
   "https://www.helpnetsecurity.com/2026/09/28/quantum-random-number-generator-qrng-guidance/": {
     "ts": "2026-09-28T06:30:04.620512+00:00",
     "title": "Quantum random numbers can pass the tests and still leak clues to attackers"
+  },
+  "https://asec.ahnlab.com/en/95589/": {
+    "ts": "2026-09-28T15:10:12.392428+00:00",
+    "title": "Security Issues in the Korean & Global Financial Sector in August 2026"
+  },
+  "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/": {
+    "ts": "2026-09-28T15:10:12.392449+00:00",
+    "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking"
+  },
+  "https://research.checkpoint.com/2026/28th-september-threat-intelligence-report/": {
+    "ts": "2026-09-28T15:10:12.649111+00:00",
+    "title": "28th September \u2013 Threat Intelligence Report"
+  },
+  "https://cybersecuritynews.com/citrix-netscaler-0-day-vulnerabilities/": {
+    "ts": "2026-09-28T15:10:12.649130+00:00",
+    "title": "NCSC Urges UK organizations to Patch for Citrix NetScaler ADC and Gateway 0-Day Vulnerabilities"
+  },
+  "https://cyble.com/blog/attack-surface-management-point-in-time/": {
+    "ts": "2026-09-28T15:10:12.649135+00:00",
+    "title": "Attack Surface Management in 2026: Why Point-in-Time Scans Can\u2019t Keep Up With Cloud Sprawl"
+  },
+  "https://blog.eclecticiq.com/mitre-attck-v19": {
+    "ts": "2026-09-28T15:10:12.890844+00:00",
+    "title": "MITRE ATT&CK v19: What's changed, and how EclecticIQ helps you keep up"
+  },
+  "https://gbhackers.com/ai-tools-for-attack/": {
+    "ts": "2026-09-28T15:10:13.126198+00:00",
+    "title": "Researchers Discover Cybercrime Server Containing AI Tools, Phishing Kits and Stolen Data"
+  },
+  "https://www.helpnetsecurity.com/2026/09/28/fbi-job-portals-offline-shinyhunters-breach/": {
+    "ts": "2026-09-28T15:10:13.368239+00:00",
+    "title": "FBI job portals remain offline after ShinyHunters claims breach via PeopleSoft zero-day"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/09/openai-pauses-work-on-top-ai-models-after-agent-slips-past-internet-controls": {
+    "ts": "2026-09-28T15:10:13.619074+00:00",
+    "title": "OpenAI pauses work on top AI models after agent slips past internet controls"
+  },
+  "https://moonlock.com/bumble-scams": {
+    "ts": "2026-09-28T15:10:13.863843+00:00",
+    "title": "9 tricks behind every Bumble scam that can start with a single photo"
+  },
+  "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/": {
+    "ts": "2026-09-28T15:10:14.097201+00:00",
+    "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild"
+  },
+  "https://www.rapid7.com/blog/post/etr-zero-day-exploitation-of-citrix-netscaler-adc-and-gateway-cve-2026-88771-and-cve-2026-88772": {
+    "ts": "2026-09-28T15:10:14.332717+00:00",
+    "title": "Zero-Day Exploitation of Citrix NetScaler ADC and Gateway: CVE-2026-88771 and CVE-2026-88772"
+  },
+  "https://www.recordedfuture.com/blog/mcp-intelligence-layer": {
+    "ts": "2026-09-28T15:10:14.332737+00:00",
+    "title": "Recorded Future Launches MCP, the Intelligence Layer for Agentic Security Operations"
+  },
+  "https://rewterz.com/threat-advisory/wordpress-flaw-enables-malicious-code-execution": {
+    "ts": "2026-09-28T15:10:14.604482+00:00",
+    "title": "WordPress Flaw Enables Malicious Code Execution"
+  },
+  "https://securityaffairs.com/199926/data-breach/nearly-400000-medicaid-beneficiaries-caught-in-medicaid-and-dc-healthcare-alliance-data-exposure.html": {
+    "ts": "2026-09-28T15:10:14.604501+00:00",
+    "title": "Nearly 400,000 Medicaid Beneficiaries Caught in Medicaid and DC Healthcare Alliance Data Exposure"
+  },
+  "https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/": {
+    "ts": "2026-09-28T15:10:14.849333+00:00",
+    "title": "Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon"
+  },
+  "https://www.silentpush.com/webinar/danglegeddon-webinar-on-demand/?utm_source=rss&utm_medium=rss&utm_campaign=danglegeddon-webinar-on-demand": {
+    "ts": "2026-09-28T15:10:15.088663+00:00",
+    "title": "Danglegeddon: Find your vulnerable subdomains before\u00a0AI agents\u00a0take them over"
+  },
+  "https://socradar.io/blog/citrix-netscaler-cve-2026-88771-88772/": {
+    "ts": "2026-09-28T15:10:15.332089+00:00",
+    "title": "Citrix NetScaler Zero-Days FAQ: CVE-2026-88771 & 88772"
+  },
+  "https://www.sophos.com/en-us/blog/citrix-netscaler-cve-2026-88771-cve-2026-88772-in-active-exploitation": {
+    "ts": "2026-09-28T15:10:15.565642+00:00",
+    "title": "Citrix NetScaler vulnerabilities (CVE-2026-88771, CVE-2026-88772) in active exploitation"
+  },
+  "https://www.security.com/expert-perspectives/image-isnt-stopping-svg-borne-attacks": {
+    "ts": "2026-09-28T15:10:15.797198+00:00",
+    "title": "The Image That Isn't\u2014Stopping SVG-Borne Attacks"
+  },
+  "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html": {
+    "ts": "2026-09-28T15:10:16.034283+00:00",
+    "title": "\u26a1 Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats"
+  },
+  "https://www.theregister.com/cyber-crime/2026/09/28/ex-soldiers-telecom-hacking-spree-earns-him-70-months/5299440": {
+    "ts": "2026-09-28T15:10:16.034302+00:00",
+    "title": "Ex-soldier's telecom hacking spree earns him 70 months"
+  },
+  "https://threatmon.io/16415-stolen-passwords-one-open-door-how-blackhatsect0r-dxqrtxx-exposed-themselves/": {
+    "ts": "2026-09-28T15:10:16.267534+00:00",
+    "title": "16,415 Stolen Passwords, One Open Door: How Blackhatsect0r & DXQRTXX Exposed Themselves"
+  },
+  "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/": {
+    "ts": "2026-09-28T15:10:16.267554+00:00",
+    "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist"
+  },
+  "https://cybersecuritynews.com/new-file-notification-attack/": {
+    "ts": "2026-09-28T15:10:16.507140+00:00",
+    "title": "New File Notification Attack Lets Hackers Track User Activity Across Linux, Windows and macOS"
+  },
+  "https://gbhackers.com/openai-agent-swarm-used-nearly-1-million-urls-to-hack-hugging-face/": {
+    "ts": "2026-09-28T15:10:16.742331+00:00",
+    "title": "OpenAI Agent Swarm Used Nearly 1 Million URLs to Hack Hugging Face"
+  },
+  "https://www.helpnetsecurity.com/2026/09/28/microsoft-titan-jwt-signature-flaw/": {
+    "ts": "2026-09-28T15:10:16.976922+00:00",
+    "title": "16-year-old researcher breaks into Microsoft analytics service with access to 17 trillion rows of data"
+  },
+  "https://www.malwarebytes.com/blog/data-breaches/2026/09/fbi-agents-blood-tests-and-doctors-notes-surface-after-breach": {
+    "ts": "2026-09-28T15:10:17.208882+00:00",
+    "title": "FBI agents\u2019 blood tests and doctors\u2019 notes surface after breach"
+  },
+  "https://rewterz.com/threat-advisory/ibm-ftm-flaws-enable-code-execution": {
+    "ts": "2026-09-28T15:10:17.447141+00:00",
+    "title": "IBM FTM Flaws Enable Code Execution"
+  },
+  "https://securityaffairs.com/199905/cyber-crime/storm-3168-linked-to-jadepuffer-abused-stolen-azure-identities.html": {
+    "ts": "2026-09-28T15:10:17.687796+00:00",
+    "title": "Storm-3168, Linked to JADEPUFFER, Abused Stolen Azure Identities"
   }
 }
