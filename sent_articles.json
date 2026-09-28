@@ -15534,5 +15534,125 @@
   "https://securityaffairs.com/199905/cyber-crime/storm-3168-linked-to-jadepuffer-abused-stolen-azure-identities.html": {
     "ts": "2026-09-28T15:10:17.687796+00:00",
     "title": "Storm-3168, Linked to JADEPUFFER, Abused Stolen Azure Identities"
+  },
+  "https://securityaffairs.com/199891/hacking/u-s-cisa-adds-citrix-netscaler-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-09-28T21:42:30.216482+00:00",
+    "title": "U.S. CISA adds Citrix NetScaler flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/": {
+    "ts": "2026-09-28T21:44:10.445011+00:00",
+    "title": "Japan's Keio confirms ransomware attack disrupted business systems"
+  },
+  "https://cybersecuritynews.com/florida-ag-seeks-emergency-injunction-on-chatgpt/": {
+    "ts": "2026-09-28T21:44:10.445032+00:00",
+    "title": "Florida AG Seeks Emergency Injunction to Restrict OpenAI and ChatGPT Over AI Safety Risks"
+  },
+  "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine": {
+    "ts": "2026-09-28T21:44:10.830587+00:00",
+    "title": "One Packet Can Crash OT Servers in Industrial Sectors"
+  },
+  "https://gbhackers.com/nvidia-launches-in-silicon-security-platform/": {
+    "ts": "2026-09-28T21:44:10.830607+00:00",
+    "title": "NVIDIA Launches In-Silicon Security Platform to Monitor and Control Autonomous AI Agents"
+  },
+  "https://www.helpnetsecurity.com/2026/09/28/cve-2025-68788-file-notification-attacks/": {
+    "ts": "2026-09-28T21:44:10.953756+00:00",
+    "title": "Other users can watch your browsing and time your keystrokes through OS file notifications"
+  },
+  "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/": {
+    "ts": "2026-09-28T21:44:11.091395+00:00",
+    "title": "Dutch Police Arrest \u2018Reformed\u2019 Hacker in Shiny Hunters Investigation"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/a-week-in-security-september-21-september-27": {
+    "ts": "2026-09-28T21:44:11.216519+00:00",
+    "title": "A week in security (September 21 \u2013 September 27)"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/": {
+    "ts": "2026-09-28T21:44:11.360269+00:00",
+    "title": "NeedyMantis: Unpacking a post-compromise malware family used in targeted operations"
+  },
+  "https://moonlock.com/hide-orders-on-amazon": {
+    "ts": "2026-09-28T21:44:11.486914+00:00",
+    "title": "How to hide orders on Amazon and clear your browsing history"
+  },
+  "https://rewterz.com/threat-advisory/gitlab-email-flaw-enables-code-injection": {
+    "ts": "2026-09-28T21:44:11.627082+00:00",
+    "title": "GitLab Email Flaw Enables Code Injection"
+  },
+  "https://securityaffairs.com/199933/ai/ai-accounts-are-becoming-the-new-target-for-infostealers.html": {
+    "ts": "2026-09-28T21:44:11.761626+00:00",
+    "title": "AI Accounts Are Becoming the New Target for Infostealers"
+  },
+  "https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/": {
+    "ts": "2026-09-28T21:44:11.761648+00:00",
+    "title": "Modulate Raises $25 Million to Advance Deepfake Detection"
+  },
+  "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html": {
+    "ts": "2026-09-28T21:44:11.761653+00:00",
+    "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks"
+  },
+  "https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591": {
+    "ts": "2026-09-28T21:44:11.761657+00:00",
+    "title": "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources"
+  },
+  "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/": {
+    "ts": "2026-09-28T21:44:11.761660+00:00",
+    "title": "Times Car confirms data breach affecting 6.6 million user accounts"
+  },
+  "https://cybersecuritynews.com/needymantis-malware-secret-network-access/": {
+    "ts": "2026-09-28T21:44:11.908274+00:00",
+    "title": "Microsoft Finds New Malware Used by Hackers to Maintain Secret Access Inside Target Networks"
+  },
+  "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts": {
+    "ts": "2026-09-28T21:44:12.018170+00:00",
+    "title": "Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts"
+  },
+  "https://gbhackers.com/oracle-peoplesoft-servers/": {
+    "ts": "2026-09-28T21:44:12.151018+00:00",
+    "title": "Oracle PeopleSoft Servers Targeted Again as ShinyHunters Expands Extortion Operations"
+  },
+  "https://www.helpnetsecurity.com/2026/09/28/nvidia-open-agent-safety-platform/": {
+    "ts": "2026-09-28T21:44:12.285133+00:00",
+    "title": "NVIDIA wants AI agent safety enforced in silicon, not left to the agent"
+  },
+  "https://moonlock.com/messenger-hacked": {
+    "ts": "2026-09-28T21:44:12.415082+00:00",
+    "title": "Is your Messenger hacked? Here\u2019s how to tell and what to do"
+  },
+  "https://rewterz.com/threat-advisory/microsoft-sharepoint-flaw-enables-remote-code-execution": {
+    "ts": "2026-09-28T21:44:12.560837+00:00",
+    "title": "Microsoft SharePoint Flaw Enables Remote Code Execution"
+  },
+  "https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/": {
+    "ts": "2026-09-28T21:44:12.560857+00:00",
+    "title": "Call for Presentations Open for 2026 CISO Forum Virtual Summit"
+  },
+  "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html": {
+    "ts": "2026-09-28T21:44:12.674089+00:00",
+    "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks"
+  },
+  "https://www.theregister.com/security/2026/09/28/certainties-in-life-death-taxes-and-critical-citrix-vulns-under-attack/5299369": {
+    "ts": "2026-09-28T21:44:12.674112+00:00",
+    "title": "Certainties in life: Death, taxes, and critical Citrix vulns under attack"
+  },
+  "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/": {
+    "ts": "2026-09-28T21:44:12.814718+00:00",
+    "title": "Dutch police confirm arrest in ShinyHunters hacking investigation"
+  },
+  "https://cybersecuritynews.com/ai-powered-attack-machine/": {
+    "ts": "2026-09-28T21:44:12.935511+00:00",
+    "title": "Hackers Built an AI-Powered Attack Machine and Accidentally Left the Control Panel Open"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access": {
+    "ts": "2026-09-28T21:44:12.935533+00:00",
+    "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?"
+  },
+  "https://gbhackers.com/670-jev-domains-registered/": {
+    "ts": "2026-09-28T21:44:12.935538+00:00",
+    "title": "670 Jev Domains Registered After Launch as Fake AI Marketplaces Target Users"
+  },
+  "https://www.helpnetsecurity.com/2026/09/28/drunk-ai-models-jailbreak-research/": {
+    "ts": "2026-09-28T21:44:12.935542+00:00",
+    "title": "\u201cDrunk\u201d AI is terrible at keeping secrets"
   }
 }

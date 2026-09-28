@@ -1,4 +1,40 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "One Packet Can Crash OT Servers in Industrial Sectors",
+      "url": "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine"
+    },
+    {
+      "category": "new_technique",
+      "title": "Other users can watch your browsing and time your keystrokes through OS file notifications",
+      "url": "https://www.helpnetsecurity.com/2026/09/28/cve-2025-68788-file-notification-attacks/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "AI Accounts Are Becoming the New Target for Infostealers",
+      "url": "https://securityaffairs.com/199933/ai/ai-accounts-are-becoming-the-new-target-for-infostealers.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Microsoft SharePoint Flaw Enables Remote Code Execution",
+      "url": "https://rewterz.com/threat-advisory/microsoft-sharepoint-flaw-enables-remote-code-execution"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+      "url": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Built an AI-Powered Attack Machine and Accidentally Left the Control Panel Open",
+      "url": "https://cybersecuritynews.com/ai-powered-attack-machine/"
+    }
+  ],
   "last_sent_date": "2026-09-28"
 }
