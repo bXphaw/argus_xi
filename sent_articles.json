@@ -15350,5 +15350,69 @@
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/": {
     "ts": "2026-09-28T00:25:41.084545+00:00",
     "title": "OpenAI is preparing \u201co,\u201d an always-on ChatGPT assistant that could handle email"
+  },
+  "https://gbhackers.com/16-year-old-researcher-discovers-microsoft-authentication-bug/": {
+    "ts": "2026-09-28T06:29:15.407691+00:00",
+    "title": "16-Year-Old Researcher Discovers Microsoft Authentication Bug Exposing 17.3 Trillion Records"
+  },
+  "https://gbhackers.com/new-windows-process-injection-technique-bypasses-edr/": {
+    "ts": "2026-09-28T06:29:19.660916+00:00",
+    "title": "New Windows Process Injection Technique Bypasses EDR Monitoring Without WriteProcessMemory"
+  },
+  "https://gbhackers.com/citrix-confirms-netscaler-zero-day-rce-flaws/": {
+    "ts": "2026-09-28T06:29:22.686221+00:00",
+    "title": "Citrix Confirms NetScaler Zero-Day RCE Flaws Actively Exploited in Attacks"
+  },
+  "https://asec.ahnlab.com/en/95561/": {
+    "ts": "2026-09-28T06:30:02.786953+00:00",
+    "title": "Vulnerability Attack Case: Installation of a Web Shell and Execution of a Scanner by Exploiting a Telerik UI Vulnerability"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/": {
+    "ts": "2026-09-28T06:30:02.786975+00:00",
+    "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday"
+  },
+  "https://cybersecuritynews.com/wireshark-4-6-9-fixes-19-vulnerabilities/": {
+    "ts": "2026-09-28T06:30:02.786979+00:00",
+    "title": "Wireshark 4.6.9 Fixes 19 Vulnerabilities Including Code Execution Via Malicious Packet"
+  },
+  "https://www.helpnetsecurity.com/2026/09/28/chris-latimer-vectorize-agent-memory-security/": {
+    "ts": "2026-09-28T06:30:02.786982+00:00",
+    "title": "If you do one security check this quarter, make it agent memory"
+  },
+  "https://securityaffairs.com/199882/security/roundcube-sql-injection-cve-2026-48842-is-now-being-exploited-in-the-wild.html": {
+    "ts": "2026-09-28T06:30:03.003844+00:00",
+    "title": "Roundcube SQL injection CVE-2026-48842 is now being exploited in the wild"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350": {
+    "ts": "2026-09-28T06:30:03.218369+00:00",
+    "title": "OpenAI pauses some training amid allegations its rogue agents behaved more badly than first thought"
+  },
+  "https://asec.ahnlab.com/en/95567/": {
+    "ts": "2026-09-28T06:30:03.439650+00:00",
+    "title": "August 2026 Threat Trend Report on Ransomware"
+  },
+  "https://cybersecuritynews.com/which-platforms-to-use-for-enterprise-threat-intelligence/": {
+    "ts": "2026-09-28T06:30:03.999871+00:00",
+    "title": "Which Platforms to Use for Enterprise Threat Intelligence"
+  },
+  "https://www.helpnetsecurity.com/2026/09/28/authorizer-open-source-authentication-server/": {
+    "ts": "2026-09-28T06:30:04.417006+00:00",
+    "title": "Authorizer: Open-source authentication and authorization for your apps"
+  },
+  "https://gbhackers.com/macsyncs-new-infection-chain/": {
+    "ts": "2026-09-28T06:30:04.620484+00:00",
+    "title": "MacSync\u2019s New Infection Chain Shows How Mac Malware Is Becoming More Sophisticated"
+  },
+  "https://www.helpnetsecurity.com/2026/09/28/ai-agent-security-governance-aws-report/": {
+    "ts": "2026-09-28T06:30:04.620506+00:00",
+    "title": "AI tests the limits of enterprise security governance"
+  },
+  "https://www.helpnetsecurity.com/2026/09/28/product-showcase-verdict/": {
+    "ts": "2026-09-28T06:30:04.620509+00:00",
+    "title": "Product showcase: A photo can fool your eyes, Verdict checks the evidence"
+  },
+  "https://www.helpnetsecurity.com/2026/09/28/quantum-random-number-generator-qrng-guidance/": {
+    "ts": "2026-09-28T06:30:04.620512+00:00",
+    "title": "Quantum random numbers can pass the tests and still leak clues to attackers"
   }
 }

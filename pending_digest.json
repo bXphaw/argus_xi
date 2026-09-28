@@ -29,6 +29,16 @@
       "category": "new_technique",
       "title": "Citrix Confirmed Two New NetScaler Flaws Exploited as Zero-Day",
       "url": "https://securityaffairs.com/199873/security/citrix-confirmed-two-new-netscaler-flaws-exploited-as-zero-day.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Vulnerability Attack Case: Installation of a Web Shell and Execution of a Scanner by Exploiting a Telerik UI Vulnerability",
+      "url": "https://asec.ahnlab.com/en/95561/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Roundcube SQL injection CVE-2026-48842 is now being exploited in the wild",
+      "url": "https://securityaffairs.com/199882/security/roundcube-sql-injection-cve-2026-48842-is-now-being-exploited-in-the-wild.html"
     }
   ],
   "last_sent_date": "2026-09-27"
