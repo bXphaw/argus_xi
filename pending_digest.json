@@ -19,6 +19,41 @@
       "category": "malware_windows",
       "title": "Hackers Built a Botnet That Doesn\u2019t Just Steal Data, It Burns AI Credits",
       "url": "https://cybersecuritynews.com/hackers-built-a-botnet/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them",
+      "url": "https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "FBI and Dutch Police Arrested Alleged ShinyHunters Hackers Group Leader",
+      "url": "https://cybersecuritynews.com/alleged-shinyhunters-leader-arrested/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Custom malware used in Citrix 0-day attacks targeting govt, banks, professional services",
+      "url": "https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Turned Ethereum Into a Secret Messaging System for Malware",
+      "url": "https://cybersecuritynews.com/ethereum-secret-messaging-system/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Malicious Custom GPT on chatgpt.com lures users into installing a RAT",
+      "url": "https://www.helpnetsecurity.com/2026/09/29/malicious-chatgpt-custom-gpt-malware-via-clickfix/"
     }
   ],
   "last_sent_date": "2026-09-29"

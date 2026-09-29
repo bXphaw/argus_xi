@@ -16006,5 +16006,125 @@
   "https://www.intego.com/mac-security-blog/whats-the-difference-between-malware-trojan-virus-and-worm/": {
     "ts": "2026-09-29T15:34:08.535419+00:00",
     "title": "What\u2019s the difference between malware, a virus, a Trojan, and a worm?"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/": {
+    "ts": "2026-09-29T20:35:41.399924+00:00",
+    "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest"
+  },
+  "https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/": {
+    "ts": "2026-09-29T20:35:41.652063+00:00",
+    "title": "Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them"
+  },
+  "https://cybersecuritynews.com/alleged-shinyhunters-leader-arrested/": {
+    "ts": "2026-09-29T20:35:41.892084+00:00",
+    "title": "FBI and Dutch Police Arrested Alleged ShinyHunters Hackers Group Leader"
+  },
+  "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web": {
+    "ts": "2026-09-29T20:35:41.892103+00:00",
+    "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web"
+  },
+  "https://gbhackers.com/octopus-server-flaw/": {
+    "ts": "2026-09-29T20:35:41.892108+00:00",
+    "title": "Octopus Server Flaw Lets Authenticated Attackers Execute Arbitrary Code"
+  },
+  "https://www.helpnetsecurity.com/2026/09/29/meta-muse-for-small-business/": {
+    "ts": "2026-09-29T20:35:42.127963+00:00",
+    "title": "Meta gives small businesses an AI agent that knows their work"
+  },
+  "https://www.malwarebytes.com/blog/threat-intel/2026/09/fake-iphone-duo-preorder-scam-triggers-darksword-attack": {
+    "ts": "2026-09-29T20:35:42.355981+00:00",
+    "title": "Fake iPhone Duo preorder scam triggers DarkSword attack"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/": {
+    "ts": "2026-09-29T20:35:42.590769+00:00",
+    "title": "\u200b\u200bBeyond source code: A path to the keys to the kingdom"
+  },
+  "https://securityaffairs.com/199979/cyber-crime/24-year-old-arrested-in-dutch-investigation-into-shinyhunters.html": {
+    "ts": "2026-09-29T20:35:42.826278+00:00",
+    "title": "24-Year-Old Arrested in Dutch Investigation Into ShinyHunters"
+  },
+  "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/": {
+    "ts": "2026-09-29T20:35:43.066776+00:00",
+    "title": "OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference"
+  },
+  "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html": {
+    "ts": "2026-09-29T20:35:43.066793+00:00",
+    "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks"
+  },
+  "https://www.theregister.com/security/2026/09/29/fbi-to-shinyhunters-we-know-how-to-find-you/5299901": {
+    "ts": "2026-09-29T20:35:43.066798+00:00",
+    "title": "FBI to ShinyHunters: 'We know how to find you'"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/": {
+    "ts": "2026-09-29T20:35:43.302143+00:00",
+    "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells"
+  },
+  "https://cybersecuritynews.com/how-us-socs-and-mssps-can-use-threat-intelligence-to-detect-phishing-infrastructure-earlier/": {
+    "ts": "2026-09-29T20:35:43.302161+00:00",
+    "title": "How US SOCs and MSSPs Can Use Threat Intelligence to Detect Phishing Infrastructure Earlier"
+  },
+  "https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities": {
+    "ts": "2026-09-29T20:35:43.302164+00:00",
+    "title": "Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities"
+  },
+  "https://gbhackers.com/opensupdater-malware/": {
+    "ts": "2026-09-29T20:35:43.540125+00:00",
+    "title": "OpenSUpdater Malware Hides Inside 7-Zip Installers to Evade Detection"
+  },
+  "https://www.helpnetsecurity.com/2026/09/29/pindrop-enterprise-deepfake-attacks-report/": {
+    "ts": "2026-09-29T20:35:43.768971+00:00",
+    "title": "Deepfakes become a board priority once an executive falls for one"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/09/humans-are-reviewing-copilot-users-bizarre-and-abusive-image-editing-requests": {
+    "ts": "2026-09-29T20:35:44.000033+00:00",
+    "title": "Humans are reviewing Copilot users\u2019 bizarre and abusive image-editing requests"
+  },
+  "https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/": {
+    "ts": "2026-09-29T20:35:44.236970+00:00",
+    "title": "DARPA Selects Xint to Use AI in Securing Military Messaging Apps"
+  },
+  "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html": {
+    "ts": "2026-09-29T20:35:44.476488+00:00",
+    "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses"
+  },
+  "https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867": {
+    "ts": "2026-09-29T20:35:44.725321+00:00",
+    "title": "Custom malware used in Citrix 0-day attacks targeting govt, banks, professional services"
+  },
+  "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/": {
+    "ts": "2026-09-29T20:35:44.725338+00:00",
+    "title": "Former US Air Force members sent to prison over BEC attacks"
+  },
+  "https://cybersecuritynews.com/ethereum-secret-messaging-system/": {
+    "ts": "2026-09-29T20:35:44.955942+00:00",
+    "title": "Hackers Turned Ethereum Into a Secret Messaging System for Malware"
+  },
+  "https://gbhackers.com/gpt-6-astra-launches-unsanctioned-supply-chain-attacks/": {
+    "ts": "2026-09-29T20:35:44.955961+00:00",
+    "title": "GPT-6 Astra Launches Unsanctioned Supply-Chain Attacks in Cyber Simulations"
+  },
+  "https://www.helpnetsecurity.com/2026/09/29/malicious-chatgpt-custom-gpt-malware-via-clickfix/": {
+    "ts": "2026-09-29T20:35:45.189122+00:00",
+    "title": "Malicious Custom GPT on chatgpt.com lures users into installing a RAT"
+  },
+  "https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/": {
+    "ts": "2026-09-29T20:35:45.427573+00:00",
+    "title": "New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks"
+  },
+  "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html": {
+    "ts": "2026-09-29T20:35:45.667545+00:00",
+    "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/09/29/ai-models-keep-posting-screenshots-showing-sensitive-data-from-inside-tech-companies/5299640": {
+    "ts": "2026-09-29T20:35:45.912396+00:00",
+    "title": "AI models keep posting screenshots showing sensitive data from inside tech companies"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/": {
+    "ts": "2026-09-29T20:35:46.153012+00:00",
+    "title": "Windows 11 2026 Update released, here's everything you need to know"
+  },
+  "https://cybersecuritynews.com/silverfox-hackers/": {
+    "ts": "2026-09-29T20:35:46.389451+00:00",
+    "title": "SilverFox Hackers Built Fake Software Sites That Hide Malware From Security Researchers"
   }
 }
