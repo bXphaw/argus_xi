@@ -15774,5 +15774,117 @@
   "https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/": {
     "ts": "2026-09-29T01:39:24.357892+00:00",
     "title": "Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug"
+  },
+  "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/": {
+    "ts": "2026-09-29T08:06:28.501734+00:00",
+    "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks"
+  },
+  "https://gbhackers.com/keio-railway-confirms-ransomware-attack/": {
+    "ts": "2026-09-29T08:06:29.758921+00:00",
+    "title": "Keio Railway Confirms Ransomware Attack Disrupted Business Systems"
+  },
+  "https://cybersecuritynews.com/apple-zero-day-vulnerability-exploited/": {
+    "ts": "2026-09-29T08:06:38.612935+00:00",
+    "title": "Critical Apple Zero-Day Vulnerability Actively Exploited in Attacks"
+  },
+  "https://gbhackers.com/file-notification-attacks/": {
+    "ts": "2026-09-29T08:06:41.749886+00:00",
+    "title": "File Notification Attacks Let Hackers Track Keystrokes and Website Visits on Linux, Windows and macOS"
+  },
+  "https://cybersecuritynews.com/watchguard-api-vulnerabilities/": {
+    "ts": "2026-09-29T08:08:03.046792+00:00",
+    "title": "Critical WatchGuard API Vulnerabilities Enables Command Execution Attacks"
+  },
+  "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions": {
+    "ts": "2026-09-29T08:08:03.110772+00:00",
+    "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions"
+  },
+  "https://www.helpnetsecurity.com/2026/09/29/github-ai-android-app-vulnerabilities/": {
+    "ts": "2026-09-29T08:08:03.110790+00:00",
+    "title": "GitHub\u2019s AI agent found 24 Android app vulnerabilities"
+  },
+  "https://securityaffairs.com/199947/ai/gpt-6-astra-and-the-supply-chain-attack-it-wasnt-asked-to-launch.html": {
+    "ts": "2026-09-29T08:08:03.171466+00:00",
+    "title": "GPT-6 Astra and the Supply Chain Attack It Wasn\u2019t Asked to Launch"
+  },
+  "https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/": {
+    "ts": "2026-09-29T08:08:03.171484+00:00",
+    "title": "Apple Patches Meta-Reported Zero-Day Linked to \u2018Extremely Sophisticated Attack\u2019"
+  },
+  "https://socradar.io/blog/metree-wubook-sonicwall-access-data-leaks/": {
+    "ts": "2026-09-29T08:08:03.239426+00:00",
+    "title": "Metree and WuBook Leaks, SonicWall Access, Campus.gov.il Data, and Kenya Vehicle Database"
+  },
+  "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html": {
+    "ts": "2026-09-29T08:08:03.323216+00:00",
+    "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/09/29/openais-dirty-deeds-down-under-included-security-bypass-attempts-using-exposed-keys-source-code-siphon/5299666": {
+    "ts": "2026-09-29T08:08:03.500961+00:00",
+    "title": "OpenAI\u2019s dirty deeds Down Under included security bypass attempts, using exposed keys, source code siphon"
+  },
+  "https://www.welivesecurity.com/en/business-security/devil-email-wearing-new-mask/": {
+    "ts": "2026-09-29T08:08:03.550063+00:00",
+    "title": "The devil is still in the email \u2013 but wearing a new mask"
+  },
+  "https://cybersecuritynews.com/bothelper-rat/": {
+    "ts": "2026-09-29T08:08:03.606297+00:00",
+    "title": "BotHelper RAT Uses Encrypted Payloads and Live Screen Surveillance to Spy on Windows Users"
+  },
+  "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack": {
+    "ts": "2026-09-29T08:08:03.660571+00:00",
+    "title": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack"
+  },
+  "https://gbhackers.com/microsoft-tracks-needymantis-malware/": {
+    "ts": "2026-09-29T08:08:03.720426+00:00",
+    "title": "Microsoft Tracks NeedyMantis Malware Targeting Telecoms and Government Contractors"
+  },
+  "https://www.helpnetsecurity.com/2026/09/29/vendor-concentration-risk-video/": {
+    "ts": "2026-09-29T08:08:03.720445+00:00",
+    "title": "A four-week plan to tackle vendor concentration risk"
+  },
+  "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html": {
+    "ts": "2026-09-29T08:08:03.720449+00:00",
+    "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions"
+  },
+  "https://gbhackers.com/azure-storage-deletion/": {
+    "ts": "2026-09-29T08:08:03.879577+00:00",
+    "title": "Hackers Use Compromised Service Principals to Delete Azure Storage and Steal Cloud Credentials"
+  },
+  "https://www.helpnetsecurity.com/2026/09/29/hottest-cybersecurity-open-source-tools-of-the-month-september-2026/": {
+    "ts": "2026-09-29T08:08:03.925490+00:00",
+    "title": "Hottest cybersecurity open-source tools of the month: September 2026"
+  },
+  "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html": {
+    "ts": "2026-09-29T08:08:03.972953+00:00",
+    "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot"
+  },
+  "https://cybersecuritynews.com/fake-vpn-extensions-hijack-browser-traffic/": {
+    "ts": "2026-09-29T08:08:04.018752+00:00",
+    "title": "Fake VPN Extensions Hijack Browser Traffic Through Hidden Proxy Servers"
+  },
+  "https://www.helpnetsecurity.com/2026/09/29/cybersecurity-jobs-available-right-now-september-29-2026/": {
+    "ts": "2026-09-29T08:08:04.065133+00:00",
+    "title": "Cybersecurity jobs available right now: September 29, 2026"
+  },
+  "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html": {
+    "ts": "2026-09-29T08:08:04.113022+00:00",
+    "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally"
+  },
+  "https://cybersecuritynews.com/pentagon-data-breach/": {
+    "ts": "2026-09-29T08:08:04.113039+00:00",
+    "title": "Pentagon Data Breach \u2013 Hackers Reportedly Accessed 3 Million People\u2019s Sensitive Data"
+  },
+  "https://gbhackers.com/windows-rat-espionage/": {
+    "ts": "2026-09-29T08:08:04.159728+00:00",
+    "title": "Researchers Found a Windows RAT That Turns Victims\u2019 Screens Into Live Streams"
+  },
+  "https://gbhackers.com/pentagon-data-breach-exposes-3-million-people/": {
+    "ts": "2026-09-29T08:08:04.159746+00:00",
+    "title": "Pentagon Data Breach Exposes Sensitive Data of Over 3 Million People"
+  },
+  "https://gbhackers.com/malicious-vpn-extensions/": {
+    "ts": "2026-09-29T08:08:04.208175+00:00",
+    "title": "Malicious VPN Extensions Turn Browser Users Into Residential Proxy Servers"
   }
 }
