@@ -15654,5 +15654,125 @@
   "https://www.helpnetsecurity.com/2026/09/28/drunk-ai-models-jailbreak-research/": {
     "ts": "2026-09-28T21:44:12.935542+00:00",
     "title": "\u201cDrunk\u201d AI is terrible at keeping secrets"
+  },
+  "https://cybersecuritynews.com/shinyhunters-bypasses/": {
+    "ts": "2026-09-29T01:37:20.050392+00:00",
+    "title": "ShinyHunters Bypasses WAF Protections to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells"
+  },
+  "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html": {
+    "ts": "2026-09-29T01:37:30.562810+00:00",
+    "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources"
+  },
+  "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/": {
+    "ts": "2026-09-29T01:39:21.972664+00:00",
+    "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/": {
+    "ts": "2026-09-29T01:39:21.972689+00:00",
+    "title": "A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack"
+  },
+  "https://cybersecuritynews.com/opencode-ai-coding-agent-flaw/": {
+    "ts": "2026-09-29T01:39:22.247840+00:00",
+    "title": "OpenCode AI Coding Agent Flaw Lets Malicious Websites Execute Code on Developer Machines"
+  },
+  "https://gbhackers.com/microsoft-entra-trustsink/": {
+    "ts": "2026-09-29T01:39:22.369162+00:00",
+    "title": "Microsoft Entra TrustSink Attack Uses Rogue MFA Provider to Steal Passwords"
+  },
+  "https://www.helpnetsecurity.com/2026/09/28/citrix-netscaler-rce-zero-days-exploited-for-weeks-cve-2026-88771-cve-2026-88772/": {
+    "ts": "2026-09-29T01:39:22.484891+00:00",
+    "title": "Citrix NetScaler RCE zero-days exploited globally for weeks (CVE-2026-88771, CVE-2026-88772)"
+  },
+  "https://rewterz.com/threat-advisory/wordpress-click2shell-flaw-enables-rce-via-malicious-link": {
+    "ts": "2026-09-29T01:39:22.596743+00:00",
+    "title": "WordPress Click2Shell Flaw Enables RCE via Malicious Link"
+  },
+  "https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/": {
+    "ts": "2026-09-29T01:39:22.718719+00:00",
+    "title": "DC Health Agency Exposes 400,000 Beneficiary Records"
+  },
+  "https://thehackernews.com/2026/09/iam-for-ai-agent.html": {
+    "ts": "2026-09-29T01:39:22.832431+00:00",
+    "title": "IAM for AI agents: A Practical Enterprise Framework"
+  },
+  "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/": {
+    "ts": "2026-09-29T01:39:22.949087+00:00",
+    "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources"
+  },
+  "https://cybersecuritynews.com/bitget-backend-breach/": {
+    "ts": "2026-09-29T01:39:23.062300+00:00",
+    "title": "Bitget Backend Breach Drains $387.5 Million as DPRK-Linked Launderers Expose Themselves"
+  },
+  "https://gbhackers.com/infostealer-malware-3/": {
+    "ts": "2026-09-29T01:39:23.062321+00:00",
+    "title": "Lumma, RedLine and Vidar Infostealers Fuel Cloud Credential Theft Campaigns"
+  },
+  "https://www.helpnetsecurity.com/2026/09/28/us-army-soldier-snowflake-breaches-extortion/": {
+    "ts": "2026-09-29T01:39:23.062324+00:00",
+    "title": "Ex-US soldier gets 70 months for role in AT&T, Snowflake data thefts"
+  },
+  "https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/": {
+    "ts": "2026-09-29T01:39:23.172328+00:00",
+    "title": "Google Warns of ShinyHunters\u2019 Fresh Oracle PeopleSoft Campaign"
+  },
+  "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html": {
+    "ts": "2026-09-29T01:39:23.286369+00:00",
+    "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M"
+  },
+  "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/": {
+    "ts": "2026-09-29T01:39:23.286388+00:00",
+    "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms"
+  },
+  "https://gbhackers.com/adaptixc2-deployment/": {
+    "ts": "2026-09-29T01:39:23.404830+00:00",
+    "title": "Operation Master Exploits GlobalProtect CVE-2026-0257 and Deploys AdaptixC2 Across Enterprise Networks"
+  },
+  "https://www.helpnetsecurity.com/2026/09/28/linkedin-profile-verification-features/": {
+    "ts": "2026-09-29T01:39:23.532926+00:00",
+    "title": "LinkedIn tests a way for connections to verify your work history"
+  },
+  "https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/": {
+    "ts": "2026-09-29T01:39:23.650842+00:00",
+    "title": "New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections"
+  },
+  "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html": {
+    "ts": "2026-09-29T01:39:23.769633+00:00",
+    "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims"
+  },
+  "https://cybersecuritynews.com/microsoft-sharepoint-code-injection/": {
+    "ts": "2026-09-29T01:39:23.884478+00:00",
+    "title": "CISA Warns of Microsoft SharePoint Code Injection Vulnerability Exploited in Attacks"
+  },
+  "https://gbhackers.com/python-infostealer-campaign/": {
+    "ts": "2026-09-29T01:39:24.003865+00:00",
+    "title": "New Python Infostealer Targets 17 Browsers to Steal Passwords, Cards and Session Cookies"
+  },
+  "https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/": {
+    "ts": "2026-09-29T01:39:24.003888+00:00",
+    "title": "Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog"
+  },
+  "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html": {
+    "ts": "2026-09-29T01:39:24.003892+00:00",
+    "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI"
+  },
+  "https://cybersecuritynews.com/fake-jev-ai-stores/": {
+    "ts": "2026-09-29T01:39:24.003894+00:00",
+    "title": "Attackers Create Fake Jev AI Stores to Intercept Prompts Through Third-Party Servers"
+  },
+  "https://gbhackers.com/best-cloud-encryption-compared/": {
+    "ts": "2026-09-29T01:39:24.003897+00:00",
+    "title": "12 Best Cloud Encryption Solutions Compared (2026): Features & Pricing"
+  },
+  "https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/": {
+    "ts": "2026-09-29T01:39:24.130476+00:00",
+    "title": "Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability"
+  },
+  "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html": {
+    "ts": "2026-09-29T01:39:24.243914+00:00",
+    "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent"
+  },
+  "https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/": {
+    "ts": "2026-09-29T01:39:24.357892+00:00",
+    "title": "Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug"
   }
 }
