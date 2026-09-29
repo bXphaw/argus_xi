@@ -1,4 +1,25 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "Beware of Phishing Emails That Disguise Themselves as Project Material Purchase Requests",
+      "url": "https://asec.ahnlab.com/en/95598/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Hide Malware Inside 7-Zip Installers Using a New Evasion Technique",
+      "url": "https://cybersecuritynews.com/malware-inside-7-zip-installers/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Built a Botnet That Doesn\u2019t Just Steal Data, It Burns AI Credits",
+      "url": "https://cybersecuritynews.com/hackers-built-a-botnet/"
+    }
+  ],
   "last_sent_date": "2026-09-29"
 }

@@ -15886,5 +15886,125 @@
   "https://gbhackers.com/malicious-vpn-extensions/": {
     "ts": "2026-09-29T08:08:04.208175+00:00",
     "title": "Malicious VPN Extensions Turn Browser Users Into Residential Proxy Servers"
+  },
+  "https://www.theregister.com/security/2026/09/29/apple-patches-coregraphics-zero-day-already-exploited-in-targeted-attacks/5299721": {
+    "ts": "2026-09-29T15:32:02.791521+00:00",
+    "title": "Apple patches CoreGraphics zero-day already exploited in targeted attacks"
+  },
+  "https://asec.ahnlab.com/en/95598/": {
+    "ts": "2026-09-29T15:34:04.537059+00:00",
+    "title": "Beware of Phishing Emails That Disguise Themselves as Project Material Purchase Requests"
+  },
+  "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/": {
+    "ts": "2026-09-29T15:34:04.537076+00:00",
+    "title": "Catch threats before they escalate with real-time Identity Telemetry"
+  },
+  "https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/": {
+    "ts": "2026-09-29T15:34:04.537080+00:00",
+    "title": "Securing the keys to the kingdom: Announcing Executive Threat Detection"
+  },
+  "https://cofense.com/blog/cofense-vision-extends-post-perimeter-phishing-defense-to-google-workspace": {
+    "ts": "2026-09-29T15:34:04.537082+00:00",
+    "title": "Cofense Vision Extends Post-Perimeter Phishing Defense to Google Workspace"
+  },
+  "https://cybersecuritynews.com/malware-inside-7-zip-installers/": {
+    "ts": "2026-09-29T15:34:04.773905+00:00",
+    "title": "Hackers Hide Malware Inside 7-Zip Installers Using a New Evasion Technique"
+  },
+  "https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks": {
+    "ts": "2026-09-29T15:34:05.003380+00:00",
+    "title": "'NeedyMantis' Provides Long-Term Access to Compromised Networks"
+  },
+  "https://gbhackers.com/openai-cancels-gpt-6-1-astra-release/": {
+    "ts": "2026-09-29T15:34:05.246386+00:00",
+    "title": "OpenAI Cancels GPT-6.1 Astra Release Over Internal Safety Concerns"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/": {
+    "ts": "2026-09-29T15:34:05.476472+00:00",
+    "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances"
+  },
+  "https://www.helpnetsecurity.com/2026/09/29/netscaler-zero-day-exploitation-escalates-into-mass-attacks-cve-2026-88771/": {
+    "ts": "2026-09-29T15:34:05.713221+00:00",
+    "title": "NetScaler zero-day exploitation escalates into mass attacks (CVE-2026-88771)"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/metas-muse-sent-a-facebook-marketplace-buyer-to-a-sellers-home": {
+    "ts": "2026-09-29T15:34:05.942060+00:00",
+    "title": "Meta\u2019s Muse sent a Facebook Marketplace buyer to a seller\u2019s home"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/": {
+    "ts": "2026-09-29T15:34:06.183870+00:00",
+    "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique"
+  },
+  "https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/": {
+    "ts": "2026-09-29T15:34:06.183887+00:00",
+    "title": "OperTraitors: How Kubernetes Operators Betray Your Security Posture"
+  },
+  "https://www.recordedfuture.com/blog/ai-social-engineering": {
+    "ts": "2026-09-29T15:34:06.183889+00:00",
+    "title": "Social Engineering in the Age of Synthetic Media"
+  },
+  "https://securityaffairs.com/200017/uncategorized/three-million-affected-in-pentagon-personnel-agency-data-breach.html": {
+    "ts": "2026-09-29T15:34:06.183892+00:00",
+    "title": "Three Million Affected in Pentagon Personnel Agency Data Breach"
+  },
+  "https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/": {
+    "ts": "2026-09-29T15:34:06.183894+00:00",
+    "title": "RemoteThreat Launches With $7 Million for Offensive Operations Platform"
+  },
+  "https://www.security.com/product-insights/part-2-why-less-more-symantec-pam-clustering": {
+    "ts": "2026-09-29T15:34:06.430833+00:00",
+    "title": "A Practical Guide to Symantec PAM Secondary Sites"
+  },
+  "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html": {
+    "ts": "2026-09-29T15:34:06.660812+00:00",
+    "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown"
+  },
+  "https://www.intego.com/mac-security-blog/what-is-sms-how-it-works-why-its-insecure-and-why-we-still-need-it/": {
+    "ts": "2026-09-29T15:34:06.883336+00:00",
+    "title": "What is SMS? What SMS text messages mean and how they work"
+  },
+  "https://asec.ahnlab.com/en/95599/": {
+    "ts": "2026-09-29T15:34:07.118406+00:00",
+    "title": "Beware of phishing emails disguised as quote requests"
+  },
+  "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/": {
+    "ts": "2026-09-29T15:34:07.379303+00:00",
+    "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam"
+  },
+  "https://cybersecuritynews.com/hackers-built-a-botnet/": {
+    "ts": "2026-09-29T15:34:07.617443+00:00",
+    "title": "Hackers Built a Botnet That Doesn\u2019t Just Steal Data, It Burns AI Credits"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix": {
+    "ts": "2026-09-29T15:34:07.617458+00:00",
+    "title": "Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers"
+  },
+  "https://gbhackers.com/anthropic-mcp-python-sdk-flaw/": {
+    "ts": "2026-09-29T15:34:07.617462+00:00",
+    "title": "Anthropic MCP Python SDK Flaw Enables OAuth Credential Theft and Account Takeover"
+  },
+  "https://www.helpnetsecurity.com/2026/09/29/cleverbit-webinar-ai-assisted-delivery-accountability/": {
+    "ts": "2026-09-29T15:34:07.617465+00:00",
+    "title": "Webinar: Closing the accountability gap in AI-assisted delivery"
+  },
+  "https://www.malwarebytes.com/blog/bugs/2026/09/update-your-iphone-ipad-or-mac-flaw-could-run-attackers-code": {
+    "ts": "2026-09-29T15:34:07.617466+00:00",
+    "title": "Update your iPhone, iPad, or Mac: Flaw could run attackers\u2019 code"
+  },
+  "https://securityaffairs.com/200001/hacking/apple-patches-coregraphics-zero-day-linked-to-sophisticated-targeted-attacks.html": {
+    "ts": "2026-09-29T15:34:07.851304+00:00",
+    "title": "Apple Patches CoreGraphics Zero-Day Linked to Sophisticated Targeted Attacks"
+  },
+  "https://www.securityweek.com/reco-raises-55-million-for-agentic-security/": {
+    "ts": "2026-09-29T15:34:08.078711+00:00",
+    "title": "Reco Raises $55 Million for Agentic Security"
+  },
+  "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html": {
+    "ts": "2026-09-29T15:34:08.306071+00:00",
+    "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent"
+  },
+  "https://www.intego.com/mac-security-blog/whats-the-difference-between-malware-trojan-virus-and-worm/": {
+    "ts": "2026-09-29T15:34:08.535419+00:00",
+    "title": "What\u2019s the difference between malware, a virus, a Trojan, and a worm?"
   }
 }
