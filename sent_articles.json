@@ -16322,5 +16322,125 @@
   "https://www.helpnetsecurity.com/2026/09/30/cloudflare-certificate-authority-2027/": {
     "ts": "2026-09-30T06:28:31.497356+00:00",
     "title": "Post-quantum website certificates from Cloudflare are scheduled for early 2027"
+  },
+  "https://securityaffairs.com/200069/security/u-s-cisa-adds-apple-multiple-products-flaw-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-09-30T13:27:41.351286+00:00",
+    "title": "U.S. CISA adds Apple Multiple Products\u00a0flaw to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://asec.ahnlab.com/en/95649/": {
+    "ts": "2026-09-30T13:27:43.495504+00:00",
+    "title": "August 2026 Threat Trend Report on APT Attacks (South Korea)"
+  },
+  "https://asec.ahnlab.com/en/95645/": {
+    "ts": "2026-09-30T13:29:37.889000+00:00",
+    "title": "Beware of Malware infection in Facebook Ads Offering Cryptocurrency Rewards"
+  },
+  "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/": {
+    "ts": "2026-09-30T13:29:37.889017+00:00",
+    "title": "TeamViewer urges users to patch severe flaws \u201cas soon as possible\u201d"
+  },
+  "https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/": {
+    "ts": "2026-09-30T13:29:38.018256+00:00",
+    "title": "China-nexus UAT-11587 targets government and policy organizations across Asia with Antino backdoor"
+  },
+  "https://cybersecuritynews.com/hackers-broke-into-microsoft-365/": {
+    "ts": "2026-09-30T13:29:38.159435+00:00",
+    "title": "Hackers Broke Into Microsoft 365 Through Forgotten Accounts Nobody Was Watching"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control": {
+    "ts": "2026-09-30T13:29:38.159452+00:00",
+    "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control"
+  },
+  "https://gbhackers.com/docker-copyescape-cve-2026-17106/": {
+    "ts": "2026-09-30T13:29:38.275764+00:00",
+    "title": "Docker CopyEscape CVE-2026-17106 Lets Malicious Containers Overwrite Host Files"
+  },
+  "https://www.helpnetsecurity.com/2026/09/30/cve-2026-88772-netscaler-exploitation-zero-day/": {
+    "ts": "2026-09-30T13:29:38.393264+00:00",
+    "title": "Suspected state-sponsored hackers exploited NetScaler zero-day since early September (CVE-2026-88772)"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/09/your-cars-app-could-be-telling-big-tech-who-you-are-and-where-you-go": {
+    "ts": "2026-09-30T13:29:38.517816+00:00",
+    "title": "Your car\u2019s app could be telling Big Tech who you are and where you go"
+  },
+  "https://moonlock.com/upwork-scams": {
+    "ts": "2026-09-30T13:29:38.649851+00:00",
+    "title": "The Upwork scams nobody talks about until it\u2019s too late"
+  },
+  "https://www.morphisec.com/blog/aligning-ai-speed-with-ai-trust-ai-agent-security-insights-for-cisos-and-security-leaders/": {
+    "ts": "2026-09-30T13:29:38.768378+00:00",
+    "title": "Aligning AI Speed with AI Trust: AI Agent Security Insights for CISOs and Security Leaders"
+  },
+  "https://securityaffairs.com/200079/ai/attackers-abuse-chatgpt-custom-gpts-to-deploy-a-full-featured-rat.html": {
+    "ts": "2026-09-30T13:29:38.894785+00:00",
+    "title": "Attackers Abuse ChatGPT Custom GPTs to Deploy a Full-Featured RAT"
+  },
+  "https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/": {
+    "ts": "2026-09-30T13:29:38.894799+00:00",
+    "title": "WatchGuard Patches Critical Fireware OS Code Injection Vulnerability"
+  },
+  "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html": {
+    "ts": "2026-09-30T13:29:38.894803+00:00",
+    "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026"
+  },
+  "https://www.intego.com/mac-security-blog/when-does-an-old-ipad-become-unsafe-to-use/": {
+    "ts": "2026-09-30T13:29:38.894807+00:00",
+    "title": "Is your old iPad still safe to use? Security updates and support explained"
+  },
+  "https://www.theregister.com/security/2026/09/30/more-than-half-of-uk-businesses-lack-confidence-in-basic-cyber-skills/5299991": {
+    "ts": "2026-09-30T13:29:38.894810+00:00",
+    "title": "More than half of UK businesses lack confidence in basic cyber skills"
+  },
+  "https://www.welivesecurity.com/en/scams/timeshare-exit-scams-fake-buyers-recovery-scams/": {
+    "ts": "2026-09-30T13:29:39.017685+00:00",
+    "title": "Timeshare exit scams: From fake buyers to recovery fraud"
+  },
+  "https://www.zscaler.com/blogs/security-research/ransomware-leverage-growing-terabyte-takeaways-threatlabz-2026-ransomware": {
+    "ts": "2026-09-30T13:29:39.134689+00:00",
+    "title": "Ransomware Leverage is Growing by the Terabyte: Takeaways from ThreatLabz 2026 Ransomware Report"
+  },
+  "https://asec.ahnlab.com/en/95646/": {
+    "ts": "2026-09-30T13:29:39.259883+00:00",
+    "title": "Beware of SMS messages claiming to protect your Pi Coin account\u2014phishing sites are stealing wallets"
+  },
+  "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/": {
+    "ts": "2026-09-30T13:29:39.378280+00:00",
+    "title": "Bitget hacked via zero-day in third-party security products"
+  },
+  "https://cybersecuritynews.com/fbis-operation-blackout-dismantles-scammers/": {
+    "ts": "2026-09-30T13:29:39.509149+00:00",
+    "title": "FBI\u2019s Operation Blackout Dismantles Scammers Operating Overseas Targeting Americans"
+  },
+  "https://gbhackers.com/paperphone-cluster/": {
+    "ts": "2026-09-30T13:29:39.509161+00:00",
+    "title": "PaperPhone Cluster Shows How One Bot Operator Can Look Like Thousands of Mobile Users"
+  },
+  "https://www.helpnetsecurity.com/2026/09/30/ai-coding-agents-github-screenshot-leak/": {
+    "ts": "2026-09-30T13:29:39.509165+00:00",
+    "title": "AI coding agents leaked 13,000 internal company screenshots to public GitHub repos"
+  },
+  "https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/": {
+    "ts": "2026-09-30T13:29:39.640520+00:00",
+    "title": "Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks"
+  },
+  "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html": {
+    "ts": "2026-09-30T13:29:39.640541+00:00",
+    "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub"
+  },
+  "https://www.theregister.com/security/2026/09/30/uk-rail-cops-320k-face-scanning-spree-nets-zero-matches/5299793": {
+    "ts": "2026-09-30T13:29:39.640546+00:00",
+    "title": "UK rail cops' \u00a3320K face-scanning spree nets zero matches"
+  },
+  "https://cybersecuritynews.com/hackers-turn-one-compromised-account/": {
+    "ts": "2026-09-30T13:29:39.764504+00:00",
+    "title": "Hackers Turn One Compromised Account Into Access to Azure DevOps and Kubernetes"
+  },
+  "https://gbhackers.com/claude-compliance-api/": {
+    "ts": "2026-09-30T13:29:39.887993+00:00",
+    "title": "Claude Compliance API Lets Security Teams Monitor Chats, Files and Agent Activity"
+  },
+  "https://www.helpnetsecurity.com/2026/09/30/openinfra-jfrog-artifactory-instance-compromised/": {
+    "ts": "2026-09-30T13:29:40.012867+00:00",
+    "title": "OpenInfra Europe\u2019s JFrog Artifactory instance breached, packages potentially compromised"
   }
 }
