@@ -16246,5 +16246,81 @@
   "https://gbhackers.com/hashhiding-to-blockchain-c2/": {
     "ts": "2026-09-30T00:12:06.996853+00:00",
     "title": "DPRK-Linked Hackers Add HashHiding to Blockchain C2 Network for Takedown-Resistant Malware"
+  },
+  "https://gbhackers.com/openai-launches-codex-security-cloud/": {
+    "ts": "2026-09-30T06:27:48.066170+00:00",
+    "title": "OpenAI Launches Codex Security Cloud for Always-On Application Security Scanning"
+  },
+  "https://gbhackers.com/openssl-high-severity-flaw/": {
+    "ts": "2026-09-30T06:27:48.877241+00:00",
+    "title": "OpenSSL High-Severity Flaw Lets Attackers Leak Heap Memory in Plaintext"
+  },
+  "https://gbhackers.com/fbi-dutch-police-take-down-alleged-shinyhunters-cybercrime-group-leader/": {
+    "ts": "2026-09-30T06:27:49.890346+00:00",
+    "title": "FBI, Dutch Police Take Down Alleged ShinyHunters Cybercrime Group Leader"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/": {
+    "ts": "2026-09-30T06:28:31.155857+00:00",
+    "title": "Microsoft is rolling out Linux container support to WSL"
+  },
+  "https://cybersecuritynews.com/mcp-python-sdk-oauth-flaw/": {
+    "ts": "2026-09-30T06:28:31.225472+00:00",
+    "title": "MCP Python SDK OAuth Flaw Lets Malicious Servers Hijack AI Agent Accounts"
+  },
+  "https://gbhackers.com/unsloth-fixes-arbitrary-code-execution-flaw/": {
+    "ts": "2026-09-30T06:28:31.271483+00:00",
+    "title": "Unsloth Fixes Arbitrary Code Execution Flaw Triggered by Malicious Hugging Face Models"
+  },
+  "https://www.helpnetsecurity.com/2026/09/30/owasp-noir-open-source-static-analysis-tool/": {
+    "ts": "2026-09-30T06:28:31.271499+00:00",
+    "title": "OWASP Noir: Open-source static analysis tool"
+  },
+  "https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/": {
+    "ts": "2026-09-30T06:28:31.271504+00:00",
+    "title": "Trump Says Top Tech Firms Have Signed Accord to \u2018Self-Police\u2019 AI Development"
+  },
+  "https://cybersecuritynews.com/openai-rolled-out-codex-security-cloud/": {
+    "ts": "2026-09-30T06:28:31.314109+00:00",
+    "title": "OpenAI Rolled out Codex Security Cloud, an Always-on Application Security Service"
+  },
+  "https://gbhackers.com/gemini-powered-malware/": {
+    "ts": "2026-09-30T06:28:31.358845+00:00",
+    "title": "Android Malware Turns Gemini AI Into an Assistant for On-Device Attacks"
+  },
+  "https://www.helpnetsecurity.com/2026/09/30/rapidfort-cra-container-compliance/": {
+    "ts": "2026-09-30T06:28:31.405263+00:00",
+    "title": "EU Cyber Resilience Act requirements for containers and Kubernetes"
+  },
+  "https://cybersecuritynews.com/octopus-server-flaw-2/": {
+    "ts": "2026-09-30T06:28:31.449737+00:00",
+    "title": "Octopus Server Flaw Lets Authenticated Users Execute Code Through Insecure JSON Deserialization"
+  },
+  "https://gbhackers.com/sectoprat-malware/": {
+    "ts": "2026-09-30T06:28:31.497324+00:00",
+    "title": "SectopRAT Malware Hides in Legitimate Software to Steal Browser Credentials and Crypto Wallets"
+  },
+  "https://www.helpnetsecurity.com/2026/09/30/bh-haven-sme-cybersecurity-service/": {
+    "ts": "2026-09-30T06:28:31.497337+00:00",
+    "title": "In this new SME cybersecurity service, the AI assists and the consultants decide"
+  },
+  "https://cybersecuritynews.com/openssl-leak-server-memory/": {
+    "ts": "2026-09-30T06:28:31.497342+00:00",
+    "title": "OpenSSL Fixes High-Severity Flaw That Can Leak Server Memory in Plaintext"
+  },
+  "https://www.helpnetsecurity.com/2026/09/30/research-unpatched-vulnerabilities-backlog/": {
+    "ts": "2026-09-30T06:28:31.497346+00:00",
+    "title": "Most open critical and high flaws are over 90 days old"
+  },
+  "https://www.helpnetsecurity.com/2026/09/30/microsoft-wsl-containers-available/": {
+    "ts": "2026-09-30T06:28:31.497349+00:00",
+    "title": "WSL containers are generally available on Windows"
+  },
+  "https://www.helpnetsecurity.com/2026/09/30/relentless-defense-cisco-cybersecurity-survey/": {
+    "ts": "2026-09-30T06:28:31.497352+00:00",
+    "title": "Most organizations need six months or longer to roll out new security controls"
+  },
+  "https://www.helpnetsecurity.com/2026/09/30/cloudflare-certificate-authority-2027/": {
+    "ts": "2026-09-30T06:28:31.497356+00:00",
+    "title": "Post-quantum website certificates from Cloudflare are scheduled for early 2027"
   }
 }

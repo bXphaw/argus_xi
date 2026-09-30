@@ -84,6 +84,16 @@
       "category": "threat_actor",
       "title": "DPRK-Linked Hackers Add HashHiding to Blockchain C2 Network for Takedown-Resistant Malware",
       "url": "https://gbhackers.com/hashhiding-to-blockchain-c2/"
+    },
+    {
+      "category": "new_technique",
+      "title": "MCP Python SDK OAuth Flaw Lets Malicious Servers Hijack AI Agent Accounts",
+      "url": "https://cybersecuritynews.com/mcp-python-sdk-oauth-flaw/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Unsloth Fixes Arbitrary Code Execution Flaw Triggered by Malicious Hugging Face Models",
+      "url": "https://gbhackers.com/unsloth-fixes-arbitrary-code-execution-flaw/"
     }
   ],
   "last_sent_date": "2026-09-29"
