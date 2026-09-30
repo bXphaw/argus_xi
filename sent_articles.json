@@ -16126,5 +16126,125 @@
   "https://cybersecuritynews.com/silverfox-hackers/": {
     "ts": "2026-09-29T20:35:46.389451+00:00",
     "title": "SilverFox Hackers Built Fake Software Sites That Hide Malware From Security Researchers"
+  },
+  "https://gbhackers.com/github-ai-agent-uncovers-24-android-app-vulnerabilities/": {
+    "ts": "2026-09-30T00:10:07.830798+00:00",
+    "title": "GitHub AI Agent Uncovers 24 Android App Vulnerabilities"
+  },
+  "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html": {
+    "ts": "2026-09-30T00:10:11.352709+00:00",
+    "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation"
+  },
+  "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/": {
+    "ts": "2026-09-30T00:12:03.875327+00:00",
+    "title": "Signal adds encypted local backup support to iOS, desktop apps"
+  },
+  "https://cybersecuritynews.com/gpt-6-1-astra-model-scrapped/": {
+    "ts": "2026-09-30T00:12:03.875345+00:00",
+    "title": "OpenAI Scrapped the New GPT-6.1 Astra Model Following Security Concerns"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks": {
+    "ts": "2026-09-30T00:12:03.875348+00:00",
+    "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks"
+  },
+  "https://www.helpnetsecurity.com/2026/09/29/openai-gpt-6-astra-supply-chain-attacks-test-simulations/": {
+    "ts": "2026-09-30T00:12:03.875351+00:00",
+    "title": "OpenAI\u2019s GPT-6 Astra ran supply chain attacks despite being told not to"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/": {
+    "ts": "2026-09-30T00:12:04.090422+00:00",
+    "title": "Phishing Abuses RMM Tools for Persistent Access"
+  },
+  "https://securityaffairs.com/200027/data-breach/japanese-railway-operators-keio-corporation-and-tokyo-metro-disclose-security-breaches.html": {
+    "ts": "2026-09-30T00:12:04.280864+00:00",
+    "title": "Japanese railway operators Keio Corporation and Tokyo Metro disclose security breaches"
+  },
+  "https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/": {
+    "ts": "2026-09-30T00:12:04.498316+00:00",
+    "title": "Hackers Use ChatGPT Custom GPTs in ClickFix Attacks"
+  },
+  "https://www.theregister.com/security/2026/09/29/add-one-more-ai-worry-to-the-nightmare-scenario-self-replicating-prompt-injections/5299922": {
+    "ts": "2026-09-30T00:12:04.685123+00:00",
+    "title": "Add one more AI worry to the nightmare scenario: self-replicating prompt injections"
+  },
+  "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/": {
+    "ts": "2026-09-30T00:12:04.871064+00:00",
+    "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware"
+  },
+  "https://cybersecuritynews.com/gpt-6-astra-hack-software-supply-chains/": {
+    "ts": "2026-09-30T00:12:05.064304+00:00",
+    "title": "GPT-6 Astra AI Agent Tried to Deceive Developers and Hack Software Supply Chains"
+  },
+  "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution": {
+    "ts": "2026-09-30T00:12:05.250724+00:00",
+    "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution"
+  },
+  "https://gbhackers.com/ai-powered-botnet-x47-c/": {
+    "ts": "2026-09-30T00:12:05.444726+00:00",
+    "title": "New AI-Powered Botnet x47.c Steals Credentials and Drains AI Account Credits"
+  },
+  "https://www.helpnetsecurity.com/2026/09/29/skillbit-cybersecurity-micro-training-trends-report/": {
+    "ts": "2026-09-30T00:12:05.444745+00:00",
+    "title": "Cybersecurity hiring practices leave little room for junior talent"
+  },
+  "https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/": {
+    "ts": "2026-09-30T00:12:05.444749+00:00",
+    "title": "Pentagon Personnel Agency Data Breach Impacts 3 Million People"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/09/29/openai-benches-gpt-61-astra-for-overstepping-the-mark/5299743": {
+    "ts": "2026-09-30T00:12:05.444752+00:00",
+    "title": "OpenAI benches GPT-6.1 Astra for overstepping the mark"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/": {
+    "ts": "2026-09-30T00:12:05.654178+00:00",
+    "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes"
+  },
+  "https://cybersecuritynews.com/github-ai-finds-24-android-vulnerabilities/": {
+    "ts": "2026-09-30T00:12:05.654199+00:00",
+    "title": "GitHub AI Security Agent Finds 24 Android Vulnerabilities Including Account Takeover Flaws"
+  },
+  "https://gbhackers.com/openai-model-gained-unauthorized-access-to-australian-government-systems/": {
+    "ts": "2026-09-30T00:12:05.840196+00:00",
+    "title": "OpenAI Model Gained Unauthorized Access to Australian Government Systems"
+  },
+  "https://www.helpnetsecurity.com/2026/09/29/palo-alto-networks-nvidia-ai-agent-security/": {
+    "ts": "2026-09-30T00:12:05.840214+00:00",
+    "title": "Palo Alto Networks and NVIDIA want tighter control over AI agents"
+  },
+  "https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/": {
+    "ts": "2026-09-30T00:12:05.840217+00:00",
+    "title": "Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks"
+  },
+  "https://www.theregister.com/security/2026/09/29/former-x-force-hackers-chase-the-offensive-cyber-gold-rush/5299662": {
+    "ts": "2026-09-30T00:12:06.036111+00:00",
+    "title": "Former X-Force hackers chase the offensive cyber gold rush"
+  },
+  "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/": {
+    "ts": "2026-09-30T00:12:06.221999+00:00",
+    "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD"
+  },
+  "https://cybersecuritynews.com/chatgpt-custom-gpt-malware/": {
+    "ts": "2026-09-30T00:12:06.416745+00:00",
+    "title": "Hackers Weaponizing ChatGPT\u2019s Custom GPT Feature to Trick Victims into Installing Malware"
+  },
+  "https://gbhackers.com/wolfssl-5-9-4-patches-11-security-flaws/": {
+    "ts": "2026-09-30T00:12:06.601503+00:00",
+    "title": "wolfSSL 5.9.4 Patches 11 Security Flaws Affecting TLS and Certificate Validation"
+  },
+  "https://www.helpnetsecurity.com/2026/09/29/apple-core-graphics-zero-day-cve-2026-86950-fixed/": {
+    "ts": "2026-09-30T00:12:06.804157+00:00",
+    "title": "Apple squashes zero-day bug exploited in \u201cextremely sophisticated\u201d attack (CVE-2026-86950)"
+  },
+  "https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/": {
+    "ts": "2026-09-30T00:12:06.804175+00:00",
+    "title": "Four Cyber Threats Harboring Big Plans for the Future"
+  },
+  "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/": {
+    "ts": "2026-09-30T00:12:06.804179+00:00",
+    "title": "Kiteworks patches critical flaw, brings customer systems online"
+  },
+  "https://gbhackers.com/hashhiding-to-blockchain-c2/": {
+    "ts": "2026-09-30T00:12:06.996853+00:00",
+    "title": "DPRK-Linked Hackers Add HashHiding to Blockchain C2 Network for Takedown-Resistant Malware"
   }
 }

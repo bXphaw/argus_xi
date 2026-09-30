@@ -54,6 +54,36 @@
       "category": "malware_windows",
       "title": "Malicious Custom GPT on chatgpt.com lures users into installing a RAT",
       "url": "https://www.helpnetsecurity.com/2026/09/29/malicious-chatgpt-custom-gpt-malware-via-clickfix/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Phishing Abuses RMM Tools for Persistent Access",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution",
+      "url": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution"
+    },
+    {
+      "category": "malware_windows",
+      "title": "New AI-Powered Botnet x47.c Steals Credentials and Drains AI Account Credits",
+      "url": "https://gbhackers.com/ai-powered-botnet-x47-c/"
+    },
+    {
+      "category": "new_technique",
+      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
+      "url": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/"
+    },
+    {
+      "category": "new_technique",
+      "title": "OpenAI Model Gained Unauthorized Access to Australian Government Systems",
+      "url": "https://gbhackers.com/openai-model-gained-unauthorized-access-to-australian-government-systems/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "DPRK-Linked Hackers Add HashHiding to Blockchain C2 Network for Takedown-Resistant Malware",
+      "url": "https://gbhackers.com/hashhiding-to-blockchain-c2/"
     }
   ],
   "last_sent_date": "2026-09-29"
