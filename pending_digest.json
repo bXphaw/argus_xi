@@ -1,4 +1,25 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "SilverFox: Tracking the Distribution of a Domestic Variant of a Malicious Installation File Posing as KakaoTalk",
+      "url": "https://asec.ahnlab.com/en/95642/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
+      "url": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical Cisco Catalyst SD-WAN Manager API authentication bypass exploited in the wild (CVE-2026-76504)",
+      "url": "https://www.rapid7.com/blog/post/etr-critical-cisco-catalyst-sd-wan-manager-api-authentication-bypass-exploited-in-the-wild-cve-2026-76504"
+    },
+    {
+      "category": "malware_windows",
+      "title": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+      "url": "https://www.zscaler.com/blogs/security-research/2cloader-new-malware-loader-delivering-vidar-and-remus"
+    }
+  ],
   "last_sent_date": "2026-09-30"
 }

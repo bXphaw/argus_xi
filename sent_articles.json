@@ -16442,5 +16442,125 @@
   "https://www.helpnetsecurity.com/2026/09/30/openinfra-jfrog-artifactory-instance-compromised/": {
     "ts": "2026-09-30T13:29:40.012867+00:00",
     "title": "OpenInfra Europe\u2019s JFrog Artifactory instance breached, packages potentially compromised"
+  },
+  "https://asec.ahnlab.com/en/95642/": {
+    "ts": "2026-09-30T18:58:49.783700+00:00",
+    "title": "SilverFox: Tracking the Distribution of a Domestic Variant of a Malicious Installation File Posing as KakaoTalk"
+  },
+  "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/": {
+    "ts": "2026-09-30T18:58:49.783725+00:00",
+    "title": "Over 543,000 valid credentials exposed in public GitHub repositories"
+  },
+  "https://cybersecuritynews.com/cloudflare-post-quantum-ca/": {
+    "ts": "2026-09-30T18:58:49.783730+00:00",
+    "title": "Cloudflare Builds Post-Quantum CA With Merkle Tree Certificates for Faster Quantum-Safe TLS"
+  },
+  "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net": {
+    "ts": "2026-09-30T18:58:50.024746+00:00",
+    "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net"
+  },
+  "https://www.forescout.com/blog/building-the-trust-layer-with-nvidias-open-agent-safety-platform/": {
+    "ts": "2026-09-30T18:58:50.024770+00:00",
+    "title": "Building the Trust Layer with NVIDIA\u2019s Open Agent Safety Platform"
+  },
+  "https://gbhackers.com/redflick-backdoor/": {
+    "ts": "2026-09-30T18:58:50.252394+00:00",
+    "title": "RedFlick Uses Scheduled Tasks and Password-Protected Archives to Deploy CosmicPulse Backdoor"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/": {
+    "ts": "2026-09-30T18:58:50.485173+00:00",
+    "title": "Vulnerability Discovery and Exploitation Trends in the AI Era"
+  },
+  "https://www.helpnetsecurity.com/2026/09/30/signal-encrypted-backups-ios-8-30/": {
+    "ts": "2026-09-30T18:58:50.723481+00:00",
+    "title": "Signal brings encrypted local backups to iOS and desktop, adds cross-platform restore"
+  },
+  "https://www.malwarebytes.com/blog/data-breaches/2026/09/hackers-steal-protective-order-and-foster-care-records-from-arizona-courts": {
+    "ts": "2026-09-30T18:58:50.969124+00:00",
+    "title": "Hackers steal protective order and foster care records from Arizona courts"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/": {
+    "ts": "2026-09-30T18:58:51.201851+00:00",
+    "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570"
+  },
+  "https://www.rapid7.com/blog/post/etr-critical-cisco-catalyst-sd-wan-manager-api-authentication-bypass-exploited-in-the-wild-cve-2026-76504": {
+    "ts": "2026-09-30T18:58:51.441471+00:00",
+    "title": "Critical Cisco Catalyst SD-WAN Manager API authentication bypass exploited in the wild (CVE-2026-76504)"
+  },
+  "https://www.recordedfuture.com/blog/autonomous-defense-platform": {
+    "ts": "2026-09-30T18:58:51.441495+00:00",
+    "title": "Recorded Future Debuts Autonomous Defense, Built for Machine-Speed Threats"
+  },
+  "https://securityaffairs.com/200090/intelligence/oxygen-forensics-a-russian-run-forensics-firm-spent-a-decade-inside-european-police-departments.html": {
+    "ts": "2026-09-30T18:58:51.441500+00:00",
+    "title": "Oxygen Forensics, A Russian-run forensics firm spent a decade inside European police departments"
+  },
+  "https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/": {
+    "ts": "2026-09-30T18:58:51.441504+00:00",
+    "title": "Google: AI Is Changing the Pace and Profile of Vulnerability Discovery"
+  },
+  "https://www.silentpush.com/blog/why-a-global-financial-company-replaced-three-data-sources-with-one/?utm_source=rss&utm_medium=rss&utm_campaign=why-a-global-financial-company-replaced-three-data-sources-with-one": {
+    "ts": "2026-09-30T18:58:51.441507+00:00",
+    "title": "Why a global financial company replaced three data sources with one"
+  },
+  "https://socradar.io/blog/2026-us-midterms-election-cyber/": {
+    "ts": "2026-09-30T18:58:51.690527+00:00",
+    "title": "The 2026 U.S. Midterms Election Season, Weakened Defenses: The Cyber Landscape Ahead"
+  },
+  "https://www.sophos.com/en-us/blog/terminalfix-and-lorem-ipsum-loader-enable-covert-tunneling": {
+    "ts": "2026-09-30T18:58:51.938966+00:00",
+    "title": "TerminalFix and Lorem Ipsum Loader enable covert tunneling"
+  },
+  "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html": {
+    "ts": "2026-09-30T18:58:52.177473+00:00",
+    "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets"
+  },
+  "https://www.theregister.com/security/2026/09/30/16-year-old-researcher-found-a-microsoft-bug-got-admin-access-to-databases-with-173-trillion-rows/5300240": {
+    "ts": "2026-09-30T18:58:52.415036+00:00",
+    "title": "16-year-old researcher found a Microsoft bug, got admin access to databases with 17.3 trillion rows"
+  },
+  "https://threatmon.io/viva-aerobus-linked-attacker-infrastructure-and-post-exploitation-findings/": {
+    "ts": "2026-09-30T18:58:52.668532+00:00",
+    "title": "Viva Aerobus-Linked Attacker Infrastructure and Post-Exploitation Findings"
+  },
+  "https://www.zscaler.com/blogs/security-research/2cloader-new-malware-loader-delivering-vidar-and-remus": {
+    "ts": "2026-09-30T18:58:52.905463+00:00",
+    "title": "2CLoader: A New Malware Loader Delivering Vidar and Remus"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/": {
+    "ts": "2026-09-30T18:58:52.905486+00:00",
+    "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS"
+  },
+  "https://cybersecuritynews.com/chrome-update-with-32-security-fixes/": {
+    "ts": "2026-09-30T18:58:52.905491+00:00",
+    "title": "Google Releases Chrome Update With 32 Security Fixes for Windows, Mac and Linux"
+  },
+  "https://www.forescout.com/blog/pqc-in-manufacturing-11-must-ask-questions-before-you-upgrade/": {
+    "ts": "2026-09-30T18:58:52.905494+00:00",
+    "title": "PQC in Manufacturing: 11 Must-Ask Questions Before You Upgrade"
+  },
+  "https://gbhackers.com/critical-mikrotik-routeros-vulnerability/": {
+    "ts": "2026-09-30T18:58:52.905498+00:00",
+    "title": "Critical MikroTik RouterOS Vulnerability Exposes Devices to Remote Code Execution"
+  },
+  "https://www.helpnetsecurity.com/2026/09/30/air-force-members-sentenced-bec-phishing/": {
+    "ts": "2026-09-30T18:58:53.134466+00:00",
+    "title": "Former US Air Force members behind million-dollar BEC scheme head to prison"
+  },
+  "https://www.rapid7.com/blog/post/it-higher-education-under-siege-fragmented-security": {
+    "ts": "2026-09-30T18:58:53.371704+00:00",
+    "title": "Higher education is under siege, and fragmented security is making it harder to respond"
+  },
+  "https://securityaffairs.com/200046/security/whipshot-and-slapshot-the-tools-behind-an-active-citrix-netscaler-campaign.html": {
+    "ts": "2026-09-30T18:58:53.608919+00:00",
+    "title": "WHIPSHOT and SLAPSHOT: the tools behind an active Citrix NetScaler campaign"
+  },
+  "https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/": {
+    "ts": "2026-09-30T18:58:53.838900+00:00",
+    "title": "Chrome, Firefox Updates Patch Over 100 Vulnerabilities"
+  },
+  "https://socradar.io/blog/socradar-asm-armorcode-aspm/": {
+    "ts": "2026-09-30T18:58:54.067267+00:00",
+    "title": "SOCRadar Attack Surface Management Now Integrates with ArmorCode ASPM"
   }
 }
