@@ -19,6 +19,46 @@
       "category": "malware_windows",
       "title": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
       "url": "https://www.zscaler.com/blogs/security-research/2cloader-new-malware-loader-delivering-vidar-and-remus"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Russian state hackers use new RedFlick technique to push malware",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Google Warns of Hackers Actively Exploiting Citrix 0-Day Vulnerabilities to Deploy\u00a0Web Shells",
+      "url": "https://cybersecuritynews.com/citrix-0-day-vulnerabilities-webshells/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure"
+    },
+    {
+      "category": "threat_actor",
+      "title": "ShinyHunters Claims FBIJobs.gov Breach: New Zero-Day, CVE-2026-35273 Bypass, or Third-Party Failure?",
+      "url": "https://threatmon.io/shinyhunters-claims-fbijobs-gov-breach-new-zero-day-cve-2026-35273-bypass-or-third-party-failure/"
+    },
+    {
+      "category": "new_technique",
+      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+      "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Russian Hackers Target 100+ Organizations With New RedFlick Phishing Attack",
+      "url": "https://cybersecuritynews.com/russian-hackers-2/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "ShinyHunters Defiant After FBI Calls on Members to Come Forward",
+      "url": "https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html"
     }
   ],
   "last_sent_date": "2026-09-30"

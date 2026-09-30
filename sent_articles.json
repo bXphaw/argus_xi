@@ -16562,5 +16562,125 @@
   "https://socradar.io/blog/socradar-asm-armorcode-aspm/": {
     "ts": "2026-09-30T18:58:54.067267+00:00",
     "title": "SOCRadar Attack Surface Management Now Integrates with ArmorCode ASPM"
+  },
+  "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/": {
+    "ts": "2026-09-30T22:56:17.165068+00:00",
+    "title": "Russian state hackers use new RedFlick technique to push malware"
+  },
+  "https://cybersecuritynews.com/citrix-0-day-vulnerabilities-webshells/": {
+    "ts": "2026-09-30T22:56:17.209879+00:00",
+    "title": "Google Warns of Hackers Actively Exploiting Citrix 0-Day Vulnerabilities to Deploy\u00a0Web Shells"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure": {
+    "ts": "2026-09-30T22:56:17.255922+00:00",
+    "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure"
+  },
+  "https://gbhackers.com/supply-chain-intrusions/": {
+    "ts": "2026-09-30T22:56:17.255934+00:00",
+    "title": "Attackers Target Developer Credentials to Expand Supply Chain Intrusions Beyond Source Code"
+  },
+  "https://www.helpnetsecurity.com/2026/09/30/claude-compliance-api-integrations/": {
+    "ts": "2026-09-30T22:56:17.255939+00:00",
+    "title": "Security tools can now scan Claude Enterprise chats and uploads for sensitive data"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/": {
+    "ts": "2026-09-30T22:56:17.301802+00:00",
+    "title": "\u200b\u200bSecure what\u2019s next: Your guide to Microsoft Security at Microsoft Ignite 2026"
+  },
+  "https://securityaffairs.com/200108/security/watchguard-fixes-critical-fireware-os-flaw-allowing-remote-code-execution.html": {
+    "ts": "2026-09-30T22:56:17.349355+00:00",
+    "title": "WatchGuard fixes critical Fireware OS flaw allowing remote code execution"
+  },
+  "https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/": {
+    "ts": "2026-09-30T22:56:17.393809+00:00",
+    "title": "Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit"
+  },
+  "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html": {
+    "ts": "2026-09-30T22:56:17.439757+00:00",
+    "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks"
+  },
+  "https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285": {
+    "ts": "2026-09-30T22:56:17.484686+00:00",
+    "title": "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else"
+  },
+  "https://threatmon.io/shinyhunters-claims-fbijobs-gov-breach-new-zero-day-cve-2026-35273-bypass-or-third-party-failure/": {
+    "ts": "2026-09-30T22:56:17.530977+00:00",
+    "title": "ShinyHunters Claims FBIJobs.gov Breach: New Zero-Day, CVE-2026-35273 Bypass, or Third-Party Failure?"
+  },
+  "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/": {
+    "ts": "2026-09-30T22:56:17.577017+00:00",
+    "title": "DIVD says Zammad zero-days enabled AI-driven network breach"
+  },
+  "https://cybersecuritynews.com/russian-hackers-2/": {
+    "ts": "2026-09-30T22:56:17.625899+00:00",
+    "title": "Russian Hackers Target 100+ Organizations With New RedFlick Phishing Attack"
+  },
+  "https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord": {
+    "ts": "2026-09-30T22:56:17.625911+00:00",
+    "title": "Trump, Tech Giants Strike Voluntary AI Safety Accord"
+  },
+  "https://gbhackers.com/best-iga-tools/": {
+    "ts": "2026-09-30T22:56:17.625916+00:00",
+    "title": "12 Best IGA Tools in 2026: The Ranked Buyer\u2019s Guide"
+  },
+  "https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/": {
+    "ts": "2026-09-30T22:56:17.672547+00:00",
+    "title": "Russian APT Star Blizzard Uses \u2018RedFlick\u2019 Infection Chain in Recent Attacks"
+  },
+  "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html": {
+    "ts": "2026-09-30T22:56:17.717651+00:00",
+    "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager"
+  },
+  "https://www.theregister.com/security/2026/09/30/spectre-bug-is-back-this-time-to-haunt-jit-engines/5299937": {
+    "ts": "2026-09-30T22:56:17.765330+00:00",
+    "title": "Spectre bug is back, this time to haunt JIT engines"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/": {
+    "ts": "2026-09-30T22:56:17.809456+00:00",
+    "title": "Cisco warns of new SD-WAN zero-day exploited in attacks"
+  },
+  "https://cybersecuritynews.com/phishing-response-3-steps-soc-teams-can-take-to-investigate-threats-faster/": {
+    "ts": "2026-09-30T22:56:17.857213+00:00",
+    "title": "Phishing Response: 3 Steps SOC Teams Can Take to Investigate Threats Faster"
+  },
+  "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder": {
+    "ts": "2026-09-30T22:56:17.857225+00:00",
+    "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half"
+  },
+  "https://gbhackers.com/google-chrome-154-update/": {
+    "ts": "2026-09-30T22:56:17.857229+00:00",
+    "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug"
+  },
+  "https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/": {
+    "ts": "2026-09-30T22:56:17.902547+00:00",
+    "title": "ShinyHunters Defiant After FBI Calls on Members to Come Forward"
+  },
+  "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html": {
+    "ts": "2026-09-30T22:56:17.951597+00:00",
+    "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures"
+  },
+  "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/": {
+    "ts": "2026-09-30T22:56:17.951613+00:00",
+    "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents"
+  },
+  "https://cybersecuritynews.com/paperphone-headless/": {
+    "ts": "2026-09-30T22:56:18.005521+00:00",
+    "title": "PaperPhone Headless Browser Network Uses 75,000 IPs and Fabricated Mobile Identities Across 43 Countries"
+  },
+  "https://gbhackers.com/msp360-and-rmm-abuse/": {
+    "ts": "2026-09-30T22:56:18.049957+00:00",
+    "title": "Hackers Abuse MSP360 and ScreenConnect RMM Tools for Persistent Access and Credential Theft"
+  },
+  "https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/": {
+    "ts": "2026-09-30T22:56:18.094854+00:00",
+    "title": "High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL"
+  },
+  "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html": {
+    "ts": "2026-09-30T22:56:18.139315+00:00",
+    "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/": {
+    "ts": "2026-09-30T22:56:18.204669+00:00",
+    "title": "Microsoft to block Entra ID script injection attacks starting October"
   }
 }
