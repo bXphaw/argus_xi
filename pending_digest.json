@@ -59,6 +59,31 @@
       "category": "new_technique",
       "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
       "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Supply Chain Attacks Turn Developer Machines Into Gateways for Cloud Breaches",
+      "url": "https://cybersecuritynews.com/supply-chain-attacks/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Disguise Remote Access Tools as Zoom and PDF Installers to Take Over PCs",
+      "url": "https://cybersecuritynews.com/remote-access-tools/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+      "url": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Turned a PaperCut Print Server Into a Path to the Domain Controller",
+      "url": "https://cybersecuritynews.com/hackers-turned-a-papercut-print-server/"
     }
   ],
   "last_sent_date": "2026-09-30"

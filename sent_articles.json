@@ -16682,5 +16682,41 @@
   "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/": {
     "ts": "2026-09-30T22:56:18.204669+00:00",
     "title": "Microsoft to block Entra ID script injection attacks starting October"
+  },
+  "https://gbhackers.com/hackers-exploit-citrix-netscaler-zero-day/": {
+    "ts": "2026-10-01T01:54:01.614398+00:00",
+    "title": "Hackers Exploit Citrix NetScaler Zero-Day to Gain Root Access and Deploy Web Shells"
+  },
+  "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html": {
+    "ts": "2026-10-01T01:54:03.789407+00:00",
+    "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted"
+  },
+  "https://cybersecuritynews.com/supply-chain-attacks/": {
+    "ts": "2026-10-01T01:54:25.553921+00:00",
+    "title": "Supply Chain Attacks Turn Developer Machines Into Gateways for Cloud Breaches"
+  },
+  "https://www.securityweek.com/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers/": {
+    "ts": "2026-10-01T01:54:25.553948+00:00",
+    "title": "FTC is Investigating OpenAI and Anthropic Over Possible risks to Consumers"
+  },
+  "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html": {
+    "ts": "2026-10-01T01:54:25.598589+00:00",
+    "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT"
+  },
+  "https://cybersecuritynews.com/remote-access-tools/": {
+    "ts": "2026-10-01T01:54:25.647594+00:00",
+    "title": "Hackers Disguise Remote Access Tools as Zoom and PDF Installers to Take Over PCs"
+  },
+  "https://cybersecuritynews.com/ai-coding-agents-leak-internal-screenshots/": {
+    "ts": "2026-10-01T01:54:25.647612+00:00",
+    "title": "AI Coding Agents Leak 13,000+ Internal Screenshots From 300+ Companies on GitHub"
+  },
+  "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html": {
+    "ts": "2026-10-01T01:54:25.719433+00:00",
+    "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution"
+  },
+  "https://cybersecuritynews.com/hackers-turned-a-papercut-print-server/": {
+    "ts": "2026-10-01T01:54:25.767615+00:00",
+    "title": "Hackers Turned a PaperCut Print Server Into a Path to the Domain Controller"
   }
 }
