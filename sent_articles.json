@@ -16718,5 +16718,125 @@
   "https://cybersecuritynews.com/hackers-turned-a-papercut-print-server/": {
     "ts": "2026-10-01T01:54:25.767615+00:00",
     "title": "Hackers Turned a PaperCut Print Server Into a Path to the Domain Controller"
+  },
+  "https://gbhackers.com/hpe-instant-on-ap-flaws/": {
+    "ts": "2026-10-01T08:34:36.583783+00:00",
+    "title": "HPE Instant On AP Flaws Let Unauthenticated Attackers Execute Arbitrary Commands"
+  },
+  "https://asec.ahnlab.com/en/95669/": {
+    "ts": "2026-10-01T08:36:33.032058+00:00",
+    "title": "Ransom & Dark Web Issues Week 1, October 2026"
+  },
+  "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/": {
+    "ts": "2026-10-01T08:36:33.032071+00:00",
+    "title": "Metamask discloses security incident affecting its infrastructure"
+  },
+  "https://cybersecuritynews.com/teamviewer-vulnerabilities/": {
+    "ts": "2026-10-01T08:36:33.032076+00:00",
+    "title": "Critical TeamViewer Vulnerabilities Enable Code Execution Attacks Via Remote Session"
+  },
+  "https://www.helpnetsecurity.com/2026/10/01/ai-soc-entry-jobs/": {
+    "ts": "2026-10-01T08:36:33.032079+00:00",
+    "title": "Many expect AI in the SOC to make entry jobs harder to get"
+  },
+  "https://securityaffairs.com/200126/hacking/ai-agent-chains-zammad-zero-days-to-take-over-divd-systems-in-seconds.html": {
+    "ts": "2026-10-01T08:36:33.120153+00:00",
+    "title": "AI Agent Chains Zammad Zero-Days To Take Over DIVD Systems in Seconds"
+  },
+  "https://www.securityweek.com/cisco-patches-exploited-catalyst-sd-wan-zero-day-vulnerability/": {
+    "ts": "2026-10-01T08:36:33.209908+00:00",
+    "title": "Cisco Patches Exploited Catalyst SD-WAN Zero-Day Vulnerability"
+  },
+  "https://www.sekoia.com/blog/gotta-breach-em-all-the-journey-of-shinyhunters": {
+    "ts": "2026-10-01T08:36:33.305160+00:00",
+    "title": "Gotta Breach 'Em All! The Journey Of ShinyHunters"
+  },
+  "https://socradar.io/blog/cve-2026-86950-apple-coregraphics-zero-day/": {
+    "ts": "2026-10-01T08:36:33.394615+00:00",
+    "title": "CVE-2026-86950: Apple CoreGraphics Zero-Day"
+  },
+  "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html": {
+    "ts": "2026-10-01T08:36:33.483181+00:00",
+    "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path"
+  },
+  "https://cybersecuritynews.com/new-2cloader-malware/": {
+    "ts": "2026-10-01T08:36:33.568458+00:00",
+    "title": "New 2CLoader Malware Evades Security Tools to Deploy Vidar and Remus Stealers"
+  },
+  "https://gbhackers.com/multiple-modsecurity-vulnerabilities/": {
+    "ts": "2026-10-01T08:36:33.568469+00:00",
+    "title": "Multiple ModSecurity Vulnerabilities Let Attackers Bypass WAF Rules and Execute Malicious Requests"
+  },
+  "https://www.helpnetsecurity.com/2026/10/01/google-ai-discovered-vulnerabilities-remote-code-execution/": {
+    "ts": "2026-10-01T08:36:33.568474+00:00",
+    "title": "The vulnerabilities AI finds are the ones attackers want"
+  },
+  "https://www.securityweek.com/google-launches-gemini-4-argon-with-guardrail-free-access-for-vetted-defenders/": {
+    "ts": "2026-10-01T08:36:33.568478+00:00",
+    "title": "Google Launches Gemini 4 Argon With Guardrail-Free Access for Vetted Defenders"
+  },
+  "https://socradar.io/blog/operation-talked-russia-ukraine-defense-industry/": {
+    "ts": "2026-10-01T08:36:33.661835+00:00",
+    "title": "Operation Talked: A Russia-Linked Cyber Espionage Campaign Targeting Ukraine\u2019s Defense Industry"
+  },
+  "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html": {
+    "ts": "2026-10-01T08:36:33.751470+00:00",
+    "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft"
+  },
+  "https://cybersecuritynews.com/cisco-sd-wan-manager-0-day-flaw/": {
+    "ts": "2026-10-01T08:36:33.842292+00:00",
+    "title": "Cisco SD-WAN Manager Authentication 0-day Vulnerability Actively Exploited in the Wild"
+  },
+  "https://gbhackers.com/critical-cisco-sd-wan-vulnerability/": {
+    "ts": "2026-10-01T08:36:33.930999+00:00",
+    "title": "Critical Cisco SD-WAN Vulnerability Lets Remote Attackers Bypass Authentication as Admin"
+  },
+  "https://www.helpnetsecurity.com/2026/10/01/employment-scam-victims-research/": {
+    "ts": "2026-10-01T08:36:33.931009+00:00",
+    "title": "Employment scam victims tripled at financial firms in 21 countries"
+  },
+  "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html": {
+    "ts": "2026-10-01T08:36:33.931050+00:00",
+    "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators"
+  },
+  "https://cybersecuritynews.com/internet-society-launches-global-online-trust-and-safety-hub-as-part-of-its-safer-internet-initiative/": {
+    "ts": "2026-10-01T08:36:33.931059+00:00",
+    "title": "Internet Society Launches Global Online Trust and Safety Hub as Part of Its Safer Internet Initiative"
+  },
+  "https://gbhackers.com/microsoft-defender-exclusions/": {
+    "ts": "2026-10-01T08:36:34.018843+00:00",
+    "title": "Hackers Hide Microsoft Defender Exclusions From Admins to Evade Antivirus Scans"
+  },
+  "https://www.helpnetsecurity.com/2026/10/01/google-gemini-4-argon/": {
+    "ts": "2026-10-01T08:36:34.106928+00:00",
+    "title": "Google says Gemini 4 Argon can find and patch critical software flaws"
+  },
+  "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html": {
+    "ts": "2026-10-01T08:36:34.191881+00:00",
+    "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs"
+  },
+  "https://cybersecuritynews.com/copyescape-docker-flaw/": {
+    "ts": "2026-10-01T08:36:34.280760+00:00",
+    "title": "CopyEscape Docker Flaw Lets Malicious Containers Overwrite Host Files and Gain Root Access"
+  },
+  "https://gbhackers.com/zimbra-vulnerability-exploited/": {
+    "ts": "2026-10-01T08:36:34.391890+00:00",
+    "title": "Zimbra Vulnerability Exploited to Gain Root Access and Steal Mailbox Authentication Secrets"
+  },
+  "https://www.helpnetsecurity.com/2026/10/01/product-showcase-proton-drive/": {
+    "ts": "2026-10-01T08:36:34.391902+00:00",
+    "title": "Product showcase: Proton Drive end-to-end encrypted cloud storage"
+  },
+  "https://gbhackers.com/ai-agents-expose-13000-developer-screenshots/": {
+    "ts": "2026-10-01T08:36:34.391907+00:00",
+    "title": "AI Agents Expose 13,000+ Developer Screenshots Across 900+ GitHub Repositories"
+  },
+  "https://www.helpnetsecurity.com/2026/10/01/synthid-bio-watermark/": {
+    "ts": "2026-10-01T08:36:34.391911+00:00",
+    "title": "Google\u2019s SynthID Bio can watermark AI-designed protein binders without breaking them"
+  },
+  "https://gbhackers.com/2cloader-malware/": {
+    "ts": "2026-10-01T08:36:34.481946+00:00",
+    "title": "New 2CLoader Malware Uses Anti-VM and API Hooking to Deliver Vidar and Remus Stealers"
   }
 }
