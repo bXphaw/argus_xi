@@ -29,6 +29,51 @@
       "category": "new_technique",
       "title": "AI agent used Zammad zero-days to breach Dutch vulnerability disclosure non-profit",
       "url": "https://www.helpnetsecurity.com/2026/10/01/divd-agentic-ai-attack-breach/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Autonomous AI agents tried to hack US, Canadian government websites",
+      "url": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old"
+    },
+    {
+      "category": "new_technique",
+      "title": "AI agents hacked the hackers, stealing email addresses from security research org",
+      "url": "https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652"
+    },
+    {
+      "category": "malware_macos",
+      "title": "Fake Zoom Installer Tricks Mac Users Into Installing New CloudSyncD Backdoor",
+      "url": "https://cybersecuritynews.com/fake-zoom-installer-tricks/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "China-Nexus Hackers Compromise 350 Systems Across Asia With New Antino Backdoor",
+      "url": "https://gbhackers.com/antino-backdoor/"
+    },
+    {
+      "category": "new_technique",
+      "title": "New Cisco SD-WAN zero-day exploited in-the-wild (CVE-2026-76504)",
+      "url": "https://www.helpnetsecurity.com/2026/10/01/new-cisco-sd-wan-zero-day-exploited-in-the-wild-cve-2026-76504/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Chinese Hackers Posing as Senior Anthropic Employee Targeting US AI Policy Experts",
+      "url": "https://cybersecuritynews.com/chinese-hackers-posing-as-anthropic-employee/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader",
+      "url": "https://www.securityweek.com/police-shut-down-killsec-ransomware-identify-alleged-teen-leader/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing",
+      "url": "https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595"
     }
   ],
   "last_sent_date": "2026-10-01"

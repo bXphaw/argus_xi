@@ -16958,5 +16958,125 @@
   "https://socradar.io/blog/cve-2026-76504-cisco-sd-wan-flaw/": {
     "ts": "2026-10-01T16:12:20.524693+00:00",
     "title": "CVE-2026-76504: Cisco SD-WAN Flaw Exploited"
+  },
+  "https://www.helpnetsecurity.com/2026/10/01/pentagon-dmdc-data-breach-3-million-people/": {
+    "ts": "2026-10-01T21:40:50.816289+00:00",
+    "title": "Pentagon breach exposes personal data of more than 3 million people"
+  },
+  "https://securityaffairs.com/200152/security/u-s-cisa-adds-cisco-catalyst-sd-wan-manager-flaw-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-10-01T21:41:00.222124+00:00",
+    "title": "U.S. CISA adds Cisco Catalyst SD-WAN Manager\u00a0flaw to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/": {
+    "ts": "2026-10-01T21:42:43.102713+00:00",
+    "title": "Autonomous AI agents tried to hack US, Canadian government websites"
+  },
+  "https://blog.talosintelligence.com/give-yourself-room-to-be-human/": {
+    "ts": "2026-10-01T21:42:43.102728+00:00",
+    "title": "Give yourself room to be human"
+  },
+  "https://cybersecuritynews.com/ftc-investigating-ai-models/": {
+    "ts": "2026-10-01T21:42:43.102731+00:00",
+    "title": "FTC Investigating OpenAI, Anthropic and Other AI Models Over Potential Risks to Customers"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old": {
+    "ts": "2026-10-01T21:42:43.225850+00:00",
+    "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old"
+  },
+  "https://gbhackers.com/axios-flaws-let-attackers-bypass-proxy-controls-and-trigger-ssrf-attacks/": {
+    "ts": "2026-10-01T21:42:43.225859+00:00",
+    "title": "Axios Flaws Let Attackers Bypass Proxy Controls and Trigger SSRF Attacks"
+  },
+  "https://www.malwarebytes.com/blog/threat-intel/2026/10/fake-xstocks-pendle-and-other-sites-bait-crypto-users-with-rewards-votes": {
+    "ts": "2026-10-01T21:42:43.338742+00:00",
+    "title": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes"
+  },
+  "https://securityaffairs.com/200200/cyber-crime/operation-killswitch-police-dismantle-killsec-ransomware-group.html": {
+    "ts": "2026-10-01T21:42:43.458356+00:00",
+    "title": "Operation KillSwitch: Police Dismantle KillSec Ransomware Group"
+  },
+  "https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/": {
+    "ts": "2026-10-01T21:42:43.572915+00:00",
+    "title": "Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks"
+  },
+  "https://www.security.com/feature-stories/symantec-cbx-here": {
+    "ts": "2026-10-01T21:42:43.677489+00:00",
+    "title": "Symantec CBX is Here"
+  },
+  "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html": {
+    "ts": "2026-10-01T21:42:43.794176+00:00",
+    "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers"
+  },
+  "https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652": {
+    "ts": "2026-10-01T21:42:43.910563+00:00",
+    "title": "AI agents hacked the hackers, stealing email addresses from security research org"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/": {
+    "ts": "2026-10-01T21:42:43.910573+00:00",
+    "title": "Microsoft says threat actors are ahead in the early AI race"
+  },
+  "https://cybersecuritynews.com/fake-zoom-installer-tricks/": {
+    "ts": "2026-10-01T21:42:44.029607+00:00",
+    "title": "Fake Zoom Installer Tricks Mac Users Into Installing New CloudSyncD Backdoor"
+  },
+  "https://gbhackers.com/antino-backdoor/": {
+    "ts": "2026-10-01T21:42:44.140692+00:00",
+    "title": "China-Nexus Hackers Compromise 350 Systems Across Asia With New Antino Backdoor"
+  },
+  "https://www.helpnetsecurity.com/2026/10/01/new-cisco-sd-wan-zero-day-exploited-in-the-wild-cve-2026-76504/": {
+    "ts": "2026-10-01T21:42:44.251828+00:00",
+    "title": "New Cisco SD-WAN zero-day exploited in-the-wild (CVE-2026-76504)"
+  },
+  "https://www.malwarebytes.com/blog/privacy/2026/10/pentagon-breach-exposes-social-security-numbers-and-military-records-of-millions": {
+    "ts": "2026-10-01T21:42:44.366377+00:00",
+    "title": "Pentagon breach exposes Social Security numbers and military records of millions"
+  },
+  "https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/": {
+    "ts": "2026-10-01T21:42:44.472129+00:00",
+    "title": "Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains"
+  },
+  "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html": {
+    "ts": "2026-10-01T21:42:44.585394+00:00",
+    "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories"
+  },
+  "https://www.theregister.com/security/2026/10/01/eus-hodgepodge-tech-policy-exposes-members-to-chinese-vendor-risks-says-think-tank/5300599": {
+    "ts": "2026-10-01T21:42:44.710416+00:00",
+    "title": "EU\u2019s hodgepodge tech policy exposes members to Chinese vendor risks, says think tank"
+  },
+  "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/": {
+    "ts": "2026-10-01T21:42:44.821420+00:00",
+    "title": "Kiteworks patches max severity code injection vulnerability"
+  },
+  "https://cybersecuritynews.com/chinese-hackers-posing-as-anthropic-employee/": {
+    "ts": "2026-10-01T21:42:44.941680+00:00",
+    "title": "Chinese Hackers Posing as Senior Anthropic Employee Targeting US AI Policy Experts"
+  },
+  "https://gbhackers.com/multiple-teamviewer-vulnerabilities/": {
+    "ts": "2026-10-01T21:42:44.941700+00:00",
+    "title": "Multiple TeamViewer Vulnerabilities Enable RCE, Access Control Bypass and Privilege Escalation"
+  },
+  "https://www.helpnetsecurity.com/2026/10/01/connected-car-apps-privacy-research/": {
+    "ts": "2026-10-01T21:42:44.941703+00:00",
+    "title": "Some car apps are slipping owners\u2019 data to big tech companies"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/10/losing-gamblers-pushed-to-bet-more-by-draftkings-ai-report-says": {
+    "ts": "2026-10-01T21:42:44.941705+00:00",
+    "title": "Losing gamblers pushed to bet more by DraftKings\u2019 AI, report says"
+  },
+  "https://www.securityweek.com/police-shut-down-killsec-ransomware-identify-alleged-teen-leader/": {
+    "ts": "2026-10-01T21:42:45.062442+00:00",
+    "title": "Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader"
+  },
+  "https://thehackernews.com/2026/10/how-financial-services-companies-can.html": {
+    "ts": "2026-10-01T21:42:45.062463+00:00",
+    "title": "How Financial Services Companies Can Modernize Their Software Supply Chain"
+  },
+  "https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595": {
+    "ts": "2026-10-01T21:42:45.177521+00:00",
+    "title": "Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/": {
+    "ts": "2026-10-01T21:42:45.177541+00:00",
+    "title": "Microsoft enables Windows settings backup by default for orgs"
   }
 }
