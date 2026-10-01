@@ -16838,5 +16838,125 @@
   "https://gbhackers.com/2cloader-malware/": {
     "ts": "2026-10-01T08:36:34.481946+00:00",
     "title": "New 2CLoader Malware Uses Anti-VM and API Hooking to Deliver Vidar and Remus Stealers"
+  },
+  "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/": {
+    "ts": "2026-10-01T16:12:16.685351+00:00",
+    "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old"
+  },
+  "https://blog.talosintelligence.com/the-fine-art-of-frustrating-the-adversary/": {
+    "ts": "2026-10-01T16:12:16.685372+00:00",
+    "title": "The Fine Art of Frustrating the Adversary"
+  },
+  "https://cybersecuritynews.com/hackers-built-a-windows-backdoor/": {
+    "ts": "2026-10-01T16:12:16.879691+00:00",
+    "title": "Hackers Built a Windows Backdoor Whose Entire C2 Lives Inside Microsoft 365"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese": {
+    "ts": "2026-10-01T16:12:17.068283+00:00",
+    "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs"
+  },
+  "https://www.forescout.com/blog/federal-pqc-orders-are-here-how-to-prioritize-migration-before-q-day/": {
+    "ts": "2026-10-01T16:12:17.068304+00:00",
+    "title": "Federal PQC Orders Are Here: How to Prioritize Migration Before Q-Day"
+  },
+  "https://gbhackers.com/terminalfix-attacks/": {
+    "ts": "2026-10-01T16:12:17.257865+00:00",
+    "title": "TerminalFix Attacks Deploy Lorem Ipsum Loader to Create Covert Tunnels Into Corporate Networks"
+  },
+  "https://www.group-ib.com/blog/milk-dragon-nailong-phishing-kit/": {
+    "ts": "2026-10-01T16:12:17.447325+00:00",
+    "title": "Milk Dragon: Huge Discounts on Social Media? Think Twice Before You Buy"
+  },
+  "https://www.helpnetsecurity.com/2026/10/01/killsec-ransomware-16-year-old-main-operator-arrested/": {
+    "ts": "2026-10-01T16:12:17.638195+00:00",
+    "title": "16-year-old suspected leader of KillSec ransomware group arrested"
+  },
+  "https://lab52.io/blog/backdoors-in-the-dungeon-turn-mqtt-abused-by-dragonforce/": {
+    "ts": "2026-10-01T16:12:17.834022+00:00",
+    "title": "Backdoors in the Dungeon \u2013 TURN & MQTT Abused by DragonForce"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/10/shadow-ai-explained-the-work-shortcut-that-could-leak-your-companys-secrets": {
+    "ts": "2026-10-01T16:12:18.025794+00:00",
+    "title": "Shadow AI explained: The work shortcut that could leak your company\u2019s secrets"
+  },
+  "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/": {
+    "ts": "2026-10-01T16:12:18.025812+00:00",
+    "title": "Preparing governments for an era of interconnected cyber risk"
+  },
+  "https://www.rapid7.com/blog/post/ai-changing-security-operations-center-roles-soc": {
+    "ts": "2026-10-01T16:12:18.025816+00:00",
+    "title": "How AI Is Changing the Roles Required in the Security Operations Center"
+  },
+  "https://securityaffairs.com/200187/uncategorized/inside-gemini-4-argon-the-model-google-is-testing-on-its-own-infrastructure-first.html": {
+    "ts": "2026-10-01T16:12:18.025819+00:00",
+    "title": "Inside Gemini 4 Argon, the model Google is testing on its own infrastructure first"
+  },
+  "https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/": {
+    "ts": "2026-10-01T16:12:18.025823+00:00",
+    "title": "Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass"
+  },
+  "https://socradar.io/blog/teamviewer-fixes-five-remote-access-flaws/": {
+    "ts": "2026-10-01T16:12:18.025825+00:00",
+    "title": "TeamViewer Fixes Five Remote Access Flaws"
+  },
+  "https://www.security.com/threat-intelligence/warlock-ransomware-critical-infrastructure": {
+    "ts": "2026-10-01T16:12:18.222329+00:00",
+    "title": "Warlock Ransomware Attackers Hit Water and Telecom Operators"
+  },
+  "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html": {
+    "ts": "2026-10-01T16:12:18.416957+00:00",
+    "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory"
+  },
+  "https://www.theregister.com/security/2026/10/01/microsoft-catches-hackers-exploiting-zimbra-bug-before-disclosure/5300543": {
+    "ts": "2026-10-01T16:12:18.607298+00:00",
+    "title": "Microsoft catches hackers exploiting Zimbra bug before disclosure"
+  },
+  "https://threatmon.io/an-open-server-an-exposed-toolkit-inside-a-viva-aerobus-linked-intrusion/": {
+    "ts": "2026-10-01T16:12:18.796490+00:00",
+    "title": "An Open Server, an Exposed Toolkit Inside a Viva Aerobus-Linked Intrusion"
+  },
+  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-september-2026/": {
+    "ts": "2026-10-01T16:12:18.987274+00:00",
+    "title": "This month in security with Tony Anscombe \u2013 September 2026 edition"
+  },
+  "https://www.zscaler.com/blogs/security-research/access-exfiltration-what-defenders-need-know": {
+    "ts": "2026-10-01T16:12:18.987292+00:00",
+    "title": "From Access to Exfiltration: What Defenders Need to Know"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/": {
+    "ts": "2026-10-01T16:12:18.987296+00:00",
+    "title": "The Day-One Hole in Zero Trust Architecture"
+  },
+  "https://cybersecuritynews.com/16-year-old-leader-killsec-ransomware/": {
+    "ts": "2026-10-01T16:12:19.175814+00:00",
+    "title": "16-year-old Alleged KillSec Ransomware Group Leader Arrested, Servers Dismantled"
+  },
+  "https://gbhackers.com/next-js-imageresponse-vulnerability/": {
+    "ts": "2026-10-01T16:12:19.376991+00:00",
+    "title": "Next.js ImageResponse Vulnerability Lets Remote Attackers Execute Code Through SVG Content"
+  },
+  "https://www.helpnetsecurity.com/2026/10/01/divd-agentic-ai-attack-breach/": {
+    "ts": "2026-10-01T16:12:19.571072+00:00",
+    "title": "AI agent used Zammad zero-days to breach Dutch vulnerability disclosure non-profit"
+  },
+  "https://www.malwarebytes.com/blog/product/2026/10/malwarebytes-earns-another-top-product-award-in-independent-testing": {
+    "ts": "2026-10-01T16:12:19.760123+00:00",
+    "title": "Malwarebytes earns another Top Product award in independent testing"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/": {
+    "ts": "2026-10-01T16:12:19.955415+00:00",
+    "title": "Insights from the 2026 Microsoft Digital Defense Report"
+  },
+  "https://securityaffairs.com/200175/hacking/public-poc-released-for-apple-coregraphics-zero-day-cve-2026-86950.html": {
+    "ts": "2026-10-01T16:12:20.145806+00:00",
+    "title": "Public PoC Released for Apple CoreGraphics Zero-Day CVE-2026-86950"
+  },
+  "https://www.securityweek.com/enterprises-struggle-to-prepare-for-ai-and-quantum-threats-pwc-says/": {
+    "ts": "2026-10-01T16:12:20.335031+00:00",
+    "title": "Enterprises Struggle to Prepare for AI and Quantum Threats, PwC Says"
+  },
+  "https://socradar.io/blog/cve-2026-76504-cisco-sd-wan-flaw/": {
+    "ts": "2026-10-01T16:12:20.524693+00:00",
+    "title": "CVE-2026-76504: Cisco SD-WAN Flaw Exploited"
   }
 }

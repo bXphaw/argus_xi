@@ -1,4 +1,35 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "threat_actor",
+      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Built a Windows Backdoor Whose Entire C2 Lives Inside Microsoft 365",
+      "url": "https://cybersecuritynews.com/hackers-built-a-windows-backdoor/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese"
+    },
+    {
+      "category": "threat_actor",
+      "title": "16-year-old Alleged KillSec Ransomware Group Leader Arrested, Servers Dismantled",
+      "url": "https://cybersecuritynews.com/16-year-old-leader-killsec-ransomware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Next.js ImageResponse Vulnerability Lets Remote Attackers Execute Code Through SVG Content",
+      "url": "https://gbhackers.com/next-js-imageresponse-vulnerability/"
+    },
+    {
+      "category": "new_technique",
+      "title": "AI agent used Zammad zero-days to breach Dutch vulnerability disclosure non-profit",
+      "url": "https://www.helpnetsecurity.com/2026/10/01/divd-agentic-ai-attack-breach/"
+    }
+  ],
   "last_sent_date": "2026-10-01"
 }
