@@ -17138,5 +17138,57 @@
   "https://www.theregister.com/security/2026/10/01/fewer-women-than-ever-in-uks-old-boys-club-cyber-industry/5300064": {
     "ts": "2026-10-02T01:26:57.003270+00:00",
     "title": "Fewer women than ever in UK's 'old boys' club' cyber industry"
+  },
+  "https://securityaffairs.com/200224/security/u-s-cisa-adds-fortinet-fortimail-flaw-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-10-02T08:10:09.193438+00:00",
+    "title": "U.S. CISA adds Fortinet FortiMail\u00a0flaw to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://securityaffairs.com/200187/ai/inside-gemini-4-argon-the-model-google-is-testing-on-its-own-infrastructure-first.html": {
+    "ts": "2026-10-02T08:10:10.798082+00:00",
+    "title": "Inside Gemini 4 Argon, the model Google is testing on its own infrastructure first"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/": {
+    "ts": "2026-10-02T08:10:46.008839+00:00",
+    "title": "CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS"
+  },
+  "https://www.group-ib.com/blog/brazetsu-ai-enhanced-iab-marketplace-es/": {
+    "ts": "2026-10-02T08:10:46.241170+00:00",
+    "title": "Anatom\u00eda de BraZetsu: C\u00f3mo los cibercriminales abastecen el ecosistema clandestino"
+  },
+  "https://www.helpnetsecurity.com/2026/10/02/intel-471-insider-threat-recruitment-report/": {
+    "ts": "2026-10-02T08:10:46.241190+00:00",
+    "title": "Criminal recruiters want people on your payroll"
+  },
+  "https://securityaffairs.com/200215/ai/investigators-trace-an-ai-agent-s-path-from-research-task-to-reconnaissance.html": {
+    "ts": "2026-10-02T08:10:46.434959+00:00",
+    "title": "Investigators trace an AI agent \u2018s path from research task to reconnaissance"
+  },
+  "https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/": {
+    "ts": "2026-10-02T08:10:46.639151+00:00",
+    "title": "Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action"
+  },
+  "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html": {
+    "ts": "2026-10-02T08:10:46.639170+00:00",
+    "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools"
+  },
+  "https://www.helpnetsecurity.com/2026/10/02/android-17-advanced-protection-features/": {
+    "ts": "2026-10-02T08:10:46.639174+00:00",
+    "title": "Android 17 makes it harder for spyware to cover its tracks"
+  },
+  "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html": {
+    "ts": "2026-10-02T08:10:46.833953+00:00",
+    "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes"
+  },
+  "https://www.helpnetsecurity.com/2026/10/02/pwc-attacks-on-ai-systems/": {
+    "ts": "2026-10-02T08:10:46.833974+00:00",
+    "title": "Botnets, adversarial attacks and data poisoning top leaders\u2019 AI threat list"
+  },
+  "https://www.helpnetsecurity.com/2026/10/02/delinea-ai-policy-adoption-enforcement-report/": {
+    "ts": "2026-10-02T08:10:46.833978+00:00",
+    "title": "AI agents keep access to company data after their work is done"
+  },
+  "https://www.helpnetsecurity.com/2026/10/02/new-infosec-products-of-the-week-october-2-2026/": {
+    "ts": "2026-10-02T08:10:46.833982+00:00",
+    "title": "New infosec products of the week: October 2, 2026"
   }
 }
