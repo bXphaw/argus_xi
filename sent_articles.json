@@ -17078,5 +17078,65 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/": {
     "ts": "2026-10-01T21:42:45.177541+00:00",
     "title": "Microsoft enables Windows settings backup by default for orgs"
+  },
+  "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/": {
+    "ts": "2026-10-02T01:26:55.623007+00:00",
+    "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks"
+  },
+  "https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/": {
+    "ts": "2026-10-02T01:26:55.623032+00:00",
+    "title": "AI Has Changed Attack Speed, Not Security Fundamentals"
+  },
+  "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html": {
+    "ts": "2026-10-02T01:26:55.824828+00:00",
+    "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates"
+  },
+  "https://www.theregister.com/security/2026/10/01/mi5-warns-uk-academics-their-research-may-have-helped-chinese-spies/5300502": {
+    "ts": "2026-10-02T01:26:55.824854+00:00",
+    "title": "MI5 warns UK academics their research may have helped Chinese spies"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/": {
+    "ts": "2026-10-02T01:26:55.824858+00:00",
+    "title": "Hackers stole Pentagon personnel records of over 3 million people"
+  },
+  "https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/": {
+    "ts": "2026-10-02T01:26:56.020480+00:00",
+    "title": "Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure"
+  },
+  "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html": {
+    "ts": "2026-10-02T01:26:56.216266+00:00",
+    "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV"
+  },
+  "https://www.theregister.com/security/2026/10/01/ciso-thought-he-had-a-r3lg00dpw0rd-but-forgot-to-patch/5300314": {
+    "ts": "2026-10-02T01:26:56.412861+00:00",
+    "title": "CISO thought he had a 'r3@lg00dp@$$w0rd' but forgot to patch"
+  },
+  "https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation/": {
+    "ts": "2026-10-02T01:26:56.612367+00:00",
+    "title": "Kevin Mandia\u2019s Armadin Raises $255 Million at $2.5 Billion Valuation"
+  },
+  "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html": {
+    "ts": "2026-10-02T01:26:56.805872+00:00",
+    "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version"
+  },
+  "https://www.theregister.com/security/2026/10/01/englands-schools-are-getting-better-at-mopping-up-cyber-incidents/5300465": {
+    "ts": "2026-10-02T01:26:56.805893+00:00",
+    "title": "England's schools are getting better at mopping up cyber incidents"
+  },
+  "https://www.securityweek.com/treasury-blacklists-most-wanted-atm-malware-developer-and-his-network/": {
+    "ts": "2026-10-02T01:26:56.805899+00:00",
+    "title": "Treasury Blacklists Most-Wanted ATM Malware Developer and His Network"
+  },
+  "https://www.theregister.com/security/2026/10/01/uk-privacy-watchdog-starts-over-with-new-board-and-manchester-hq/5300439": {
+    "ts": "2026-10-02T01:26:56.805902+00:00",
+    "title": "UK privacy watchdog starts over with new board and Manchester HQ"
+  },
+  "https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/": {
+    "ts": "2026-10-02T01:26:57.003248+00:00",
+    "title": "Zammad Zero-Days Exploited in AI-Powered DIVD Hack"
+  },
+  "https://www.theregister.com/security/2026/10/01/fewer-women-than-ever-in-uks-old-boys-club-cyber-industry/5300064": {
+    "ts": "2026-10-02T01:26:57.003270+00:00",
+    "title": "Fewer women than ever in UK's 'old boys' club' cyber industry"
   }
 }

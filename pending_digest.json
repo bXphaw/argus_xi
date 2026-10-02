@@ -74,6 +74,21 @@
       "category": "threat_actor",
       "title": "Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing",
       "url": "https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595"
+    },
+    {
+      "category": "new_technique",
+      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+      "url": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Zammad Zero-Days Exploited in AI-Powered DIVD Hack",
+      "url": "https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/"
     }
   ],
   "last_sent_date": "2026-10-01"
