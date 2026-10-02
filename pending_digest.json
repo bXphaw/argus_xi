@@ -29,6 +29,56 @@
       "category": "threat_actor",
       "title": "Hackers Poison Trusted Software Updates to Steal Developer and Cloud Credentials",
       "url": "https://cybersecuritynews.com/hackers-poison-trusted-software-updates/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Multiple Cpanel/WHM Vulnerabilities Allow Arbitrary Command Execution On Server",
+      "url": "https://cybersecuritynews.com/multiple-cpanel-whm-vulnerabilities/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response",
+      "url": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response"
+    },
+    {
+      "category": "new_technique",
+      "title": "Exposed Hacker Server Reveals Toolkit Used in Viva Aerobus-Linked Intrusion",
+      "url": "https://gbhackers.com/viva-aerobus-intrusion/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "In Rare Move, Alleged Iranian State Hacker Extradited to US",
+      "url": "https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/"
+    },
+    {
+      "category": "new_technique",
+      "title": "SWIFT Banking &amp; Government Middleware Enables RCE",
+      "url": "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks",
+      "url": "https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+      "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "OpenAI Blocks 15,000 Requests Trying to Extract Protected Model Reasoning",
+      "url": "https://gbhackers.com/openai-blocks-15000-requests/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Free iCloud Account Could Let Attackers Spoof Any @icloud.com Address and Pass Email Security Checks",
+      "url": "https://cybersecuritynews.com/icloud-email-address-spoofing/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Hackers Are Turning Trusted Software Updates Into Credential-Stealing Malware",
+      "url": "https://gbhackers.com/credential-stealing-malware/"
     }
   ],
   "last_sent_date": "2026-10-02"

@@ -17310,5 +17310,125 @@
   "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/": {
     "ts": "2026-10-02T15:36:22.517610+00:00",
     "title": "Microsoft\u2019s X account hacked in crypto pump-and-dump scheme"
+  },
+  "https://www.malwarebytes.com/blog/threat-intel/2026/10/free-mobile-phishing-texts-appear-days-after-data-breach": {
+    "ts": "2026-10-02T20:30:10.321425+00:00",
+    "title": "Convincing Free Mobile phishing emails appear after data breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/": {
+    "ts": "2026-10-02T20:32:24.414266+00:00",
+    "title": "Frontline Education breach exposes school district employee data"
+  },
+  "https://cybersecuritynews.com/multiple-cpanel-whm-vulnerabilities/": {
+    "ts": "2026-10-02T20:32:24.623869+00:00",
+    "title": "Multiple Cpanel/WHM Vulnerabilities Allow Arbitrary Command Execution On Server"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response": {
+    "ts": "2026-10-02T20:32:24.664808+00:00",
+    "title": "Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response"
+  },
+  "https://gbhackers.com/viva-aerobus-intrusion/": {
+    "ts": "2026-10-02T20:32:24.705266+00:00",
+    "title": "Exposed Hacker Server Reveals Toolkit Used in Viva Aerobus-Linked Intrusion"
+  },
+  "https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/": {
+    "ts": "2026-10-02T20:32:24.746769+00:00",
+    "title": "In Rare Move, Alleged Iranian State Hacker Extradited to US"
+  },
+  "https://www.technadu.com/weekly-cybersecurity-roundup-how-stolen-credentials-continue-to-fuel-fraud/633831/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=weekly-cybersecurity-roundup-how-stolen-credentials-continue-to-fuel-fraud": {
+    "ts": "2026-10-02T20:32:24.786727+00:00",
+    "title": "Weekly Cybersecurity Roundup: How Stolen Credentials Continue to Fuel Fraud"
+  },
+  "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html": {
+    "ts": "2026-10-02T20:32:24.827991+00:00",
+    "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers"
+  },
+  "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891": {
+    "ts": "2026-10-02T20:32:24.867639+00:00",
+    "title": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse"
+  },
+  "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/": {
+    "ts": "2026-10-02T20:32:24.910538+00:00",
+    "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks"
+  },
+  "https://cybersecuritynews.com/openclaw-free-enterprise-platform/": {
+    "ts": "2026-10-02T20:32:24.950522+00:00",
+    "title": "OpenClaw Launches Free Open-source Enterprise Agent Platform for AI Agents"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce": {
+    "ts": "2026-10-02T20:32:24.990105+00:00",
+    "title": "SWIFT Banking &amp; Government Middleware Enables RCE"
+  },
+  "https://gbhackers.com/multiple-cpanel-whm-vulnerabilities/": {
+    "ts": "2026-10-02T20:32:24.990118+00:00",
+    "title": "Multiple cPanel & WHM Vulnerabilities Enable Root Code Execution and Admin Session Hijacking"
+  },
+  "https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/": {
+    "ts": "2026-10-02T20:32:25.030748+00:00",
+    "title": "Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks"
+  },
+  "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html": {
+    "ts": "2026-10-02T20:32:25.070568+00:00",
+    "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign"
+  },
+  "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/": {
+    "ts": "2026-10-02T20:32:25.070580+00:00",
+    "title": "GitLab warns of critical RCE vulnerability in AI Gateway service"
+  },
+  "https://cybersecuritynews.com/exposed-wordpress-backups/": {
+    "ts": "2026-10-02T20:32:25.110831+00:00",
+    "title": "Exposed WordPress Backups Became a Gold Mine of AWS and Email Credentials"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-": {
+    "ts": "2026-10-02T20:32:25.151234+00:00",
+    "title": "Is Your Organization Ready for 2027's AI Accountability Era?"
+  },
+  "https://gbhackers.com/capacitor-vulnerability/": {
+    "ts": "2026-10-02T20:32:25.191844+00:00",
+    "title": "Capacitor Vulnerability Lets Remote Content Run With Full App Origin Trust"
+  },
+  "https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/": {
+    "ts": "2026-10-02T20:32:25.232909+00:00",
+    "title": "AI Agents Aimed SQL Injection at US and Canadian Government Sites"
+  },
+  "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html": {
+    "ts": "2026-10-02T20:32:25.273549+00:00",
+    "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes"
+  },
+  "https://cybersecuritynews.com/zammad-0-day-vulnerabilities-exploited/": {
+    "ts": "2026-10-02T20:32:25.273559+00:00",
+    "title": "Zammad 0-Day Vulnerabilities Exploited to Gain Remote Code Execution and Root Access"
+  },
+  "https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures": {
+    "ts": "2026-10-02T20:32:25.273563+00:00",
+    "title": "Is It Fair to Blame 'Rogue' AI for Security Failures?"
+  },
+  "https://gbhackers.com/openai-blocks-15000-requests/": {
+    "ts": "2026-10-02T20:32:25.314158+00:00",
+    "title": "OpenAI Blocks 15,000 Requests Trying to Extract Protected Model Reasoning"
+  },
+  "https://cybersecuritynews.com/icloud-email-address-spoofing/": {
+    "ts": "2026-10-02T20:32:25.358783+00:00",
+    "title": "Free iCloud Account Could Let Attackers Spoof Any @icloud.com Address and Pass Email Security Checks"
+  },
+  "https://gbhackers.com/credential-stealing-malware/": {
+    "ts": "2026-10-02T20:32:25.399335+00:00",
+    "title": "Hackers Are Turning Trusted Software Updates Into Credential-Stealing Malware"
+  },
+  "https://cybersecuritynews.com/ps5-security-update/": {
+    "ts": "2026-10-02T20:32:25.443766+00:00",
+    "title": "Sony Rolls Out PS5 Security Update Following the Release of Relapse Jailbreak"
+  },
+  "https://gbhackers.com/tiktouk-wordpress-toolkit/": {
+    "ts": "2026-10-02T20:32:25.485387+00:00",
+    "title": "TIKTOUK WordPress Toolkit Could Enable AWS, SMTP and API Credential Theft Attacks"
+  },
+  "https://cybersecuritynews.com/session-cookie-vulnerability/": {
+    "ts": "2026-10-02T20:32:25.524197+00:00",
+    "title": "Session Cookie Vulnerability Lets Attackers Bypass Entra ID MFA and Impersonate Users"
+  },
+  "https://gbhackers.com/passwordless-impersonation/": {
+    "ts": "2026-10-02T20:32:25.581357+00:00",
+    "title": "Authentication Bypass Successfully Impersonated 95 Users Without Passwords or MFA"
   }
 }
