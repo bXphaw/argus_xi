@@ -17190,5 +17190,125 @@
   "https://www.helpnetsecurity.com/2026/10/02/new-infosec-products-of-the-week-october-2-2026/": {
     "ts": "2026-10-02T08:10:46.833982+00:00",
     "title": "New infosec products of the week: October 2, 2026"
+  },
+  "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/": {
+    "ts": "2026-10-02T15:36:18.676708+00:00",
+    "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown"
+  },
+  "https://cybersecuritynews.com/hackers-turned-a-microsoft-sql-server/": {
+    "ts": "2026-10-02T15:36:18.865896+00:00",
+    "title": "Hackers Turned a Microsoft SQL Server Into a Command and Data Exfiltration Channel"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem": {
+    "ts": "2026-10-02T15:36:18.865915+00:00",
+    "title": "Vulnerability Backlogs Are an Ownership Problem"
+  },
+  "https://gbhackers.com/sony-ps5-relapse-jailbreak-exploit-uses/": {
+    "ts": "2026-10-02T15:36:19.060522+00:00",
+    "title": "Sony PS5 Relapse Jailbreak Exploit Uses JSC Memory Corruption and Kernel UAF"
+  },
+  "https://www.helpnetsecurity.com/2026/10/02/ai-cybersecurity-threats-microsoft-report/": {
+    "ts": "2026-10-02T15:36:19.060541+00:00",
+    "title": "AI is giving attackers a head start, Microsoft warns"
+  },
+  "https://www.malwarebytes.com/blog/threat-intel/2026/10/revolut-phishing-texts-appear-days-after-data-breach-clone": {
+    "ts": "2026-10-02T15:36:19.250777+00:00",
+    "title": "Convincing Free Mobile phishing emails appear after data breach"
+  },
+  "https://www.rapid7.com/blog/post/tr-smtp-is-the-key-bpfdoor-averat-hitting-the-network-edge": {
+    "ts": "2026-10-02T15:36:19.442260+00:00",
+    "title": "SMTP is the key: BPFDoor and AVERAT hitting the network edge"
+  },
+  "https://securityaffairs.com/200234/ai/ai-agents-attempt-sql-injection-while-searching-government-data.html": {
+    "ts": "2026-10-02T15:36:19.630112+00:00",
+    "title": "AI Agents Attempt SQL Injection While Searching Government Data"
+  },
+  "https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/": {
+    "ts": "2026-10-02T15:36:19.819051+00:00",
+    "title": "In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats"
+  },
+  "https://www.youtube.com/watch?v=yfBWUgtUh8g#new_tab&utm_source=rss&utm_medium=rss&utm_campaign=cybercrime-disruption-making-a-real-impact-ken-bagnall": {
+    "ts": "2026-10-02T15:36:20.014513+00:00",
+    "title": "Cybercrime Disruption: Making a \u201cReal Impact\u201d | Ken Bagnall"
+  },
+  "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html": {
+    "ts": "2026-10-02T15:36:20.014529+00:00",
+    "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling"
+  },
+  "https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856": {
+    "ts": "2026-10-02T15:36:20.014533+00:00",
+    "title": "Californian accused of shipping $300M worth of Nvidia chips to China without Uncle Sam\u2019s approval"
+  },
+  "https://threatmon.io/the-netscaler-zero-day-siege-and-pre-auth-rce-chains-technical-analysis-and-exposure-assessment/": {
+    "ts": "2026-10-02T15:36:20.210832+00:00",
+    "title": "The NetScaler Zero-Day Siege and Pre-Auth RCE Chains : Technical Analysis and Exposure Assessment"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/": {
+    "ts": "2026-10-02T15:36:20.406566+00:00",
+    "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry"
+  },
+  "https://cybersecuritynews.com/hackers-poison-trusted-software-updates/": {
+    "ts": "2026-10-02T15:36:20.602824+00:00",
+    "title": "Hackers Poison Trusted Software Updates to Steal Developer and Cloud Credentials"
+  },
+  "https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security": {
+    "ts": "2026-10-02T15:36:20.792995+00:00",
+    "title": "Malicious Linux Implants Mimic Asian Mail Security Products"
+  },
+  "https://gbhackers.com/zammad-vulnerabilities/": {
+    "ts": "2026-10-02T15:36:20.983229+00:00",
+    "title": "Zammad Vulnerabilities Let Attackers Execute Code and Escalate Privileges to Root"
+  },
+  "https://www.helpnetsecurity.com/2026/10/02/china-aligned-ta419-phishing-ai-policy-experts/": {
+    "ts": "2026-10-02T15:36:21.171335+00:00",
+    "title": "Chinese spies impersonate White House, Anthropic figures to phish AI policy experts"
+  },
+  "https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/": {
+    "ts": "2026-10-02T15:36:21.366038+00:00",
+    "title": "macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor"
+  },
+  "https://cyberinsurancenews.org/residential-proxy-risk-peer2profit-astroproxy/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=residential-proxy-risk-the-employee-earns-pennies-the-buyer-gets-the-router": {
+    "ts": "2026-10-02T15:36:21.556891+00:00",
+    "title": "Residential Proxy Risk: The Employee Earns Pennies, The Buyer Gets The Router"
+  },
+  "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html": {
+    "ts": "2026-10-02T15:36:21.556909+00:00",
+    "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850": {
+    "ts": "2026-10-02T15:36:21.556913+00:00",
+    "title": "OpenAI's wandering AI agents earn it a California subpoena"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/": {
+    "ts": "2026-10-02T15:36:21.556916+00:00",
+    "title": "Dell asks admins to patch max severity CSM flaws as soon as possible"
+  },
+  "https://cybersecuritynews.com/red-hat-satellite-vulnerability/": {
+    "ts": "2026-10-02T15:36:21.556918+00:00",
+    "title": "Critical Red Hat Satellite Flaw Could Enable Root Password Theft and Code Execution Attacks"
+  },
+  "https://gbhackers.com/safari-history-database-tags-can-reveal-users-browsing-themes/": {
+    "ts": "2026-10-02T15:36:21.556921+00:00",
+    "title": "Safari History Database Tags Can Reveal Users\u2019 Browsing Themes in Forensic Investigations"
+  },
+  "https://www.helpnetsecurity.com/2026/10/02/fortinet-fortimail-vulnerability-cve-2026-104286/": {
+    "ts": "2026-10-02T15:36:21.743518+00:00",
+    "title": "Critical FortiMail zero-day exploited in the wild (CVE-2026-104286)"
+  },
+  "https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/": {
+    "ts": "2026-10-02T15:36:21.936736+00:00",
+    "title": "Crypto Scammers Hijack Microsoft\u2019s Official X Account"
+  },
+  "https://www.firstalert4.com/2026/08/25/ai-used-clone-st-louis-county-roofing-companys-website/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=ai-used-to-clone-st-louis-county-roofing-companys-website": {
+    "ts": "2026-10-02T15:36:22.134354+00:00",
+    "title": "AI used to clone St. Louis County roofing company\u2019s website"
+  },
+  "https://www.theregister.com/security/2026/10/02/fortinet-sounds-the-alarm-over-actively-exploited-fortimail-zero-day/5300803": {
+    "ts": "2026-10-02T15:36:22.328259+00:00",
+    "title": "Fortinet sounds the alarm over actively exploited FortiMail zero-day"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/": {
+    "ts": "2026-10-02T15:36:22.517610+00:00",
+    "title": "Microsoft\u2019s X account hacked in crypto pump-and-dump scheme"
   }
 }

@@ -1,4 +1,35 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
+      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Turned a Microsoft SQL Server Into a Command and Data Exfiltration Channel",
+      "url": "https://cybersecuritynews.com/hackers-turned-a-microsoft-sql-server/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Sony PS5 Relapse Jailbreak Exploit Uses JSC Memory Corruption and Kernel UAF",
+      "url": "https://gbhackers.com/sony-ps5-relapse-jailbreak-exploit-uses/"
+    },
+    {
+      "category": "new_technique",
+      "title": "The NetScaler Zero-Day Siege and Pre-Auth RCE Chains : Technical Analysis and Exposure Assessment",
+      "url": "https://threatmon.io/the-netscaler-zero-day-siege-and-pre-auth-rce-chains-technical-analysis-and-exposure-assessment/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
+      "url": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Hackers Poison Trusted Software Updates to Steal Developer and Cloud Credentials",
+      "url": "https://cybersecuritynews.com/hackers-poison-trusted-software-updates/"
+    }
+  ],
   "last_sent_date": "2026-10-02"
 }
