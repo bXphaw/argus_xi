@@ -17494,5 +17494,33 @@
   "https://gbhackers.com/critical-gitlab-ai-gateway-flaw/": {
     "ts": "2026-10-03T12:22:24.114156+00:00",
     "title": "Critical GitLab AI Gateway Flaw Lets Attackers Execute Arbitrary Commands"
+  },
+  "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/": {
+    "ts": "2026-10-03T17:06:07.964057+00:00",
+    "title": "Danish university DTU breach exposes data of up to 200,000 people"
+  },
+  "https://cybersecuritynews.com/microsoft-reissues-exchange-server-update/": {
+    "ts": "2026-10-03T17:06:07.964074+00:00",
+    "title": "Microsoft Pushes New Exchange V2 Update After Discovering New Security Flaw"
+  },
+  "https://securityaffairs.com/200293/malware/fake-zoom-installer-hides-macos-backdoor-cloudsyncd.html": {
+    "ts": "2026-10-03T17:06:08.248194+00:00",
+    "title": "Fake Zoom installer hides macOS backdoor CloudSyncD"
+  },
+  "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html": {
+    "ts": "2026-10-03T17:06:08.248212+00:00",
+    "title": "MI5 Says China\u2019s MSS Funded Research Involving 100+ U.K.-Linked Academics"
+  },
+  "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933": {
+    "ts": "2026-10-03T17:06:08.248216+00:00",
+    "title": "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows"
+  },
+  "https://cybersecuritynews.com/rethinking-automotive-cyber-risk-for-the-age-of-accelerated-vulnerability-discovery/": {
+    "ts": "2026-10-03T17:06:08.248220+00:00",
+    "title": "Rethinking automotive cyber risk for the age of accelerated vulnerability discovery"
+  },
+  "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html": {
+    "ts": "2026-10-03T17:06:08.486376+00:00",
+    "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware"
   }
 }

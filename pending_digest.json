@@ -1,4 +1,15 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_macos",
+      "title": "Fake Zoom installer hides macOS backdoor CloudSyncD",
+      "url": "https://securityaffairs.com/200293/malware/fake-zoom-installer-hides-macos-backdoor-cloudsyncd.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+      "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html"
+    }
+  ],
   "last_sent_date": "2026-10-03"
 }
