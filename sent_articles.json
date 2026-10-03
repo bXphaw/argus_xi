@@ -17438,5 +17438,29 @@
   "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail": {
     "ts": "2026-10-03T00:16:50.937873+00:00",
     "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail"
+  },
+  "https://cybersecuritynews.com/gitlab-ai-gateway-vulnerability/": {
+    "ts": "2026-10-03T06:13:08.140181+00:00",
+    "title": "Critical GitLab AI Gateway Vulnerability Enables Remote Code Execution Attacks"
+  },
+  "https://gbhackers.com/aws-ai-agent-vulnerabilities/": {
+    "ts": "2026-10-03T06:13:08.140199+00:00",
+    "title": "AWS AI Agent Vulnerabilities Let Attackers Bypass Authentication and Steal Credentials"
+  },
+  "https://cybersecuritynews.com/critical-dell-container-storage-flaws/": {
+    "ts": "2026-10-03T06:13:08.140203+00:00",
+    "title": "Critical Dell Container Storage Flaws Let Unauthenticated Attackers Gain Full Administrative Control"
+  },
+  "https://gbhackers.com/citrix-netscaler-appliances-reboot/": {
+    "ts": "2026-10-03T06:13:08.140206+00:00",
+    "title": "Citrix NetScaler Appliances Reboot Repeatedly After 0-Day Security Update"
+  },
+  "https://cybersecuritynews.com/citrix-netscaler-0-day-patch/": {
+    "ts": "2026-10-03T06:13:08.140209+00:00",
+    "title": "Citrix NetScaler Keeps Rebooting Following the 0-Day Patch"
+  },
+  "https://cybersecuritynews.com/debian-1313-security-flaws/": {
+    "ts": "2026-10-03T06:13:08.140211+00:00",
+    "title": "Debian has Patched 1,313 Flaws in Massive Update Leading to DoS and Privilege Escalation Attacks"
   }
 }
