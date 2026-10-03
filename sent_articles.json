@@ -17430,5 +17430,13 @@
   "https://gbhackers.com/passwordless-impersonation/": {
     "ts": "2026-10-02T20:32:25.581357+00:00",
     "title": "Authentication Bypass Successfully Impersonated 95 Users Without Passwords or MFA"
+  },
+  "https://securityaffairs.com/200248/security/u-s-cisa-adds-zammad-gmbh-zammad-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-10-03T00:16:50.610639+00:00",
+    "title": "U.S. CISA adds Zammad GmbH Zammad\u00a0flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail": {
+    "ts": "2026-10-03T00:16:50.937873+00:00",
+    "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail"
   }
 }
