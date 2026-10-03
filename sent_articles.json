@@ -17462,5 +17462,37 @@
   "https://cybersecuritynews.com/debian-1313-security-flaws/": {
     "ts": "2026-10-03T06:13:08.140211+00:00",
     "title": "Debian has Patched 1,313 Flaws in Massive Update Leading to DoS and Privilege Escalation Attacks"
+  },
+  "https://gbhackers.com/cling-malware-masquerades-as-google-stun-traffic/": {
+    "ts": "2026-10-03T12:22:23.626970+00:00",
+    "title": "Cling Malware Masquerades as Google STUN Traffic to Control Compromised IoT Devices"
+  },
+  "https://securityaffairs.com/200283/hacking/cve-2026-90970-critical-gitlab-ai-gateway-flaw-fixed.html": {
+    "ts": "2026-10-03T12:22:23.626991+00:00",
+    "title": "CVE-2026-90970: Critical GitLab AI Gateway Flaw Fixed"
+  },
+  "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/": {
+    "ts": "2026-10-03T12:22:23.626995+00:00",
+    "title": "doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures"
+  },
+  "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html": {
+    "ts": "2026-10-03T12:22:23.626999+00:00",
+    "title": "The State of Cybersecurity in 2026:\u00a0Key Segments, Insights, and Innovations"
+  },
+  "https://gbhackers.com/microsoft-warns-clickfix-attacks-use-fake-captcha/": {
+    "ts": "2026-10-03T12:22:23.869935+00:00",
+    "title": "Microsoft Warns ClickFix Attacks Use Fake CAPTCHA Lures to Execute Malicious Commands"
+  },
+  "https://securityaffairs.com/200264/apt/antino-backdoor-uses-your-inbox-as-its-control-panel.html": {
+    "ts": "2026-10-03T12:22:24.114135+00:00",
+    "title": "Antino Backdoor Lets China-Linked UAT-11587 Turn Microsoft 365 Into a C2 Channel"
+  },
+  "https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/": {
+    "ts": "2026-10-03T12:22:24.114152+00:00",
+    "title": "Fortra Patches Critical Vulnerabilities in BoKS"
+  },
+  "https://gbhackers.com/critical-gitlab-ai-gateway-flaw/": {
+    "ts": "2026-10-03T12:22:24.114156+00:00",
+    "title": "Critical GitLab AI Gateway Flaw Lets Attackers Execute Arbitrary Commands"
   }
 }
