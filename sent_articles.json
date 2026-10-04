@@ -17534,5 +17534,29 @@
   "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/": {
     "ts": "2026-10-03T23:37:08.242465+00:00",
     "title": "Google Gemini could soon get full access to your Mac\u2019s files, apps and the web"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/": {
+    "ts": "2026-10-04T12:01:08.517397+00:00",
+    "title": "Anthropic asks Claude users to share voice data for AI model training"
+  },
+  "https://www.helpnetsecurity.com/2026/10/04/week-in-review-researcher-breaks-into-microsoft-analytics-service-netscaler-rce-0-day-exploited/": {
+    "ts": "2026-10-04T12:01:08.517417+00:00",
+    "title": "Week in review: Researcher breaks into Microsoft analytics service, NetScaler RCE 0-day exploited"
+  },
+  "https://securityaffairs.com/200326/breaking-news/security-affairs-newsletter-round-598-by-pierluigi-paganini-international-edition.html": {
+    "ts": "2026-10-04T12:01:08.517422+00:00",
+    "title": "Security Affairs newsletter Round 598 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION"
+  },
+  "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html": {
+    "ts": "2026-10-04T12:01:08.741520+00:00",
+    "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members"
+  },
+  "https://securityaffairs.com/200304/malware/warlock-ransomware-still-exploits-year-old-sharepoint-flaws-to-hit-critical-infrastructure.html": {
+    "ts": "2026-10-04T12:01:08.925133+00:00",
+    "title": "Warlock Ransomware Still Exploits Year-Old SharePoint Flaws to Hit Critical Infrastructure"
+  },
+  "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html": {
+    "ts": "2026-10-04T12:01:09.090247+00:00",
+    "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing"
   }
 }
