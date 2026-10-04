@@ -19,6 +19,11 @@
       "category": "threat_actor",
       "title": "ShinyHunters Suspect Detained in Jordan Helps FBI Track Down the Group",
       "url": "https://securityaffairs.com/200338/cyber-crime/shinyhunters-suspect-detained-in-jordan-helps-fbi-track-down-the-group.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/"
     }
   ],
   "last_sent_date": "2026-10-04"
