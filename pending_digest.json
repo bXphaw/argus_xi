@@ -1,4 +1,25 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "FortiMail Zero-Day Under Active Exploitation",
+      "url": "https://socradar.io/blog/fortimail-zero-day-under-active-exploitation/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "JADEPUFFER Agentic Ransomware Targeting Cloud Environments (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/jadepuffer-agentic-ransomware-targeting-cloud-environments"
+    },
+    {
+      "category": "new_technique",
+      "title": "Vercel Confirms KVM Zero-Day VM Escape, Awards Researcher $50,000",
+      "url": "https://cybersecuritynews.com/kvm-zero-day-vm-escape/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "ShinyHunters Suspect Detained in Jordan Helps FBI Track Down the Group",
+      "url": "https://securityaffairs.com/200338/cyber-crime/shinyhunters-suspect-detained-in-jordan-helps-fbi-track-down-the-group.html"
+    }
+  ],
   "last_sent_date": "2026-10-04"
 }

@@ -17558,5 +17558,37 @@
   "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html": {
     "ts": "2026-10-04T12:01:09.090247+00:00",
     "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing"
+  },
+  "https://securityaffairs.com/200354/security/security-affairs-malware-newsletter-round-117.html": {
+    "ts": "2026-10-04T16:49:51.479469+00:00",
+    "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 117"
+  },
+  "https://cybersecuritynews.com/south-korean-president-orders-full-security-checks/": {
+    "ts": "2026-10-04T16:49:54.628836+00:00",
+    "title": "South Korean President Orders Full Security Checks After Financial Sector Hacks"
+  },
+  "https://securityaffairs.com/200367/ai/security-affairs-ai-cybersecurity-newsletter-round-2.html": {
+    "ts": "2026-10-04T16:49:54.628856+00:00",
+    "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 2"
+  },
+  "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/": {
+    "ts": "2026-10-04T16:49:54.628860+00:00",
+    "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force"
+  },
+  "https://socradar.io/blog/fortimail-zero-day-under-active-exploitation/": {
+    "ts": "2026-10-04T16:49:54.877777+00:00",
+    "title": "FortiMail Zero-Day Under Active Exploitation"
+  },
+  "https://threats.wiz.io/all-incidents/jadepuffer-agentic-ransomware-targeting-cloud-environments": {
+    "ts": "2026-10-04T16:49:54.926414+00:00",
+    "title": "JADEPUFFER Agentic Ransomware Targeting Cloud Environments (Campaign)"
+  },
+  "https://cybersecuritynews.com/kvm-zero-day-vm-escape/": {
+    "ts": "2026-10-04T16:49:54.978654+00:00",
+    "title": "Vercel Confirms KVM Zero-Day VM Escape, Awards Researcher $50,000"
+  },
+  "https://securityaffairs.com/200338/cyber-crime/shinyhunters-suspect-detained-in-jordan-helps-fbi-track-down-the-group.html": {
+    "ts": "2026-10-04T16:49:55.025076+00:00",
+    "title": "ShinyHunters Suspect Detained in Jordan Helps FBI Track Down the Group"
   }
 }
