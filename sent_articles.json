@@ -17602,5 +17602,117 @@
   "https://cybersecuritynews.com/cybersecurity-newsletter-weekly-october-2/": {
     "ts": "2026-10-05T01:51:04.560047+00:00",
     "title": "Cybersecurity Newsletter Bulletin \u2013 Pentagon Data Breach, Citrix, Fortimail and Apple 0-days and 20+ stories"
+  },
+  "https://gbhackers.com/cisa-adds-zammad-vulnerabilities/": {
+    "ts": "2026-10-05T08:40:33.094482+00:00",
+    "title": "CISA Adds Zammad Vulnerabilities to KEV Following Active Exploitation"
+  },
+  "https://cybersecuritynews.com/cling-malware/": {
+    "ts": "2026-10-05T08:40:33.818088+00:00",
+    "title": "Cling Malware Masquerades as Google STUN Traffic to Control Compromised IoT Devices"
+  },
+  "https://gbhackers.com/best-ciam-compared/": {
+    "ts": "2026-10-05T08:40:33.834511+00:00",
+    "title": "11 Best CIAM Solutions Compared (2026): Features & Pricing"
+  },
+  "https://cybersecuritynews.com/best-machine-identity-management/": {
+    "ts": "2026-10-05T08:40:37.280948+00:00",
+    "title": "Top 10 Best Machine Identity Management Solutions in 2026 [Ranked & Scored]"
+  },
+  "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/": {
+    "ts": "2026-10-05T08:42:17.986579+00:00",
+    "title": "Google halts open-source bug bounty program amid AI spam surge"
+  },
+  "https://cybersecuritynews.com/fortinet-fortimail-0-day-vulnerability-exploitation/": {
+    "ts": "2026-10-05T08:42:18.242416+00:00",
+    "title": "CISA Adds Fortinet FortiMail 0-day Vulnerability to KEV Following Active Exploitation"
+  },
+  "https://gbhackers.com/two-zammad-zero-days/": {
+    "ts": "2026-10-05T08:42:18.483876+00:00",
+    "title": "Autonomous AI Agent Chains Two Zammad Zero-Days in Machine-Speed Cyberattack"
+  },
+  "https://www.helpnetsecurity.com/2026/10/05/macos-full-disk-access-updates/": {
+    "ts": "2026-10-05T08:42:18.483897+00:00",
+    "title": "Apple tightens macOS disk access as AI agents become more powerful"
+  },
+  "https://www.malwarebytes.com/blog/uncategorized/2026/10/a-week-in-security-september-28-october-4-2": {
+    "ts": "2026-10-05T08:42:18.483901+00:00",
+    "title": "A week in security (September 28 \u2013 October 4)"
+  },
+  "https://securityaffairs.com/200387/security/iranian-hacker-accused-of-draining-31tb-from-university-inboxes-extradited-to-the-us.html": {
+    "ts": "2026-10-05T08:42:18.714718+00:00",
+    "title": "Iranian hacker accused of draining 31TB from university inboxes extradited to the US"
+  },
+  "https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/": {
+    "ts": "2026-10-05T08:42:18.954473+00:00",
+    "title": "Alleged ShinyHunters Leader Arrested in Jordan"
+  },
+  "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html": {
+    "ts": "2026-10-05T08:42:19.184989+00:00",
+    "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline"
+  },
+  "https://cybersecuritynews.com/zammad-divd-vulnerabilities-exploited/": {
+    "ts": "2026-10-05T08:42:19.407015+00:00",
+    "title": "CISA Warns of Zammad DIVD Vulnerabilities Actively Exploited in Attacks"
+  },
+  "https://gbhackers.com/best-itdr-compared/": {
+    "ts": "2026-10-05T08:42:19.407032+00:00",
+    "title": "12 Best ITDR Tools Compared (2026): Features & Pricing"
+  },
+  "https://www.helpnetsecurity.com/2026/10/05/google-ai-generated-vulnerability-reports-pause/": {
+    "ts": "2026-10-05T08:42:19.642284+00:00",
+    "title": "AI slop submissions force Google to freeze its open-source bug bounty"
+  },
+  "https://securityaffairs.com/200372/security/another-openai-safety-expert-quits-and-raises-new-ai-safety-concerns.html": {
+    "ts": "2026-10-05T08:42:19.874287+00:00",
+    "title": "Another OpenAI Safety Expert Quits and Raises New AI Safety Concerns"
+  },
+  "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/": {
+    "ts": "2026-10-05T08:42:20.109514+00:00",
+    "title": "Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier"
+  },
+  "https://cybersecuritynews.com/best-fine-grained-authorization-tools/": {
+    "ts": "2026-10-05T08:42:20.344591+00:00",
+    "title": "Top 10 Best Fine-Grained Authorization Tools in 2026 [Ranked & Scored]"
+  },
+  "https://www.helpnetsecurity.com/2026/10/05/drew-mccombs-cylerity-healthcare-fintech-security/": {
+    "ts": "2026-10-05T08:42:20.574992+00:00",
+    "title": "Three questions a hospital CISO should ask a healthcare fintech vendor"
+  },
+  "https://www.helpnetsecurity.com/2026/10/05/keyorix-open-source-on-premise-secrets-management/": {
+    "ts": "2026-10-05T08:42:20.575010+00:00",
+    "title": "Keyorix: Open-source secrets management for teams that can\u2019t use SaaS"
+  },
+  "https://cybersecuritynews.com/best-certificate-lifecycle-pki-tools/": {
+    "ts": "2026-10-05T08:42:20.575014+00:00",
+    "title": "Top 10 Best Certificate Lifecycle Management (PKI) Tools in 2026 [Ranked & Scored]"
+  },
+  "https://gbhackers.com/best-passwordless-compared/": {
+    "ts": "2026-10-05T08:42:20.575018+00:00",
+    "title": "12 Best Passwordless Authentication Solutions Compared (2026): Features & Pricing"
+  },
+  "https://www.helpnetsecurity.com/2026/10/05/remote-monitoring-and-management-rmm-abuse/": {
+    "ts": "2026-10-05T08:42:20.575021+00:00",
+    "title": "How RMM abuse gives attackers a way in that looks like business as usual"
+  },
+  "https://gbhackers.com/glassworm-supply-chain/": {
+    "ts": "2026-10-05T08:42:20.816141+00:00",
+    "title": "GlassWorm Supply Chain Attack Hides Malware Inside VS Code Color Themes"
+  },
+  "https://gbhackers.com/screenconnect-phishing-abuse/": {
+    "ts": "2026-10-05T08:42:21.051205+00:00",
+    "title": "Attackers Abuse Legitimate ScreenConnect Client in Phishing Campaign to Gain Remote Access"
+  },
+  "https://gbhackers.com/microsoft-releases-emergency-exchange-server-update/": {
+    "ts": "2026-10-05T08:42:21.281988+00:00",
+    "title": "Microsoft Releases Emergency Exchange Server Update to Fix CVE-2026-96940"
+  },
+  "https://gbhackers.com/south-korea-orders-investigation/": {
+    "ts": "2026-10-05T08:42:21.515690+00:00",
+    "title": "South Korea Orders Investigation Into AI-Powered Cyberattacks on Major Banks"
+  },
+  "https://gbhackers.com/google-pagebreak-ai-agent/": {
+    "ts": "2026-10-05T08:42:21.750612+00:00",
+    "title": "Google PageBreak AI Agent Finds Over 500 XSS Vulnerabilities Across Its Web Applications"
   }
 }
