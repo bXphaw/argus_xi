@@ -17594,5 +17594,13 @@
   "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/": {
     "ts": "2026-10-04T22:59:59.901082+00:00",
     "title": "Citrix patches NetScaler SAML zero-day exploited in attacks"
+  },
+  "https://cybersecuritynews.com/citrix-netscaler-saml-0-day-vulnerability/": {
+    "ts": "2026-10-05T01:51:04.560031+00:00",
+    "title": "Citrix NetScaler SAML 0-Day Vulnerability Actively Exploited in Attacks"
+  },
+  "https://cybersecuritynews.com/cybersecurity-newsletter-weekly-october-2/": {
+    "ts": "2026-10-05T01:51:04.560047+00:00",
+    "title": "Cybersecurity Newsletter Bulletin \u2013 Pentagon Data Breach, Citrix, Fortimail and Apple 0-days and 20+ stories"
   }
 }
