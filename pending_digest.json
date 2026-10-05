@@ -1,4 +1,40 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "poland",
+      "title": "5th October \u2013 Threat Intelligence Report",
+      "url": "https://research.checkpoint.com/2026/5th-october-threat-intelligence-report/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Malicious HEIC Images Can Trigger Remote Code Execution on WordPress Servers",
+      "url": "https://cybersecuritynews.com/malicious-heic-images/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage"
+    },
+    {
+      "category": "new_technique",
+      "title": "Citrix NetScaler vulnerability (CVE-2026-88779) in active exploitation",
+      "url": "https://www.sophos.com/en-us/blog/citrix-netscaler-vulnerability-cve-2026-88779-in-active-exploitation"
+    },
+    {
+      "category": "threat_actor",
+      "title": "FBI confirms 'multiple' arrests related to ShinyHunters hack",
+      "url": "https://www.theregister.com/security/2026/10/05/fbi-confirms-multiple-arrests-related-to-shinyhunters-hack/5301178"
+    },
+    {
+      "category": "malware_other",
+      "title": "Fake brand discounts on social media prey on shoppers\u2019 fear of missing out",
+      "url": "https://www.helpnetsecurity.com/2026/10/05/milk-dragon-phishing-fake-discounts/"
+    },
+    {
+      "category": "new_technique",
+      "title": "New Dell System Update flaw lets hackers gain root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/"
+    }
+  ],
   "last_sent_date": "2026-10-05"
 }

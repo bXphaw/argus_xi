@@ -17714,5 +17714,125 @@
   "https://gbhackers.com/google-pagebreak-ai-agent/": {
     "ts": "2026-10-05T08:42:21.750612+00:00",
     "title": "Google PageBreak AI Agent Finds Over 500 XSS Vulnerabilities Across Its Web Applications"
+  },
+  "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/": {
+    "ts": "2026-10-05T18:09:21.342490+00:00",
+    "title": "Denmark population registry data breach affects 8.8 million people"
+  },
+  "https://securityaffairs.com/200414/security/u-s-cisa-adds-citrix-netscaler-flaw-to-its-known-exploited-vulnerabilities-catalog-3.html": {
+    "ts": "2026-10-05T18:09:27.772292+00:00",
+    "title": "U.S. CISA adds Citrix NetScaler\u00a0flaw to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/": {
+    "ts": "2026-10-05T18:11:05.277560+00:00",
+    "title": "IQVIA fined $7.8 million for failing to properly anonymize health data"
+  },
+  "https://research.checkpoint.com/2026/5th-october-threat-intelligence-report/": {
+    "ts": "2026-10-05T18:11:05.441374+00:00",
+    "title": "5th October \u2013 Threat Intelligence Report"
+  },
+  "https://cybersecuritynews.com/malicious-heic-images/": {
+    "ts": "2026-10-05T18:11:05.541136+00:00",
+    "title": "Malicious HEIC Images Can Trigger Remote Code Execution on WordPress Servers"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage": {
+    "ts": "2026-10-05T18:11:05.637785+00:00",
+    "title": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage"
+  },
+  "https://gbhackers.com/new-removemacai-tool-removes-apple-intelligence-models/": {
+    "ts": "2026-10-05T18:11:05.637807+00:00",
+    "title": "New RemoveMacAI Tool Removes Apple Intelligence Models and Reclaims Mac Storage"
+  },
+  "https://www.helpnetsecurity.com/2026/10/05/cisa-flags-new-exploited-netscaler-flaw-as-attackers-crash-appliances-cve-2026-88779/": {
+    "ts": "2026-10-05T18:11:05.736128+00:00",
+    "title": "CISA flags new exploited NetScaler flaw as attackers crash appliances (CVE-2026-88779)"
+  },
+  "https://lab52.io/blog/cyber-morocco-a-quick-and-dirty-experiment-about-artificial-intelligence-for-cyber-intelligence/": {
+    "ts": "2026-10-05T18:11:05.844422+00:00",
+    "title": "Cyber Morocco: a quick and dirty experiment about artificial intelligence for cyber intelligence"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/google-pauses-open-source-bug-bounty-program-after-rise-in-ai-submissions": {
+    "ts": "2026-10-05T18:11:05.940857+00:00",
+    "title": "Google pauses open source bug bounty program after rise in AI submissions"
+  },
+  "https://rewterz.com/threat-advisory/warlock-ransomware-operations-linked-to-storm-2603-sharepoint-exploitation-active-iocs": {
+    "ts": "2026-10-05T18:11:06.038698+00:00",
+    "title": "Warlock Ransomware Operations Linked to Storm-2603 SharePoint Exploitation \u2013 Active IOCs"
+  },
+  "https://securityaffairs.com/200437/data-breach/denmark-s-population-registry-breached-8-8-million-affected.html": {
+    "ts": "2026-10-05T18:11:06.136372+00:00",
+    "title": "Denmark \u2019s Population Registry Breached, 8.8 Million Affected"
+  },
+  "https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/": {
+    "ts": "2026-10-05T18:11:06.136393+00:00",
+    "title": "Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports"
+  },
+  "https://socradar.io/blog/iqualif-iut-smtp-struts-dark-web-posts/": {
+    "ts": "2026-10-05T18:11:06.136398+00:00",
+    "title": "IQUALIF France Leak, IUT Paris Seine Breach, US IAB Auction, SMTP Credential Dump, and Apache Struts Exploit Sale"
+  },
+  "https://www.sophos.com/en-us/blog/citrix-netscaler-vulnerability-cve-2026-88779-in-active-exploitation": {
+    "ts": "2026-10-05T18:11:06.231652+00:00",
+    "title": "Citrix NetScaler vulnerability (CVE-2026-88779) in active exploitation"
+  },
+  "https://www.security.com/expert-perspectives/meet-engineers-behind-defenses-you-trust": {
+    "ts": "2026-10-05T18:11:06.231674+00:00",
+    "title": "Meet The Engineers Behind The Defenses You Trust"
+  },
+  "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html": {
+    "ts": "2026-10-05T18:11:06.231678+00:00",
+    "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes"
+  },
+  "https://www.theregister.com/security/2026/10/05/fbi-confirms-multiple-arrests-related-to-shinyhunters-hack/5301178": {
+    "ts": "2026-10-05T18:11:06.324337+00:00",
+    "title": "FBI confirms 'multiple' arrests related to ShinyHunters hack"
+  },
+  "https://cybersecuritynews.com/timor-leste/": {
+    "ts": "2026-10-05T18:11:06.324359+00:00",
+    "title": "16 Suspects Detained in Timor-Leste for Japanese Police Impersonation Scam"
+  },
+  "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies": {
+    "ts": "2026-10-05T18:11:06.324364+00:00",
+    "title": "Need for Speed: AI-Driven Attacks Are Changing Security Strategies"
+  },
+  "https://gbhackers.com/apple-strengthens-macos-privacy-controls/": {
+    "ts": "2026-10-05T18:11:06.324368+00:00",
+    "title": "Apple Strengthens macOS Privacy Controls as AI Agents Become More Autonomous"
+  },
+  "https://www.helpnetsecurity.com/2026/10/05/milk-dragon-phishing-fake-discounts/": {
+    "ts": "2026-10-05T18:11:06.420873+00:00",
+    "title": "Fake brand discounts on social media prey on shoppers\u2019 fear of missing out"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/proposed-anti-flock-bills-could-spell-trouble-for-license-plate-readers": {
+    "ts": "2026-10-05T18:11:06.519036+00:00",
+    "title": "Proposed anti-Flock bills could spell trouble for license plate readers"
+  },
+  "https://rewterz.com/threat-advisory/uat-11587-conducts-china-nexus-cyber-espionage-campaign-across-asia-active-iocs": {
+    "ts": "2026-10-05T18:11:06.625677+00:00",
+    "title": "UAT-11587 Conducts China-Nexus Cyber Espionage Campaign Across Asia \u2013 Active IOCs"
+  },
+  "https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/": {
+    "ts": "2026-10-05T18:11:06.724799+00:00",
+    "title": "Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws"
+  },
+  "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html": {
+    "ts": "2026-10-05T18:11:06.817888+00:00",
+    "title": "\u26a1 Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests"
+  },
+  "https://www.theregister.com/os-platforms/2026/10/05/debians-latest-kernel-security-update-has-1313-reasons-to-patch/5301124": {
+    "ts": "2026-10-05T18:11:06.929763+00:00",
+    "title": "Debian's latest kernel security update has 1,313 reasons to patch"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/": {
+    "ts": "2026-10-05T18:11:07.023104+00:00",
+    "title": "New Dell System Update flaw lets hackers gain root privileges"
+  },
+  "https://cybersecuritynews.com/zachxbt-infiltrates-lazarus-group/": {
+    "ts": "2026-10-05T18:11:07.023126+00:00",
+    "title": "Researcher Infiltrates Lazarus Group\u2019s Crypto Laundering Network After $1.5B Bybit Hack"
+  },
+  "https://gbhackers.com/google-gemini-to-gain-full-computer-access/": {
+    "ts": "2026-10-05T18:11:07.023131+00:00",
+    "title": "Google Gemini to Gain Full Computer Access With New Permission"
   }
 }
