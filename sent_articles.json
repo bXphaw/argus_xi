@@ -17954,5 +17954,93 @@
   "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/": {
     "ts": "2026-10-06T00:43:29.625366+00:00",
     "title": "tenfold CE: Our free Identity Governance tool just got 2 new features"
+  },
+  "https://gbhackers.com/clingstun-malware/": {
+    "ts": "2026-10-06T07:21:52.005343+00:00",
+    "title": "ClingSTUN Malware Turns Vulnerable IoT Devices Into Persistent Remote Proxy Nodes"
+  },
+  "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/": {
+    "ts": "2026-10-06T07:23:11.712054+00:00",
+    "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest"
+  },
+  "https://cybersecuritynews.com/best-jit-access-tools/": {
+    "ts": "2026-10-06T07:23:11.712074+00:00",
+    "title": "Top 10 Best Just-in-Time (JIT) Access Tools in 2026 [Ranked & Scored]"
+  },
+  "https://gbhackers.com/midnight-blizzard-subcluster/": {
+    "ts": "2026-10-06T07:23:11.942978+00:00",
+    "title": "Midnight Blizzard Uses Captive Portals to Deliver CornFlake RAT and Steal Traveler Credentials"
+  },
+  "https://www.helpnetsecurity.com/2026/10/06/ann-barron-dicamillo-collective-cyber-defense/": {
+    "ts": "2026-10-06T07:23:11.942999+00:00",
+    "title": "U.S. Bank CISO says the security role keeps growing and no one can own all of it"
+  },
+  "https://securityaffairs.com/200450/uncategorized/clingstun-linux-backdoor-abuses-public-stun-infrastructure.html": {
+    "ts": "2026-10-06T07:23:12.183810+00:00",
+    "title": "ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure"
+  },
+  "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html": {
+    "ts": "2026-10-06T07:23:12.424909+00:00",
+    "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account"
+  },
+  "https://www.theregister.com/security/2026/10/06/atlassian-warns-of-critical-file-access-flaw-in-its-datacenter-products/5301284": {
+    "ts": "2026-10-06T07:23:12.654041+00:00",
+    "title": "Atlassian warns of critical file access flaw in its datacenter products"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/": {
+    "ts": "2026-10-06T07:23:12.882069+00:00",
+    "title": "OpenAI will show visual ads in ChatGPT while you generate images"
+  },
+  "https://cybersecuritynews.com/clickfix-fake-captcha-attack/": {
+    "ts": "2026-10-06T07:23:13.119543+00:00",
+    "title": "ClickFix Fake CAPTCHA Attack Executes Malware Hidden Inside Browser Cache"
+  },
+  "https://gbhackers.com/weekly-cybersecurity-newsletter-september-28-october-2-2026/": {
+    "ts": "2026-10-06T07:23:13.366079+00:00",
+    "title": "Weekly Cybersecurity Newsletter \u2013 Top 50 Biggest Cybersecurity Stories of the Week"
+  },
+  "https://www.helpnetsecurity.com/2026/10/06/reflections-beam-trails-top-open-models-on-coding-tests-but-claims-lower-inference-compute/": {
+    "ts": "2026-10-06T07:23:13.366094+00:00",
+    "title": "Reflection\u2019s Beam trails top open models on coding tests but claims lower inference compute"
+  },
+  "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html": {
+    "ts": "2026-10-06T07:23:13.598613+00:00",
+    "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits"
+  },
+  "https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-they-found-kvm-guest-host-escape-flaw/5301267": {
+    "ts": "2026-10-06T07:23:13.598632+00:00",
+    "title": "Security researcher claims they found KVM guest-host escape flaw"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/": {
+    "ts": "2026-10-06T07:23:13.598637+00:00",
+    "title": "Microsoft: Windows KB5124010 update crashes some games and apps"
+  },
+  "https://cybersecuritynews.com/removemacai-removes-ai-models/": {
+    "ts": "2026-10-06T07:23:13.598640+00:00",
+    "title": "RemoveMacAI Free Up 12GB of Data by Removing Apple Intelligence Models"
+  },
+  "https://www.helpnetsecurity.com/2026/10/06/passwork-nis2-credential-security/": {
+    "ts": "2026-10-06T07:23:13.841280+00:00",
+    "title": "NIS2 compliance: 7 low-cost steps to secure credentials"
+  },
+  "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html": {
+    "ts": "2026-10-06T07:23:14.072377+00:00",
+    "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE"
+  },
+  "https://cybersecuritynews.com/glassworm-supply-chain-attack/": {
+    "ts": "2026-10-06T07:23:14.296609+00:00",
+    "title": "GlassWorm Supply Chain Attack Uses Fake VS Code Themes to Deliver Hidden Malware"
+  },
+  "https://gbhackers.com/researcher-infiltrates-chinese-crime-syndicate-laundering-crypto/": {
+    "ts": "2026-10-06T07:23:14.535456+00:00",
+    "title": "Researcher Infiltrates Chinese Crime Syndicate Laundering Crypto for Lazarus Group"
+  },
+  "https://www.helpnetsecurity.com/2026/10/06/product-showcase-webroot-mobile-security/": {
+    "ts": "2026-10-06T07:23:14.760783+00:00",
+    "title": "Product showcase: Webroot Mobile Security screens texts, blocks risky sites, and checks for data leaks"
+  },
+  "https://www.helpnetsecurity.com/2026/10/06/cybersecurity-jobs-available-right-now-october-6-2026/": {
+    "ts": "2026-10-06T07:23:14.760801+00:00",
+    "title": "Cybersecurity jobs available right now: October 6, 2026"
   }
 }
