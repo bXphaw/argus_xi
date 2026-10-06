@@ -34,6 +34,41 @@
       "category": "new_technique",
       "title": "New Dell System Update flaw lets hackers gain root privileges",
       "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Zammad Zero-Day Chain Lets AI Agent Hijack Sessions, Execute Code and Escalate to Root",
+      "url": "https://cybersecuritynews.com/zammad-zero-day/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
+      "url": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes"
+    },
+    {
+      "category": "new_technique",
+      "title": "AI Agent Discovers Linux Kernel Flaw Enabling Root Access",
+      "url": "https://rewterz.com/threat-advisory/ai-agent-discovers-linux-kernel-flaw-enabling-root-access"
+    },
+    {
+      "category": "new_technique",
+      "title": "Anthropic Mythos Found A Bug in Rejetto HFS. Attackers Are Now Exploiting It.",
+      "url": "https://securityaffairs.com/200444/ai/anthropic-mythos-found-a-bug-in-rejetto-hfs-attackers-are-now-exploiting-it.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Exploitation Hits Rejetto HFS Vulnerability Discovered by AI",
+      "url": "https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
+      "url": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
+      "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html"
     }
   ],
   "last_sent_date": "2026-10-05"

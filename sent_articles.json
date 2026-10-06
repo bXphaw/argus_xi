@@ -17834,5 +17834,125 @@
   "https://gbhackers.com/google-gemini-to-gain-full-computer-access/": {
     "ts": "2026-10-05T18:11:07.023131+00:00",
     "title": "Google Gemini to Gain Full Computer Access With New Permission"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/a-week-in-security-september-28-october-4-2": {
+    "ts": "2026-10-06T00:41:33.807559+00:00",
+    "title": "A week in security (September 28 \u2013 October 4)"
+  },
+  "https://cybersecuritynews.com/cisa-citrix-netscaler-vulnerability-exploited/": {
+    "ts": "2026-10-06T00:41:39.457329+00:00",
+    "title": "CISA Warns of Citrix NetScaler Vulnerability Actively Exploited in Attacks"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/": {
+    "ts": "2026-10-06T00:43:28.834328+00:00",
+    "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU"
+  },
+  "https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-third-party-app-insights-ai-enhanced-remedation/": {
+    "ts": "2026-10-06T00:43:28.834345+00:00",
+    "title": "New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediation"
+  },
+  "https://cybersecuritynews.com/zammad-zero-day/": {
+    "ts": "2026-10-06T00:43:28.888032+00:00",
+    "title": "Zammad Zero-Day Chain Lets AI Agent Hijack Sessions, Execute Code and Escalate to Root"
+  },
+  "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes": {
+    "ts": "2026-10-06T00:43:28.934183+00:00",
+    "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes"
+  },
+  "https://gbhackers.com/libheif-vulnerability/": {
+    "ts": "2026-10-06T00:43:28.934200+00:00",
+    "title": "Critical libheif Vulnerability Could Enable Remote Code Execution Through WordPress Image Uploads"
+  },
+  "https://www.helpnetsecurity.com/2026/10/05/removemacai-turn-off-apple-intelligence/": {
+    "ts": "2026-10-06T00:43:28.934204+00:00",
+    "title": "RemoveMacAI turns off Apple Intelligence on macOS 27 and deletes its models"
+  },
+  "https://rewterz.com/threat-advisory/ai-agent-discovers-linux-kernel-flaw-enabling-root-access": {
+    "ts": "2026-10-06T00:43:28.977851+00:00",
+    "title": "AI Agent Discovers Linux Kernel Flaw Enabling Root Access"
+  },
+  "https://securityaffairs.com/200444/ai/anthropic-mythos-found-a-bug-in-rejetto-hfs-attackers-are-now-exploiting-it.html": {
+    "ts": "2026-10-06T00:43:29.024369+00:00",
+    "title": "Anthropic Mythos Found A Bug in Rejetto HFS. Attackers Are Now Exploiting It."
+  },
+  "https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/": {
+    "ts": "2026-10-06T00:43:29.024383+00:00",
+    "title": "250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms"
+  },
+  "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html": {
+    "ts": "2026-10-06T00:43:29.024387+00:00",
+    "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It"
+  },
+  "https://www.theregister.com/security/2026/10/05/citrix-netscaler-security-snafus-get-even-worse-amid-more-0-day-reports/5301232": {
+    "ts": "2026-10-06T00:43:29.071577+00:00",
+    "title": "Citrix NetScaler security snafus get even worse amid more 0-day reports"
+  },
+  "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/": {
+    "ts": "2026-10-06T00:43:29.116196+00:00",
+    "title": "Rejetto HFS servers now actively scanned for critical RCE flaw"
+  },
+  "https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/": {
+    "ts": "2026-10-06T00:43:29.161290+00:00",
+    "title": "Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365"
+  },
+  "https://gbhackers.com/japanese-police-impersonation/": {
+    "ts": "2026-10-06T00:43:29.207692+00:00",
+    "title": "Japanese Police Impersonation Scam Operation Dismantled as 16 Suspects Detained in Timor-Leste"
+  },
+  "https://www.helpnetsecurity.com/2026/10/05/exchange-server-vulnerability-cve-2026-96940/": {
+    "ts": "2026-10-06T00:43:29.251628+00:00",
+    "title": "Out-of-band Exchange Server update fixes high-severity mailbox access bug (CVE-2026-96940)"
+  },
+  "https://rewterz.com/threat-advisory/apple-coregraphics-zero-day-actively-exploited": {
+    "ts": "2026-10-06T00:43:29.251640+00:00",
+    "title": "Apple CoreGraphics Zero-Day Actively Exploited"
+  },
+  "https://securityaffairs.com/200396/intelligence/mi5-raises-alarm-over-chinese-funding-of-uk-academic-research.html": {
+    "ts": "2026-10-06T00:43:29.251644+00:00",
+    "title": "MI5 Raises Alarm Over Chinese Funding of UK Academic Research"
+  },
+  "https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/": {
+    "ts": "2026-10-06T00:43:29.300528+00:00",
+    "title": "Exploitation Hits Rejetto HFS Vulnerability Discovered by AI"
+  },
+  "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html": {
+    "ts": "2026-10-06T00:43:29.346995+00:00",
+    "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2"
+  },
+  "https://www.theregister.com/security/2026/10/05/legacy-sign-on-service-comes-back-to-bite-school-software-provider-bromcom/5301156": {
+    "ts": "2026-10-06T00:43:29.347011+00:00",
+    "title": "Legacy sign-on service comes back to bite school software provider Bromcom"
+  },
+  "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/": {
+    "ts": "2026-10-06T00:43:29.393968+00:00",
+    "title": "South Korea probes bank breaches amid suspected AI-powered attacks"
+  },
+  "https://cybersecuritynews.com/google-gemini-computer-access/": {
+    "ts": "2026-10-06T00:43:29.439133+00:00",
+    "title": "Google Gemini Will Soon Get Full Access Permission to Use Your Computer"
+  },
+  "https://gbhackers.com/denmark-confirms-major-security-incident/": {
+    "ts": "2026-10-06T00:43:29.485611+00:00",
+    "title": "Denmark Confirms Major Security Incident Exposing 8.8 Million Citizen Records"
+  },
+  "https://www.helpnetsecurity.com/2026/10/05/shinyhunters-member-rey-detained-jordan-fbi/": {
+    "ts": "2026-10-06T00:43:29.530925+00:00",
+    "title": "Detained ShinyHunters hacker reportedly helping FBI track down fellow members"
+  },
+  "https://rewterz.com/threat-advisory/php-bug-could-leak-login-credentials": {
+    "ts": "2026-10-06T00:43:29.578061+00:00",
+    "title": "PHP Bug Could Leak Login Credentials"
+  },
+  "https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/": {
+    "ts": "2026-10-06T00:43:29.578077+00:00",
+    "title": "Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity"
+  },
+  "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html": {
+    "ts": "2026-10-06T00:43:29.625350+00:00",
+    "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access"
+  },
+  "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/": {
+    "ts": "2026-10-06T00:43:29.625366+00:00",
+    "title": "tenfold CE: Our free Identity Governance tool just got 2 new features"
   }
 }
