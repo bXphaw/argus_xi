@@ -34,6 +34,36 @@
       "category": "malware_windows",
       "title": "FBI Arrests \u2018Most Wanted\u2019 Developer of Ploutus ATM Malware",
       "url": "https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers",
+      "url": "https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+      "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Storm Ransomware Group Adds Two Organizations to Dark-Web Threat List",
+      "url": "https://tetmo.com/cyber-security-brief/storm-ransomware-group-adds-two-organizations-to-dark-web-threat-list/?utm_#new_tab"
+    },
+    {
+      "category": "new_technique",
+      "title": "GitHub Copilot CLI Vulnerability Lets Attackers Steal Developer Secrets Using Encrypted Prompt Injection",
+      "url": "https://cybersecuritynews.com/github-copilot-cli-vulnerability/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Pose as Dubai Airports Recruiters to Infect Software Engineers With ShelbyLoader V2",
+      "url": "https://gbhackers.com/shelbyloader-v2-malware/"
     }
   ],
   "last_sent_date": "2026-10-06"

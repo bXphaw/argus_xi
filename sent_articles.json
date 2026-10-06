@@ -18162,5 +18162,121 @@
   "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html": {
     "ts": "2026-10-06T14:57:07.593154+00:00",
     "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers"
+  },
+  "https://tetmo.com/cyber-security-brief/storm-ransomware-group-adds-two-organizations-to-dark-web-threat-list/?utm_#new_tab": {
+    "ts": "2026-10-06T20:07:39.665303+00:00",
+    "title": "Storm Ransomware Group Adds Two Organizations to Dark-Web Threat List"
+  },
+  "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/": {
+    "ts": "2026-10-06T20:05:47.121871+00:00",
+    "title": "Atlassian warns of critical file-access flaw in Jira, Confluence"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/": {
+    "ts": "2026-10-06T20:07:38.511998+00:00",
+    "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland"
+  },
+  "https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/": {
+    "ts": "2026-10-06T20:07:38.843736+00:00",
+    "title": "Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers"
+  },
+  "https://cybersecuritynews.com/apache-struts-vulnerabilities/": {
+    "ts": "2026-10-06T20:07:38.843756+00:00",
+    "title": "Critical Apache Struts Vulnerabilities Enables Remote Code Execution Attacks"
+  },
+  "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps": {
+    "ts": "2026-10-06T20:07:38.843759+00:00",
+    "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps"
+  },
+  "https://gbhackers.com/aembit-extends-access-controls-to-personal-ai-agents/": {
+    "ts": "2026-10-06T20:07:38.843762+00:00",
+    "title": "Aembit Extends Access Controls to Personal AI Agents"
+  },
+  "https://www.helpnetsecurity.com/2026/10/06/github-reviewbench-ai-code-review-benchmark/": {
+    "ts": "2026-10-06T20:07:38.843764+00:00",
+    "title": "GitHub\u2019s ReviewBench puts AI code reviewers to the test"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/": {
+    "ts": "2026-10-06T20:07:38.843766+00:00",
+    "title": "CISO perspectives on managing vulnerability risks in the age of AI"
+  },
+  "https://www.securityweek.com/cybersecurity-ma-roundup-39-deals-announced-in-september-2026/": {
+    "ts": "2026-10-06T20:07:38.843768+00:00",
+    "title": "Cybersecurity M&A Roundup: 39 Deals Announced in September 2026"
+  },
+  "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html": {
+    "ts": "2026-10-06T20:07:38.843770+00:00",
+    "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports"
+  },
+  "https://www.theregister.com/security/2026/10/06/trump-mobile-customers-data-dumped-and-some-never-even-received-their-gold-device/5301433": {
+    "ts": "2026-10-06T20:07:38.843772+00:00",
+    "title": "Trump Mobile customers' data dumped - and some never even received their gold device"
+  },
+  "https://cybersecuritynews.com/former-infrastructure-engineer-sentenced/": {
+    "ts": "2026-10-06T20:07:38.963218+00:00",
+    "title": "Former Infrastructure Engineer Sentenced for Sabotaging Employer\u2019s Windows Network"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams": {
+    "ts": "2026-10-06T20:07:39.079530+00:00",
+    "title": "IANS' Kakolowski: How AI Is Reshaping CISO Budgets &amp; Security Teams"
+  },
+  "https://gbhackers.com/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/": {
+    "ts": "2026-10-06T20:07:39.197465+00:00",
+    "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management"
+  },
+  "https://www.helpnetsecurity.com/2026/10/06/denmark-central-population-register-cpr-data-breach/": {
+    "ts": "2026-10-06T20:07:39.316969+00:00",
+    "title": "Data breach at Denmark\u2019s population register exposes 8.8 million people"
+  },
+  "https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/": {
+    "ts": "2026-10-06T20:07:39.436365+00:00",
+    "title": "Long-Running NPM Malware Campaign Accumulates 40,000 Downloads"
+  },
+  "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html": {
+    "ts": "2026-10-06T20:07:39.548814+00:00",
+    "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products"
+  },
+  "https://www.theregister.com/software/2026/10/06/microsoft-extends-the-outlook-naughty-step-with-two-more-file-types/5301350": {
+    "ts": "2026-10-06T20:07:39.548834+00:00",
+    "title": "Microsoft extends the Outlook naughty step with two more file types"
+  },
+  "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/": {
+    "ts": "2026-10-06T20:07:39.665323+00:00",
+    "title": "ASOS confirms data breach after \u201cHACKED\u201d in-app notifications"
+  },
+  "https://cybersecuritynews.com/github-copilot-cli-vulnerability/": {
+    "ts": "2026-10-06T20:07:39.789090+00:00",
+    "title": "GitHub Copilot CLI Vulnerability Lets Attackers Steal Developer Secrets Using Encrypted Prompt Injection"
+  },
+  "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates": {
+    "ts": "2026-10-06T20:07:39.919314+00:00",
+    "title": "'BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates"
+  },
+  "https://gbhackers.com/appviewx-adds-shadow-ai-visibility-and-a-runtime-kill-switch-to-agent-identity-security/": {
+    "ts": "2026-10-06T20:07:40.042818+00:00",
+    "title": "AppViewX Adds Shadow AI Visibility and a Runtime Kill Switch to Agent Identity Security"
+  },
+  "https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/": {
+    "ts": "2026-10-06T20:07:40.153720+00:00",
+    "title": "8.8 Million Impacted by Data Breach at Denmark\u2019s Central Person Register"
+  },
+  "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html": {
+    "ts": "2026-10-06T20:07:40.270291+00:00",
+    "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach"
+  },
+  "https://www.theregister.com/security/2026/10/06/denmarks-id-register-spills-more-peoples-details-than-the-country-has-residents/5301307": {
+    "ts": "2026-10-06T20:07:40.393158+00:00",
+    "title": "Denmark's ID register spills more people's details than the country has residents"
+  },
+  "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/": {
+    "ts": "2026-10-06T20:07:40.510378+00:00",
+    "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes"
+  },
+  "https://cybersecuritynews.com/how-soc-and-mssp-leaders-can-build-intelligence-led-threat-monitoring/": {
+    "ts": "2026-10-06T20:07:40.510396+00:00",
+    "title": "From Telemetry to Defense: How SOC and MSSP Leaders Can Build Intelligence-Led Threat Monitoring"
+  },
+  "https://gbhackers.com/shelbyloader-v2-malware/": {
+    "ts": "2026-10-06T20:07:40.629046+00:00",
+    "title": "Hackers Pose as Dubai Airports Recruiters to Infect Software Engineers With ShelbyLoader V2"
   }
 }
