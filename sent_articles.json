@@ -18042,5 +18042,125 @@
   "https://www.helpnetsecurity.com/2026/10/06/cybersecurity-jobs-available-right-now-october-6-2026/": {
     "ts": "2026-10-06T07:23:14.760801+00:00",
     "title": "Cybersecurity jobs available right now: October 6, 2026"
+  },
+  "https://www.helpnetsecurity.com/2026/10/06/dell-system-update-vulnerability-cve-2026-86360/": {
+    "ts": "2026-10-06T14:55:31.587444+00:00",
+    "title": "Dell System Update flaw allows attackers to gain root privileges (CVE-2026-86360)"
+  },
+  "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/": {
+    "ts": "2026-10-06T14:57:06.371701+00:00",
+    "title": "How to secure RMM software: 8 controls MSPs should test"
+  },
+  "https://www.group-ib.com/blog/from-detonation-to-detection-sandbox-rules/": {
+    "ts": "2026-10-06T14:57:06.371715+00:00",
+    "title": "From Detonation to Detection: The Sandbox Now Writes the Rules"
+  },
+  "https://www.helpnetsecurity.com/2026/10/06/openai-rogue-agents-wikimedia-wikipedia/": {
+    "ts": "2026-10-06T14:57:06.371719+00:00",
+    "title": "Rogue OpenAI agents made unauthorized Wikipedia edits and millions of requests to Wikimedia"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/asos-hackers-send-push-notifications-to-customers": {
+    "ts": "2026-10-06T14:57:06.371722+00:00",
+    "title": "ASOS \u201chackers\u201d send push notifications to customers"
+  },
+  "https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/": {
+    "ts": "2026-10-06T14:57:06.828060+00:00",
+    "title": "Blinder Tunnel Campaign Targets Iraqi Infrastructure"
+  },
+  "https://www.rapid7.com/blog/post/ai-securing-agent-to-agent-communication-next-identity-frontier": {
+    "ts": "2026-10-06T14:57:06.875939+00:00",
+    "title": "Securing Agent-to-Agent Communication: The Next Identity Frontier"
+  },
+  "https://securityaffairs.com/200476/security/cve-2026-96940-microsoft-fixes-high-severity-exchange-server-flaw.html": {
+    "ts": "2026-10-06T14:57:06.925016+00:00",
+    "title": "CVE-2026-96940: Microsoft Fixes Exchange Server Flaw For Which Exploitation Is More Likely"
+  },
+  "https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/": {
+    "ts": "2026-10-06T14:57:06.971703+00:00",
+    "title": "FBI Blames Contractor\u2019s Missed Patch for ShinyHunters Breach"
+  },
+  "https://www.sekoia.com/blog/the-era-of-super-intelligence-is-also-the-era-of-super-intelligent-threats": {
+    "ts": "2026-10-06T14:57:07.024339+00:00",
+    "title": "Super Intelligence: The Rise of Super-Intelligent Threats"
+  },
+  "https://www.silentpush.com/blog/platform-6-2/?utm_source=rss&utm_medium=rss&utm_campaign=platform-6-2": {
+    "ts": "2026-10-06T14:57:07.076248+00:00",
+    "title": "Gaining Greater Control and Access Management with Preemptive Cyber Defense"
+  },
+  "https://socradar.io/blog/cve-2026-88779-citrix-netscaler-zero-day/": {
+    "ts": "2026-10-06T14:57:07.125774+00:00",
+    "title": "CVE-2026-88779: Citrix NetScaler Zero-Day"
+  },
+  "https://www.security.com/product-insights/dlp-inspection-where-your-agents-run-extending-symantec-dlp-tetrate-agent-router": {
+    "ts": "2026-10-06T14:57:07.125787+00:00",
+    "title": "DLP Inspection Where Your Agents Run: Extending Symantec DLP to Tetrate Agent Router"
+  },
+  "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html": {
+    "ts": "2026-10-06T14:57:07.170727+00:00",
+    "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/10/06/zombie-instructions-on-carefully-constructed-web-pages-could-trick-github-copilot-cli-into-sharing-secrets/5301206": {
+    "ts": "2026-10-06T14:57:07.170740+00:00",
+    "title": "Zombie instructions on carefully constructed web pages could trick GitHub Copilot CLI into sharing secrets"
+  },
+  "https://cyberpress.org/mssql-toolkit-threatens-credentials/?utm_#new_tab": {
+    "ts": "2026-10-06T14:57:07.215173+00:00",
+    "title": "MSSQL Post-Exploitation Toolkit Could Enable Credential Theft and Lateral Movement Attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/": {
+    "ts": "2026-10-06T14:57:07.263018+00:00",
+    "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits"
+  },
+  "https://www.helpnetsecurity.com/2026/10/06/atlassian-data-center-cve-2026-21589/": {
+    "ts": "2026-10-06T14:57:07.263028+00:00",
+    "title": "Atlassian urges immediate patching of critical Data Center file access vulnerability (CVE-2026-21589)"
+  },
+  "https://www.malwarebytes.com/blog/threat-intel/2026/10/facebook-marketplace-phish-uses-your-name-and-number": {
+    "ts": "2026-10-06T14:57:07.263032+00:00",
+    "title": "Facebook Marketplace scam uses your name and number"
+  },
+  "https://securityaffairs.com/200468/data-breach/fbi-drops-accenture-contractor-after-sensitive-data-breach.html": {
+    "ts": "2026-10-06T14:57:07.312715+00:00",
+    "title": "FBI Drops Accenture Contractor After Sensitive Data Breach"
+  },
+  "https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/": {
+    "ts": "2026-10-06T14:57:07.364008+00:00",
+    "title": "FBI Arrests \u2018Most Wanted\u2019 Developer of Ploutus ATM Malware"
+  },
+  "https://socradar.io/blog/cve-2026-90970-gitlab-ai-gateway-rce/": {
+    "ts": "2026-10-06T14:57:07.412470+00:00",
+    "title": "CVE-2026-90970: GitLab AI Gateway RCE"
+  },
+  "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html": {
+    "ts": "2026-10-06T14:57:07.457348+00:00",
+    "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies"
+  },
+  "https://www.theregister.com/security/2026/10/06/asos-app-delivers-a-data-leak-threat-instead-of-fast-fashion/5301332": {
+    "ts": "2026-10-06T14:57:07.502450+00:00",
+    "title": "Asos app delivers a data leak threat instead of fast fashion"
+  },
+  "https://gbhackers.com/viva-aerobus-intrusion/?utm_#new_tab": {
+    "ts": "2026-10-06T14:57:07.547525+00:00",
+    "title": "Exposed Hacker Server Reveals Toolkit Used in Viva Aerobus-Linked Intrusion"
+  },
+  "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/": {
+    "ts": "2026-10-06T14:57:07.593130+00:00",
+    "title": "Nikkei discloses breaches of employees\u2019 Microsoft, Google email accounts"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/dominos-customers-targeted-in-credential-stuffing-attacks": {
+    "ts": "2026-10-06T14:57:07.593142+00:00",
+    "title": "Domino\u2019s customers targeted in credential stuffing attacks"
+  },
+  "https://securityaffairs.com/200458/security/dell-urges-customers-to-patch-critical-dsu-flaw-that-can-give-attackers-root-access.html": {
+    "ts": "2026-10-06T14:57:07.593147+00:00",
+    "title": "Dell Urges Customers to Patch Critical DSU Flaw That Can Give Attackers Root Access"
+  },
+  "https://www.securityweek.com/apple-to-tighten-full-disk-access-controls-in-macos-amid-ai-risks/": {
+    "ts": "2026-10-06T14:57:07.593151+00:00",
+    "title": "Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks"
+  },
+  "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html": {
+    "ts": "2026-10-06T14:57:07.593154+00:00",
+    "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers"
   }
 }

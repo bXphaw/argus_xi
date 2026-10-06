@@ -1,4 +1,40 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "apt_campaign",
+      "title": "Blinder Tunnel Campaign Targets Iraqi Infrastructure",
+      "url": "https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/"
+    },
+    {
+      "category": "new_technique",
+      "title": "CVE-2026-88779: Citrix NetScaler Zero-Day",
+      "url": "https://socradar.io/blog/cve-2026-88779-citrix-netscaler-zero-day/"
+    },
+    {
+      "category": "new_technique",
+      "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
+      "url": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "MSSQL Post-Exploitation Toolkit Could Enable Credential Theft and Lateral Movement Attacks",
+      "url": "https://cyberpress.org/mssql-toolkit-threatens-credentials/?utm_#new_tab"
+    },
+    {
+      "category": "new_technique",
+      "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
+      "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "FBI Drops Accenture Contractor After Sensitive Data Breach",
+      "url": "https://securityaffairs.com/200468/data-breach/fbi-drops-accenture-contractor-after-sensitive-data-breach.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "FBI Arrests \u2018Most Wanted\u2019 Developer of Ploutus ATM Malware",
+      "url": "https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/"
+    }
+  ],
   "last_sent_date": "2026-10-06"
 }
