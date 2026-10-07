@@ -18370,5 +18370,125 @@
   "https://www.helpnetsecurity.com/2026/10/07/x-org-server-fixed-vulnerabilities/": {
     "ts": "2026-10-07T07:01:47.453636+00:00",
     "title": "Check your X.Org server version because a dozen vulnerabilities have been patched"
+  },
+  "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/": {
+    "ts": "2026-10-07T14:29:13.233998+00:00",
+    "title": "Ransomware has a new target. Is your backup ready?"
+  },
+  "https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/": {
+    "ts": "2026-10-07T14:29:13.234025+00:00",
+    "title": "One breach, please, and make no mistakes"
+  },
+  "https://cofense.com/blog/from-guest-complaints-to-malware-blockchain-abuse-targets-hotels": {
+    "ts": "2026-10-07T14:29:13.390737+00:00",
+    "title": "From Guest Complaints to Malware: Blockchain Abuse Targets Hotels"
+  },
+  "https://cybersecuritynews.com/hackers-breach/": {
+    "ts": "2026-10-07T14:29:13.390753+00:00",
+    "title": "Hackers Breach Two Major South Korean Churches, Exposing Data of Over 1 Million People"
+  },
+  "https://gbhackers.com/critical-progress-datadirect-genai-flaw/": {
+    "ts": "2026-10-07T14:29:13.522519+00:00",
+    "title": "Critical Progress DataDirect GenAI Flaw Lets Attackers Execute Arbitrary OS Commands"
+  },
+  "https://www.helpnetsecurity.com/2026/10/07/exploitation-critical-atlassian-flaw-cve-2026-21589/": {
+    "ts": "2026-10-07T14:29:13.627664+00:00",
+    "title": "Exploitation attempts against critical Atlassian flaw have begun (CVE-2026-21589)"
+  },
+  "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/": {
+    "ts": "2026-10-07T14:29:13.753958+00:00",
+    "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests"
+  },
+  "https://www.malwarebytes.com/blog/bugs/2026/10/google-issues-android-security-updates-who-can-get-them-and-how": {
+    "ts": "2026-10-07T14:29:13.878362+00:00",
+    "title": "Google issues Android security updates: who can get them and how"
+  },
+  "https://www.morphisec.com/blog/top-endpoint-security-vendors-in-2026/": {
+    "ts": "2026-10-07T14:29:13.989794+00:00",
+    "title": "Top Endpoint Security Vendors in 2026"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-21589-critical-unauthenticated-arbitrary-file-access-in-atlassian-products": {
+    "ts": "2026-10-07T14:29:14.102023+00:00",
+    "title": "CVE-2026-21589: Critical unauthenticated arbitrary file access in Atlassian products"
+  },
+  "https://securityaffairs.com/200537/hacking/cert-ua-fake-cloudflare-checks-deliver-lunexstealer-malware.html": {
+    "ts": "2026-10-07T14:29:14.215561+00:00",
+    "title": "CERT-UA: Fake Cloudflare Checks Deliver LunexStealer Malware"
+  },
+  "https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/": {
+    "ts": "2026-10-07T14:29:14.215585+00:00",
+    "title": "Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts"
+  },
+  "https://socradar.io/blog/fortibleed-still-active-locking-organizations-out/": {
+    "ts": "2026-10-07T14:29:14.342251+00:00",
+    "title": "FortiBleed Is Still Active, Locking Organizations Out"
+  },
+  "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html": {
+    "ts": "2026-10-07T14:29:14.342275+00:00",
+    "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow"
+  },
+  "https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585": {
+    "ts": "2026-10-07T14:29:14.342278+00:00",
+    "title": "FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks"
+  },
+  "https://threatmon.io/nhs-samsung-cia-and-more-inside-the-latest-dark-web-breach-claims/": {
+    "ts": "2026-10-07T14:29:14.480607+00:00",
+    "title": "NHS, Samsung, CIA and More: Inside the Latest Dark Web Breach Claims"
+  },
+  "https://www.welivesecurity.com/en/business-security/quest-simplicity-why-smbs-want-advanced-protection-without-complexity/": {
+    "ts": "2026-10-07T14:29:14.602985+00:00",
+    "title": "The quest for simplicity: Why SMBs want advanced protection without the complexity"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/": {
+    "ts": "2026-10-07T14:29:14.718625+00:00",
+    "title": "Hackers exploit critical Atlassian flaw after public PoC release"
+  },
+  "https://cybersecuritynews.com/poc-exploit-released-for-atlassian-flaw/": {
+    "ts": "2026-10-07T14:29:14.873720+00:00",
+    "title": "PoC Exploit Released for Critical Atlassian Flaw That Can Lead to Jira Admin Access"
+  },
+  "https://gbhackers.com/cyberxero-uses-ai-agent-swarm/": {
+    "ts": "2026-10-07T14:29:14.986746+00:00",
+    "title": "Russian-Speaking CyberXero Uses AI Agent Swarm to Attack Ukrainian Energy Infrastructure"
+  },
+  "https://www.helpnetsecurity.com/2026/10/07/fortinet-fortibleed-campaign-fbi-advisory/": {
+    "ts": "2026-10-07T14:29:15.107810+00:00",
+    "title": "FortiBleed is still active, with attackers locking admins out of Fortinet firewalls"
+  },
+  "https://www.malwarebytes.com/blog/threat-intel/2026/10/ai-powered-phishkit-arms-criminals-with-account-hijacking-tools-in-10-minutes": {
+    "ts": "2026-10-07T14:29:15.227083+00:00",
+    "title": "AI-powered phishkit arms criminals with account-hijacking tools in 10 minutes"
+  },
+  "https://www.rapid7.com/blog/post/it-asos-incident-attackers-using-channels-customers-trust": {
+    "ts": "2026-10-07T14:29:15.350978+00:00",
+    "title": "The ASOS Incident: When Attackers Use the Channels Customers Trust"
+  },
+  "https://securityaffairs.com/200521/ai/anthropic-creates-three-tiers-for-claude-cyber-access.html": {
+    "ts": "2026-10-07T14:29:15.351000+00:00",
+    "title": "Anthropic Creates Three Tiers for Claude Cyber Access"
+  },
+  "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/": {
+    "ts": "2026-10-07T14:29:15.474214+00:00",
+    "title": "Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany"
+  },
+  "https://socradar.io/blog/netscaler-c2-cve-2026-88771-exploitation/": {
+    "ts": "2026-10-07T14:29:15.586654+00:00",
+    "title": "NetScaler C2: A Massive CVE-2026-88771 Exploitation Operation"
+  },
+  "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html": {
+    "ts": "2026-10-07T14:29:15.704630+00:00",
+    "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials"
+  },
+  "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/": {
+    "ts": "2026-10-07T14:29:15.829993+00:00",
+    "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways"
+  },
+  "https://cybersecuritynews.com/spread-lunexstealer/": {
+    "ts": "2026-10-07T14:29:15.955314+00:00",
+    "title": "Hackers Compromise 100+ Websites With Fake Cloudflare Checks to Spread LUNEXSTEALER"
+  },
+  "https://gbhackers.com/fbi-warns-fortibleed-campaign-targeting-fortinet-firewalls/": {
+    "ts": "2026-10-07T14:29:16.101985+00:00",
+    "title": "FBI Warns FortiBleed Campaign Targeting Fortinet Firewalls and VPNs to Steal Credentials"
   }
 }

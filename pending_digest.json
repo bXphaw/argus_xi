@@ -1,4 +1,45 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "From Guest Complaints to Malware: Blockchain Abuse Targets Hotels",
+      "url": "https://cofense.com/blog/from-guest-complaints-to-malware-blockchain-abuse-targets-hotels"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical Progress DataDirect GenAI Flaw Lets Attackers Execute Arbitrary OS Commands",
+      "url": "https://gbhackers.com/critical-progress-datadirect-genai-flaw/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "CERT-UA: Fake Cloudflare Checks Deliver LunexStealer Malware",
+      "url": "https://securityaffairs.com/200537/hacking/cert-ua-fake-cloudflare-checks-deliver-lunexstealer-malware.html"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "FortiBleed Is Still Active, Locking Organizations Out",
+      "url": "https://socradar.io/blog/fortibleed-still-active-locking-organizations-out/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "FortiBleed is still active, with attackers locking admins out of Fortinet firewalls",
+      "url": "https://www.helpnetsecurity.com/2026/10/07/fortinet-fortibleed-campaign-fbi-advisory/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "AI-powered phishkit arms criminals with account-hijacking tools in 10 minutes",
+      "url": "https://www.malwarebytes.com/blog/threat-intel/2026/10/ai-powered-phishkit-arms-criminals-with-account-hijacking-tools-in-10-minutes"
+    },
+    {
+      "category": "new_technique",
+      "title": "The ASOS Incident: When Attackers Use the Channels Customers Trust",
+      "url": "https://www.rapid7.com/blog/post/it-asos-incident-attackers-using-channels-customers-trust"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany",
+      "url": "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/"
+    }
+  ],
   "last_sent_date": "2026-10-07"
 }
