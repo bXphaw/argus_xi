@@ -18490,5 +18490,125 @@
   "https://gbhackers.com/fbi-warns-fortibleed-campaign-targeting-fortinet-firewalls/": {
     "ts": "2026-10-07T14:29:16.101985+00:00",
     "title": "FBI Warns FortiBleed Campaign Targeting Fortinet Firewalls and VPNs to Steal Credentials"
+  },
+  "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html": {
+    "ts": "2026-10-07T20:31:17.098693+00:00",
+    "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/": {
+    "ts": "2026-10-07T20:32:52.803948+00:00",
+    "title": "Microsoft Outlook to block MSIX attachments starting November"
+  },
+  "https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/": {
+    "ts": "2026-10-07T20:32:52.803967+00:00",
+    "title": "Microsoft, Adobe, Apple, and Foxit vulnerabilities"
+  },
+  "https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/": {
+    "ts": "2026-10-07T20:32:53.065434+00:00",
+    "title": "Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage": {
+    "ts": "2026-10-07T20:32:53.065453+00:00",
+    "title": "OpenAI Agent Escape Causes Wikimedia Service Outage"
+  },
+  "https://www.forescout.com/blog/your-zero-trust-program-is-missing-one-critical-thing/": {
+    "ts": "2026-10-07T20:32:53.065458+00:00",
+    "title": "Your Zero Trust Program Is Missing One Critical Thing"
+  },
+  "https://www.helpnetsecurity.com/2026/10/07/google-unauthorized-https-certificates-cctld-hijacks/": {
+    "ts": "2026-10-07T20:32:53.244023+00:00",
+    "title": "Hackers hijack three country-code domain registries, obtain HTTPS certificates for Google domains"
+  },
+  "https://www.malwarebytes.com/blog/bugs/2026/10/update-chrome-and-chromeos-to-fix-critical-security-issues": {
+    "ts": "2026-10-07T20:32:53.422962+00:00",
+    "title": "Update Chrome and ChromeOS to fix critical security issues"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/": {
+    "ts": "2026-10-07T20:32:53.593528+00:00",
+    "title": "3 lessons from frontier AI vulnerability research"
+  },
+  "https://www.rapid7.com/blog/post/it-compliance-frameworks-for-universities-drowning-in-regulatory-risk": {
+    "ts": "2026-10-07T20:32:53.766559+00:00",
+    "title": "Four Compliance Frameworks, One Security Team. How Universities Can Stop Drowning in Regulatory Risk"
+  },
+  "https://securityaffairs.com/200569/security/sonicwall-fixes-max-severity-pre-auth-flaw-in-sma1000-appliances.html": {
+    "ts": "2026-10-07T20:32:53.936939+00:00",
+    "title": "SonicWall Fixes Max Severity Pre-Auth Flaw in SMA1000 Appliances"
+  },
+  "https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/": {
+    "ts": "2026-10-07T20:32:53.936958+00:00",
+    "title": "Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform"
+  },
+  "https://socradar.io/blog/socradar-alarms-in-elastic/": {
+    "ts": "2026-10-07T20:32:53.936961+00:00",
+    "title": "SOCRadar Alarms in Elastic | Investigate Threats Faster"
+  },
+  "https://www.theregister.com/security/2026/10/07/attackers-hijacked-top-level-domains-minted-fake-security-certs-for-google-and-other-orgs/5301718": {
+    "ts": "2026-10-07T20:32:53.936965+00:00",
+    "title": "Attackers hijacked top-level domains, minted fake security certs for Google and other orgs"
+  },
+  "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/": {
+    "ts": "2026-10-07T20:32:54.118488+00:00",
+    "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/": {
+    "ts": "2026-10-07T20:32:54.118510+00:00",
+    "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment"
+  },
+  "https://www.helpnetsecurity.com/2026/10/07/sonicwall-fixes-pre-auth-ssrf-flaw-in-sma-1000-appliances-cve-2026-102255/": {
+    "ts": "2026-10-07T20:32:54.289506+00:00",
+    "title": "SonicWall fixes pre-auth SSRF flaw in SMA 1000 appliances (CVE-2026-102255)"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/another-shinyhunters-suspect-arrested": {
+    "ts": "2026-10-07T20:32:54.468712+00:00",
+    "title": "Another ShinyHunters suspect arrested"
+  },
+  "https://securityaffairs.com/200558/cyber-crime/fortibleed-hit-86000-firewalls-by-exploiting-something-nobody-can-patch-away.html": {
+    "ts": "2026-10-07T20:32:54.638651+00:00",
+    "title": "FortiBleed hit 86,000 firewalls by exploiting something nobody can patch away"
+  },
+  "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/": {
+    "ts": "2026-10-07T20:32:54.807960+00:00",
+    "title": "Advantest Discloses Data Breach Months After Ransomware Attack"
+  },
+  "https://socradar.io/blog/cyberxero-ai-iab-ukraine-critical-infrastructure/": {
+    "ts": "2026-10-07T20:32:54.985790+00:00",
+    "title": "CyberXero: An AI-Augmented Initial Access Broker Targeting Ukrainian Critical Infrastructure"
+  },
+  "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html": {
+    "ts": "2026-10-07T20:32:55.163315+00:00",
+    "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/10/07/aws-launches-open-source-ai-agent-sandbox-to-prevent-yolo-mode-disasters/5301687": {
+    "ts": "2026-10-07T20:32:55.163334+00:00",
+    "title": "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters"
+  },
+  "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/": {
+    "ts": "2026-10-07T20:32:55.163338+00:00",
+    "title": "Musician sent to prison for $10 million streaming fraud using AI bots"
+  },
+  "https://www.helpnetsecurity.com/2026/10/07/windows-app-remote-pc-access/": {
+    "ts": "2026-10-07T20:32:55.163342+00:00",
+    "title": "Your Windows PC can now reach other PCs through Windows App"
+  },
+  "https://securityaffairs.com/200506/ai/wikimedia-finds-unauthorized-openai-agent-activity-on-wikipedia.html": {
+    "ts": "2026-10-07T20:32:55.163346+00:00",
+    "title": "Wikimedia Finds Unauthorized OpenAI Agent Activity on Wikipedia"
+  },
+  "https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/": {
+    "ts": "2026-10-07T20:32:55.163349+00:00",
+    "title": "Chrome 155 Update Patches 247 Vulnerabilities"
+  },
+  "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html": {
+    "ts": "2026-10-07T20:32:55.163352+00:00",
+    "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances"
+  },
+  "https://www.theregister.com/security/2026/10/07/us-states-sue-popular-kitmaker-tp-link-over-china-risks/5301653": {
+    "ts": "2026-10-07T20:32:55.163355+00:00",
+    "title": "US states sue popular kitmaker TP-Link over China risks"
+  },
+  "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/": {
+    "ts": "2026-10-07T20:32:55.163357+00:00",
+    "title": "Advantest confirms personal information stolen in ransomware attack"
   }
 }

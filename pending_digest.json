@@ -39,6 +39,21 @@
       "category": "threat_actor",
       "title": "Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany",
       "url": "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance",
+      "url": "https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
+      "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html"
     }
   ],
   "last_sent_date": "2026-10-07"
