@@ -18314,5 +18314,61 @@
   "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html": {
     "ts": "2026-10-07T00:30:13.763608+00:00",
     "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan"
+  },
+  "https://asec.ahnlab.com/en/95733/": {
+    "ts": "2026-10-07T07:01:46.228776+00:00",
+    "title": "Q3 2026 Attack Techniques Trend Report"
+  },
+  "https://www.helpnetsecurity.com/2026/10/07/open-source-ai-agent-gateway/": {
+    "ts": "2026-10-07T07:01:46.228796+00:00",
+    "title": "AI Agent Gateway: Open-source tool keeps credentials out of agent configs"
+  },
+  "https://www.securityweek.com/androids-october-2026-updates-patch-25-vulnerabilities/": {
+    "ts": "2026-10-07T07:01:46.228800+00:00",
+    "title": "Android\u2019s October 2026 Updates Patch 25 Vulnerabilities"
+  },
+  "https://www.sekoia.com/blog/sekoia-is-now-ens-alta-certified-what-it-means-for-security-in-spain": {
+    "ts": "2026-10-07T07:01:46.228803+00:00",
+    "title": "Sekoia Obtains ENS Alta Certification for the Spanish Market"
+  },
+  "https://www.theregister.com/public-sector/2026/10/07/south-korean-president-calls-for-creation-of-tools-that-stop-all-cyber-attacks/5301533": {
+    "ts": "2026-10-07T07:01:46.228807+00:00",
+    "title": "South Korean president calls for creation of tools that stop all cyber-attacks"
+  },
+  "https://asec.ahnlab.com/en/95738/": {
+    "ts": "2026-10-07T07:01:46.685585+00:00",
+    "title": "Ransom & Dark Web Issues Week 2, October 2026"
+  },
+  "https://www.helpnetsecurity.com/2026/10/07/openssh-10-6-released/": {
+    "ts": "2026-10-07T07:01:46.685605+00:00",
+    "title": "OpenSSH 10.6 enables a post-quantum signature algorithm, so experimental keys need replacing"
+  },
+  "https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/": {
+    "ts": "2026-10-07T07:01:46.685609+00:00",
+    "title": "Atlassian Patches Critical Vulnerability Affecting 8 Products"
+  },
+  "https://asec.ahnlab.com/en/95741/": {
+    "ts": "2026-10-07T07:01:46.685612+00:00",
+    "title": "Q3 2026 Vulnerability Trend Report"
+  },
+  "https://www.helpnetsecurity.com/2026/10/07/hcl-software-ai-endpoint-management/": {
+    "ts": "2026-10-07T07:01:46.685615+00:00",
+    "title": "AI endpoint management: Visibility, compliance, and remediation"
+  },
+  "https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/": {
+    "ts": "2026-10-07T07:01:46.878955+00:00",
+    "title": "Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona\u2019s Court System"
+  },
+  "https://www.helpnetsecurity.com/2026/10/07/ot-network-visibility-challenges/": {
+    "ts": "2026-10-07T07:01:47.070078+00:00",
+    "title": "Even with OT network visibility, critical infrastructure operators struggle with legacy equipment"
+  },
+  "https://www.helpnetsecurity.com/2026/10/07/software-security-vulnerability-management-survey/": {
+    "ts": "2026-10-07T07:01:47.262638+00:00",
+    "title": "Automation, AI agents or people? Sorting out who handles each security finding"
+  },
+  "https://www.helpnetsecurity.com/2026/10/07/x-org-server-fixed-vulnerabilities/": {
+    "ts": "2026-10-07T07:01:47.453636+00:00",
+    "title": "Check your X.Org server version because a dozen vulnerabilities have been patched"
   }
 }
