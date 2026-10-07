@@ -18278,5 +18278,41 @@
   "https://gbhackers.com/shelbyloader-v2-malware/": {
     "ts": "2026-10-06T20:07:40.629046+00:00",
     "title": "Hackers Pose as Dubai Airports Recruiters to Infect Software Engineers With ShelbyLoader V2"
+  },
+  "https://www.theregister.com/security/2026/10/06/legacy-sign-on-service-comes-back-to-bite-school-software-provider-bromcom/5301156": {
+    "ts": "2026-10-07T00:29:54.842040+00:00",
+    "title": "Legacy sign-on service comes back to bite school software provider Bromcom"
+  },
+  "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/": {
+    "ts": "2026-10-07T00:30:13.481631+00:00",
+    "title": "Ninja Forms plugin flaw exploited to hack WordPress sites"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads": {
+    "ts": "2026-10-07T00:30:13.576041+00:00",
+    "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads"
+  },
+  "https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/": {
+    "ts": "2026-10-07T00:30:13.576054+00:00",
+    "title": "Social Engineering Detection Moves Into the Live Conversation"
+  },
+  "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html": {
+    "ts": "2026-10-07T00:30:13.666677+00:00",
+    "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes"
+  },
+  "https://www.theregister.com/security/2026/10/07/anthropic-reconfigures-its-cool-kids-security-program/5301509": {
+    "ts": "2026-10-07T00:30:13.666693+00:00",
+    "title": "Anthropic reconfigures its cool kids security program"
+  },
+  "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/": {
+    "ts": "2026-10-07T00:30:13.666697+00:00",
+    "title": "Engineer sentenced for locking over 3,000 devices on employer network"
+  },
+  "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready": {
+    "ts": "2026-10-07T00:30:13.666700+00:00",
+    "title": "Critical Healthcare Systems Aren't Quantum-Ready"
+  },
+  "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html": {
+    "ts": "2026-10-07T00:30:13.763608+00:00",
+    "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan"
   }
 }
