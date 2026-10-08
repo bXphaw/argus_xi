@@ -54,6 +54,31 @@
       "category": "malware_windows",
       "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
       "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html"
+    },
+    {
+      "category": "malware_other",
+      "title": "Evolution of Web3 in Cloud Supply Chain Attacks",
+      "url": "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers hijack Google domains after breaching ccTLD registries",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Hijack .gh, .sl and .as Registry to Obtain Unauthorized HTTPS Certificates",
+      "url": "https://cybersecuritynews.com/hackers-hijack-domain-registry/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "CyberXero Combines Claude Code, PentAGI and Cobalt Strike in AI-Augmented Cyberattacks",
+      "url": "https://cybersecuritynews.com/cyberxero-combines-claude-code/"
     }
   ],
   "last_sent_date": "2026-10-07"

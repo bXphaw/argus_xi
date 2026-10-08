@@ -18610,5 +18610,125 @@
   "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/": {
     "ts": "2026-10-07T20:32:55.163357+00:00",
     "title": "Advantest confirms personal information stolen in ransomware attack"
+  },
+  "https://www.helpnetsecurity.com/2026/10/07/asos-data-breach-app-notification/": {
+    "ts": "2026-10-08T00:50:31.991208+00:00",
+    "title": "ASOS confirms data breach after \u201chacked\u201d app alert reaches shoppers"
+  },
+  "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/": {
+    "ts": "2026-10-08T00:52:16.117530+00:00",
+    "title": "Ransomware recovery CEO charged over secret ransom payments"
+  },
+  "https://cybersecuritynews.com/discord-users-data-exposed/": {
+    "ts": "2026-10-08T00:52:16.117547+00:00",
+    "title": "Discord Users\u2019 Data Exposed in Security Bot Double Counter Security Breach"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting": {
+    "ts": "2026-10-08T00:52:16.117550+00:00",
+    "title": "Australian Gov't Weighs Mandatory AI Incident Reporting"
+  },
+  "https://gbhackers.com/ey-data-breach/": {
+    "ts": "2026-10-08T00:52:16.117553+00:00",
+    "title": "EY Data Breach Exposes Goldman Sachs and Man Group Clients\u2019 Tax and Financial Data"
+  },
+  "https://www.helpnetsecurity.com/2026/10/08/cisco-quantum-network-controller-research-prototype/": {
+    "ts": "2026-10-08T00:52:16.117555+00:00",
+    "title": "Cisco quantum network controller lets apps order entanglement on demand"
+  },
+  "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/": {
+    "ts": "2026-10-08T00:52:16.334882+00:00",
+    "title": "Evolution of Web3 in Cloud Supply Chain Attacks"
+  },
+  "https://www.securityweek.com/anthropic-introduces-3-tier-cyber-verification-program-for-ai-access/": {
+    "ts": "2026-10-08T00:52:16.334902+00:00",
+    "title": "Anthropic Introduces 3-Tier Cyber Verification Program for AI Access"
+  },
+  "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html": {
+    "ts": "2026-10-08T00:52:16.334904+00:00",
+    "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely"
+  },
+  "https://www.theregister.com/security/2026/10/07/poetry-is-the-new-ai-security-threat-as-poellm-malware-infects-3k-servers/5301672": {
+    "ts": "2026-10-08T00:52:16.334906+00:00",
+    "title": "Poetry is the new AI security threat as PoeLLM malware infects 3K+ servers"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/": {
+    "ts": "2026-10-08T00:52:16.455686+00:00",
+    "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins"
+  },
+  "https://cybersecuritynews.com/alert-overload-tool-sprawl-and-evasive-phishing-the-5-bottlenecks-slowing-down-us-socs/": {
+    "ts": "2026-10-08T00:52:16.570735+00:00",
+    "title": "Alert Overload, Tool Sprawl and Evasive Phishing: The 5 Bottlenecks Slowing Down US SOCs"
+  },
+  "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives": {
+    "ts": "2026-10-08T00:52:16.685976+00:00",
+    "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives"
+  },
+  "https://gbhackers.com/erp-web-shell-breach/": {
+    "ts": "2026-10-08T00:52:16.800011+00:00",
+    "title": "Hackers Use ERP Web Shell and IDOR Flaws to Breach Major South Korean Churches"
+  },
+  "https://www.securityweek.com/asos-confirms-cyberattack-data-breach/": {
+    "ts": "2026-10-08T00:52:16.915382+00:00",
+    "title": "ASOS Confirms Cyberattack, Data Breach"
+  },
+  "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html": {
+    "ts": "2026-10-08T00:52:17.039640+00:00",
+    "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/": {
+    "ts": "2026-10-08T00:52:17.149708+00:00",
+    "title": "Hackers hijack Google domains after breaching ccTLD registries"
+  },
+  "https://cybersecuritynews.com/hackers-hijack-domain-registry/": {
+    "ts": "2026-10-08T00:52:17.270991+00:00",
+    "title": "Hackers Hijack .gh, .sl and .as Registry to Obtain Unauthorized HTTPS Certificates"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails": {
+    "ts": "2026-10-08T00:52:17.271011+00:00",
+    "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails"
+  },
+  "https://gbhackers.com/openssh-10-6-fixes-security-flaws/": {
+    "ts": "2026-10-08T00:52:17.271014+00:00",
+    "title": "OpenSSH 10.6 Fixes Security Flaws Including SSH Plaintext Recovery Attack"
+  },
+  "https://www.helpnetsecurity.com/2026/10/07/anthropic-expands-cyber-verification-program/": {
+    "ts": "2026-10-08T00:52:17.271016+00:00",
+    "title": "Anthropic loosens Claude\u2019s cyber restrictions for verified defenders"
+  },
+  "https://www.securityweek.com/wikimedia-says-rogue-openai-agents-tried-to-turn-its-tools-into-proxies/": {
+    "ts": "2026-10-08T00:52:17.394418+00:00",
+    "title": "Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies"
+  },
+  "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html": {
+    "ts": "2026-10-08T00:52:17.508109+00:00",
+    "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details"
+  },
+  "https://cybersecuritynews.com/crowdstrike-cybersecurity-accelerator/": {
+    "ts": "2026-10-08T00:52:17.619615+00:00",
+    "title": "CrowdStrike, AWS, and NVIDIA Expand Global Cybersecurity Startup Accelerator"
+  },
+  "https://gbhackers.com/lunexstealer-gives-hackers-remote-control-of-browsers-through-malicious-chrome-extension/": {
+    "ts": "2026-10-08T00:52:17.747020+00:00",
+    "title": "LUNEXSTEALER Gives Hackers Remote Control of Browsers Through Malicious Chrome Extension"
+  },
+  "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html": {
+    "ts": "2026-10-08T00:52:17.863605+00:00",
+    "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops."
+  },
+  "https://cybersecuritynews.com/cyberxero-combines-claude-code/": {
+    "ts": "2026-10-08T00:52:17.981110+00:00",
+    "title": "CyberXero Combines Claude Code, PentAGI and Cobalt Strike in AI-Augmented Cyberattacks"
+  },
+  "https://gbhackers.com/elastic-patches-14-security-flaws/": {
+    "ts": "2026-10-08T00:52:17.981127+00:00",
+    "title": "Elastic Patches 14 Security Flaws, Including One Enabling Cross-Tenant Data Interception"
+  },
+  "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html": {
+    "ts": "2026-10-08T00:52:17.981131+00:00",
+    "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws"
+  },
+  "https://cybersecuritynews.com/sonicwall-patches-sma1000-flaws/": {
+    "ts": "2026-10-08T00:52:17.981133+00:00",
+    "title": "SonicWall Patches 4 SMA1000 Flaws, Including Critical Pre-Auth SSRF Rated CVSS 10"
   }
 }
