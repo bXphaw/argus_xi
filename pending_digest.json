@@ -1,4 +1,35 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_android",
+      "title": "The phone was compromised before the user turned it on: the rise of Midnight Mimosa",
+      "url": "https://www.bitdefender.com/en-us/blog/labs/midnight-mimosa-malware"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "UAT-11985: AI-assisted event lures delivering real-time Google AitM phishing",
+      "url": "https://blog.talosintelligence.com/uat-11985/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
+      "url": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "U.S. Offers $10 Million Reward for Alleged HAFNIUM Hacker Zhang Yu",
+      "url": "https://securityaffairs.com/200608/intelligence/u-s-offers-10-million-reward-for-alleged-hafnium-hacker-zhang-yu.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication",
+      "url": "https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/"
+    },
+    {
+      "category": "malware_other",
+      "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
+      "url": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html"
+    }
+  ],
   "last_sent_date": "2026-10-08"
 }

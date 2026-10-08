@@ -18818,5 +18818,125 @@
   "https://www.helpnetsecurity.com/2026/10/08/forescout-healthcare-quantum-readiness-report/": {
     "ts": "2026-10-08T07:10:05.345633+00:00",
     "title": "Medical devices patients rely on most are least prepared for quantum attacks"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/midnight-mimosa-malware": {
+    "ts": "2026-10-08T15:26:22.184071+00:00",
+    "title": "The phone was compromised before the user turned it on: the rise of Midnight Mimosa"
+  },
+  "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/": {
+    "ts": "2026-10-08T15:26:22.184092+00:00",
+    "title": "OAuth grants pile up faster than you can review them. Here's how to keep up."
+  },
+  "https://blog.talosintelligence.com/uat-11985/": {
+    "ts": "2026-10-08T15:26:22.306579+00:00",
+    "title": "UAT-11985: AI-assisted event lures delivering real-time Google AitM phishing"
+  },
+  "https://cybersecuritynews.com/microsoft-teams-deepfake-detection/": {
+    "ts": "2026-10-08T15:26:22.306601+00:00",
+    "title": "Microsoft Teams Adds Synthetic Audio and Video Detection to Fight Deepfake Meeting Attacks"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter": {
+    "ts": "2026-10-08T15:26:22.306605+00:00",
+    "title": "Writing the Next Chapter"
+  },
+  "https://gbhackers.com/insignary-launches-clarity-air-code-detection/": {
+    "ts": "2026-10-08T15:26:22.423232+00:00",
+    "title": "Insignary Launches Clarity AIR to Detect Undeclared Open-Source and AI-Written Code"
+  },
+  "https://www.helpnetsecurity.com/2026/10/08/nudeleaksteens-seized-fbi-france/": {
+    "ts": "2026-10-08T15:26:22.548600+00:00",
+    "title": "Authorities seize sites selling hacked, stolen intimate images of 17,000 women and girls"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/amazon-has-an-uncomfortably-personal-profile-on-you-check-yours-now": {
+    "ts": "2026-10-08T15:26:22.673421+00:00",
+    "title": "Amazon has an uncomfortably personal profile on you"
+  },
+  "https://www.recordedfuture.com/research/japan-cyber-defense-strategy": {
+    "ts": "2026-10-08T15:26:22.812036+00:00",
+    "title": "Japan Adopts Proactive Cyber Defense Strategy"
+  },
+  "https://securityaffairs.com/200621/cyber-crime/monstercloud-owner-charged-with-secretly-paying-ransomware-demands.html": {
+    "ts": "2026-10-08T15:26:22.934271+00:00",
+    "title": "MonsterCloud Owner Charged With Secretly Paying Ransomware Demands"
+  },
+  "https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/": {
+    "ts": "2026-10-08T15:26:22.934290+00:00",
+    "title": "Security Awareness Training Isn\u2019t Dead, but It Needs a Rethink"
+  },
+  "https://www.security.com/expert-perspectives/security-dot-com-podcast-resilient-channel": {
+    "ts": "2026-10-08T15:26:22.934294+00:00",
+    "title": "\ud83c\udf99\ufe0fSECURITY.COM The Podcast: The Resilient Channel"
+  },
+  "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html": {
+    "ts": "2026-10-08T15:26:23.057159+00:00",
+    "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia"
+  },
+  "https://www.theregister.com/security/2026/10/08/sponsored-fighting-genai-with-genai-the-new-email-security-landscape/5301063": {
+    "ts": "2026-10-08T15:26:23.057178+00:00",
+    "title": "Fighting GenAI with GenAI: The New Email Security Landscape"
+  },
+  "https://threatmon.io/ransomware-2026-report-september/": {
+    "ts": "2026-10-08T15:26:23.057181+00:00",
+    "title": "Ransomware 2026 Report September"
+  },
+  "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/": {
+    "ts": "2026-10-08T15:26:23.182119+00:00",
+    "title": "Uranium crypto exchange hacker convicted for stealing $53 million"
+  },
+  "https://blog.talosintelligence.com/ignore-all-instructions-and-read-this-blog-the-state-of-ai-analysis-evasion-in-malware/": {
+    "ts": "2026-10-08T15:26:23.305773+00:00",
+    "title": "Ignore all instructions and read this blog: The state of AI-analysis evasion in malware"
+  },
+  "https://cybersecuritynews.com/darksword-ios-exploit-platform/": {
+    "ts": "2026-10-08T15:26:23.424343+00:00",
+    "title": "DarkSword iOS Exploit Platform Uses Coruna Malware to Steal Crypto Wallet Recovery Phrases"
+  },
+  "https://gbhackers.com/tensorlake-package-hijacked/": {
+    "ts": "2026-10-08T15:26:23.549344+00:00",
+    "title": "Hackers Hijack Tensorlake Package to Spread Shai-Hulud Supply Chain Malware"
+  },
+  "https://www.helpnetsecurity.com/2026/10/08/scams-targeting-youtube-creators-sponsorship/": {
+    "ts": "2026-10-08T15:26:23.673870+00:00",
+    "title": "YouTubers targeted with fake sponsorships and \u201cchannel verification\u201d phishing"
+  },
+  "https://www.malwarebytes.com/blog/privacy/2026/10/metas-muse-ai-files-away-your-friendships-arguments-and-secrets": {
+    "ts": "2026-10-08T15:26:23.673890+00:00",
+    "title": "Meta\u2019s Muse AI files away your friendships, arguments, and secrets"
+  },
+  "https://securityaffairs.com/200608/intelligence/u-s-offers-10-million-reward-for-alleged-hafnium-hacker-zhang-yu.html": {
+    "ts": "2026-10-08T15:26:23.793539+00:00",
+    "title": "U.S. Offers $10 Million Reward for Alleged HAFNIUM Hacker Zhang Yu"
+  },
+  "https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/": {
+    "ts": "2026-10-08T15:26:23.917038+00:00",
+    "title": "Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication"
+  },
+  "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html": {
+    "ts": "2026-10-08T15:26:24.048342+00:00",
+    "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases"
+  },
+  "https://www.theregister.com/security/2026/10/08/uk-and-germany-team-up-against-russian-cyberattacks-as-brexit-rethink-looms/5301914": {
+    "ts": "2026-10-08T15:26:24.048364+00:00",
+    "title": "UK and Germany team up against Russian cyberattacks as Brexit rethink looms"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/": {
+    "ts": "2026-10-08T15:26:24.172548+00:00",
+    "title": "Microsoft Teams to get support for third-party deepfake detection tools"
+  },
+  "https://cybersecuritynews.com/sungrow-inverter-vulnerability/": {
+    "ts": "2026-10-08T15:26:24.299975+00:00",
+    "title": "Critical Sungrow Inverter Vulnerability Lets Attackers Access Solar Plants Without Passwords"
+  },
+  "https://gbhackers.com/poc-exploit-released-for-zammad-vulnerability/": {
+    "ts": "2026-10-08T15:26:24.436269+00:00",
+    "title": "PoC Exploit Released for Zammad Vulnerability Enabling Session Hijacking and Remote Code Execution"
+  },
+  "https://www.helpnetsecurity.com/2026/10/08/anthropic-claude-haiku-5-5/": {
+    "ts": "2026-10-08T15:26:24.553572+00:00",
+    "title": "Anthropic\u2019s new budget model gets much better at ignoring hidden commands"
+  },
+  "https://securityaffairs.com/200591/security/atlassian-vulnerability-comes-under-attack-hours-after-details-go-public.html": {
+    "ts": "2026-10-08T15:26:24.670856+00:00",
+    "title": "Atlassian Vulnerability Comes Under Attack Hours After Details Go Public"
   }
 }
