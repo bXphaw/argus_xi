@@ -18730,5 +18730,93 @@
   "https://cybersecuritynews.com/sonicwall-patches-sma1000-flaws/": {
     "ts": "2026-10-08T00:52:17.981133+00:00",
     "title": "SonicWall Patches 4 SMA1000 Flaws, Including Critical Pre-Auth SSRF Rated CVSS 10"
+  },
+  "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html": {
+    "ts": "2026-10-08T07:08:42.947822+00:00",
+    "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer"
+  },
+  "https://gbhackers.com/poellm-malware/": {
+    "ts": "2026-10-08T07:08:43.638084+00:00",
+    "title": "PoeLLM Malware Hijacks 3,400+ Servers for Crypto Mining and Botnet Expansion"
+  },
+  "https://asec.ahnlab.com/en/95751/": {
+    "ts": "2026-10-08T07:10:04.217893+00:00",
+    "title": "RMM tools currently being distributed through phishing attacks (ScreenConnect, FleetDeck, Datto, SimpleHelp, JumpCloud, N-able)"
+  },
+  "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/": {
+    "ts": "2026-10-08T07:10:04.217912+00:00",
+    "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland"
+  },
+  "https://cybersecuritynews.com/splunk-patches-critical-flaw/": {
+    "ts": "2026-10-08T07:10:04.217917+00:00",
+    "title": "Splunk Patches Critical 9.8 Flaw Allowing Unauthenticated Remote Command Execution"
+  },
+  "https://gbhackers.com/citrix-netscaler-cve-2026-88771-exploited/": {
+    "ts": "2026-10-08T07:10:04.311356+00:00",
+    "title": "Critical Citrix NetScaler CVE-2026-88771 Exploited for Reverse Shells and Persistent Access"
+  },
+  "https://www.helpnetsecurity.com/2026/10/08/ivan-milenkovic-qualys-cyber-risk-quantification/": {
+    "ts": "2026-10-08T07:10:04.311374+00:00",
+    "title": "Pricing your bad days and how to build an economic model for security decisions"
+  },
+  "https://www.morphisec.com/blog/copy-of-how-to-stop-ransomware-before-execution/": {
+    "ts": "2026-10-08T07:10:04.416758+00:00",
+    "title": "From WhatsApp to SYSTEM: Inside the VulcanRAT207.A Intrusion Chain"
+  },
+  "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html": {
+    "ts": "2026-10-08T07:10:04.509555+00:00",
+    "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm"
+  },
+  "https://www.theregister.com/cyber-crime/2026/10/08/ransomware-fixer-claimed-he-could-decrypt-files-allegedly-defrauded-clients-instead/5301831": {
+    "ts": "2026-10-08T07:10:04.597642+00:00",
+    "title": "Ransomware fixer claimed he could decrypt files, allegedly defrauded clients instead"
+  },
+  "https://www.welivesecurity.com/en/social-media/brand-deal-scam-targeting-youtube-creators/": {
+    "ts": "2026-10-08T07:10:04.690848+00:00",
+    "title": "Inside a brand deal scam targeting YouTube creators"
+  },
+  "https://cybersecuritynews.com/domain-with-exact-microsoft-teams-interface/": {
+    "ts": "2026-10-08T07:10:04.785876+00:00",
+    "title": "Hackers Registered New Domain with Exact Microsoft Teams Interface to Steal Logins"
+  },
+  "https://gbhackers.com/github-actions-workflows/": {
+    "ts": "2026-10-08T07:10:04.874749+00:00",
+    "title": "Hackers Abuse GitHub Actions to Steal SSH Keys, Cloud Credentials and Access Tokens"
+  },
+  "https://www.helpnetsecurity.com/2026/10/08/ai-surveillance-cameras-privacy/": {
+    "ts": "2026-10-08T07:10:04.874768+00:00",
+    "title": "Who watches the AI watching your street?"
+  },
+  "https://cybersecuritynews.com/elastic-fixes-14-security-flaws/": {
+    "ts": "2026-10-08T07:10:04.874774+00:00",
+    "title": "Elastic Fixes 14 Security Flaws Including One That Lets Attackers Intercept Other Users\u2019 Data"
+  },
+  "https://www.helpnetsecurity.com/2026/10/08/espresso-labs-ai-cybersecurity-compliance/": {
+    "ts": "2026-10-08T07:10:04.874777+00:00",
+    "title": "How AI can fix cybersecurity compliance: From dashboards to continuous execution"
+  },
+  "https://cybersecuritynews.com/claude-haiku-5-5/": {
+    "ts": "2026-10-08T07:10:04.874780+00:00",
+    "title": "Claude Haiku 5.5 \u2013 Cheapest Model with Enhanced Coding and Computer Use"
+  },
+  "https://gbhackers.com/npm-supply-chain-campaign/": {
+    "ts": "2026-10-08T07:10:04.967201+00:00",
+    "title": "Malicious npm Packages Steal Browser Passwords, Discord Tokens and Crypto Wallets."
+  },
+  "https://www.helpnetsecurity.com/2026/10/08/passkey-adoption-typing-passwords/": {
+    "ts": "2026-10-08T07:10:05.062852+00:00",
+    "title": "The people who know passkeys best are still typing passwords"
+  },
+  "https://cybersecuritynews.com/u-s-offers-10-million-reward-chinese-hacker/": {
+    "ts": "2026-10-08T07:10:05.152633+00:00",
+    "title": "U.S. Offers $10 Million Reward for Chinese Hacker Who Tried to Steal COVID-19 Research"
+  },
+  "https://www.helpnetsecurity.com/2026/10/08/lightwell-java-library-vulnerabilities/": {
+    "ts": "2026-10-08T07:10:05.252718+00:00",
+    "title": "Java library vulnerabilities: IBM and Red Hat fix 400+ previously unknown flaws"
+  },
+  "https://www.helpnetsecurity.com/2026/10/08/forescout-healthcare-quantum-readiness-report/": {
+    "ts": "2026-10-08T07:10:05.345633+00:00",
+    "title": "Medical devices patients rely on most are least prepared for quantum attacks"
   }
 }
