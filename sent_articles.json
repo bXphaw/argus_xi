@@ -18938,5 +18938,125 @@
   "https://securityaffairs.com/200591/security/atlassian-vulnerability-comes-under-attack-hours-after-details-go-public.html": {
     "ts": "2026-10-08T15:26:24.670856+00:00",
     "title": "Atlassian Vulnerability Comes Under Attack Hours After Details Go Public"
+  },
+  "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/": {
+    "ts": "2026-10-08T21:12:57.001293+00:00",
+    "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients"
+  },
+  "https://blog.talosintelligence.com/making-sure-the-checks-get-printed/": {
+    "ts": "2026-10-08T21:12:57.437950+00:00",
+    "title": "Making sure the checks get printed"
+  },
+  "https://cofense.com/blog/beyond-human-risk-measuring-secure-behavior-with-an-ai-driven-platform": {
+    "ts": "2026-10-08T21:12:57.437969+00:00",
+    "title": "5 Key Takeaways from Beyond Human Risk: Measuring Secure Behavior with an AI-Driven Platform"
+  },
+  "https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/": {
+    "ts": "2026-10-08T21:12:57.437972+00:00",
+    "title": "Solving the Continuous Authorization Conundrum"
+  },
+  "https://cybersecuritynews.com/tensorlake-npm-package/": {
+    "ts": "2026-10-08T21:12:57.625461+00:00",
+    "title": "Tensorlake npm Package Compromised to Spread Shai-Hulud Worm and Steal Developer Secrets"
+  },
+  "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt": {
+    "ts": "2026-10-08T21:12:57.818821+00:00",
+    "title": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt"
+  },
+  "https://gbhackers.com/critical-lmcache-rce-vulnerability/": {
+    "ts": "2026-10-08T21:12:58.012599+00:00",
+    "title": "Critical LMCache RCE Vulnerability Remains Unpatched, Public PoC Exploit Available"
+  },
+  "https://www.helpnetsecurity.com/2026/10/08/poellm-malware-github-poem-ai-servers/": {
+    "ts": "2026-10-08T21:12:58.198743+00:00",
+    "title": "Cryptomining botnet hides C2 addresses in GitHub poem, infects over 3,400 servers"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/attackers-hijack-country-code-domains-to-impersonate-google-and-other-services": {
+    "ts": "2026-10-08T21:12:58.383837+00:00",
+    "title": "Attackers hijack country-code domains to impersonate Google and other services"
+  },
+  "https://moonlock.com/depop-scams": {
+    "ts": "2026-10-08T21:12:58.569870+00:00",
+    "title": "The Depop scams no one warns you about until it\u2019s too late"
+  },
+  "https://securityaffairs.com/200650/cyber-warfare-2/italys-foreign-ministry-under-cyberattack-as-embassy-sites-come-under-review.html": {
+    "ts": "2026-10-08T21:12:58.756530+00:00",
+    "title": "Italy\u2019s Foreign Ministry Under Cyberattack as Embassy Sites Come Under Review"
+  },
+  "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/": {
+    "ts": "2026-10-08T21:12:58.756548+00:00",
+    "title": "Cisco Patches a Dozen Critical Vulnerabilities"
+  },
+  "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html": {
+    "ts": "2026-10-08T21:12:58.943800+00:00",
+    "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails"
+  },
+  "https://www.theregister.com/security/2026/10/08/high-severity-nvidia-bug-could-crash-gpu-monitoring-on-exposed-servers/5302077": {
+    "ts": "2026-10-08T21:12:58.943817+00:00",
+    "title": "High-severity Nvidia bug could crash GPU monitoring on exposed servers"
+  },
+  "https://www.zscaler.com/blogs/security-research/suspected-tradertraitor-group-uses-trojanized-terraform-provider-deliver": {
+    "ts": "2026-10-08T21:12:59.131153+00:00",
+    "title": "Suspected TraderTraitor Group Uses Trojanized Terraform Provider to Deliver Cross-Platform Malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/": {
+    "ts": "2026-10-08T21:12:59.319346+00:00",
+    "title": "Low-cost Android phones ship with residential proxy malware"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/": {
+    "ts": "2026-10-08T21:12:59.506145+00:00",
+    "title": "CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage"
+  },
+  "https://cybersecuritynews.com/hikvision-camera-vulnerability-2/": {
+    "ts": "2026-10-08T21:12:59.692468+00:00",
+    "title": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting": {
+    "ts": "2026-10-08T21:12:59.877656+00:00",
+    "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting"
+  },
+  "https://gbhackers.com/16-malicious-firefox-extensions/": {
+    "ts": "2026-10-08T21:13:00.064969+00:00",
+    "title": "16 Malicious Firefox Extensions Impersonate Crypto Wallets to Steal Seed Phrases and Private Keys"
+  },
+  "https://www.helpnetsecurity.com/2026/10/08/github-push-protection-modernbert/": {
+    "ts": "2026-10-08T21:13:00.064986+00:00",
+    "title": "GitHub adds AI to catch passwords before a code push"
+  },
+  "https://moonlock.com/how-to-lock-apps-on-iphone": {
+    "ts": "2026-10-08T21:13:00.064989+00:00",
+    "title": "How to lock apps on iPhone with Face ID, Touch ID, or a passcode"
+  },
+  "https://securityaffairs.com/200634/cyber-crime/hunt-io-finds-new-brazetsu-infrastructure-months-before-disclosure.html": {
+    "ts": "2026-10-08T21:13:00.251572+00:00",
+    "title": "Hunt.io Finds New Infrastructure Of BraZetsu Access Broker Months Before Disclosure"
+  },
+  "https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/": {
+    "ts": "2026-10-08T21:13:00.438476+00:00",
+    "title": "US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward"
+  },
+  "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html": {
+    "ts": "2026-10-08T21:13:00.631952+00:00",
+    "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories"
+  },
+  "https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054": {
+    "ts": "2026-10-08T21:13:00.821981+00:00",
+    "title": "Shai-Hulud worm makes jump to AI infrastructure with Tensorlake compromise"
+  },
+  "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/": {
+    "ts": "2026-10-08T21:13:01.007953+00:00",
+    "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos"
+  },
+  "https://cybersecuritynews.com/fake-firefox-wallet-extensions/": {
+    "ts": "2026-10-08T21:13:01.196227+00:00",
+    "title": "Hackers Use Fake Firefox Wallet Extensions to Steal Crypto Recovery Phrases"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift": {
+    "ts": "2026-10-08T21:13:01.381101+00:00",
+    "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift"
+  },
+  "https://gbhackers.com/exposed-darksword-ios-servers/": {
+    "ts": "2026-10-08T21:13:01.568555+00:00",
+    "title": "Exposed DarkSword iOS Servers Reveal Crypto Wallet Theft From Compromised iPhones"
   }
 }
