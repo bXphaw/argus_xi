@@ -19258,5 +19258,125 @@
   "https://cybersecuritynews.com/leaked-chat-logs-show-silent-ransomware-extorted/": {
     "ts": "2026-10-09T08:43:20.311615+00:00",
     "title": "Leaked Chat Logs Show Silent Ransomware Extorted Over $200,000,000 in 6 Months Without Encrypting Data"
+  },
+  "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/": {
+    "ts": "2026-10-09T15:59:39.156178+00:00",
+    "title": "Germany arrests alleged core Qilin ransomware member after extradition"
+  },
+  "https://cybersecuritynews.com/castlestealer-malware/": {
+    "ts": "2026-10-09T15:59:39.211668+00:00",
+    "title": "CastleStealer Malware Uses Browser Protection Bypass and Remote Shell to Expand Attacker Access"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026": {
+    "ts": "2026-10-09T15:59:39.267818+00:00",
+    "title": "Social Engineering AI Agents: The New BEC for 2026"
+  },
+  "https://gbhackers.com/react-server-components-vulnerability/": {
+    "ts": "2026-10-09T15:59:39.267830+00:00",
+    "title": "React Server Components Vulnerability Lets Attackers Freeze Next.js Servers With a Single Request"
+  },
+  "https://www.helpnetsecurity.com/2026/10/09/nvidia-dcgm-exporter-vulnerability-cve-2026-47483/": {
+    "ts": "2026-10-09T15:59:39.267835+00:00",
+    "title": "High-severity NVIDIA vulnerability lets unauthenticated attackers crash GPU monitoring"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/when-a-wallet-drainer-asks-dns-where-to-go/": {
+    "ts": "2026-10-09T15:59:39.323537+00:00",
+    "title": "When a Wallet Drainer Asks DNS Where to Go"
+  },
+  "https://www.malwarebytes.com/blog/data-breaches/2026/10/asos-breach-update-hackers-stole-customer-details-and-shopping-searches": {
+    "ts": "2026-10-09T15:59:39.378706+00:00",
+    "title": "ASOS breach update: Hackers stole customer details and shopping searches"
+  },
+  "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-a-collection-of-what-can-only-be-called-eclectic-modules": {
+    "ts": "2026-10-09T15:59:39.434669+00:00",
+    "title": "Metasploit Wrap Up: A Collection of What Can Only Be Called Eclectic Modules"
+  },
+  "https://www.recordedfuture.com/blog/ai-infrastructure-indicator-lists": {
+    "ts": "2026-10-09T15:59:39.490239+00:00",
+    "title": "Recorded Future Introduces AI Infrastructure Indicator Lists, Strengthening AI Governance"
+  },
+  "https://securityaffairs.com/200685/ai/claude-helps-secure-open-source-as-anthropic-offers-free-vulnerability-scanning.html": {
+    "ts": "2026-10-09T15:59:39.547455+00:00",
+    "title": "Claude Helps Secure Open Source as Anthropic Offers Free Vulnerability Scanning"
+  },
+  "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/": {
+    "ts": "2026-10-09T15:59:39.604289+00:00",
+    "title": "In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years"
+  },
+  "https://www.sekoia.com/blog/ai-moves-faster-but-humans-are-setting-the-course": {
+    "ts": "2026-10-09T15:59:39.604300+00:00",
+    "title": "AI And Cybersecurity: An Interview With Cyril Simonnet"
+  },
+  "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html": {
+    "ts": "2026-10-09T15:59:39.604304+00:00",
+    "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties"
+  },
+  "https://www.theregister.com/security/2026/10/09/citrix-gives-netscaler-admins-another-critical-reason-to-patch/5302212": {
+    "ts": "2026-10-09T15:59:39.604307+00:00",
+    "title": "Citrix gives NetScaler admins another critical reason to patch"
+  },
+  "https://threatmon.io/easm-vs-penetration-testing-why-continuous-asset-visibility-matters/": {
+    "ts": "2026-10-09T15:59:39.604310+00:00",
+    "title": "EASM vs Penetration Testing: Why Continuous Asset Visibility Matters"
+  },
+  "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/": {
+    "ts": "2026-10-09T15:59:39.661422+00:00",
+    "title": "How to keep AI agents within their permissions"
+  },
+  "https://cybersecuritynews.com/autonomous-ai-agents-2/": {
+    "ts": "2026-10-09T15:59:39.717450+00:00",
+    "title": "Cisco Talos Warns Autonomous AI Agents Could Turn Pentests Into Stealthy Red Team Attacks"
+  },
+  "https://gbhackers.com/castlestealer-malware/": {
+    "ts": "2026-10-09T15:59:39.772700+00:00",
+    "title": "CastleStealer Malware Bypasses Chromium ABE and Adds Remote Command Execution Capabilities"
+  },
+  "https://www.helpnetsecurity.com/2026/10/09/anthropic-oss-scanner-ai-security-scans/": {
+    "ts": "2026-10-09T15:59:39.828336+00:00",
+    "title": "Anthropic offers free AI security scans to open-source maintainers"
+  },
+  "https://securityaffairs.com/200673/security/us-disrupts-china-linked-integrity-tech-cyber-espionage-tools.html": {
+    "ts": "2026-10-09T15:59:39.886052+00:00",
+    "title": "US Disrupts China-Linked Integrity Tech \u2018s Cyber Espionage Tools"
+  },
+  "https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/": {
+    "ts": "2026-10-09T15:59:39.944029+00:00",
+    "title": "Google Domains Impacted by Recent ccTLD Hijacks"
+  },
+  "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html": {
+    "ts": "2026-10-09T15:59:40.000264+00:00",
+    "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access"
+  },
+  "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/": {
+    "ts": "2026-10-09T15:59:40.056137+00:00",
+    "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks"
+  },
+  "https://cybersecuritynews.com/hackers-abuse-trusted-terraform-workflows/": {
+    "ts": "2026-10-09T15:59:40.111946+00:00",
+    "title": "Hackers Abuse Trusted Terraform Workflows to Infect Developer Systems With Cross-Platform Malware"
+  },
+  "https://gbhackers.com/ai-agent-swarms/": {
+    "ts": "2026-10-09T15:59:40.111959+00:00",
+    "title": "Cisco Talos Warns AI Agent Swarms Can Compress Cyberattacks From Months to Hours"
+  },
+  "https://www.helpnetsecurity.com/2026/10/09/fbi-flax-typhoon-microscan-fishhub-domains/": {
+    "ts": "2026-10-09T15:59:40.167039+00:00",
+    "title": "FBI disrupts Flax Typhoon hacking tools used in global cyberattacks"
+  },
+  "https://securityaffairs.com/200670/security/cve-2026-107406-citrix-fixes-critical-netscaler-adc-and-gateway-vulnerability.html": {
+    "ts": "2026-10-09T15:59:40.222052+00:00",
+    "title": "CVE-2026-107406: Citrix Fixes Critical NetScaler ADC and Gateway Vulnerability"
+  },
+  "https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/": {
+    "ts": "2026-10-09T15:59:40.276527+00:00",
+    "title": "Unpatched AhsayCBS Vulnerabilities Exploited in the Wild"
+  },
+  "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html": {
+    "ts": "2026-10-09T15:59:40.333186+00:00",
+    "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects"
+  },
+  "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/": {
+    "ts": "2026-10-09T15:59:40.388885+00:00",
+    "title": "Man admits to running network of 15,000 money mules for cybercriminals"
   }
 }
