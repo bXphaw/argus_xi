@@ -39,6 +39,56 @@
       "category": "malware_windows",
       "title": "Hackers Abuse Trusted Terraform Workflows to Infect Developer Systems With Cross-Platform Malware",
       "url": "https://cybersecuritynews.com/hackers-abuse-trusted-terraform-workflows/"
+    },
+    {
+      "category": "malware_macos",
+      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/"
+    },
+    {
+      "category": "new_technique",
+      "title": "AnyDesk Linux Flaw Lets Remote Attackers Execute Code as Root Without Authentication",
+      "url": "https://cybersecuritynews.com/anydesk-linux-vulnerability/"
+    },
+    {
+      "category": "malware_android",
+      "title": "Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries",
+      "url": "https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "MATCHBOIL Malware Adds Sandbox Checks, .NET Reactor Obfuscation and Persistent C2",
+      "url": "https://gbhackers.com/matchboil-malware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "AI-Driven tool ARTEX used in attacks against South Korean Banks",
+      "url": "https://securityaffairs.com/200661/hacking/ai-driven-tool-artex-used-in-attacks-against-south-korean-banks.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "MATCHBOIL Malware Uses Cloudflare-Hidden C2 Servers to Deliver Backdoor Payloads",
+      "url": "https://cybersecuritynews.com/matchboil-malware/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
+      "url": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "PoC Released for Telegram Desktop Flaw Enabling One-Click File Account Takeover",
+      "url": "https://cybersecuritynews.com/poc-released-for-telegram-desktop-flaw/"
+    },
+    {
+      "category": "new_technique",
+      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
+      "url": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
+      "url": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html"
     }
   ],
   "last_sent_date": "2026-10-09"

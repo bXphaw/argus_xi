@@ -19378,5 +19378,125 @@
   "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/": {
     "ts": "2026-10-09T15:59:40.388885+00:00",
     "title": "Man admits to running network of 15,000 money mules for cybercriminals"
+  },
+  "https://gbhackers.com/terraform-supply-chain/": {
+    "ts": "2026-10-09T20:45:24.647583+00:00",
+    "title": "Suspected TraderTraitor Hackers Trojanize Terraform Provider to Deploy Cross-Platform Malware"
+  },
+  "https://www.morphisec.com/blog/vulcanrat207-a_intrusion-chain_explained/": {
+    "ts": "2026-10-09T20:45:25.463067+00:00",
+    "title": "From WhatsApp to SYSTEM: Inside the VulcanRAT207.A Intrusion Chain"
+  },
+  "https://securityaffairs.com/200695/uncategorized/germany-arrests-suspected-qilin-ransomware-leader-after-japan-detention.html": {
+    "ts": "2026-10-09T20:45:25.506626+00:00",
+    "title": "Germany Arrests Suspected Qilin Ransomware Leader After Japan Detention"
+  },
+  "https://cybersecuritynews.com/best-container-image-scanning-tools/": {
+    "ts": "2026-10-09T20:45:42.570741+00:00",
+    "title": "Top 10 Best Container Image Scanning Tools in 2026 [Ranked & Scored]"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/": {
+    "ts": "2026-10-09T20:47:07.055096+00:00",
+    "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks"
+  },
+  "https://cybersecuritynews.com/anydesk-linux-vulnerability/": {
+    "ts": "2026-10-09T20:47:07.278455+00:00",
+    "title": "AnyDesk Linux Flaw Lets Remote Attackers Execute Code as Root Without Authentication"
+  },
+  "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom": {
+    "ts": "2026-10-09T20:47:07.278474+00:00",
+    "title": "AI Scramble Drives Cybersecurity M&amp;A Boom"
+  },
+  "https://www.helpnetsecurity.com/2026/10/09/product-showcase-simplelogin/": {
+    "ts": "2026-10-09T20:47:07.278478+00:00",
+    "title": "Product showcase: SimpleLogin keeps your email address private with aliases"
+  },
+  "https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/": {
+    "ts": "2026-10-09T20:47:07.505255+00:00",
+    "title": "Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries"
+  },
+  "https://thehackernews.com/2026/10/credential-stealing-github-actions.html": {
+    "ts": "2026-10-09T20:47:07.743019+00:00",
+    "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories"
+  },
+  "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436": {
+    "ts": "2026-10-09T20:47:07.976958+00:00",
+    "title": "AWS AgentCore security undone by prompt requesting credentials"
+  },
+  "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/": {
+    "ts": "2026-10-09T20:47:08.198683+00:00",
+    "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto"
+  },
+  "https://cybersecuritynews.com/ghostaction-github-repo-attack/": {
+    "ts": "2026-10-09T20:47:08.432507+00:00",
+    "title": "New GhostAction Attack Compromises Hundreds of GitHub Repos to Steal Secrets"
+  },
+  "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack": {
+    "ts": "2026-10-09T20:47:08.664750+00:00",
+    "title": "What We Missed: FBI Strikes Back at ShinyHunters"
+  },
+  "https://gbhackers.com/matchboil-malware/": {
+    "ts": "2026-10-09T20:47:08.884894+00:00",
+    "title": "MATCHBOIL Malware Adds Sandbox Checks, .NET Reactor Obfuscation and Persistent C2"
+  },
+  "https://securityaffairs.com/200661/hacking/ai-driven-tool-artex-used-in-attacks-against-south-korean-banks.html": {
+    "ts": "2026-10-09T20:47:09.107780+00:00",
+    "title": "AI-Driven tool ARTEX used in attacks against South Korean Banks"
+  },
+  "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html": {
+    "ts": "2026-10-09T20:47:09.107800+00:00",
+    "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/": {
+    "ts": "2026-10-09T20:47:09.107804+00:00",
+    "title": "FBI arrests another suspected ShinyHunters hacker after agency breach"
+  },
+  "https://cybersecuritynews.com/agentic-ai-red-team-checklist/": {
+    "ts": "2026-10-09T20:47:09.107807+00:00",
+    "title": "New Agentic AI Red Team Checklist Adds 222 Tests Across 20 Attack Categories"
+  },
+  "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too": {
+    "ts": "2026-10-09T20:47:09.340167+00:00",
+    "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too"
+  },
+  "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html": {
+    "ts": "2026-10-09T20:47:09.577494+00:00",
+    "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/": {
+    "ts": "2026-10-09T20:47:09.808752+00:00",
+    "title": "Microsoft: Outdated Windows devices will stop receiving security updates"
+  },
+  "https://cybersecuritynews.com/warden-stealer/": {
+    "ts": "2026-10-09T20:47:10.037497+00:00",
+    "title": "Warden Stealer Spreads Through ClickFix, Malvertising, Cracked Software and Game Cheats"
+  },
+  "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html": {
+    "ts": "2026-10-09T20:47:10.258476+00:00",
+    "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge"
+  },
+  "https://cybersecuritynews.com/matchboil-malware/": {
+    "ts": "2026-10-09T20:47:10.481974+00:00",
+    "title": "MATCHBOIL Malware Uses Cloudflare-Hidden C2 Servers to Deliver Backdoor Payloads"
+  },
+  "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html": {
+    "ts": "2026-10-09T20:47:10.711834+00:00",
+    "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies"
+  },
+  "https://cybersecuritynews.com/poc-released-for-telegram-desktop-flaw/": {
+    "ts": "2026-10-09T20:47:10.940017+00:00",
+    "title": "PoC Released for Telegram Desktop Flaw Enabling One-Click File Account Takeover"
+  },
+  "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html": {
+    "ts": "2026-10-09T20:47:10.940034+00:00",
+    "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition"
+  },
+  "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html": {
+    "ts": "2026-10-09T20:47:11.163191+00:00",
+    "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys"
+  },
+  "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html": {
+    "ts": "2026-10-09T20:47:11.384783+00:00",
+    "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own"
   }
 }
