@@ -19138,5 +19138,125 @@
   "https://www.securityweek.com/fortibleed-attackers-locking-victims-out-of-fortinet-devices/": {
     "ts": "2026-10-09T01:52:58.733621+00:00",
     "title": "FortiBleed Attackers Locking Victims Out of Fortinet Devices"
+  },
+  "https://gbhackers.com/best-api-security-compared/": {
+    "ts": "2026-10-09T08:41:15.234631+00:00",
+    "title": "11 Best API Security Tools Compared (2026): Features & Pricing"
+  },
+  "https://cybersecuritynews.com/best-iac-security-tools/": {
+    "ts": "2026-10-09T08:41:17.428182+00:00",
+    "title": "Top 10 Best IaC Security Tools in 2026 [Ranked & Scored]"
+  },
+  "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/": {
+    "ts": "2026-10-09T08:43:19.581702+00:00",
+    "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately"
+  },
+  "https://cybersecuritynews.com/best-bug-bounty-platforms/": {
+    "ts": "2026-10-09T08:43:19.581719+00:00",
+    "title": "Top 10 Best Bug Bounty Platforms in 2026 [Ranked & Scored]"
+  },
+  "https://gbhackers.com/best-supply-chain-security-compared/": {
+    "ts": "2026-10-09T08:43:19.581724+00:00",
+    "title": "12 Best Software Supply Chain Security Tools Compared (2026): Features & Pricing"
+  },
+  "https://www.group-ib.com/blog/agentic-ai-cybersecurity-next-step/": {
+    "ts": "2026-10-09T08:43:19.581727+00:00",
+    "title": "Agentic AI In Cybersecurity: What Changes When The System Chooses The Next Step"
+  },
+  "https://www.helpnetsecurity.com/2026/10/09/october-2026-patch-tuesday-forecast/": {
+    "ts": "2026-10-09T08:43:19.581730+00:00",
+    "title": "October 2026 Patch Tuesday forecast: Time for an Office cleanup"
+  },
+  "https://moonlock.com/robinhood-scam": {
+    "ts": "2026-10-09T08:43:19.630305+00:00",
+    "title": "How Robinhood scams can lead to account takeovers and stolen money"
+  },
+  "https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/": {
+    "ts": "2026-10-09T08:43:19.676893+00:00",
+    "title": "US Disrupts Chinese State-Sponsored Hacking Tools"
+  },
+  "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html": {
+    "ts": "2026-10-09T08:43:19.722208+00:00",
+    "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions"
+  },
+  "https://www.welivesecurity.com/en/eset-research/matchboil-new-tricks-same-old-evil-intentions/": {
+    "ts": "2026-10-09T08:43:19.771748+00:00",
+    "title": "MATCHBOIL: New tricks, same old evil intentions"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/": {
+    "ts": "2026-10-09T08:43:19.816127+00:00",
+    "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland"
+  },
+  "https://cybersecuritynews.com/lets-encrypt-tls-certificate-lifetime-64-days/": {
+    "ts": "2026-10-09T08:43:19.816143+00:00",
+    "title": "Let\u2019s Encrypt Cuts TLS Certificate Lifetimes From 90 to 64 Days Starting February 2027"
+  },
+  "https://www.helpnetsecurity.com/2026/10/09/christiaan-beek-rapid7-bpfdoor-backdoor/": {
+    "ts": "2026-10-09T08:43:19.861069+00:00",
+    "title": "What the BPFDoor backdoor tells us about attacks on the network edge"
+  },
+  "https://moonlock.com/macos-backdoor-cloudsyncd": {
+    "ts": "2026-10-09T08:43:19.906064+00:00",
+    "title": "New macOS backdoor CloudSyncD is hiding in a fake Zoom installer"
+  },
+  "https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/": {
+    "ts": "2026-10-09T08:43:19.906081+00:00",
+    "title": "Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security"
+  },
+  "https://gbhackers.com/fbi-disrupts-major-scam-centers-in-ghana/": {
+    "ts": "2026-10-09T08:43:19.906085+00:00",
+    "title": "FBI Disrupts Major Scam Centers in Ghana, 130+ Detained and 300+ Devices Seized"
+  },
+  "https://www.helpnetsecurity.com/2026/10/09/eu-renewable-energy-cybersecurity/": {
+    "ts": "2026-10-09T08:43:19.951143+00:00",
+    "title": "Thousands of wind and solar park systems sit exposed on the internet across Europe"
+  },
+  "https://moonlock.com/q3-malware-report-infostealers-trojans": {
+    "ts": "2026-10-09T08:43:19.995539+00:00",
+    "title": "Q3 data shows infostealers and trojans now dominate Mac malware"
+  },
+  "https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/": {
+    "ts": "2026-10-09T08:43:20.039364+00:00",
+    "title": "Citrix Urges Immediate Patching of Critical NetScaler Vulnerability"
+  },
+  "https://cybersecuritynews.com/post-quantum-authentication/": {
+    "ts": "2026-10-09T08:43:20.084205+00:00",
+    "title": "Microsoft Says PKI, HSMs and Security Appliances Must Prepare for Post-Quantum Authentication"
+  },
+  "https://gbhackers.com/warden-stealer-malware/": {
+    "ts": "2026-10-09T08:43:20.129301+00:00",
+    "title": "Warden Stealer Malware Targets Claude, Codex, Grok and Cursor to Steal AI Agent Data"
+  },
+  "https://www.helpnetsecurity.com/2026/10/09/pci-ssc-payment-environments-ai-security-guidance/": {
+    "ts": "2026-10-09T08:43:20.129317+00:00",
+    "title": "PCI SSC calls for human approval of AI agent actions involving cardholder data"
+  },
+  "https://moonlock.com/pamstealer-expands-older-intel-macs": {
+    "ts": "2026-10-09T08:43:20.175300+00:00",
+    "title": "PamStealer expands from Apple Silicon to Intel Macs"
+  },
+  "https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/": {
+    "ts": "2026-10-09T08:43:20.175319+00:00",
+    "title": "Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own"
+  },
+  "https://cybersecuritynews.com/virustotal-adds-daily-internet-scanning/": {
+    "ts": "2026-10-09T08:43:20.175323+00:00",
+    "title": "VirusTotal Adds Scanning for Public IPv4 Space to Expose C2 Servers and Malware Infrastructure"
+  },
+  "https://gbhackers.com/hackers-target-hikvision-cameras-in-ukraine/": {
+    "ts": "2026-10-09T08:43:20.175327+00:00",
+    "title": "Hackers Target Hikvision Cameras in Ukraine With RCE Exploits Amid Russian Airstrikes"
+  },
+  "https://www.helpnetsecurity.com/2026/10/09/move-toward-autonomous-it-operations/": {
+    "ts": "2026-10-09T08:43:20.219582+00:00",
+    "title": "Companies want autonomous IT operations but hesitate to let AI act alone"
+  },
+  "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/": {
+    "ts": "2026-10-09T08:43:20.266016+00:00",
+    "title": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad"
+  },
+  "https://cybersecuritynews.com/leaked-chat-logs-show-silent-ransomware-extorted/": {
+    "ts": "2026-10-09T08:43:20.311615+00:00",
+    "title": "Leaked Chat Logs Show Silent Ransomware Extorted Over $200,000,000 in 6 Months Without Encrypting Data"
   }
 }
