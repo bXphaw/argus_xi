@@ -19058,5 +19058,85 @@
   "https://gbhackers.com/exposed-darksword-ios-servers/": {
     "ts": "2026-10-08T21:13:01.568555+00:00",
     "title": "Exposed DarkSword iOS Servers Reveal Crypto Wallet Theft From Compromised iPhones"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/": {
+    "ts": "2026-10-09T01:52:56.410160+00:00",
+    "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure"
+  },
+  "https://www.helpnetsecurity.com/2026/10/08/matchboil-malware-uac-0099/": {
+    "ts": "2026-10-09T01:52:56.602287+00:00",
+    "title": "What is MATCHBOIL? The Russia-aligned malware that installs a spying backdoor"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/": {
+    "ts": "2026-10-09T01:52:56.602304+00:00",
+    "title": "Post-quantum authentication: Why organizations should start testing certificate ecosystems now"
+  },
+  "https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/": {
+    "ts": "2026-10-09T01:52:56.602308+00:00",
+    "title": "SonicWall and Splunk Patch Critical Vulnerabilities"
+  },
+  "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html": {
+    "ts": "2026-10-09T01:52:56.602312+00:00",
+    "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks"
+  },
+  "https://www.theregister.com/security/2026/10/08/us-disrupts-chinese-hacking-tools-as-7-govts-warn-of-prc-spies-stealing-sensitive-data-worldwide/5302107": {
+    "ts": "2026-10-09T01:52:56.794350+00:00",
+    "title": "US disrupts Chinese hacking tools as 7 govts warn of PRC spies stealing sensitive data worldwide"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/": {
+    "ts": "2026-10-09T01:52:56.987752+00:00",
+    "title": "Cisco warns of critical flaws allowing Nexus switch takeover"
+  },
+  "https://www.helpnetsecurity.com/2026/10/08/monstercloud-owner-ransomware-fraud-charges/": {
+    "ts": "2026-10-09T01:52:57.183172+00:00",
+    "title": "Ransomware recovery firm boss charged with secretly paying attackers and overcharging victims"
+  },
+  "https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/": {
+    "ts": "2026-10-09T01:52:57.376496+00:00",
+    "title": "Rein Security Raises $25 Million to Guard AI Agents at Runtime"
+  },
+  "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html": {
+    "ts": "2026-10-09T01:52:57.569305+00:00",
+    "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML"
+  },
+  "https://www.theregister.com/security/2026/10/08/cheapskates-wouldnt-pay-for-security-help-got-hit-by-ransomware-and-went-bust-months-later/5301757": {
+    "ts": "2026-10-09T01:52:57.569322+00:00",
+    "title": "Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later"
+  },
+  "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/": {
+    "ts": "2026-10-09T01:52:57.569326+00:00",
+    "title": "ASOS links data breach to social engineering attack, credential theft"
+  },
+  "https://www.securityweek.com/tp-link-faces-state-lawsuits-and-new-scrutiny-over-isp-router-flaws/": {
+    "ts": "2026-10-09T01:52:57.569329+00:00",
+    "title": "TP-Link Faces State Lawsuits and New Scrutiny Over ISP Router Flaws"
+  },
+  "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html": {
+    "ts": "2026-10-09T01:52:57.759812+00:00",
+    "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms"
+  },
+  "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/": {
+    "ts": "2026-10-09T01:52:57.759830+00:00",
+    "title": "Owner of Empire cybercrime market gets 40 years in prison"
+  },
+  "https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/": {
+    "ts": "2026-10-09T01:52:57.950116+00:00",
+    "title": "Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme"
+  },
+  "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html": {
+    "ts": "2026-10-09T01:52:58.142514+00:00",
+    "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks"
+  },
+  "https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/": {
+    "ts": "2026-10-09T01:52:58.341495+00:00",
+    "title": "Oracle Health Data Breach Tally Climbs to Nearly 20 Million"
+  },
+  "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html": {
+    "ts": "2026-10-09T01:52:58.534511+00:00",
+    "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data"
+  },
+  "https://www.securityweek.com/fortibleed-attackers-locking-victims-out-of-fortinet-devices/": {
+    "ts": "2026-10-09T01:52:58.733621+00:00",
+    "title": "FortiBleed Attackers Locking Victims Out of Fortinet Devices"
   }
 }

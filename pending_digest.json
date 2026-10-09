@@ -69,6 +69,21 @@
       "category": "threat_actor",
       "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
       "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "What is MATCHBOIL? The Russia-aligned malware that installs a spying backdoor",
+      "url": "https://www.helpnetsecurity.com/2026/10/08/matchboil-malware-uac-0099/"
+    },
+    {
+      "category": "new_technique",
+      "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+      "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
     }
   ],
   "last_sent_date": "2026-10-08"
