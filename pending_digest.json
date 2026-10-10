@@ -89,6 +89,11 @@
       "category": "new_technique",
       "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
       "url": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/"
     }
   ],
   "last_sent_date": "2026-10-09"

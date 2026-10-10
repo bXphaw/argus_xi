@@ -19498,5 +19498,21 @@
   "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html": {
     "ts": "2026-10-09T20:47:11.384783+00:00",
     "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas": {
+    "ts": "2026-10-10T00:36:04.205885+00:00",
+    "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS"
+  },
+  "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/": {
+    "ts": "2026-10-10T00:36:04.369362+00:00",
+    "title": "FBI Arrests Founder of Ransomware Negotiation Firm"
+  },
+  "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/": {
+    "ts": "2026-10-10T00:36:04.369403+00:00",
+    "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks"
+  },
+  "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html": {
+    "ts": "2026-10-10T00:36:04.369409+00:00",
+    "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments"
   }
 }
