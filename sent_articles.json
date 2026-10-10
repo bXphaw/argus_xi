@@ -19514,5 +19514,13 @@
   "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html": {
     "ts": "2026-10-10T00:36:04.369409+00:00",
     "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments"
+  },
+  "https://cybersecuritynews.com/teams-qr-code-protection/": {
+    "ts": "2026-10-10T06:49:28.176774+00:00",
+    "title": "Microsoft Teams to Warn Users About Malicious Links Hidden in QR Codes"
+  },
+  "https://cybersecuritynews.com/att-to-pay-177-million/": {
+    "ts": "2026-10-10T06:49:28.176791+00:00",
+    "title": "AT&T to Pay $177 Million After Two Massive Customer Data Breaches"
   }
 }
