@@ -19522,5 +19522,41 @@
   "https://cybersecuritynews.com/att-to-pay-177-million/": {
     "ts": "2026-10-10T06:49:28.176791+00:00",
     "title": "AT&T to Pay $177 Million After Two Massive Customer Data Breaches"
+  },
+  "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/": {
+    "ts": "2026-10-10T13:25:52.494340+00:00",
+    "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management"
+  },
+  "https://securityaffairs.com/200704/cyber-crime/us-sentences-empire-market-co-creator-over-430-million-criminal-marketplace.html": {
+    "ts": "2026-10-10T13:25:52.494361+00:00",
+    "title": "US Sentences Empire Market Co-Creator Over $430 Million Criminal Marketplace"
+  },
+  "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/": {
+    "ts": "2026-10-10T13:25:52.494365+00:00",
+    "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison"
+  },
+  "https://socradar.io/blog/critical-cisco-nx-os-nexus-switches/": {
+    "ts": "2026-10-10T13:25:52.494368+00:00",
+    "title": "Critical Cisco NX-OS Flaws Threaten Nexus Switches"
+  },
+  "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html": {
+    "ts": "2026-10-10T13:25:52.494371+00:00",
+    "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't"
+  },
+  "https://www.theregister.com/security/2026/10/10/two-characters-open-up-a-world-of-typosquatting-opportunities-in-chromium-browsers/5302383": {
+    "ts": "2026-10-10T13:25:52.652686+00:00",
+    "title": "Two characters open up a world of typosquatting opportunities in Chromium browsers"
+  },
+  "https://socradar.io/blog/socradar-freshdesk-integration/": {
+    "ts": "2026-10-10T13:25:52.747812+00:00",
+    "title": "SOCRadar Freshdesk Integration: Track and Resolve Security Incidents as Tickets"
+  },
+  "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html": {
+    "ts": "2026-10-10T13:25:52.842182+00:00",
+    "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws"
+  },
+  "https://socradar.io/blog/cve-2026-21589-atlassian-file-access/": {
+    "ts": "2026-10-10T13:25:52.936773+00:00",
+    "title": "CVE-2026-21589: Critical Atlassian File Access"
   }
 }
