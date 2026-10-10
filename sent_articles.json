@@ -19570,5 +19570,9 @@
   "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/": {
     "ts": "2026-10-10T18:19:56.765204+00:00",
     "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks"
+  },
+  "https://securityaffairs.com/200726/ai/anthropic-restricts-live-internet-access-after-claude-evaluation-failures.html": {
+    "ts": "2026-10-10T22:20:12.739012+00:00",
+    "title": "Anthropic Restricts Live Internet Access After Claude Evaluation Failures"
   }
 }
