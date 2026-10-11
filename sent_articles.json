@@ -19618,5 +19618,25 @@
   "https://gbhackers.com/aws-bedrock-agentcore-flaw-allowed-attackers/": {
     "ts": "2026-10-11T08:31:13.016326+00:00",
     "title": "AWS Bedrock AgentCore Flaw Allowed Attackers to Hijack AI Agents Using a Single Prompt"
+  },
+  "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/": {
+    "ts": "2026-10-11T15:27:14.387501+00:00",
+    "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records"
+  },
+  "https://securityaffairs.com/200759/malware/bitdefender-finds-preinstalled-android-malware-you-cant-uninstall-seen-in-150-countries.html": {
+    "ts": "2026-10-11T15:27:14.437468+00:00",
+    "title": "Bitdefender finds preinstalled Android malware you can\u2019t uninstall, seen in 150 countries"
+  },
+  "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450": {
+    "ts": "2026-10-11T15:27:14.483024+00:00",
+    "title": "AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready"
+  },
+  "https://securityaffairs.com/200752/breaking-news/security-affairs-newsletter-round-599-by-pierluigi-paganini-international-edition.html": {
+    "ts": "2026-10-11T15:27:14.483034+00:00",
+    "title": "Security Affairs newsletter Round 599 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION"
+  },
+  "https://securityaffairs.com/200734/security/u-s-cisa-adds-proftpd-onlyoffice-docs-strapi-apache-struts-and-isc-bind-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-10-11T15:27:14.483038+00:00",
+    "title": "U.S. CISA adds ProFTPD, ONLYOFFICE Docs, Strapi, Apache Struts, and ISC BIND flaws to its Known Exploited Vulnerabilities catalog"
   }
 }
