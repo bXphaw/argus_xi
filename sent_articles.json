@@ -19638,5 +19638,17 @@
   "https://securityaffairs.com/200734/security/u-s-cisa-adds-proftpd-onlyoffice-docs-strapi-apache-struts-and-isc-bind-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
     "ts": "2026-10-11T15:27:14.483038+00:00",
     "title": "U.S. CISA adds ProFTPD, ONLYOFFICE Docs, Strapi, Apache Struts, and ISC BIND flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://securityaffairs.com/200775/breaking-news/security-affairs-malware-newsletter-round-118.html": {
+    "ts": "2026-10-11T20:02:52.960360+00:00",
+    "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 118"
+  },
+  "https://cybersecuritynews.com/claude-exploited-software-flaws/": {
+    "ts": "2026-10-11T20:02:53.440949+00:00",
+    "title": "Claude Exploited SQL Injection Flaws to Execute Commands on Real Servers"
+  },
+  "https://securityaffairs.com/200794/ai/security-affairs-ai-cybersecurity-newsletter-round-3.html": {
+    "ts": "2026-10-11T20:02:53.440965+00:00",
+    "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 3"
   }
 }
