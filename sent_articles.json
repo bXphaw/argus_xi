@@ -19574,5 +19574,49 @@
   "https://securityaffairs.com/200726/ai/anthropic-restricts-live-internet-access-after-claude-evaluation-failures.html": {
     "ts": "2026-10-10T22:20:12.739012+00:00",
     "title": "Anthropic Restricts Live Internet Access After Claude Evaluation Failures"
+  },
+  "https://cybersecuritynews.com/best-protected-website-builder/": {
+    "ts": "2026-10-11T08:31:11.135827+00:00",
+    "title": "The Best Protected Website Builder in 2027: Which Platform Keeps Your Site Truly Safe [Ranked & Scored]"
+  },
+  "https://gbhackers.com/ghostaction-hackers-compromise-500-github-accounts-to-steal-cloud-and-ai-api-credentials/": {
+    "ts": "2026-10-11T08:31:11.375390+00:00",
+    "title": "GhostAction Hackers Compromise 500+ GitHub Accounts to Steal Cloud and AI API Credentials"
+  },
+  "https://www.helpnetsecurity.com/2026/10/11/week-in-review-fortibleed-is-still-active-patch-tuesday-forecast/": {
+    "ts": "2026-10-11T08:31:11.562013+00:00",
+    "title": "Week in review: FortiBleed is still active, Patch Tuesday forecast"
+  },
+  "https://cybersecuritynews.com/palo-alto-globalprotect-flaw-vpn-access/": {
+    "ts": "2026-10-11T08:31:11.745551+00:00",
+    "title": "Ransomware Actors Exploiting Palo Alto GlobalProtect Flaw for Stealthy VPN Access"
+  },
+  "https://gbhackers.com/iranian-vpn-over-dns-activity-generates-40-billion/": {
+    "ts": "2026-10-11T08:31:11.923871+00:00",
+    "title": "Iranian VPN-over-DNS Activity Generates 40 Billion DNS Observations During Military Conflict"
+  },
+  "https://cybersecuritynews.com/reverse-engineer-anything-tool/": {
+    "ts": "2026-10-11T08:31:12.108169+00:00",
+    "title": "REA Tool Connects Claude Code and Cursor to Ghidra and IDA Pro to Reverse Engineer Anything"
+  },
+  "https://gbhackers.com/darkblinders-hackers-use-fake-meeting-app/": {
+    "ts": "2026-10-11T08:31:12.285101+00:00",
+    "title": "DarkBlinders Hackers Use Fake Meeting App to Deploy Backdoor and Steal Government Data"
+  },
+  "https://cybersecuritynews.com/agentcorruption-attack/": {
+    "ts": "2026-10-11T08:31:12.461466+00:00",
+    "title": "One Prompt Could Hijack AWS AI Agents and Steal Cloud Credentials"
+  },
+  "https://gbhackers.com/two-ahsaycbs-zero-day-vulnerabilities/": {
+    "ts": "2026-10-11T08:31:12.650358+00:00",
+    "title": "Two AhsayCBS Zero-Day Vulnerabilities Actively Exploited to Take Over Backup Servers"
+  },
+  "https://gbhackers.com/hackers-use-ai-agents-and-godpotato-exploit/": {
+    "ts": "2026-10-11T08:31:12.834678+00:00",
+    "title": "Hackers Use AI Agents and GodPotato Exploit to Gain Windows SYSTEM Privileges"
+  },
+  "https://gbhackers.com/aws-bedrock-agentcore-flaw-allowed-attackers/": {
+    "ts": "2026-10-11T08:31:13.016326+00:00",
+    "title": "AWS Bedrock AgentCore Flaw Allowed Attackers to Hijack AI Agents Using a Single Prompt"
   }
 }
