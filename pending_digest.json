@@ -1,4 +1,45 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "From Endpoint to Funhouse: Evolution of Ransomware Families and Kimsuky-Linked Distribution Cases",
+      "url": "https://asec.ahnlab.com/en/95775/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "12th October \u2013 Threat Intelligence Report",
+      "url": "https://research.checkpoint.com/2026/12th-october-threat-intelligence-report/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Introducing Sekoia Digital Risk: Track Identity-Led Breaches",
+      "url": "https://www.sekoia.com/blog/with-sekoia-intelligence-we-gave-you-half-the-picture-heres-the-other-half"
+    },
+    {
+      "category": "malware_ios",
+      "title": "\u26a1 Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Cyberattack shuts down refrigerators at French supermarkets",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "CyberXero Used 51 AI Agents to Steal 628,000 Ukrainian Records",
+      "url": "https://securityaffairs.com/200803/cyber-crime/cyberxero-used-51-ai-agents-to-steal-628000-ukrainian-records.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
+      "url": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/"
+    }
+  ],
   "last_sent_date": "2026-10-12"
 }
