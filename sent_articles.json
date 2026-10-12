@@ -19650,5 +19650,81 @@
   "https://securityaffairs.com/200794/ai/security-affairs-ai-cybersecurity-newsletter-round-3.html": {
     "ts": "2026-10-11T20:02:53.440965+00:00",
     "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 3"
+  },
+  "https://asec.ahnlab.com/en/95769/": {
+    "ts": "2026-10-12T07:05:52.409202+00:00",
+    "title": "September 2026 Dark Web Issue Trend Report"
+  },
+  "https://asec.ahnlab.com/en/95770/": {
+    "ts": "2026-10-12T07:05:55.029577+00:00",
+    "title": "September 2026 Dark Web Threat Actor Trend Report"
+  },
+  "https://gbhackers.com/claude-ai-exploits-sql-and-command-injection-flaws/": {
+    "ts": "2026-10-12T07:06:02.510110+00:00",
+    "title": "Claude AI Exploits SQL and Command Injection Flaws to Execute Commands on Third-Party Servers"
+  },
+  "https://asec.ahnlab.com/en/95764/": {
+    "ts": "2026-10-12T07:07:09.145897+00:00",
+    "title": "September 2026 Dark Web Breach Incident Trend Report"
+  },
+  "https://cybersecuritynews.com/discourse-image-pipeline-exploit/": {
+    "ts": "2026-10-12T07:07:09.214514+00:00",
+    "title": "Discourse Image Pipeline Exploit Chains JPEG Race, GhostScript and ImageMagick for File Read"
+  },
+  "https://gbhackers.com/ai-generated-event-lures/": {
+    "ts": "2026-10-12T07:07:09.256333+00:00",
+    "title": "Hackers Use AI-Generated Event Lures to Steal Google Accounts and Bypass MFA"
+  },
+  "https://www.helpnetsecurity.com/2026/10/12/akshay-joshi-wef-cyber-resilience-gap/": {
+    "ts": "2026-10-12T07:07:09.256348+00:00",
+    "title": "Geopolitics and the cyber resilience gap belong in your threat model"
+  },
+  "https://securityaffairs.com/200780/cyber-crime/gta-6-leaker-demands-30m-meme-coin-market-cap-to-release-full-game.html": {
+    "ts": "2026-10-12T07:07:09.256353+00:00",
+    "title": "GTA 6 Leaker Demands $30M Meme Coin Market Cap to Release Full Game"
+  },
+  "https://cybersecuritynews.com/nvidia-dcgm-exporter-bug-exposes/": {
+    "ts": "2026-10-12T07:07:09.297149+00:00",
+    "title": "NVIDIA DCGM Exporter Bug Exposes GPU Servers to Resource Exhaustion Attacks"
+  },
+  "https://gbhackers.com/casbaneiro-banking-trojan-2/": {
+    "ts": "2026-10-12T07:07:09.338785+00:00",
+    "title": "Casbaneiro Banking Trojan Activates Only When Victims Visit Targeted Bank Websites"
+  },
+  "https://www.helpnetsecurity.com/2026/10/12/aws-strands-box-open-source-ai-agent-sandbox/": {
+    "ts": "2026-10-12T07:07:09.338801+00:00",
+    "title": "Strands Box: Open-source sandbox for AI agents"
+  },
+  "https://cybersecuritynews.com/admin-password-danish-data-breach/": {
+    "ts": "2026-10-12T07:07:09.338805+00:00",
+    "title": "Admin Password \u201c123456\u201d Led to 8.8 Million Danish CPR Data Breach"
+  },
+  "https://gbhackers.com/microsoft-teams-adds-new-security-feature-to-detect-malicious-qr-codes/": {
+    "ts": "2026-10-12T07:07:09.338809+00:00",
+    "title": "Microsoft Teams Adds New Security Feature to Detect Malicious QR Codes in Messages"
+  },
+  "https://www.helpnetsecurity.com/2026/10/12/ai-vulnerability-patching-grading-problem/": {
+    "ts": "2026-10-12T07:07:09.381841+00:00",
+    "title": "AI vulnerability patching has a grading problem"
+  },
+  "https://cybersecuritynews.com/gentlemen-ransomware-kfc-breach/": {
+    "ts": "2026-10-12T07:07:09.423905+00:00",
+    "title": "KFC Named in Gentlemen Ransomware Group\u2019s Latest Breach Claim"
+  },
+  "https://gbhackers.com/rea-new-ai-powered-reverse-engineering-tool/": {
+    "ts": "2026-10-12T07:07:09.466813+00:00",
+    "title": "REA: New AI-Powered Reverse Engineering Tool Supports Ghidra, Hopper, and Claude Code"
+  },
+  "https://www.helpnetsecurity.com/2026/10/12/google-open-source-maintenance-costs-report/": {
+    "ts": "2026-10-12T07:07:09.508226+00:00",
+    "title": "What makes some open source updates so difficult?"
+  },
+  "https://gbhackers.com/ransomware-hackers-exploit-palo-alto-networks-globalprotect/": {
+    "ts": "2026-10-12T07:07:09.550522+00:00",
+    "title": "Ransomware Hackers Exploit Palo Alto Networks GlobalProtect VPN Authentication Bypass Vulnerability"
+  },
+  "https://gbhackers.com/power-bi-phishing/": {
+    "ts": "2026-10-12T07:07:09.594178+00:00",
+    "title": "Attackers Use Power BI Phishing to Install Multiple RMMs and Maintain Persistent Access"
   }
 }

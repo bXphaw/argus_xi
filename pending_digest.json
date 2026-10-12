@@ -1,15 +1,4 @@
 {
-  "items": [
-    {
-      "category": "malware_android",
-      "title": "Bitdefender finds preinstalled Android malware you can\u2019t uninstall, seen in 150 countries",
-      "url": "https://securityaffairs.com/200759/malware/bitdefender-finds-preinstalled-android-malware-you-cant-uninstall-seen-in-150-countries.html"
-    },
-    {
-      "category": "new_technique",
-      "title": "AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready",
-      "url": "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450"
-    }
-  ],
-  "last_sent_date": "2026-10-11"
+  "items": [],
+  "last_sent_date": "2026-10-12"
 }
