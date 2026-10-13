@@ -19954,5 +19954,49 @@
   "https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/": {
     "ts": "2026-10-13T00:23:28.561371+00:00",
     "title": "Let\u2019s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch"
+  },
+  "https://www.helpnetsecurity.com/2026/10/13/frontier-ai-ot-security-threat/": {
+    "ts": "2026-10-13T07:30:55.327288+00:00",
+    "title": "Frontier AI cleared every OT attack goal Booz Allen set in its lab"
+  },
+  "https://socradar.io/blog/bricksforge-cve-2026-85097-exploited-rce/": {
+    "ts": "2026-10-13T07:30:55.552791+00:00",
+    "title": "CVE-2026-85097: Bricksforge WordPress Plugin Flaw Exploited for Unauthenticated RCE"
+  },
+  "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html": {
+    "ts": "2026-10-13T07:30:55.780093+00:00",
+    "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies"
+  },
+  "https://www.theregister.com/virtualization/2026/10/13/vmware-is-pushing-so-many-patches-it-thinks-users-need-new-tools-to-manage-the-flood-1/5302172": {
+    "ts": "2026-10-13T07:30:55.780108+00:00",
+    "title": "VMware is pushing so many patches, it thinks users need new tools to manage the flood"
+  },
+  "https://www.welivesecurity.com/en/how-to/what-to-do-when-a-data-breach-notice-tells-you-almost-nothing/": {
+    "ts": "2026-10-13T07:30:55.780114+00:00",
+    "title": "What to do when a data breach notice doesn't say much"
+  },
+  "https://www.helpnetsecurity.com/2026/10/13/cloud-security-findings-severity-ai-agent/": {
+    "ts": "2026-10-13T07:30:56.007118+00:00",
+    "title": "Most high-severity cloud security findings are downgraded once an AI agent checks the environment"
+  },
+  "https://socradar.io/blog/socradar-torq-integration/": {
+    "ts": "2026-10-13T07:30:56.235670+00:00",
+    "title": "Turn External Threat Intelligence into Machine-Speed Response with SOCRadar and Torq"
+  },
+  "https://www.helpnetsecurity.com/2026/10/13/cybersecurity-jobs-available-right-now-october-13-2026/": {
+    "ts": "2026-10-13T07:30:56.464337+00:00",
+    "title": "Cybersecurity jobs available right now: October 13, 2026"
+  },
+  "https://socradar.io/blog/cve-2026-102255-sonicwall-sma1000-ssrf/": {
+    "ts": "2026-10-13T07:30:56.702293+00:00",
+    "title": "CVE-2026-102255: Critical SonicWall SMA1000 SSRF"
+  },
+  "https://socradar.io/blog/icmacos-infostealer-rat/": {
+    "ts": "2026-10-13T07:30:56.930805+00:00",
+    "title": "Inside ICMacOS: From an Infostealer to a Persistent RAT"
+  },
+  "https://socradar.io/blog/angi-tour-guy-healthcare-kpn-cafemom-leaks/": {
+    "ts": "2026-10-13T07:30:56.930818+00:00",
+    "title": "Angi Data Sale, The Tour Guy Breach, Healthcare Leads, KPN Leak, and CafeMom Data Resurface"
   }
 }
