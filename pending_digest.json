@@ -39,6 +39,41 @@
       "category": "malware_windows",
       "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
       "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack"
+    },
+    {
+      "category": "malware_other",
+      "title": "Hidden implant in Ledger hardware wallets linked to $93M theft",
+      "url": "https://www.helpnetsecurity.com/2026/10/12/ledger-wallets-compromised-via-hardware-implant/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Midnight Blizzard Targets Wi-Fi Networks in CaptiveCrunch Campaign \u2013 Active IOCs",
+      "url": "https://rewterz.com/threat-advisory/midnight-blizzard-targets-wi-fi-networks-in-captivecrunch-campaign-active-iocs"
+    },
+    {
+      "category": "threat_actor",
+      "title": "ShinyHunters arrest number three: a Canadian ransomware negotiator",
+      "url": "https://securityaffairs.com/200847/cyber-crime/shinyhunters-arrest-number-three-a-canadian-ransomware-negotiator.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+      "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html"
     }
   ],
   "last_sent_date": "2026-10-12"

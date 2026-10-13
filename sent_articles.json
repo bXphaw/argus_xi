@@ -19846,5 +19846,113 @@
   "https://rewterz.com/threat-advisory/sonicwall-patches-critical-ssrf-flaw-in-sma1000-appliances": {
     "ts": "2026-10-12T17:36:27.284222+00:00",
     "title": "SonicWall Patches Critical SSRF Flaw in SMA1000 Appliances"
+  },
+  "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/": {
+    "ts": "2026-10-13T00:23:22.364447+00:00",
+    "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack": {
+    "ts": "2026-10-13T00:23:26.285988+00:00",
+    "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack"
+  },
+  "https://www.helpnetsecurity.com/2026/10/12/ledger-wallets-compromised-via-hardware-implant/": {
+    "ts": "2026-10-13T00:23:26.432270+00:00",
+    "title": "Hidden implant in Ledger hardware wallets linked to $93M theft"
+  },
+  "https://rewterz.com/threat-advisory/midnight-blizzard-targets-wi-fi-networks-in-captivecrunch-campaign-active-iocs": {
+    "ts": "2026-10-13T00:23:26.575848+00:00",
+    "title": "Midnight Blizzard Targets Wi-Fi Networks in CaptiveCrunch Campaign \u2013 Active IOCs"
+  },
+  "https://securityaffairs.com/200847/cyber-crime/shinyhunters-arrest-number-three-a-canadian-ransomware-negotiator.html": {
+    "ts": "2026-10-13T00:23:26.714738+00:00",
+    "title": "ShinyHunters arrest number three: a Canadian ransomware negotiator"
+  },
+  "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/": {
+    "ts": "2026-10-13T00:23:26.855185+00:00",
+    "title": "Canonical Websites Disrupted in Second DDoS Attack This Year"
+  },
+  "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html": {
+    "ts": "2026-10-13T00:23:27.001181+00:00",
+    "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports"
+  },
+  "https://www.theregister.com/security/2026/10/12/imagine-theres-no-shiny-hunters-ai-could-make-human-hacking-crews-obsolete/5302430": {
+    "ts": "2026-10-13T00:23:27.141931+00:00",
+    "title": "Imagine there's no Shiny Hunters \u2013 AI could make human hacking crews obsolete"
+  },
+  "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/": {
+    "ts": "2026-10-13T00:23:27.281473+00:00",
+    "title": "Yandex confirms service outage as users lose access to cloud files"
+  },
+  "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges": {
+    "ts": "2026-10-13T00:23:27.420253+00:00",
+    "title": "Prominent Ransomware Negotiator Faces Extortion Charges"
+  },
+  "https://www.helpnetsecurity.com/2026/10/12/microsoft-windows-update-certificate-rotation/": {
+    "ts": "2026-10-13T00:23:27.420276+00:00",
+    "title": "Windows PCs missing key updates could lose security fixes in 2027"
+  },
+  "https://rewterz.com/threat-advisory/cve-2026-88779-citrix-netscaler-adc-and-netscaler-gateway-vulnerability-exploit-in-the-wild": {
+    "ts": "2026-10-13T00:23:27.420283+00:00",
+    "title": "CVE-2026-88779 \u2013 Citrix NetScaler ADC and NetScaler Gateway Vulnerability Exploit in the Wild"
+  },
+  "https://securityaffairs.com/200832/security/canonical-hit-by-second-ddos-attack-in-2026.html": {
+    "ts": "2026-10-13T00:23:27.420289+00:00",
+    "title": "Canonical Hit by Second DDoS Attack in 2026, Public Websites Disrupted"
+  },
+  "https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/": {
+    "ts": "2026-10-13T00:23:27.420294+00:00",
+    "title": "Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US"
+  },
+  "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html": {
+    "ts": "2026-10-13T00:23:27.560896+00:00",
+    "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch"
+  },
+  "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/": {
+    "ts": "2026-10-13T00:23:27.707905+00:00",
+    "title": "Anthropic takes risky AI tests offline after models breach govt sites"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam": {
+    "ts": "2026-10-13T00:23:27.707924+00:00",
+    "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM"
+  },
+  "https://www.helpnetsecurity.com/2026/10/12/lets-encrypt-64-day-certificate-lifetime/": {
+    "ts": "2026-10-13T00:23:27.707928+00:00",
+    "title": "Let\u2019s Encrypt TLS certificate lifetimes to drop from 90 to 64 days starting February 2027"
+  },
+  "https://www.securityweek.com/irhythm-data-breach-impacts-over-360000-people/": {
+    "ts": "2026-10-13T00:23:27.707931+00:00",
+    "title": "iRhythm Data Breach Impacts at Least 360,000 People"
+  },
+  "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html": {
+    "ts": "2026-10-13T00:23:27.849340+00:00",
+    "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE"
+  },
+  "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/": {
+    "ts": "2026-10-13T00:23:27.997759+00:00",
+    "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack"
+  },
+  "https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/": {
+    "ts": "2026-10-13T00:23:28.144194+00:00",
+    "title": "Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe"
+  },
+  "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html": {
+    "ts": "2026-10-13T00:23:28.283039+00:00",
+    "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records"
+  },
+  "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/": {
+    "ts": "2026-10-13T00:23:28.422485+00:00",
+    "title": "GitLab warns of max severity code execution vulnerability"
+  },
+  "https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/": {
+    "ts": "2026-10-13T00:23:28.561349+00:00",
+    "title": "Critical SonicWall Vulnerability Exploited Days After Disclosure"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/": {
+    "ts": "2026-10-13T00:23:28.561367+00:00",
+    "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days"
+  },
+  "https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/": {
+    "ts": "2026-10-13T00:23:28.561371+00:00",
+    "title": "Let\u2019s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch"
   }
 }
