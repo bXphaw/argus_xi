@@ -20118,5 +20118,125 @@
   "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/": {
     "ts": "2026-10-13T15:45:58.527485+00:00",
     "title": "SAP warns of maximum severity OAuth2 SSRF security flaw"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/": {
+    "ts": "2026-10-13T21:04:46.548577+00:00",
+    "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/": {
+    "ts": "2026-10-13T21:06:40.118018+00:00",
+    "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days"
+  },
+  "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/": {
+    "ts": "2026-10-13T21:06:40.118040+00:00",
+    "title": "Microsoft Patch Tuesday for October 2026 \u2014 Snort rules and prominent vulnerabilities"
+  },
+  "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/": {
+    "ts": "2026-10-13T21:06:40.354490+00:00",
+    "title": "U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance"
+  },
+  "https://cybersecuritynews.com/microsoft-october-patch-tuesday-2026/": {
+    "ts": "2026-10-13T21:06:40.354511+00:00",
+    "title": "Microsoft Fixes 1,118 Vulnerabilities in October Patch Tuesday and Introduces New Risk Cohorts"
+  },
+  "https://gbhackers.com/hackers-target-hundreds-of-french-supermarkets/": {
+    "ts": "2026-10-13T21:06:40.588919+00:00",
+    "title": "Hackers Target Hundreds of French Supermarkets, Heating Refrigeration Systems to 50\u00b0C"
+  },
+  "https://www.helpnetsecurity.com/2026/10/13/meta-muse-wonder-full-models/": {
+    "ts": "2026-10-13T21:06:40.822142+00:00",
+    "title": "Meta outlines Muse Wonder safeguards for AI agents acting on your behalf"
+  },
+  "https://www.malwarebytes.com/blog/threat-intel/2026/10/your-whos-this-reply-is-exactly-what-text-scammers-want": {
+    "ts": "2026-10-13T21:06:41.065781+00:00",
+    "title": "Scammers know your name, and they\u2019re counting on you to reply"
+  },
+  "https://www.rapid7.com/blog/post/etr-ivanti-connect-secure-zero-day-exploited-in-the-wild-cve-2026-104935": {
+    "ts": "2026-10-13T21:06:41.301476+00:00",
+    "title": "Ivanti Connect Secure zero-day exploited in the wild (CVE-2026-104935)"
+  },
+  "https://www.recordedfuture.com/blog/september-2026-cve-landscape": {
+    "ts": "2026-10-13T21:06:41.537211+00:00",
+    "title": "September 2026 CVE Landscape"
+  },
+  "https://securityaffairs.com/200887/security/u-s-cisa-adds-ivanti-connect-secure-flaw-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-10-13T21:06:41.772269+00:00",
+    "title": "U.S. CISA adds Ivanti Connect Secure\u00a0flaw to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/": {
+    "ts": "2026-10-13T21:06:42.005969+00:00",
+    "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN"
+  },
+  "https://socradar.io/blog/cve-2026-97229-critical-gitlab-rce/": {
+    "ts": "2026-10-13T21:06:42.005988+00:00",
+    "title": "CVE-2026-97229: Critical GitLab RCE"
+  },
+  "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html": {
+    "ts": "2026-10-13T21:06:42.005992+00:00",
+    "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets"
+  },
+  "https://www.theregister.com/security/2026/10/13/claude-submitted-fake-murder-tip-to-philly-police-during-summertime-testing/5302842": {
+    "ts": "2026-10-13T21:06:42.005997+00:00",
+    "title": "Claude submitted fake murder tip to Philly police during summertime testing"
+  },
+  "https://threatmon.io/astro-c2-technical-analysis/": {
+    "ts": "2026-10-13T21:06:42.241476+00:00",
+    "title": "ASTRO C2 Technical Analysis"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/": {
+    "ts": "2026-10-13T21:06:42.487080+00:00",
+    "title": "Microsoft releases Windows 10 KB5126657 extended security update"
+  },
+  "https://cybersecuritynews.com/fortisandbox-gui-vulnerability/": {
+    "ts": "2026-10-13T21:06:42.729694+00:00",
+    "title": "Critical FortiSandbox GUI Vulnerability Allows Remote Attackers to Bypass Authentication"
+  },
+  "https://gbhackers.com/sap-patches-critical-netweaver-and-s-4hana-security-flaws/": {
+    "ts": "2026-10-13T21:06:42.966799+00:00",
+    "title": "SAP Patches Critical NetWeaver and S/4HANA Security Flaws Affecting Enterprise Systems"
+  },
+  "https://www.helpnetsecurity.com/2026/10/13/gitlab-ci-cd-regular-expression-compiler-vulnerability-cve-2026-97229/": {
+    "ts": "2026-10-13T21:06:43.203287+00:00",
+    "title": "GitLab admins urged to patch critical RCE flaw (CVE-2026-97229)"
+  },
+  "https://www.recordedfuture.com/blog/malware-indicators-of-compromise": {
+    "ts": "2026-10-13T21:06:43.438409+00:00",
+    "title": "Malware Indicators of Compromise (IoCs) | Recorded Future"
+  },
+  "https://securityaffairs.com/200863/hacking/hackers-cranked-french-supermarkets-freezers-up-to-50-degrees-causing-hundreds-of-stores-to-lose-their-stock.html": {
+    "ts": "2026-10-13T21:06:43.671810+00:00",
+    "title": "Hackers cranked French supermarkets\u2019 freezers up to 50 degrees, causing hundreds of stores to lose their stock"
+  },
+  "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/": {
+    "ts": "2026-10-13T21:06:43.671829+00:00",
+    "title": "Adobe Patches 140 Vulnerabilities Across 10 Products"
+  },
+  "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html": {
+    "ts": "2026-10-13T21:06:43.912735+00:00",
+    "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866": {
+    "ts": "2026-10-13T21:06:43.912757+00:00",
+    "title": "Anthropic conjures another threat that doesn't exist yet to stoke fears of AI apocalypse"
+  },
+  "https://cybersecuritynews.com/tfg-london-cyberattack/": {
+    "ts": "2026-10-13T21:06:43.912761+00:00",
+    "title": "TFG London Cyberattack Disrupts IT Systems Used by Phase Eight, Hobbs, and Whistles Brands"
+  },
+  "https://gbhackers.com/npm-packages-hijacked/": {
+    "ts": "2026-10-13T21:06:44.157590+00:00",
+    "title": "Attackers Can Hijack npm Packages Without Stealing Developer Credentials"
+  },
+  "https://www.helpnetsecurity.com/2026/10/13/slugfest-npm-trusted-publishing-flaw/": {
+    "ts": "2026-10-13T21:06:44.400250+00:00",
+    "title": "npm Trusted Publishing flaw exposed 1,500+ npm packages to takeover"
+  },
+  "https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/": {
+    "ts": "2026-10-13T21:06:44.633946+00:00",
+    "title": "Google Partially Reverses Chrome Bug Bounty Cuts"
+  },
+  "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html": {
+    "ts": "2026-10-13T21:06:44.869872+00:00",
+    "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far"
   }
 }

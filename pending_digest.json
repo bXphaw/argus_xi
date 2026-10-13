@@ -34,6 +34,36 @@
       "category": "malware_windows",
       "title": "XWorm RAT Evolves Into Surveillance Platform",
       "url": "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance",
+      "url": "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Target Hundreds of French Supermarkets, Heating Refrigeration Systems to 50\u00b0C",
+      "url": "https://gbhackers.com/hackers-target-hundreds-of-french-supermarkets/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
+      "url": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/"
+    },
+    {
+      "category": "malware_other",
+      "title": "ASTRO C2 Technical Analysis",
+      "url": "https://threatmon.io/astro-c2-technical-analysis/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers cranked French supermarkets\u2019 freezers up to 50 degrees, causing hundreds of stores to lose their stock",
+      "url": "https://securityaffairs.com/200863/hacking/hackers-cranked-french-supermarkets-freezers-up-to-50-degrees-causing-hundreds-of-stores-to-lose-their-stock.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html"
     }
   ],
   "last_sent_date": "2026-10-13"
