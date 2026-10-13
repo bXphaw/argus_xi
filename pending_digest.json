@@ -1,4 +1,40 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "When LLM Gateways Go Wrong: Findings from LiteLLM",
+      "url": "https://research.checkpoint.com/2026/when-llm-gateways-go-wrong-findings-from-litellm/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "RSVP to Disaster: How One Click Installs a RAT",
+      "url": "https://cofense.com/blog/rsvp-to-disaster-how-one-click-installs-a-rat"
+    },
+    {
+      "category": "new_technique",
+      "title": "CISA Warns of Hackers Exploiting Two Citrix NetScaler 0-Days to Execute Code Remotely",
+      "url": "https://cybersecuritynews.com/citrix-netscaler-zero-day-exploits/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns",
+      "url": "https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "n0n Group Puts Dozens of Global Ports and Shipping on Its Leak Site",
+      "url": "https://socradar.io/blog/n0n-group-global-ports-shipping-leak/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers heat up supermarket fridges, spoiling food across France",
+      "url": "https://www.malwarebytes.com/blog/news/2026/10/hackers-heat-up-supermarket-fridges-spoiling-food-across-france"
+    },
+    {
+      "category": "malware_windows",
+      "title": "XWorm RAT Evolves Into Surveillance Platform",
+      "url": "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/"
+    }
+  ],
   "last_sent_date": "2026-10-13"
 }

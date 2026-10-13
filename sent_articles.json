@@ -19998,5 +19998,125 @@
   "https://socradar.io/blog/angi-tour-guy-healthcare-kpn-cafemom-leaks/": {
     "ts": "2026-10-13T07:30:56.930818+00:00",
     "title": "Angi Data Sale, The Tour Guy Breach, Healthcare Leads, KPN Leak, and CafeMom Data Resurface"
+  },
+  "https://cybersecuritynews.com/criminal-ip-to-showcase-threat-intelligence-and-aitem-at-security-days-fall-2026-tokyo/": {
+    "ts": "2026-10-13T15:43:58.576133+00:00",
+    "title": "Criminal IP to Showcase Threat Intelligence and AITEM at Security Days Fall 2026 Tokyo"
+  },
+  "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/": {
+    "ts": "2026-10-13T15:45:54.616736+00:00",
+    "title": "Docker Hub flaw let attackers impersonate users, tamper with images"
+  },
+  "https://research.checkpoint.com/2026/when-llm-gateways-go-wrong-findings-from-litellm/": {
+    "ts": "2026-10-13T15:45:54.829981+00:00",
+    "title": "When LLM Gateways Go Wrong: Findings from LiteLLM"
+  },
+  "https://cofense.com/blog/rsvp-to-disaster-how-one-click-installs-a-rat": {
+    "ts": "2026-10-13T15:45:55.022250+00:00",
+    "title": "RSVP to Disaster: How One Click Installs a RAT"
+  },
+  "https://cybersecuritynews.com/citrix-netscaler-zero-day-exploits/": {
+    "ts": "2026-10-13T15:45:55.204960+00:00",
+    "title": "CISA Warns of Hackers Exploiting Two Citrix NetScaler 0-Days to Execute Code Remotely"
+  },
+  "https://cyble.com/blog/dont-get-played-token2049-scam-allegations/": {
+    "ts": "2026-10-13T15:45:55.204968+00:00",
+    "title": "\u201cDon\u2019t Get Played\u201d: TOKEN2049 Security Event Faces Remote-Access Scam Allegations"
+  },
+  "https://gbhackers.com/criminal-ip-to-showcase-threat-intelligence-and-aitem-at-security-days-fall-2026-tokyo/": {
+    "ts": "2026-10-13T15:45:55.389086+00:00",
+    "title": "Criminal IP to Showcase Threat Intelligence and AITEM at Security Days Fall 2026 Tokyo"
+  },
+  "https://www.helpnetsecurity.com/2026/10/13/ukraine-drone-strikes-yandex-data-centers/": {
+    "ts": "2026-10-13T15:45:55.572322+00:00",
+    "title": "Ukrainian drones hit Yandex data centers, sparking claims that Russian troll farms went quiet"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/grindr-users-sensitive-data-shared-through-ad-auctions-without-valid-consent": {
+    "ts": "2026-10-13T15:45:55.754930+00:00",
+    "title": "Grindr users\u2019 sensitive data shared through ad auctions without valid consent"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-97229-critical-unauthenticated-remote-code-execution-in-gitlab": {
+    "ts": "2026-10-13T15:45:55.948065+00:00",
+    "title": "CVE-2026-97229: Critical Unauthenticated Remote Code Execution in GitLab"
+  },
+  "https://securityaffairs.com/200880/ai/anthropic-shows-how-small-ai-models-could-replicate-across-iot-devices.html": {
+    "ts": "2026-10-13T15:45:56.130287+00:00",
+    "title": "Anthropic Shows How Small AI Models Could Replicate Across IoT Devices"
+  },
+  "https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/": {
+    "ts": "2026-10-13T15:45:56.313084+00:00",
+    "title": "Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns"
+  },
+  "https://socradar.io/blog/n0n-group-global-ports-shipping-leak/": {
+    "ts": "2026-10-13T15:45:56.495966+00:00",
+    "title": "n0n Group Puts Dozens of Global Ports and Shipping on Its Leak Site"
+  },
+  "https://www.sophos.com/en-us/blog/building-intent-based-access-control-without-reading-minds": {
+    "ts": "2026-10-13T15:45:56.495974+00:00",
+    "title": "building intent-based access control without reading minds"
+  },
+  "https://www.security.com/product-insights/make-every-symantec-dlp-high-speed-discovery-scan-count": {
+    "ts": "2026-10-13T15:45:56.495976+00:00",
+    "title": "Make Every Symantec DLP High Speed Discovery Scan Count"
+  },
+  "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html": {
+    "ts": "2026-10-13T15:45:56.495979+00:00",
+    "title": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation"
+  },
+  "https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784": {
+    "ts": "2026-10-13T15:45:56.680892+00:00",
+    "title": "Cyberattacks crank French supermarket refrigeration systems up to 50\u00b0C"
+  },
+  "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html#new_tab": {
+    "ts": "2026-10-13T15:45:56.864454+00:00",
+    "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories"
+  },
+  "https://www.volexity.com/blog/2026/10/13/a-series-of-unauthenticated-events-chained-exploitation-of-ivanti-connect-secure-zero-days/": {
+    "ts": "2026-10-13T15:45:57.051956+00:00",
+    "title": "A Series of Unauthenticated Events: Chained Exploitation of Ivanti Connect Secure Zero-Days"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/": {
+    "ts": "2026-10-13T15:45:57.234644+00:00",
+    "title": "The MFA Gaps Attackers are Still Exploiting"
+  },
+  "https://cybersecuritynews.com/threat-intelligence-guide/": {
+    "ts": "2026-10-13T15:45:57.416813+00:00",
+    "title": "Threat Intelligence Guide for US SOC Teams and CISOs: How to Choose the Right Solution"
+  },
+  "https://gbhackers.com/g2a-com-reports-35-growth-in-security-software-orders-outpacing-vpn-growth/": {
+    "ts": "2026-10-13T15:45:57.416821+00:00",
+    "title": "G2A.COM Reports 35% Growth in Security Software Orders, Outpacing VPN Growth"
+  },
+  "https://www.helpnetsecurity.com/2026/10/13/mozilla-firefox-enterprise-platform/": {
+    "ts": "2026-10-13T15:45:57.416823+00:00",
+    "title": "Mozilla\u2019s Firefox Enterprise lets companies block shadow AI in the browser"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/hackers-heat-up-supermarket-fridges-spoiling-food-across-france": {
+    "ts": "2026-10-13T15:45:57.599332+00:00",
+    "title": "Hackers heat up supermarket fridges, spoiling food across France"
+  },
+  "https://securityaffairs.com/200868/security/gitlab-patches-max-severity-vulnerability-cve-2026-97229.html": {
+    "ts": "2026-10-13T15:45:57.599339+00:00",
+    "title": "GitLab Patches Max-Severity Vulnerability CVE-2026-97229"
+  },
+  "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/": {
+    "ts": "2026-10-13T15:45:57.786412+00:00",
+    "title": "XWorm RAT Evolves Into Surveillance Platform"
+  },
+  "https://socradar.io/blog/french-supermarket-cyberattack-ot/": {
+    "ts": "2026-10-13T15:45:57.979185+00:00",
+    "title": "French Supermarket Cyberattack: Exposed OT Behind France\u2019s Food Supply"
+  },
+  "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html": {
+    "ts": "2026-10-13T15:45:58.160401+00:00",
+    "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls"
+  },
+  "https://www.theregister.com/security/2026/10/13/123456-password-linked-to-denmark-data-breach-affecting-88m-people/5302726": {
+    "ts": "2026-10-13T15:45:58.344730+00:00",
+    "title": "'123456' password linked to Denmark data breach affecting 8.8M people"
+  },
+  "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/": {
+    "ts": "2026-10-13T15:45:58.527485+00:00",
+    "title": "SAP warns of maximum severity OAuth2 SSRF security flaw"
   }
 }
