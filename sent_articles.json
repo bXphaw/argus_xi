@@ -20238,5 +20238,113 @@
   "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html": {
     "ts": "2026-10-13T21:06:44.869872+00:00",
     "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far"
+  },
+  "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/": {
+    "ts": "2026-10-14T00:59:12.265205+00:00",
+    "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/": {
+    "ts": "2026-10-14T01:00:44.600593+00:00",
+    "title": "OpenAI engineer arrested for allegedly planting spy device in office"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday": {
+    "ts": "2026-10-14T01:00:44.600609+00:00",
+    "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday"
+  },
+  "https://www.helpnetsecurity.com/2026/10/13/cybersecurity-ai-safety-red-lines/": {
+    "ts": "2026-10-14T01:00:44.600613+00:00",
+    "title": "Be a good AI ancestor: Cybersecurity already gave us the playbook"
+  },
+  "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/": {
+    "ts": "2026-10-14T01:00:44.600617+00:00",
+    "title": "Microsoft Patches More Than 1,400 Security Flaws"
+  },
+  "https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/": {
+    "ts": "2026-10-14T01:00:44.600620+00:00",
+    "title": "The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk"
+  },
+  "https://www.rapid7.com/blog/post/em-patch-tuesday-october-2026": {
+    "ts": "2026-10-14T01:00:44.600623+00:00",
+    "title": "Patch Tuesday - October 2026"
+  },
+  "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/": {
+    "ts": "2026-10-14T01:00:44.600626+00:00",
+    "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say"
+  },
+  "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html": {
+    "ts": "2026-10-14T01:00:44.600630+00:00",
+    "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft"
+  },
+  "https://www.theregister.com/cyber-crime/2026/10/13/owner-of-fashion-brands-hobbs-and-whistles-joins-autumn-pwned-collection/5302752": {
+    "ts": "2026-10-14T01:00:44.600632+00:00",
+    "title": "Owner of fashion brands Hobbs and Whistles joins autumn pwned collection"
+  },
+  "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/": {
+    "ts": "2026-10-14T01:00:44.600635+00:00",
+    "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel": {
+    "ts": "2026-10-14T01:00:44.673558+00:00",
+    "title": "North Korea Phishes Ukrainians for War Intel"
+  },
+  "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/": {
+    "ts": "2026-10-14T01:00:44.716723+00:00",
+    "title": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach"
+  },
+  "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html": {
+    "ts": "2026-10-14T01:00:44.760103+00:00",
+    "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking"
+  },
+  "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/": {
+    "ts": "2026-10-14T01:00:44.803502+00:00",
+    "title": "Anthropic warns self-replicating AI could spread to your smart devices"
+  },
+  "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms": {
+    "ts": "2026-10-14T01:00:44.846595+00:00",
+    "title": "Anthropic Finds Ingredients for Future AI Worms"
+  },
+  "https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/": {
+    "ts": "2026-10-14T01:00:44.846604+00:00",
+    "title": "AI Turns Familiar Cyberattacks Into a Race Against Time"
+  },
+  "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html": {
+    "ts": "2026-10-14T01:00:44.888083+00:00",
+    "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network"
+  },
+  "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/": {
+    "ts": "2026-10-14T01:00:44.888096+00:00",
+    "title": "UK Housing Ombudsman Service investigates 'security incident'"
+  },
+  "https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/": {
+    "ts": "2026-10-14T01:00:44.934722+00:00",
+    "title": "$86 Million Crypto Heist Linked to Ledger Signer Hardware Implant"
+  },
+  "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html": {
+    "ts": "2026-10-14T01:00:44.934736+00:00",
+    "title": "Product Walkthrough: Bitdefender AI Visibility and Control"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/": {
+    "ts": "2026-10-14T01:00:44.980108+00:00",
+    "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released"
+  },
+  "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/": {
+    "ts": "2026-10-14T01:00:45.024118+00:00",
+    "title": "Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems"
+  },
+  "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html": {
+    "ts": "2026-10-14T01:00:45.067299+00:00",
+    "title": "Attackers Heat French Supermarket Fridges Up to 50\u00b0C by Hijacking Danfoss Controllers"
+  },
+  "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html": {
+    "ts": "2026-10-14T01:00:45.110979+00:00",
+    "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control"
+  },
+  "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/": {
+    "ts": "2026-10-14T01:00:45.155277+00:00",
+    "title": "Ivanti warns of Connect Secure zero-day exploited in attacks"
+  },
+  "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html": {
+    "ts": "2026-10-14T01:00:45.197809+00:00",
+    "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code"
   }
 }

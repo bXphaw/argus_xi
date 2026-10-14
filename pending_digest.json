@@ -64,6 +64,21 @@
       "category": "new_technique",
       "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
       "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
+      "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html"
+    },
+    {
+      "category": "malware_other",
+      "title": "$86 Million Crypto Heist Linked to Ledger Signer Hardware Implant",
+      "url": "https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/"
+    },
+    {
+      "category": "new_technique",
+      "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
+      "url": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html"
     }
   ],
   "last_sent_date": "2026-10-13"
