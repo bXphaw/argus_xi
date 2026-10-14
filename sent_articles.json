@@ -20394,5 +20394,125 @@
   "https://www.helpnetsecurity.com/2026/10/14/google-chrome-vulnerability-rewards-program-updates/": {
     "ts": "2026-10-14T06:02:41.403066+00:00",
     "title": "Google quadruples Chrome bug bounty base pay, offers up to $20,000 for sandbox escapes"
+  },
+  "https://asec.ahnlab.com/en/95845/": {
+    "ts": "2026-10-14T12:46:53.226928+00:00",
+    "title": "The Threat of AI-Driven Autonomous Penetration Testing, as Examined by ARTEX"
+  },
+  "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/": {
+    "ts": "2026-10-14T12:46:53.310422+00:00",
+    "title": "Hirudo Android malware replaces banking apps to evade security checks"
+  },
+  "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/": {
+    "ts": "2026-10-14T12:46:53.310436+00:00",
+    "title": "October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities"
+  },
+  "https://cybersecuritynews.com/famous-chollima/": {
+    "ts": "2026-10-14T12:46:53.399769+00:00",
+    "title": "FBI Disrupts North Korean Famous Chollima Laptop Farms Used to Infiltrate U.S. Companies"
+  },
+  "https://www.forescout.com/blog/from-clickfix-to-c2-comparative-analysis-of-two-malware-loaders/": {
+    "ts": "2026-10-14T12:46:53.492604+00:00",
+    "title": "From ClickFix to C2: Comparative Analysis of Two Malware Loaders"
+  },
+  "https://gbhackers.com/google-pays-250000-for-ai-assisted-chrome-exploit/": {
+    "ts": "2026-10-14T12:46:53.575459+00:00",
+    "title": "Google Pays $250,000 for AI-Assisted Chrome Exploit Enabling Windows Code Execution"
+  },
+  "https://www.group-ib.com/blog/kgb-rat-windows-fud-trojan/": {
+    "ts": "2026-10-14T12:46:53.666025+00:00",
+    "title": "KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize"
+  },
+  "https://www.helpnetsecurity.com/2026/10/14/tfg-london-cyberattack-phase-eight-hobbs-whistles/": {
+    "ts": "2026-10-14T12:46:53.748945+00:00",
+    "title": "Phase Eight, Hobbs and Whistles owner joins growing list of fashion retailers targeted by hackers"
+  },
+  "https://www.malwarebytes.com/blog/bugs/2026/10/update-windows-record-patch-tuesday-fixes-flaw-already-under-attack": {
+    "ts": "2026-10-14T12:46:53.837767+00:00",
+    "title": "Update Windows: Record Patch Tuesday fixes flaw already under attack"
+  },
+  "https://securityaffairs.com/200933/cyber-crime/hidden-audio-recorder-found-at-openai-as-employee-faces-federal-charges.html": {
+    "ts": "2026-10-14T12:46:53.928963+00:00",
+    "title": "Hidden Audio Recorder Found at OpenAI as Employee Faces Federal Charges"
+  },
+  "https://www.securityweek.com/us-arrests-two-in-crackdown-on-north-korean-it-worker-laptop-farms/": {
+    "ts": "2026-10-14T12:46:54.022279+00:00",
+    "title": "US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms"
+  },
+  "https://www.security.com/expert-perspectives/detection-gap-mitre-attck-t1490": {
+    "ts": "2026-10-14T12:46:54.022295+00:00",
+    "title": "The Detection Gap: MITRE ATT&CK T1490"
+  },
+  "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html": {
+    "ts": "2026-10-14T12:46:54.109399+00:00",
+    "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days"
+  },
+  "https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000": {
+    "ts": "2026-10-14T12:46:54.109415+00:00",
+    "title": "OpenAI engineer charged after boardroom bug found wrapped in toilet paper"
+  },
+  "https://asec.ahnlab.com/en/95823/": {
+    "ts": "2026-10-14T12:46:54.109419+00:00",
+    "title": "Ransom & Dark Web Issues Week 3, October 2026"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/": {
+    "ts": "2026-10-14T12:46:54.192413+00:00",
+    "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures"
+  },
+  "https://cybersecuritynews.com/virustotal-chatgpt-integration/": {
+    "ts": "2026-10-14T12:46:54.281525+00:00",
+    "title": "VirusTotal Integrates Threat Intelligence With ChatGPT for Malware Analysis"
+  },
+  "https://gbhackers.com/meta-github-repositories-compromised/": {
+    "ts": "2026-10-14T12:46:54.370731+00:00",
+    "title": "Meta GitHub Repositories Compromised, Exposing Software Code and Employee Personal Data"
+  },
+  "https://www.helpnetsecurity.com/2026/10/14/github-secret-detection-model/": {
+    "ts": "2026-10-14T12:46:54.459707+00:00",
+    "title": "GitHub adopts cheaper AI model to catch secrets developers leave in code"
+  },
+  "https://www.malwarebytes.com/blog/threat-intel/2026/10/fake-calendly-meta-careers-pages-steal-facebook-and-google-logins": {
+    "ts": "2026-10-14T12:46:54.548193+00:00",
+    "title": "Fake Calendly \u201cMeta Careers\u201d pages steal Facebook and Google logins"
+  },
+  "https://securityaffairs.com/200895/hacking/volexity-uncovers-stealthy-ivanti-vpn-attack-using-three-zero-day-vulnerabilities.html": {
+    "ts": "2026-10-14T12:46:54.635779+00:00",
+    "title": "Volexity Uncovers Stealthy Ivanti VPN Attack Using Three Zero-Day Vulnerabilities"
+  },
+  "https://www.securityweek.com/chrome-firefox-updates-patch-114-flaws-as-mozilla-unveils-firefox-enterprise/": {
+    "ts": "2026-10-14T12:46:54.635793+00:00",
+    "title": "Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise"
+  },
+  "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html": {
+    "ts": "2026-10-14T12:46:54.726504+00:00",
+    "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks"
+  },
+  "https://asec.ahnlab.com/en/95840/": {
+    "ts": "2026-10-14T12:46:54.812291+00:00",
+    "title": "Case of AgentTesla Malware Distribution Disguised as a Business Proposal Email"
+  },
+  "https://cybersecuritynews.com/google-chrome-exploit-gpt-5-6/": {
+    "ts": "2026-10-14T12:46:54.899934+00:00",
+    "title": "Google Awarded $250,000 Bounty for a Full-chain Chrome Exploit Found Using GPT-5.6"
+  },
+  "https://gbhackers.com/vpn-credential-compromise/": {
+    "ts": "2026-10-14T12:46:54.982255+00:00",
+    "title": "Hackers Use Compromised Credentials to Infiltrate European Bank Through VPN"
+  },
+  "https://www.helpnetsecurity.com/2026/10/14/ivanti-zero-days-gain-root-patched-vpn-appliances/": {
+    "ts": "2026-10-14T12:46:55.064285+00:00",
+    "title": "Attackers chained three Ivanti zero-days to gain root on fully patched VPN appliances"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/10/police-receive-fake-murder-tip-from-anthropics-claude-ai": {
+    "ts": "2026-10-14T12:46:55.153191+00:00",
+    "title": "Police receive fake murder tip from Anthropic\u2019s Claude AI"
+  },
+  "https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/": {
+    "ts": "2026-10-14T12:46:55.236647+00:00",
+    "title": "Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products"
+  },
+  "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html": {
+    "ts": "2026-10-14T12:46:55.323351+00:00",
+    "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part."
   }
 }
