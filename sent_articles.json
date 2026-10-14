@@ -20634,5 +20634,61 @@
   "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html": {
     "ts": "2026-10-14T17:54:07.309689+00:00",
     "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team"
+  },
+  "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/": {
+    "ts": "2026-10-14T21:25:01.920347+00:00",
+    "title": "Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/": {
+    "ts": "2026-10-14T21:25:45.219255+00:00",
+    "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages": {
+    "ts": "2026-10-14T21:25:45.219278+00:00",
+    "title": "Yam Store: The Phishing Network Behind a Billion Messages"
+  },
+  "https://www.securityweek.com/microsoft-disrupts-chinese-language-phishing-market-behind-1b-messages/": {
+    "ts": "2026-10-14T21:25:45.219283+00:00",
+    "title": "Microsoft Disrupts Chinese-Language Phishing Market Behind 1B+ Messages"
+  },
+  "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html": {
+    "ts": "2026-10-14T21:25:45.403623+00:00",
+    "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability"
+  },
+  "https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134": {
+    "ts": "2026-10-14T21:25:45.403642+00:00",
+    "title": "Security researchers spent 6 days doing their Chromework, built 1B user exploit"
+  },
+  "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/": {
+    "ts": "2026-10-14T21:25:45.579413+00:00",
+    "title": "Global takedown hits network behind 1 billion phishing messages"
+  },
+  "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat": {
+    "ts": "2026-10-14T21:25:45.755357+00:00",
+    "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat"
+  },
+  "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html": {
+    "ts": "2026-10-14T21:25:45.929737+00:00",
+    "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/": {
+    "ts": "2026-10-14T21:25:46.110299+00:00",
+    "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day"
+  },
+  "https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/": {
+    "ts": "2026-10-14T21:25:46.298178+00:00",
+    "title": "SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities"
+  },
+  "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html": {
+    "ts": "2026-10-14T21:25:46.298198+00:00",
+    "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages"
+  },
+  "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html": {
+    "ts": "2026-10-14T21:25:46.473837+00:00",
+    "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host"
+  },
+  "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html": {
+    "ts": "2026-10-14T21:25:46.648483+00:00",
+    "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave"
   }
 }

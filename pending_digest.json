@@ -34,6 +34,26 @@
       "category": "threat_actor",
       "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
       "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
+      "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "url": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html"
     }
   ],
   "last_sent_date": "2026-10-14"
