@@ -20346,5 +20346,53 @@
   "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html": {
     "ts": "2026-10-14T01:00:45.197809+00:00",
     "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code"
+  },
+  "https://asec.ahnlab.com/en/95812/": {
+    "ts": "2026-10-14T06:02:01.608386+00:00",
+    "title": "Q3 2026 Statistical Report on Malware Targeting Windows Web Servers"
+  },
+  "https://asec.ahnlab.com/en/95808/": {
+    "ts": "2026-10-14T06:02:41.141563+00:00",
+    "title": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026"
+  },
+  "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking": {
+    "ts": "2026-10-14T06:02:41.141614+00:00",
+    "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?"
+  },
+  "https://www.helpnetsecurity.com/2026/10/14/kunal-modasiya-qualys-vulnerability-remediation/": {
+    "ts": "2026-10-14T06:02:41.141619+00:00",
+    "title": "Patching and preventing issues: What are the lessons you can learn?"
+  },
+  "https://securityaffairs.com/200910/malware/how-a-leaked-builder-of-xworm-turned-a-remote-access-trojan-into-a-surveillance-kit.html": {
+    "ts": "2026-10-14T06:02:41.185210+00:00",
+    "title": "How a leaked builder of XWorm turned a remote access trojan into a surveillance kit"
+  },
+  "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html": {
+    "ts": "2026-10-14T06:02:41.185222+00:00",
+    "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug"
+  },
+  "https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939": {
+    "ts": "2026-10-14T06:02:41.231273+00:00",
+    "title": "Ransomware gets personal: 'We-know-where-you-are kind of stuff'"
+  },
+  "https://asec.ahnlab.com/en/95809/": {
+    "ts": "2026-10-14T06:02:41.275525+00:00",
+    "title": "Q3 2026 Statistical Report on Malware Targeting Windows Database Servers"
+  },
+  "https://www.helpnetsecurity.com/2026/10/14/meshery-open-source-cloud-native-manager-kubernetes/": {
+    "ts": "2026-10-14T06:02:41.318276+00:00",
+    "title": "Meshery: Open-source cloud-native manager for Kubernetes"
+  },
+  "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html": {
+    "ts": "2026-10-14T06:02:41.361456+00:00",
+    "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room"
+  },
+  "https://www.helpnetsecurity.com/2026/10/14/ciso-ai-agent-insider-risk/": {
+    "ts": "2026-10-14T06:02:41.403056+00:00",
+    "title": "Most companies count AI agents as insiders, and CISOs worry about their own liability"
+  },
+  "https://www.helpnetsecurity.com/2026/10/14/google-chrome-vulnerability-rewards-program-updates/": {
+    "ts": "2026-10-14T06:02:41.403066+00:00",
+    "title": "Google quadruples Chrome bug bounty base pay, offers up to $20,000 for sandbox escapes"
   }
 }

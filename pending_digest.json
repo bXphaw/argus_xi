@@ -79,6 +79,16 @@
       "category": "new_technique",
       "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
       "url": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026",
+      "url": "https://asec.ahnlab.com/en/95808/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "How a leaked builder of XWorm turned a remote access trojan into a surveillance kit",
+      "url": "https://securityaffairs.com/200910/malware/how-a-leaked-builder-of-xworm-turned-a-remote-access-trojan-into-a-surveillance-kit.html"
     }
   ],
   "last_sent_date": "2026-10-13"
