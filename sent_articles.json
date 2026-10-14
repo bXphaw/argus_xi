@@ -20514,5 +20514,125 @@
   "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html": {
     "ts": "2026-10-14T12:46:55.323351+00:00",
     "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part."
+  },
+  "https://asec.ahnlab.com/en/95841/": {
+    "ts": "2026-10-14T17:54:04.570923+00:00",
+    "title": "Beware of Phishing Emails Disguised as Purchase Orders"
+  },
+  "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/": {
+    "ts": "2026-10-14T17:54:04.570944+00:00",
+    "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack"
+  },
+  "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/": {
+    "ts": "2026-10-14T17:54:04.703400+00:00",
+    "title": "Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations"
+  },
+  "https://cyble.com/blog/weekly-vulnerability-report-langflow-n8n-ics-flaws/": {
+    "ts": "2026-10-14T17:54:04.833347+00:00",
+    "title": "The Week in Vulnerabilities: Toptech, Lantronix, Langflow, and CISA Malcolm Flaws"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america": {
+    "ts": "2026-10-14T17:54:04.833368+00:00",
+    "title": "Russian Influence Operation Widely Targeting Latin America"
+  },
+  "https://www.helpnetsecurity.com/2026/10/14/north-korean-it-workers-laptop-farms-arrests/": {
+    "ts": "2026-10-14T17:54:04.957359+00:00",
+    "title": "FBI raids 40+ laptop farms helping North Korea pocket US tech salaries"
+  },
+  "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/": {
+    "ts": "2026-10-14T17:54:05.082982+00:00",
+    "title": "U.K. Sanctions Cryptomus for RU Money Laundering"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/10/ai-worms-could-spread-across-your-smart-devices-anthropic-warns": {
+    "ts": "2026-10-14T17:54:05.202496+00:00",
+    "title": "AI worms could spread across your smart devices, Anthropic warns"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/": {
+    "ts": "2026-10-14T17:54:05.339624+00:00",
+    "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime"
+  },
+  "https://www.morphisec.com/blog/why-is-preemptive-cyber-defense-important-in-2026/": {
+    "ts": "2026-10-14T17:54:05.466479+00:00",
+    "title": "Why is Preemptive Cyber Defense Important in 2026?"
+  },
+  "https://www.rapid7.com/blog/post/ve-breaking-zimbra-identity-boundaries-part-1": {
+    "ts": "2026-10-14T17:54:05.466498+00:00",
+    "title": "From One Account to Every Mailbox: Breaking Zimbra's Identity Boundaries (Part 1)"
+  },
+  "https://www.recordedfuture.com/blog/tag193-regional-espionage-operations": {
+    "ts": "2026-10-14T17:54:05.606441+00:00",
+    "title": "TAG-193\u2019s Regional Espionage Operations"
+  },
+  "https://securityaffairs.com/200953/security/microsoft-patch-tuesday-sets-new-record-with-1415-cves-in-october-2026-updates.html": {
+    "ts": "2026-10-14T17:54:05.606462+00:00",
+    "title": "Microsoft Patch Tuesday Sets New Record with 1,415 CVEs in October 2026 Updates"
+  },
+  "https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/": {
+    "ts": "2026-10-14T17:54:05.735436+00:00",
+    "title": "AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds"
+  },
+  "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html": {
+    "ts": "2026-10-14T17:54:05.867920+00:00",
+    "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud"
+  },
+  "https://www.theregister.com/security/2026/10/14/ivanti-patches-connect-secure-zero-day-after-researchers-confirm-in-the-wild-attacks/5303095": {
+    "ts": "2026-10-14T17:54:05.992111+00:00",
+    "title": "Ivanti patches Connect Secure zero-day after researchers confirm in-the-wild attacks"
+  },
+  "https://threatmon.io/four-days-to-pay-how-fast-ransomware-gangs-leaked-data-in-september-2026/": {
+    "ts": "2026-10-14T17:54:06.120044+00:00",
+    "title": "Four Days to Pay: How Fast Ransomware Gangs Leaked Data in September 2026"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/": {
+    "ts": "2026-10-14T17:54:06.234397+00:00",
+    "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks"
+  },
+  "https://www.helpnetsecurity.com/2026/10/14/tines-it-security-ai-adoption-guide/": {
+    "ts": "2026-10-14T17:54:06.373745+00:00",
+    "title": "Download: The IT and security field guide to AI adoption"
+  },
+  "https://www.rapid7.com/blog/post/ve-unauthenticated-sql-injection-in-channel-software-weballiance-ecommerce": {
+    "ts": "2026-10-14T17:54:06.494982+00:00",
+    "title": "Unauthenticated SQL Injection In Channel Software WebAlliance eCommerce"
+  },
+  "https://www.securityweek.com/ics-patch-tuesday-siemens-issues-17-advisories-rockwell-fixes-armorblock-takeover-flaw/": {
+    "ts": "2026-10-14T17:54:06.495000+00:00",
+    "title": "ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw"
+  },
+  "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html": {
+    "ts": "2026-10-14T17:54:06.635333+00:00",
+    "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/": {
+    "ts": "2026-10-14T17:54:06.635352+00:00",
+    "title": "Microsoft fixes VPN issues caused by September Windows updates"
+  },
+  "https://www.helpnetsecurity.com/2026/10/14/openai-engineer-arrested-hidden-recording-device/": {
+    "ts": "2026-10-14T17:54:06.635356+00:00",
+    "title": "OpenAI engineer arrested for allegedly trying to eavesdrop on executive meetings"
+  },
+  "https://www.securityweek.com/harmonic-security-raises-50-million-for-workforce-ai-protection/": {
+    "ts": "2026-10-14T17:54:06.635359+00:00",
+    "title": "Harmonic Security Raises $50 Million for Workforce AI Protection"
+  },
+  "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html": {
+    "ts": "2026-10-14T17:54:06.767010+00:00",
+    "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/": {
+    "ts": "2026-10-14T17:54:06.900160+00:00",
+    "title": "The Blind Spots of Agentic Pentesting and How to Close Them"
+  },
+  "https://www.helpnetsecurity.com/2026/10/14/microsoft-patch-tuesday-cve-2026-96951-motw-bypass/": {
+    "ts": "2026-10-14T17:54:07.038635+00:00",
+    "title": "Microsoft fixes exploited Mark of the Web bypass vulnerability (CVE-2026-96951)"
+  },
+  "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/": {
+    "ts": "2026-10-14T17:54:07.169833+00:00",
+    "title": "Virtual Event Today: Zero Trust Strategies Summit"
+  },
+  "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html": {
+    "ts": "2026-10-14T17:54:07.309689+00:00",
+    "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team"
   }
 }

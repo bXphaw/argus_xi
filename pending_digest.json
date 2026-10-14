@@ -1,4 +1,40 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "Beware of Phishing Emails Disguised as Purchase Orders",
+      "url": "https://asec.ahnlab.com/en/95841/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations",
+      "url": "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/"
+    },
+    {
+      "category": "malware_macos",
+      "title": "The Week in Vulnerabilities: Toptech, Lantronix, Langflow, and CISA Malcolm Flaws",
+      "url": "https://cyble.com/blog/weekly-vulnerability-report-langflow-n8n-ics-flaws/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "TAG-193\u2019s Regional Espionage Operations",
+      "url": "https://www.recordedfuture.com/blog/tag193-regional-espionage-operations"
+    },
+    {
+      "category": "new_technique",
+      "title": "AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds",
+      "url": "https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
+      "url": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+      "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html"
+    }
+  ],
   "last_sent_date": "2026-10-14"
 }
