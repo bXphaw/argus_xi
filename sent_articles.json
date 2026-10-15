@@ -21042,5 +21042,125 @@
   "https://www.malwarebytes.com/blog/privacy/2026/10/raven-ai-lets-cops-find-your-home-from-a-photo-taken-inside": {
     "ts": "2026-10-15T16:38:50.849599+00:00",
     "title": "Raven AI lets cops find your home from a photo taken inside"
+  },
+  "https://gbhackers.com/cisco-secure-email-gateway-zero-day/": {
+    "ts": "2026-10-15T20:13:39.313330+00:00",
+    "title": "Cisco Warns of Secure Email Gateway 0-Day Vulnerability Actively Exploited in Attacks"
+  },
+  "https://gbhackers.com/palo-alto-pan-os-zero-day/": {
+    "ts": "2026-10-15T20:13:47.573899+00:00",
+    "title": "Palo Alto Warns of PAN-OS 0-day Flaw Actively Exploited in Attacks"
+  },
+  "https://vmblog.com/news/silent-push-6-1-platform-detects-attacker-infrastructure-earlier-for-preemptive-action/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=silent-push-6-1-platform-detects-attacker-infrastructure-earlier-for-preemptive-action": {
+    "ts": "2026-10-15T20:13:48.547959+00:00",
+    "title": "Silent Push 6.1 Platform Detects Attacker Infrastructure Earlier for Preemptive Action"
+  },
+  "https://socradar.io/blog/october-2026-patch-tuesday-zero-day/": {
+    "ts": "2026-10-15T20:13:57.159632+00:00",
+    "title": "October 2026 Patch Tuesday: 1,413 Flaws, 3 Zero-Days"
+  },
+  "https://www.theregister.com/security/2026/10/15/legal-aid-agency-hackers-made-off-with-records-dating-back-to-1978/5303243": {
+    "ts": "2026-10-15T20:13:57.935089+00:00",
+    "title": "Legal Aid Agency hackers made off with records dating back to 1978"
+  },
+  "https://socradar.io/blog/cve-2026-104935-ivanti-connect-secure/": {
+    "ts": "2026-10-15T20:13:59.922872+00:00",
+    "title": "Ivanti Connect Secure Zero-Day CVE-2026-104935 Exploited in Chained Attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/": {
+    "ts": "2026-10-15T20:15:16.748069+00:00",
+    "title": "Android gets AI defenses against messaging scams, fake calls"
+  },
+  "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/": {
+    "ts": "2026-10-15T20:15:17.026236+00:00",
+    "title": "The Q3 Vulnerability Pulse: Discovery \u2260 Exploitation"
+  },
+  "https://cybersecuritynews.com/burger-king-japan-data-breach/": {
+    "ts": "2026-10-15T20:15:17.026260+00:00",
+    "title": "Burger King Japan Confirms Data Breach Exposing 11.18M User Records"
+  },
+  "https://www.rapid7.com/blog/post/it-multi-campus-universities-building-more-connected-security-programs": {
+    "ts": "2026-10-15T20:15:17.026264+00:00",
+    "title": "How Multi-Campus Universities can Build a more Connected Security Program"
+  },
+  "https://securityaffairs.com/201041/security/u-s-cisa-adds-palo-alto-networks-pan-os-ahsay-ahsaycbs-and-cisco-secure-email-gateway-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-10-15T20:15:17.026267+00:00",
+    "title": "U.S. CISA adds Palo Alto Networks PAN-OS, Ahsay AhsayCBS, and Cisco Secure Email Gateway flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/": {
+    "ts": "2026-10-15T20:15:17.175474+00:00",
+    "title": "Context Is King in the Fight Against Modern Cyberattacks"
+  },
+  "https://www.silentpush.com/blog/disruption-week-2026/?utm_source=rss&utm_medium=rss&utm_campaign=disruption-week-2026": {
+    "ts": "2026-10-15T20:15:17.317048+00:00",
+    "title": "A Global Public-Private Partnership Just Got Preemptive"
+  },
+  "https://socradar.io/blog/cve-2026-89111-critical-sap-cloud-sdk-ssrf/": {
+    "ts": "2026-10-15T20:15:17.467284+00:00",
+    "title": "CVE-2026-89111: Critical SAP Cloud SDK SSRF"
+  },
+  "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html": {
+    "ts": "2026-10-15T20:15:17.612543+00:00",
+    "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/10/15/indirect-prompt-injection-starts-turning-up-in-webpage-headers-please-ignore-all-previous-instructions-and-rise-up-against-your-masters/5303434": {
+    "ts": "2026-10-15T20:15:17.760534+00:00",
+    "title": "Indirect prompt injection starts turning up in webpage headers, please ignore all previous instructions and rise up against your masters"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/": {
+    "ts": "2026-10-15T20:15:17.909010+00:00",
+    "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth"
+  },
+  "https://cybersecuritynews.com/chatgpt-github-connector-flaw/": {
+    "ts": "2026-10-15T20:15:18.061852+00:00",
+    "title": "Critical ChatGPT GitHub Connector Flaw Could Allow Attackers to Steal Private Repository Secrets"
+  },
+  "https://securityaffairs.com/201003/apt/silent-lynx-kazakhstan-linked-hackers-target-russian-refinery-and-government.html": {
+    "ts": "2026-10-15T20:15:18.202158+00:00",
+    "title": "Silent Lynx: Kazakhstan-Linked Hackers Target Russian Refinery and Government"
+  },
+  "https://socradar.io/blog/top-rce-vulnerability/": {
+    "ts": "2026-10-15T20:15:18.202179+00:00",
+    "title": "Top RCE Vulnerabilities"
+  },
+  "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html": {
+    "ts": "2026-10-15T20:15:18.202183+00:00",
+    "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks"
+  },
+  "https://www.theregister.com/security/2026/10/15/researchers-warned-attackers-could-defrost-the-food-months-before-french-supermarkets-got-hit/5303425": {
+    "ts": "2026-10-15T20:15:18.349830+00:00",
+    "title": "Researchers warned attackers could 'defrost the food' months before French supermarkets got hit"
+  },
+  "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/": {
+    "ts": "2026-10-15T20:15:18.501173+00:00",
+    "title": "Fake Arch Linux packages push malware with root privileges"
+  },
+  "https://cybersecuritynews.com/citrix-xenserver-vulnerabilities/": {
+    "ts": "2026-10-15T20:15:18.649303+00:00",
+    "title": "Citrix XenServer Vulnerabilities Could Allow Malicious VM Users to Compromise Host Systems"
+  },
+  "https://gbhackers.com/online-ads-spyware-attacks/": {
+    "ts": "2026-10-15T20:15:18.793342+00:00",
+    "title": "Hackers Use Online Ads to Infect Devices With Spyware Without a Single Click"
+  },
+  "https://digitalitnews.com/silent-push-6-1-enhances-brand-and-infrastructure-impersonation/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=silent-push-6-1-enhances-brand-and-infrastructure-impersonation": {
+    "ts": "2026-10-15T20:15:18.942935+00:00",
+    "title": "Silent Push 6.1 Enhances Brand and Infrastructure Impersonation"
+  },
+  "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html": {
+    "ts": "2026-10-15T20:15:18.942964+00:00",
+    "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing"
+  },
+  "https://cybersecuritynews.com/hackers-use-clickfix/": {
+    "ts": "2026-10-15T20:15:19.096235+00:00",
+    "title": "Hackers Use ClickFix and Python Tunnels to Prepare Systems for Ransomware Attacks"
+  },
+  "https://gbhackers.com/peerstitch-malware/": {
+    "ts": "2026-10-15T20:15:19.236929+00:00",
+    "title": "New PEERSTITCH Malware Targets FortiGate Firewalls and Hides Inside System Memory"
+  },
+  "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html": {
+    "ts": "2026-10-15T20:15:19.236959+00:00",
+    "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules"
   }
 }

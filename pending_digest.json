@@ -29,6 +29,36 @@
       "category": "malware_windows",
       "title": "CikaBika Bot RAT Uses Discord for C&C",
       "url": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "The Q3 Vulnerability Pulse: Discovery \u2260 Exploitation",
+      "url": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical ChatGPT GitHub Connector Flaw Could Allow Attackers to Steal Private Repository Secrets",
+      "url": "https://cybersecuritynews.com/chatgpt-github-connector-flaw/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Silent Lynx: Kazakhstan-Linked Hackers Target Russian Refinery and Government",
+      "url": "https://securityaffairs.com/201003/apt/silent-lynx-kazakhstan-linked-hackers-target-russian-refinery-and-government.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Use ClickFix and Python Tunnels to Prepare Systems for Ransomware Attacks",
+      "url": "https://cybersecuritynews.com/hackers-use-clickfix/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "New PEERSTITCH Malware Targets FortiGate Firewalls and Hides Inside System Memory",
+      "url": "https://gbhackers.com/peerstitch-malware/"
     }
   ],
   "last_sent_date": "2026-10-15"
