@@ -74,6 +74,16 @@
       "category": "new_technique",
       "title": "Hackers Use Fake WatchGuard VPN Download Site to Steal Login Credentials",
       "url": "https://cybersecuritynews.com/fake-watchguard-vpn/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "UAT-6275 Hackers Use WinRAR Exploit and GitHub PowerShell to Target CIS Governments",
+      "url": "https://gbhackers.com/uat-6275-cyberattack-campaign/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Cisco Secure Email Gateway 0-Day Vulnerability Actively Exploited in Attacks",
+      "url": "https://cybersecuritynews.com/cisco-secure-email-gateway-0-day-vulnerability/"
     }
   ],
   "last_sent_date": "2026-10-14"

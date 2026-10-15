@@ -20770,5 +20770,37 @@
   "https://gbhackers.com/ivanti-vpn-zero-days/": {
     "ts": "2026-10-15T00:22:40.043982+00:00",
     "title": "Hackers Chain 3 Ivanti VPN Zero-Days to Gain Root Access Without Authentication"
+  },
+  "https://cybersecuritynews.com/multiple-active-directory-vulnerabilities/": {
+    "ts": "2026-10-15T05:41:20.343508+00:00",
+    "title": "Multiple Active Directory Vulnerabilities Let Attackers Bypass Security Feature Remotely"
+  },
+  "https://gbhackers.com/uat-6275-cyberattack-campaign/": {
+    "ts": "2026-10-15T05:41:20.569732+00:00",
+    "title": "UAT-6275 Hackers Use WinRAR Exploit and GitHub PowerShell to Target CIS Governments"
+  },
+  "https://www.helpnetsecurity.com/2026/10/15/michael-scott-immuta-ai-agent-permissions/": {
+    "ts": "2026-10-15T05:41:20.569749+00:00",
+    "title": "Immuta CISO predicts critical AI incidents at major enterprises within 18 months"
+  },
+  "https://cybersecuritynews.com/pan-os-0-day-vulnerability/": {
+    "ts": "2026-10-15T05:41:20.569753+00:00",
+    "title": "Hackers Exploit Palo Alto PAN-OS 0-day Flaw to Gain Root Code Execution on Firewalls"
+  },
+  "https://www.helpnetsecurity.com/2026/10/15/exposed-ai-infrastructure-report/": {
+    "ts": "2026-10-15T05:41:20.569757+00:00",
+    "title": "The internet\u2019s attack surface moves at very different speeds"
+  },
+  "https://cybersecuritynews.com/cisco-secure-email-gateway-0-day-vulnerability/": {
+    "ts": "2026-10-15T05:41:20.796078+00:00",
+    "title": "Cisco Secure Email Gateway 0-Day Vulnerability Actively Exploited in Attacks"
+  },
+  "https://www.helpnetsecurity.com/2026/10/15/jetbrains-ai-software-delivery-report/": {
+    "ts": "2026-10-15T05:41:20.796097+00:00",
+    "title": "AI-generated changes create review bottlenecks in software delivery"
+  },
+  "https://www.helpnetsecurity.com/2026/10/15/product-showcase-guardos/": {
+    "ts": "2026-10-15T05:41:20.796101+00:00",
+    "title": "Product showcase: GuardOS checks QR links, scans for data breaches, and filters Safari content"
   }
 }
