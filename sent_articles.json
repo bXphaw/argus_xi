@@ -20690,5 +20690,85 @@
   "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html": {
     "ts": "2026-10-14T21:25:46.648483+00:00",
     "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave"
+  },
+  "https://securityaffairs.com/200965/hacking/u-s-cisa-adds-microsoft-windows-shell-flaw-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-10-15T00:21:20.945874+00:00",
+    "title": "U.S. CISA adds Microsoft Windows Shell\u00a0flaw to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/": {
+    "ts": "2026-10-15T00:22:37.447095+00:00",
+    "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks"
+  },
+  "https://cybersecuritynews.com/multiple-nginx-vulnerabilities/": {
+    "ts": "2026-10-15T00:22:37.447115+00:00",
+    "title": "Multiple NGINX Flaws Let Remote Attackers Crash Servers and Execute Malicious Code"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching": {
+    "ts": "2026-10-15T00:22:37.677669+00:00",
+    "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles"
+  },
+  "https://gbhackers.com/ransomware-gangs-threaten-employees-families/": {
+    "ts": "2026-10-15T00:22:37.677686+00:00",
+    "title": "Ransomware Gangs Threaten Employees\u2019 Families as AI-Powered Attacks Escalate"
+  },
+  "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/": {
+    "ts": "2026-10-15T00:22:37.872881+00:00",
+    "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant"
+  },
+  "https://www.theregister.com/security/2026/10/14/cisco-make-me-root-email-bug-exploited-as-a-0-day-by-unknown-crims/5303168": {
+    "ts": "2026-10-15T00:22:38.071866+00:00",
+    "title": "Cisco make-me-root email bug exploited as a 0-day by unknown crims"
+  },
+  "https://www.zscaler.com/blogs/security-research/threat-actor-abuses-agentic-ai-pentesting-framework-target-south-korean": {
+    "ts": "2026-10-15T00:22:38.270157+00:00",
+    "title": "Threat Actor Abuses Agentic AI Pentesting Framework to Target South Korean Financial Institutions"
+  },
+  "https://cybersecuritynews.com/curl-security-update-24-vulnerabilities/": {
+    "ts": "2026-10-15T00:22:38.466239+00:00",
+    "title": "24 Security Vulnerabilities Patched in curl Used Across 30 Billion Installations"
+  },
+  "https://gbhackers.com/windows-server-zero-day-flaw/": {
+    "ts": "2026-10-15T00:22:38.659568+00:00",
+    "title": "Windows Server Zero-Day Flaw Lets Attackers Crash Servers With a Single Malicious Packet"
+  },
+  "https://cybersecuritynews.com/how-mssps-can-cut-tier-1-bottlenecks-eating-into-profit-margins/": {
+    "ts": "2026-10-15T00:22:38.855223+00:00",
+    "title": "How MSSPs Can Cut Tier 1 Bottlenecks Eating into Profit Margins"
+  },
+  "https://gbhackers.com/google-chrome-update-fixes-37-security-vulnerabilities/": {
+    "ts": "2026-10-15T00:22:38.855237+00:00",
+    "title": "Google Chrome Update Fixes 37 Security Vulnerabilities, Including 7 Critical Flaws"
+  },
+  "https://cybersecuritynews.com/microsoft-recent-update-remote-desktop/": {
+    "ts": "2026-10-15T00:22:38.855242+00:00",
+    "title": "Microsoft\u2019s Recent Windows Updates Break Remote Desktop Services With Error \u201c0xC000000D\u201d"
+  },
+  "https://gbhackers.com/fake-watchguard-vpn-site/": {
+    "ts": "2026-10-15T00:22:39.061870+00:00",
+    "title": "Fake WatchGuard VPN Site Steals Credentials Then Delivers Legitimate Signed Installer"
+  },
+  "https://cybersecuritynews.com/fake-watchguard-vpn/": {
+    "ts": "2026-10-15T00:22:39.260609+00:00",
+    "title": "Hackers Use Fake WatchGuard VPN Download Site to Steal Login Credentials"
+  },
+  "https://gbhackers.com/windows-bitlocker-vulnerabilities/": {
+    "ts": "2026-10-15T00:22:39.260625+00:00",
+    "title": "Windows BitLocker Vulnerabilities Could Allow Attackers to Bypass Security Protections and Escalate Privileges"
+  },
+  "https://cybersecuritynews.com/west-african-scam-networks/": {
+    "ts": "2026-10-15T00:22:39.452990+00:00",
+    "title": "Meta, Google, Microsoft and OpenAI Join Global Crackdown on West African Scam Networks"
+  },
+  "https://gbhackers.com/ivanti-connect-secure-cve-2026-104935-flaw/": {
+    "ts": "2026-10-15T00:22:39.653060+00:00",
+    "title": "Ivanti Connect Secure CVE-2026-104935 Flaw Enables Unauthenticated Remote Code Execution"
+  },
+  "https://cybersecuritynews.com/poc-released-for-linux-vhost-flaw/": {
+    "ts": "2026-10-15T00:22:39.844967+00:00",
+    "title": "PoC Released for Linux Vhost Flaw Enabling Root Privilege Escalation and VM Escape"
+  },
+  "https://gbhackers.com/ivanti-vpn-zero-days/": {
+    "ts": "2026-10-15T00:22:40.043982+00:00",
+    "title": "Hackers Chain 3 Ivanti VPN Zero-Days to Gain Root Access Without Authentication"
   }
 }

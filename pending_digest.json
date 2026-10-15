@@ -54,6 +54,26 @@
       "category": "new_technique",
       "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
       "url": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",
+      "url": "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Fake WatchGuard VPN Site Steals Credentials Then Delivers Legitimate Signed Installer",
+      "url": "https://gbhackers.com/fake-watchguard-vpn-site/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Use Fake WatchGuard VPN Download Site to Steal Login Credentials",
+      "url": "https://cybersecuritynews.com/fake-watchguard-vpn/"
     }
   ],
   "last_sent_date": "2026-10-14"
