@@ -20922,5 +20922,125 @@
   "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/": {
     "ts": "2026-10-15T11:07:15.503251+00:00",
     "title": "Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution"
+  },
+  "https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/": {
+    "ts": "2026-10-15T16:36:54.462899+00:00",
+    "title": "Cisco Warns of Exploited Secure Email Gateway Vulnerability"
+  },
+  "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/": {
+    "ts": "2026-10-15T16:38:46.279490+00:00",
+    "title": "Is AI pentesting as good as a human pentester?"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you": {
+    "ts": "2026-10-15T16:38:46.279511+00:00",
+    "title": "Vulnerability Management Isn't About the Score \u2014 It's About How It Applies to You"
+  },
+  "https://www.forescout.com/blog/romulus-analysis-of-a-new-multi-payload-clickfix-delivery-platform/": {
+    "ts": "2026-10-15T16:38:46.507552+00:00",
+    "title": "ROMULUS: Analysis of a New Multi-Payload ClickFix Delivery Platform"
+  },
+  "https://www.helpnetsecurity.com/2026/10/15/kgb-rat-windows-trojan-webcam-spying-password-theft/": {
+    "ts": "2026-10-15T16:38:47.271503+00:00",
+    "title": "KGB RAT trojan packs webcam spying, password theft and a \u201cfun\u201d menu to terrorize victims"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/inside-help-tds-hotejka-cloudflare-pages-and-predictive-detection/": {
+    "ts": "2026-10-15T16:38:47.465994+00:00",
+    "title": "Inside Help TDS: Hotejka, Cloudflare Pages and Predictive Detection"
+  },
+  "https://www.malwarebytes.com/blog/bugs/2026/10/update-chrome-google-fixes-37-security-flaws-including-seven-critical-bugs": {
+    "ts": "2026-10-15T16:38:47.663551+00:00",
+    "title": "Update Chrome: Google fixes 37 security flaws, including seven critical bugs"
+  },
+  "https://www.recordedfuture.com/research/russia-restrictive-info-environment": {
+    "ts": "2026-10-15T16:38:47.868110+00:00",
+    "title": "Russia Is Tightening Internet Controls, Leading to Operational Risks"
+  },
+  "https://securityaffairs.com/201015/hacking/adfection-beyond-the-click-citizen-lab-exposes-ad-delivered-spyware-networks.html": {
+    "ts": "2026-10-15T16:38:48.059900+00:00",
+    "title": "AdFection: Beyond the Click: Citizen Lab Exposes Ad-Delivered Spyware Networks"
+  },
+  "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/": {
+    "ts": "2026-10-15T16:38:48.254185+00:00",
+    "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review"
+  },
+  "https://solutionsreview.com/endpoint-security/endpoint-security-and-network-monitoring-news-for-the-week-of-september-11th/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=endpoint-security-and-network-monitoring-news-for-the-week-of-september-11th-zscaler-hexnode-zayo-and-more": {
+    "ts": "2026-10-15T16:38:48.473163+00:00",
+    "title": "Endpoint Security and Network Monitoring News for the Week of September 11th: Zscaler, Hexnode, Zayo, and More"
+  },
+  "https://socradar.io/blog/cisco-secure-email-pan-os-0-days/": {
+    "ts": "2026-10-15T16:38:48.473187+00:00",
+    "title": "Cisco Secure Email & PAN-OS Zero-Days Exploited"
+  },
+  "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html": {
+    "ts": "2026-10-15T16:38:48.664921+00:00",
+    "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads"
+  },
+  "https://www.theregister.com/security/2026/10/15/spyware-vendors-found-a-way-to-make-targeted-ads-even-worse/5303334": {
+    "ts": "2026-10-15T16:38:48.664939+00:00",
+    "title": "Spyware vendors found a way to make targeted ads even worse"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/": {
+    "ts": "2026-10-15T16:38:48.664943+00:00",
+    "title": "Microsoft: Windows Server 2022 reached end of mainstream support"
+  },
+  "https://www.helpnetsecurity.com/2026/10/15/barracuda-fake-captcha-phishing-attacks/": {
+    "ts": "2026-10-15T16:38:48.857824+00:00",
+    "title": "Fake CAPTCHAs are tricking users into running malware on their own devices"
+  },
+  "https://www.malwarebytes.com/blog/product/2026/10/is-this-link-safe-find-out-with-malwarebytes-scam-link-check": {
+    "ts": "2026-10-15T16:38:49.058730+00:00",
+    "title": "Is this link safe? Find out with Malwarebytes Scam Link Check"
+  },
+  "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/": {
+    "ts": "2026-10-15T16:38:49.259258+00:00",
+    "title": "Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers"
+  },
+  "https://cyberinsurancenews.org/brand-impersonation-monitoring-underwriting-silent-push/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=silent-push-says-impersonation-monitoring-belongs-in-underwriting": {
+    "ts": "2026-10-15T16:38:49.470496+00:00",
+    "title": "Silent Push Says Impersonation Monitoring Belongs In Underwriting"
+  },
+  "https://socradar.io/blog/socradar-splunk-integration-mssp-vulnerability-apps/": {
+    "ts": "2026-10-15T16:38:49.661800+00:00",
+    "title": "SOCRadar Splunk Integration: New MSSP and Vulnerability Apps"
+  },
+  "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html": {
+    "ts": "2026-10-15T16:38:49.852635+00:00",
+    "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks"
+  },
+  "https://www.theregister.com/security/2026/10/15/bank-of-america-had-to-bring-in-1000-contractors-to-patch-all-the-bugs-mythos-identified/5303275": {
+    "ts": "2026-10-15T16:38:49.852655+00:00",
+    "title": "Bank of America had to bring in 1,000 contractors to patch all the bugs Mythos identified"
+  },
+  "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/": {
+    "ts": "2026-10-15T16:38:49.852658+00:00",
+    "title": "Police arrests 95 suspects in international CSAM crackdown action"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/sextortion-help-firm-took-60-million-from-victims-ftc-alleges": {
+    "ts": "2026-10-15T16:38:49.852662+00:00",
+    "title": "Sextortion \u201chelp\u201d firm took $60 million from victims, FTC alleges"
+  },
+  "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/": {
+    "ts": "2026-10-15T16:38:50.053564+00:00",
+    "title": "CikaBika Bot RAT Uses Discord for C&C"
+  },
+  "https://itnerd.blog/2026/09/09/silent-push-6-1-platform-detects-attacker-infrastructure-earlier-for-preemptive-action/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=silent-push-6-1-platform-detects-attacker-infrastructure-earlier-for-preemptive-action-2": {
+    "ts": "2026-10-15T16:38:50.053584+00:00",
+    "title": "Silent Push 6.1 Platform Detects Attacker Infrastructure Earlier for Preemptive Action"
+  },
+  "https://socradar.io/blog/cve-2026-105445-docker-hub-pat/": {
+    "ts": "2026-10-15T16:38:50.252962+00:00",
+    "title": "CVE-2026-105445: Docker Hub PAT Reassignment Flaw"
+  },
+  "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html": {
+    "ts": "2026-10-15T16:38:50.465667+00:00",
+    "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams"
+  },
+  "https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234": {
+    "ts": "2026-10-15T16:38:50.657109+00:00",
+    "title": "X purges 13,000 accounts linked to suspected meddling ahead of US midterms"
+  },
+  "https://www.malwarebytes.com/blog/privacy/2026/10/raven-ai-lets-cops-find-your-home-from-a-photo-taken-inside": {
+    "ts": "2026-10-15T16:38:50.849599+00:00",
+    "title": "Raven AI lets cops find your home from a photo taken inside"
   }
 }

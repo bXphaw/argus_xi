@@ -1,4 +1,35 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "ROMULUS: Analysis of a New Multi-Payload ClickFix Delivery Platform",
+      "url": "https://www.forescout.com/blog/romulus-analysis-of-a-new-multi-payload-clickfix-delivery-platform/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "KGB RAT trojan packs webcam spying, password theft and a \u201cfun\u201d menu to terrorize victims",
+      "url": "https://www.helpnetsecurity.com/2026/10/15/kgb-rat-windows-trojan-webcam-spying-password-theft/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Inside Help TDS: Hotejka, Cloudflare Pages and Predictive Detection",
+      "url": "https://www.infoblox.com/blog/threat-intelligence/inside-help-tds-hotejka-cloudflare-pages-and-predictive-detection/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
+      "url": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Fake CAPTCHAs are tricking users into running malware on their own devices",
+      "url": "https://www.helpnetsecurity.com/2026/10/15/barracuda-fake-captcha-phishing-attacks/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "CikaBika Bot RAT Uses Discord for C&C",
+      "url": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/"
+    }
+  ],
   "last_sent_date": "2026-10-15"
 }
