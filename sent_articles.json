@@ -20802,5 +20802,125 @@
   "https://www.helpnetsecurity.com/2026/10/15/product-showcase-guardos/": {
     "ts": "2026-10-15T05:41:20.796101+00:00",
     "title": "Product showcase: GuardOS checks QR links, scans for data breaches, and filters Safari content"
+  },
+  "https://www.helpnetsecurity.com/2026/10/15/microsoft-disrupting-phishing-kits-marketplace-yam-store/": {
+    "ts": "2026-10-15T11:05:31.030551+00:00",
+    "title": "Microsoft disrupts phishing network behind more than a billion scam messages"
+  },
+  "https://cybersecuritynews.com/microsoft-windows-server-0-day-flaw/": {
+    "ts": "2026-10-15T11:05:38.928133+00:00",
+    "title": "Microsoft Windows Server 0-Day Flaw Lets Attackers Crash Servers With a Single Packet"
+  },
+  "https://asec.ahnlab.com/en/95875/": {
+    "ts": "2026-10-15T11:07:12.314642+00:00",
+    "title": "Analysis of the Infrastructure of ARTEX, a Chinese AI Penetration Testing Tool #4 \u2013 The Birth of Copy Cat"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/": {
+    "ts": "2026-10-15T11:07:12.314662+00:00",
+    "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes"
+  },
+  "https://cybersecuritynews.com/cisa-urges-patch-ivanti-0-day/": {
+    "ts": "2026-10-15T11:07:12.314666+00:00",
+    "title": "CISA Warns of Hackers Exploiting Ivanti Connect Secure Zero-Day to Steal Credentials"
+  },
+  "https://cyble.com/blog/ghostx-forged-in-transit-licensed-to-deceive/": {
+    "ts": "2026-10-15T11:07:12.756115+00:00",
+    "title": "The GhostX Ecosystem: Forged in Transit, Licensed to Deceive"
+  },
+  "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware": {
+    "ts": "2026-10-15T11:07:12.756138+00:00",
+    "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware"
+  },
+  "https://gbhackers.com/nextjs-svg-image-processing-vulnerability/": {
+    "ts": "2026-10-15T11:07:12.950605+00:00",
+    "title": "Critical Next.js SVG Image Processing Vulnerability Could Enable Remote Code Execution"
+  },
+  "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/": {
+    "ts": "2026-10-15T11:07:13.143052+00:00",
+    "title": "CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products"
+  },
+  "https://securityaffairs.com/200985/security/cisco-urges-customers-to-patch-email-gateway-flaw-and-check-for-compromise.html": {
+    "ts": "2026-10-15T11:07:13.335994+00:00",
+    "title": "Cisco Urges Customers to Patch Email Gateway Flaw and Check for Compromise"
+  },
+  "https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/": {
+    "ts": "2026-10-15T11:07:13.534563+00:00",
+    "title": "Novel Android RAT \u2018Hirudo\u2019 Replaces Banking Apps With Trojanized Copies"
+  },
+  "https://www.security.com/threat-intelligence/aoki-infostealer-ai-targeting": {
+    "ts": "2026-10-15T11:07:13.729875+00:00",
+    "title": "Aoki: Infostealer Targets AI Coding Assistant Credentials"
+  },
+  "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html": {
+    "ts": "2026-10-15T11:07:13.729895+00:00",
+    "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1"
+  },
+  "https://www.theregister.com/security/2026/10/15/us-air-force-pilots-used-malware-laden-usb-drives-to-plan-afghanistan-missions/5303156": {
+    "ts": "2026-10-15T11:07:13.931035+00:00",
+    "title": "US Air Force pilots used malware-laden USB drives to plan Afghanistan missions"
+  },
+  "https://threatmon.io/wallstreet-ransomware-a-closer-look-at-swedens-unusual-victim-cluster/": {
+    "ts": "2026-10-15T11:07:14.133433+00:00",
+    "title": "Wallstreet Ransomware: A Closer Look at Sweden\u2019s Unusual Victim Cluster"
+  },
+  "https://www.welivesecurity.com/en/scams/medicare-open-enrollment-season-scams/": {
+    "ts": "2026-10-15T11:07:14.133452+00:00",
+    "title": "Medicare scam calls, texts and ads: What to watch for this Open Enrollment"
+  },
+  "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/": {
+    "ts": "2026-10-15T11:07:14.133456+00:00",
+    "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978"
+  },
+  "https://cybersecuritynews.com/microsoft-fixes-windows-11-update-issue/": {
+    "ts": "2026-10-15T11:07:14.324984+00:00",
+    "title": "Microsoft Fixes Windows 11 Update Issue that Causes Black Screen Errors or Windows Explorer crash"
+  },
+  "https://gbhackers.com/iron-man-phishing-as-a-service/": {
+    "ts": "2026-10-15T11:07:14.526196+00:00",
+    "title": "Iron Man Phishing-as-a-Service Kit Impersonates Banks, Couriers and Government Agencies Worldwide"
+  },
+  "https://securityaffairs.com/200970/malware/hirudo-android-trojan-replaces-banking-apps-to-steal-credentials.html": {
+    "ts": "2026-10-15T11:07:14.720664+00:00",
+    "title": "Hirudo Android Trojan Replaces Banking Apps to Steal Credentials"
+  },
+  "https://www.securityweek.com/centerpoint-energy-data-breach-impacts-1-million-texans/": {
+    "ts": "2026-10-15T11:07:14.921399+00:00",
+    "title": "CenterPoint Energy Data Breach Impacts 1 Million Texans"
+  },
+  "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html": {
+    "ts": "2026-10-15T11:07:15.114657+00:00",
+    "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/10/15/uk-keeps-ai-safeguards-in-the-maybe-pile-for-cyber-security-bill/5303026": {
+    "ts": "2026-10-15T11:07:15.114675+00:00",
+    "title": "UK keeps AI safeguards in the maybe pile for Cyber Security BIll"
+  },
+  "https://cybersecuritynews.com/ransomware-attacks-get-personal/": {
+    "ts": "2026-10-15T11:07:15.114679+00:00",
+    "title": "Ransomware Attacks Intensify: Criminals Shift Focus to Target Employees and Their Families"
+  },
+  "https://gbhackers.com/citrix-xenserver-uniconos-vulnerabilities/": {
+    "ts": "2026-10-15T11:07:15.114682+00:00",
+    "title": "Citrix Patches XenServer Vulnerabilities That Could Enable Host Compromise"
+  },
+  "https://www.securityweek.com/ciso-conversations-james-robinson-many-jobs-one-journey-to-netskope-ciso/": {
+    "ts": "2026-10-15T11:07:15.114686+00:00",
+    "title": "CISO Conversations: James Robinson \u2013 Many Jobs, One Journey to Netskope CISO"
+  },
+  "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html": {
+    "ts": "2026-10-15T11:07:15.307664+00:00",
+    "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts"
+  },
+  "https://www.theregister.com/security/2026/10/15/metropolitan-polices-unchecked-use-of-shoplifting-platform-lands-force-in-trouble-with-data-watchdog/5303061": {
+    "ts": "2026-10-15T11:07:15.307683+00:00",
+    "title": "Metropolitan Police's unchecked use of shoplifting platform lands force in trouble with data watchdog"
+  },
+  "https://gbhackers.com/cartoon-network-data-leak/": {
+    "ts": "2026-10-15T11:07:15.307688+00:00",
+    "title": "Cartoon Network Leak Exposes 200GB of Source Files, Storyboards and Animation Assets"
+  },
+  "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/": {
+    "ts": "2026-10-15T11:07:15.503251+00:00",
+    "title": "Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution"
   }
 }
