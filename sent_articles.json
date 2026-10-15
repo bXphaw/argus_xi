@@ -21162,5 +21162,53 @@
   "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html": {
     "ts": "2026-10-15T20:15:19.236959+00:00",
     "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/": {
+    "ts": "2026-10-15T23:36:36.046608+00:00",
+    "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape": {
+    "ts": "2026-10-15T23:36:36.046625+00:00",
+    "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust/": {
+    "ts": "2026-10-15T23:36:36.175225+00:00",
+    "title": "ARMORY CASTLE Exploits BeyondTrust"
+  },
+  "https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/": {
+    "ts": "2026-10-15T23:36:36.290936+00:00",
+    "title": "AI-Powered Espionage Campaign Targets Government Linux Infrastructure"
+  },
+  "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html": {
+    "ts": "2026-10-15T23:36:36.404921+00:00",
+    "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/10/15/jev-and-other-decision-models-can-still-be-tricked-with-prompt-injection/5303184": {
+    "ts": "2026-10-15T23:36:36.521423+00:00",
+    "title": "Jev and other decision models can still be tricked with prompt injection"
+  },
+  "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud": {
+    "ts": "2026-10-15T23:36:36.639951+00:00",
+    "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud"
+  },
+  "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html": {
+    "ts": "2026-10-15T23:36:36.763196+00:00",
+    "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early"
+  },
+  "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks": {
+    "ts": "2026-10-15T23:36:36.871530+00:00",
+    "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too"
+  },
+  "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html": {
+    "ts": "2026-10-15T23:36:36.990076+00:00",
+    "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation"
+  },
+  "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html": {
+    "ts": "2026-10-15T23:36:36.990094+00:00",
+    "title": "Why AI Confidence Is Not Validation"
+  },
+  "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html": {
+    "ts": "2026-10-15T23:36:37.096986+00:00",
+    "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches"
   }
 }

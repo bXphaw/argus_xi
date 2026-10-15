@@ -59,6 +59,31 @@
       "category": "malware_linux",
       "title": "New PEERSTITCH Malware Targets FortiGate Firewalls and Hides Inside System Memory",
       "url": "https://gbhackers.com/peerstitch-malware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "ARMORY CASTLE Exploits BeyondTrust",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "AI-Powered Espionage Campaign Targets Government Linux Infrastructure",
+      "url": "https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+      "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html"
     }
   ],
   "last_sent_date": "2026-10-15"
