@@ -21322,5 +21322,125 @@
   "https://www.helpnetsecurity.com/2026/10/16/fastfetch-2-70-0-released/": {
     "ts": "2026-10-16T08:53:36.265622+00:00",
     "title": "Fastfetch 2.70.0 changes how Disk free space is reported"
+  },
+  "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/": {
+    "ts": "2026-10-16T13:50:08.862638+00:00",
+    "title": "Burger King Japan data breach exposes 11 million customer records"
+  },
+  "https://securityaffairs.com/201086/hacking/u-s-cisa-adds-atlassian-flaw-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-10-16T13:50:14.857253+00:00",
+    "title": "U.S. CISA adds Atlassian\u00a0flaw to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.helpnetsecurity.com/2026/10/16/arch-linux-aur-malware-yay-paru/": {
+    "ts": "2026-10-16T13:50:26.760580+00:00",
+    "title": "Fake Arch Linux AUR packages exploit typos to run malware with root privileges"
+  },
+  "https://cybersecuritynews.com/hackers-use-ai-generated-scripts/": {
+    "ts": "2026-10-16T13:51:54.703037+00:00",
+    "title": "Hackers Use AI-Generated Scripts to Hijack Linux Sudo Commands and Steal Passwords"
+  },
+  "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable": {
+    "ts": "2026-10-16T13:51:54.703053+00:00",
+    "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable"
+  },
+  "https://gbhackers.com/mitre-attack-v20-ai-techniques/": {
+    "ts": "2026-10-16T13:51:54.703058+00:00",
+    "title": "MITRE ATT&CK v20 Adds New AI Attack Techniques for Prompt Injection and Data Theft"
+  },
+  "https://www.helpnetsecurity.com/2026/10/16/rfq-phishing-emails-sales-procurement-staff/": {
+    "ts": "2026-10-16T13:51:54.749043+00:00",
+    "title": "Hackers disguise phishing as promising business opportunities"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/spray-and-pray-job-applications-could-make-it-harder-for-you-to-spot-a-scam": {
+    "ts": "2026-10-16T13:51:54.749064+00:00",
+    "title": "\u201cSpray and pray\u201d job applications could make it harder for you to spot a scam"
+  },
+  "https://www.rapid7.com/blog/post/tr-rapid7-intelligence-wins-2026-peter-szor-award-outstanding-research": {
+    "ts": "2026-10-16T13:51:54.795040+00:00",
+    "title": "Rapid7 Intelligence Wins the 2026 P\u00e9ter Sz\u0151r Award for Outstanding Research"
+  },
+  "https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/": {
+    "ts": "2026-10-16T13:51:54.842176+00:00",
+    "title": "BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts"
+  },
+  "https://www.silentpush.com/news/singapore-imda-spark-programme/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-imda-spark-programme": {
+    "ts": "2026-10-16T13:51:54.887499+00:00",
+    "title": "Silent Push Joins Singapore's IMDA Spark Programme"
+  },
+  "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html": {
+    "ts": "2026-10-16T13:51:54.933568+00:00",
+    "title": "AI Decision Models and Their Impact on AI SOC Platforms"
+  },
+  "https://www.theregister.com/security/2026/10/16/attack-on-bae-managed-system-disrupts-us-bankruptcy-courts/5303487": {
+    "ts": "2026-10-16T13:51:54.979146+00:00",
+    "title": "Attack on BAE-managed system disrupts US bankruptcy courts"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/": {
+    "ts": "2026-10-16T13:51:54.979163+00:00",
+    "title": "Microsoft: October Windows update may break Smart App Control"
+  },
+  "https://cybersecuritynews.com/cloudflare-pages-domains/": {
+    "ts": "2026-10-16T13:51:54.979167+00:00",
+    "title": "Hackers Abuse 20,000 Cloudflare Pages Domains to Push Fake Microsoft Security Alerts"
+  },
+  "https://gbhackers.com/chrome-155-security-flaws/": {
+    "ts": "2026-10-16T13:51:54.979171+00:00",
+    "title": "Google Chrome 155 Patches Critical Use-After-Free Flaw and Nine Additional Security Bugs"
+  },
+  "https://www.helpnetsecurity.com/2026/10/16/usa-2026-midterm-election-scams/": {
+    "ts": "2026-10-16T13:51:54.979175+00:00",
+    "title": "Scammers clone candidates\u2019 voices to steal cash and voter data ahead of 2026 midterms, FBI warns"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/10/openai-sued-over-children-safety-and-data-use": {
+    "ts": "2026-10-16T13:51:54.979179+00:00",
+    "title": "OpenAI sued over children safety and data use"
+  },
+  "https://securityaffairs.com/201077/malware/peerstitch-malware-how-attackers-compromised-500-firewalls-through-fortimanager.html": {
+    "ts": "2026-10-16T13:51:55.030539+00:00",
+    "title": "PEERSTITCH malware: How Attackers Compromised 500 Firewalls Through FortiManager"
+  },
+  "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/": {
+    "ts": "2026-10-16T13:51:55.078677+00:00",
+    "title": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day"
+  },
+  "https://www.theregister.com/security/2026/10/16/thief-snatches-school-snappers-sd-cards-in-smash-grab/5303379": {
+    "ts": "2026-10-16T13:51:55.122635+00:00",
+    "title": "Thief snatches school snapper's SD cards in smash & grab"
+  },
+  "https://cybersecuritynews.com/breach-440-papercut-servers/": {
+    "ts": "2026-10-16T13:51:55.170441+00:00",
+    "title": "Hackers Use Codex and DeepSeek AI Agents to Breach 440 PaperCut Servers Worldwide"
+  },
+  "https://gbhackers.com/bae-systems-cybersecurity-incident/": {
+    "ts": "2026-10-16T13:51:55.216736+00:00",
+    "title": "BAE Systems Cybersecurity Incident Disrupts Bankruptcy Court Operations Across the U.S."
+  },
+  "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/": {
+    "ts": "2026-10-16T13:51:55.262458+00:00",
+    "title": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks"
+  },
+  "https://cybersecuritynews.com/ios-27-0-1-jailbreak-demonstrated/": {
+    "ts": "2026-10-16T13:51:55.306939+00:00",
+    "title": "iOS 27.0.1 Untethered Jailbreak Demonstrated on iPhone 18 Pro"
+  },
+  "https://gbhackers.com/google-android-scam-calls-texts/": {
+    "ts": "2026-10-16T13:51:55.306958+00:00",
+    "title": "Google Android Flags 5 Million Suspected Scam Calls and Texts Monthly"
+  },
+  "https://www.helpnetsecurity.com/2026/10/16/android-enhanced-built-in-scam-protection/": {
+    "ts": "2026-10-16T13:51:55.306963+00:00",
+    "title": "Android adds AI-powered scam alerts, hangs up on bank impostors"
+  },
+  "https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/": {
+    "ts": "2026-10-16T13:51:55.306967+00:00",
+    "title": "F5, Juniper Networks Patch Critical Vulnerabilities"
+  },
+  "https://cybersecuritynews.com/chinese-phishing-network-2/": {
+    "ts": "2026-10-16T13:51:55.306971+00:00",
+    "title": "Chinese Phishing Network Uses 17,000 Domains to Target Japanese Banks and Steal Credentials"
+  },
+  "https://gbhackers.com/20000-malicious-cloudflare-pages/": {
+    "ts": "2026-10-16T13:51:55.351571+00:00",
+    "title": "Researchers Uncover 20,000 Malicious Cloudflare Pages Domains Used in Tech Support Scams"
   }
 }

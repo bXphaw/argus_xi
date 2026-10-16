@@ -1,4 +1,30 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "Hackers Use AI-Generated Scripts to Hijack Linux Sudo Commands and Steal Passwords",
+      "url": "https://cybersecuritynews.com/hackers-use-ai-generated-scripts/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers disguise phishing as promising business opportunities",
+      "url": "https://www.helpnetsecurity.com/2026/10/16/rfq-phishing-emails-sales-procurement-staff/"
+    },
+    {
+      "category": "new_technique",
+      "title": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
+      "url": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/"
+    },
+    {
+      "category": "malware_ios",
+      "title": "iOS 27.0.1 Untethered Jailbreak Demonstrated on iPhone 18 Pro",
+      "url": "https://cybersecuritynews.com/ios-27-0-1-jailbreak-demonstrated/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Researchers Uncover 20,000 Malicious Cloudflare Pages Domains Used in Tech Support Scams",
+      "url": "https://gbhackers.com/20000-malicious-cloudflare-pages/"
+    }
+  ],
   "last_sent_date": "2026-10-16"
 }
