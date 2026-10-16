@@ -21258,5 +21258,69 @@
   "https://cybersecuritynews.com/kgb-rat-malware/": {
     "ts": "2026-10-16T03:50:27.628037+00:00",
     "title": "KGB RAT Malware Bypasses Windows Defender to Steal Credentials and Control PCs"
+  },
+  "https://securityaffairs.com/201054/cyber-crime/centerpoint-energy-data-breach-more-than-1-million-texans-affected.html": {
+    "ts": "2026-10-16T08:52:33.188102+00:00",
+    "title": "CenterPoint Energy Data Breach: More Than 1 Million Texans Affected"
+  },
+  "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/": {
+    "ts": "2026-10-16T08:53:35.884591+00:00",
+    "title": "BAE Systems cyberattack disrupts US federal court operations"
+  },
+  "https://www.helpnetsecurity.com/2026/10/16/david-fuhr-intcube-active-directory-security/": {
+    "ts": "2026-10-16T08:53:35.884609+00:00",
+    "title": "Why Active Directory weaknesses stay open for years in teams with one or two admins"
+  },
+  "https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/": {
+    "ts": "2026-10-16T08:53:35.884613+00:00",
+    "title": "Microsoft Patches Two Dozen RCE Flaws in Office"
+  },
+  "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html": {
+    "ts": "2026-10-16T08:53:35.953801+00:00",
+    "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers"
+  },
+  "https://www.theregister.com/security/2026/10/16/user-refused-to-change-her-password-because-everyone-already-knew-it/5301864": {
+    "ts": "2026-10-16T08:53:35.953818+00:00",
+    "title": "User refused to change her password because everyone already knew it"
+  },
+  "https://threatmon.io/open-ports-arent-the-problem-unknown-exposure-is/": {
+    "ts": "2026-10-16T08:53:35.997032+00:00",
+    "title": "Open Ports Aren\u2019t the Problem. Unknown Exposure Is."
+  },
+  "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/": {
+    "ts": "2026-10-16T08:53:36.041721+00:00",
+    "title": "BeyondTrust patches zero-day exploited in attacks since August"
+  },
+  "https://www.helpnetsecurity.com/2026/10/16/cybersecurity-job-postings-talent-shortage/": {
+    "ts": "2026-10-16T08:53:36.085015+00:00",
+    "title": "The cyber talent shortage? Job postings just hit a four-year low"
+  },
+  "https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/": {
+    "ts": "2026-10-16T08:53:36.127561+00:00",
+    "title": "Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis"
+  },
+  "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html": {
+    "ts": "2026-10-16T08:53:36.174898+00:00",
+    "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing"
+  },
+  "https://www.helpnetsecurity.com/2026/10/16/stolen-ai-api-keys-autonomous-scans/": {
+    "ts": "2026-10-16T08:53:36.218432+00:00",
+    "title": "Stolen AI API keys are paying for hackers\u2019 autonomous scans"
+  },
+  "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html": {
+    "ts": "2026-10-16T08:53:36.265597+00:00",
+    "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions"
+  },
+  "https://www.helpnetsecurity.com/2026/10/16/netscout-ddos-attack-growth-report/": {
+    "ts": "2026-10-16T08:53:36.265614+00:00",
+    "title": "DDoS attacks can knock services offline before links reach capacity"
+  },
+  "https://www.helpnetsecurity.com/2026/10/16/new-infosec-products-of-the-week-october-16-2026/": {
+    "ts": "2026-10-16T08:53:36.265618+00:00",
+    "title": "New infosec products of the week: October 16, 2026"
+  },
+  "https://www.helpnetsecurity.com/2026/10/16/fastfetch-2-70-0-released/": {
+    "ts": "2026-10-16T08:53:36.265622+00:00",
+    "title": "Fastfetch 2.70.0 changes how Disk free space is reported"
   }
 }
