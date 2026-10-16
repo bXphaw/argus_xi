@@ -24,6 +24,31 @@
       "category": "new_technique",
       "title": "Researchers Uncover 20,000 Malicious Cloudflare Pages Domains Used in Tech Support Scams",
       "url": "https://gbhackers.com/20000-malicious-cloudflare-pages/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+      "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "When Your Ransomware Negotiator Works for the Other Side",
+      "url": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Investigating Ephemeral Supply Chain Tampering",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "CVE-2026-102764: BeyondTrust Zero-Day Exploited",
+      "url": "https://socradar.io/blog/cve-2026-102764-beyondtrust-zero-day/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html"
     }
   ],
   "last_sent_date": "2026-10-16"

@@ -21442,5 +21442,85 @@
   "https://gbhackers.com/20000-malicious-cloudflare-pages/": {
     "ts": "2026-10-16T13:51:55.351571+00:00",
     "title": "Researchers Uncover 20,000 Malicious Cloudflare Pages Domains Used in Tech Support Scams"
+  },
+  "https://securityaffairs.com/201119/security/burger-king-japan-data-breach-impacted-11-million-customers.html": {
+    "ts": "2026-10-16T17:53:14.810975+00:00",
+    "title": "Burger King Japan Data Breach Impacted 11 Million Customers"
+  },
+  "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/": {
+    "ts": "2026-10-16T17:54:36.699057+00:00",
+    "title": "Zero-click attacks used targeted ads to deliver Candiru spyware"
+  },
+  "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side": {
+    "ts": "2026-10-16T17:54:36.812264+00:00",
+    "title": "When Your Ransomware Negotiator Works for the Other Side"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/": {
+    "ts": "2026-10-16T17:54:36.946851+00:00",
+    "title": "Investigating Ephemeral Supply Chain Tampering"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/10/eiliko-robot-companion-exposes-private-chats-and-can-be-hijacked": {
+    "ts": "2026-10-16T17:54:36.946863+00:00",
+    "title": "Eiliko robot companion exposes private chats and can be hijacked"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/": {
+    "ts": "2026-10-16T17:54:36.946866+00:00",
+    "title": "Managing open-weight model risk in enterprise deployments"
+  },
+  "https://moonlock.com/vinted-scams": {
+    "ts": "2026-10-16T17:54:37.068249+00:00",
+    "title": "Is Vinted legit? Why so many Vinted scams start with leaving the app"
+  },
+  "https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/": {
+    "ts": "2026-10-16T17:54:37.198176+00:00",
+    "title": "Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026"
+  },
+  "https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229": {
+    "ts": "2026-10-16T17:54:37.308749+00:00",
+    "title": "Rapid7 Analysis: GitLab CI/CD Regex Integer Overflow (CVE-2026-97229)"
+  },
+  "https://www.recordedfuture.com/blog/tag-217-artex-south-korean-banks": {
+    "ts": "2026-10-16T17:54:37.429532+00:00",
+    "title": "TAG-217 Targets South Korean Financial Services with ARTEX"
+  },
+  "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/": {
+    "ts": "2026-10-16T17:54:37.552770+00:00",
+    "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit"
+  },
+  "https://www.sekoia.com/blog/isoc-when-the-soc-stops-being-a-stack-of-tools": {
+    "ts": "2026-10-16T17:54:37.552781+00:00",
+    "title": "Integrated Security Operations Center (ISOC): What It Means"
+  },
+  "https://socradar.io/blog/cve-2026-102764-beyondtrust-zero-day/": {
+    "ts": "2026-10-16T17:54:37.657620+00:00",
+    "title": "CVE-2026-102764: BeyondTrust Zero-Day Exploited"
+  },
+  "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html": {
+    "ts": "2026-10-16T17:54:37.788200+00:00",
+    "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor"
+  },
+  "https://www.theregister.com/security/2026/10/16/networking-problems-after-the-october-2026-windows-update-ntlm-might-be-to-blame/5303503": {
+    "ts": "2026-10-16T17:54:37.788213+00:00",
+    "title": "Networking problems after the October 2026 Windows update? NTLM might be to blame"
+  },
+  "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/": {
+    "ts": "2026-10-16T17:54:37.788216+00:00",
+    "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do"
+  },
+  "https://www.recordedfuture.com/blog/working-in-boston": {
+    "ts": "2026-10-16T17:54:37.931939+00:00",
+    "title": "Working in Boston at the World\u2019s Largest Intelligence Company"
+  },
+  "https://securityaffairs.com/201106/security/f5-addressed-critical-rce-flaws-in-nginx.html": {
+    "ts": "2026-10-16T17:54:38.051819+00:00",
+    "title": "F5 addressed critical RCE flaws in NGINX"
+  },
+  "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html": {
+    "ts": "2026-10-16T17:54:38.162784+00:00",
+    "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing"
+  },
+  "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html": {
+    "ts": "2026-10-16T17:54:38.278338+00:00",
+    "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract"
   }
 }
