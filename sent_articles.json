@@ -21594,5 +21594,21 @@
   "https://gbhackers.com/ai-agents-target-papercut/": {
     "ts": "2026-10-16T20:44:28.240260+00:00",
     "title": "Hackers Use Hundreds of AI Agents to Exploit PaperCut Servers and Steal Windows Credentials"
+  },
+  "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs": {
+    "ts": "2026-10-16T23:21:07.837209+00:00",
+    "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs"
+  },
+  "https://threatmon.io/mosad-threat-actor-report/": {
+    "ts": "2026-10-16T23:21:07.966006+00:00",
+    "title": "Mosad Threat Actor Report"
+  },
+  "https://www.zscaler.com/blogs/security-research/ransomware-machine-speed-how-genai-shrinks-path-after-initial-access": {
+    "ts": "2026-10-16T23:21:07.966030+00:00",
+    "title": "Ransomware at Machine Speed: How GenAI Shrinks the Path after Initial Access"
+  },
+  "https://www.zscaler.com/blogs/security-research/cve-2026-88771-inside-exploitation-critical-netscaler-rce-vulnerability": {
+    "ts": "2026-10-16T23:21:08.099818+00:00",
+    "title": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability"
   }
 }

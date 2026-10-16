@@ -79,6 +79,21 @@
       "category": "malware_windows",
       "title": "New Aoki Malware Targets ChatGPT, Claude, Codex and Gemini to Steal Credentials",
       "url": "https://cybersecuritynews.com/new-aoki-malware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
+      "url": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Mosad Threat Actor Report",
+      "url": "https://threatmon.io/mosad-threat-actor-report/"
+    },
+    {
+      "category": "new_technique",
+      "title": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
+      "url": "https://www.zscaler.com/blogs/security-research/cve-2026-88771-inside-exploitation-critical-netscaler-rce-vulnerability"
     }
   ],
   "last_sent_date": "2026-10-16"
