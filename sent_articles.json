@@ -21522,5 +21522,77 @@
   "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html": {
     "ts": "2026-10-16T17:54:38.278338+00:00",
     "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/": {
+    "ts": "2026-10-16T20:44:27.671840+00:00",
+    "title": "Critical BlockStrap flaw lets hackers run code on Magento servers"
+  },
+  "https://cybersecuritynews.com/new-romulus-clickfix-platform/": {
+    "ts": "2026-10-16T20:44:27.716044+00:00",
+    "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver Malware and Evade Security Detection"
+  },
+  "https://cyble.com/blog/ai-agent-security-awareness-month/": {
+    "ts": "2026-10-16T20:44:27.716055+00:00",
+    "title": "Your AI Agent Doesn\u2019t Have MFA"
+  },
+  "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk": {
+    "ts": "2026-10-16T20:44:27.716060+00:00",
+    "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk"
+  },
+  "https://gbhackers.com/ios-27-0-1-untethered-jailbreak/": {
+    "ts": "2026-10-16T20:44:27.760479+00:00",
+    "title": "Researchers Demonstrate iOS 27.0.1 Untethered Jailbreak on iPhone 18 Pro"
+  },
+  "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html": {
+    "ts": "2026-10-16T20:44:27.803965+00:00",
+    "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug"
+  },
+  "https://www.volexity.com/blog/2026/10/16/mind-the-patch-gap-part-3-analysis-with-volexity-volcano-threat-intel-and-mcp/": {
+    "ts": "2026-10-16T20:44:27.847986+00:00",
+    "title": "Mind the (Patch) Gap , Part 3: Analysis with Volexity Volcano, Threat Intel, and MCP"
+  },
+  "https://cybersecuritynews.com/new-yuankong-android-rat/": {
+    "ts": "2026-10-16T20:44:27.892035+00:00",
+    "title": "New YuanKong Android RAT Hijacks Phones to Steal Banking PINs and Passwords"
+  },
+  "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield": {
+    "ts": "2026-10-16T20:44:27.941069+00:00",
+    "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform"
+  },
+  "https://gbhackers.com/moveit-transfer-security-flaws/": {
+    "ts": "2026-10-16T20:44:27.983527+00:00",
+    "title": "Progress Warns of MOVEit Transfer Vulnerabilities Allowing Authentication Bypass and Privilege Escalation"
+  },
+  "https://cybersecuritynews.com/37-year-old-kernel-openbsd-flaw/": {
+    "ts": "2026-10-16T20:44:28.025490+00:00",
+    "title": "37-Year-Old Kernel Flaw Exploited to Gain Root Access on OpenBSD \u2014 PoC Released"
+  },
+  "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise": {
+    "ts": "2026-10-16T20:44:28.025501+00:00",
+    "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise"
+  },
+  "https://gbhackers.com/beyondtrust-zero-day-security-logs/": {
+    "ts": "2026-10-16T20:44:28.067155+00:00",
+    "title": "Hackers Exploit BeyondTrust Zero-Day and Erase Security Logs to Hide Their Tracks"
+  },
+  "https://cybersecuritynews.com/new-aoki-malware/": {
+    "ts": "2026-10-16T20:44:28.112685+00:00",
+    "title": "New Aoki Malware Targets ChatGPT, Claude, Codex and Gemini to Steal Credentials"
+  },
+  "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes": {
+    "ts": "2026-10-16T20:44:28.112731+00:00",
+    "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat"
+  },
+  "https://gbhackers.com/collabora-online-nextcloud-security-flaw/": {
+    "ts": "2026-10-16T20:44:28.155782+00:00",
+    "title": "Critical Collabora Online Flaw Lets Attackers Execute Commands on Nextcloud Servers"
+  },
+  "https://cybersecuritynews.com/google-automatically-adds-your-phone-number/": {
+    "ts": "2026-10-16T20:44:28.197146+00:00",
+    "title": "Google Automatically Adds Your Phone Number to Every Google Account on Your Android Phone"
+  },
+  "https://gbhackers.com/ai-agents-target-papercut/": {
+    "ts": "2026-10-16T20:44:28.240260+00:00",
+    "title": "Hackers Use Hundreds of AI Agents to Exploit PaperCut Servers and Steal Windows Credentials"
   }
 }

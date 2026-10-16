@@ -49,6 +49,36 @@
       "category": "malware_windows",
       "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
       "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver Malware and Evade Security Detection",
+      "url": "https://cybersecuritynews.com/new-romulus-clickfix-platform/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Researchers Demonstrate iOS 27.0.1 Untethered Jailbreak on iPhone 18 Pro",
+      "url": "https://gbhackers.com/ios-27-0-1-untethered-jailbreak/"
+    },
+    {
+      "category": "new_technique",
+      "title": "37-Year-Old Kernel Flaw Exploited to Gain Root Access on OpenBSD \u2014 PoC Released",
+      "url": "https://cybersecuritynews.com/37-year-old-kernel-openbsd-flaw/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Hackers Exploit BeyondTrust Zero-Day and Erase Security Logs to Hide Their Tracks",
+      "url": "https://gbhackers.com/beyondtrust-zero-day-security-logs/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "New Aoki Malware Targets ChatGPT, Claude, Codex and Gemini to Steal Credentials",
+      "url": "https://cybersecuritynews.com/new-aoki-malware/"
     }
   ],
   "last_sent_date": "2026-10-16"
