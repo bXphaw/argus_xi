@@ -21210,5 +21210,53 @@
   "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html": {
     "ts": "2026-10-15T23:36:37.096986+00:00",
     "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches"
+  },
+  "https://cybersecuritynews.com/uk-legal-aid-agency-data-breach/": {
+    "ts": "2026-10-16T03:49:35.411709+00:00",
+    "title": "UK Legal Aid Agency Data Breach Exposes Personal Records Dating Back to 1978"
+  },
+  "https://asec.ahnlab.com/en/95883/": {
+    "ts": "2026-10-16T03:50:25.807536+00:00",
+    "title": "September 2026 Threat Trend Report on APT Groups"
+  },
+  "https://cybersecuritynews.com/linux-kernel-flaw-2/": {
+    "ts": "2026-10-16T03:50:26.296739+00:00",
+    "title": "Critical Linux Kernel Flaw Lets Attackers Escape Virtual Machines and Take Control of Hosts"
+  },
+  "https://gbhackers.com/uk-legal-aid-cyberattack/": {
+    "ts": "2026-10-16T03:50:26.296757+00:00",
+    "title": "Hackers Steal UK Legal Aid Records Dating Back to 1978 in Major Cyberattack"
+  },
+  "https://asec.ahnlab.com/en/95879/": {
+    "ts": "2026-10-16T03:50:26.484291+00:00",
+    "title": "An Analysis of Suo5-Based Tunneling and Pivoting Attack Techniques Through Case Studies"
+  },
+  "https://cybersecuritynews.com/chinese-phishing-network/": {
+    "ts": "2026-10-16T03:50:26.484333+00:00",
+    "title": "Chinese Phishing Network Linked to 1 Billion Messages Targeting 75,000 Organizations"
+  },
+  "https://gbhackers.com/lorem-ipsum-malware-deployment/": {
+    "ts": "2026-10-16T03:50:26.670909+00:00",
+    "title": "New ClickFix Attack Deploys Lorem Ipsum Malware Loader to Establish Remote Access"
+  },
+  "https://cybersecuritynews.com/0-click-spyware-infects-devices/": {
+    "ts": "2026-10-16T03:50:26.864823+00:00",
+    "title": "Just Viewing an Online Ad Can Infect Your Device With Spyware, Researchers Reveal"
+  },
+  "https://gbhackers.com/claude-code-helps-linux-creator-address-longstanding-kernel-memory-performance-bottleneck/": {
+    "ts": "2026-10-16T03:50:27.052058+00:00",
+    "title": "Claude Code Helps Linux Creator Address Longstanding Kernel Memory Performance Bottleneck"
+  },
+  "https://cybersecuritynews.com/ai-agents-4/": {
+    "ts": "2026-10-16T03:50:27.242707+00:00",
+    "title": "AI Agents Create an Unseen Credential Surface That Exposes API Keys and Cloud Secrets"
+  },
+  "https://gbhackers.com/ai-agent-workflows/": {
+    "ts": "2026-10-16T03:50:27.437447+00:00",
+    "title": "AI Agent Workflows Could Expose Credentials Through Trusted Developer Tools"
+  },
+  "https://cybersecuritynews.com/kgb-rat-malware/": {
+    "ts": "2026-10-16T03:50:27.628037+00:00",
+    "title": "KGB RAT Malware Bypasses Windows Defender to Steal Credentials and Control PCs"
   }
 }

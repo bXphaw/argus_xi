@@ -84,6 +84,16 @@
       "category": "new_technique",
       "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
       "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical Linux Kernel Flaw Lets Attackers Escape Virtual Machines and Take Control of Hosts",
+      "url": "https://cybersecuritynews.com/linux-kernel-flaw-2/"
+    },
+    {
+      "category": "new_technique",
+      "title": "An Analysis of Suo5-Based Tunneling and Pivoting Attack Techniques Through Case Studies",
+      "url": "https://asec.ahnlab.com/en/95879/"
     }
   ],
   "last_sent_date": "2026-10-15"
