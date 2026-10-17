@@ -21702,5 +21702,13 @@
   "https://gbhackers.com/ghostaction-hackers-hide-credential-stealing-malware/": {
     "ts": "2026-10-17T12:48:53.450563+00:00",
     "title": "GhostAction Hackers Hide Credential-Stealing Malware in Fake Font Files Across 94 GitHub Repositories"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/": {
+    "ts": "2026-10-17T16:12:43.394659+00:00",
+    "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack"
+  },
+  "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/": {
+    "ts": "2026-10-17T16:12:43.394684+00:00",
+    "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon"
   }
 }
