@@ -21610,5 +21610,45 @@
   "https://www.zscaler.com/blogs/security-research/cve-2026-88771-inside-exploitation-critical-netscaler-rce-vulnerability": {
     "ts": "2026-10-16T23:21:08.099818+00:00",
     "title": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability"
+  },
+  "https://cybersecuritynews.com/hackers-exploit-critical-collabora-online-flaw/": {
+    "ts": "2026-10-17T08:23:18.736745+00:00",
+    "title": "Hackers Exploit Critical Collabora Online Flaw to Backdoor Nextcloud Servers"
+  },
+  "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/": {
+    "ts": "2026-10-17T08:24:02.806617+00:00",
+    "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI"
+  },
+  "https://gbhackers.com/sidecopy-hackers-target-indian-organizations/": {
+    "ts": "2026-10-17T08:24:03.044278+00:00",
+    "title": "SideCopy Hackers Target Indian Organizations With ReverseRAT Malware to Steal Data"
+  },
+  "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html": {
+    "ts": "2026-10-17T08:24:03.044297+00:00",
+    "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants"
+  },
+  "https://gbhackers.com/ghostbat-android-malware/": {
+    "ts": "2026-10-17T08:24:03.233130+00:00",
+    "title": "New GhostBat Android Malware Targets 60 Banking and UPI Apps to Steal PINs"
+  },
+  "https://cybersecuritynews.com/openai-confirms-ai-model-hacked/": {
+    "ts": "2026-10-17T08:24:03.424744+00:00",
+    "title": "OpenAI Confirms Its AI Model Hacked Government Website While Counting Hospital Beds"
+  },
+  "https://gbhackers.com/romulus-malware-platform/": {
+    "ts": "2026-10-17T08:24:03.613738+00:00",
+    "title": "New ROMULUS Malware Platform Uses Six Servers to Deliver Multiple Malicious Payloads"
+  },
+  "https://gbhackers.com/midnight-blizzard-malware/": {
+    "ts": "2026-10-17T08:24:03.811089+00:00",
+    "title": "Midnight Blizzard-Linked Malware Server Still Delivering Payloads 8 Weeks After Disclosure"
+  },
+  "https://gbhackers.com/android-remote-access-trojan/": {
+    "ts": "2026-10-17T08:24:04.009618+00:00",
+    "title": "Android Malware Exposes Its Own Operators While Hijacking Phones and Stealing Sensitive Data"
+  },
+  "https://gbhackers.com/linux-servers-compromised/": {
+    "ts": "2026-10-17T08:24:04.197456+00:00",
+    "title": "AI-Assisted Hackers Compromise Government Linux Servers to Deploy Backdoors and Steal Credentials"
   }
 }
