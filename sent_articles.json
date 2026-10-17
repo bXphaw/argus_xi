@@ -21710,5 +21710,13 @@
   "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/": {
     "ts": "2026-10-17T16:12:43.394684+00:00",
     "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon"
+  },
+  "https://cybersecuritynews.com/claude-ai-cryptography-mystery/": {
+    "ts": "2026-10-17T19:07:01.383377+00:00",
+    "title": "Claude AI Solves 25-Year NSA Cryptography Mystery in Just 30 Minutes"
+  },
+  "https://securityaffairs.com/201193/intelligence/north-korean-it-workers-used-stolen-us-identities-to-earn-3-million.html": {
+    "ts": "2026-10-17T19:07:01.599564+00:00",
+    "title": "North Korean IT Workers Used Stolen US Identities to Earn $3 Million"
   }
 }
