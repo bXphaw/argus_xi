@@ -21650,5 +21650,57 @@
   "https://gbhackers.com/linux-servers-compromised/": {
     "ts": "2026-10-17T08:24:04.197456+00:00",
     "title": "AI-Assisted Hackers Compromise Government Linux Servers to Deploy Backdoors and Steal Credentials"
+  },
+  "https://cybersecuritynews.com/connectwise-credentials-microsoft-365-accounts/": {
+    "ts": "2026-10-17T12:47:58.533593+00:00",
+    "title": "Hackers used Compromised ConnectWise Backup Credentials to Hack 173 Microsoft 365 Accounts"
+  },
+  "https://gbhackers.com/hackers-use-connectwise-skykick-credentials/": {
+    "ts": "2026-10-17T12:48:52.211112+00:00",
+    "title": "Hackers Use ConnectWise SkyKick Credentials to Access Microsoft 365, Halting Cloud Backups"
+  },
+  "https://securityaffairs.com/201178/security/u-s-cisa-adds-fortinet-multiple-products-and-beyondtrust-remote-support-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-10-17T12:48:52.211134+00:00",
+    "title": "U.S. CISA adds Fortinet Multiple Products and BeyondTrust Remote Support flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/": {
+    "ts": "2026-10-17T12:48:52.345009+00:00",
+    "title": "Israeli Ad Firm Doubled as Candiru\u2019s Zero-Click Spyware Delivery Channel"
+  },
+  "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html": {
+    "ts": "2026-10-17T12:48:52.479845+00:00",
+    "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon"
+  },
+  "https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677": {
+    "ts": "2026-10-17T12:48:52.479866+00:00",
+    "title": "Cybercrims go beyond stealing data to attack physical building systems"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/inbox-flooded-signup-messages-email-bombing/": {
+    "ts": "2026-10-17T12:48:52.614536+00:00",
+    "title": "Inbox flooded with sign-up messages? Email bombing explained"
+  },
+  "https://gbhackers.com/anthropics-claude-ai-nsa-provided-cryptographic-keys/": {
+    "ts": "2026-10-17T12:48:52.756494+00:00",
+    "title": "Anthropic\u2019s Claude AI Uncovers Origins of NSA-Provided Cryptographic Keys After 25 Years"
+  },
+  "https://securityaffairs.com/201166/security/bae-systems-cyber-incident-takes-us-bankruptcy-noticing-center-offline-for-a-week.html": {
+    "ts": "2026-10-17T12:48:52.899628+00:00",
+    "title": "BAE Systems Cyber Incident Takes US Bankruptcy Noticing Center Offline for a Week"
+  },
+  "https://gbhackers.com/critical-wordpress-flaws/": {
+    "ts": "2026-10-17T12:48:53.034029+00:00",
+    "title": "Critical WordPress Flaws Allow Attackers to Execute Remote Code Without Authentication"
+  },
+  "https://securityaffairs.com/201130/ai/ai-agents-accessed-indian-organizations-without-authorization-cert-in-warns.html": {
+    "ts": "2026-10-17T12:48:53.167927+00:00",
+    "title": "AI Agents Accessed Indian Organizations Without Authorization, CERT-In Warns"
+  },
+  "https://gbhackers.com/openbsd-kernel-flaw/": {
+    "ts": "2026-10-17T12:48:53.305956+00:00",
+    "title": "OpenBSD Kernel Flaw Dating Back 37 Years Enables Local Privilege Escalation to Root"
+  },
+  "https://gbhackers.com/ghostaction-hackers-hide-credential-stealing-malware/": {
+    "ts": "2026-10-17T12:48:53.450563+00:00",
+    "title": "GhostAction Hackers Hide Credential-Stealing Malware in Fake Font Files Across 94 GitHub Repositories"
   }
 }
