@@ -21718,5 +21718,9 @@
   "https://securityaffairs.com/201193/intelligence/north-korean-it-workers-used-stolen-us-identities-to-earn-3-million.html": {
     "ts": "2026-10-17T19:07:01.599564+00:00",
     "title": "North Korean IT Workers Used Stolen US Identities to Earn $3 Million"
+  },
+  "https://cybersecuritynews.com/opencode-security-breach/": {
+    "ts": "2026-10-18T05:33:41.207856+00:00",
+    "title": "OpenCode Security Breach Exposes Third-Party API Keys of its Console Users"
   }
 }
