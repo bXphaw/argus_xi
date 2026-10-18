@@ -1,4 +1,10 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "Rust-Based CikaBika Bot Turns Discord into a Command Center",
+      "url": "https://securityaffairs.com/201210/security/rust-based-cikabika-bot-turns-discord-into-a-command-center.html"
+    }
+  ],
   "last_sent_date": "2026-10-18"
 }
