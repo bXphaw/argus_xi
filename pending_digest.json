@@ -1,40 +1,4 @@
 {
-  "items": [
-    {
-      "category": "new_technique",
-      "title": "Hackers Use ConnectWise SkyKick Credentials to Access Microsoft 365, Halting Cloud Backups",
-      "url": "https://gbhackers.com/hackers-use-connectwise-skykick-credentials/"
-    },
-    {
-      "category": "malware_android",
-      "title": "Israeli Ad Firm Doubled as Candiru\u2019s Zero-Click Spyware Delivery Channel",
-      "url": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/"
-    },
-    {
-      "category": "malware_windows",
-      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
-      "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html"
-    },
-    {
-      "category": "new_technique",
-      "title": "OpenBSD Kernel Flaw Dating Back 37 Years Enables Local Privilege Escalation to Root",
-      "url": "https://gbhackers.com/openbsd-kernel-flaw/"
-    },
-    {
-      "category": "malware_windows",
-      "title": "GhostAction Hackers Hide Credential-Stealing Malware in Fake Font Files Across 94 GitHub Repositories",
-      "url": "https://gbhackers.com/ghostaction-hackers-hide-credential-stealing-malware/"
-    },
-    {
-      "category": "new_technique",
-      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/"
-    },
-    {
-      "category": "threat_actor",
-      "title": "North Korean IT Workers Used Stolen US Identities to Earn $3 Million",
-      "url": "https://securityaffairs.com/201193/intelligence/north-korean-it-workers-used-stolen-us-identities-to-earn-3-million.html"
-    }
-  ],
-  "last_sent_date": "2026-10-17"
+  "items": [],
+  "last_sent_date": "2026-10-18"
 }

@@ -21722,5 +21722,21 @@
   "https://cybersecuritynews.com/opencode-security-breach/": {
     "ts": "2026-10-18T05:33:41.207856+00:00",
     "title": "OpenCode Security Breach Exposes Third-Party API Keys of its Console Users"
+  },
+  "https://www.helpnetsecurity.com/2026/10/18/week-in-review-hidden-implant-in-ledger-wallets-linked-to-93m-theft-1500-npm-packages-exposed/": {
+    "ts": "2026-10-18T10:39:04.849124+00:00",
+    "title": "Week in review: Hidden implant in Ledger wallets linked to $93M theft, 1,500+ npm packages exposed"
+  },
+  "https://securityaffairs.com/201230/malware/security-affairs-malware-newsletter-round-119.html": {
+    "ts": "2026-10-18T10:39:04.905186+00:00",
+    "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 119"
+  },
+  "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html": {
+    "ts": "2026-10-18T10:39:04.905200+00:00",
+    "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants"
+  },
+  "https://securityaffairs.com/201218/breaking-news/security-affairs-newsletter-round-600-by-pierluigi-paganini-international-edition.html": {
+    "ts": "2026-10-18T10:39:04.964882+00:00",
+    "title": "Security Affairs newsletter Round 600 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION"
   }
 }
