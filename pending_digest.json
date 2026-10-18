@@ -4,6 +4,11 @@
       "category": "malware_windows",
       "title": "Rust-Based CikaBika Bot Turns Discord into a Command Center",
       "url": "https://securityaffairs.com/201210/security/rust-based-cikabika-bot-turns-discord-into-a-command-center.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/"
     }
   ],
   "last_sent_date": "2026-10-18"
