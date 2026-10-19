@@ -21754,5 +21754,9 @@
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/": {
     "ts": "2026-10-18T17:54:30.070959+00:00",
     "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins"
+  },
+  "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744": {
+    "ts": "2026-10-19T00:57:05.271733+00:00",
+    "title": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking"
   }
 }
