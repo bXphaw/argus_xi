@@ -1,4 +1,35 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "threat_actor",
+      "title": "19th October \u2013 Threat Intelligence Report",
+      "url": "https://research.checkpoint.com/2026/19th-october-threat-intelligence-report/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "UNC6783 Targets Organizations Through Social Engineering and Data Extortion \u2013 Active IOCs",
+      "url": "https://rewterz.com/threat-advisory/unc6783-targets-organizations-through-social-engineering-and-data-extortion-active-iocs"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks",
+      "url": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
+      "url": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Authentication Bypass, Remote Code Execution, and Database Read in Eptura Archibus (FIXED)",
+      "url": "https://www.rapid7.com/blog/post/ve-authentication-bypass-remote-code-execution-and-database-read-in-eptura-archibus-fixed"
+    },
+    {
+      "category": "malware_other",
+      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
+      "url": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html"
+    }
+  ],
   "last_sent_date": "2026-10-19"
 }

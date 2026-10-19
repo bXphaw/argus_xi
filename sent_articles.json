@@ -21914,5 +21914,125 @@
   "https://rewterz.com/threat-advisory/critical-gitlab-flaw-could-enable-unauthenticated-code-execution": {
     "ts": "2026-10-19T12:51:24.354414+00:00",
     "title": "Critical GitLab Flaw Could Enable Unauthenticated Code Execution"
+  },
+  "https://www.helpnetsecurity.com/2026/10/19/connectwise-cloud-backup-suspended-security-incident/": {
+    "ts": "2026-10-19T19:10:05.186146+00:00",
+    "title": "ConnectWise suspends Cloud Backup service after attackers abuse its Microsoft 365 access"
+  },
+  "https://cybersecuritynews.com/bright-security-introduces-star-fuzzer-agentic-fuzzing-that-writes-its-own-harnesses-and-proves-every-finding/": {
+    "ts": "2026-10-19T19:10:23.713055+00:00",
+    "title": "Bright Security Introduces STAR Fuzzer, Agentic Fuzzing That Writes Its Own Harnesses and Proves Every Finding"
+  },
+  "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/": {
+    "ts": "2026-10-19T19:12:17.015716+00:00",
+    "title": "Bullhorn takes staffing platform offline to contain cyberattack"
+  },
+  "https://research.checkpoint.com/2026/19th-october-threat-intelligence-report/": {
+    "ts": "2026-10-19T19:12:17.226487+00:00",
+    "title": "19th October \u2013 Threat Intelligence Report"
+  },
+  "https://cybersecuritynews.com/drupal-rce-vulnerability/": {
+    "ts": "2026-10-19T19:12:17.226510+00:00",
+    "title": "Critical Drupal RCE Vulnerability Could Let Attackers Take Over Websites Without Authentication"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites": {
+    "ts": "2026-10-19T19:12:17.226514+00:00",
+    "title": "OnlyFans Copyright Takedowns Expose Compromised Websites"
+  },
+  "https://www.forescout.com/blog/secure-remote-access-the-data-center-risk-not-on-the-uptime-slide/": {
+    "ts": "2026-10-19T19:12:17.226517+00:00",
+    "title": "Secure Remote Access: The Data Center Risk Not on the Uptime Slide"
+  },
+  "https://gbhackers.com/bright-security-introduces-star-fuzzer-agentic-fuzzing-that-writes-its-own-harnesses-and-proves-every-finding/": {
+    "ts": "2026-10-19T19:12:17.421377+00:00",
+    "title": "Bright Security Introduces STAR Fuzzer, Agentic Fuzzing That Writes Its Own Harnesses and Proves Every Finding"
+  },
+  "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/": {
+    "ts": "2026-10-19T19:12:17.614544+00:00",
+    "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/aomei-backupper-update-servers-hijacked-to-push-malware-check-your-pc": {
+    "ts": "2026-10-19T19:12:17.813640+00:00",
+    "title": "AOMEI Backupper update servers hijacked to push malware: Check your PC"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/": {
+    "ts": "2026-10-19T19:12:18.019932+00:00",
+    "title": "Agents are your newest insiders.\u00a0Security must move at their speed."
+  },
+  "https://www.rapid7.com/blog/post/ai-inhuman-insider-threats-securing-agents": {
+    "ts": "2026-10-19T19:12:18.213673+00:00",
+    "title": "Your Next Insider Threat Won\u2019t be Human: Securing AI Agents From the Outside in"
+  },
+  "https://rewterz.com/threat-advisory/unc6783-targets-organizations-through-social-engineering-and-data-extortion-active-iocs": {
+    "ts": "2026-10-19T19:12:18.405057+00:00",
+    "title": "UNC6783 Targets Organizations Through Social Engineering and Data Extortion \u2013 Active IOCs"
+  },
+  "https://securityaffairs.com/201300/ai/meta-wants-to-scrape-your-website-to-train-its-ai-and-you-cant-say-no.html": {
+    "ts": "2026-10-19T19:12:18.405076+00:00",
+    "title": "Meta wants to scrape your website to train its AI, and you can\u2019t say no"
+  },
+  "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/": {
+    "ts": "2026-10-19T19:12:18.599527+00:00",
+    "title": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks"
+  },
+  "https://socradar.io/blog/drupal-patches-critical-rces-cve-2026-108097-108099/": {
+    "ts": "2026-10-19T19:12:18.599547+00:00",
+    "title": "Drupal Patches Critical RCEs: CVE-2026-108097 & 108099"
+  },
+  "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html": {
+    "ts": "2026-10-19T19:12:18.794953+00:00",
+    "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor"
+  },
+  "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927": {
+    "ts": "2026-10-19T19:12:18.988132+00:00",
+    "title": "Security patches need patches now that attackers have AI"
+  },
+  "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/": {
+    "ts": "2026-10-19T19:12:19.181521+00:00",
+    "title": "OpenCode hack exposes API keys amid AI distillation attacks"
+  },
+  "https://cybersecuritynews.com/ai-models-as-insider-threats/": {
+    "ts": "2026-10-19T19:12:19.389810+00:00",
+    "title": "Microsoft Says AI Agents Cannot Be Trusted and Could Become Insider Security Threats"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience": {
+    "ts": "2026-10-19T19:12:19.589700+00:00",
+    "title": "The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience"
+  },
+  "https://gbhackers.com/researchers-hack-snowflake/": {
+    "ts": "2026-10-19T19:12:19.782273+00:00",
+    "title": "Researchers Hack Snowflake PostgreSQL Database to Gain Full Server-Level Code Execution"
+  },
+  "https://www.rapid7.com/blog/post/ve-authentication-bypass-remote-code-execution-and-database-read-in-eptura-archibus-fixed": {
+    "ts": "2026-10-19T19:12:19.980643+00:00",
+    "title": "Authentication Bypass, Remote Code Execution, and Database Read in Eptura Archibus (FIXED)"
+  },
+  "https://securityaffairs.com/201258/security/japans-siteguard-waf-flaw-cve-2026-106931-is-already-being-exploited.html": {
+    "ts": "2026-10-19T19:12:19.980661+00:00",
+    "title": "Japan\u2019s SiteGuard WAF flaw CVE-2026-106931 is already being exploited"
+  },
+  "https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/": {
+    "ts": "2026-10-19T19:12:19.980665+00:00",
+    "title": "Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw"
+  },
+  "https://socradar.io/blog/connectwise-cloud-backup-breach/": {
+    "ts": "2026-10-19T19:12:19.980669+00:00",
+    "title": "ConnectWise Cloud Backup Breach: What We Know"
+  },
+  "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html": {
+    "ts": "2026-10-19T19:12:20.175434+00:00",
+    "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/": {
+    "ts": "2026-10-19T19:12:20.376468+00:00",
+    "title": "Microsoft fixes game, app crashes caused by recent Windows update"
+  },
+  "https://gbhackers.com/siteguard-warns-patching/": {
+    "ts": "2026-10-19T19:12:20.569549+00:00",
+    "title": "SiteGuard Warns Patching Actively Exploited Security Flaw Could Erase Evidence of Attacks"
+  },
+  "https://www.rapid7.com/blog/post/ra-netscaler-intrusions-chaining-cve-2026-88771-and-cve-2026-88779": {
+    "ts": "2026-10-19T19:12:20.764853+00:00",
+    "title": "Rapid7 Analysis: NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779"
   }
 }
