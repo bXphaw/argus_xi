@@ -14,6 +14,16 @@
       "category": "new_technique",
       "title": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
       "url": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Exploiting Plex Vulnerabilities in the Wild to Deploy Cryptominer Malware",
+      "url": "https://cybersecuritynews.com/plex-vulnerabilities-exploited-in-wild/"
+    },
+    {
+      "category": "new_technique",
+      "title": "16-Year-Old Broadcom Wi-Fi Bug Lets Attackers Take Over Routers Without a Password",
+      "url": "https://securityaffairs.com/201268/iot/16-year-old-broadcom-wi-fi-bug-lets-attackers-take-over-routers-without-a-password.html"
     }
   ],
   "last_sent_date": "2026-10-18"

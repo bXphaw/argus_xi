@@ -21758,5 +21758,41 @@
   "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744": {
     "ts": "2026-10-19T00:57:05.271733+00:00",
     "title": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking"
+  },
+  "https://cybersecuritynews.com/plex-vulnerabilities-exploited-in-wild/": {
+    "ts": "2026-10-19T05:57:29.509242+00:00",
+    "title": "Hackers Exploiting Plex Vulnerabilities in the Wild to Deploy Cryptominer Malware"
+  },
+  "https://gbhackers.com/your-docking-station-has-a-patching-problem/": {
+    "ts": "2026-10-19T05:57:29.509272+00:00",
+    "title": "Your Docking Station Has a Patching Problem"
+  },
+  "https://www.helpnetsecurity.com/2026/10/19/bearer-cli-free-code-security-scanning-tool-sast/": {
+    "ts": "2026-10-19T05:57:29.509277+00:00",
+    "title": "Bearer CLI: Free, source-available code security scanning tool (SAST)"
+  },
+  "https://securityaffairs.com/201268/iot/16-year-old-broadcom-wi-fi-bug-lets-attackers-take-over-routers-without-a-password.html": {
+    "ts": "2026-10-19T05:57:29.632366+00:00",
+    "title": "16-Year-Old Broadcom Wi-Fi Bug Lets Attackers Take Over Routers Without a Password"
+  },
+  "https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758": {
+    "ts": "2026-10-19T05:57:29.632388+00:00",
+    "title": "ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU"
+  },
+  "https://cybersecuritynews.com/october-updates-break-exchange-server/": {
+    "ts": "2026-10-19T05:57:29.632392+00:00",
+    "title": "Microsoft Confirms October Windows Updates Can Break Exchange Server Email Services"
+  },
+  "https://www.helpnetsecurity.com/2026/10/19/rpo-rto-video/": {
+    "ts": "2026-10-19T05:57:29.632395+00:00",
+    "title": "RPO and RTO explained with a real disaster recovery example"
+  },
+  "https://www.helpnetsecurity.com/2026/10/19/datadome-ai-agent-traffic-report/": {
+    "ts": "2026-10-19T05:57:29.632398+00:00",
+    "title": "Half the AI bot traffic hammering your website comes from Meta"
+  },
+  "https://www.helpnetsecurity.com/2026/10/19/semperis-ransomware-employee-safety-report/": {
+    "ts": "2026-10-19T05:57:29.632400+00:00",
+    "title": "Ransomware pressure now reaches employees\u2019 homes and families"
   }
 }
