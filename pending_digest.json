@@ -29,6 +29,31 @@
       "category": "malware_other",
       "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
       "url": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Same Vulkan Host, Different Payload: Inside VulcanRAT207.B",
+      "url": "https://www.morphisec.com/blog/same-vulkan-host-different-payload-inside-vulcanrat207-b/"
+    },
+    {
+      "category": "malware_other",
+      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/"
+    },
+    {
+      "category": "new_technique",
+      "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery",
+      "url": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery"
+    },
+    {
+      "category": "new_technique",
+      "title": "ConnectWise Suspends Cloud Services in Response to Cyberattack",
+      "url": "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/"
+    },
+    {
+      "category": "new_technique",
+      "title": "ConnectWise Cloud Backup application abused in cross-tenant token sweep",
+      "url": "https://www.sophos.com/en-us/blog/connectwise-cloud-backup-application-abused-in-token-sweep"
     }
   ],
   "last_sent_date": "2026-10-19"

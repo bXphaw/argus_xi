@@ -22034,5 +22034,97 @@
   "https://www.rapid7.com/blog/post/ra-netscaler-intrusions-chaining-cve-2026-88771-and-cve-2026-88779": {
     "ts": "2026-10-19T19:12:20.764853+00:00",
     "title": "Rapid7 Analysis: NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779"
+  },
+  "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/": {
+    "ts": "2026-10-19T23:29:41.881398+00:00",
+    "title": "Nikkei discloses third data breach in a month, 1.8M records exposed"
+  },
+  "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation": {
+    "ts": "2026-10-19T23:29:41.881415+00:00",
+    "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation"
+  },
+  "https://www.morphisec.com/blog/same-vulkan-host-different-payload-inside-vulcanrat207-b/": {
+    "ts": "2026-10-19T23:29:42.106964+00:00",
+    "title": "Same Vulkan Host, Different Payload: Inside VulcanRAT207.B"
+  },
+  "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/": {
+    "ts": "2026-10-19T23:29:42.106983+00:00",
+    "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19)"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-102764-critical-beyondtrust-remote-support-authentication-bypass-exploited-in-the-wild": {
+    "ts": "2026-10-19T23:29:42.106986+00:00",
+    "title": "CVE-2026-102764: Critical BeyondTrust Remote Support Authentication Bypass Exploited in the Wild"
+  },
+  "https://securityaffairs.com/201324/hacking/plex2shell-exploit-used-to-turn-vulnerable-plex-servers-into-crypto-miners.html": {
+    "ts": "2026-10-19T23:29:42.327159+00:00",
+    "title": "Plex2Shell Exploit Used to Turn Vulnerable Plex Servers Into Crypto Miners"
+  },
+  "https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/": {
+    "ts": "2026-10-19T23:29:42.548456+00:00",
+    "title": "Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack"
+  },
+  "https://socradar.io/blog/zoominfo-trycircle-vicente-lopez-hdb-x-dark-web/": {
+    "ts": "2026-10-19T23:29:42.779173+00:00",
+    "title": "ZoomInfo Sale, TryCircle, Vicente L\u00f3pez, HDB, and X Leaks"
+  },
+  "https://www.sophos.com/en-us/blog/graph-reconnaissance-and-servicenow-user-enumeration-in-a-modern-identity-intrusion": {
+    "ts": "2026-10-19T23:29:43.007191+00:00",
+    "title": "Graph reconnaissance and ServiceNow user enumeration in a modern identity intrusion"
+  },
+  "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html": {
+    "ts": "2026-10-19T23:29:43.234482+00:00",
+    "title": "\u26a1 Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More"
+  },
+  "https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970": {
+    "ts": "2026-10-19T23:29:43.234498+00:00",
+    "title": "Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline"
+  },
+  "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/": {
+    "ts": "2026-10-19T23:29:43.457866+00:00",
+    "title": "WordPress SEO plugin Rank Math compromised to backdoor websites"
+  },
+  "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery": {
+    "ts": "2026-10-19T23:29:43.683442+00:00",
+    "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery"
+  },
+  "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/": {
+    "ts": "2026-10-19T23:29:43.907848+00:00",
+    "title": "ConnectWise Suspends Cloud Services in Response to Cyberattack"
+  },
+  "https://www.sophos.com/en-us/blog/connectwise-cloud-backup-application-abused-in-token-sweep": {
+    "ts": "2026-10-19T23:29:44.135420+00:00",
+    "title": "ConnectWise Cloud Backup application abused in cross-tenant token sweep"
+  },
+  "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html": {
+    "ts": "2026-10-19T23:29:44.357668+00:00",
+    "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/": {
+    "ts": "2026-10-19T23:29:44.581728+00:00",
+    "title": "Hackers hijack AOMEI update servers to secretly spread malware"
+  },
+  "https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps": {
+    "ts": "2026-10-19T23:29:44.810193+00:00",
+    "title": "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs"
+  },
+  "https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/": {
+    "ts": "2026-10-19T23:29:45.052998+00:00",
+    "title": "MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks"
+  },
+  "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html": {
+    "ts": "2026-10-19T23:29:45.280113+00:00",
+    "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software"
+  },
+  "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/": {
+    "ts": "2026-10-19T23:29:45.280130+00:00",
+    "title": "Inside the Underground Market for Know Your Client Services"
+  },
+  "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/": {
+    "ts": "2026-10-19T23:29:45.280133+00:00",
+    "title": "Anthropic Acquires Confidential AI Startup Opaque Systems"
+  },
+  "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/": {
+    "ts": "2026-10-19T23:29:45.280135+00:00",
+    "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities"
   }
 }
