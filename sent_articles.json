@@ -21794,5 +21794,125 @@
   "https://www.helpnetsecurity.com/2026/10/19/semperis-ransomware-employee-safety-report/": {
     "ts": "2026-10-19T05:57:29.632400+00:00",
     "title": "Ransomware pressure now reaches employees\u2019 homes and families"
+  },
+  "https://cybersecuritynews.com/16-year-old-broadcom-wi-fi-flaw/": {
+    "ts": "2026-10-19T12:49:48.286292+00:00",
+    "title": "16-Year-Old Broadcom Wi-Fi Flaw Lets Attackers Hack Routers Without Knowing Passwords"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/": {
+    "ts": "2026-10-19T12:51:22.335955+00:00",
+    "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons"
+  },
+  "https://cybersecuritynews.com/nsa-cisa-and-nist-release-guidelines-to-rogue-ai-agents/": {
+    "ts": "2026-10-19T12:51:22.335973+00:00",
+    "title": "NSA, CISA and NIST Release New Security Guidelines to Detect and Shut Down Rogue AI Agents"
+  },
+  "https://gbhackers.com/drupal-warns-critical-rce-flaw/": {
+    "ts": "2026-10-19T12:51:22.335976+00:00",
+    "title": "Drupal Warns Critical RCE Flaw Could Let Unauthenticated Attackers Compromise Websites"
+  },
+  "https://www.helpnetsecurity.com/2026/10/19/open-weight-ai-model-risks-microsoft-nvidia/": {
+    "ts": "2026-10-19T12:51:22.335979+00:00",
+    "title": "With open-weight AI, more of the security burden falls on enterprises"
+  },
+  "https://www.malwarebytes.com/blog/podcast/2026/10/a-sextortion-conspiracy-killed-his-son-lock-and-code-s07e21": {
+    "ts": "2026-10-19T12:51:22.335982+00:00",
+    "title": "A sextortion conspiracy killed his son (Lock and Code S07E21)"
+  },
+  "https://rewterz.com/threat-advisory/threat-actors-deploy-peerstitch-malware-against-fortinet-firewalls-active-iocs": {
+    "ts": "2026-10-19T12:51:22.606788+00:00",
+    "title": "Threat Actors Deploy PEERSTITCH Malware Against Fortinet Firewalls \u2013 Active IOCs"
+  },
+  "https://securityaffairs.com/201307/uncategorized/deepfakes-and-election-manipulation-uk-watchdog-seeks-faster-detection.html": {
+    "ts": "2026-10-19T12:51:22.606804+00:00",
+    "title": "Deepfakes and Election Manipulation: UK Watchdog Seeks Faster Detection"
+  },
+  "https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/": {
+    "ts": "2026-10-19T12:51:22.720657+00:00",
+    "title": "Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure"
+  },
+  "https://www.sekoia.com/blog/a-honeypots-tale-deconstructing-an-attack-on-genai-infrastructure": {
+    "ts": "2026-10-19T12:51:22.720668+00:00",
+    "title": "Sekoia Honeypot Captures an Attack on GenAI Infrastructure"
+  },
+  "https://www.silentpush.com/white-papers-and-reports/proactively-defending-financial-institutions-against-north-korean-remote-it-workers/?utm_source=rss&utm_medium=rss&utm_campaign=proactively-defending-financial-institutions-against-north-korean-remote-it-workers": {
+    "ts": "2026-10-19T12:51:22.720695+00:00",
+    "title": "Proactively Defending Financial Institutions Against North Korean Remote IT Workers"
+  },
+  "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html": {
+    "ts": "2026-10-19T12:51:22.841053+00:00",
+    "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/": {
+    "ts": "2026-10-19T12:51:22.961325+00:00",
+    "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow"
+  },
+  "https://cybersecuritynews.com/hackers-exploit-siteguard-waf-vulnerability/": {
+    "ts": "2026-10-19T12:51:23.084141+00:00",
+    "title": "Hackers Exploit SiteGuard WAF Vulnerability That Could Give Them Full Control of Servers"
+  },
+  "https://gbhackers.com/broadcom-wi-fi-routers/": {
+    "ts": "2026-10-19T12:51:23.211327+00:00",
+    "title": "Researchers Hack Broadcom Wi-Fi Routers Without Passwords and Gain Full Root Access"
+  },
+  "https://www.helpnetsecurity.com/2026/10/19/check-point-brand-impersonation-scams-q3-2026-report/": {
+    "ts": "2026-10-19T12:51:23.320091+00:00",
+    "title": "Cybercriminals favor Microsoft over Apple and Google in brand phishing attacks"
+  },
+  "https://www.malwarebytes.com/blog/data-breaches/2026/10/millions-of-california-students-sensitive-data-stolen-in-breach": {
+    "ts": "2026-10-19T12:51:23.320110+00:00",
+    "title": "Millions of California students\u2019 sensitive data stolen in breach"
+  },
+  "https://rewterz.com/threat-advisory/cisco-secure-email-gateway-critical-flaw-under-active-exploitation": {
+    "ts": "2026-10-19T12:51:23.439117+00:00",
+    "title": "Cisco Secure Email Gateway Critical Flaw Under Active Exploitation"
+  },
+  "https://securityaffairs.com/201285/hacking/big-fish-openbsd-root-exploit-chains-a-37-year-old-bsd-bug-with-a-kernel-flaw.html": {
+    "ts": "2026-10-19T12:51:23.554425+00:00",
+    "title": "Big Fish: OpenBSD Root Exploit Chains a 37-Year-Old BSD Bug With a Kernel Flaw"
+  },
+  "https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/": {
+    "ts": "2026-10-19T12:51:23.554436+00:00",
+    "title": "One Compromised Login Exposed Millions of California Students\u2019 Records"
+  },
+  "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html": {
+    "ts": "2026-10-19T12:51:23.678025+00:00",
+    "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers"
+  },
+  "https://cybersecuritynews.com/teams-domain-login-page/": {
+    "ts": "2026-10-19T12:51:23.781061+00:00",
+    "title": "Hackers Registered New Teams-Based Domains and Used a Login Page to Steal Your Logins"
+  },
+  "https://gbhackers.com/critical-vs-code-security-bypass-flaw/": {
+    "ts": "2026-10-19T12:51:23.893851+00:00",
+    "title": "Microsoft Pays Researcher $4,000 for Discovering Critical VS Code Security Bypass Flaw"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/a-week-in-security-october-12-october-18": {
+    "ts": "2026-10-19T12:51:24.009945+00:00",
+    "title": "A week in security (October 12 \u2013 October 18)"
+  },
+  "https://rewterz.com/threat-advisory/microsoft-fixes-1413-vulnerabilities-across-windows-and-enterprise-products": {
+    "ts": "2026-10-19T12:51:24.118811+00:00",
+    "title": "Microsoft Fixes 1,413 Vulnerabilities Across Windows and Enterprise Products"
+  },
+  "https://securityaffairs.com/201236/hacking/attackers-abuse-stolen-connectwise-application-credentials-to-target-microsoft-365.html": {
+    "ts": "2026-10-19T12:51:24.238700+00:00",
+    "title": "Attackers Abuse Stolen ConnectWise Application Credentials to Target Microsoft 365"
+  },
+  "https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/": {
+    "ts": "2026-10-19T12:51:24.354396+00:00",
+    "title": "Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack"
+  },
+  "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html": {
+    "ts": "2026-10-19T12:51:24.354409+00:00",
+    "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys"
+  },
+  "https://gbhackers.com/u-s-agencies-warn-ai-agents/": {
+    "ts": "2026-10-19T12:51:24.354412+00:00",
+    "title": "U.S. Agencies Warn AI Agents Could Exploit Security Flaws and Establish Hidden Backdoors"
+  },
+  "https://rewterz.com/threat-advisory/critical-gitlab-flaw-could-enable-unauthenticated-code-execution": {
+    "ts": "2026-10-19T12:51:24.354414+00:00",
+    "title": "Critical GitLab Flaw Could Enable Unauthenticated Code Execution"
   }
 }
