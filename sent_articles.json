@@ -22378,5 +22378,125 @@
   "https://www.theregister.com/public-sector/2026/10/20/whitehall-shuts-the-front-door-on-digital-id-but-leaves-the-back-open/5304100": {
     "ts": "2026-10-20T14:53:07.633501+00:00",
     "title": "Whitehall shuts the front door on digital ID but leaves the back open"
+  },
+  "https://gbhackers.com/hackers-compromise-ovhcloud-github-repository/": {
+    "ts": "2026-10-20T19:03:51.470997+00:00",
+    "title": "Hackers Compromise OVHcloud GitHub Repository to Distribute Secret-Stealing Malware"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/": {
+    "ts": "2026-10-20T19:05:33.943224+00:00",
+    "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code"
+  },
+  "https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/": {
+    "ts": "2026-10-20T19:05:33.943240+00:00",
+    "title": "There's only so much code: the rise in vulnerability numbers"
+  },
+  "https://cofense.com/blog/beyond-passwords-how-attackers-abuse-device-code-authentication": {
+    "ts": "2026-10-20T19:05:33.943244+00:00",
+    "title": "Beyond Passwords: How Attackers Abuse Device Code Authentication"
+  },
+  "https://cybersecuritynews.com/emudhra-security-compromise/": {
+    "ts": "2026-10-20T19:05:33.943248+00:00",
+    "title": "eMudhra Certificate Authority Compromise Triggers Emergency Action Across Browsers"
+  },
+  "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai": {
+    "ts": "2026-10-20T19:05:33.943250+00:00",
+    "title": "Close Identity Gaps in Software Development Before Unleashing AI"
+  },
+  "https://gbhackers.com/fintech-platforms-abused/": {
+    "ts": "2026-10-20T19:05:34.001917+00:00",
+    "title": "Scammers Turn Legitimate Fintech Platforms Into Phishing Tools to Steal Banking Details"
+  },
+  "https://www.helpnetsecurity.com/2026/10/20/google-chrome-enhanced-protection-updates/": {
+    "ts": "2026-10-20T19:05:34.001931+00:00",
+    "title": "Chrome flags malicious commands that scammers pass off as fixes"
+  },
+  "https://securityaffairs.com/201369/data-breach/nikkei-data-breach-affected-over-1-8-million-records.html": {
+    "ts": "2026-10-20T19:05:34.001935+00:00",
+    "title": "Nikkei data breach affected over 1.8 million records"
+  },
+  "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/": {
+    "ts": "2026-10-20T19:05:34.001939+00:00",
+    "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents"
+  },
+  "https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells": {
+    "ts": "2026-10-20T19:05:34.045711+00:00",
+    "title": "BRONZE SANDCASTLE deploys modified Meterpreter shells"
+  },
+  "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html": {
+    "ts": "2026-10-20T19:05:34.088372+00:00",
+    "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software"
+  },
+  "https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226": {
+    "ts": "2026-10-20T19:05:34.130589+00:00",
+    "title": "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/": {
+    "ts": "2026-10-20T19:05:34.173731+00:00",
+    "title": "Windows Server 2025 gets support for quick machine recovery"
+  },
+  "https://cybersecuritynews.com/google-cloud-outage/": {
+    "ts": "2026-10-20T19:05:34.217665+00:00",
+    "title": "Google Cloud Outage Knocks UK Banks, Websites and Court Systems Offline"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn": {
+    "ts": "2026-10-20T19:05:34.261229+00:00",
+    "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree"
+  },
+  "https://www.helpnetsecurity.com/2026/10/20/aomei-backupper-compromised-supply-chain/": {
+    "ts": "2026-10-20T19:05:34.304348+00:00",
+    "title": "AOMEI Backupper servers hijacked for minutes at a time to push backdoor"
+  },
+  "https://securityaffairs.com/201358/breaking-news/google-cloud-outage-in-london-disrupts-revolut-banking-services.html": {
+    "ts": "2026-10-20T19:05:34.304364+00:00",
+    "title": "Google Cloud Outage in London Disrupts Revolut Banking Services"
+  },
+  "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/": {
+    "ts": "2026-10-20T19:05:34.349863+00:00",
+    "title": "AI Platform Cairn Abused to Hack Over 100 Organizations"
+  },
+  "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html": {
+    "ts": "2026-10-20T19:05:34.394772+00:00",
+    "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution"
+  },
+  "https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198": {
+    "ts": "2026-10-20T19:05:34.394788+00:00",
+    "title": "Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche'"
+  },
+  "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/": {
+    "ts": "2026-10-20T19:05:34.438691+00:00",
+    "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets"
+  },
+  "https://cybersecuritynews.com/3-ways-threat-intelligence-makes-life-easier-for-american-soc-analysts/": {
+    "ts": "2026-10-20T19:05:34.482241+00:00",
+    "title": "3 Ways Threat Intelligence Makes Life Easier for American SOC Analysts"
+  },
+  "https://gbhackers.com/rank-math-pro-wordpress-plugin-compromised/": {
+    "ts": "2026-10-20T19:05:34.524999+00:00",
+    "title": "Rank Math PRO WordPress Plugin Compromised to Spread Malware and Steal Credentials"
+  },
+  "https://www.helpnetsecurity.com/2026/10/20/us-army-ai-agents-echotribble/": {
+    "ts": "2026-10-20T19:05:34.568732+00:00",
+    "title": "US Army is developing AI agents that could strike enemy networks and vanish without a trace"
+  },
+  "https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/": {
+    "ts": "2026-10-20T19:05:34.612207+00:00",
+    "title": "Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say"
+  },
+  "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html": {
+    "ts": "2026-10-20T19:05:34.657228+00:00",
+    "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/10/20/uk-finance-watchdog-wants-firms-to-report-ai-failures-and-close-calls/5304078": {
+    "ts": "2026-10-20T19:05:34.657246+00:00",
+    "title": "UK finance watchdog wants firms to report AI failures and close calls"
+  },
+  "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/": {
+    "ts": "2026-10-20T19:05:34.657250+00:00",
+    "title": "Ahold Delhaize: Cyberattack affects services across US and Europe"
+  },
+  "https://cybersecuritynews.com/fbi-suspects-cybersecurity-executive-shinyhunters/": {
+    "ts": "2026-10-20T19:05:34.708401+00:00",
+    "title": "FBI Suspects Cybersecurity Executive Helped ShinyHunters Run Extortion Website"
   }
 }
