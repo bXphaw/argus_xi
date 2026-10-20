@@ -69,6 +69,26 @@
       "category": "threat_actor",
       "title": "FBI Suspects Cybersecurity Executive Helped ShinyHunters Run Extortion Website",
       "url": "https://cybersecuritynews.com/fbi-suspects-cybersecurity-executive-shinyhunters/"
+    },
+    {
+      "category": "malware_android",
+      "title": "Thousands of Android Phones Ship With Hidden Malware That Disables Google Play Protections",
+      "url": "https://cybersecuritynews.com/thousands-of-android-phones/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Can Take Over WordPress Websites Without a Password Using Two Security Flaws",
+      "url": "https://gbhackers.com/wordpress-websites-at-risk/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Hijack 790 GitHub Repositories to Steal Cloud Credentials and AI API Keys",
+      "url": "https://cybersecuritynews.com/hackers-hijack-790-github-repositories/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Ransomware Gangs Use AI to Find and Steal the Most Sensitive Company Data Quickly",
+      "url": "https://gbhackers.com/ai-powered-ransomware-2/"
     }
   ],
   "last_sent_date": "2026-10-20"

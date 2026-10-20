@@ -22498,5 +22498,85 @@
   "https://cybersecuritynews.com/fbi-suspects-cybersecurity-executive-shinyhunters/": {
     "ts": "2026-10-20T19:05:34.708401+00:00",
     "title": "FBI Suspects Cybersecurity Executive Helped ShinyHunters Run Extortion Website"
+  },
+  "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html": {
+    "ts": "2026-10-20T23:02:40.847877+00:00",
+    "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/": {
+    "ts": "2026-10-20T23:03:54.865925+00:00",
+    "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/": {
+    "ts": "2026-10-20T23:03:54.865945+00:00",
+    "title": "CrowdStrike Achieves NCSC CIR Enhanced Level Assurance"
+  },
+  "https://cybersecuritynews.com/thousands-of-android-phones/": {
+    "ts": "2026-10-20T23:03:55.064073+00:00",
+    "title": "Thousands of Android Phones Ship With Hidden Malware That Disables Google Play Protections"
+  },
+  "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys": {
+    "ts": "2026-10-20T23:03:55.064093+00:00",
+    "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys"
+  },
+  "https://gbhackers.com/wordpress-websites-at-risk/": {
+    "ts": "2026-10-20T23:03:55.255940+00:00",
+    "title": "Hackers Can Take Over WordPress Websites Without a Password Using Two Security Flaws"
+  },
+  "https://www.helpnetsecurity.com/2026/10/20/microsofts-ai-agents-threats-guardian-agents/": {
+    "ts": "2026-10-20T23:03:55.447391+00:00",
+    "title": "Microsoft wants to limit AI agents\u2019 permissions when they stray from the job"
+  },
+  "https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/": {
+    "ts": "2026-10-20T23:03:55.638447+00:00",
+    "title": "Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring"
+  },
+  "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html": {
+    "ts": "2026-10-20T23:03:55.829658+00:00",
+    "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites"
+  },
+  "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312": {
+    "ts": "2026-10-20T23:03:56.020171+00:00",
+    "title": "Indian certification authority eMudhra\u2019s private keys compromised \u2013 one of them was the number \u20184\u2019"
+  },
+  "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/": {
+    "ts": "2026-10-20T23:03:56.211542+00:00",
+    "title": "Zeabur shutting down after second security breach in two months"
+  },
+  "https://cybersecuritynews.com/hackers-hijack-790-github-repositories/": {
+    "ts": "2026-10-20T23:03:56.404071+00:00",
+    "title": "Hackers Hijack 790 GitHub Repositories to Steal Cloud Credentials and AI API Keys"
+  },
+  "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties": {
+    "ts": "2026-10-20T23:03:56.404091+00:00",
+    "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ"
+  },
+  "https://gbhackers.com/ai-powered-ransomware-2/": {
+    "ts": "2026-10-20T23:03:56.596666+00:00",
+    "title": "Ransomware Gangs Use AI to Find and Steal the Most Sensitive Company Data Quickly"
+  },
+  "https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/": {
+    "ts": "2026-10-20T23:03:56.596684+00:00",
+    "title": "Hackers Steal 1.8 Million Records From Nikkei"
+  },
+  "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html": {
+    "ts": "2026-10-20T23:03:56.596688+00:00",
+    "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns"
+  },
+  "https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281": {
+    "ts": "2026-10-20T23:03:56.788104+00:00",
+    "title": "Auto tech startup claims it traced hack attempt back to rival's IP address"
+  },
+  "https://cybersecuritynews.com/revolut-outage/": {
+    "ts": "2026-10-20T23:03:56.979284+00:00",
+    "title": "Revolut Outage Disrupts Payments and Banking Services as Google Cloud Reports London Issues"
+  },
+  "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html": {
+    "ts": "2026-10-20T23:03:57.170446+00:00",
+    "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader"
+  },
+  "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html": {
+    "ts": "2026-10-20T23:03:57.361356+00:00",
+    "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident"
   }
 }
