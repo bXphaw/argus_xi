@@ -22158,5 +22158,105 @@
   "https://cybersecuritynews.com/google-unveils-new-android-ai-protections/": {
     "ts": "2026-10-20T04:08:22.776464+00:00",
     "title": "Google Unveils New Android AI Protections to Block Scam Calls, Phishing Links and OTP Theft"
+  },
+  "https://gbhackers.com/hacker-uses-ai-agents-to-breach-over-100-company-websites/": {
+    "ts": "2026-10-20T09:53:21.604941+00:00",
+    "title": "Hacker Uses AI Agents to Breach Over 100 Company Websites With Minimal Human Effort"
+  },
+  "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/": {
+    "ts": "2026-10-20T09:54:46.291028+00:00",
+    "title": "Revolut outage disrupts online banking operations worldwide"
+  },
+  "https://cybersecuritynews.com/ovhcloud-supply-chain-attack/": {
+    "ts": "2026-10-20T09:54:46.486484+00:00",
+    "title": "Hackers Hijack OVHcloud GitHub Releases to Distribute Secret-Stealing Malware"
+  },
+  "https://gbhackers.com/hackers-exploit-zimbra-zero-click-flaw/": {
+    "ts": "2026-10-20T09:54:46.678721+00:00",
+    "title": "Hackers Exploit Zimbra Zero-Click Flaw to Take Control of Email Servers"
+  },
+  "https://www.group-ib.com/blog/spend-management-abuse-fraud-classiscam/": {
+    "ts": "2026-10-20T09:54:46.678737+00:00",
+    "title": "The Checker You Pay For"
+  },
+  "https://www.helpnetsecurity.com/2026/10/20/frontline-worker-authentication-passwordless/": {
+    "ts": "2026-10-20T09:54:46.678741+00:00",
+    "title": "Your frontline workers have a workaround for that MFA prompt"
+  },
+  "https://securelist.com/paper-unicorn-warehouse-security/121537/": {
+    "ts": "2026-10-20T09:54:46.873959+00:00",
+    "title": "The journey of a paper unicorn: adventures inside a modern warehouse"
+  },
+  "https://securityaffairs.com/201336/ai/microsoft-treats-ai-agents-as-insider-threats-in-new-security-framework.html": {
+    "ts": "2026-10-20T09:54:47.064785+00:00",
+    "title": "Microsoft Treats AI Agents as Insider Threats in New Security Framework"
+  },
+  "https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/": {
+    "ts": "2026-10-20T09:54:47.255838+00:00",
+    "title": "970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach"
+  },
+  "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html": {
+    "ts": "2026-10-20T09:54:47.451639+00:00",
+    "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan"
+  },
+  "https://www.theregister.com/security/2026/10/20/partner-content-why-cyber-resilience-is-now-a-boardroom-priority-for-uk-public-services/5301601": {
+    "ts": "2026-10-20T09:54:47.643565+00:00",
+    "title": "Why cyber resilience is now a boardroom priority for UK public services"
+  },
+  "https://cybersecuritynews.com/hackers-hijack-aomei-software-updates/": {
+    "ts": "2026-10-20T09:54:47.845668+00:00",
+    "title": "Hackers Hijack AOMEI Software Updates for Just 5 Minutes to Secretly Install Backdoors"
+  },
+  "https://gbhackers.com/android-malware-campaign-2/": {
+    "ts": "2026-10-20T09:54:48.043943+00:00",
+    "title": "Hackers Turn Low-Cost Android Phones Into Hidden Proxy Botnets Through Preinstalled Malware"
+  },
+  "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html": {
+    "ts": "2026-10-20T09:54:48.043956+00:00",
+    "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge"
+  },
+  "https://cybersecuritynews.com/rank-math-pro-plugin-compromised/": {
+    "ts": "2026-10-20T09:54:48.236721+00:00",
+    "title": "Hackers Compromise Rank Math PRO WordPress Plugin to Install Self-Rebuilding Backdoors"
+  },
+  "https://gbhackers.com/ghostaction-campaign/": {
+    "ts": "2026-10-20T09:54:48.436819+00:00",
+    "title": "GhostAction Hackers Inject Malicious Security Workflows Into 790 GitHub Repositories"
+  },
+  "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html": {
+    "ts": "2026-10-20T09:54:48.629937+00:00",
+    "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware"
+  },
+  "https://cybersecuritynews.com/fake-google-meet-pages/": {
+    "ts": "2026-10-20T09:54:48.823991+00:00",
+    "title": "Hackers Using Fake Google Meet Pages to Steal Google Credentials"
+  },
+  "https://cybersecuritynews.com/sbi-data-breach-claim/": {
+    "ts": "2026-10-20T09:54:49.018580+00:00",
+    "title": "SBI Data Breach Claim \u2013 Hackers Allegedly Claim Access to 3.75 Lakh Users\u2019 Database"
+  },
+  "https://gbhackers.com/redagents-ai-platform/": {
+    "ts": "2026-10-20T09:54:49.210465+00:00",
+    "title": "New RedAgents AI Platform Deploys Multiple Hacking Agents to Find and Exploit Vulnerabilities"
+  },
+  "https://gbhackers.com/claude-code-detects-hidden-xmrig-cryptominer/": {
+    "ts": "2026-10-20T09:54:49.401393+00:00",
+    "title": "Claude Code Detects Hidden XMRig Cryptominer Consuming 1175% CPU on Mac"
+  },
+  "https://gbhackers.com/opencode-data-breach-exposes-api-keys/": {
+    "ts": "2026-10-20T09:54:49.401410+00:00",
+    "title": "OpenCode Data Breach Exposes API Keys Linked to Third-Party Services"
+  },
+  "https://gbhackers.com/fbi-uncovers-suspected-links-between-ransomware-negotiators-and-shinyhunters-hackers/": {
+    "ts": "2026-10-20T09:54:49.595237+00:00",
+    "title": "FBI Uncovers Suspected Links Between Ransomware Negotiators and ShinyHunters Hackers"
+  },
+  "https://gbhackers.com/microsoft-warns-ai-agents-can-be-hijacked/": {
+    "ts": "2026-10-20T09:54:49.595255+00:00",
+    "title": "Microsoft Warns AI Agents Can Be Hijacked Through Prompt Injection Attacks"
+  },
+  "https://gbhackers.com/software-updates-hijacked/": {
+    "ts": "2026-10-20T09:54:49.798162+00:00",
+    "title": "Google Uncovers Hackers Hijacking Legitimate Software Updates to Deploy Hidden Backdoors"
   }
 }
