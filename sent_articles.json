@@ -22258,5 +22258,125 @@
   "https://gbhackers.com/software-updates-hijacked/": {
     "ts": "2026-10-20T09:54:49.798162+00:00",
     "title": "Google Uncovers Hackers Hijacking Legitimate Software Updates to Deploy Hidden Backdoors"
+  },
+  "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/": {
+    "ts": "2026-10-20T14:53:00.843007+00:00",
+    "title": "DHS bans DeepSeek products across US federal civilian agencies"
+  },
+  "https://research.checkpoint.com/2026/the-risk-of-ai-powered-antidetect-browsers-in-online-fraud-and-influence-operations/": {
+    "ts": "2026-10-20T14:53:04.626387+00:00",
+    "title": "The Risk of AI-Powered Antidetect Browsers in Online Fraud and Influence Operations"
+  },
+  "https://cybersecuritynews.com/hackers-exploit-open-banking-services/": {
+    "ts": "2026-10-20T14:53:04.779997+00:00",
+    "title": "Hackers Exploit Open Banking Services to Test Stolen Credentials Without Paying a Cent"
+  },
+  "https://gbhackers.com/chatgpt-chrome-extension-expands-browser-access/": {
+    "ts": "2026-10-20T14:53:04.780019+00:00",
+    "title": "ChatGPT Chrome Extension Expands Browser Access to Read Open Tab Content"
+  },
+  "https://www.helpnetsecurity.com/2026/10/20/ncomplete-security-patches-broken-fixes-rise/": {
+    "ts": "2026-10-20T14:53:04.780024+00:00",
+    "title": "Incomplete security patches show hackers where to look next"
+  },
+  "https://www.malwarebytes.com/blog/mobile/2026/10/google-may-add-your-number-to-all-your-accounts-how-to-stop-it": {
+    "ts": "2026-10-20T14:53:04.938248+00:00",
+    "title": "Google may add your number to all your accounts: How to stop it"
+  },
+  "https://securityaffairs.com/201346/data-breach/afd-email-breach-exposes-421000-messages-in-anonymous-online-archive.html": {
+    "ts": "2026-10-20T14:53:05.078622+00:00",
+    "title": "AfD Email Breach Exposes 421,000 Messages in Anonymous Online Archive"
+  },
+  "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/": {
+    "ts": "2026-10-20T14:53:05.218199+00:00",
+    "title": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign"
+  },
+  "https://socradar.io/blog/ai-pentesting-tool-questions/": {
+    "ts": "2026-10-20T14:53:05.365901+00:00",
+    "title": "30 Questions to Ask Before Buying an AI Pentesting Tool"
+  },
+  "https://www.security.com/threat-intelligence/swallowtail-russia-nato-targets": {
+    "ts": "2026-10-20T14:53:05.506632+00:00",
+    "title": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries"
+  },
+  "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html": {
+    "ts": "2026-10-20T14:53:05.645442+00:00",
+    "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election"
+  },
+  "https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139": {
+    "ts": "2026-10-20T14:53:05.645461+00:00",
+    "title": "'Password1' and a forgotten test account land Welsh outfits in hot water"
+  },
+  "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/": {
+    "ts": "2026-10-20T14:53:05.645466+00:00",
+    "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies"
+  },
+  "https://cybersecuritynews.com/wp2shell-attack/": {
+    "ts": "2026-10-20T14:53:05.783968+00:00",
+    "title": "WP2Shell Attack Lets Hackers Create WordPress Admin Accounts and Install Web Shells Without Login"
+  },
+  "https://gbhackers.com/us-government-bans-deepseek-ai/": {
+    "ts": "2026-10-20T14:53:05.783988+00:00",
+    "title": "US Government Bans DeepSeek AI From Federal Civilian Agency IT Systems"
+  },
+  "https://www.helpnetsecurity.com/2026/10/20/exploitation-siemens-software-center-vulnerability-cve-2026-110936/": {
+    "ts": "2026-10-20T14:53:05.923491+00:00",
+    "title": "Attackers exploit Siemens Software Center flaw in active ClickFix malware campaign"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/meta-says-it-fixed-smart-glasses-unprompted-eavesdropping": {
+    "ts": "2026-10-20T14:53:06.064754+00:00",
+    "title": "Meta glasses caught recording conversations without wake phrase"
+  },
+  "https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/": {
+    "ts": "2026-10-20T14:53:06.210545+00:00",
+    "title": "The Key to AI Software Security Isn\u2019t Speed, It\u2019s Maturity"
+  },
+  "https://socradar.io/blog/japan-data-breaches-2026-inside-the-october-surge/": {
+    "ts": "2026-10-20T14:53:06.350855+00:00",
+    "title": "Japan Data Breaches 2026: Inside the October Surge"
+  },
+  "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html": {
+    "ts": "2026-10-20T14:53:06.491027+00:00",
+    "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators"
+  },
+  "https://www.theregister.com/security/2026/10/20/bullhorn-sees-red-after-cyberattack-knocks-recruitment-platform-offline/5304114": {
+    "ts": "2026-10-20T14:53:06.491045+00:00",
+    "title": "Bullhorn sees red after cyberattack knocks recruitment platform offline"
+  },
+  "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/": {
+    "ts": "2026-10-20T14:53:06.491049+00:00",
+    "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers"
+  },
+  "https://cybersecuritynews.com/hackers-use-generative-ai/": {
+    "ts": "2026-10-20T14:53:06.637538+00:00",
+    "title": "Hackers Use Generative AI to Build Custom Malware and Bypass Traditional Security Detection"
+  },
+  "https://gbhackers.com/hackers-exploit-palo-alto-networks-pan-os-flaw/": {
+    "ts": "2026-10-20T14:53:06.776129+00:00",
+    "title": "Hackers Exploit Palo Alto Networks PAN-OS Flaw to Bypass MFA and Deploy Ransomware"
+  },
+  "https://www.helpnetsecurity.com/2026/10/20/malicious-calendar-invites/": {
+    "ts": "2026-10-20T14:53:06.926600+00:00",
+    "title": "Quarantined, but still on your calendar: The explosion of invite-based attacks"
+  },
+  "https://www.malwarebytes.com/blog/scams/2026/10/man-seeking-love-travels-2000-km-to-meet-an-ai-generated-woman": {
+    "ts": "2026-10-20T14:53:07.067134+00:00",
+    "title": "Man seeking love travels 2,000 km to meet an AI-generated woman"
+  },
+  "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/": {
+    "ts": "2026-10-20T14:53:07.206546+00:00",
+    "title": "Ahold Delhaize Restoring Services Disrupted by Cyberattack"
+  },
+  "https://socradar.io/blog/inc-gentlemen-ransomware-ai-infrastructure/": {
+    "ts": "2026-10-20T14:53:07.349018+00:00",
+    "title": "INC and The Gentlemen Ransomware: Exposed AI Infrastructure"
+  },
+  "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html": {
+    "ts": "2026-10-20T14:53:07.492260+00:00",
+    "title": "What Security Teams Can Do To Tame Wild Code"
+  },
+  "https://www.theregister.com/public-sector/2026/10/20/whitehall-shuts-the-front-door-on-digital-id-but-leaves-the-back-open/5304100": {
+    "ts": "2026-10-20T14:53:07.633501+00:00",
+    "title": "Whitehall shuts the front door on digital ID but leaves the back open"
   }
 }

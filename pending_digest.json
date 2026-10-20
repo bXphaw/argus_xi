@@ -1,4 +1,40 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "The Risk of AI-Powered Antidetect Browsers in Online Fraud and Influence Operations",
+      "url": "https://research.checkpoint.com/2026/the-risk-of-ai-powered-antidetect-browsers-in-online-fraud-and-influence-operations/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Exploit Open Banking Services to Test Stolen Credentials Without Paying a Cent",
+      "url": "https://cybersecuritynews.com/hackers-exploit-open-banking-services/"
+    },
+    {
+      "category": "malware_ios",
+      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
+      "url": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "WP2Shell Attack Lets Hackers Create WordPress Admin Accounts and Install Web Shells Without Login",
+      "url": "https://cybersecuritynews.com/wp2shell-attack/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Use Generative AI to Build Custom Malware and Bypass Traditional Security Detection",
+      "url": "https://cybersecuritynews.com/hackers-use-generative-ai/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Exploit Palo Alto Networks PAN-OS Flaw to Bypass MFA and Deploy Ransomware",
+      "url": "https://gbhackers.com/hackers-exploit-palo-alto-networks-pan-os-flaw/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Quarantined, but still on your calendar: The explosion of invite-based attacks",
+      "url": "https://www.helpnetsecurity.com/2026/10/20/malicious-calendar-invites/"
+    }
+  ],
   "last_sent_date": "2026-10-20"
 }
