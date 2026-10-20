@@ -22126,5 +22126,37 @@
   "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/": {
     "ts": "2026-10-19T23:29:45.280135+00:00",
     "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities"
+  },
+  "https://cybersecuritynews.com/chinese-hacker-use-ai-agent-to-hack/": {
+    "ts": "2026-10-20T04:08:22.398193+00:00",
+    "title": "One Hacker Uses AI Agents to Breach Over 100 Company Websites for Just $5,000"
+  },
+  "https://gbhackers.com/ai-assisted-attacks/": {
+    "ts": "2026-10-20T04:08:22.583804+00:00",
+    "title": "Hackers Use Claude, DeepSeek and Grok in AI-Assisted Attacks on South Korean Banks"
+  },
+  "https://www.helpnetsecurity.com/2026/10/20/cybersecurity-jobs-available-right-now-october-20-2026/": {
+    "ts": "2026-10-20T04:08:22.583845+00:00",
+    "title": "Cybersecurity jobs available right now: October 20, 2026"
+  },
+  "https://www.theregister.com/networks/2026/10/20/icann-testing-tech-to-let-law-enforcement-access-non-public-whois-info/5304036": {
+    "ts": "2026-10-20T04:08:22.583850+00:00",
+    "title": "ICANN testing tech to let law enforcement access non-public WHOIS info"
+  },
+  "https://cybersecuritynews.com/claude-ai-detects-hidden-crypto-miner/": {
+    "ts": "2026-10-20T04:08:22.776439+00:00",
+    "title": "Claude AI Detects Hidden Crypto Miner While Building Temperature Monitor App on Mac"
+  },
+  "https://www.helpnetsecurity.com/2026/10/20/cloudflare-ai-clairic-extraction-model/": {
+    "ts": "2026-10-20T04:08:22.776458+00:00",
+    "title": "Cloudflare bets you\u2019re overpaying an LLM to read your invoices"
+  },
+  "https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010": {
+    "ts": "2026-10-20T04:08:22.776462+00:00",
+    "title": "DeepSeek deep-sixed at all US federal civilian agencies"
+  },
+  "https://cybersecuritynews.com/google-unveils-new-android-ai-protections/": {
+    "ts": "2026-10-20T04:08:22.776464+00:00",
+    "title": "Google Unveils New Android AI Protections to Block Scam Calls, Phishing Links and OTP Theft"
   }
 }

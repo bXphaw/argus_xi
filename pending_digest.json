@@ -54,6 +54,21 @@
       "category": "new_technique",
       "title": "ConnectWise Cloud Backup application abused in cross-tenant token sweep",
       "url": "https://www.sophos.com/en-us/blog/connectwise-cloud-backup-application-abused-in-token-sweep"
+    },
+    {
+      "category": "new_technique",
+      "title": "One Hacker Uses AI Agents to Breach Over 100 Company Websites for Just $5,000",
+      "url": "https://cybersecuritynews.com/chinese-hacker-use-ai-agent-to-hack/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Use Claude, DeepSeek and Grok in AI-Assisted Attacks on South Korean Banks",
+      "url": "https://gbhackers.com/ai-assisted-attacks/"
+    },
+    {
+      "category": "malware_macos",
+      "title": "Claude AI Detects Hidden Crypto Miner While Building Temperature Monitor App on Mac",
+      "url": "https://cybersecuritynews.com/claude-ai-detects-hidden-crypto-miner/"
     }
   ],
   "last_sent_date": "2026-10-19"
