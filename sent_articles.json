@@ -22578,5 +22578,25 @@
   "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html": {
     "ts": "2026-10-20T23:03:57.361356+00:00",
     "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident"
+  },
+  "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/": {
+    "ts": "2026-10-21T03:56:26.333109+00:00",
+    "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites"
+  },
+  "https://cybersecuritynews.com/php-to-issue-emergency-patch/": {
+    "ts": "2026-10-21T03:56:26.333126+00:00",
+    "title": "PHP Warns of Two Critical 9.2 Security Vulnerabilities, Urges Users to Prepare for Patches"
+  },
+  "https://www.helpnetsecurity.com/2026/10/21/torchtpu-pytorch-on-tpus/": {
+    "ts": "2026-10-21T03:56:26.333129+00:00",
+    "title": "Google open-sourced TorchTPU, so PyTorch on TPUs just got a lot easier"
+  },
+  "https://securelist.com/lazarus-operation-flashhole/121541/": {
+    "ts": "2026-10-21T03:56:26.509205+00:00",
+    "title": "Operation FlashHole: Lazarus breaks security, defies control"
+  },
+  "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/": {
+    "ts": "2026-10-21T03:56:26.509224+00:00",
+    "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates"
   }
 }

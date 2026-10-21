@@ -89,6 +89,11 @@
       "category": "new_technique",
       "title": "Ransomware Gangs Use AI to Find and Steal the Most Sensitive Company Data Quickly",
       "url": "https://gbhackers.com/ai-powered-ransomware-2/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Operation FlashHole: Lazarus breaks security, defies control",
+      "url": "https://securelist.com/lazarus-operation-flashhole/121541/"
     }
   ],
   "last_sent_date": "2026-10-20"
