@@ -39,6 +39,36 @@
       "category": "apt_campaign",
       "title": "APT28 Hackers Open Secret SSH Tunnel Into NATO Country\u2019s Naval Shipbuilder Network",
       "url": "https://cybersecuritynews.com/apt28-hackers/"
+    },
+    {
+      "category": "new_technique",
+      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Two critical RCEs in PHP core",
+      "url": "https://blog.talosintelligence.com/two-critical-rces-in-php-core/"
+    },
+    {
+      "category": "new_technique",
+      "title": "CrowdStrike Protects Customers from Threats Delivered via PHP2Shell",
+      "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors"
+    },
+    {
+      "category": "malware_windows",
+      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+      "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Gentlemen Ransomware Hackers Hijack Legitimate Lenovo Drivers to Disable Security Software",
+      "url": "https://gbhackers.com/lenovo-drivers-exploited/"
     }
   ],
   "last_sent_date": "2026-10-21"

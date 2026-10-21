@@ -22838,5 +22838,125 @@
   "https://socradar.io/blog/php2shell-cve-2026-109618-cve-2026-109619/": {
     "ts": "2026-10-21T15:00:13.980467+00:00",
     "title": "PHP2Shell: CVE-2026-109618 & CVE-2026-109619"
+  },
+  "https://gbhackers.com/arrakis-security-report-finds-76-of-ai-agents-are-dormant-but-keep-their-credentials-and-connections/": {
+    "ts": "2026-10-21T19:13:30.310351+00:00",
+    "title": "Arrakis Security Report Finds 76% of AI Agents Are Dormant but Keep Their Credentials and Connections"
+  },
+  "https://securelist.com/tr/php2shell-critical-vulnerabilities-in-php/121596/": {
+    "ts": "2026-10-21T19:13:34.573940+00:00",
+    "title": "Critical RCE vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619)"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/": {
+    "ts": "2026-10-21T19:15:21.842981+00:00",
+    "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers"
+  },
+  "https://blog.talosintelligence.com/two-critical-rces-in-php-core/": {
+    "ts": "2026-10-21T19:15:22.031278+00:00",
+    "title": "Two critical RCEs in PHP core"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/": {
+    "ts": "2026-10-21T19:15:22.221362+00:00",
+    "title": "CrowdStrike Protects Customers from Threats Delivered via PHP2Shell"
+  },
+  "https://cybersecuritynews.com/arrakis-security-report-finds-76-of-ai-agents-are-dormant-but-keep-their-credentials-and-connections/": {
+    "ts": "2026-10-21T19:15:22.221383+00:00",
+    "title": "Arrakis Security Report Finds 76% of AI Agents Are Dormant but Keep Their Credentials and Connections"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors": {
+    "ts": "2026-10-21T19:15:22.406438+00:00",
+    "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors"
+  },
+  "https://www.helpnetsecurity.com/2026/10/21/php2shell-php-vulnerabilities-patched-cve-2026-109618-cve-2026-109619/": {
+    "ts": "2026-10-21T19:15:22.598871+00:00",
+    "title": "PHP2Shell: Critical PHP vulnerabilities patched, update now!"
+  },
+  "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/": {
+    "ts": "2026-10-21T19:15:22.783163+00:00",
+    "title": "Widespread PHP Flaw May Cause Many Site Outages Today"
+  },
+  "https://www.malwarebytes.com/blog/bugs/2026/10/php2shell-why-websites-are-going-offline-for-emergency-security-updates": {
+    "ts": "2026-10-21T19:15:22.968700+00:00",
+    "title": "PHP2Shell: Why websites are going offline for emergency security updates"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/": {
+    "ts": "2026-10-21T19:15:23.156058+00:00",
+    "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-109618-and-cve-2026-109619-critical-unauthenticated-remote-code-execution-in-php": {
+    "ts": "2026-10-21T19:15:23.343234+00:00",
+    "title": "CVE-2026-109618 and CVE-2026-109619: Critical Unauthenticated Remote Code Execution in PHP"
+  },
+  "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/": {
+    "ts": "2026-10-21T19:15:23.343364+00:00",
+    "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections"
+  },
+  "https://www.security.com/feature-stories/hyperarmor-three-pillars-uphold-layered-defense": {
+    "ts": "2026-10-21T19:15:23.343369+00:00",
+    "title": "In HyperArmor, Three Pillars Uphold A Layered Defense"
+  },
+  "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html": {
+    "ts": "2026-10-21T19:15:23.533403+00:00",
+    "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor"
+  },
+  "https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548": {
+    "ts": "2026-10-21T19:15:23.533419+00:00",
+    "title": "LiteLLM supply chain attack hoovers up passwords and secrets"
+  },
+  "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/": {
+    "ts": "2026-10-21T19:15:23.533422+00:00",
+    "title": "OpenAI agents disabled safety monitoring, one lied about it"
+  },
+  "https://cybersecuritynews.com/the-ai-adoption-blind-spot-how-fake-ai-tools-put-enterprises-at-risk/": {
+    "ts": "2026-10-21T19:15:23.723857+00:00",
+    "title": "The AI Adoption Blind Spot: How Fake AI Tools Put Enterprises at Risk"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program": {
+    "ts": "2026-10-21T19:15:23.910354+00:00",
+    "title": "Optiv Launches CyberBOT Cybersecurity Awareness Training Program"
+  },
+  "https://gbhackers.com/industrial-defender-unifies-endpoint-intelligence-and-network-monitoring-for-cip-015-adds-risk-signal/": {
+    "ts": "2026-10-21T19:15:24.104578+00:00",
+    "title": "Industrial Defender Unifies Endpoint Intelligence and Network Monitoring for CIP-015, Adds Risk Signal"
+  },
+  "https://www.helpnetsecurity.com/2026/10/21/ransomware-groups-exploit-palo-alto-globalprotect-cve-2026-0257/": {
+    "ts": "2026-10-21T19:15:24.303702+00:00",
+    "title": "Ransomware gangs have been exploiting Palo Alto GlobalProtect VPN flaw since June"
+  },
+  "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/": {
+    "ts": "2026-10-21T19:15:24.489649+00:00",
+    "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors"
+  },
+  "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html": {
+    "ts": "2026-10-21T19:15:24.489669+00:00",
+    "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So"
+  },
+  "https://www.theregister.com/security/2026/10/21/signal-bug-could-keep-your-mic-and-camera-on-after-hangup/5304528": {
+    "ts": "2026-10-21T19:15:24.489672+00:00",
+    "title": "Signal bug could keep your mic - and camera - on after hangup"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/": {
+    "ts": "2026-10-21T19:15:24.489674+00:00",
+    "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools"
+  },
+  "https://cybersecuritynews.com/node-js-releases-security-updates/": {
+    "ts": "2026-10-21T19:15:24.489676+00:00",
+    "title": "Node.js Releases Security Updates to Fix High-Severity TLS, DNS and Brotli Vulnerabilities"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable": {
+    "ts": "2026-10-21T19:15:24.489679+00:00",
+    "title": "Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk"
+  },
+  "https://gbhackers.com/lenovo-drivers-exploited/": {
+    "ts": "2026-10-21T19:15:24.676522+00:00",
+    "title": "Gentlemen Ransomware Hackers Hijack Legitimate Lenovo Drivers to Disable Security Software"
+  },
+  "https://www.helpnetsecurity.com/2026/10/21/bringing-ai-into-the-soc-video/": {
+    "ts": "2026-10-21T19:15:24.676543+00:00",
+    "title": "Bringing AI into the SOC means watching for shadow AI and loose permissions"
+  },
+  "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/": {
+    "ts": "2026-10-21T19:15:24.676546+00:00",
+    "title": "\u2018Context Bombs\u2019 Cut AI Attack Success by Misleading Agents With Fake Targets"
   }
 }
