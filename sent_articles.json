@@ -22598,5 +22598,125 @@
   "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/": {
     "ts": "2026-10-21T03:56:26.509224+00:00",
     "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates"
+  },
+  "https://cybersecuritynews.com/best-data-masking-tools/": {
+    "ts": "2026-10-21T09:15:24.907735+00:00",
+    "title": "Top 10 Best Data Masking Tools in 2026 [Ranked & Scored]"
+  },
+  "https://cybersecuritynews.com/best-database-security-tools/": {
+    "ts": "2026-10-21T09:15:32.551662+00:00",
+    "title": "Top 10 Best Database Security & Activity Monitoring Tools in 2026 [Ranked & Scored]"
+  },
+  "https://asec.ahnlab.com/en/95933/": {
+    "ts": "2026-10-21T09:17:08.802839+00:00",
+    "title": "Ransom & Dark Web Issues Week 4, October 2026"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/": {
+    "ts": "2026-10-21T09:17:09.128917+00:00",
+    "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs"
+  },
+  "https://cybersecuritynews.com/apache-tomcat-fixes-8-security-flaws/": {
+    "ts": "2026-10-21T09:17:09.128940+00:00",
+    "title": "Apache Tomcat Fixes 8 Security Flaws That Could Let Hackers Bypass Authentication"
+  },
+  "https://gbhackers.com/apache-tomcat-security-flaws/": {
+    "ts": "2026-10-21T09:17:09.128944+00:00",
+    "title": "Apache Tomcat Security Flaws Allow Attackers to Bypass Authentication and Expose User Data"
+  },
+  "https://www.group-ib.com/blog/stray-cat-network-edge/": {
+    "ts": "2026-10-21T09:17:09.319271+00:00",
+    "title": "Stray Cat, Open Doors: How k0t Wanders Through the Network Edge"
+  },
+  "https://www.helpnetsecurity.com/2026/10/21/ovhcloud-cli-github-malware/": {
+    "ts": "2026-10-21T09:17:09.497331+00:00",
+    "title": "Info-stealing malware slipped into OVHcloud CLI releases on GitHub"
+  },
+  "https://securityaffairs.com/201389/intelligence/nso-spyware-pegasus-hit-a-serbian-university-rector-six-days-before-snap-elections.html": {
+    "ts": "2026-10-21T09:17:09.673569+00:00",
+    "title": "NSO Spyware Pegasus Hit a Serbian University Rector Six Days Before Snap Elections"
+  },
+  "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/": {
+    "ts": "2026-10-21T09:17:09.847974+00:00",
+    "title": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws"
+  },
+  "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html": {
+    "ts": "2026-10-21T09:17:09.847995+00:00",
+    "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web"
+  },
+  "https://www.welivesecurity.com/en/social-media/is-ad-scam-how-tell-before-click/": {
+    "ts": "2026-10-21T09:17:09.848000+00:00",
+    "title": "Is the ad a scam? How to tell before you click"
+  },
+  "https://asec.ahnlab.com/en/95937/": {
+    "ts": "2026-10-21T09:17:10.026240+00:00",
+    "title": "Does It Stop When Someone Is Watching? The Suspicious Behavior of a New Type of Infostealer"
+  },
+  "https://cybersecuritynews.com/best-file-integrity-monitoring/": {
+    "ts": "2026-10-21T09:17:10.205589+00:00",
+    "title": "Top 10 Best File Integrity Monitoring (FIM) Tools in 2026 [Ranked & Scored]"
+  },
+  "https://gbhackers.com/hackers-compromise-333-tor-exit-nodes/": {
+    "ts": "2026-10-21T09:17:10.380997+00:00",
+    "title": "Hackers Compromise 333 Tor Exit Nodes to Steal SSH Credentials and Deploy Ebury Malware"
+  },
+  "https://www.helpnetsecurity.com/2026/10/21/apple-safari-tracking-protection/": {
+    "ts": "2026-10-21T09:17:10.551498+00:00",
+    "title": "Safari blocks trackers that turn your email into a tracking ID"
+  },
+  "https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/": {
+    "ts": "2026-10-21T09:17:10.737990+00:00",
+    "title": "Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI"
+  },
+  "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html": {
+    "ts": "2026-10-21T09:17:10.738010+00:00",
+    "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws"
+  },
+  "https://asec.ahnlab.com/en/95940/": {
+    "ts": "2026-10-21T09:17:10.909541+00:00",
+    "title": "They told me to check my retirement savings balance, but now they\u2019re asking for my password?"
+  },
+  "https://gbhackers.com/com-cybercrime-ecosystem/": {
+    "ts": "2026-10-21T09:17:10.909561+00:00",
+    "title": "Scattered Spider, LAPSUS$, and ShinyHunters Operate as Distinct Groups Within The Com Ecosystem"
+  },
+  "https://www.helpnetsecurity.com/2026/10/21/ecg-heart-data-privacy-preserving-ai/": {
+    "ts": "2026-10-21T09:17:10.909564+00:00",
+    "title": "Privacy-preserving AI can protect your heart data, the bill is the problem"
+  },
+  "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/": {
+    "ts": "2026-10-21T09:17:10.909567+00:00",
+    "title": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities"
+  },
+  "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html": {
+    "ts": "2026-10-21T09:17:11.080855+00:00",
+    "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion"
+  },
+  "https://cybersecuritynews.com/best-data-privacy-management/": {
+    "ts": "2026-10-21T09:17:11.257737+00:00",
+    "title": "Top 10 Best Data Privacy Management Software in 2026 [Ranked & Scored]"
+  },
+  "https://gbhackers.com/safepay-ransomware-attack/": {
+    "ts": "2026-10-21T09:17:11.435586+00:00",
+    "title": "CISA Warns SafePay Ransomware Has Hit 600+ Organizations and Destroyed Backup Systems"
+  },
+  "https://www.helpnetsecurity.com/2026/10/21/devguard-open-source-vulnerability-management/": {
+    "ts": "2026-10-21T09:17:11.607903+00:00",
+    "title": "DevGuard: Open-source vulnerability management for the software supply chain"
+  },
+  "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html": {
+    "ts": "2026-10-21T09:17:11.787129+00:00",
+    "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert"
+  },
+  "https://gbhackers.com/rust-1-100-strengthens-cargo/": {
+    "ts": "2026-10-21T09:17:11.787149+00:00",
+    "title": "Rust 1.100 Will Let Developers Block Fresh Cargo Packages to Reduce Malware Supply Chain Risks"
+  },
+  "https://www.helpnetsecurity.com/2026/10/21/gitguardian-securing-credential-layer/": {
+    "ts": "2026-10-21T09:17:11.787153+00:00",
+    "title": "Why security tools lose sight of the credential"
+  },
+  "https://cybersecuritynews.com/safepay-ransomware/": {
+    "ts": "2026-10-21T09:17:11.964458+00:00",
+    "title": "SafePay Ransomware Has Affected 600+ Organizations by Exploiting VPNs and Backup Servers"
   }
 }
