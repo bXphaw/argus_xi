@@ -69,6 +69,31 @@
       "category": "malware_windows",
       "title": "Gentlemen Ransomware Hackers Hijack Legitimate Lenovo Drivers to Disable Security Software",
       "url": "https://gbhackers.com/lenovo-drivers-exploited/"
+    },
+    {
+      "category": "new_technique",
+      "title": "PHP blames supply chain security biz Chainguard for putting entire web at risk",
+      "url": "https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-entire-web-at-risk/5304611"
+    },
+    {
+      "category": "new_technique",
+      "title": "CVE-2026-109618 and CVE-2026-109619: PHP Vulnerable to Unauthenticated RCE Attacks",
+      "url": "https://www.zscaler.com/blogs/security-research/cve-2026-109618-and-cve-2026-109619-php-vulnerable-unauthenticated-rce"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Use Gentlemen Ransomware to Disable Windows Defender and Destroy Backups",
+      "url": "https://cybersecuritynews.com/hackers-use-gentlemen-ransomware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Inside a Global AI-Assisted Hacking Campaign",
+      "url": "https://www.zscaler.com/blogs/security-research/inside-global-ai-assisted-hacking-campaign"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/"
     }
   ],
   "last_sent_date": "2026-10-21"

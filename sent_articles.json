@@ -22958,5 +22958,125 @@
   "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/": {
     "ts": "2026-10-21T19:15:24.676546+00:00",
     "title": "\u2018Context Bombs\u2019 Cut AI Attack Success by Misleading Agents With Fake Targets"
+  },
+  "https://cybersecuritynews.com/chrome-with-gemini-ai-to-detect-update-scams/": {
+    "ts": "2026-10-21T23:06:09.731860+00:00",
+    "title": "Google Upgrades Chrome With Gemini AI to Detect Fake Antivirus and Browser Update Scams"
+  },
+  "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/": {
+    "ts": "2026-10-21T23:08:22.262937+00:00",
+    "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks"
+  },
+  "https://blog.talosintelligence.com/compromised-intermediate-certificates/": {
+    "ts": "2026-10-21T23:08:22.262959+00:00",
+    "title": "Compromised eMudhra intermediate certificates"
+  },
+  "https://cybersecuritynews.com/hackers-use-ai-powered-browsers/": {
+    "ts": "2026-10-21T23:08:22.262963+00:00",
+    "title": "Hackers Use AI-Powered Browsers to Hide Thousands of Fake Accounts and Bypass Security Detection"
+  },
+  "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security": {
+    "ts": "2026-10-21T23:08:22.262966+00:00",
+    "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions"
+  },
+  "https://gbhackers.com/cloudflare-warns-of-active-exploitation-attempts/": {
+    "ts": "2026-10-21T23:08:22.262970+00:00",
+    "title": "Cloudflare Warns of Active Exploitation Attempts Against Two Leaked PHP Flaws"
+  },
+  "https://www.helpnetsecurity.com/2026/10/22/google-chrome-https-protection/": {
+    "ts": "2026-10-21T23:08:22.417106+00:00",
+    "title": "Chrome puts insecure sites behind a permission prompt"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/whatsapp-chatbot-privacy-regulators": {
+    "ts": "2026-10-21T23:08:22.508589+00:00",
+    "title": "WhatsApp\u2019s chatbot was given hidden instructions to not mention privacy regulators"
+  },
+  "https://securityaffairs.com/201446/breaking-news/russian-satellite-makes-a-close-approach-to-a-commercial-radar-satellite-used-by-ukraine.html": {
+    "ts": "2026-10-21T23:08:22.599153+00:00",
+    "title": "Russian Satellite Makes a Close Approach To A Commercial Radar Satellite Used by Ukraine"
+  },
+  "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/": {
+    "ts": "2026-10-21T23:08:22.690898+00:00",
+    "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7"
+  },
+  "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html": {
+    "ts": "2026-10-21T23:08:22.781399+00:00",
+    "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases"
+  },
+  "https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-entire-web-at-risk/5304611": {
+    "ts": "2026-10-21T23:08:22.881769+00:00",
+    "title": "PHP blames supply chain security biz Chainguard for putting entire web at risk"
+  },
+  "https://www.zscaler.com/blogs/security-research/cve-2026-109618-and-cve-2026-109619-php-vulnerable-unauthenticated-rce": {
+    "ts": "2026-10-21T23:08:22.970390+00:00",
+    "title": "CVE-2026-109618 and CVE-2026-109619: PHP Vulnerable to Unauthenticated RCE Attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/": {
+    "ts": "2026-10-21T23:08:22.970407+00:00",
+    "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected"
+  },
+  "https://cybersecuritynews.com/hackers-use-gentlemen-ransomware/": {
+    "ts": "2026-10-21T23:08:23.069927+00:00",
+    "title": "Hackers Use Gentlemen Ransomware to Disable Windows Defender and Destroy Backups"
+  },
+  "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security": {
+    "ts": "2026-10-21T23:08:23.069944+00:00",
+    "title": "Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security"
+  },
+  "https://gbhackers.com/bronze-sandcastle-intrusions/": {
+    "ts": "2026-10-21T23:08:23.170934+00:00",
+    "title": "BRONZE SANDCASTLE Hackers Steal Active Directory Database Using Hidden Windows Backdoors"
+  },
+  "https://securityaffairs.com/201435/ai/openai-reports-two-incidents-of-ai-agents-disabling-their-own-oversight.html": {
+    "ts": "2026-10-21T23:08:23.270177+00:00",
+    "title": "OpenAI Reports Two Incidents of AI Agents Disabling Their Own Oversight"
+  },
+  "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/": {
+    "ts": "2026-10-21T23:08:23.365003+00:00",
+    "title": "OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor"
+  },
+  "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html": {
+    "ts": "2026-10-21T23:08:23.452844+00:00",
+    "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge"
+  },
+  "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519": {
+    "ts": "2026-10-21T23:08:23.542136+00:00",
+    "title": "PHP devs publish critical bug fix as site owners warned: Pull 'em offline if you're unpatched"
+  },
+  "https://www.zscaler.com/blogs/security-research/inside-global-ai-assisted-hacking-campaign": {
+    "ts": "2026-10-21T23:08:23.643802+00:00",
+    "title": "Inside a Global AI-Assisted Hacking Campaign"
+  },
+  "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/": {
+    "ts": "2026-10-21T23:08:23.738607+00:00",
+    "title": "Lazarus hackers use post-quantum cryptography for malware delivery"
+  },
+  "https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss": {
+    "ts": "2026-10-21T23:08:23.738624+00:00",
+    "title": "Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens"
+  },
+  "https://gbhackers.com/google-chrome-156-fixes-353-security-vulnerabilities/": {
+    "ts": "2026-10-21T23:08:23.738629+00:00",
+    "title": "Google Chrome 156 Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws"
+  },
+  "https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/": {
+    "ts": "2026-10-21T23:08:23.738631+00:00",
+    "title": "Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys"
+  },
+  "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html": {
+    "ts": "2026-10-21T23:08:23.825910+00:00",
+    "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319": {
+    "ts": "2026-10-21T23:08:23.914384+00:00",
+    "title": "Nvidia picks OpenShell to tame AI gents"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/": {
+    "ts": "2026-10-21T23:08:24.009517+00:00",
+    "title": "Microsoft says October updates didn\u2019t actually fix VPN issues"
+  },
+  "https://cybersecuritynews.com/litellm-compromised/": {
+    "ts": "2026-10-21T23:08:24.096775+00:00",
+    "title": "LiteLLM Compromised \u2013 Hackers Injected an Infostealer and RAT in the Latest 1.107.0 PyPI Release"
   }
 }
