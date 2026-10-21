@@ -1,4 +1,45 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers",
+      "url": "https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Threats Hidden in Replies: Threat Actors Deliver Malware and Credential Phishing in Email Threads",
+      "url": "https://cofense.com/blog/cofense-intelligence-strategic-analysis"
+    },
+    {
+      "category": "new_technique",
+      "title": "CrowdStrike Uncovers New Agentic AI Campaigns",
+      "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/"
+    },
+    {
+      "category": "new_technique",
+      "title": "PHP Releases Emergency Patches for PHP2Shell Flaws Threatening Millions of Web Servers",
+      "url": "https://cybersecuritynews.com/php-releases-emergency-patches/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "\u201cNext Exploit Opportunities\u201d: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities",
+      "url": "https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/"
+    },
+    {
+      "category": "new_technique",
+      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+      "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "APT28 Hackers Open Secret SSH Tunnel Into NATO Country\u2019s Naval Shipbuilder Network",
+      "url": "https://cybersecuritynews.com/apt28-hackers/"
+    }
+  ],
   "last_sent_date": "2026-10-21"
 }

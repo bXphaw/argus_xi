@@ -22718,5 +22718,125 @@
   "https://cybersecuritynews.com/safepay-ransomware/": {
     "ts": "2026-10-21T09:17:11.964458+00:00",
     "title": "SafePay Ransomware Has Affected 600+ Organizations by Exploiting VPNs and Backup Servers"
+  },
+  "https://securityaffairs.com/201417/ai/us-government-orders-deepseek-out-of-federal-civilian-systems.html": {
+    "ts": "2026-10-21T14:58:01.278604+00:00",
+    "title": "US Government Orders DeepSeek Out of Federal Civilian Systems"
+  },
+  "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/": {
+    "ts": "2026-10-21T15:00:11.467384+00:00",
+    "title": "PHP ships emergency patches for critical PHP2Shell flaws"
+  },
+  "https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/": {
+    "ts": "2026-10-21T15:00:11.582034+00:00",
+    "title": "Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers"
+  },
+  "https://cofense.com/blog/cofense-intelligence-strategic-analysis": {
+    "ts": "2026-10-21T15:00:11.695896+00:00",
+    "title": "Threats Hidden in Replies: Threat Actors Deliver Malware and Credential Phishing in Email Threads"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/": {
+    "ts": "2026-10-21T15:00:11.822876+00:00",
+    "title": "CrowdStrike Uncovers New Agentic AI Campaigns"
+  },
+  "https://cybersecuritynews.com/php-releases-emergency-patches/": {
+    "ts": "2026-10-21T15:00:11.932234+00:00",
+    "title": "PHP Releases Emergency Patches for PHP2Shell Flaws Threatening Millions of Web Servers"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack": {
+    "ts": "2026-10-21T15:00:12.067415+00:00",
+    "title": "Decades-Old Windows Utility Powers Modern ClickFix Attack"
+  },
+  "https://gbhackers.com/google-chrome-integrates-gemini-ai-to-detect-fake-antivirus/": {
+    "ts": "2026-10-21T15:00:12.188126+00:00",
+    "title": "Google Chrome Integrates Gemini AI to Detect Fake Antivirus and Browser Update Scams"
+  },
+  "https://www.helpnetsecurity.com/2026/10/21/emudhra-certificates-private-keys-compromised/": {
+    "ts": "2026-10-21T15:00:12.309556+00:00",
+    "title": "eMudhra security blunder left trusted CA signing keys exposed to anyone"
+  },
+  "https://www.malwarebytes.com/blog/threat-intel/2026/10/fake-amazon-music-x-youtube-deal-lures-creators-into-a-google-login-trap": {
+    "ts": "2026-10-21T15:00:12.427901+00:00",
+    "title": "Fake Amazon Music x YouTube deal lures creators into a Google login trap"
+  },
+  "https://www.morphisec.com/blog/how-ai-is-transforming-security-operations-for-the-better/": {
+    "ts": "2026-10-21T15:00:12.546807+00:00",
+    "title": "How AI Is Transforming Security Operations (For the Better)"
+  },
+  "https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/": {
+    "ts": "2026-10-21T15:00:12.675832+00:00",
+    "title": "\u201cNext Exploit Opportunities\u201d: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities"
+  },
+  "https://www.rapid7.com/blog/post/tr-q3-2026-threat-update-attackers-exploiting-vulnerabilities-within-3-days": {
+    "ts": "2026-10-21T15:00:12.675848+00:00",
+    "title": "Q3 2026 Threat Update: Attackers Are Exploiting Vulnerabilities Within 3 Days"
+  },
+  "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/": {
+    "ts": "2026-10-21T15:00:12.675852+00:00",
+    "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security"
+  },
+  "https://www.sekoia.com/blog/from-mobile-threat-detection-to-autonomous-investigation-connecting-zimperium-with-sekoia": {
+    "ts": "2026-10-21T15:00:12.675855+00:00",
+    "title": "Sekoia + Zimperium: Investigate Mobile Threats In Your SOC"
+  },
+  "https://socradar.io/blog/emudhra-ca-key-compromise-weak-keys-risks-and-fixes/": {
+    "ts": "2026-10-21T15:00:12.675858+00:00",
+    "title": "eMudhra CA Key Compromise: Weak Keys, Risks and Fixes"
+  },
+  "https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619": {
+    "ts": "2026-10-21T15:00:12.795580+00:00",
+    "title": "Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619)"
+  },
+  "https://www.security.com/threat-intelligence/ai-llmjacking-skynet": {
+    "ts": "2026-10-21T15:00:12.912956+00:00",
+    "title": "Autonomous LLMjacking: \u2018Skynet\u2019 Agent Hijacks Exposed AI Models to Run Attacks"
+  },
+  "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html": {
+    "ts": "2026-10-21T15:00:13.023782+00:00",
+    "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands"
+  },
+  "https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297": {
+    "ts": "2026-10-21T15:00:13.150467+00:00",
+    "title": "AI has 'potential' to turn script kiddies into sophisticated infrastructure attackers"
+  },
+  "https://threatmon.io/from-open-ports-to-underground-offers-investigating-ot-access-claims-and-exposure/": {
+    "ts": "2026-10-21T15:00:13.289583+00:00",
+    "title": "From Open Ports to Underground Offers: Investigating OT Access Claims and Exposure"
+  },
+  "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/": {
+    "ts": "2026-10-21T15:00:13.406306+00:00",
+    "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet"
+  },
+  "https://cybersecuritynews.com/apt28-hackers/": {
+    "ts": "2026-10-21T15:00:13.522031+00:00",
+    "title": "APT28 Hackers Open Secret SSH Tunnel Into NATO Country\u2019s Naval Shipbuilder Network"
+  },
+  "https://gbhackers.com/gemini-compatible-ai-browsers/": {
+    "ts": "2026-10-21T15:00:13.522044+00:00",
+    "title": "Gemini-Compatible AI Browsers Could Help Scammers Run Thousands of Fake Accounts, Researchers Warn"
+  },
+  "https://www.helpnetsecurity.com/2026/10/21/nvidia-openshell-reference-architecture/": {
+    "ts": "2026-10-21T15:00:13.522048+00:00",
+    "title": "NVIDIA unveils security architecture that can stop AI agents crossing set boundaries"
+  },
+  "https://www.malwarebytes.com/blog/bugs/2026/10/signal-bug-could-let-someone-keep-listening-after-you-hang-up": {
+    "ts": "2026-10-21T15:00:13.522051+00:00",
+    "title": "Signal bug could let someone keep listening after you hang up"
+  },
+  "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/": {
+    "ts": "2026-10-21T15:00:13.630245+00:00",
+    "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619"
+  },
+  "https://securityaffairs.com/201403/security/php-prepares-emergency-fixes-for-two-critical-remote-code-execution-flaws.html": {
+    "ts": "2026-10-21T15:00:13.745402+00:00",
+    "title": "PHP Prepares Emergency Fixes for Two Critical Remote Code Execution Flaws"
+  },
+  "https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/": {
+    "ts": "2026-10-21T15:00:13.855692+00:00",
+    "title": "Memory Bugs Account for Most of Chrome\u2019s 353 New Security Fixes"
+  },
+  "https://socradar.io/blog/php2shell-cve-2026-109618-cve-2026-109619/": {
+    "ts": "2026-10-21T15:00:13.980467+00:00",
+    "title": "PHP2Shell: CVE-2026-109618 & CVE-2026-109619"
   }
 }
