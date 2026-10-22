@@ -44,6 +44,46 @@
       "category": "new_technique",
       "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
       "url": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/"
+    },
+    {
+      "category": "new_technique",
+      "title": "I had plans for that second",
+      "url": "https://blog.talosintelligence.com/i-had-plans-for-that-second/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Attackers abuse legitimate platforms to deliver phishing emails that pass authentication checks",
+      "url": "https://www.helpnetsecurity.com/2026/10/22/legitimate-platforms-abused-phishing-emails/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "SEO Poisoning Campaign Delivers New Armorsteal Malware",
+      "url": "https://www.zscaler.com/blogs/security-research/seo-poisoning-campaign-delivers-new-armorsteal-malware"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Cybercriminals Used Claude and Grok to Launch Automated Attacks Against Banks",
+      "url": "https://gbhackers.com/claude-and-grok-exploited/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "K0T Hackers Target FortiGate, FortiWeb and Palo Alto GlobalProtect in Credential Theft Campaign",
+      "url": "https://gbhackers.com/k0t-credential-theft/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
+      "url": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html"
+    },
+    {
+      "category": "malware_other",
+      "title": "PHP2Shell puts dozens of UK government services out of service",
+      "url": "https://www.theregister.com/security/2026/10/22/php2shell-puts-dozens-of-uk-government-services-out-of-service/5304840"
     }
   ],
   "last_sent_date": "2026-10-22"

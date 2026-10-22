@@ -23394,5 +23394,125 @@
   "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html": {
     "ts": "2026-10-22T14:59:55.972500+00:00",
     "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL"
+  },
+  "https://gbhackers.com/gcore-makes-enterprise-security-bundle-free-for-public-agencies-until-end-of-the-year/": {
+    "ts": "2026-10-22T19:08:49.237029+00:00",
+    "title": "Gcore Makes Enterprise Security Bundle Free for Public Agencies Until End of the Year"
+  },
+  "https://securityaffairs.com/201490/security/signal-vulnerability-could-keep-calls-alive-after-users-hang-up.html": {
+    "ts": "2026-10-22T19:08:52.736601+00:00",
+    "title": "Signal Vulnerability Could Keep Calls Alive After Users Hang Up"
+  },
+  "https://threatmon.io/php2shell-critical-php-rce-flaws-cve-2026-109618-cve-2026-109619/": {
+    "ts": "2026-10-22T19:08:56.101777+00:00",
+    "title": "PHP2Shell: Critical PHP RCE Flaws CVE-2026-109618 & CVE-2026-109619"
+  },
+  "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/": {
+    "ts": "2026-10-22T19:09:10.604367+00:00",
+    "title": "PHP2Shell Exploitation Started Days Before Patches"
+  },
+  "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/": {
+    "ts": "2026-10-22T19:10:29.494815+00:00",
+    "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks"
+  },
+  "https://blog.talosintelligence.com/i-had-plans-for-that-second/": {
+    "ts": "2026-10-22T19:10:29.678195+00:00",
+    "title": "I had plans for that second"
+  },
+  "https://cybersecuritynews.com/gcore-makes-enterprise-security-bundle-free-for-public-agencies-until-end-of-the-year/": {
+    "ts": "2026-10-22T19:10:29.678218+00:00",
+    "title": "Gcore Makes Enterprise Security Bundle Free for Public Agencies Until End of the Year"
+  },
+  "https://www.helpnetsecurity.com/2026/10/22/legitimate-platforms-abused-phishing-emails/": {
+    "ts": "2026-10-22T19:10:29.866059+00:00",
+    "title": "Attackers abuse legitimate platforms to deliver phishing emails that pass authentication checks"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/facebooks-misleading-privacy-claims-land-meta-a-25-billion-penalty": {
+    "ts": "2026-10-22T19:10:29.866080+00:00",
+    "title": "Facebook\u2019s misleading privacy claims land Meta a $25 billion penalty"
+  },
+  "https://moonlock.com/zillow-scams": {
+    "ts": "2026-10-22T19:10:30.045500+00:00",
+    "title": "Are there scams on Zillow? Types, red flags, and reporting options"
+  },
+  "https://unit42.paloaltonetworks.com/emudhra-certificate-compromise/": {
+    "ts": "2026-10-22T19:10:30.228820+00:00",
+    "title": "EMudhra Intermediate CA Certificates Compromised"
+  },
+  "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/": {
+    "ts": "2026-10-22T19:10:30.413681+00:00",
+    "title": "Splunk, SolarWinds Release Fresh Security Updates"
+  },
+  "https://socradar.io/blog/php2shell-exploit-tooling-attacker-server/": {
+    "ts": "2026-10-22T19:10:30.593048+00:00",
+    "title": "PHP2Shell Exploit Tooling Found on Exposed Attacker Server"
+  },
+  "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html": {
+    "ts": "2026-10-22T19:10:30.774046+00:00",
+    "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable"
+  },
+  "https://www.theregister.com/security/2026/10/22/max-severity-gitlab-bug-allows-remote-code-execution-over-12-years-of-releases/5304854": {
+    "ts": "2026-10-22T19:10:30.774065+00:00",
+    "title": "Max-severity GitLab bug allows remote code execution over 12 years of releases"
+  },
+  "https://www.zscaler.com/blogs/security-research/seo-poisoning-campaign-delivers-new-armorsteal-malware": {
+    "ts": "2026-10-22T19:10:30.961146+00:00",
+    "title": "SEO Poisoning Campaign Delivers New Armorsteal Malware"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/": {
+    "ts": "2026-10-22T19:10:30.961166+00:00",
+    "title": "Microsoft shares how to fix broken Exchange Online EWS apps"
+  },
+  "https://cybersecuritynews.com/u-s-banks-detect-unauthorized-ai-agents/": {
+    "ts": "2026-10-22T19:10:30.961169+00:00",
+    "title": "Major U.S. Banks Detect Unauthorized AI Agents Operating Inside Customer Accounts"
+  },
+  "https://gbhackers.com/claude-and-grok-exploited/": {
+    "ts": "2026-10-22T19:10:31.134559+00:00",
+    "title": "Cybercriminals Used Claude and Grok to Launch Automated Attacks Against Banks"
+  },
+  "https://www.helpnetsecurity.com/2026/10/22/php2shell-vulnerability-fortinet-cisco-palo-alto-networks/": {
+    "ts": "2026-10-22T19:10:31.311832+00:00",
+    "title": "What the PHP2Shell vulnerability means for Fortinet, Cisco and Palo Alto customers"
+  },
+  "https://unit42.paloaltonetworks.com/current-landscape-oauth-attacks/": {
+    "ts": "2026-10-22T19:10:31.496113+00:00",
+    "title": "The Current Landscape of OAuth Attacks"
+  },
+  "https://securityaffairs.com/201479/hacking/php2shell-attacks-started-four-days-before-public-disclosure-aws-reports.html": {
+    "ts": "2026-10-22T19:10:31.673927+00:00",
+    "title": "PHP2Shell Attacks Started Four Days Before Public Disclosure, AWS Reports"
+  },
+  "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/": {
+    "ts": "2026-10-22T19:10:31.850982+00:00",
+    "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products"
+  },
+  "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html": {
+    "ts": "2026-10-22T19:10:32.034710+00:00",
+    "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More"
+  },
+  "https://www.theregister.com/security/2026/10/22/disgraced-indian-cert-issuer-leaves-the-cert-issuing-business/5304848": {
+    "ts": "2026-10-22T19:10:32.034728+00:00",
+    "title": "Disgraced Indian cert issuer leaves the cert issuing business"
+  },
+  "https://cybersecuritynews.com/emudhra-exits-global-ssl-tls-certificate/": {
+    "ts": "2026-10-22T19:10:32.034731+00:00",
+    "title": "eMudhra Exits Global SSL/TLS Certificate Business Following the Vulnerability Disclosure"
+  },
+  "https://gbhackers.com/k0t-credential-theft/": {
+    "ts": "2026-10-22T19:10:32.207241+00:00",
+    "title": "K0T Hackers Target FortiGate, FortiWeb and Palo Alto GlobalProtect in Credential Theft Campaign"
+  },
+  "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html": {
+    "ts": "2026-10-22T19:10:32.390640+00:00",
+    "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes"
+  },
+  "https://www.theregister.com/security/2026/10/22/php2shell-puts-dozens-of-uk-government-services-out-of-service/5304840": {
+    "ts": "2026-10-22T19:10:32.577933+00:00",
+    "title": "PHP2Shell puts dozens of UK government services out of service"
+  },
+  "https://cybersecuritynews.com/claude-security-continuous-scans/": {
+    "ts": "2026-10-22T19:10:32.577954+00:00",
+    "title": "Claude Security Now Scans Repositories Continuously to Find Flaws and Track Fixes"
   }
 }
