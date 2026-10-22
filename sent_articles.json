@@ -23154,5 +23154,125 @@
   "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html": {
     "ts": "2026-10-22T03:57:36.716764+00:00",
     "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases"
+  },
+  "https://cybersecuritynews.com/siemens-software-center-flaw-exploited/": {
+    "ts": "2026-10-22T09:18:31.604514+00:00",
+    "title": "Hackers Actively Exploiting Siemens Software Center Flaw in ClickFix Malware Attacks"
+  },
+  "https://cybersecuritynews.com/critical-signal-vulnerability/": {
+    "ts": "2026-10-22T09:18:35.073439+00:00",
+    "title": "Critical Signal Vulnerability Could Keep Your Mic and Camera Live Even After Hang Up"
+  },
+  "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/": {
+    "ts": "2026-10-22T09:20:51.385680+00:00",
+    "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa"
+  },
+  "https://cybersecuritynews.com/samsung-tv-tracking-after-users-turn-it-off/": {
+    "ts": "2026-10-22T09:20:51.385701+00:00",
+    "title": "Samsung and Vizio Smart TVs Still Send Tracking-Like Traffic After Users Turn It Off"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai": {
+    "ts": "2026-10-22T09:20:51.385705+00:00",
+    "title": "UAE Transitions 50% of Gov't Services to Agentic AI"
+  },
+  "https://gbhackers.com/hackers-exploit-siemens-software-center-vulnerability/": {
+    "ts": "2026-10-22T09:20:51.633841+00:00",
+    "title": "Hackers Exploit Siemens Software Center Vulnerability to Execute Malicious Code"
+  },
+  "https://www.group-ib.com/blog/siriusqt-rat-hvnc-stealer/": {
+    "ts": "2026-10-22T09:20:51.878483+00:00",
+    "title": "Inside SiriusQT: A Seriously Skilled RAT"
+  },
+  "https://www.helpnetsecurity.com/2026/10/22/anthropic-attack-surface-reduction-open-source/": {
+    "ts": "2026-10-22T09:20:52.105743+00:00",
+    "title": "Anthropic finds 94 cases where open-source projects drop security controls without warning"
+  },
+  "https://securelist.com/uefi-bootkit-blackx/121539/": {
+    "ts": "2026-10-22T09:20:52.347875+00:00",
+    "title": "How APT41 revived the BlackLotus bootkit to attack diplomatic organizations in Central Asia"
+  },
+  "https://securityaffairs.com/201464/cyber-crime/fbi-and-cisa-warn-of-safepay-ransomware-attacks-on-600-organizations.html": {
+    "ts": "2026-10-22T09:20:52.576971+00:00",
+    "title": "FBI and CISA Warn of SafePay Ransomware Attacks on 600 Organizations"
+  },
+  "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/": {
+    "ts": "2026-10-22T09:20:52.802445+00:00",
+    "title": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU"
+  },
+  "https://www.sekoia.com/blog/isoc-ai-agents-and-the-changing-role-of-the-analyst": {
+    "ts": "2026-10-22T09:20:53.023745+00:00",
+    "title": "ISOC, AI Agents, And The New Shape Of Security Operations"
+  },
+  "https://socradar.io/blog/litellm-supply-chain-attack-pypi-docker/": {
+    "ts": "2026-10-22T09:20:53.254533+00:00",
+    "title": "New LiteLLM Supply Chain Attack Hits PyPI and Docker"
+  },
+  "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html": {
+    "ts": "2026-10-22T09:20:53.475228+00:00",
+    "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release"
+  },
+  "https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647": {
+    "ts": "2026-10-22T09:20:53.696496+00:00",
+    "title": "Certification authority eMudhra defends its laughably weak private keys"
+  },
+  "https://gbhackers.com/post-quantum-encryption/": {
+    "ts": "2026-10-22T09:20:53.696514+00:00",
+    "title": "North Korean Hackers Use Post-Quantum Encryption to Conceal Malware in New Cyberespionage Campaign"
+  },
+  "https://www.helpnetsecurity.com/2026/10/22/signal-ringrtc-vulnerability-cve-2026-113380/": {
+    "ts": "2026-10-22T09:20:53.696518+00:00",
+    "title": "Signal flaw could expose audio and video even after users hang up"
+  },
+  "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/": {
+    "ts": "2026-10-22T09:20:53.922936+00:00",
+    "title": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook"
+  },
+  "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html": {
+    "ts": "2026-10-22T09:20:54.154084+00:00",
+    "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions"
+  },
+  "https://gbhackers.com/onamae-com-cloud-servers/": {
+    "ts": "2026-10-22T09:20:54.377225+00:00",
+    "title": "Hackers Plant Malware on Onamae.com Cloud Servers, 26,739 Systems Potentially Affected"
+  },
+  "https://www.helpnetsecurity.com/2026/10/22/interpol-africa-cybercrime-crackdown-operation-serengeti-iii/": {
+    "ts": "2026-10-22T09:20:54.598997+00:00",
+    "title": "Africa cybercrime crackdown nets 1,462 arrests and over $105 million"
+  },
+  "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html": {
+    "ts": "2026-10-22T09:20:54.821272+00:00",
+    "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification"
+  },
+  "https://cybersecuritynews.com/hackers-are-using-real-dell/": {
+    "ts": "2026-10-22T09:20:54.821290+00:00",
+    "title": "Hackers Are Using Real Dell and Staples Emails to Make Their Scams Look Legitimate"
+  },
+  "https://gbhackers.com/ai-powered-cyberattacks/": {
+    "ts": "2026-10-22T09:20:55.050661+00:00",
+    "title": "Hackers Combine Claude Code, Codex, Grok, and DeepSeek to Automate Attacks Worldwide"
+  },
+  "https://www.helpnetsecurity.com/2026/10/22/openai-vulnerability-disclosure-plan/": {
+    "ts": "2026-10-22T09:20:55.050680+00:00",
+    "title": "AI-found bugs are expected to rise, and OpenAI has a five-stage response plan"
+  },
+  "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html": {
+    "ts": "2026-10-22T09:20:55.276173+00:00",
+    "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed"
+  },
+  "https://cybersecuritynews.com/hackers-used-claude-and-grok/": {
+    "ts": "2026-10-22T09:20:55.502675+00:00",
+    "title": "Hackers Used Claude and Grok to Automate Cyberattacks on Over 400 Banks and Financial Firms"
+  },
+  "https://gbhackers.com/signal-vulnerability/": {
+    "ts": "2026-10-22T09:20:55.733706+00:00",
+    "title": "Signal Vulnerability Could Keep Microphone Active Even After Users Hang Up"
+  },
+  "https://www.helpnetsecurity.com/2026/10/22/roger-halbheer-microsoft-data-sovereignty/": {
+    "ts": "2026-10-22T09:20:55.963079+00:00",
+    "title": "Sovereignty vs. security: Microsoft\u2019s Roger Halbheer says you\u2019re asking the wrong question"
+  },
+  "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html": {
+    "ts": "2026-10-22T09:20:56.199349+00:00",
+    "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack"
   }
 }
