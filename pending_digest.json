@@ -94,6 +94,26 @@
       "category": "threat_actor",
       "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
       "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Analysis of the GitHub \u201cphp2shell\u201d Repository: Public PoCs and Defense Tools That Spread Immediately After the Disclosure of the PHP Vulnerability",
+      "url": "https://asec.ahnlab.com/en/95944/"
+    },
+    {
+      "category": "new_technique",
+      "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
+      "url": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry"
+    },
+    {
+      "category": "new_technique",
+      "title": "PHP2Shell Exploitation: Two Critical PHP Flaws Explained",
+      "url": "https://www.recordedfuture.com/blog/php2shell-vulnerability-exploitation"
+    },
+    {
+      "category": "new_technique",
+      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
+      "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html"
     }
   ],
   "last_sent_date": "2026-10-21"

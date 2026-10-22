@@ -23078,5 +23078,81 @@
   "https://cybersecuritynews.com/litellm-compromised/": {
     "ts": "2026-10-21T23:08:24.096775+00:00",
     "title": "LiteLLM Compromised \u2013 Hackers Injected an Infostealer and RAT in the Latest 1.107.0 PyPI Release"
+  },
+  "https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611": {
+    "ts": "2026-10-22T03:56:33.805819+00:00",
+    "title": "PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk"
+  },
+  "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html": {
+    "ts": "2026-10-22T03:56:40.496322+00:00",
+    "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites"
+  },
+  "https://asec.ahnlab.com/en/95944/": {
+    "ts": "2026-10-22T03:57:35.951767+00:00",
+    "title": "Analysis of the GitHub \u201cphp2shell\u201d Repository: Public PoCs and Defense Tools That Spread Immediately After the Disclosure of the PHP Vulnerability"
+  },
+  "https://cybersecuritynews.com/railway-security-incident/": {
+    "ts": "2026-10-22T03:57:35.951785+00:00",
+    "title": "Railway Security Incident: Hackers May Have Accessed Customer Environment Variables"
+  },
+  "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry": {
+    "ts": "2026-10-22T03:57:36.044304+00:00",
+    "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry"
+  },
+  "https://gbhackers.com/meta-muse-ai-chats/": {
+    "ts": "2026-10-22T03:57:36.044323+00:00",
+    "title": "Researchers Uncover GhostShares Flaw That Makes Meta Muse AI Conversations Easy to Find"
+  },
+  "https://www.recordedfuture.com/blog/php2shell-vulnerability-exploitation": {
+    "ts": "2026-10-22T03:57:36.138695+00:00",
+    "title": "PHP2Shell Exploitation: Two Critical PHP Flaws Explained"
+  },
+  "https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/": {
+    "ts": "2026-10-22T03:57:36.240991+00:00",
+    "title": "China Defends DeepSeek After US Ban of Its AI From Government Systems"
+  },
+  "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html": {
+    "ts": "2026-10-22T03:57:36.336530+00:00",
+    "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports"
+  },
+  "https://asec.ahnlab.com/en/95949/": {
+    "ts": "2026-10-22T03:57:36.435703+00:00",
+    "title": "September 2026 Threat Trend Report on Ransomware"
+  },
+  "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/": {
+    "ts": "2026-10-22T03:57:36.530605+00:00",
+    "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server"
+  },
+  "https://gbhackers.com/nato-defense-firms/": {
+    "ts": "2026-10-22T03:57:36.623300+00:00",
+    "title": "Russian Hackers Steal Credentials and Open Secret SSH Tunnel Into NATO Defense Firm\u2019s Network"
+  },
+  "https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/": {
+    "ts": "2026-10-22T03:57:36.623317+00:00",
+    "title": "Chinese AI Model Writes More Hackable Code When Told It\u2019s for US Contractor"
+  },
+  "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html": {
+    "ts": "2026-10-22T03:57:36.623321+00:00",
+    "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't"
+  },
+  "https://www.theregister.com/security/2026/10/21/eu-wants-bookingcom-to-check-out-of-its-scam-problem/5304413": {
+    "ts": "2026-10-22T03:57:36.623324+00:00",
+    "title": "EU wants Booking.com to check out of its scam problem"
+  },
+  "https://cybersecuritynews.com/godaddy-revoking-tls-certificates/": {
+    "ts": "2026-10-22T03:57:36.623327+00:00",
+    "title": "GoDaddy Revoking 404,607 TLS Certificates Following Compliance Failures"
+  },
+  "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html": {
+    "ts": "2026-10-22T03:57:36.623329+00:00",
+    "title": "The Harness Is the Hard Part of Agentic Pentesting"
+  },
+  "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html": {
+    "ts": "2026-10-22T03:57:36.716747+00:00",
+    "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections"
+  },
+  "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html": {
+    "ts": "2026-10-22T03:57:36.716764+00:00",
+    "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases"
   }
 }
