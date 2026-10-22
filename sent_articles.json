@@ -23514,5 +23514,101 @@
   "https://cybersecuritynews.com/claude-security-continuous-scans/": {
     "ts": "2026-10-22T19:10:32.577954+00:00",
     "title": "Claude Security Now Scans Repositories Continuously to Find Flaws and Track Fixes"
+  },
+  "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/": {
+    "ts": "2026-10-22T23:06:29.854752+00:00",
+    "title": "Railway warns devs to rotate secrets after potential breach"
+  },
+  "https://cybersecuritynews.com/a-new-extortion-gang/": {
+    "ts": "2026-10-22T23:06:29.910207+00:00",
+    "title": "A New Extortion Gang Is Naming Companies on the Dark Web and Counting Down to Data Leaks"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack": {
+    "ts": "2026-10-22T23:06:29.969373+00:00",
+    "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack"
+  },
+  "https://gbhackers.com/critical-cisco-expressway-flaw-2/": {
+    "ts": "2026-10-22T23:06:29.969387+00:00",
+    "title": "Critical Cisco Expressway Flaw Lets Attackers Execute Commands as Root"
+  },
+  "https://www.recordedfuture.com/blog/japan-cyber-crisis-warnings": {
+    "ts": "2026-10-22T23:06:29.969392+00:00",
+    "title": "Behind Japan\u2019s Warnings of a Cyber Crisis"
+  },
+  "https://securityaffairs.com/201501/apt/microsoft-links-connectwise-breach-to-china-linked-group-using-ai-pentesting-tool-artex.html": {
+    "ts": "2026-10-22T23:06:30.024960+00:00",
+    "title": "Microsoft Links ConnectWise Breach to China-Linked Group Using AI Pentesting Tool ARTEX"
+  },
+  "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html": {
+    "ts": "2026-10-22T23:06:30.080363+00:00",
+    "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks"
+  },
+  "https://threatmon.io/open-ports-the-invisible-doors-on-your-attack-surface/": {
+    "ts": "2026-10-22T23:06:30.137658+00:00",
+    "title": "Open Ports: The Invisible Doors on Your Attack Surface"
+  },
+  "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/": {
+    "ts": "2026-10-22T23:06:30.193840+00:00",
+    "title": "Capcom confirms data breach affecting 11.7 million accounts"
+  },
+  "https://cybersecuritynews.com/critical-php-vulnerabilities/": {
+    "ts": "2026-10-22T23:06:30.249568+00:00",
+    "title": "Hackers Were Targeting Critical PHP Vulnerabilities Days Before They Were Patched"
+  },
+  "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers": {
+    "ts": "2026-10-22T23:06:30.308330+00:00",
+    "title": "What We Missed: Feds Lasso Texas Laptop Farms"
+  },
+  "https://gbhackers.com/scarlettgroup-extortion-campaign/": {
+    "ts": "2026-10-22T23:06:30.363758+00:00",
+    "title": "New ScarlettGroup Extortion Gang Threatens to Leak Company Data Using Dark Web Countdown Timers"
+  },
+  "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html": {
+    "ts": "2026-10-22T23:06:30.363770+00:00",
+    "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations"
+  },
+  "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/": {
+    "ts": "2026-10-22T23:06:30.422113+00:00",
+    "title": "LiteLLM release pipeline hacked to distribute info-stealer malware"
+  },
+  "https://cybersecuritynews.com/hackers-planted-malware/": {
+    "ts": "2026-10-22T23:06:30.422125+00:00",
+    "title": "Hackers Planted Malware on Japanese Cloud Servers, Forcing the Provider to Shut Down Its Service"
+  },
+  "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french": {
+    "ts": "2026-10-22T23:06:30.479526+00:00",
+    "title": "Les supermarch\u00e9s de l'UE paient d'un firmware de r\u00e9frig\u00e9rateur non mis \u00e0 jour"
+  },
+  "https://gbhackers.com/dell-and-staples-emails-exploited/": {
+    "ts": "2026-10-22T23:06:30.535171+00:00",
+    "title": "Scammers Exploit Dell and Staples Order Emails to Bypass Traditional Phishing Detection"
+  },
+  "https://cybersecuritynews.com/north-korean-hackers/": {
+    "ts": "2026-10-22T23:06:30.591664+00:00",
+    "title": "North Korean Hackers Use Post-Quantum Encryption to Hide New Malware From Security Tools"
+  },
+  "https://gbhackers.com/fortinet-releases-critical-security-updates/": {
+    "ts": "2026-10-22T23:06:30.650183+00:00",
+    "title": "Fortinet Releases Critical Security Updates for FortiOS, FortiManager, and FortiAnalyzer"
+  },
+  "https://cybersecuritynews.com/ai-chatbot-into-a-tool/": {
+    "ts": "2026-10-22T23:06:30.706259+00:00",
+    "title": "A Hacker Tried to Turn an AI Chatbot Into a Tool for Attacking Other Servers"
+  },
+  "https://gbhackers.com/samsung-and-vizio-smart-tvs-continue-sending-viewing-data/": {
+    "ts": "2026-10-22T23:06:30.706270+00:00",
+    "title": "Samsung and Vizio Smart TVs Continue Sending Viewing Data Even After Users Opt Out"
+  },
+  "https://cybersecuritynews.com/new-android-malware-2/": {
+    "ts": "2026-10-22T23:06:30.762720+00:00",
+    "title": "New Android Malware Replaces Legitimate Banking Apps With Malicious Copies to Bypass Security Checks"
+  },
+  "https://gbhackers.com/ai-generated-scripts/": {
+    "ts": "2026-10-22T23:06:30.819166+00:00",
+    "title": "Hackers Used AI-Generated Scripts to Break Into Government Linux Servers and Hunt for Secrets"
+  },
+  "https://gbhackers.com/banking-app-hijacking/": {
+    "ts": "2026-10-22T23:06:30.875708+00:00",
+    "title": "Hackers Use Fake App Updates to Replace Legitimate Banking Apps With Malicious Versions"
   }
 }
