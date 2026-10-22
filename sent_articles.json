@@ -23274,5 +23274,125 @@
   "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html": {
     "ts": "2026-10-22T09:20:56.199349+00:00",
     "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack"
+  },
+  "https://rewterz.com/threat-advisory/php-releases-emergency-updates-for-critical-php2shell-vulnerabilities": {
+    "ts": "2026-10-22T14:57:47.422064+00:00",
+    "title": "PHP Releases Emergency Updates for Critical PHP2Shell Vulnerabilities"
+  },
+  "https://asec.ahnlab.com/en/95956/": {
+    "ts": "2026-10-22T14:59:52.573251+00:00",
+    "title": "Reproducing the PHP2Shell Vulnerability and Detection Using AhnLab EDR/XDR"
+  },
+  "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/": {
+    "ts": "2026-10-22T14:59:52.767021+00:00",
+    "title": "Machine speed attacks require machine speed detection and response"
+  },
+  "https://cyble.com/blog/secret-exposure-across-ai-built-websites/": {
+    "ts": "2026-10-22T14:59:52.767043+00:00",
+    "title": "The Keys Are in the Browser: Secret Exposure Across AI-Built Websites"
+  },
+  "https://www.forescout.com/blog/cold-chain-open-control-exposed-refrigeration-systems-reveal-global-risk/": {
+    "ts": "2026-10-22T14:59:52.954486+00:00",
+    "title": "Cold Chain, Open Control: Exposed Refrigeration Systems Reveal Global Risk"
+  },
+  "https://www.helpnetsecurity.com/2026/10/22/litellm-compromised-supply-chain-attack-pypi-docker/": {
+    "ts": "2026-10-22T14:59:53.139240+00:00",
+    "title": "LiteLLM hit by second supply chain attack this year, users urged to rotate credentials"
+  },
+  "https://www.malwarebytes.com/blog/scams/2026/10/scammers-are-finding-new-ways-to-target-your-phone-here-are-5-ways-to-protect-yourself": {
+    "ts": "2026-10-22T14:59:53.329773+00:00",
+    "title": "Scammers are finding new ways to target your phone. Here are 5 ways to protect yourself"
+  },
+  "https://moonlock.com/mercenary-spyware-is-infecting-iphones": {
+    "ts": "2026-10-22T14:59:53.523182+00:00",
+    "title": "Mercenary spyware is infecting iPhones via malicious ads"
+  },
+  "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/": {
+    "ts": "2026-10-22T14:59:53.711089+00:00",
+    "title": "Hacker Conversations: Corey Thuen and the Evil Bit"
+  },
+  "https://www.security.com/threat-intelligence/php2shell-critical-vulns-cve-2026-109618-109619": {
+    "ts": "2026-10-22T14:59:53.895995+00:00",
+    "title": "PHP2Shell: Two Critical PHP Flaws Allow Unauthenticated Remote Code Execution"
+  },
+  "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html": {
+    "ts": "2026-10-22T14:59:54.081884+00:00",
+    "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown"
+  },
+  "https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749": {
+    "ts": "2026-10-22T14:59:54.266106+00:00",
+    "title": "Hackers pile on PHP2Shell as AWS reveals attacks began before disclosure"
+  },
+  "https://asec.ahnlab.com/en/95983/": {
+    "ts": "2026-10-22T14:59:54.266128+00:00",
+    "title": "\u201cApproximately 110,000 PHP Servers\u201d in Korea: How Were They Counted?"
+  },
+  "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/": {
+    "ts": "2026-10-22T14:59:54.455189+00:00",
+    "title": "Amazon says PHP2Shell exploitation began 4 days before patches"
+  },
+  "https://www.helpnetsecurity.com/2026/10/22/openai-agents-disabled-safety-monitoring/": {
+    "ts": "2026-10-22T14:59:54.455212+00:00",
+    "title": "OpenAI\u2019s coding agents talked themselves out of being monitored"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/woman-faces-years-in-prison-over-a-cash-app-account-she-says-she-never-opened": {
+    "ts": "2026-10-22T14:59:54.455215+00:00",
+    "title": "Woman faces years in prison over a Cash App account she says she never opened"
+  },
+  "https://moonlock.com/virustotal-launches-macos-mirage": {
+    "ts": "2026-10-22T14:59:54.642829+00:00",
+    "title": "New macOS malware analysis system launched for Apple Silicon Macs"
+  },
+  "https://rewterz.com/threat-advisory/php-schedules-emergency-security-update-for-two-critical-rce-vulnerabilities": {
+    "ts": "2026-10-22T14:59:54.829959+00:00",
+    "title": "PHP Schedules Emergency Security Update for Two Critical RCE Vulnerabilities"
+  },
+  "https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/": {
+    "ts": "2026-10-22T14:59:55.021127+00:00",
+    "title": "Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform"
+  },
+  "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html": {
+    "ts": "2026-10-22T14:59:55.204772+00:00",
+    "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat"
+  },
+  "https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687": {
+    "ts": "2026-10-22T14:59:55.399108+00:00",
+    "title": "Microsoft says ConnectWise breach let Chinese spies loose on 2,250 cloud tenants"
+  },
+  "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/": {
+    "ts": "2026-10-22T14:59:55.598184+00:00",
+    "title": "GitLab warns of new max severity code execution vulnerability"
+  },
+  "https://www.helpnetsecurity.com/2026/10/22/php2shell-scanner-tool/": {
+    "ts": "2026-10-22T14:59:55.598206+00:00",
+    "title": "New PHP2Shell scanner checks your hosts for CVE-2026-109618 and CVE-2026-109619"
+  },
+  "https://www.malwarebytes.com/blog/privacy/2026/10/delivery-bots-accused-of-illegally-scanning-customers": {
+    "ts": "2026-10-22T14:59:55.598209+00:00",
+    "title": "Delivery bots accused of illegally scanning customers"
+  },
+  "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/": {
+    "ts": "2026-10-22T14:59:55.784660+00:00",
+    "title": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups"
+  },
+  "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html": {
+    "ts": "2026-10-22T14:59:55.784682+00:00",
+    "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation"
+  },
+  "https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592": {
+    "ts": "2026-10-22T14:59:55.784684+00:00",
+    "title": "IT department and auditors at major pharmacy chain got into a rip-roaring fight about using 'password' on Cisco firewall"
+  },
+  "https://www.helpnetsecurity.com/2026/10/22/claude-security-continuous-scanning-update/": {
+    "ts": "2026-10-22T14:59:55.784687+00:00",
+    "title": "Claude Security can now spot vulnerabilities that reappear in code"
+  },
+  "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/": {
+    "ts": "2026-10-22T14:59:55.784688+00:00",
+    "title": "Tech and Security Companies Respond to PHP2Shell Vulnerabilities"
+  },
+  "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html": {
+    "ts": "2026-10-22T14:59:55.972500+00:00",
+    "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL"
   }
 }
