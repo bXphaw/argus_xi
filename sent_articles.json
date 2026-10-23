@@ -23938,5 +23938,81 @@
   "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html": {
     "ts": "2026-10-23T18:57:36.732586+00:00",
     "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents\u2019 Token Balances"
+  },
+  "https://gbhackers.com/capcom-confirms-data-breach/": {
+    "ts": "2026-10-23T21:57:37.080246+00:00",
+    "title": "Capcom Confirms Data Breach Exposing 11.7 Million CAPCOM ID Records"
+  },
+  "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/": {
+    "ts": "2026-10-23T21:59:01.307031+00:00",
+    "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks"
+  },
+  "https://cybersecuritynews.com/whatsapp-stop-working-without-registered-sim/": {
+    "ts": "2026-10-23T21:59:01.307045+00:00",
+    "title": "WhatsApp May Stop Working Without Registered SIM Under New Rules"
+  },
+  "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it": {
+    "ts": "2026-10-23T21:59:01.307049+00:00",
+    "title": "Trust Is Not What It Seems \u2014 And Fraudsters Are Counting on It"
+  },
+  "https://gbhackers.com/critical-hpe-aruba-aos-8-flaw/": {
+    "ts": "2026-10-23T21:59:01.515621+00:00",
+    "title": "Critical HPE Aruba AOS-8 Flaw Allows Hackers to Bypass SSH Authentication and Take Over Systems"
+  },
+  "https://securityaffairs.com/201595/security/php-warns-of-new-code-execution-flaw-days-after-php2shell-patches.html": {
+    "ts": "2026-10-23T21:59:01.705012+00:00",
+    "title": "PHP Warns of New Code Execution Flaw Days After PHP2Shell Patches"
+  },
+  "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html": {
+    "ts": "2026-10-23T21:59:01.896053+00:00",
+    "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations"
+  },
+  "https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208": {
+    "ts": "2026-10-23T21:59:02.097843+00:00",
+    "title": "There's a third PHP2Shell bug, but it won't get an emergency fix"
+  },
+  "https://cybersecuritynews.com/okta-access-gateway-flaw/": {
+    "ts": "2026-10-23T21:59:02.294836+00:00",
+    "title": "Critical Okta Access Gateway Flaw Lets Attackers With Admin Access Execute System Commands"
+  },
+  "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice": {
+    "ts": "2026-10-23T21:59:02.492661+00:00",
+    "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200": {
+    "ts": "2026-10-23T21:59:02.701822+00:00",
+    "title": "Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack"
+  },
+  "https://cybersecuritynews.com/hpe-warns-aruba-networking-flaws/": {
+    "ts": "2026-10-23T21:59:02.701835+00:00",
+    "title": "HPE Warns Critical Aruba Networking Flaws Could Let Hackers Take Complete Control of Devices"
+  },
+  "https://gbhackers.com/quest-diagnostics-confirms-cyberattack/": {
+    "ts": "2026-10-23T21:59:02.701839+00:00",
+    "title": "Quest Diagnostics Confirms Cyberattack Exposing Patient Records in Quanum System"
+  },
+  "https://cybersecuritynews.com/stealc-malware/": {
+    "ts": "2026-10-23T21:59:02.890852+00:00",
+    "title": "StealC Malware Returns as New Stadia RAT to Steal Passwords and Secretly Control Windows PCs"
+  },
+  "https://gbhackers.com/unauthorized-ai-agents-found-accessing-customer-accounts/": {
+    "ts": "2026-10-23T21:59:02.890863+00:00",
+    "title": "Unauthorized AI Agents Found Accessing Customer Accounts at Major U.S. Banks"
+  },
+  "https://cybersecuritynews.com/critical-php2shell-exploit-code/": {
+    "ts": "2026-10-23T21:59:03.093811+00:00",
+    "title": "Critical PHP2Shell Exploit Code Goes Public as Hackers Attempt to Deploy Botnet Malware"
+  },
+  "https://gbhackers.com/sbi-notifies-customers-affected-by-recent-cybersecurity-incident/": {
+    "ts": "2026-10-23T21:59:03.301939+00:00",
+    "title": "SBI Notifies Customers Affected by Recent Cybersecurity Incident"
+  },
+  "https://cybersecuritynews.com/hackers-use-new-blackx-bootkit/": {
+    "ts": "2026-10-23T21:59:03.502984+00:00",
+    "title": "Hackers Use New BlackX Bootkit to Bypass Windows Secure Boot on Fully Patched Systems"
+  },
+  "https://gbhackers.com/php-rce-vulnerabilities/": {
+    "ts": "2026-10-23T21:59:03.693072+00:00",
+    "title": "PoC Exploit Released for Two Critical PHP RCE Vulnerabilities as Hackers Launch Attacks"
   }
 }

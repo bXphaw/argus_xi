@@ -49,6 +49,31 @@
       "category": "new_technique",
       "title": "PHP shares mitigation for new RCE vulnerability with no patch",
       "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical HPE Aruba AOS-8 Flaw Allows Hackers to Bypass SSH Authentication and Take Over Systems",
+      "url": "https://gbhackers.com/critical-hpe-aruba-aos-8-flaw/"
+    },
+    {
+      "category": "new_technique",
+      "title": "PHP Warns of New Code Execution Flaw Days After PHP2Shell Patches",
+      "url": "https://securityaffairs.com/201595/security/php-warns-of-new-code-execution-flaw-days-after-php2shell-patches.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "StealC Malware Returns as New Stadia RAT to Steal Passwords and Secretly Control Windows PCs",
+      "url": "https://cybersecuritynews.com/stealc-malware/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Critical PHP2Shell Exploit Code Goes Public as Hackers Attempt to Deploy Botnet Malware",
+      "url": "https://cybersecuritynews.com/critical-php2shell-exploit-code/"
     }
   ],
   "last_sent_date": "2026-10-23"
