@@ -1,4 +1,25 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "Infostealer riding the AI Train",
+      "url": "https://research.checkpoint.com/2026/infostealer-riding-the-ai-train/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html"
+    },
+    {
+      "category": "malware_other",
+      "title": "Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge",
+      "url": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/"
+    },
+    {
+      "category": "new_technique",
+      "title": "New Node2Shell Node.js RCE Exploit Let Attackers Execute Malicious Code Through Brotli-Compressed Data",
+      "url": "https://cybersecuritynews.com/new-node2shell-node-js-rce-exploit/"
+    }
+  ],
   "last_sent_date": "2026-10-23"
 }
