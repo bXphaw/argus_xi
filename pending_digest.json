@@ -129,6 +129,11 @@
       "category": "malware_android",
       "title": "Hackers Use Fake App Updates to Replace Legitimate Banking Apps With Malicious Versions",
       "url": "https://gbhackers.com/banking-app-hijacking/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "",
+      "url": "https://www.darktrace.com/blog/vulnerability-discovery-to-active-attacks-ai-in-cyber-operations"
     }
   ],
   "last_sent_date": "2026-10-22"

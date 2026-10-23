@@ -23610,5 +23610,33 @@
   "https://gbhackers.com/banking-app-hijacking/": {
     "ts": "2026-10-22T23:06:30.875708+00:00",
     "title": "Hackers Use Fake App Updates to Replace Legitimate Banking Apps With Malicious Versions"
+  },
+  "https://cybersecuritynews.com/splunk-fixes-24-security-flaws/": {
+    "ts": "2026-10-23T04:00:39.497840+00:00",
+    "title": "Splunk Fixes 24 Security Flaws, Including Four Critical Vulnerabilities in Enterprise and SOAR"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak": {
+    "ts": "2026-10-23T04:00:39.497856+00:00",
+    "title": "State Bank of India Suffers a Customer PII Data Leak"
+  },
+  "https://www.darktrace.com/blog/vulnerability-discovery-to-active-attacks-ai-in-cyber-operations": {
+    "ts": "2026-10-23T04:00:39.761432+00:00",
+    "title": ""
+  },
+  "https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883": {
+    "ts": "2026-10-23T04:00:39.761450+00:00",
+    "title": "PHP2Shell exploit bypasses protections designed to stop remote code execution"
+  },
+  "https://cybersecuritynews.com/quest-diagnostics-hacked/": {
+    "ts": "2026-10-23T04:00:39.761455+00:00",
+    "title": "Quest Diagnostics Hacked \u2013 Attackers Accessed the System to Order Tests and View Results"
+  },
+  "https://www.theregister.com/security/2026/10/22/sponsored-when-the-attacker-becomes-the-user-rethinking-account-takeover/5303913": {
+    "ts": "2026-10-23T04:00:39.761459+00:00",
+    "title": "When the attacker becomes the user: Rethinking account takeover"
+  },
+  "https://cybersecuritynews.com/linux-kernel-flaws-accidentally-disclosed/": {
+    "ts": "2026-10-23T04:00:39.761461+00:00",
+    "title": "Critical Unpatched Linux Kernel Flaws Accidentally Disclosed on Public List"
   }
 }
