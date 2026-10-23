@@ -23878,5 +23878,65 @@
   "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html": {
     "ts": "2026-10-23T14:47:59.790819+00:00",
     "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/": {
+    "ts": "2026-10-23T18:57:35.353953+00:00",
+    "title": "Microsoft Teams to get AI-powered, context-aware phishing detection"
+  },
+  "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/": {
+    "ts": "2026-10-23T18:57:35.353966+00:00",
+    "title": "Why Organizations Secure AI Agents with Falcon Guardian"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost": {
+    "ts": "2026-10-23T18:57:35.522129+00:00",
+    "title": "AI Tools Are Generating Massive Attacks for Little Cost"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/": {
+    "ts": "2026-10-23T18:57:35.652892+00:00",
+    "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks"
+  },
+  "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-langflow-mongodb-and-more": {
+    "ts": "2026-10-23T18:57:35.782564+00:00",
+    "title": "Metasploit Wrap Up: Langflow, MongoDB, and More"
+  },
+  "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/": {
+    "ts": "2026-10-23T18:57:35.899566+00:00",
+    "title": "Attackers Exploit Third Arista VCO Zero-Day in Four Months"
+  },
+  "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html": {
+    "ts": "2026-10-23T18:57:36.026094+00:00",
+    "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws"
+  },
+  "https://threatmon.io/ransomware-threat-landscape-in-turkiye/": {
+    "ts": "2026-10-23T18:57:36.157152+00:00",
+    "title": "Ransomware Threat Landscape in T\u00fcrkiye"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/": {
+    "ts": "2026-10-23T18:57:36.277404+00:00",
+    "title": "Microsoft: Windows Server 2016 reaches end of support in January"
+  },
+  "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage": {
+    "ts": "2026-10-23T18:57:36.389966+00:00",
+    "title": "As AI Risks Grow, Insurers Split on Covering the Damage"
+  },
+  "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html": {
+    "ts": "2026-10-23T18:57:36.502304+00:00",
+    "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions"
+  },
+  "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/": {
+    "ts": "2026-10-23T18:57:36.502312+00:00",
+    "title": "Quest Diagnostics confirms data breach exposed patient records"
+  },
+  "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html": {
+    "ts": "2026-10-23T18:57:36.609642+00:00",
+    "title": "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image"
+  },
+  "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/": {
+    "ts": "2026-10-23T18:57:36.732578+00:00",
+    "title": "PHP shares mitigation for new RCE vulnerability with no patch"
+  },
+  "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html": {
+    "ts": "2026-10-23T18:57:36.732586+00:00",
+    "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents\u2019 Token Balances"
   }
 }
