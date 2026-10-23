@@ -23638,5 +23638,125 @@
   "https://cybersecuritynews.com/linux-kernel-flaws-accidentally-disclosed/": {
     "ts": "2026-10-23T04:00:39.761461+00:00",
     "title": "Critical Unpatched Linux Kernel Flaws Accidentally Disclosed on Public List"
+  },
+  "https://gbhackers.com/tokenization-solutions-buyers-guide/": {
+    "ts": "2026-10-23T09:17:23.050112+00:00",
+    "title": "12 Tokenization Solutions: The 2026 Buyer\u2019s Verdict Guide"
+  },
+  "https://gbhackers.com/dlp-software-buyers-guide/": {
+    "ts": "2026-10-23T09:17:28.628706+00:00",
+    "title": "12 Data Loss Prevention (DLP) Software: The 2026 Buyer\u2019s Verdict Guide"
+  },
+  "https://gbhackers.com/malware-analysis-tools-buyers-guide/": {
+    "ts": "2026-10-23T09:17:30.785740+00:00",
+    "title": "12 Malware Analysis Tools: The 2026 Buyer\u2019s Verdict Guide"
+  },
+  "https://cybersecuritynews.com/best-email-encryption-services/": {
+    "ts": "2026-10-23T09:18:52.615861+00:00",
+    "title": "Top 10 Best Email Encryption Services in 2026 [Ranked & Scored]"
+  },
+  "https://gbhackers.com/apt41-linked-bootkit-attack/": {
+    "ts": "2026-10-23T09:18:52.686802+00:00",
+    "title": "Suspected Chinese APT41 Hackers Use BlackX Bootkit to Bypass Windows Secure Boot"
+  },
+  "https://www.helpnetsecurity.com/2026/10/23/capcom-id-data-breach-11-million-records-exposed/": {
+    "ts": "2026-10-23T09:18:52.686822+00:00",
+    "title": "Capcom data breach exposes 11.7 million account records"
+  },
+  "https://securityaffairs.com/201500/cyber-crime/interpol-operation-serengeti-iii-nets-1462-arrests-and-recovers-105-million-in-cybercrime-crackdown.html": {
+    "ts": "2026-10-23T09:18:52.686826+00:00",
+    "title": "INTERPOL Operation Serengeti III Nets 1,462 Arrests and Recovers $105 Million in Cybercrime Crackdown"
+  },
+  "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/": {
+    "ts": "2026-10-23T09:18:52.686829+00:00",
+    "title": "11 Million Impacted by Capcom Data Breach"
+  },
+  "https://socradar.io/blog/velocloud-orchestrator-cve-2026-114625-active-exploitation/": {
+    "ts": "2026-10-23T09:18:52.745171+00:00",
+    "title": "CVE-2026-114625: Actively Exploited VeloCloud Orchestrator Flaw Grants Superuser Access"
+  },
+  "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html": {
+    "ts": "2026-10-23T09:18:52.802632+00:00",
+    "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data"
+  },
+  "https://www.welivesecurity.com/en/eset-research/mythicratatoskr-yggdrasil-enabled-backdoor-deployed-uac0099-sandworm-collaboration/": {
+    "ts": "2026-10-23T09:18:52.861629+00:00",
+    "title": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration"
+  },
+  "https://cybersecuritynews.com/best-managed-file-transfer/": {
+    "ts": "2026-10-23T09:18:52.919006+00:00",
+    "title": "Top 9 Best Managed File Transfer (MFT) Solutions in 2026 [Ranked & Scored]"
+  },
+  "https://gbhackers.com/data-classification-tools-buyers-guide/": {
+    "ts": "2026-10-23T09:18:52.975992+00:00",
+    "title": "11 Data Classification Tools: The 2026 Buyer\u2019s Verdict Guide"
+  },
+  "https://www.helpnetsecurity.com/2026/10/23/llmjacking-agent-hijacks-exposed-ai-models/": {
+    "ts": "2026-10-23T09:18:53.032437+00:00",
+    "title": "Hackers hijack exposed AI models to launch cyberattacks at victims\u2019 expense"
+  },
+  "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/": {
+    "ts": "2026-10-23T09:18:53.032456+00:00",
+    "title": "Quest Diagnostics Reports Cyber Breach Affecting \u2018Certain Patient Records\u2019"
+  },
+  "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html": {
+    "ts": "2026-10-23T09:18:53.089822+00:00",
+    "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware"
+  },
+  "https://cybersecuritynews.com/citrix-netscaler-rce-flaw/": {
+    "ts": "2026-10-23T09:18:53.147115+00:00",
+    "title": "Hackers Exploit Critical Citrix NetScaler RCE Flaw to Deploy Web Shells and Malware"
+  },
+  "https://www.helpnetsecurity.com/2026/10/23/google-cloud-openai-models-private-preview/": {
+    "ts": "2026-10-23T09:18:53.147134+00:00",
+    "title": "Google opens its cloud to rival OpenAI, promises business data won\u2019t train models"
+  },
+  "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/": {
+    "ts": "2026-10-23T09:18:53.202956+00:00",
+    "title": "LiteLLM Compromised in Fresh Supply Chain Attack"
+  },
+  "https://cybersecuritynews.com/hacker-with-limited-skills-used-deepseek-ai/": {
+    "ts": "2026-10-23T09:18:53.259857+00:00",
+    "title": "Hacker With Limited Skills Used DeepSeek AI to Breach Indian University and Steal Over 5,200 Records"
+  },
+  "https://gbhackers.com/encryption-key-management-buyers-guide/": {
+    "ts": "2026-10-23T09:18:53.319904+00:00",
+    "title": "12 Encryption & Key Management Solutions: The 2026 Buyer\u2019s Verdict Guide"
+  },
+  "https://www.helpnetsecurity.com/2026/10/23/nick-donarski-rotorlab-drone-program-compliance/": {
+    "ts": "2026-10-23T09:18:53.377844+00:00",
+    "title": "Drone program compliance: What a CTO says most agencies get wrong"
+  },
+  "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/": {
+    "ts": "2026-10-23T09:18:53.434347+00:00",
+    "title": "Atlassian Patches 75 Flaws in Data Center and Server Products"
+  },
+  "https://cybersecuritynews.com/emergency-java-update/": {
+    "ts": "2026-10-23T09:18:53.434364+00:00",
+    "title": "Oracle Issues Emergency Java Update for Critical 9.1 HTTPS Trust Vulnerability"
+  },
+  "https://www.helpnetsecurity.com/2026/10/23/barracuda-cybersecurity-career-development-report/": {
+    "ts": "2026-10-23T09:18:53.434368+00:00",
+    "title": "AI is taking cybersecurity jobs at junior and experienced levels alike"
+  },
+  "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/": {
+    "ts": "2026-10-23T09:18:53.491025+00:00",
+    "title": "Iran\u2019s Prince of Persia APT Hosts C&C in US for First Time Since 2016"
+  },
+  "https://cybersecuritynews.com/pwc-data-breach-claim/": {
+    "ts": "2026-10-23T09:18:53.547477+00:00",
+    "title": "PwC Data Breach Claim \u2013 Everest Ransomware Group Claims to Have Stolen 590 GB of Data"
+  },
+  "https://www.helpnetsecurity.com/2026/10/23/new-infosec-products-of-the-week-october-23-2026/": {
+    "ts": "2026-10-23T09:18:53.547494+00:00",
+    "title": "New infosec products of the week: October 23, 2026"
+  },
+  "https://cybersecuritynews.com/critical-cisco-expressway-vulnerability/": {
+    "ts": "2026-10-23T09:18:53.547499+00:00",
+    "title": "Critical Cisco Expressway Vulnerability Enables Remote Code Execution Attacks"
+  },
+  "https://gbhackers.com/citrix-netscaler-rce-vulnerability/": {
+    "ts": "2026-10-23T09:18:53.604514+00:00",
+    "title": "Critical Citrix NetScaler RCE Vulnerability Under Active Attack as Hackers Deliver FreeBSD Malware"
   }
 }
