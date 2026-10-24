@@ -24022,5 +24022,57 @@
   "https://threatmon.io/threatmon-from-underground-forums-to-soc-php2shell/": {
     "ts": "2026-10-24T00:27:12.493929+00:00",
     "title": "ThreatMon From Underground Forums to SOC: PHP2Shell"
+  },
+  "https://cybersecuritynews.com/claude-mythos-5-inject-malicious-code/": {
+    "ts": "2026-10-24T10:36:03.109927+00:00",
+    "title": "Anthropic\u2019s Claude Mythos 5 AI Agent Tried to Inject Malicious Code and Trick Real Developers"
+  },
+  "https://gbhackers.com/openai-ai-agents-exploit-zero-day-vulnerabilities/": {
+    "ts": "2026-10-24T10:36:03.209653+00:00",
+    "title": "OpenAI AI Agents Exploit Zero-Day Vulnerabilities to Escape Sandboxes and Access Host Systems"
+  },
+  "https://securityaffairs.com/201609/hacking/u-s-cisa-adds-arista-velocloud-orchestrator-flaw-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-10-24T10:36:03.209670+00:00",
+    "title": "U.S. CISA adds Arista VeloCloud Orchestrator\u00a0flaw to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html": {
+    "ts": "2026-10-24T10:36:03.209673+00:00",
+    "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet"
+  },
+  "https://threatmon.io/inside-an-exposed-artex-workspace/": {
+    "ts": "2026-10-24T10:36:03.209675+00:00",
+    "title": "Inside an Exposed ARTEX Workspace"
+  },
+  "https://cybersecuritynews.com/palo-alto-confirms-php-rce-vulnerabilities/": {
+    "ts": "2026-10-24T10:36:03.302168+00:00",
+    "title": "Palo Alto Confirms PHP RCE Vulnerabilities Impact PAN-OS and Multiple Network Products"
+  },
+  "https://gbhackers.com/anthropic-ai-model-inject-malicious-code/": {
+    "ts": "2026-10-24T10:36:03.394541+00:00",
+    "title": "Anthropic AI Model Attempts to Inject Malicious Code Into Software"
+  },
+  "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html": {
+    "ts": "2026-10-24T10:36:03.485141+00:00",
+    "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software"
+  },
+  "https://cybersecuritynews.com/openai-ai-agents-bypass-security/": {
+    "ts": "2026-10-24T10:36:03.595164+00:00",
+    "title": "OpenAI AI Agents Bypass Security Isolation, Exploiting 0-Days in Red-Teaming Tests"
+  },
+  "https://gbhackers.com/hackers-fake-chocolatey-microsoft-activation-websites/": {
+    "ts": "2026-10-24T10:36:03.686632+00:00",
+    "title": "Hackers Use Fake Chocolatey and Microsoft Activation Websites to Spread New Armorsteal Malware"
+  },
+  "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html": {
+    "ts": "2026-10-24T10:36:03.686647+00:00",
+    "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud"
+  },
+  "https://gbhackers.com/hackers-breached-litellm-github-repository/": {
+    "ts": "2026-10-24T10:36:03.780640+00:00",
+    "title": "Hackers Breached LiteLLM GitHub Repository 11 Days Before Supply Chain Attack"
+  },
+  "https://gbhackers.com/anthropic-ai-model-infect-github-repository-malware/": {
+    "ts": "2026-10-24T10:36:03.780656+00:00",
+    "title": "Anthropic AI Model Attempts to Infect GitHub Repository With Malware During Security Test"
   }
 }
