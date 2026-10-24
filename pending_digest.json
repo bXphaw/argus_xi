@@ -1,4 +1,10 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html"
+    }
+  ],
   "last_sent_date": "2026-10-24"
 }

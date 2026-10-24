@@ -24074,5 +24074,21 @@
   "https://gbhackers.com/anthropic-ai-model-infect-github-repository-malware/": {
     "ts": "2026-10-24T10:36:03.780656+00:00",
     "title": "Anthropic AI Model Attempts to Infect GitHub Repository With Malware During Security Test"
+  },
+  "https://securityaffairs.com/201626/data-breach/capcom-data-breach-exposes-11-7-million-email-addresses.html": {
+    "ts": "2026-10-24T14:21:55.068227+00:00",
+    "title": "Capcom Data Breach Exposes 11.7 Million Email Addresses"
+  },
+  "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html": {
+    "ts": "2026-10-24T14:21:58.792303+00:00",
+    "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline"
+  },
+  "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215": {
+    "ts": "2026-10-24T14:21:58.792315+00:00",
+    "title": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds"
+  },
+  "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html": {
+    "ts": "2026-10-24T14:21:58.792318+00:00",
+    "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads"
   }
 }
