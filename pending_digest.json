@@ -74,6 +74,16 @@
       "category": "malware_linux",
       "title": "Critical PHP2Shell Exploit Code Goes Public as Hackers Attempt to Deploy Botnet Malware",
       "url": "https://cybersecuritynews.com/critical-php2shell-exploit-code/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
+      "url": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "ThreatMon From Underground Forums to SOC: PHP2Shell",
+      "url": "https://threatmon.io/threatmon-from-underground-forums-to-soc-php2shell/"
     }
   ],
   "last_sent_date": "2026-10-23"

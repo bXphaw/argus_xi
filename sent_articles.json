@@ -24014,5 +24014,13 @@
   "https://gbhackers.com/php-rce-vulnerabilities/": {
     "ts": "2026-10-23T21:59:03.693072+00:00",
     "title": "PoC Exploit Released for Two Critical PHP RCE Vulnerabilities as Hackers Launch Attacks"
+  },
+  "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/": {
+    "ts": "2026-10-24T00:27:12.449856+00:00",
+    "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation"
+  },
+  "https://threatmon.io/threatmon-from-underground-forums-to-soc-php2shell/": {
+    "ts": "2026-10-24T00:27:12.493929+00:00",
+    "title": "ThreatMon From Underground Forums to SOC: PHP2Shell"
   }
 }
