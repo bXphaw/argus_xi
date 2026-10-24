@@ -24090,5 +24090,17 @@
   "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html": {
     "ts": "2026-10-24T14:21:58.792318+00:00",
     "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads"
+  },
+  "https://securityaffairs.com/201652/security/u-s-cisa-adds-collabora-online-flaw-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-10-24T17:58:34.866374+00:00",
+    "title": "U.S. CISA adds Collabora Online\u00a0flaw to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/": {
+    "ts": "2026-10-24T17:58:37.192197+00:00",
+    "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot"
+  },
+  "https://securityaffairs.com/201643/ai/usage-intelligence-the-monetization-signal-most-ai-companies-are-ignoring.html": {
+    "ts": "2026-10-24T17:58:37.192212+00:00",
+    "title": "Usage Intelligence: The Monetization Signal Most AI Companies Are Ignoring"
   }
 }
