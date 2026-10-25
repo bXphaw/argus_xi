@@ -24106,5 +24106,29 @@
   "https://securityaffairs.com/201662/hacking/pierluigi-paganini-answers-questions-about-the-php2shell-flaws.html": {
     "ts": "2026-10-24T20:38:26.885455+00:00",
     "title": "Pierluigi Paganini answers questions about the PHP2Shell flaws"
+  },
+  "https://cybersecuritynews.com/microsoft-teams-ai-detection/": {
+    "ts": "2026-10-25T13:03:54.894770+00:00",
+    "title": "Microsoft Teams to Use AI for Detecting Phishing Attacks Using Teams Conversations"
+  },
+  "https://www.helpnetsecurity.com/2026/10/25/week-in-review-php-vulnerabilities-patched-exploited-palo-alto-globalprotect-vpn-flaw/": {
+    "ts": "2026-10-25T13:03:54.894787+00:00",
+    "title": "Week in review: PHP vulnerabilities patched, exploited Palo Alto GlobalProtect VPN flaw"
+  },
+  "https://securityaffairs.com/201698/breaking-news/security-affairs-newsletter-round-601-by-pierluigi-paganini-international-edition.html": {
+    "ts": "2026-10-25T13:03:54.894792+00:00",
+    "title": "Security Affairs newsletter Round 601 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION"
+  },
+  "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/": {
+    "ts": "2026-10-25T13:03:54.894794+00:00",
+    "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave"
+  },
+  "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html": {
+    "ts": "2026-10-25T13:03:55.141709+00:00",
+    "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication"
+  },
+  "https://securityaffairs.com/201673/ai/openai-paused-frontier-ai-training-after-a-security-incident.html": {
+    "ts": "2026-10-25T13:03:55.141728+00:00",
+    "title": "OpenAI Paused Frontier AI Training After a Security Incident"
   }
 }

@@ -1,4 +1,10 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html"
+    }
+  ],
   "last_sent_date": "2026-10-25"
 }
