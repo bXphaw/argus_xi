@@ -14,6 +14,16 @@
       "category": "new_technique",
       "title": "Tailscale SSH Flaws Could Let Hackers Gain Root Access Across Servers From One Compromised Device",
       "url": "https://cybersecuritynews.com/tailscale-ssh-flaws/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
     }
   ],
   "last_sent_date": "2026-10-25"

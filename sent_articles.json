@@ -24142,5 +24142,17 @@
   "https://securityaffairs.com/201709/security/security-affairs-malware-newsletter-round-120.html": {
     "ts": "2026-10-25T17:30:41.061494+00:00",
     "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 120"
+  },
+  "https://securityaffairs.com/201718/ai/security-affairs-ai-cybersecurity-newsletter-round-5.html": {
+    "ts": "2026-10-25T20:36:02.926785+00:00",
+    "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 5"
+  },
+  "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html": {
+    "ts": "2026-10-25T20:36:05.951619+00:00",
+    "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers"
+  },
+  "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html": {
+    "ts": "2026-10-25T20:36:06.140471+00:00",
+    "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking"
   }
 }
