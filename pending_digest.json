@@ -4,6 +4,16 @@
       "category": "new_technique",
       "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
       "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Tailscale SSH Flaws Could Let Hackers Gain Root Access Across Servers From One Compromised Device",
+      "url": "https://cybersecuritynews.com/tailscale-ssh-flaws/"
     }
   ],
   "last_sent_date": "2026-10-25"

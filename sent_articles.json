@@ -24130,5 +24130,17 @@
   "https://securityaffairs.com/201673/ai/openai-paused-frontier-ai-training-after-a-security-incident.html": {
     "ts": "2026-10-25T13:03:55.141728+00:00",
     "title": "OpenAI Paused Frontier AI Training After a Security Incident"
+  },
+  "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/": {
+    "ts": "2026-10-25T17:30:40.913018+00:00",
+    "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder"
+  },
+  "https://cybersecuritynews.com/tailscale-ssh-flaws/": {
+    "ts": "2026-10-25T17:30:41.061476+00:00",
+    "title": "Tailscale SSH Flaws Could Let Hackers Gain Root Access Across Servers From One Compromised Device"
+  },
+  "https://securityaffairs.com/201709/security/security-affairs-malware-newsletter-round-120.html": {
+    "ts": "2026-10-25T17:30:41.061494+00:00",
+    "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 120"
   }
 }
