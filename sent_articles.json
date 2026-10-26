@@ -24154,5 +24154,13 @@
   "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html": {
     "ts": "2026-10-25T20:36:06.140471+00:00",
     "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking"
+  },
+  "https://cybersecuritynews.com/php2shell-flaws-exploited/": {
+    "ts": "2026-10-26T03:58:04.694817+00:00",
+    "title": "Hacker Exploits Critical PHP2Shell Flaws to Win $2,000 Bitcoin Challenge, Releases PoC"
+  },
+  "https://www.helpnetsecurity.com/2026/10/26/openssl-4-1-0-released/": {
+    "ts": "2026-10-26T03:58:04.694838+00:00",
+    "title": "OpenSSL 4.1.0: What\u2019s new, what\u2019s removed, and what\u2019s still broken"
   }
 }

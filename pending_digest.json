@@ -24,6 +24,11 @@
       "category": "apt_campaign",
       "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
       "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hacker Exploits Critical PHP2Shell Flaws to Win $2,000 Bitcoin Challenge, Releases PoC",
+      "url": "https://cybersecuritynews.com/php2shell-flaws-exploited/"
     }
   ],
   "last_sent_date": "2026-10-25"
