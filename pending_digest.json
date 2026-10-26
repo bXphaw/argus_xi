@@ -1,35 +1,4 @@
 {
-  "items": [
-    {
-      "category": "new_technique",
-      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html"
-    },
-    {
-      "category": "new_technique",
-      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/"
-    },
-    {
-      "category": "new_technique",
-      "title": "Tailscale SSH Flaws Could Let Hackers Gain Root Access Across Servers From One Compromised Device",
-      "url": "https://cybersecuritynews.com/tailscale-ssh-flaws/"
-    },
-    {
-      "category": "new_technique",
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html"
-    },
-    {
-      "category": "apt_campaign",
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
-    },
-    {
-      "category": "new_technique",
-      "title": "Hacker Exploits Critical PHP2Shell Flaws to Win $2,000 Bitcoin Challenge, Releases PoC",
-      "url": "https://cybersecuritynews.com/php2shell-flaws-exploited/"
-    }
-  ],
-  "last_sent_date": "2026-10-25"
+  "items": [],
+  "last_sent_date": "2026-10-26"
 }

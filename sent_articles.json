@@ -24162,5 +24162,125 @@
   "https://www.helpnetsecurity.com/2026/10/26/openssl-4-1-0-released/": {
     "ts": "2026-10-26T03:58:04.694838+00:00",
     "title": "OpenSSL 4.1.0: What\u2019s new, what\u2019s removed, and what\u2019s still broken"
+  },
+  "https://gbhackers.com/data-privacy-platforms-buyers-guide/": {
+    "ts": "2026-10-26T10:00:43.485026+00:00",
+    "title": "12 Data Privacy Management Platforms: The 2026 Buyer\u2019s Verdict Guide"
+  },
+  "https://cybersecuritynews.com/best-data-discovery-tools/": {
+    "ts": "2026-10-26T10:00:45.047548+00:00",
+    "title": "Top 10 Best Sensitive Data Discovery Tools in 2026 [Ranked & Scored]"
+  },
+  "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/": {
+    "ts": "2026-10-26T10:02:31.728902+00:00",
+    "title": "PHP2Shell security flaws now sucessfully exploited in the wild"
+  },
+  "https://cybersecuritynews.com/best-data-access-governance/": {
+    "ts": "2026-10-26T10:02:31.728924+00:00",
+    "title": "Top 10 Best Data Access Governance Tools in 2026 [Ranked & Scored]"
+  },
+  "https://gbhackers.com/data-masking-tools-buyers-guide/": {
+    "ts": "2026-10-26T10:02:31.728927+00:00",
+    "title": "12 Data Masking Tools: The 2026 Buyer\u2019s Verdict Guide"
+  },
+  "https://www.helpnetsecurity.com/2026/10/26/witness-open-source-software-supply-chain-tool/": {
+    "ts": "2026-10-26T10:02:31.728931+00:00",
+    "title": "Witness: Open-source framework for verifying how your software was built"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/a-week-in-security-october-19-october-25": {
+    "ts": "2026-10-26T10:02:31.728934+00:00",
+    "title": "A week in security (October 19 \u2013 October 25)"
+  },
+  "https://securityaffairs.com/201729/ai/anthropic-reveals-how-claude-mythos-5-crossed-security-testing-boundaries.html": {
+    "ts": "2026-10-26T10:02:31.922248+00:00",
+    "title": "Anthropic reveals how Claude Mythos 5 crossed security testing boundaries"
+  },
+  "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/": {
+    "ts": "2026-10-26T10:02:32.122701+00:00",
+    "title": "Mythos 5 Ignored Real-World Harm in July Attack"
+  },
+  "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html": {
+    "ts": "2026-10-26T10:02:32.321327+00:00",
+    "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations"
+  },
+  "https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274": {
+    "ts": "2026-10-26T10:02:32.523072+00:00",
+    "title": "Work to protect DNS from quantum decryption attacks is speeding up"
+  },
+  "https://cybersecuritynews.com/openssl-4-1-0-released/": {
+    "ts": "2026-10-26T10:02:32.714462+00:00",
+    "title": "OpenSSL 4.1.0 Released With DTLS 1.3 and Post-Quantum Security Improvements"
+  },
+  "https://www.helpnetsecurity.com/2026/10/26/linux-foundation-open-source-ai-slop/": {
+    "ts": "2026-10-26T10:02:32.714479+00:00",
+    "title": "AI slop is piling up highest on the biggest open-source projects"
+  },
+  "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html": {
+    "ts": "2026-10-26T10:02:32.908983+00:00",
+    "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs"
+  },
+  "https://gbhackers.com/database-security-tools-buyers-guide/": {
+    "ts": "2026-10-26T10:02:32.909004+00:00",
+    "title": "10 Database Security & Activity Monitoring Tools: The 2026 Buyer\u2019s Verdict Guide"
+  },
+  "https://www.helpnetsecurity.com/2026/10/26/product-showcase-stellar-cyber-isoc-platform/": {
+    "ts": "2026-10-26T10:02:32.909007+00:00",
+    "title": "Product showcase: Stellar Cyber\u2019s ISOC platform provides full-cycle architecture"
+  },
+  "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html": {
+    "ts": "2026-10-26T10:02:33.110740+00:00",
+    "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware"
+  },
+  "https://cybersecuritynews.com/best-hsm-solutions/": {
+    "ts": "2026-10-26T10:02:33.305191+00:00",
+    "title": "Top 10 Best Hardware Security Modules (HSM) in 2026 [Ranked & Scored]"
+  },
+  "https://gbhackers.com/trustgraft-attack/": {
+    "ts": "2026-10-26T10:02:33.497517+00:00",
+    "title": "New TRUST#GRAFT Attack Tricks WordPress Admin Browsers Into Installing Malicious Plugins"
+  },
+  "https://www.helpnetsecurity.com/2026/10/26/arrakis-dormant-ai-agent-risks-report/": {
+    "ts": "2026-10-26T10:02:33.692938+00:00",
+    "title": "Forgotten AI agents may still access sensitive company data"
+  },
+  "https://cybersecuritynews.com/http2shell-vulnerability/": {
+    "ts": "2026-10-26T10:02:33.884015+00:00",
+    "title": "HTTP2Shell Vulnerability Extends Beyond HTTP, Affecting .NET, FFmpeg, ClickHouse, and Apache Arrow"
+  },
+  "https://gbhackers.com/malicious-files-hijack-ai-agents/": {
+    "ts": "2026-10-26T10:02:34.076752+00:00",
+    "title": "Hackers Can Hijack AI Agents Just by Planting Malicious Files in the Downloads Folder"
+  },
+  "https://www.helpnetsecurity.com/2026/10/26/transunion-synthetic-identity-fraud-risks-report/": {
+    "ts": "2026-10-26T10:02:34.076769+00:00",
+    "title": "Synthetic identities leave US lenders with $2.4 billion in fraud exposure"
+  },
+  "https://cybersecuritynews.com/microsoft-authenticator-flaw/": {
+    "ts": "2026-10-26T10:02:34.271379+00:00",
+    "title": "Microsoft Authenticator Flaw Lets Malicious Android Apps Steal Account Tokens With Zero Permissions"
+  },
+  "https://gbhackers.com/windows-tools-to-hide-malware/": {
+    "ts": "2026-10-26T10:02:34.464425+00:00",
+    "title": "Hackers Use PowerShell and Windows Error Reporting to Hide Malware on Infected PCs"
+  },
+  "https://www.helpnetsecurity.com/2026/10/26/reddit-r-opensource-ai-ban/": {
+    "ts": "2026-10-26T10:02:34.464445+00:00",
+    "title": "r/opensource bans AI projects, and solo devs go down with them"
+  },
+  "https://cybersecuritynews.com/indias-film-sensor-board-data-breach/": {
+    "ts": "2026-10-26T10:02:34.464449+00:00",
+    "title": "India\u2019s Film Sensor Board Data Breach \u2013 Unreleased Scripts, 500+ Film Titles Exposed"
+  },
+  "https://gbhackers.com/microsoft-issues-emergency-net-security-updates/": {
+    "ts": "2026-10-26T10:02:34.464452+00:00",
+    "title": "Microsoft Issues Emergency .NET Security Updates to Fix Four Vulnerabilities"
+  },
+  "https://www.helpnetsecurity.com/2026/10/26/google-elephant-goldfish-model-plugin/": {
+    "ts": "2026-10-26T10:02:34.464455+00:00",
+    "title": "Google open-sources the Elephant-Goldfish Model plugin its engineers use to catch AI coding mistakes"
+  },
+  "https://gbhackers.com/microsoft-authenticator-flaw/": {
+    "ts": "2026-10-26T10:02:34.657133+00:00",
+    "title": "Microsoft Authenticator Flaw Allows Android Apps With Zero Permissions to Steal Authentication Tokens"
   }
 }
