@@ -1,4 +1,40 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "26th October \u2013 Threat Intelligence Report",
+      "url": "https://research.checkpoint.com/2026/26th-october-threat-intelligence-report/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Know How Cyble Brand Intelligence Can Help Stop ClickFix Campaigns in its Tracks",
+      "url": "https://cyble.com/blog/booking-com-brand-intelligence-clickfix-campaign/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "\u26a1 Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "KillerStrike: Inside an Open-Source Windows RAT",
+      "url": "https://threatmon.io/killerstrike-inside-an-open-source-windows-rat/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+      "url": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html"
+    },
+    {
+      "category": "malware_other",
+      "title": "AI coding agents fall for malicious instructions planted in the Downloads folder",
+      "url": "https://www.helpnetsecurity.com/2026/10/26/ai-coding-agents-malware-openai-codex/"
+    }
+  ],
   "last_sent_date": "2026-10-26"
 }

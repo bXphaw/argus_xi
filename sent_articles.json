@@ -24282,5 +24282,125 @@
   "https://gbhackers.com/microsoft-authenticator-flaw/": {
     "ts": "2026-10-26T10:02:34.657133+00:00",
     "title": "Microsoft Authenticator Flaw Allows Android Apps With Zero Permissions to Steal Authentication Tokens"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/": {
+    "ts": "2026-10-26T16:47:31.041866+00:00",
+    "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches"
+  },
+  "https://research.checkpoint.com/2026/26th-october-threat-intelligence-report/": {
+    "ts": "2026-10-26T16:47:31.273170+00:00",
+    "title": "26th October \u2013 Threat Intelligence Report"
+  },
+  "https://cyble.com/blog/booking-com-brand-intelligence-clickfix-campaign/": {
+    "ts": "2026-10-26T16:47:31.504333+00:00",
+    "title": "Know How Cyble Brand Intelligence Can Help Stop ClickFix Campaigns in its Tracks"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years": {
+    "ts": "2026-10-26T16:47:31.504355+00:00",
+    "title": "10 Software Security Practices Built for the Next 250 Years"
+  },
+  "https://www.helpnetsecurity.com/2026/10/26/kali-linux-2026-3-released/": {
+    "ts": "2026-10-26T16:47:31.504359+00:00",
+    "title": "Kali Linux 2026.3 ships kernel 7.1.5, brings wardriving to the TicWatch Pro 3"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/borrowed-reputation-domain-shadowing-and-gambling-seo/": {
+    "ts": "2026-10-26T16:47:31.738979+00:00",
+    "title": "Borrowed Reputation: Domain Shadowing and Gambling SEO"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/popcorn-times-forgotten-updater-left-millions-of-devices-exposed-to-hijacking": {
+    "ts": "2026-10-26T16:47:31.969162+00:00",
+    "title": "Popcorn Time\u2019s forgotten updater left millions of devices exposed to hijacking"
+  },
+  "https://securelist.com/tr/how-to-secure-ai-agents/121444/": {
+    "ts": "2026-10-26T16:47:32.201343+00:00",
+    "title": "Deploying AI agents securely: how Kaspersky products mitigate AI threats"
+  },
+  "https://securityaffairs.com/201786/cyber-crime/ai-generated-fake-bank-calls-and-nfc-app-enabled-e380000-fraud-dutch-police-say.html": {
+    "ts": "2026-10-26T16:47:32.433772+00:00",
+    "title": "AI-Generated Fake Bank Calls and NFC App Enabled \u20ac380,000 Fraud, Dutch Police Say"
+  },
+  "https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/": {
+    "ts": "2026-10-26T16:47:32.663315+00:00",
+    "title": "Industrial Vendors Check Products for PHP2Shell Vulnerabilities"
+  },
+  "https://socradar.io/blog/node2shell-brotli-flaw-hits-python-packages/": {
+    "ts": "2026-10-26T16:47:32.663333+00:00",
+    "title": "Node2Shell: Brotli Flaw Hits Python Packages"
+  },
+  "https://www.security.com/expert-perspectives/7-security-dot-com-podcast-moments-still-haunt-us": {
+    "ts": "2026-10-26T16:47:32.663336+00:00",
+    "title": "7 SECURITY.COM The Podcast Moments That Still Haunt Us"
+  },
+  "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html": {
+    "ts": "2026-10-26T16:47:32.904327+00:00",
+    "title": "\u26a1 Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More"
+  },
+  "https://www.theregister.com/security/2026/10/26/uk-pentester-killa-claims-2k-bitcoin-prize-in-php2shell-capture-the-flag-contest/5305429": {
+    "ts": "2026-10-26T16:47:32.904349+00:00",
+    "title": "UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest"
+  },
+  "https://threatmon.io/killerstrike-inside-an-open-source-windows-rat/": {
+    "ts": "2026-10-26T16:47:33.136372+00:00",
+    "title": "KillerStrike: Inside an Open-Source Windows RAT"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/": {
+    "ts": "2026-10-26T16:47:33.365989+00:00",
+    "title": "Microsoft releases emergency .NET patches for critical Brotli flaw"
+  },
+  "https://www.helpnetsecurity.com/2026/10/26/ai-tools-security-worry-survey/": {
+    "ts": "2026-10-26T16:47:33.601216+00:00",
+    "title": "Security pros reckon the biggest AI risk comes with an employee badge"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/10/ai-halloween-videos-whos-getting-your-photos": {
+    "ts": "2026-10-26T16:47:33.836393+00:00",
+    "title": "AI Halloween videos: Who\u2019s getting your photos?"
+  },
+  "https://securityaffairs.com/201764/malware/researchers-uncover-rentable-android-spyware-ucreater-targeting-wechat-and-telegram.html": {
+    "ts": "2026-10-26T16:47:34.067256+00:00",
+    "title": "Researchers Uncover Rentable Android Spyware uCreater Targeting WeChat and Telegram"
+  },
+  "https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/": {
+    "ts": "2026-10-26T16:47:34.297014+00:00",
+    "title": "Genesys Hack Exposes Customer Data From Internal Systems"
+  },
+  "https://socradar.io/blog/finaxis-wowinstaller-moodle-myhaircare-ht-medica-leaks/": {
+    "ts": "2026-10-26T16:47:34.297033+00:00",
+    "title": "Finaxis, WoWInstaller, Moodle, MyHairCare & HT M\u00e9dica Leaks"
+  },
+  "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html": {
+    "ts": "2026-10-26T16:47:34.526052+00:00",
+    "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/10/26/trumpets-blare-and-skies-part-as-ai-hypefest-culminates-in-anthropic-ipo-filing/5305456": {
+    "ts": "2026-10-26T16:47:34.526069+00:00",
+    "title": "Trumpets blare and skies part as AI hypefest culminates in Anthropic IPO filing"
+  },
+  "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/": {
+    "ts": "2026-10-26T16:47:34.526072+00:00",
+    "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence"
+  },
+  "https://www.helpnetsecurity.com/2026/10/26/ai-coding-agents-malware-openai-codex/": {
+    "ts": "2026-10-26T16:47:34.758288+00:00",
+    "title": "AI coding agents fall for malicious instructions planted in the Downloads folder"
+  },
+  "https://www.malwarebytes.com/blog/data-breaches/2026/10/patient-records-exposed-in-quest-breach-what-you-need-to-know": {
+    "ts": "2026-10-26T16:47:34.995823+00:00",
+    "title": "Patient records exposed in Quest breach: What you need to know"
+  },
+  "https://securityaffairs.com/201748/hacking/php2shell-suspected-north-korean-campaign-targets-216-vulnerable-php-hosts.html": {
+    "ts": "2026-10-26T16:47:35.233562+00:00",
+    "title": "PHP2Shell: Suspected North Korean campaign targets 216 vulnerable PHP hosts"
+  },
+  "https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/": {
+    "ts": "2026-10-26T16:47:35.469655+00:00",
+    "title": "Stolen AI Reasoning Could Help China Build Cheaper Rivals"
+  },
+  "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html": {
+    "ts": "2026-10-26T16:47:35.701547+00:00",
+    "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses"
+  },
+  "https://www.theregister.com/security/2026/10/26/we-shouldnt-be-surprised-about-the-phpocalypse-as-the-internet-is-built-on-sticks-and-glue/5305186": {
+    "ts": "2026-10-26T16:47:35.939237+00:00",
+    "title": "We shouldn't be surprised about the PHPocalypse, as the internet is built on sticks and glue"
   }
 }
