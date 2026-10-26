@@ -34,6 +34,46 @@
       "category": "malware_other",
       "title": "AI coding agents fall for malicious instructions planted in the Downloads folder",
       "url": "https://www.helpnetsecurity.com/2026/10/26/ai-coding-agents-malware-openai-codex/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Weaponize Public PHP2Shell Exploit Code to Target Universities and Business Websites",
+      "url": "https://cybersecuritynews.com/public-php2shell-exploit-code/"
+    },
+    {
+      "category": "new_technique",
+      "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
+      "url": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets"
+    },
+    {
+      "category": "malware_windows",
+      "title": "New Malware Targets AI Coding Tools to Steal Login Tokens, SSH Keys, and Cloud Credentials",
+      "url": "https://gbhackers.com/ai-coding-tools-targeted/"
+    },
+    {
+      "category": "new_technique",
+      "title": "PHP2Shell Exploitation Moves From Probes to Working Shells",
+      "url": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "LiteLLM supply chain attack started with an exposed master key",
+      "url": "https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Hackers Can Hijack OpenAI Codex and Claude Code Using Malicious Files in Downloads Folder",
+      "url": "https://cybersecuritynews.com/codex-and-claude-code-hijack/"
+    },
+    {
+      "category": "malware_android",
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html"
     }
   ],
   "last_sent_date": "2026-10-26"

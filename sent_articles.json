@@ -24402,5 +24402,125 @@
   "https://www.theregister.com/security/2026/10/26/we-shouldnt-be-surprised-about-the-phpocalypse-as-the-internet-is-built-on-sticks-and-glue/5305186": {
     "ts": "2026-10-26T16:47:35.939237+00:00",
     "title": "We shouldn't be surprised about the PHPocalypse, as the internet is built on sticks and glue"
+  },
+  "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515": {
+    "ts": "2026-10-26T21:30:29.371363+00:00",
+    "title": "Microsoft releases emergency .NET security fixes for Google Brotli bug"
+  },
+  "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/": {
+    "ts": "2026-10-26T21:32:05.966204+00:00",
+    "title": "Former pentester used ARTEX AI to steal 8.2 million data records"
+  },
+  "https://cybersecuritynews.com/public-php2shell-exploit-code/": {
+    "ts": "2026-10-26T21:32:06.039637+00:00",
+    "title": "Hackers Weaponize Public PHP2Shell Exploit Code to Target Universities and Business Websites"
+  },
+  "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown": {
+    "ts": "2026-10-26T21:32:06.100012+00:00",
+    "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown"
+  },
+  "https://gbhackers.com/anthropics-claude-ai-bypasses-paywall-to-access-us-election-data/": {
+    "ts": "2026-10-26T21:32:06.100028+00:00",
+    "title": "Anthropic\u2019s Claude AI Bypasses Paywall to Access US Election Data Without Permission"
+  },
+  "https://www.helpnetsecurity.com/2026/10/26/fortinet-patches-critical-fortios-flaws-found-with-ai-help/": {
+    "ts": "2026-10-26T21:32:06.100032+00:00",
+    "title": "Fortinet patches critical FortiOS flaws found with AI help"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-111497-critical-out-of-bounds-write-in-the-node-js-brotli-decoder": {
+    "ts": "2026-10-26T21:32:06.157083+00:00",
+    "title": "CVE-2026-111497: Critical out-of-bounds write in the Node.js Brotli decoder"
+  },
+  "https://securityaffairs.com/201795/malware/magento-campaign-infects-953-online-stores-across-five-domains.html": {
+    "ts": "2026-10-26T21:32:06.214925+00:00",
+    "title": "Magento Campaign Infects 953 Online Stores Across Five Domains"
+  },
+  "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/": {
+    "ts": "2026-10-26T21:32:06.271705+00:00",
+    "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI"
+  },
+  "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html": {
+    "ts": "2026-10-26T21:32:06.329693+00:00",
+    "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561": {
+    "ts": "2026-10-26T21:32:06.386622+00:00",
+    "title": "Alibaba's Qwen AI caught trying to contact server in China"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/": {
+    "ts": "2026-10-26T21:32:06.386636+00:00",
+    "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing"
+  },
+  "https://cybersecuritynews.com/microsoft-investigation-teams-issue/": {
+    "ts": "2026-10-26T21:32:06.386640+00:00",
+    "title": "Microsoft Investigation Teams Issue Affecting Users in the United States"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets": {
+    "ts": "2026-10-26T21:32:06.444101+00:00",
+    "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets"
+  },
+  "https://gbhackers.com/ai-coding-tools-targeted/": {
+    "ts": "2026-10-26T21:32:06.502569+00:00",
+    "title": "New Malware Targets AI Coding Tools to Steal Login Tokens, SSH Keys, and Cloud Credentials"
+  },
+  "https://www.helpnetsecurity.com/2026/10/26/anthropic-claude-duet-security-safeguards/": {
+    "ts": "2026-10-26T21:32:06.502582+00:00",
+    "title": "Anthropic details what stops Claude Duet from going rogue"
+  },
+  "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/": {
+    "ts": "2026-10-26T21:32:06.562359+00:00",
+    "title": "PHP2Shell Exploitation Moves From Probes to Working Shells"
+  },
+  "https://thehackernews.com/2026/10/php-issues-second-windows-security.html": {
+    "ts": "2026-10-26T21:32:06.562374+00:00",
+    "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw"
+  },
+  "https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544": {
+    "ts": "2026-10-26T21:32:06.621520+00:00",
+    "title": "LiteLLM supply chain attack started with an exposed master key"
+  },
+  "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/": {
+    "ts": "2026-10-26T21:32:06.621536+00:00",
+    "title": "DreamHost forces password resets in ongoing \"incident\""
+  },
+  "https://cybersecuritynews.com/codex-and-claude-code-hijack/": {
+    "ts": "2026-10-26T21:32:06.682131+00:00",
+    "title": "Hackers Can Hijack OpenAI Codex and Claude Code Using Malicious Files in Downloads Folder"
+  },
+  "https://gbhackers.com/hackers-turn-mac-password-stealer-into-rat-that-survives-reboots-and-executes-remote-commands/": {
+    "ts": "2026-10-26T21:32:06.741987+00:00",
+    "title": "Hackers Turn Mac Password Stealer Into RAT That Survives Reboots and Executes Remote Commands"
+  },
+  "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/": {
+    "ts": "2026-10-26T21:32:06.800595+00:00",
+    "title": "953 Online Stores Infected in Long-Lasting Malware Campaign"
+  },
+  "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html": {
+    "ts": "2026-10-26T21:32:06.862549+00:00",
+    "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware"
+  },
+  "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/": {
+    "ts": "2026-10-26T21:32:06.920397+00:00",
+    "title": "Chinese man extradited for role in $36 million cryptocurrency scam"
+  },
+  "https://cybersecuritynews.com/openbsd-8-0-released/": {
+    "ts": "2026-10-26T21:32:06.979828+00:00",
+    "title": "OpenBSD 8.0 Released With Major Security Hardening and Post-Quantum SSH Support"
+  },
+  "https://gbhackers.com/keepassxc-2-8-0-released/": {
+    "ts": "2026-10-26T21:32:06.979844+00:00",
+    "title": "KeePassXC 2.8.0 Released to Fix Multiple Security Vulnerabilities Affecting Password Manager"
+  },
+  "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/": {
+    "ts": "2026-10-26T21:32:06.979848+00:00",
+    "title": "Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts"
+  },
+  "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html": {
+    "ts": "2026-10-26T21:32:07.041072+00:00",
+    "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts"
+  },
+  "https://www.theregister.com/security/2026/10/26/uk-biobank-back-online-soon-months-after-someone-tried-to-sell-500k-peoples-data-on-alibaba/5305363": {
+    "ts": "2026-10-26T21:32:07.041090+00:00",
+    "title": "UK Biobank back online soon, months after someone tried to sell 500k people's data on Alibaba"
   }
 }
