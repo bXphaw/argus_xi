@@ -74,6 +74,36 @@
       "category": "malware_android",
       "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
       "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Use VLC Media Player and VMware Tools to Load Malware Through DLL Side-Loading",
+      "url": "https://cybersecuritynews.com/vlc-media-player-and-vmware-tools/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Emperador Ransomware Group Claims to Have Stolen 3.9GB of Data from the Maker of Budweiser and Corona",
+      "url": "https://cybersecuritynews.com/emperador-ransomware-group-claim/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Worm armed 42 GitHub repos by hiding a payload too big to fail",
+      "url": "https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570"
+    },
+    {
+      "category": "new_technique",
+      "title": "PHP2Shell: No login, no app code, no warning. What next?",
+      "url": "https://www.theregister.com/security/2026/10/26/partner-content-no-login-no-app-code-no-warning-what-next/5305336"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Can Use DarkCore RAT to Hijack Gmail and WhatsApp Sessions Without Passwords",
+      "url": "https://gbhackers.com/darkcore-rat-sessions/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Microsoft Releases Out-of-Band Security Updates for Brotli and .NET tarballs Vulnerability",
+      "url": "https://cybersecuritynews.com/microsoft-security-updates-for-brotli-and-net-tarballs-vulnerability/"
     }
   ],
   "last_sent_date": "2026-10-26"
