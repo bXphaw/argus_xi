@@ -39,6 +39,16 @@
       "category": "new_technique",
       "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
       "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Brotli bug reaches far beyond Node.js (CVE-2026-111497)",
+      "url": "https://www.helpnetsecurity.com/2026/10/27/node2shell-broccoli2shell-vulnerability-cve-2026-111497/"
+    },
+    {
+      "category": "new_technique",
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html"
     }
   ],
   "last_sent_date": "2026-10-27"
