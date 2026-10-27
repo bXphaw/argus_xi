@@ -24606,5 +24606,121 @@
   "https://cybersecuritynews.com/microsoft-security-updates-for-brotli-and-net-tarballs-vulnerability/": {
     "ts": "2026-10-27T01:19:35.611770+00:00",
     "title": "Microsoft Releases Out-of-Band Security Updates for Brotli and .NET tarballs Vulnerability"
+  },
+  "https://cybersecuritynews.com/brotli-vulnerability-affects-pan-os/": {
+    "ts": "2026-10-27T07:32:09.152340+00:00",
+    "title": "Palo Alto Confirms Brotli Vulnerability Impact on PAN-OS and Releases Workarounds"
+  },
+  "https://cybersecuritynews.com/microsoft-365-accounts/": {
+    "ts": "2026-10-27T07:33:57.585746+00:00",
+    "title": "Hackers Hijack Microsoft 365 Accounts at 79 Organizations Using Stolen Login Tokens"
+  },
+  "https://gbhackers.com/openai-releases-gpt-6-1-terra/": {
+    "ts": "2026-10-27T07:33:57.585766+00:00",
+    "title": "OpenAI Releases GPT-6.1 Terra With Advanced Computer Use and AI Agent Capabilities"
+  },
+  "https://www.helpnetsecurity.com/2026/10/27/jonathan-care-kuppingercole-analysts-ai-security-market/": {
+    "ts": "2026-10-27T07:33:57.585770+00:00",
+    "title": "Several AI security market categories are headed for bigger platforms"
+  },
+  "https://rewterz.com/threat-advisory/threat-actors-exploit-siemens-software-center-to-deploy-rat-malware-active-iocs": {
+    "ts": "2026-10-27T07:33:57.698476+00:00",
+    "title": "Threat Actors Exploit Siemens Software Center to Deploy RAT Malware \u2013 Active IOCs"
+  },
+  "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/": {
+    "ts": "2026-10-27T07:33:57.698495+00:00",
+    "title": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems"
+  },
+  "https://socradar.io/blog/wasmtime-sandbox-escape-cranelift/": {
+    "ts": "2026-10-27T07:33:57.824431+00:00",
+    "title": "Wasmtime Sandbox Escape Flaws Patched in Cranelift"
+  },
+  "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html": {
+    "ts": "2026-10-27T07:33:57.943653+00:00",
+    "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses"
+  },
+  "https://www.welivesecurity.com/en/videos/php2shell-what-know-two-critical-php-flaws/": {
+    "ts": "2026-10-27T07:33:58.070337+00:00",
+    "title": "PHP2Shell: What to know about two critical PHP flaws"
+  },
+  "https://cybersecuritynews.com/hackers-use-ai-agents/": {
+    "ts": "2026-10-27T07:33:58.177296+00:00",
+    "title": "Hackers Use AI Agents to Target Over 2,250 Microsoft 365 Tenants Through ConnectWise"
+  },
+  "https://gbhackers.com/hacker-uses-generative-ai-to-breach-90-companies-and-steal-8-2-million-records/": {
+    "ts": "2026-10-27T07:33:58.290695+00:00",
+    "title": "Hacker Uses Generative AI to Breach 90 Companies and Steal 8.2 Million Records"
+  },
+  "https://www.helpnetsecurity.com/2026/10/27/microsoft-authenticator-vulnerability-patchedcve-2026-80097/": {
+    "ts": "2026-10-27T07:33:58.290712+00:00",
+    "title": "Microsoft Authenticator vulnerability let rogue Android apps steal work account access"
+  },
+  "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/": {
+    "ts": "2026-10-27T07:33:58.290716+00:00",
+    "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics"
+  },
+  "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html": {
+    "ts": "2026-10-27T07:33:58.410347+00:00",
+    "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution"
+  },
+  "https://cybersecuritynews.com/openai-codex-breaks-usb-encryption-in-minutes/": {
+    "ts": "2026-10-27T07:33:58.537657+00:00",
+    "title": "OpenAI Codex Breaks USB Encryption in Minutes, Exposing Hardcoded Keys and Security Flaws"
+  },
+  "https://gbhackers.com/microsoft-365-token-replay-attacks/": {
+    "ts": "2026-10-27T07:33:58.657435+00:00",
+    "title": "Microsoft 365 Token Replay Attacks Let Hackers Access Business Emails Without Passwords"
+  },
+  "https://www.helpnetsecurity.com/2026/10/27/llm-agent-security-video/": {
+    "ts": "2026-10-27T07:33:58.778762+00:00",
+    "title": "LLM agent security needs more than guardrails"
+  },
+  "https://cybersecuritynews.com/researcher-root-samsung-smart-tv/": {
+    "ts": "2026-10-27T07:33:58.905132+00:00",
+    "title": "Researcher Gains Root Access to Samsung Smart TV, Uncovers Extensive User Tracking"
+  },
+  "https://gbhackers.com/coruna-and-darksword-target-ios/": {
+    "ts": "2026-10-27T07:33:59.031262+00:00",
+    "title": "Hackers Use Instagram Ads to Deploy Coruna and DarkSword Spyware on iPhones"
+  },
+  "https://www.helpnetsecurity.com/2026/10/27/amutable-foundations-linux-system/": {
+    "ts": "2026-10-27T07:33:59.151253+00:00",
+    "title": "Amutable Foundations is a Linux system with no SSH and no package manager"
+  },
+  "https://cybersecuritynews.com/claudes-official-website/": {
+    "ts": "2026-10-27T07:33:59.271186+00:00",
+    "title": "Hackers Abuse Claude\u2019s Official Website and Google Ads to Spread Malware"
+  },
+  "https://gbhackers.com/connectwise-cloud-backup/": {
+    "ts": "2026-10-27T07:33:59.397439+00:00",
+    "title": "Hackers Abuse ConnectWise Cloud Backup Credentials to Launch AI-Driven Microsoft 365 Attacks"
+  },
+  "https://www.helpnetsecurity.com/2026/10/27/rapid7-vulnerability-exploitation-trends-q3-2026-report/": {
+    "ts": "2026-10-27T07:33:59.397458+00:00",
+    "title": "71% of vulnerability exploitation starts within a week of disclosure"
+  },
+  "https://cybersecuritynews.com/malicious-instagram-ads/": {
+    "ts": "2026-10-27T07:33:59.511974+00:00",
+    "title": "Hackers Use Malicious Instagram Ads to Infect iPhones With Spyware Without a Click"
+  },
+  "https://www.helpnetsecurity.com/2026/10/27/cybersecurity-jobs-available-right-now-october-27-2026/": {
+    "ts": "2026-10-27T07:33:59.511995+00:00",
+    "title": "Cybersecurity jobs available right now: October 27, 2026"
+  },
+  "https://www.helpnetsecurity.com/2026/10/27/gpt-6-1-terra-released/": {
+    "ts": "2026-10-27T07:33:59.511999+00:00",
+    "title": "GPT-6.1 Terra meets OpenAI\u2019s Critical cyber threshold, and it\u2019s cheaper than GPT-5.6 Terra"
+  },
+  "https://cybersecuritynews.com/aokigahara-malware/": {
+    "ts": "2026-10-27T07:33:59.631379+00:00",
+    "title": "New Aokigahara Malware Targets ChatGPT, Claude, Codex, and Cursor Login Credentials"
+  },
+  "https://cybersecuritynews.com/icmacos-remote-access-trojan/": {
+    "ts": "2026-10-27T07:33:59.750355+00:00",
+    "title": "Hackers Sell ICMacOS Remote Access Trojan for $699 a Week to Target Mac Users"
+  },
+  "https://cybersecuritynews.com/claude-code-finds-deleted-photos/": {
+    "ts": "2026-10-27T07:33:59.750375+00:00",
+    "title": "Claude Code Reportedly Finds 214,856 Deleted Photos and Videos Hidden on Android Phone"
   }
 }
