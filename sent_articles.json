@@ -24962,5 +24962,125 @@
   "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html": {
     "ts": "2026-10-27T19:57:51.558905+00:00",
     "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads"
+  },
+  "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/": {
+    "ts": "2026-10-27T23:41:13.474712+00:00",
+    "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat"
+  },
+  "https://cybersecuritynews.com/researchers-exploit-openai-api-flaw/": {
+    "ts": "2026-10-27T23:41:13.474733+00:00",
+    "title": "Researchers Exploit OpenAI API Flaw to Extract Hidden GPT-5.6 Reasoning Traces"
+  },
+  "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability": {
+    "ts": "2026-10-27T23:41:13.474736+00:00",
+    "title": "3 Frameworks to Protect CISOs &amp; Orgs Against AI Liability"
+  },
+  "https://gbhackers.com/apple-fixes-actively-exploited-ios-zero-day-vulnerability/": {
+    "ts": "2026-10-27T23:41:13.474739+00:00",
+    "title": "Apple Fixes Actively Exploited iOS Zero-Day Vulnerability in CoreGraphics"
+  },
+  "https://www.helpnetsecurity.com/2026/10/27/gheist-github-token-abuse/": {
+    "ts": "2026-10-27T23:41:13.654916+00:00",
+    "title": "Private repos still leak secrets to Gheist, a stolen GitHub token campaign"
+  },
+  "https://securityaffairs.com/201867/hacking/italys-parliament-under-cyber-pressure-why-the-attack-on-the-chamber-matters.html": {
+    "ts": "2026-10-27T23:41:13.654928+00:00",
+    "title": "Italy \u2019s Parliament Under Cyber Pressure: Why the Attack on the Chamber Matters"
+  },
+  "https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/": {
+    "ts": "2026-10-27T23:41:13.654931+00:00",
+    "title": "Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI"
+  },
+  "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html": {
+    "ts": "2026-10-27T23:41:13.772089+00:00",
+    "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier"
+  },
+  "https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681": {
+    "ts": "2026-10-27T23:41:13.893076+00:00",
+    "title": "CISA confirms PHP2Shell under attack as researchers clock successful exploits"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/": {
+    "ts": "2026-10-27T23:41:13.893088+00:00",
+    "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests"
+  },
+  "https://cybersecuritynews.com/cisa-free-tools-to-detect-misconfigurations/": {
+    "ts": "2026-10-27T23:41:14.006971+00:00",
+    "title": "CISA Offers Two Free Tools to Detect Security Misconfigurations in Microsoft 365 and Google Workspace"
+  },
+  "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path": {
+    "ts": "2026-10-27T23:41:14.124367+00:00",
+    "title": "External Teams Chats Anchor 15-Minute Malware Delivery"
+  },
+  "https://gbhackers.com/claude-users-targeted/": {
+    "ts": "2026-10-27T23:41:14.235479+00:00",
+    "title": "Hackers Use Google Ads to Push Fake Claude Downloads Hosted on Real Claude.ai Domain"
+  },
+  "https://www.helpnetsecurity.com/2026/10/27/dreamhost-incident-email-ftp-password-resets/": {
+    "ts": "2026-10-27T23:41:14.351793+00:00",
+    "title": "DreamHost incident triggers password resets, locks customers out of email and FTP accounts"
+  },
+  "https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/": {
+    "ts": "2026-10-27T23:41:14.465776+00:00",
+    "title": "This is Fine: What NetScaler Zero-Days Tell Us About the New Normal"
+  },
+  "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html": {
+    "ts": "2026-10-27T23:41:14.586960+00:00",
+    "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption"
+  },
+  "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/": {
+    "ts": "2026-10-27T23:41:14.704720+00:00",
+    "title": "UNM Health ransomware attack disrupts patient care, surgeries"
+  },
+  "https://cybersecuritynews.com/online-ads-track-starlink-users/": {
+    "ts": "2026-10-27T23:41:14.704731+00:00",
+    "title": "Israeli Ad Tech Firm Accused on Using Online Ads to Track Starlink Users"
+  },
+  "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack": {
+    "ts": "2026-10-27T23:41:14.825887+00:00",
+    "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack"
+  },
+  "https://gbhackers.com/magento-cms-blocks/": {
+    "ts": "2026-10-27T23:41:14.946158+00:00",
+    "title": "Hackers Abuse Magento CMS Blocks to Infect Online Stores and Evade Malware Detection"
+  },
+  "https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/": {
+    "ts": "2026-10-27T23:41:15.067448+00:00",
+    "title": "Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover"
+  },
+  "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html": {
+    "ts": "2026-10-27T23:41:15.182611+00:00",
+    "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/": {
+    "ts": "2026-10-27T23:41:15.300790+00:00",
+    "title": "Hackers hijack Convertr analytics script to steal payment card data"
+  },
+  "https://cybersecuritynews.com/fake-fedex-invoices/": {
+    "ts": "2026-10-27T23:41:15.421115+00:00",
+    "title": "Hackers Use Fake FedEx Invoices to Deploy Sirius Backdoor and Evade Windows Security"
+  },
+  "https://gbhackers.com/alibabas-qwen-ai-model-attempts-to-upload-files-to-china/": {
+    "ts": "2026-10-27T23:41:15.540491+00:00",
+    "title": "Alibaba\u2019s Qwen AI Model Attempts to Upload Files to China While Performing Cybersecurity Tasks"
+  },
+  "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html": {
+    "ts": "2026-10-27T23:41:15.540502+00:00",
+    "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections"
+  },
+  "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/": {
+    "ts": "2026-10-27T23:41:15.540505+00:00",
+    "title": "Energy giant ENGIE discloses data breach affecting customers"
+  },
+  "https://cybersecuritynews.com/apple-ios-27-2-released/": {
+    "ts": "2026-10-27T23:41:15.540507+00:00",
+    "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE"
+  },
+  "https://gbhackers.com/dreamhost-security-incident-forces-password-resets/": {
+    "ts": "2026-10-27T23:41:15.540509+00:00",
+    "title": "DreamHost Security Incident Forces Password Resets for Email and FTP/SFTP Accounts"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/": {
+    "ts": "2026-10-27T23:41:15.657695+00:00",
+    "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks"
   }
 }
