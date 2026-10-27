@@ -1,4 +1,45 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+      "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Tricks from the Past deployed via signed ChatGPT and Claude binaries",
+      "url": "https://research.checkpoint.com/2026/tricks-from-the-past-deployed-via-signed-chatgpt-and-claude-binaries/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Abuse Signed ChatGPT and Claude Binaries to Deploy Malware Through Fake GitHub Downloads",
+      "url": "https://cybersecuritynews.com/fake-github-chatgpt-claude-malware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "An insecure neighbor: how a vulnerability chain led to an isolation bypass in cloud infrastructure",
+      "url": "https://securelist.com/cloud-infrastructure-isolation-bypass/121609/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "September 2026: FBI Breach, Clop Hijack & IDScan Leak",
+      "url": "https://socradar.io/blog/major-cyber-attacks-september-2026/"
+    },
+    {
+      "category": "new_technique",
+      "title": "PHP2Shell Vulnerabilities Pose Emerging Threat to Internet-Facing Systems \u2013 Active IOCs",
+      "url": "https://rewterz.com/threat-advisory/php2shell-vulnerabilities-pose-emerging-threat-to-internet-facing-systems-active-iocs"
+    },
+    {
+      "category": "new_technique",
+      "title": "Attackers Take Control of Dahua Cameras and Video Recorders Via Easy4IP",
+      "url": "https://securityaffairs.com/201827/hacking/attackers-take-control-of-dahua-cameras-and-video-recorders-via-easy4ip.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+      "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html"
+    }
+  ],
   "last_sent_date": "2026-10-27"
 }

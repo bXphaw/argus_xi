@@ -24722,5 +24722,125 @@
   "https://cybersecuritynews.com/claude-code-finds-deleted-photos/": {
     "ts": "2026-10-27T07:33:59.750375+00:00",
     "title": "Claude Code Reportedly Finds 214,856 Deleted Photos and Videos Hidden on Android Phone"
+  },
+  "https://securityaffairs.com/201840/security/u-s-cisa-adds-php-flaws-php2shell-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-10-27T14:11:34.421200+00:00",
+    "title": "U.S. CISA adds PHP flaws PHP2Shell to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html": {
+    "ts": "2026-10-27T14:11:37.033185+00:00",
+    "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens"
+  },
+  "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/": {
+    "ts": "2026-10-27T14:13:38.300114+00:00",
+    "title": "Tailscale warns of SSH flaws allowing root privilege escalation"
+  },
+  "https://research.checkpoint.com/2026/tricks-from-the-past-deployed-via-signed-chatgpt-and-claude-binaries/": {
+    "ts": "2026-10-27T14:13:38.447195+00:00",
+    "title": "Tricks from the Past deployed via signed ChatGPT and Claude binaries"
+  },
+  "https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/": {
+    "ts": "2026-10-27T14:13:38.447217+00:00",
+    "title": "From federal SOCs to Talos: Ryan Fetterman on practical security research"
+  },
+  "https://cofense.com/blog/locked-and-loaded-phishing-through-fake-bids-and-protected-documents": {
+    "ts": "2026-10-27T14:13:38.447220+00:00",
+    "title": "Locked and Loaded: Phishing through Fake Bids and Protected Documents"
+  },
+  "https://cybersecuritynews.com/fake-github-chatgpt-claude-malware/": {
+    "ts": "2026-10-27T14:13:38.583597+00:00",
+    "title": "Hackers Abuse Signed ChatGPT and Claude Binaries to Deploy Malware Through Fake GitHub Downloads"
+  },
+  "https://gbhackers.com/sirius-backdoor-variant/": {
+    "ts": "2026-10-27T14:13:38.718828+00:00",
+    "title": "New Sirius Backdoor Hides Inside Windows Processes to Steal Passwords and Evade Detection"
+  },
+  "https://www.helpnetsecurity.com/2026/10/27/university-of-new-mexico-hospitals-cyberattack/": {
+    "ts": "2026-10-27T14:13:38.855944+00:00",
+    "title": "Cyberattack disrupts University of New Mexico hospitals, extortion group claims attack"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/10/artificial-intimacy-love-and-lies-in-the-age-of-ai": {
+    "ts": "2026-10-27T14:13:39.004325+00:00",
+    "title": "Artificial Intimacy: Love and lies in the age of AI"
+  },
+  "https://www.rapid7.com/blog/post/pt-scim-simplifies-user-access-management-uam-command-platform": {
+    "ts": "2026-10-27T14:13:39.147478+00:00",
+    "title": "Simplify User Access Management with SCIM on Rapid7 Command Platform"
+  },
+  "https://rewterz.com/threat-advisory/php-discloses-new-code-execution-vulnerability-following-php2shell-patches": {
+    "ts": "2026-10-27T14:13:39.287506+00:00",
+    "title": "PHP Discloses New Code Execution Vulnerability Following PHP2Shell Patches"
+  },
+  "https://securelist.com/cloud-infrastructure-isolation-bypass/121609/": {
+    "ts": "2026-10-27T14:13:39.424793+00:00",
+    "title": "An insecure neighbor: how a vulnerability chain led to an isolation bypass in cloud infrastructure"
+  },
+  "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/": {
+    "ts": "2026-10-27T14:13:39.424814+00:00",
+    "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk"
+  },
+  "https://www.sekoia.com/blog/self-hosted-soc-platform-principles": {
+    "ts": "2026-10-27T14:13:39.424816+00:00",
+    "title": "Self-Hosted SOC Platforms Can Keep Pace With Modern Threats"
+  },
+  "https://www.silentpush.com/news/silent-push-abstract-security-integration/?utm_source=rss&utm_medium=rss&utm_campaign=silent-push-abstract-security-integration": {
+    "ts": "2026-10-27T14:13:39.424819+00:00",
+    "title": "Silent Push Now Runs Inside Abstract Security"
+  },
+  "https://socradar.io/blog/major-cyber-attacks-september-2026/": {
+    "ts": "2026-10-27T14:13:39.560269+00:00",
+    "title": "September 2026: FBI Breach, Clop Hijack & IDScan Leak"
+  },
+  "https://www.theregister.com/security/2026/10/27/microsoft-releases-out-of-band-windows-fixes-with-certificate-updates/5305637": {
+    "ts": "2026-10-27T14:13:39.695689+00:00",
+    "title": "Microsoft releases out-of-band Windows fixes with certificate updates"
+  },
+  "https://threatmon.io/patched-not-over-php2shell-exploits-keep-spreading-underground/": {
+    "ts": "2026-10-27T14:13:39.831537+00:00",
+    "title": "Patched, Not Over: PHP2Shell Exploits Keep Spreading Underground"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/": {
+    "ts": "2026-10-27T14:13:39.979023+00:00",
+    "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest"
+  },
+  "https://cybersecuritynews.com/hashicorp-consul-kubernetes-vulnerability/": {
+    "ts": "2026-10-27T14:13:40.121971+00:00",
+    "title": "Critical HashiCorp Consul Kubernetes Flaw Allows Attackers to Gain Elevated Privileges"
+  },
+  "https://gbhackers.com/ai-pentesting-panels/": {
+    "ts": "2026-10-27T14:13:40.261206+00:00",
+    "title": "Hackers Compromise 17 Exposed AI Pentesting Panels to Deploy Malware and Steal Credentials"
+  },
+  "https://www.helpnetsecurity.com/2026/10/27/cisa-2030-cyber-resilience-strategy/": {
+    "ts": "2026-10-27T14:13:40.261226+00:00",
+    "title": "CISA lays out plan to push cyber adversaries out of US critical infrastructure"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/the-webs-having-a-rough-week-heres-how-to-browse-safely": {
+    "ts": "2026-10-27T14:13:40.261229+00:00",
+    "title": "The web\u2019s having a rough week. Here\u2019s how to browse safely"
+  },
+  "https://rewterz.com/threat-advisory/php2shell-vulnerabilities-pose-emerging-threat-to-internet-facing-systems-active-iocs": {
+    "ts": "2026-10-27T14:13:40.396482+00:00",
+    "title": "PHP2Shell Vulnerabilities Pose Emerging Threat to Internet-Facing Systems \u2013 Active IOCs"
+  },
+  "https://securityaffairs.com/201827/hacking/attackers-take-control-of-dahua-cameras-and-video-recorders-via-easy4ip.html": {
+    "ts": "2026-10-27T14:13:40.531906+00:00",
+    "title": "Attackers Take Control of Dahua Cameras and Video Recorders Via Easy4IP"
+  },
+  "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/": {
+    "ts": "2026-10-27T14:13:40.531927+00:00",
+    "title": "HPE Patches Dozens of Critical Flaws in Networking Products"
+  },
+  "https://socradar.io/blog/australia-cyber-threat-report-2025-26-analysis/": {
+    "ts": "2026-10-27T14:13:40.531930+00:00",
+    "title": "Australia\u2019s Annual Cyber Threat Report 2025-26 Shows Cyber Incidents Up 20%"
+  },
+  "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html": {
+    "ts": "2026-10-27T14:13:40.672906+00:00",
+    "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key"
+  },
+  "https://www.theregister.com/cyber-crime/2026/10/27/attack-on-email-hosting-provider-for-german-far-right-party-afd-exposed-345k-accounts/5305660": {
+    "ts": "2026-10-27T14:13:40.672925+00:00",
+    "title": "Attack on email hosting provider for German far right party AfD exposed 345k accounts"
   }
 }
