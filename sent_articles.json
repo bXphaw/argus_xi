@@ -25090,5 +25090,125 @@
   "https://asec.ahnlab.com/en/96155/": {
     "ts": "2026-10-28T04:49:45.587178+00:00",
     "title": "Security Issues in the Korean & Global Financial Sector in September 2026"
+  },
+  "https://asec.ahnlab.com/en/96180/": {
+    "ts": "2026-10-28T11:10:27.851773+00:00",
+    "title": "Ransom & Dark Web Issues Week 5, October 2026"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/": {
+    "ts": "2026-10-28T11:10:28.373550+00:00",
+    "title": "CISA warns of hackers now exploiting critical Node2Shell flaw"
+  },
+  "https://cybersecuritynews.com/camera-management-software/": {
+    "ts": "2026-10-28T11:10:29.570063+00:00",
+    "title": "Hackers Compromise Camera Management Software to Deploy Malware on Windows Computers"
+  },
+  "https://cyble.com/blog/hijacked-pbx-to-stolen-trunk-inj3ctor3s-campaign/": {
+    "ts": "2026-10-28T11:10:38.788748+00:00",
+    "title": "From Hijacked PBX to Stolen Trunk: INJ3CTOR3\u2019s Campaign Evolves"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature": {
+    "ts": "2026-10-28T11:10:38.788769+00:00",
+    "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature"
+  },
+  "https://gbhackers.com/gmo-internet-faces-ransomware/": {
+    "ts": "2026-10-28T11:10:38.930913+00:00",
+    "title": "Japan\u2019s GMO Internet Warns Customers to Unplug PCs as Hackers Threaten Ransomware"
+  },
+  "https://www.group-ib.com/blog/frost-radar-2026-preemptive-security/": {
+    "ts": "2026-10-28T11:10:39.073196+00:00",
+    "title": "Frost Radar 2026: Enterprise Risk and Path to Preemptive Security"
+  },
+  "https://www.helpnetsecurity.com/2026/10/28/sony-network-communications-data-breach-so-net/": {
+    "ts": "2026-10-28T11:10:39.213268+00:00",
+    "title": "Data breach at Sony-owned internet provider compromises 2.6 million customer records"
+  },
+  "https://www.morphisec.com/blog/php2shell-is-hitting-windows-servers-in-the-wild-we-stopped-it/": {
+    "ts": "2026-10-28T11:10:45.372531+00:00",
+    "title": "PHP2Shell Is Hitting Windows Servers in the Wild. We Stopped It."
+  },
+  "https://securelist.com/intelbras-camera-vulnerability/121131/": {
+    "ts": "2026-10-28T11:10:45.507103+00:00",
+    "title": "Millions of security cameras at risk: DoS vulnerability in Intelbras devices"
+  },
+  "https://securityaffairs.com/201922/security/u-s-cisa-adds-google-brotli-and-adobe-commerce-and-magento-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-10-28T11:10:45.642299+00:00",
+    "title": "U.S. CISA adds Google Brotli\u00a0and Adobe Commerce and Magento flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/": {
+    "ts": "2026-10-28T11:10:45.642314+00:00",
+    "title": "Long-Hidden Flaws Patched in EPICS Research Facility Control Software"
+  },
+  "https://www.sekoia.com/blog/php2shell-was-exploited-before-the-patch-expect-more-of-it": {
+    "ts": "2026-10-28T11:10:45.642345+00:00",
+    "title": "PHP2Shell Was Exploited Before the Patch"
+  },
+  "https://socradar.io/blog/n0n-ransomware-ai-assisted-extortion/": {
+    "ts": "2026-10-28T11:10:49.878762+00:00",
+    "title": "n0n Ransomware: Inside an AI-Assisted Extortion Operation"
+  },
+  "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html": {
+    "ts": "2026-10-28T11:10:50.026629+00:00",
+    "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits"
+  },
+  "https://threatmon.io/ccds-c2-infrastructure-and-payload-analysis/": {
+    "ts": "2026-10-28T11:10:50.160878+00:00",
+    "title": "CCDS C2: Infrastructure and Payload Analysis"
+  },
+  "https://asec.ahnlab.com/en/96183/": {
+    "ts": "2026-10-28T11:10:51.319474+00:00",
+    "title": "September 2026 Infostealer Trend Report"
+  },
+  "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/": {
+    "ts": "2026-10-28T11:10:51.453406+00:00",
+    "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison"
+  },
+  "https://cybersecuritynews.com/oracle-ebs-rce-exploited/": {
+    "ts": "2026-10-28T11:10:51.591086+00:00",
+    "title": "Hackers Actively Exploiting New Oracle EBS RCE Vulnerability"
+  },
+  "https://gbhackers.com/camera-software-hijacking/": {
+    "ts": "2026-10-28T11:10:51.731967+00:00",
+    "title": "Hackers Hijack Camera Management Software to Deploy Reverse Shells and Hidden Windows Malware"
+  },
+  "https://www.group-ib.com/blog/cyberdakait-seven-android-trojans-indian-banking/": {
+    "ts": "2026-10-28T11:10:51.867491+00:00",
+    "title": "False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps"
+  },
+  "https://www.helpnetsecurity.com/2026/10/28/cisa-scubagear-scubagoggles-update/": {
+    "ts": "2026-10-28T11:10:51.867509+00:00",
+    "title": "CISA updates ScubaGear and ScubaGoggles, and says Microsoft 365 checks get faster"
+  },
+  "https://securityaffairs.com/201913/ai/three-japan-focused-cyberattacks-show-how-hackers-use-ai.html": {
+    "ts": "2026-10-28T11:10:52.001391+00:00",
+    "title": "Three Japan-Focused Cyberattacks Show How Hackers Use AI"
+  },
+  "https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/": {
+    "ts": "2026-10-28T11:10:52.001408+00:00",
+    "title": "Nobody Trusts the Security Questionnaire. We Rely on It Anyway."
+  },
+  "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html": {
+    "ts": "2026-10-28T11:10:52.001411+00:00",
+    "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering"
+  },
+  "https://cybersecuritynews.com/fortibleed-2-0-exposes-vpn-credentials/": {
+    "ts": "2026-10-28T11:10:52.136312+00:00",
+    "title": "FortiBleed 2.0 Reveals Thousands of Fortinet VPN and Active Directory Credentials in Exposed Configurations"
+  },
+  "https://gbhackers.com/critical-uefi-firmware-flaw-allows-attackers-to-execute-malicious-code-before-os-boots/": {
+    "ts": "2026-10-28T11:10:52.280062+00:00",
+    "title": "Critical UEFI Firmware Flaw Allows Attackers to Execute Malicious Code Before OS Boots"
+  },
+  "https://www.helpnetsecurity.com/2026/10/28/brian-blakley-bellini-capital-ai-security-governance/": {
+    "ts": "2026-10-28T11:10:57.419775+00:00",
+    "title": "Bellini Capital CISO on AI security governance and the limits of patching faster"
+  },
+  "https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/": {
+    "ts": "2026-10-28T11:10:57.553129+00:00",
+    "title": "Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise"
+  },
+  "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html": {
+    "ts": "2026-10-28T11:10:57.688448+00:00",
+    "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach"
   }
 }
