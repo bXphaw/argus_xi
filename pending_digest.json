@@ -44,6 +44,56 @@
       "category": "new_technique",
       "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
       "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN",
+      "url": "https://blog.talosintelligence.com/uat-11473-keydrift/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+      "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github"
+    },
+    {
+      "category": "new_technique",
+      "title": "Anthropic\u2019s Claude Chains One-Click and Zero-Click Exploits to Bypass Chrome, Android and Linux Security",
+      "url": "https://gbhackers.com/anthropics-claude-chains-one-click-and-zero-click-exploits/"
+    },
+    {
+      "category": "new_technique",
+      "title": "TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices",
+      "url": "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/"
+    },
+    {
+      "category": "new_technique",
+      "title": "China-Linked Hackers Exploit PHP2Shell to Root Firewalls",
+      "url": "https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+      "url": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html"
+    },
+    {
+      "category": "malware_ios",
+      "title": "PropellerAds: Why Modern Malware Delivery Starts Before the Payload",
+      "url": "https://cybersecuritynews.com/propellerads-why-modern-malware-delivery-starts-before-the-payload/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Tailscale fixes SSH flaws allowing lateral movement within tailnets",
+      "url": "https://www.helpnetsecurity.com/2026/10/28/tailscale-fixes-tailworm-ssh-flaws/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
+      "url": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
+      "url": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html"
     }
   ],
   "last_sent_date": "2026-10-28"
