@@ -89,6 +89,11 @@
       "category": "new_technique",
       "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "RATatouille: Today\u2019s Special: Impersonating Companies in Korea, Payments in Cryptocurrency",
+      "url": "https://asec.ahnlab.com/en/96151/"
     }
   ],
   "last_sent_date": "2026-10-27"
