@@ -1,20 +1,4 @@
 {
-  "https://xkcd.com/3291/": {
-    "ts": "2026-08-29T18:04:09.845543+00:00",
-    "title": null
-  },
-  "https://xkcd.com/3290/": {
-    "ts": "2026-08-29T18:04:09.905447+00:00",
-    "title": null
-  },
-  "https://xkcd.com/3289/": {
-    "ts": "2026-08-29T18:04:09.953360+00:00",
-    "title": null
-  },
-  "https://xkcd.com/3288/": {
-    "ts": "2026-08-29T18:04:10.005912+00:00",
-    "title": null
-  },
   "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": {
     "ts": "2026-08-29T18:59:35.159215+00:00",
     "title": null
@@ -25210,5 +25194,125 @@
   "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html": {
     "ts": "2026-10-28T11:10:57.688448+00:00",
     "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach"
+  },
+  "https://gbhackers.com/offsec-launches-free-php2shell-lab-following-critical-vulnerability-discovery/": {
+    "ts": "2026-10-28T18:06:37.221828+00:00",
+    "title": "OffSec Launches Free PHP2Shell Lab Following Critical Vulnerability Discovery"
+  },
+  "https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/": {
+    "ts": "2026-10-28T18:06:43.847563+00:00",
+    "title": "Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison"
+  },
+  "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/": {
+    "ts": "2026-10-28T18:08:58.302268+00:00",
+    "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/": {
+    "ts": "2026-10-28T18:08:58.423179+00:00",
+    "title": "CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies"
+  },
+  "https://cybersecuritynews.com/offsec-launches-free-php2shell-lab-following-critical-vulnerability-discovery/": {
+    "ts": "2026-10-28T18:08:58.541017+00:00",
+    "title": "OffSec Launches Free PHP2Shell Lab Following Critical Vulnerability Discovery"
+  },
+  "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials": {
+    "ts": "2026-10-28T18:08:58.651561+00:00",
+    "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots"
+  },
+  "https://www.helpnetsecurity.com/2026/10/28/github-package-firewall-npm/": {
+    "ts": "2026-10-28T18:08:58.651581+00:00",
+    "title": "GitHub\u2019s npm package firewall can block brand-new versions before they install"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/10/banks-are-blocking-ai-agents-from-customer-accounts": {
+    "ts": "2026-10-28T18:08:58.651584+00:00",
+    "title": "Banks are blocking AI agents from customer accounts"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/": {
+    "ts": "2026-10-28T18:08:58.651587+00:00",
+    "title": "The CISO\u2019s evolving role: Protecting and defending in the agentic era"
+  },
+  "https://www.morphisec.com/blog/from-malware-to-autonomous-agents-the-next-threat-evolution/": {
+    "ts": "2026-10-28T18:08:58.651589+00:00",
+    "title": "From Malware to Autonomous Agents: The Next Threat Evolution"
+  },
+  "https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/": {
+    "ts": "2026-10-28T18:08:58.768526+00:00",
+    "title": "Unwrapping Retail Peak Season Cyber Threats"
+  },
+  "https://www.rapid7.com/blog/post/pt-insightgovcloud-supports-bod-22-01-compliance": {
+    "ts": "2026-10-28T18:08:58.768547+00:00",
+    "title": "How Rapid7 InsightGovCloud Supports BOD 22-01 Compliance"
+  },
+  "https://securityaffairs.com/201947/intelligence/ads-or-surveillance-researchers-flag-suspicious-targeting-of-starlink-users.html": {
+    "ts": "2026-10-28T18:08:58.898015+00:00",
+    "title": "Ads or Surveillance? Researchers Flag Suspicious Targeting of Starlink Users"
+  },
+  "https://www.sentinelone.com/labs/labscon26-replay-keynote-a-sober-analysis-of-ai-impact/": {
+    "ts": "2026-10-28T18:08:59.024593+00:00",
+    "title": "LABScon26 Replay | Keynote: A Sober Analysis of AI Impact"
+  },
+  "https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation": {
+    "ts": "2026-10-28T18:08:59.138006+00:00",
+    "title": "Node2Shell (CVE-2026-111497) in active exploitation"
+  },
+  "https://www.security.com/product-insights/faster-every-time-scaling-enterprise-dlp-discovery": {
+    "ts": "2026-10-28T18:08:59.249782+00:00",
+    "title": "Faster Every Time: Scaling Enterprise DLP Discovery"
+  },
+  "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html": {
+    "ts": "2026-10-28T18:08:59.365269+00:00",
+    "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S."
+  },
+  "https://www.theregister.com/cyber-crime/2026/10/28/serial-ransomware-crook-gets-70-months-behind-bars-for-nefilim-hive-roles/5306050": {
+    "ts": "2026-10-28T18:08:59.365300+00:00",
+    "title": "Serial ransomware crook gets 70 months behind bars for Nefilim, Hive roles"
+  },
+  "https://threatmon.io/litellm-1-107-0-from-startup-hooks-to-credential-theft/": {
+    "ts": "2026-10-28T18:08:59.482819+00:00",
+    "title": "LiteLLM 1.107.0: From Startup Hooks to Credential Theft"
+  },
+  "https://www.zscaler.com/blogs/security-research/cve-2026-111497-node2shell-http2shell-vulnerability-may-allow-rce": {
+    "ts": "2026-10-28T18:08:59.606730+00:00",
+    "title": "CVE-2026-111497: Node2Shell / HTTP2Shell Vulnerability May Allow RCE"
+  },
+  "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/": {
+    "ts": "2026-10-28T18:08:59.723013+00:00",
+    "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework"
+  },
+  "https://cybersecuritynews.com/0-click-flaw-in-telegram-stickers/": {
+    "ts": "2026-10-28T18:08:59.849111+00:00",
+    "title": "Researcher Uncovers New 0-click Flaw in Telegram Stickers and Chained Them to Run Code on iOS"
+  },
+  "https://gbhackers.com/cryptocurrency-wallets-targeted/": {
+    "ts": "2026-10-28T18:08:59.967914+00:00",
+    "title": "Hackers Use Fake Phantom, Jupiter, and Bitget Firefox Extensions to Target Cryptocurrency Wallets"
+  },
+  "https://www.helpnetsecurity.com/2026/10/28/exaforce-trust-in-ai-security/": {
+    "ts": "2026-10-28T18:09:00.099910+00:00",
+    "title": "I underestimated how fast security teams would trust AI to act in the SOC"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/10/chrome-and-firefox-updates-fix-serious-security-flaws-install-them-now": {
+    "ts": "2026-10-28T18:09:00.232944+00:00",
+    "title": "Chrome and Firefox updates fix serious security flaws. Install them now"
+  },
+  "https://securityaffairs.com/201928/security/cve-2026-97631-16-year-old-uefi-flaw-threatens-servers.html": {
+    "ts": "2026-10-28T18:09:00.360911+00:00",
+    "title": "CVE-2026-97631: 16-Year-Old UEFI Flaw Threatens Servers"
+  },
+  "https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/": {
+    "ts": "2026-10-28T18:09:00.486762+00:00",
+    "title": "Upwind\u00a0Security Raises\u00a0$400 Million at\u00a0$3.8 Billion Valuation"
+  },
+  "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html": {
+    "ts": "2026-10-28T18:09:00.607621+00:00",
+    "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win"
+  },
+  "https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867": {
+    "ts": "2026-10-28T18:09:00.607644+00:00",
+    "title": "Cisco open sources tool for detecting AI agents on hacking sprees"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/": {
+    "ts": "2026-10-28T18:09:00.607648+00:00",
+    "title": "Microsoft urges Entra ID admins to migrate users to passkeys"
   }
 }

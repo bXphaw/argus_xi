@@ -1,4 +1,50 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "threat_actor",
+      "title": "CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies",
+      "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/"
+    },
+    {
+      "category": "new_technique",
+      "title": "OffSec Launches Free PHP2Shell Lab Following Critical Vulnerability Discovery",
+      "url": "https://cybersecuritynews.com/offsec-launches-free-php2shell-lab-following-critical-vulnerability-discovery/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
+      "url": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Unwrapping Retail Peak Season Cyber Threats",
+      "url": "https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "LiteLLM 1.107.0: From Startup Hooks to Credential Theft",
+      "url": "https://threatmon.io/litellm-1-107-0-from-startup-hooks-to-credential-theft/"
+    },
+    {
+      "category": "new_technique",
+      "title": "CVE-2026-111497: Node2Shell / HTTP2Shell Vulnerability May Allow RCE",
+      "url": "https://www.zscaler.com/blogs/security-research/cve-2026-111497-node2shell-http2shell-vulnerability-may-allow-rce"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
+      "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Researcher Uncovers New 0-click Flaw in Telegram Stickers and Chained Them to Run Code on iOS",
+      "url": "https://cybersecuritynews.com/0-click-flaw-in-telegram-stickers/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+      "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html"
+    }
+  ],
   "last_sent_date": "2026-10-28"
 }
