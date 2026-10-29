@@ -1,244 +1,4 @@
 {
-  "https://asec.ahnlab.com/en/95171/": {
-    "ts": "2026-08-30T10:25:26.148153+00:00",
-    "title": null
-  },
-  "https://www.bitdefender.com/en-us/blog/labs/fake-xeno-roblox-discord-executor": {
-    "ts": "2026-08-30T10:25:26.214684+00:00",
-    "title": null
-  },
-  "https://research.checkpoint.com/2026/24th-august-threat-intelligence-report/": {
-    "ts": "2026-08-30T10:25:26.273995+00:00",
-    "title": null
-  },
-  "https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/": {
-    "ts": "2026-08-30T10:25:26.274010+00:00",
-    "title": null
-  },
-  "https://www.duskrise.com/2024/01/30/the-bear-and-the-shell-new-campaign-against-russian-opposition/": {
-    "ts": "2026-08-30T10:25:26.334685+00:00",
-    "title": null
-  },
-  "https://cofense.com/blog/understanding-browser-trust-abuse-exploiting-enterprise-s-most-trusted-interface": {
-    "ts": "2026-08-30T10:25:26.394885+00:00",
-    "title": null
-  },
-  "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/": {
-    "ts": "2026-08-30T10:25:26.454490+00:00",
-    "title": null
-  },
-  "https://www.cybereason.com/blog/ttp-briefing-q4-2025": {
-    "ts": "2026-08-30T10:25:26.515984+00:00",
-    "title": null
-  },
-  "https://cyble.com/blog/financial-exposure-cyber-risk-quantification/": {
-    "ts": "2026-08-30T10:25:26.578371+00:00",
-    "title": null
-  },
-  "https://www.darktrace.com/blog/why-trust-is-the-new-attack-surface-darktraces-mid-year-threat-update-2026": {
-    "ts": "2026-08-30T10:25:26.637587+00:00",
-    "title": null
-  },
-  "https://blog.eclecticiq.com/compromising-the-developer": {
-    "ts": "2026-08-30T10:25:26.697977+00:00",
-    "title": null
-  },
-  "https://www.forescout.com/blog/7-things-every-architect-should-know-about-universal-ztna/": {
-    "ts": "2026-08-30T10:25:26.697993+00:00",
-    "title": null
-  },
-  "https://cloud.google.com/blog/topics/threat-intelligence/distinct-clusters-target-individuals-of-interest-to-russia/": {
-    "ts": "2026-08-30T10:25:26.762701+00:00",
-    "title": null
-  },
-  "https://www.group-ib.com/blog/one-adversary-two-outcomes-0027-proof/": {
-    "ts": "2026-08-30T10:25:26.829214+00:00",
-    "title": null
-  },
-  "https://www.helpnetsecurity.com/2026/08/30/week-in-review-compromised-zimbra-servers-previously-patched-citrix-netscaler-flaw-exploited/": {
-    "ts": "2026-08-30T10:25:26.894295+00:00",
-    "title": null
-  },
-  "https://threatresearch.ext.hp.com/hp-wolf-security-threat-insights-report-june-2026/": {
-    "ts": "2026-08-30T10:25:26.953519+00:00",
-    "title": null
-  },
-  "https://www.infoblox.com/blog/threat-intelligence/drop-something-dont-worry-someone-caught-it/": {
-    "ts": "2026-08-30T10:25:27.019039+00:00",
-    "title": null
-  },
-  "https://lab52.io/blog/gru-military-unit-67606/": {
-    "ts": "2026-08-30T10:25:27.079042+00:00",
-    "title": null
-  },
-  "https://www.malwarebytes.com/blog/mobile/2026/08/protect-your-whatsapp-account-with-new-passkey-and-2fa-upgrades": {
-    "ts": "2026-08-30T10:25:27.138438+00:00",
-    "title": null
-  },
-  "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/": {
-    "ts": "2026-08-30T10:25:27.200718+00:00",
-    "title": null
-  },
-  "https://moonlock.com/offerup-scams": {
-    "ts": "2026-08-30T10:25:27.200732+00:00",
-    "title": null
-  },
-  "https://www.morphisec.com/blog/when-your-ai-coding-assistant-becomes-the-attack-the-hades-supply-chain-campaign/": {
-    "ts": "2026-08-30T10:25:27.268138+00:00",
-    "title": null
-  },
-  "https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/": {
-    "ts": "2026-08-30T10:25:27.268152+00:00",
-    "title": null
-  },
-  "https://permiso.io/blog/introducing-the-risk-score-engine": {
-    "ts": "2026-08-30T10:25:27.268156+00:00",
-    "title": null
-  },
-  "https://blog.qualys.com/category/qualys-insights": {
-    "ts": "2026-08-30T10:25:27.268160+00:00",
-    "title": null
-  },
-  "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-payloads-exploits-scanners": {
-    "ts": "2026-08-30T10:25:27.329831+00:00",
-    "title": null
-  },
-  "https://www.recordedfuture.com/research/bluedelta-targets-with-hookedge": {
-    "ts": "2026-08-30T10:25:27.391823+00:00",
-    "title": null
-  },
-  "https://rewterz.com/blog/what-is-detection-engineering-ai-improve-threat-detection": {
-    "ts": "2026-08-30T10:25:27.454419+00:00",
-    "title": null
-  },
-  "https://securelist.com/industrial-threat-report-q2-2026/121159/": {
-    "ts": "2026-08-30T10:25:27.530283+00:00",
-    "title": null
-  },
-  "https://securityaffairs.com/198124/security/security-affairs-newsletter-round-592-by-pierluigi-paganini-international-edition.html": {
-    "ts": "2026-08-30T10:25:27.589543+00:00",
-    "title": null
-  },
-  "https://asec.ahnlab.com/en/95141/": {
-    "ts": "2026-08-30T15:18:19.445671+00:00",
-    "title": "Ransom & Dark Web Issues Week 4, August 2026"
-  },
-  "https://www.bitdefender.com/en-us/blog/labs/fake-shops-europe-samsung-world-cup-scams": {
-    "ts": "2026-08-30T15:18:19.445690+00:00",
-    "title": "Fake shops target shoppers across Europe with fake Samsung deals, counterfeit goods and World Cup scams"
-  },
-  "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/": {
-    "ts": "2026-08-30T15:18:19.787032+00:00",
-    "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data"
-  },
-  "https://research.checkpoint.com/2026/btr-reforged-weaponizing-defenders-remediation-driver-as-a-kernel-operation-primitive/": {
-    "ts": "2026-08-30T15:18:19.992815+00:00",
-    "title": "BTR Reforged: Weaponizing Defender\u2019s Remediation Driver as a Kernel Operation Primitive"
-  },
-  "https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/": {
-    "ts": "2026-08-30T15:18:19.992831+00:00",
-    "title": "JavaScript obfuscation: From party trick to phishing kit"
-  },
-  "https://www.duskrise.com/2023/10/25/the-duck-is-hiring-in-italy-ducktail-spread-via-compromised-linkedin-profiles/": {
-    "ts": "2026-08-30T15:18:20.196814+00:00",
-    "title": "The Duck is Hiring in Italy: DUCKTAIL Spread via Compromised LinkedIn Profiles"
-  },
-  "https://cofense.com/blog/phonescams-casting-a-wide-net-in-an-orchard-of-low-hanging-fruit": {
-    "ts": "2026-08-30T15:18:20.403574+00:00",
-    "title": "Phonescams: Casting a Wide Net in an Orchard of Low-Hanging Fruit"
-  },
-  "https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/": {
-    "ts": "2026-08-30T15:18:20.621252+00:00",
-    "title": "Benchmaxxing: When the Benchmark Becomes the Target"
-  },
-  "https://cybersecuritynews.com/openai-models-ends-with-cursor/": {
-    "ts": "2026-08-30T15:18:20.816182+00:00",
-    "title": "OpenAI Is Pulling Its AI Models From Cursor Following SpaceX Acquisition"
-  },
-  "https://www.cybereason.com/blog/fake-installer-valleyrat": {
-    "ts": "2026-08-30T15:18:21.031554+00:00",
-    "title": "Fake Installer: Ultimately, ValleyRAT infection"
-  },
-  "https://cyble.com/blog/ransomware-attack-vectors-endpoint-blind-spots/": {
-    "ts": "2026-08-30T15:18:21.031566+00:00",
-    "title": "Endpoint Blind Spots: The 5 Places Ransomware Hides Before It Detonates"
-  },
-  "https://www.darktrace.com/blog/testing-a-prompt-injection-attack-against-an-enterprise-ai-agent": {
-    "ts": "2026-08-30T15:18:21.235567+00:00",
-    "title": "Testing a Prompt injection Attack Against an Enterprise AI Agent"
-  },
-  "https://blog.eclecticiq.com/intelligence-center-3.8": {
-    "ts": "2026-08-30T15:18:21.235582+00:00",
-    "title": "EclecticIQ Intelligence Center 3.8: Built for the way security teams are actually working now"
-  },
-  "https://www.forescout.com/blog/ot-security-analysis-exposed-devices-attacked-in-us-water-systems/": {
-    "ts": "2026-08-30T15:18:21.235585+00:00",
-    "title": "OT Security Analysis:  Exposed Devices Attacked in US Water Systems"
-  },
-  "https://gbhackers.com/hackers-compromise-tanstack-query-npm-package/": {
-    "ts": "2026-08-30T15:18:21.444957+00:00",
-    "title": "Hackers Compromise TanStack Query npm Package to Steal Developer Credentials"
-  },
-  "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/": {
-    "ts": "2026-08-30T15:18:21.659673+00:00",
-    "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review"
-  },
-  "https://www.group-ib.com/blog/tortoiseshell-apt-toolset-infrastructure/": {
-    "ts": "2026-08-30T15:18:21.858125+00:00",
-    "title": "Tortoiseshell: New Toolset and Operational Infrastructure Exposed"
-  },
-  "https://www.helpnetsecurity.com/2026/08/28/north-korean-remote-workers-jobs-sales-and-marketing/": {
-    "ts": "2026-08-30T15:18:22.074713+00:00",
-    "title": "North Korean remote workers are broadening their job hunt beyond IT"
-  },
-  "https://threatresearch.ext.hp.com/the-anatomy-of-a-destructive-attack/": {
-    "ts": "2026-08-30T15:18:22.287184+00:00",
-    "title": "The Anatomy of a Destructive Attack"
-  },
-  "https://www.infoblox.com/blog/threat-intelligence/7-million-in-expired-domains-fuel-a-streaming-empire-with-a-malware-secret/": {
-    "ts": "2026-08-30T15:18:22.492867+00:00",
-    "title": "$7 Million in Expired Domains Fuel a Streaming Empire with a Malware Secret"
-  },
-  "https://lab52.io/blog/from-china-with-tenderness/": {
-    "ts": "2026-08-30T15:18:22.492884+00:00",
-    "title": "From China with tenderness"
-  },
-  "https://www.malwarebytes.com/blog/ai/2026/08/the-ai-agent-swarm-that-attacked-hugging-face-is-a-warning-for-the-future": {
-    "ts": "2026-08-30T15:18:22.699153+00:00",
-    "title": "The AI agent swarm that attacked Hugging Face is a warning for the future"
-  },
-  "https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/": {
-    "ts": "2026-08-30T15:18:22.699169+00:00",
-    "title": "\u200b\u200b\u200b\u200b\u200b\u200bWhat\u2019s new in Microsoft Security: August 2026"
-  },
-  "https://moonlock.com/amnesiastealer-hijacks-chromium-browsers": {
-    "ts": "2026-08-30T15:18:22.896860+00:00",
-    "title": "New Mac malware AmnesiaStealer hijacks Chromium browsers"
-  },
-  "https://www.morphisec.com/blog/the-rise-of-self-learning-malware-when-threats-rewrite-themselves-faster-than-you-can-detect-them/": {
-    "ts": "2026-08-30T15:18:23.110247+00:00",
-    "title": "The Rise of Self-Learning Malware: When Threats Rewrite Themselves Faster Than You Can Detect Them"
-  },
-  "https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/": {
-    "ts": "2026-08-30T15:18:23.325819+00:00",
-    "title": "The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution"
-  },
-  "https://permiso.io/blog/why-identity-security-needs-risk-scoring": {
-    "ts": "2026-08-30T15:18:23.525948+00:00",
-    "title": "You Can't Manage What You Can't Score: Why Identity Security Needs Real Risk Measurement"
-  },
-  "https://blog.qualys.com/category/product-tech": {
-    "ts": "2026-08-30T15:18:23.741354+00:00",
-    "title": "When an AI Agent Turned Attacker: What Qualys Sees Across Every Phase of the Hugging Face Kubernetes Intrusion"
-  },
-  "https://www.rapid7.com/blog/post/etr-papercut-ng-mf-critical-zero-day-exploited-in-the-wild": {
-    "ts": "2026-08-30T15:18:23.942904+00:00",
-    "title": "PaperCut NG/MF Critical Zero-Day Exploited in the Wild"
-  },
-  "https://www.recordedfuture.com/blog/ai-alert-filtering": {
-    "ts": "2026-08-30T15:18:24.149181+00:00",
-    "title": "Recorded Future Launches AI Alert Filtering"
-  },
   "https://asec.ahnlab.com/en/95112/": {
     "ts": "2026-08-30T19:13:51.805894+00:00",
     "title": "July 2026 Threat Trend Report on Ransomware"
@@ -25082,5 +24842,125 @@
   "https://www.helpnetsecurity.com/2026/10/29/cis-k-12-cybersecurity/": {
     "ts": "2026-10-29T09:40:20.392593+00:00",
     "title": "Stolen staff logins are spreading attacks between K-12 school districts"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/malicious-firefox-extensions-impersonate-popular-crypto-wallets": {
+    "ts": "2026-10-29T16:45:33.518827+00:00",
+    "title": "Malicious Firefox extensions impersonate popular crypto wallets"
+  },
+  "https://securityaffairs.com/202050/hacking/u-s-cisa-adds-linux-kernel-and-broadcom-vmware-esx-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-10-29T16:45:34.866019+00:00",
+    "title": "U.S. CISA adds Linux Kernel\u00a0and Broadcom VMWare ESX\u00a0 flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/": {
+    "ts": "2026-10-29T16:47:56.348220+00:00",
+    "title": "Chrome extensions with 13.4 million installs caught hijacking searches"
+  },
+  "https://research.checkpoint.com/2026/coheres-qwen-story-looks-more-like-model-jaggedness/": {
+    "ts": "2026-10-29T16:47:56.348241+00:00",
+    "title": "Cohere\u2019s Qwen Story: Looks More Like Model Jaggedness"
+  },
+  "https://blog.talosintelligence.com/ir-trends-q3-2026/": {
+    "ts": "2026-10-29T16:47:56.396604+00:00",
+    "title": "IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases"
+  },
+  "https://cofense.com/blog/would-your-employees-join-a-fake-anthropic-ai-preview": {
+    "ts": "2026-10-29T16:47:56.396654+00:00",
+    "title": "Would Your Employees Join a Fake Anthropic AI Preview?"
+  },
+  "https://cybersecuritynews.com/8200-ddos-attacks-every-hour/": {
+    "ts": "2026-10-29T16:47:56.396663+00:00",
+    "title": "Hackers Launch 8,200 DDoS Attacks Every Hour, Cloudflare\u2019s Latest Report Reveals"
+  },
+  "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions": {
+    "ts": "2026-10-29T16:47:56.446096+00:00",
+    "title": "Threat Modeling With 4 Simple Questions on a White Board"
+  },
+  "https://gbhackers.com/coruna-ios-exploit-kit-hidden-behind-malicious-ads-targets-crypto-seed-phrases-adex-reports/": {
+    "ts": "2026-10-29T16:47:56.493162+00:00",
+    "title": "Coruna iOS Exploit Kit Hidden Behind Malicious Ads Targets Crypto Seed Phrases, ADEX Reports"
+  },
+  "https://www.helpnetsecurity.com/2026/10/29/php2shell-fragnesia-vmware-esx-zero-day/": {
+    "ts": "2026-10-29T16:47:56.541066+00:00",
+    "title": "Chinese hackers used VMware ESX zero-day; PHP2Shell and Fragnesia chained to root firewalls"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/the-ultra-trail-from-viewer-to-mailer/": {
+    "ts": "2026-10-29T16:47:56.587596+00:00",
+    "title": "The Ultra Trail: From Viewer to Mailer"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/": {
+    "ts": "2026-10-29T16:47:56.636359+00:00",
+    "title": "Tracking AI adoption in North Korean threat actor tradecraft"
+  },
+  "https://www.recordedfuture.com/research/prediction-markets-traffer-teams": {
+    "ts": "2026-10-29T16:47:56.636376+00:00",
+    "title": "Prediction Markets Emerge as a New Vertical for Traffer Teams"
+  },
+  "https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/": {
+    "ts": "2026-10-29T16:47:56.636380+00:00",
+    "title": "Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model"
+  },
+  "https://www.sophos.com/en-us/blog/ai-used-in-aur0ra-ransomware-testing-and-execution": {
+    "ts": "2026-10-29T16:47:56.685040+00:00",
+    "title": "AI used in Aur0ra ransomware testing and execution"
+  },
+  "https://www.security.com/threat-intelligence/openai-claude-unauthorized-relays": {
+    "ts": "2026-10-29T16:47:56.732583+00:00",
+    "title": "Sandbox Flipped to \u2018Danger-Full-Access\u2019: Unauthorized AI Relays Create Risk for Organizations"
+  },
+  "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html": {
+    "ts": "2026-10-29T16:47:56.780804+00:00",
+    "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners"
+  },
+  "https://www.theregister.com/security/2026/10/29/belgiums-tax-agency-confirms-cyberattack-pulls-services-offline/5306409": {
+    "ts": "2026-10-29T16:47:56.826938+00:00",
+    "title": "Belgium's tax agency confirms cyberattack, pulls services offline"
+  },
+  "https://threatmon.io/from-webshell-to-proxy-exit-inside-an-exposed-ahsaycbs-operation/": {
+    "ts": "2026-10-29T16:47:56.876812+00:00",
+    "title": "From Webshell to Proxy Exit: Inside an Exposed AhsayCBS Operation"
+  },
+  "https://threats.wiz.io/all-incidents/supply-chain-attack-targeting-litellm": {
+    "ts": "2026-10-29T16:47:56.923288+00:00",
+    "title": "Supply Chain Attack Targeting LiteLLM (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/": {
+    "ts": "2026-10-29T16:47:56.971299+00:00",
+    "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates"
+  },
+  "https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/": {
+    "ts": "2026-10-29T16:47:57.020076+00:00",
+    "title": "NIK C2: The new AI-enabled command-and-control framework"
+  },
+  "https://cybersecuritynews.com/linux-kernel-flaw-root-commands/": {
+    "ts": "2026-10-29T16:47:57.066420+00:00",
+    "title": "Claude AI Exploits Linux Kernel Flaw to Execute Root Commands Without User Interaction"
+  },
+  "https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes": {
+    "ts": "2026-10-29T16:47:57.066436+00:00",
+    "title": "Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes"
+  },
+  "https://gbhackers.com/appviewx-expands-quantum-trust-hub-with-cryptographic-discovery-posture-management-and-remediation/": {
+    "ts": "2026-10-29T16:47:57.066440+00:00",
+    "title": "AppViewX Expands Quantum Trust Hub with Cryptographic Discovery, Posture Management, and Remediation"
+  },
+  "https://www.helpnetsecurity.com/2026/10/29/fake-chatgpt-claude-apps-github-yoba-malware-cryptominer/": {
+    "ts": "2026-10-29T16:47:57.113471+00:00",
+    "title": "Yoba malware hides in fake desktop versions of ChatGPT and Claude"
+  },
+  "https://www.malwarebytes.com/blog/bugs/2026/10/have-an-older-iphone-or-ipad-apple-has-a-security-update-for-you": {
+    "ts": "2026-10-29T16:47:57.113487+00:00",
+    "title": "Have an older iPhone or iPad? Apple has a security update for you"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/": {
+    "ts": "2026-10-29T16:47:57.161782+00:00",
+    "title": "IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment"
+  },
+  "https://securityaffairs.com/202023/intelligence/volt-typhoon-used-silent-train-to-hide-zero-day-attacks.html": {
+    "ts": "2026-10-29T16:47:57.210068+00:00",
+    "title": "Volt Typhoon Used Silent Train to Hide Zero-Day Attacks"
+  },
+  "https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/": {
+    "ts": "2026-10-29T16:47:57.258490+00:00",
+    "title": "How Secure Are US Elections? Voting Machine Risks and\u00a0the Growing Threat of AI"
   }
 }

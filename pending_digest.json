@@ -1,4 +1,40 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
+      "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases",
+      "url": "https://blog.talosintelligence.com/ir-trends-q3-2026/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "AI used in Aur0ra ransomware testing and execution",
+      "url": "https://www.sophos.com/en-us/blog/ai-used-in-aur0ra-ransomware-testing-and-execution"
+    },
+    {
+      "category": "new_technique",
+      "title": "Sandbox Flipped to \u2018Danger-Full-Access\u2019: Unauthorized AI Relays Create Risk for Organizations",
+      "url": "https://www.security.com/threat-intelligence/openai-claude-unauthorized-relays"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+      "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Claude AI Exploits Linux Kernel Flaw to Execute Root Commands Without User Interaction",
+      "url": "https://cybersecuritynews.com/linux-kernel-flaw-root-commands/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Yoba malware hides in fake desktop versions of ChatGPT and Claude",
+      "url": "https://www.helpnetsecurity.com/2026/10/29/fake-chatgpt-claude-apps-github-yoba-malware-cryptominer/"
+    }
+  ],
   "last_sent_date": "2026-10-29"
 }
