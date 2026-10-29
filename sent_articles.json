@@ -1,8 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/": {
-    "ts": "2026-08-30T04:32:22.079344+00:00",
-    "title": null
-  },
   "https://asec.ahnlab.com/en/95171/": {
     "ts": "2026-08-30T10:25:26.148153+00:00",
     "title": null
@@ -25010,5 +25006,81 @@
   "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html": {
     "ts": "2026-10-29T02:22:41.484347+00:00",
     "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges"
+  },
+  "https://asec.ahnlab.com/en/96267/": {
+    "ts": "2026-10-29T09:40:16.927616+00:00",
+    "title": "Node2Shell: Taking Over a Server with a Single Compressed Data File (CVE-2026-111497)"
+  },
+  "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy": {
+    "ts": "2026-10-29T09:40:16.927636+00:00",
+    "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause"
+  },
+  "https://www.group-ib.com/blog/madape-microsoft-device-code-phishing-kit/": {
+    "ts": "2026-10-29T09:40:17.436713+00:00",
+    "title": "MadApe: The Code That Opens the Door"
+  },
+  "https://www.helpnetsecurity.com/2026/10/29/nathan-smolenski-qualys-ai-vulnerability-management/": {
+    "ts": "2026-10-29T09:40:17.436730+00:00",
+    "title": "Qualys CISO on what security teams can do as exploit campaigns grow"
+  },
+  "https://securelist.com/netamloader/121676/": {
+    "ts": "2026-10-29T09:40:17.684201+00:00",
+    "title": "Unknown APT uses NetamLoader to attack a Win10 OS customized for governments in Asia"
+  },
+  "https://securityaffairs.com/201985/data-breach/engie-data-breach-exposes-customer-details-and-energy-contracts.html": {
+    "ts": "2026-10-29T09:40:17.932935+00:00",
+    "title": "ENGIE Data Breach Exposes Customer Details and Energy Contracts"
+  },
+  "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/": {
+    "ts": "2026-10-29T09:40:18.178770+00:00",
+    "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million"
+  },
+  "https://www.sekoia.com/blog/the-future-of-soc-deployment-freedom": {
+    "ts": "2026-10-29T09:40:18.423676+00:00",
+    "title": "The Future Of The SOC Is Deployment Freedom"
+  },
+  "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html": {
+    "ts": "2026-10-29T09:40:18.669896+00:00",
+    "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys"
+  },
+  "https://www.theregister.com/security/2026/10/29/admin-dropped-the-f-bomb-in-a-password-to-show-hackers-who-was-really-1337/5306139": {
+    "ts": "2026-10-29T09:40:18.914963+00:00",
+    "title": "Admin dropped the F-bomb in a password to show hackers who was really 1337"
+  },
+  "https://www.welivesecurity.com/en/business-security/lessons-cybersecurity-black-week/": {
+    "ts": "2026-10-29T09:40:18.914979+00:00",
+    "title": "Lessons from Cybersecurity Black Week"
+  },
+  "https://www.helpnetsecurity.com/2026/10/29/tls-certificate-automation-report/": {
+    "ts": "2026-10-29T09:40:18.914983+00:00",
+    "title": "IT bosses are confident they\u2019ve found the certificates they don\u2019t know about"
+  },
+  "https://securityaffairs.com/202002/cyber-crime/virtualine-domain-seized-but-allegedly-abusive-website-remains-online.html": {
+    "ts": "2026-10-29T09:40:18.914987+00:00",
+    "title": "Virtualine Domain Seized, but Allegedly Abusive Website Remains Online"
+  },
+  "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/": {
+    "ts": "2026-10-29T09:40:19.160432+00:00",
+    "title": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day"
+  },
+  "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html": {
+    "ts": "2026-10-29T09:40:19.406107+00:00",
+    "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility"
+  },
+  "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q2-2026-q3-2026/": {
+    "ts": "2026-10-29T09:40:19.651436+00:00",
+    "title": "ESET APT Activity Report Q2 2026\u2013Q3 2026"
+  },
+  "https://www.helpnetsecurity.com/2026/10/29/itrc-identity-theft-recovery-report/": {
+    "ts": "2026-10-29T09:40:19.896627+00:00",
+    "title": "Shame and sleepless nights haunt scam victims long after the money is gone"
+  },
+  "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html": {
+    "ts": "2026-10-29T09:40:20.143030+00:00",
+    "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces"
+  },
+  "https://www.helpnetsecurity.com/2026/10/29/cis-k-12-cybersecurity/": {
+    "ts": "2026-10-29T09:40:20.392593+00:00",
+    "title": "Stolen staff logins are spreading attacks between K-12 school districts"
   }
 }
