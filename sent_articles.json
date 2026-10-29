@@ -1,124 +1,4 @@
 {
-  "https://asec.ahnlab.com/en/95112/": {
-    "ts": "2026-08-30T19:13:51.805894+00:00",
-    "title": "July 2026 Threat Trend Report on Ransomware"
-  },
-  "https://www.bitdefender.com/en-us/blog/labs/inside-the-apac-malvertising-ecosystem": {
-    "ts": "2026-08-30T19:13:51.805915+00:00",
-    "title": "Inside APAC's malvertising ecosystem: How scams spread through social media ads"
-  },
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/": {
-    "ts": "2026-08-30T19:13:52.030922+00:00",
-    "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage"
-  },
-  "https://research.checkpoint.com/2026/thousands-of-hacked-wordpress-sites-one-operation-unmasking-stopandprotect/": {
-    "ts": "2026-08-30T19:13:52.223362+00:00",
-    "title": "Thousands of Hacked WordPress Sites, One Operation: Unmasking StopAndProtect"
-  },
-  "https://blog.talosintelligence.com/choose-your-fighter-balancing-competing-requirements-to-select-models-for-your-ai-soc/": {
-    "ts": "2026-08-30T19:13:52.223373+00:00",
-    "title": "Choose your fighter: Balancing competing requirements to select models for your AI SOC"
-  },
-  "https://www.duskrise.com/2023/10/12/cve-2023-38831-exploited-by-pro-russia-hacking-groups-in-ru-ua-conflict-zone-for-credential-harvesting-operations/": {
-    "ts": "2026-08-30T19:13:52.421620+00:00",
-    "title": "CVE-2023-38831 Exploited by Pro-Russia Hacking Groups in RU-UA Conflict Zone for Credential Harvesting Operations"
-  },
-  "https://cofense.com/blog/you-re-invited-to-get-phished!-why-invitation-themed-emails-remain-effective": {
-    "ts": "2026-08-30T19:13:52.612065+00:00",
-    "title": "You're Invited to get Phished! Why Invitation-themed Emails Remain Effective"
-  },
-  "https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/": {
-    "ts": "2026-08-30T19:13:52.811534+00:00",
-    "title": "Teaching AI to Reason Through Detection Triage"
-  },
-  "https://www.cybereason.com/blog/identity-beyond-2026-incident-response-predictions": {
-    "ts": "2026-08-30T19:13:53.015688+00:00",
-    "title": "Identity & Beyond: 2026 Incident Response Predictions"
-  },
-  "https://cyble.com/blog/brand-impersonation-detection-takedown/": {
-    "ts": "2026-08-30T19:13:53.213975+00:00",
-    "title": "When the Attacker Wears Your Logo: Detecting and Taking Down Impersonation at AI Speed"
-  },
-  "https://www.darktrace.com/blog/ai-agents-securing-the-path-from-intent-to-action": {
-    "ts": "2026-08-30T19:13:53.213985+00:00",
-    "title": "Securing AI Agents: What NCSC Guidance Means for Security Teams"
-  },
-  "https://blog.eclecticiq.com/eclecticiq-mcp-server": {
-    "ts": "2026-08-30T19:13:53.213987+00:00",
-    "title": "EclecticIQ MCP Server: Connect your AI agents directly to your threat intelligence"
-  },
-  "https://www.forescout.com/blog/when-a-frontier-ai-model-breaks-the-law-who-is-accountable/": {
-    "ts": "2026-08-30T19:13:53.213990+00:00",
-    "title": "When a Frontier AI Model Breaks the Law, Who Is Accountable?"
-  },
-  "https://cloud.google.com/blog/topics/threat-intelligence/unc6671-targets-financial-services-and-enterprise-cloud-environments/": {
-    "ts": "2026-08-30T19:13:53.405818+00:00",
-    "title": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments"
-  },
-  "https://www.group-ib.com/blog/balonx-sistema-mexico-phaas-es/": {
-    "ts": "2026-08-30T19:13:53.606279+00:00",
-    "title": "Balonx Sistema: El Rostro Detr\u00e1s del PhaaS que Impacta la Banca Mexicana"
-  },
-  "https://www.helpnetsecurity.com/2026/08/28/android-17-network-security-features/": {
-    "ts": "2026-08-30T19:13:53.799092+00:00",
-    "title": "Android 17 adds new protections against sneaky Wi-Fi tracking and web snooping"
-  },
-  "https://threatresearch.ext.hp.com/tpm-guard-advancing-endpoint-protection-against-physical-attacks/": {
-    "ts": "2026-08-30T19:13:53.989754+00:00",
-    "title": "Advancing Endpoint Protection Against Physical Attacks: The Innovation Behind HP TPM Guard"
-  },
-  "https://www.infoblox.com/blog/threat-intelligence/dropcatch-scavengers-expired-malicious-domains-become-cash-cows/": {
-    "ts": "2026-08-30T19:13:54.208326+00:00",
-    "title": "Dropcatch Scavengers: Expired Malicious Domains Become Cash Cows"
-  },
-  "https://lab52.io/blog/trends-in-radio-frequency-spectrum-activity-and-its-impact-on-the-geopolitical-landscape/": {
-    "ts": "2026-08-30T19:13:54.399286+00:00",
-    "title": "Trends in Radio Frequency Spectrum Activity and Its Impact on the Geopolitical Landscape"
-  },
-  "https://www.malwarebytes.com/blog/privacy/2026/08/flock-wants-privacy-to-meet-surveillance-halfway": {
-    "ts": "2026-08-30T19:13:54.593361+00:00",
-    "title": "Flock wants privacy to meet surveillance halfway"
-  },
-  "https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/": {
-    "ts": "2026-08-30T19:13:54.786640+00:00",
-    "title": "When AI infrastructure becomes the target: Securing gateways and control points"
-  },
-  "https://moonlock.com/apple-changes-tracking-prompt-eu": {
-    "ts": "2026-08-30T19:13:54.786651+00:00",
-    "title": "Apple\u2019s anti-tracking prompt will change in the EU. Here\u2019s why."
-  },
-  "https://www.morphisec.com/blog/patch-faster-is-not-a-strategy-defending-the-window-attackers-already-own/": {
-    "ts": "2026-08-30T19:13:54.786653+00:00",
-    "title": "Patch Faster Is Not a Strategy: Defending the Window Attackers Already Own"
-  },
-  "https://unit42.paloaltonetworks.com/sdlc-supply-chain/": {
-    "ts": "2026-08-30T19:13:54.977797+00:00",
-    "title": "Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain"
-  },
-  "https://permiso.io/blog/gcp-servicedata-officially-deprecated-actively-dangerous": {
-    "ts": "2026-08-30T19:13:54.977825+00:00",
-    "title": "Mind the Gap: GCP serviceData in Logs Explorer vs. Exported Logs"
-  },
-  "https://blog.qualys.com/category/product-tech/vulnmgmt-detection-response": {
-    "ts": "2026-08-30T19:13:55.177570+00:00",
-    "title": "CVE-2026-69414 ShieldBreak Zero-Day: No Patch, and CISA BOD 26-04 Gives You 14 Days"
-  },
-  "https://www.rapid7.com/blog/post/tr-identity-as-a-service-dark-web-marketplaces-executive-ssn": {
-    "ts": "2026-08-30T19:13:55.369668+00:00",
-    "title": "Identity-as-a-Service: Uncovering Dark Web Marketplaces Trading Executive SSNs"
-  },
-  "https://www.recordedfuture.com/blog/mexico-cybersecurity-plan": {
-    "ts": "2026-08-30T19:13:55.560851+00:00",
-    "title": "Mexico\u2019s Cybersecurity Plan 2025-2030: Turning Ambition Into Defense"
-  },
-  "https://rewterz.com/threat-advisory/microsoft-entra-id-rce-flaw-exploited-in-the-wild": {
-    "ts": "2026-08-30T19:13:55.753349+00:00",
-    "title": "Microsoft Entra ID RCE Flaw Exploited in the Wild"
-  },
-  "https://securelist.com/vulnerabilities-and-exploits-in-q2-2026/121091/": {
-    "ts": "2026-08-30T19:13:55.948437+00:00",
-    "title": "Exploits and vulnerabilities in Q2 2026"
-  },
   "https://asec.ahnlab.com/en/95040/": {
     "ts": "2026-08-30T22:32:17.797345+00:00",
     "title": "July 2026 Threat Trend Report on APT Groups"
@@ -24962,5 +24842,125 @@
   "https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/": {
     "ts": "2026-10-29T16:47:57.258490+00:00",
     "title": "How Secure Are US Elections? Voting Machine Risks and\u00a0the Growing Threat of AI"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/fake-xeno-roblox-discord-executor": {
+    "ts": "2026-10-29T21:42:56.115790+00:00",
+    "title": "Fake Xeno Roblox Cheats Deliver Powerful Java Stealer Through Discord and Forums"
+  },
+  "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/": {
+    "ts": "2026-10-29T21:42:56.174617+00:00",
+    "title": "Fake crypto app on Apple App Store linked to $23K wallet theft"
+  },
+  "https://blog.talosintelligence.com/a-quiet-week-in-infosec/": {
+    "ts": "2026-10-29T21:42:56.232132+00:00",
+    "title": "A quiet week in infosec <.<"
+  },
+  "https://www.duskrise.com/2024/01/30/the-bear-and-the-shell-new-campaign-against-russian-opposition/": {
+    "ts": "2026-10-29T21:42:56.232147+00:00",
+    "title": "The Bear and The Shell: New Campaign Against Russian Opposition"
+  },
+  "https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/": {
+    "ts": "2026-10-29T21:42:56.301084+00:00",
+    "title": "New Prompt Injection Techniques Cover Agent-Planning Attacks"
+  },
+  "https://cybersecuritynews.com/state-of-ad-fraud-2026-52-of-schemes-use-ai-as-cloaking-loses-ground-to-ios-exploits-and-messenger-phishing/": {
+    "ts": "2026-10-29T21:42:56.358297+00:00",
+    "title": "State of Ad Fraud 2026: 52% of Schemes Use AI as Cloaking Loses Ground to iOS Exploits and Messenger Phishing"
+  },
+  "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses": {
+    "ts": "2026-10-29T21:42:56.423029+00:00",
+    "title": "Claude Model Builds Exploits Across Major Browsers &amp; OSes"
+  },
+  "https://www.darktrace.com/blog/why-trust-is-the-new-attack-surface-darktraces-mid-year-threat-update-2026": {
+    "ts": "2026-10-29T21:42:56.480935+00:00",
+    "title": "Why Trust is the New Attack Surface: Mid-Year Threat Update 2026"
+  },
+  "https://blog.eclecticiq.com/compromising-the-developer": {
+    "ts": "2026-10-29T21:42:56.539729+00:00",
+    "title": "Compromising the Developer: How Modern Dependency Culture Reshaped the Supply Chain Threat Landscape"
+  },
+  "https://gbhackers.com/sd-wan-controllers-targeted/": {
+    "ts": "2026-10-29T21:42:56.597984+00:00",
+    "title": "Cisco Talos Uncovers KeyDrift Malware Targeting SD-WAN Controllers to Steal Network Encryption Keys"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/distinct-clusters-target-individuals-of-interest-to-russia/": {
+    "ts": "2026-10-29T21:42:56.658817+00:00",
+    "title": "Going with the Flow(s): Distinct Clusters Target Individuals of Interest to Russia"
+  },
+  "https://www.group-ib.com/blog/one-adversary-two-outcomes-0027-proof/": {
+    "ts": "2026-10-29T21:42:56.716907+00:00",
+    "title": "One Adversary, Two Outcomes: The 0.027% Proof"
+  },
+  "https://www.helpnetsecurity.com/2026/10/29/research-ai-assistant-browser-vulnerabilities/": {
+    "ts": "2026-10-29T21:42:56.775067+00:00",
+    "title": "Researchers broke the browsers built into VS Code, Cursor, Copilot, Codex and Claude Desktop"
+  },
+  "https://threatresearch.ext.hp.com/hp-wolf-security-threat-insights-report-june-2026/": {
+    "ts": "2026-10-29T21:42:56.775082+00:00",
+    "title": "HP Wolf Security Threat Insights Report: June 2026"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/drop-something-dont-worry-someone-caught-it/": {
+    "ts": "2026-10-29T21:42:56.775086+00:00",
+    "title": "Drop Something? Don\u2019t Worry, Someone Caught it"
+  },
+  "https://www.morphisec.com/blog/when-your-ai-coding-assistant-becomes-the-attack-the-hades-supply-chain-campaign/": {
+    "ts": "2026-10-29T21:42:56.839564+00:00",
+    "title": "When Your AI Coding Assistant Becomes the Attack: The Hades Supply Chain Campaign"
+  },
+  "https://permiso.io/blog/introducing-the-risk-score-engine": {
+    "ts": "2026-10-29T21:42:56.896733+00:00",
+    "title": "Introducing the Risk Score Engine: identity risk you can quantify"
+  },
+  "https://blog.qualys.com/category/qualys-insights": {
+    "ts": "2026-10-29T21:42:56.954572+00:00",
+    "title": "The Real Jump Scare Isn\u2019t the Attacker; It\u2019s The Vulnerabilities You\u2019re Focusing On"
+  },
+  "https://www.recordedfuture.com/research/bluedelta-targets-with-hookedge": {
+    "ts": "2026-10-29T21:42:57.014290+00:00",
+    "title": "BlueDelta Targets Defense and Diplomacy with HOOKEDGE"
+  },
+  "https://securityaffairs.com/202055/security/484142-exposed-cloud-buckets-contain-18-billion-files.html": {
+    "ts": "2026-10-29T21:42:57.080885+00:00",
+    "title": "484,142 Exposed Cloud Buckets Contain 18 Billion Files"
+  },
+  "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/": {
+    "ts": "2026-10-29T21:42:57.080900+00:00",
+    "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis"
+  },
+  "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html": {
+    "ts": "2026-10-29T21:42:57.080904+00:00",
+    "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories"
+  },
+  "https://www.theregister.com/security/2026/10/29/suspected-chinese-attackers-built-a-custom-php2shell-exploit-and-rooted-25-servers/5306456": {
+    "ts": "2026-10-29T21:42:57.080907+00:00",
+    "title": "Suspected Chinese attackers built a custom PHP2Shell exploit and rooted 25 servers"
+  },
+  "https://threats.wiz.io/all-incidents/threat-actors-targeting-gcp-billing-accounts-for-llm-usage": {
+    "ts": "2026-10-29T21:42:57.137779+00:00",
+    "title": "Threat Actors Targeting GCP Billing Accounts for LLM Usage (Campaign)"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/fake-shops-europe-samsung-world-cup-scams": {
+    "ts": "2026-10-29T21:42:57.196092+00:00",
+    "title": "Fake shops target shoppers across Europe with fake Samsung deals, counterfeit goods and World Cup scams"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/": {
+    "ts": "2026-10-29T21:42:57.254709+00:00",
+    "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware"
+  },
+  "https://www.duskrise.com/2023/10/25/the-duck-is-hiring-in-italy-ducktail-spread-via-compromised-linkedin-profiles/": {
+    "ts": "2026-10-29T21:42:57.313126+00:00",
+    "title": "The Duck is Hiring in Italy: DUCKTAIL Spread via Compromised LinkedIn Profiles"
+  },
+  "https://cybersecuritynews.com/nist-post-quantum-cryptography-guidance/": {
+    "ts": "2026-10-29T21:42:57.372786+00:00",
+    "title": "NIST Officially Released Guidance for Transition to Post-Quantum Cryptography"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes": {
+    "ts": "2026-10-29T21:42:57.430981+00:00",
+    "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes"
+  },
+  "https://blog.eclecticiq.com/intelligence-center-3.8": {
+    "ts": "2026-10-29T21:42:57.489272+00:00",
+    "title": "EclecticIQ Intelligence Center 3.8: Built for the way security teams are actually working now"
   }
 }
