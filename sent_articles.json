@@ -1,8 +1,4 @@
 {
-  "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos": {
-    "ts": "2026-08-29T23:06:26.405067+00:00",
-    "title": null
-  },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/": {
     "ts": "2026-08-30T04:32:22.079344+00:00",
     "title": null
@@ -24938,5 +24934,81 @@
   "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html": {
     "ts": "2026-10-28T23:02:50.878926+00:00",
     "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers"
+  },
+  "https://cybersecuritynews.com/fbi-seizes-virtualine-bulletproof-hosting/": {
+    "ts": "2026-10-29T02:21:38.862568+00:00",
+    "title": "FBI Seizes Virtualine Bulletproof Hosting Domain Linked to Ransomware and Cybercrime"
+  },
+  "https://asec.ahnlab.com/en/96188/": {
+    "ts": "2026-10-29T02:22:40.239663+00:00",
+    "title": "The Weak Link Identified by AI: October 2026, When the Outer Contact Point Collapsed"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/": {
+    "ts": "2026-10-29T02:22:40.239679+00:00",
+    "title": "Hackers now scanning systems for recently-patched Oracle flaw"
+  },
+  "https://cybersecuritynews.com/owasp-finds-chatgpt-assisted-admin-takeover/": {
+    "ts": "2026-10-29T02:22:40.369163+00:00",
+    "title": "OWASP Finds ChatGPT Helped Low-Skilled User Take Over Admin Account in Hacking Test"
+  },
+  "https://gbhackers.com/fortibleed-2-0-exposes-40573-fortigate-secrets/": {
+    "ts": "2026-10-29T02:22:40.369175+00:00",
+    "title": "FortiBleed 2.0 Exposes 40,573 FortiGate Secrets Across 975 Previously Unlisted Domains"
+  },
+  "https://www.helpnetsecurity.com/2026/10/28/doj-ukrainian-ransomware-hacker-sentenced/": {
+    "ts": "2026-10-29T02:22:40.476768+00:00",
+    "title": "Ukrainian ransomware hacker sentenced, $11 million reward offered for co-conspirator"
+  },
+  "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/": {
+    "ts": "2026-10-29T02:22:40.576769+00:00",
+    "title": "CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts"
+  },
+  "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html": {
+    "ts": "2026-10-29T02:22:40.677011+00:00",
+    "title": "Wazuh and AI for Enhanced SOC Workflows"
+  },
+  "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/": {
+    "ts": "2026-10-29T02:22:40.778410+00:00",
+    "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities"
+  },
+  "https://gbhackers.com/sony-data-breach-exposes-2-58-million-customer-records/": {
+    "ts": "2026-10-29T02:22:40.878733+00:00",
+    "title": "Sony Data Breach Exposes 2.58 Million Customer Records and 54,401 Email Credentials"
+  },
+  "https://www.helpnetsecurity.com/2026/10/28/fbi-seizure-virtualine-bulletproof-hosting-domain/": {
+    "ts": "2026-10-29T02:22:40.971701+00:00",
+    "title": "FBI seizes Virtualine, bulletproof hosting provider that promised to shield criminals from police"
+  },
+  "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html": {
+    "ts": "2026-10-29T02:22:40.971711+00:00",
+    "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass"
+  },
+  "https://gbhackers.com/critical-veeam-backup-replication-flaw-2/": {
+    "ts": "2026-10-29T02:22:40.971714+00:00",
+    "title": "Critical Veeam Backup & Replication Flaw Allows Unauthenticated Attackers to Bypass Authorization"
+  },
+  "https://thehackernews.com/2026/10/american-organizations-under-attack.html": {
+    "ts": "2026-10-29T02:22:41.081209+00:00",
+    "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed"
+  },
+  "https://cybersecuritynews.com/malicious-firefox-extensions-3/": {
+    "ts": "2026-10-29T02:22:41.181265+00:00",
+    "title": "Malicious Firefox Extensions Impersonate Phantom, Jupiter, and Bitget to Steal Crypto Wallet Keys"
+  },
+  "https://gbhackers.com/microsoft-whistleblower-claims-foreign-engineers/": {
+    "ts": "2026-10-29T02:22:41.181276+00:00",
+    "title": "Microsoft Whistleblower Claims Foreign Engineers Can Access Sensitive U.S. Government Cloud Systems"
+  },
+  "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html": {
+    "ts": "2026-10-29T02:22:41.275269+00:00",
+    "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers"
+  },
+  "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html": {
+    "ts": "2026-10-29T02:22:41.383454+00:00",
+    "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws"
+  },
+  "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html": {
+    "ts": "2026-10-29T02:22:41.484347+00:00",
+    "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges"
   }
 }

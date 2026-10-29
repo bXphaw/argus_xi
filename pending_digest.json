@@ -94,6 +94,41 @@
       "category": "new_technique",
       "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
       "url": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "OWASP Finds ChatGPT Helped Low-Skilled User Take Over Admin Account in Hacking Test",
+      "url": "https://cybersecuritynews.com/owasp-finds-chatgpt-assisted-admin-takeover/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Ukrainian ransomware hacker sentenced, $11 million reward offered for co-conspirator",
+      "url": "https://www.helpnetsecurity.com/2026/10/28/doj-ukrainian-ransomware-hacker-sentenced/"
+    },
+    {
+      "category": "new_technique",
+      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+      "url": "https://thehackernews.com/2026/10/american-organizations-under-attack.html"
+    },
+    {
+      "category": "malware_other",
+      "title": "Malicious Firefox Extensions Impersonate Phantom, Jupiter, and Bitget to Steal Crypto Wallet Keys",
+      "url": "https://cybersecuritynews.com/malicious-firefox-extensions-3/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
+      "url": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+      "url": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+      "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html"
     }
   ],
   "last_sent_date": "2026-10-28"
