@@ -1,8 +1,4 @@
 {
-  "https://asec.ahnlab.com/en/94968/": {
-    "ts": "2026-08-31T08:22:20.899325+00:00",
-    "title": "Ransom & Dark Web Issues Week 2, August 2026"
-  },
   "https://www.bitdefender.com/en-us/blog/labs/operation-road-trap": {
     "ts": "2026-08-31T08:24:52.457938+00:00",
     "title": "Operation Road Trap: Fake toll and parking texts are spreading worldwide"
@@ -24842,5 +24838,125 @@
   "https://www.helpnetsecurity.com/2026/10/29/oracle-e-business-suite-cve-2026-101767-exploitation/": {
     "ts": "2026-10-30T01:46:17.277894+00:00",
     "title": "Exploitation attempts against recently patched Oracle EBS flaw have begun (CVE-2026-101767)"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/football-fever-fuels-scam-campaigns-across-email-and-social-media": {
+    "ts": "2026-10-30T08:22:34.349869+00:00",
+    "title": "Football Fever Fuels Scam Campaigns Across Email and Social Media"
+  },
+  "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/": {
+    "ts": "2026-10-30T08:22:34.397373+00:00",
+    "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining"
+  },
+  "https://www.duskrise.com/2023/08/25/the-fraud-gala-exploring-a-recent-bec-campaign/": {
+    "ts": "2026-10-30T08:22:34.444289+00:00",
+    "title": "The Fraud Gala: Exploring a Recent BEC Campaign"
+  },
+  "https://cybersecuritynews.com/researcher-uses-claude-ai/": {
+    "ts": "2026-10-30T08:22:34.491115+00:00",
+    "title": "Researcher Uses Claude AI to Extract Internal Anthropic Binary and Recover Google Cloud Token"
+  },
+  "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward": {
+    "ts": "2026-10-30T08:22:34.537688+00:00",
+    "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward"
+  },
+  "https://www.darktrace.com/blog/when-ai-becomes-the-lure-a-fake-gemini-installer-delivers-vidar": {
+    "ts": "2026-10-30T08:22:34.583567+00:00",
+    "title": "When AI Becomes the Lure: A Fake Gemini Installer Delivers Vidar"
+  },
+  "https://blog.eclecticiq.com/keyword-lists": {
+    "ts": "2026-10-30T08:22:34.628307+00:00",
+    "title": "Keyword lists: Stop re-entering the same organizational context across every workflow"
+  },
+  "https://gbhackers.com/malicious-claude-code-vs-code-extension/": {
+    "ts": "2026-10-30T08:22:34.628325+00:00",
+    "title": "Malicious Claude Code VS Code Extension Installs Persistent SSH Backdoor to Give Attackers Remote Access"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/mitigation-guidance-for-supply-chain-compromise/": {
+    "ts": "2026-10-30T08:22:34.628330+00:00",
+    "title": "Batten Down Your Packages: Mitigation Guidance for Supply Chain Compromise"
+  },
+  "https://www.group-ib.com/blog/deepfake-fraud-prevention/": {
+    "ts": "2026-10-30T08:22:34.628334+00:00",
+    "title": "Deepfake Fraud Prevention: Why Detection Alone Fails"
+  },
+  "https://www.helpnetsecurity.com/2026/10/30/cisco-talos-it-help-desk-vishing/": {
+    "ts": "2026-10-30T08:22:34.674284+00:00",
+    "title": "Fake IT help desk callers got by on little more than names and email addresses"
+  },
+  "https://threatresearch.ext.hp.com/tpm-guard-advancing-endpoint-protection-against-physical-attacks/": {
+    "ts": "2026-10-30T08:22:34.720128+00:00",
+    "title": "Advancing Endpoint Protection Against Physical Attacks: The Innovation Behind HP TPM Guard"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/dropcatch-scavengers-expired-malicious-domains-become-cash-cows/": {
+    "ts": "2026-10-30T08:22:34.767908+00:00",
+    "title": "Dropcatch Scavengers: Expired Malicious Domains Become Cash Cows"
+  },
+  "https://www.morphisec.com/blog/patch-faster-is-not-a-strategy-defending-the-window-attackers-already-own/": {
+    "ts": "2026-10-30T08:22:34.813623+00:00",
+    "title": "Patch Faster Is Not a Strategy: Defending the Window Attackers Already Own"
+  },
+  "https://permiso.io/blog/gcp-servicedata-officially-deprecated-actively-dangerous": {
+    "ts": "2026-10-30T08:22:34.859631+00:00",
+    "title": "Mind the Gap: GCP serviceData in Logs Explorer vs. Exported Logs"
+  },
+  "https://blog.qualys.com/category/vulnerabilities-threat-research": {
+    "ts": "2026-10-30T08:22:34.859646+00:00",
+    "title": "Waiting on a Node.js Upgrade? Build a Stopgap with the Controls You Own"
+  },
+  "https://www.recordedfuture.com/blog/mexico-cybersecurity-plan": {
+    "ts": "2026-10-30T08:22:34.859650+00:00",
+    "title": "Mexico\u2019s Cybersecurity Plan 2025-2030: Turning Ambition Into Defense"
+  },
+  "https://securityaffairs.com/202103/data-breach/hacker-leaks-data-on-more-than-40000-homeland-security-employees.html": {
+    "ts": "2026-10-30T08:22:34.859654+00:00",
+    "title": "Hacker leaks data on more than 40,000 Homeland Security employees"
+  },
+  "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/": {
+    "ts": "2026-10-30T08:22:34.859657+00:00",
+    "title": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities"
+  },
+  "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html": {
+    "ts": "2026-10-30T08:22:34.859661+00:00",
+    "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV"
+  },
+  "https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539": {
+    "ts": "2026-10-30T08:22:34.909547+00:00",
+    "title": "In the year AI re-wrote the infosec rulebook, it\u2019s comforting to know crypto exchanges still have bad security"
+  },
+  "https://www.welivesecurity.com/en/malware/amatera-how-prolific-infostealer-works-spreads/": {
+    "ts": "2026-10-30T08:22:34.955170+00:00",
+    "title": "Amatera: How the prolific infostealer works and spreads"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/microsofts-mshta-legacy-malware-windows": {
+    "ts": "2026-10-30T08:22:35.004095+00:00",
+    "title": "Microsoft\u2019s MSHTA Legacy Tool Still Powers Malware Campaigns on Windows"
+  },
+  "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/": {
+    "ts": "2026-10-30T08:22:35.049243+00:00",
+    "title": "Japan Airlines suffers third-party data breach exposing passenger info"
+  },
+  "https://www.duskrise.com/2023/05/22/back-in-black-blackbyte-ransomware-returns-with-its-new-technology-nt-version/": {
+    "ts": "2026-10-30T08:22:35.094689+00:00",
+    "title": "Back in Black: BlackByte Ransomware returns with its New Technology (NT) version"
+  },
+  "https://cybersecuritynews.com/best-ueba-tools/": {
+    "ts": "2026-10-30T08:22:35.094704+00:00",
+    "title": "Top 10 Best UEBA Tools in 2026 [Ranked & Scored]"
+  },
+  "https://www.darktrace.com/blog/when-ai-agents-go-off-script-what-the-openai-and-hugging-face-incident-means-for-defenders": {
+    "ts": "2026-10-30T08:22:35.094709+00:00",
+    "title": "What the OpenAI and Hugging Face Incident Means for Defenders"
+  },
+  "https://blog.eclecticiq.com/the-ai-arms-race-how-adversaries-are-weaponizing-ai-for-speed-and-scale": {
+    "ts": "2026-10-30T08:22:35.094712+00:00",
+    "title": "The AI Arms Race:\u00a0How Adversaries are Weaponizing AI for Speed and Scale"
+  },
+  "https://gbhackers.com/ir-retainers-buyers-guide/": {
+    "ts": "2026-10-30T08:22:35.094715+00:00",
+    "title": "12 Incident Response Retainer Services: The 2026 Buyer\u2019s Verdict Guide"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/": {
+    "ts": "2026-10-30T08:22:35.094718+00:00",
+    "title": "Updated Cyber Threat Actor Naming System"
   }
 }
