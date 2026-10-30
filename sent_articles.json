@@ -1,124 +1,4 @@
 {
-  "https://cyble.com/blog/ransomware-threats-in-europe-h1-2026/": {
-    "ts": "2026-08-31T16:53:39.623269+00:00",
-    "title": "Ransomware Threats in Europe H1 2026: A Deep Dive into Regional Attack Patterns and Dominant Threat Actors"
-  },
-  "https://asec.ahnlab.com/en/95066/": {
-    "ts": "2026-08-31T16:56:03.243333+00:00",
-    "title": "July 2026 Infostealer Trend Report"
-  },
-  "https://www.bitdefender.com/en-us/blog/labs/windsurf-extension-malware-solana": {
-    "ts": "2026-08-31T16:56:03.362448+00:00",
-    "title": "Windsurf IDE Extension Drops Malware via Solana Blockchain"
-  },
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/": {
-    "ts": "2026-08-31T16:56:03.362468+00:00",
-    "title": "OpenAI confirms ChatGPT outage as users report errors"
-  },
-  "https://research.checkpoint.com/2026/breaking-the-seal-static-deobfuscation-of-jsceals-compiled-v8-bytecode/": {
-    "ts": "2026-08-31T16:56:03.362473+00:00",
-    "title": "Breaking the Seal: Static Deobfuscation of JSCeal\u2019s Compiled V8 Bytecode"
-  },
-  "https://blog.talosintelligence.com/uat-10147-chinese-speaking-adversary-integrates-agentic-ai-into-post-compromise-operations/": {
-    "ts": "2026-08-31T16:56:03.473126+00:00",
-    "title": "UAT-10147: Chinese-speaking adversary integrates agentic AI into post-compromise operations"
-  },
-  "https://www.duskrise.com/2022/12/22/an-infostealer-comes-to-town-dissecting-a-highly-evasive-malware-targeting-italy/": {
-    "ts": "2026-08-31T16:56:03.578964+00:00",
-    "title": "An infostealer comes to town:\u00a0Dissecting a highly evasive malware targeting Italy"
-  },
-  "https://cofense.com/blog/click-to-sync-from-google-ads-maintenance-notice-to-credential-theft": {
-    "ts": "2026-08-31T16:56:03.637268+00:00",
-    "title": "Click to Sync: From Google Ads Maintenance Notice to Credential Theft"
-  },
-  "https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/": {
-    "ts": "2026-08-31T16:56:03.689501+00:00",
-    "title": "Secure Agent Harness Execution: Preventing Escape"
-  },
-  "https://cybersecuritynews.com/broadcom-vmware-ai-factory/": {
-    "ts": "2026-08-31T16:56:03.743029+00:00",
-    "title": "Broadcom Launches VMware AI Factory to Secure Enterprise AI Agents"
-  },
-  "https://www.cybereason.com/blog/tycoon-phishing-kit-analysis": {
-    "ts": "2026-08-31T16:56:03.800820+00:00",
-    "title": "Tycoon 2FA Phishing Kit Analysis"
-  },
-  "https://www.darktrace.com/blog/hiding-in-plain-sight-uncovering-a-multi-stage-ransomware-attack-through-behavioral-detection": {
-    "ts": "2026-08-31T16:56:03.800829+00:00",
-    "title": "Uncovering a Multi-Stage Ransomware Attack Through Behavioral Detection"
-  },
-  "https://blog.eclecticiq.com/the-escalating-cyber-risk-landscape-in-regional-conflicts-strategic-actions-for-2026": {
-    "ts": "2026-08-31T16:56:03.800833+00:00",
-    "title": "The Escalating Cyber Risk Landscape in Regional Conflicts & Strategic Actions for 2026"
-  },
-  "https://www.forescout.com/blog/beyond-ztna-7-reasons-to-go-universal/": {
-    "ts": "2026-08-31T16:56:03.800836+00:00",
-    "title": "Beyond ZTNA: 7 Reasons to Go Universal"
-  },
-  "https://gbhackers.com/cursor-ai-powered-ransomware/": {
-    "ts": "2026-08-31T16:56:03.863225+00:00",
-    "title": "Aurora Ransomware Hackers Use Cursor AI Agent for Hands-On Exploitation and ESXi Attacks"
-  },
-  "https://cloud.google.com/blog/topics/threat-intelligence/exposed-cloud-functions-harden/": {
-    "ts": "2026-08-31T16:56:03.863242+00:00",
-    "title": "The Risk of Exposed Cloud Functions and How to Harden"
-  },
-  "https://www.group-ib.com/blog/brazetsu-ai-enhanced-iab-marketplace/": {
-    "ts": "2026-08-31T16:56:03.927402+00:00",
-    "title": "Anatomy of BraZetsu: How Cybercriminals Fuel the Underground Ecosystem"
-  },
-  "https://www.helpnetsecurity.com/2026/08/31/ai-crawlers-scan-exposed-credentials/": {
-    "ts": "2026-08-31T16:56:03.982971+00:00",
-    "title": "Threat actors are posing as AI crawlers to hunt for exposed credentials"
-  },
-  "https://www.infoblox.com/blog/threat-intelligence/hot-take-operation-endgame-vs-socgholish/": {
-    "ts": "2026-08-31T16:56:04.069152+00:00",
-    "title": "Hot Take: Operation Endgame VS SocGholish"
-  },
-  "https://www.malwarebytes.com/blog/news/2026/08/mckesson-confirms-cyber-incident-after-shinyhunters-claims-patient-data-theft": {
-    "ts": "2026-08-31T16:56:04.194773+00:00",
-    "title": "McKesson confirms cyber incident after ShinyHunters claims patient-data theft"
-  },
-  "https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/": {
-    "ts": "2026-08-31T16:56:04.332697+00:00",
-    "title": "Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise"
-  },
-  "https://moonlock.com/fiverr-scams": {
-    "ts": "2026-08-31T16:56:04.332712+00:00",
-    "title": "8 common Fiverr scams: What they look like and how to avoid them"
-  },
-  "https://www.morphisec.com/blog/revstealer-silence-is-its-greatest-weapon/": {
-    "ts": "2026-08-31T16:56:04.393315+00:00",
-    "title": "RevStealer Is Built to Be Silent"
-  },
-  "https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/": {
-    "ts": "2026-08-31T16:56:04.481490+00:00",
-    "title": "Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams"
-  },
-  "https://permiso.io/blog/ai-agent-runtime-security": {
-    "ts": "2026-08-31T16:56:04.481507+00:00",
-    "title": "Permiso Brings Identity Runtime Attribution to AI Agents with Discover, Protect, and Defend"
-  },
-  "https://www.rapid7.com/blog/post/tr-new-report-ai-threats-q2-2026-ends-traditional-patch-cycles": {
-    "ts": "2026-08-31T16:56:04.481511+00:00",
-    "title": "New Report: AI threats are here. Why Q2 2026 signals the end of traditional patch cycles"
-  },
-  "https://www.recordedfuture.com/research/malware-crypting-services-threat-actors": {
-    "ts": "2026-08-31T16:56:04.540671+00:00",
-    "title": "Malware Crypting Services and the Threat Actors Who Sell Them"
-  },
-  "https://rewterz.com/threat-advisory/cisa-warns-of-exploited-linux-kernel-flaw-2": {
-    "ts": "2026-08-31T16:56:04.590601+00:00",
-    "title": "CISA Warns of Exploited Linux Kernel Flaw"
-  },
-  "https://securelist.com/valleyrat-backdoor-adware/121175/": {
-    "ts": "2026-08-31T16:56:04.644320+00:00",
-    "title": "ValleyRAT masquerading as adware"
-  },
-  "https://securityaffairs.com/198183/apt/china-linked-fire-ant-hides-inside-trusted-infrastructure.html": {
-    "ts": "2026-08-31T16:56:04.693109+00:00",
-    "title": "China-linked Fire Ant Hides Inside Trusted Infrastructure"
-  },
   "https://research.checkpoint.com/2026/31th-august-threat-intelligence-report/": {
     "ts": "2026-08-31T21:49:22.843013+00:00",
     "title": "31th August \u2013 Threat Intelligence Report"
@@ -24962,5 +24842,125 @@
   "https://www.infoblox.com/blog/threat-intelligence/fake-installers-fake-reviews-fake-services-real-proxies-real-victims/": {
     "ts": "2026-10-30T15:46:17.249488+00:00",
     "title": "Fake Installers, Fake Reviews, Fake Services \u2013 Real Proxies, Real Victims"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/operation-road-trap": {
+    "ts": "2026-10-30T20:36:47.571939+00:00",
+    "title": "Operation Road Trap: Fake toll and parking texts are spreading worldwide"
+  },
+  "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/": {
+    "ts": "2026-10-30T20:36:47.571961+00:00",
+    "title": "Trezor warns of suspected crypto-theft implant in hardware wallet"
+  },
+  "https://www.duskrise.com/2023/05/02/cluster25-has-become-partner-of-dns0-project/": {
+    "ts": "2026-10-30T20:36:47.571967+00:00",
+    "title": "Cluster25 has become partner of DNS0 Project"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-threat-hunting-across-ai-and-google-cloud/": {
+    "ts": "2026-10-30T20:36:47.571970+00:00",
+    "title": "CrowdStrike Expands Falcon Adversary OverWatch Threat Hunting Across AI and Google Cloud"
+  },
+  "https://cybersecuritynews.com/netamloader-malware/": {
+    "ts": "2026-10-30T20:36:47.813064+00:00",
+    "title": "APT Hackers Use NetamLoader Malware to Target Windows 10 Systems in Asian Governments"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever": {
+    "ts": "2026-10-30T20:36:48.050445+00:00",
+    "title": "Why CTF Competitions May Be More Important Than Ever"
+  },
+  "https://www.darktrace.com/blog/when-guardrails-break-why-securing-ai-requires-behavioral-detection-and-autonomous-containment": {
+    "ts": "2026-10-30T20:36:48.283004+00:00",
+    "title": "When Guardrails Break: Why Securing AI Requires Behavioral Detection and Autonomous Containment"
+  },
+  "https://blog.eclecticiq.com/why-doctrine-is-becoming-a-technology-requirement-for-modern-defense-intelligence": {
+    "ts": "2026-10-30T20:36:48.518400+00:00",
+    "title": "Why doctrine is becoming a technology requirement for modern defense intelligence"
+  },
+  "https://gbhackers.com/north-korean-hackers-binance-theft/": {
+    "ts": "2026-10-30T20:36:48.749316+00:00",
+    "title": "North Korean Hackers Steal $6.36 Billion From Binance in Largest Crypto Hack Ever"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerability-management/": {
+    "ts": "2026-10-30T20:36:48.983486+00:00",
+    "title": "Demystifying AI Exploits: A Blueprint for AI-Assisted Vulnerability Management"
+  },
+  "https://www.group-ib.com/blog/15-minute-problem/": {
+    "ts": "2026-10-30T20:36:48.983497+00:00",
+    "title": "One Adversary: The Fifteen-Minute Problem"
+  },
+  "https://www.helpnetsecurity.com/2026/10/30/irregular-glm-5-3-cyber-capabilities-evaluation/": {
+    "ts": "2026-10-30T20:36:48.983501+00:00",
+    "title": "Open-weight AI model GLM-5.3 cheated its way to correct answers"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/from-san-pedro-to-salinas-how-a-chinese-framework-dcloud-uni-app-powers-a-global-scam-economy/": {
+    "ts": "2026-10-30T20:36:48.983507+00:00",
+    "title": "From San Pedro to Salinas: How a Chinese Framework \u201cDCloud Uni-App\u201d Powers a Global Scam Economy"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/photo-id-bank-checks-face-scan-the-uks-age-check-options": {
+    "ts": "2026-10-30T20:36:48.983514+00:00",
+    "title": "Photo ID, bank checks, face scan? The UK\u2019s age-check options"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/": {
+    "ts": "2026-10-30T20:36:49.218169+00:00",
+    "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths"
+  },
+  "https://moonlock.com/apple-blocks-certificates-safari-mail": {
+    "ts": "2026-10-30T20:36:49.462301+00:00",
+    "title": "Apple blocks compromised web certificates to protect Safari and Mail users"
+  },
+  "https://www.morphisec.com/blog/trusted-tool-malicious-build-what-the-trojanized-claude-code-extension-means-for-developer-endpoints/": {
+    "ts": "2026-10-30T20:36:49.693267+00:00",
+    "title": "Trusted Tool, Malicious Build: What the Trojanized Claude Code Extension Means for Developer Endpoints"
+  },
+  "https://permiso.io/blog/chatgpt-markdown-rendering-vulnerability": {
+    "ts": "2026-10-30T20:36:49.918180+00:00",
+    "title": "ChatGPhish: The Page Is the Payload"
+  },
+  "https://www.rapid7.com/blog/post/ra-rapid7-analysis-unauthenticated-file-upload-to-rce-in-beyondtrust-remote-support-cve-2026-102764": {
+    "ts": "2026-10-30T20:36:50.151615+00:00",
+    "title": "Rapid7 Analysis: Unauthenticated File Upload to RCE in BeyondTrust Remote Support (CVE-2026-102764)"
+  },
+  "https://www.recordedfuture.com/research/purpledelta-fraudulent-employment-operations": {
+    "ts": "2026-10-30T20:36:50.380447+00:00",
+    "title": "PurpleDelta's Fraudulent Employment Operations"
+  },
+  "https://securityaffairs.com/202119/cyber-crime/6-3-billion-stolen-from-binance-in-attack-attributed-to-north-korea.html": {
+    "ts": "2026-10-30T20:36:50.618001+00:00",
+    "title": "$6.3 Billion Stolen from Binance in Attack Attributed to North Korea"
+  },
+  "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/": {
+    "ts": "2026-10-30T20:36:50.848142+00:00",
+    "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak"
+  },
+  "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html": {
+    "ts": "2026-10-30T20:36:51.075956+00:00",
+    "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide"
+  },
+  "https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754": {
+    "ts": "2026-10-30T20:36:51.306428+00:00",
+    "title": "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/": {
+    "ts": "2026-10-30T20:36:51.537141+00:00",
+    "title": "CISA says max severity GitLab flaw now exploited in the wild"
+  },
+  "https://www.crowdstrike.com/en-us/blog/build-intelligence-advantage-with-falcon-next-gen-siem/": {
+    "ts": "2026-10-30T20:36:51.762923+00:00",
+    "title": "Build an Intelligence Advantage with Falcon Next-Gen SIEM"
+  },
+  "https://cybersecuritynews.com/aur0ra-ransomware-hackers/": {
+    "ts": "2026-10-30T20:36:51.989931+00:00",
+    "title": "Aur0ra Ransomware Hackers Use Cursor AI Agents to Gain Domain Admin Access and Steal Data"
+  },
+  "https://gbhackers.com/netamloader-malware/": {
+    "ts": "2026-10-30T20:36:52.217149+00:00",
+    "title": "Hackers Target Asian Governments With New NetamLoader Malware Hidden in Windows Update Files"
+  },
+  "https://www.helpnetsecurity.com/2026/10/30/binance-crypto-hack/": {
+    "ts": "2026-10-30T20:36:52.445214+00:00",
+    "title": "Binance hit by $6.3 billion theft in what could be the biggest crypto heist on record"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/binance-hit-by-largest-ever-crypto-theft-with-6-3-billion-stolen": {
+    "ts": "2026-10-30T20:36:52.679652+00:00",
+    "title": "Binance hit by largest-ever crypto theft, with $6.3 billion stolen"
   }
 }
