@@ -79,6 +79,41 @@
       "category": "poland",
       "title": "Fake shops target shoppers across Europe with fake Samsung deals, counterfeit goods and World Cup scams",
       "url": "https://www.bitdefender.com/en-us/blog/labs/fake-shops-europe-samsung-world-cup-scams"
+    },
+    {
+      "category": "malware_windows",
+      "title": "CVE-2023-38831 Exploited by Pro-Russia Hacking Groups in RU-UA Conflict Zone for Credential Harvesting Operations",
+      "url": "https://www.duskrise.com/2023/10/12/cve-2023-38831-exploited-by-pro-russia-hacking-groups-in-ru-ua-conflict-zone-for-credential-harvesting-operations/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign",
+      "url": "https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Zero-Click \u2018SMS of Death\u2019 Flaw Lets Hackers Disrupt Android Phones With a Single Text",
+      "url": "https://cybersecuritynews.com/zero-click-android-vulnerability/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Tortoiseshell: New Toolset and Operational Infrastructure Exposed",
+      "url": "https://www.group-ib.com/blog/tortoiseshell-apt-toolset-infrastructure/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Volt Typhoon targeted enterprise control planes via ever-changing \u201cSilent Train\u201d relay network",
+      "url": "https://www.helpnetsecurity.com/2026/10/29/volt-typhoon-silent-train-relay-network/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "$7 Million in Expired Domains Fuel a Streaming Empire with a Malware Secret",
+      "url": "https://www.infoblox.com/blog/threat-intelligence/7-million-in-expired-domains-fuel-a-streaming-empire-with-a-malware-secret/"
+    },
+    {
+      "category": "new_technique",
+      "title": "The Rise of Self-Learning Malware: When Threats Rewrite Themselves Faster Than You Can Detect Them",
+      "url": "https://www.morphisec.com/blog/the-rise-of-self-learning-malware-when-threats-rewrite-themselves-faster-than-you-can-detect-them/"
     }
   ],
   "last_sent_date": "2026-10-29"
