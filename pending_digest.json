@@ -1,4 +1,30 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "North Korean Hackers Steal Developer Credentials to Inject Malware Into GitHub and Software Packages",
+      "url": "https://cybersecuritynews.com/north-korean-hackers-2/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Unauthorized Codex and Claude Code Relays Disable Security Protections at 12 Organizations",
+      "url": "https://gbhackers.com/codex-claude-code-relays/"
+    },
+    {
+      "category": "malware_ios",
+      "title": "Coruna and DarkSword spyware are infecting iPhones to steal crypto",
+      "url": "https://moonlock.com/corina-darksword-infecting-iphones"
+    },
+    {
+      "category": "new_technique",
+      "title": "You Can\u2019t Detect an Improviser: Why Self-Learning AI Malware Ends the Detection Era",
+      "url": "https://www.morphisec.com/blog/you-cant-detect-an-improviser-why-self-learning-ai-malware-ends-the-detection-era/"
+    }
+  ],
   "last_sent_date": "2026-10-30"
 }

@@ -1,120 +1,4 @@
 {
-  "https://www.bitdefender.com/en-us/blog/labs/operation-road-trap": {
-    "ts": "2026-08-31T08:24:52.457938+00:00",
-    "title": "Operation Road Trap: Fake toll and parking texts are spreading worldwide"
-  },
-  "https://research.checkpoint.com/2026/shattering-the-dream-when-a-job-offer-becomes-a-zero-day-attack/": {
-    "ts": "2026-08-31T08:24:52.602570+00:00",
-    "title": "Shattering the Dream \u2013 When a Job Offer Becomes a Zero-Day Attack"
-  },
-  "https://blog.talosintelligence.com/uat-10147-deploys-spectre-a-cross-platform-implant-with-linux-rootkit-and-byovd-capabilities/": {
-    "ts": "2026-08-31T08:24:52.723582+00:00",
-    "title": "UAT-10147 deploys SPECTRE: A cross-platform implant with Linux rootkit and BYOVD capabilities"
-  },
-  "https://www.duskrise.com/2023/05/02/cluster25-has-become-partner-of-dns0-project/": {
-    "ts": "2026-08-31T08:24:52.723610+00:00",
-    "title": "Cluster25 has become partner of DNS0 Project"
-  },
-  "https://cofense.com/blog/5-key-takeaways-from-the-cofense-2026-mid-year-threat-report-webinar": {
-    "ts": "2026-08-31T08:24:52.723615+00:00",
-    "title": "5 Key Takeaways from the Cofense 2026 Mid-Year Threat Report Webinar"
-  },
-  "https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/": {
-    "ts": "2026-08-31T08:24:52.857749+00:00",
-    "title": "Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery"
-  },
-  "https://cybersecuritynews.com/composer-flaw-expose-ssh-keys/": {
-    "ts": "2026-08-31T08:24:52.988200+00:00",
-    "title": "Composer Flaw Lets Malicious Dependencies Expose SSH Keys and Sensitive Files"
-  },
-  "https://www.cybereason.com/blog/the-gentlemen-ransomware": {
-    "ts": "2026-08-31T08:24:53.123039+00:00",
-    "title": "License to Encrypt: \u201cThe Gentlemen\u201d Make Their Move"
-  },
-  "https://cyble.com/blog/ransomware-incident-response-plan/": {
-    "ts": "2026-08-31T08:24:53.258518+00:00",
-    "title": "Ransomware Now Shows Up in Nearly Half of All Breaches: A Survival Playbook for Lean Security Teams"
-  },
-  "https://www.darktrace.com/blog/when-guardrails-break-why-securing-ai-requires-behavioral-detection-and-autonomous-containment": {
-    "ts": "2026-08-31T08:24:53.405680+00:00",
-    "title": "When Guardrails Break: Why Securing AI Requires Behavioral Detection and Autonomous Containment"
-  },
-  "https://blog.eclecticiq.com/why-doctrine-is-becoming-a-technology-requirement-for-modern-defense-intelligence": {
-    "ts": "2026-08-31T08:24:53.405706+00:00",
-    "title": "Why doctrine is becoming a technology requirement for modern defense intelligence"
-  },
-  "https://www.forescout.com/blog/japans-2026-cyber-threat-landscape-risks-threats-and-guidance/": {
-    "ts": "2026-08-31T08:24:53.405710+00:00",
-    "title": "Japan\u2019s 2026 Cyber Threat Landscape: Risks, Threats, and Guidance"
-  },
-  "https://gbhackers.com/d-link-dir-x1860z-flaws/": {
-    "ts": "2026-08-31T08:24:53.405714+00:00",
-    "title": "D-Link DIR-X1860Z Flaws Enable Unauthenticated Admin Password Reset and Wi-Fi Credential Theft"
-  },
-  "https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerability-management/": {
-    "ts": "2026-08-31T08:24:53.405718+00:00",
-    "title": "Demystifying AI Exploits: A Blueprint for AI-Assisted Vulnerability Management"
-  },
-  "https://www.group-ib.com/blog/15-minute-problem/": {
-    "ts": "2026-08-31T08:24:53.405722+00:00",
-    "title": "One Adversary: The Fifteen-Minute Problem"
-  },
-  "https://www.helpnetsecurity.com/2026/08/31/debian-linux-llm-policy/": {
-    "ts": "2026-08-31T08:24:53.542329+00:00",
-    "title": "Debian developers rejected an LLM ban and left disclosure voluntary"
-  },
-  "https://www.infoblox.com/blog/threat-intelligence/from-san-pedro-to-salinas-how-a-chinese-framework-dcloud-uni-app-powers-a-global-scam-economy/": {
-    "ts": "2026-08-31T08:24:53.685538+00:00",
-    "title": "From San Pedro to Salinas: How a Chinese Framework \u201cDCloud Uni-App\u201d Powers a Global Scam Economy"
-  },
-  "https://lab52.io/blog/plugx-meeting-invitation-via-msbuild-and-gdata/": {
-    "ts": "2026-08-31T08:24:53.814854+00:00",
-    "title": "PlugX Meeting Invitation via MSBuild and GDATA"
-  },
-  "https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-august-24-august-30": {
-    "ts": "2026-08-31T08:24:53.967176+00:00",
-    "title": "A week in security (August 24 \u2013 August 30)"
-  },
-  "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/": {
-    "ts": "2026-08-31T08:24:54.104832+00:00",
-    "title": "Hunting MacSync Stealer infrastructure through behavioral pivots"
-  },
-  "https://moonlock.com/ticketmaster-scams": {
-    "ts": "2026-08-31T08:24:54.104855+00:00",
-    "title": "Is Ticketmaster legit? Common scams and what buyers should know"
-  },
-  "https://www.morphisec.com/blog/the-breakouts-are-routine-now-why-ai-usage-controland-preemptive-defense-cannot-wait/": {
-    "ts": "2026-08-31T08:24:54.104859+00:00",
-    "title": "The Breakouts Are Routine Now: Why AI Usage Control and Preemptive Defense Cannot Wait"
-  },
-  "https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/": {
-    "ts": "2026-08-31T08:24:54.236984+00:00",
-    "title": "Kimwolf v7: An Evolution of the Kimwolf Botnet"
-  },
-  "https://permiso.io/blog/why-we-built-identity-runtime-attribution-for-ai-agents": {
-    "ts": "2026-08-31T08:24:54.237011+00:00",
-    "title": "Why We Built Identity Runtime Attribution for AI Agents"
-  },
-  "https://www.rapid7.com/blog/post/c-licencias-online-partnership-accelerates-latam-cybersecurity-maturity-latin-america": {
-    "ts": "2026-08-31T08:24:54.237016+00:00",
-    "title": "Rapid7 and Licencias OnLine Partner to Accelerate Cybersecurity Maturity across Latin America"
-  },
-  "https://www.recordedfuture.com/blog/copycop-targets-ai-investment": {
-    "ts": "2026-08-31T08:24:54.363611+00:00",
-    "title": "CopyCop Targets AI Investment in Armenia"
-  },
-  "https://rewterz.com/threat-advisory/google-fixes-critical-chrome-webgl-and-dawn-flaws": {
-    "ts": "2026-08-31T08:24:54.491039+00:00",
-    "title": "Google Fixes Critical Chrome WebGL and Dawn Flaws"
-  },
-  "https://securelist.com/android-head-unit-malware/121106/": {
-    "ts": "2026-08-31T08:24:54.631082+00:00",
-    "title": "The invisible passenger in your car"
-  },
-  "https://securityaffairs.com/198156/security/critical-givewp-flaw-lets-attackers-run-commands-on-wordpress-servers.html": {
-    "ts": "2026-08-31T08:24:54.757865+00:00",
-    "title": "Critical GiveWP Flaw Lets Attackers Run Commands on WordPress Servers"
-  },
   "https://cyble.com/blog/ransomware-threats-in-europe-h1-2026/": {
     "ts": "2026-08-31T16:53:39.623269+00:00",
     "title": "Ransomware Threats in Europe H1 2026: A Deep Dive into Regional Attack Patterns and Dominant Threat Actors"
@@ -24958,5 +24842,125 @@
   "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/": {
     "ts": "2026-10-30T08:22:35.094718+00:00",
     "title": "Updated Cyber Threat Actor Naming System"
+  },
+  "https://asec.ahnlab.com/en/96295/": {
+    "ts": "2026-10-30T15:46:13.329337+00:00",
+    "title": "September 2026 Threat Trend Report on APT Attacks (South Korea)"
+  },
+  "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/": {
+    "ts": "2026-10-30T15:46:13.549287+00:00",
+    "title": "Malicious Claude Code extension on Cursor planted SSH backdoors"
+  },
+  "https://cybersecuritynews.com/north-korean-hackers-2/": {
+    "ts": "2026-10-30T15:46:13.737792+00:00",
+    "title": "North Korean Hackers Steal Developer Credentials to Inject Malware Into GitHub and Software Packages"
+  },
+  "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian": {
+    "ts": "2026-10-30T15:46:13.737812+00:00",
+    "title": "L\u2019Italia \u00e8 afflitta da vulnerabilit\u00e0 informatiche, senza una causa chiara"
+  },
+  "https://gbhackers.com/codex-claude-code-relays/": {
+    "ts": "2026-10-30T15:46:13.925857+00:00",
+    "title": "Unauthorized Codex and Claude Code Relays Disable Security Protections at 12 Organizations"
+  },
+  "https://www.group-ib.com/blog/one-adversary-fraud-network/": {
+    "ts": "2026-10-30T15:46:14.132647+00:00",
+    "title": "One Adversary: Fraud Is a Network, Not a Payment"
+  },
+  "https://www.helpnetsecurity.com/2026/10/30/syrian-hacker-sentenced-42-months-prison/": {
+    "ts": "2026-10-30T15:46:14.331755+00:00",
+    "title": "Assad regime hacker who caused $136 billion market drop sentenced to 42 months"
+  },
+  "https://threatresearch.ext.hp.com/security-in-an-agentic-ai-world/": {
+    "ts": "2026-10-30T15:46:14.531894+00:00",
+    "title": "Security in an Agentic AI World"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/the-procurement-trap-inside-an-aitm-campaign-targeting-global-institutions/": {
+    "ts": "2026-10-30T15:46:14.721157+00:00",
+    "title": "The Procurement Trap: Inside an AiTM Campaign Targeting Global Institutions"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/10/fake-pdf-and-search-tools-hijacked-searches-for-13-4-million-chrome-users": {
+    "ts": "2026-10-30T15:46:14.916832+00:00",
+    "title": "Fake PDF and search tools hijacked searches for 13.4 million Chrome users"
+  },
+  "https://moonlock.com/corina-darksword-infecting-iphones": {
+    "ts": "2026-10-30T15:46:15.118409+00:00",
+    "title": "Coruna and DarkSword spyware are infecting iPhones to steal crypto"
+  },
+  "https://www.morphisec.com/blog/you-cant-detect-an-improviser-why-self-learning-ai-malware-ends-the-detection-era/": {
+    "ts": "2026-10-30T15:46:15.317819+00:00",
+    "title": "You Can\u2019t Detect an Improviser: Why Self-Learning AI Malware Ends the Detection Era"
+  },
+  "https://permiso.io/blog/best-itdr-platform-hacker-news-cybersecurity-stars-2026": {
+    "ts": "2026-10-30T15:46:15.317836+00:00",
+    "title": "Permiso Wins Best Identity Threat Detection and Response (ITDR) Platform at the 2026 Cybersecurity Stars Awards"
+  },
+  "https://www.recordedfuture.com/blog/native-risk-ratings": {
+    "ts": "2026-10-30T15:46:15.317840+00:00",
+    "title": "Recorded Future Launches 6 New Capabilities for Third-Party Risk"
+  },
+  "https://securelist.com/practical-filter-generation/121697/": {
+    "ts": "2026-10-30T15:46:15.317842+00:00",
+    "title": "Filter generation in practice: from algorithms to LLMs"
+  },
+  "https://securityaffairs.com/202110/hacking/how-to-prioritize-remediation-after-a-pentest-a-practitioner-workflow.html": {
+    "ts": "2026-10-30T15:46:15.505826+00:00",
+    "title": "How to prioritize remediation after a pentest: a practitioner workflow"
+  },
+  "https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/": {
+    "ts": "2026-10-30T15:46:15.706354+00:00",
+    "title": "PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress"
+  },
+  "https://socradar.io/blog/binance-hack-6-3b-hot-wallet-theft/": {
+    "ts": "2026-10-30T15:46:15.906401+00:00",
+    "title": "Binance Hack: Inside the $6.3B Hot Wallet Theft"
+  },
+  "https://www.sophos.com/en-us/blog/malicious-claude-code-extension-distributed-through-cursor-marketplace": {
+    "ts": "2026-10-30T15:46:16.094502+00:00",
+    "title": "Malicious Claude Code extension distributed through Cursor marketplace"
+  },
+  "https://www.security.com/product-insights/taking-dlp-cloud-edge-kubernetes": {
+    "ts": "2026-10-30T15:46:16.295086+00:00",
+    "title": "Taking DLP to the Cloud Edge with Kubernetes"
+  },
+  "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html": {
+    "ts": "2026-10-30T15:46:16.295104+00:00",
+    "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis"
+  },
+  "https://www.theregister.com/security/2026/10/30/british-intelligence-agency-misplaced-thousands-of-storage-devices-years-later-still-cant-say-how-many/5306605": {
+    "ts": "2026-10-30T15:46:16.295107+00:00",
+    "title": "British intelligence agency misplaced 'thousands' of storage devices, years later still can't say how many"
+  },
+  "https://threatmon.io/vulntober-2026-php2shell-gitlab-cisco-pan-os-15-critical-flaws-to-patch/": {
+    "ts": "2026-10-30T15:46:16.295110+00:00",
+    "title": "Vulntober 2026: PHP2Shell, GitLab, Cisco, PAN-OS & 15+ Critical Flaws to Patch"
+  },
+  "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/": {
+    "ts": "2026-10-30T15:46:16.295113+00:00",
+    "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone"
+  },
+  "https://cybersecuritynews.com/when-threats-dont-wait-security-cant-either/": {
+    "ts": "2026-10-30T15:46:16.295115+00:00",
+    "title": "When Threats Don\u2019t Wait, Security Can\u2019t Either"
+  },
+  "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks": {
+    "ts": "2026-10-30T15:46:16.494641+00:00",
+    "title": "Undead Software Projects Continue to Raise Security Risks"
+  },
+  "https://gbhackers.com/japan-ai-cyberattacks/": {
+    "ts": "2026-10-30T15:46:16.683022+00:00",
+    "title": "Japan Faces Growing Cyberattack Crisis as AI Tools Help Hackers Target Businesses and Government"
+  },
+  "https://www.group-ib.com/blog/balonx-sistema-mexico-phaas/": {
+    "ts": "2026-10-30T15:46:16.872867+00:00",
+    "title": "Balonx Sistema: The Face Behind the PhaaS Affecting Mexican Banking"
+  },
+  "https://www.helpnetsecurity.com/2026/10/30/claude-code-extension-ssh-backdoor/": {
+    "ts": "2026-10-30T15:46:17.060254+00:00",
+    "title": "Claude Code extension poisoned with persistent SSH backdoor"
+  },
+  "https://www.infoblox.com/blog/threat-intelligence/fake-installers-fake-reviews-fake-services-real-proxies-real-victims/": {
+    "ts": "2026-10-30T15:46:17.249488+00:00",
+    "title": "Fake Installers, Fake Reviews, Fake Services \u2013 Real Proxies, Real Victims"
   }
 }
