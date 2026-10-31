@@ -1,124 +1,4 @@
 {
-  "https://research.checkpoint.com/2026/10th-august-threat-intelligence-report/": {
-    "ts": "2026-09-01T01:06:40.227873+00:00",
-    "title": "10th August \u2013 Threat Intelligence Report"
-  },
-  "https://asec.ahnlab.com/en/94912/": {
-    "ts": "2026-09-01T01:09:15.497125+00:00",
-    "title": "July 2026 Dark Web Breach Incident Trend Report"
-  },
-  "https://www.bitdefender.com/en-us/blog/labs/global-investment-scam-network-using-meta-ads": {
-    "ts": "2026-09-01T01:09:15.497150+00:00",
-    "title": "Global Scam Machines: Inside a Meta-Powered Investment Fraud Ecosystem Spanning 25 Countries"
-  },
-  "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/": {
-    "ts": "2026-09-01T01:09:15.641144+00:00",
-    "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels"
-  },
-  "https://blog.talosintelligence.com/curiouser-and-curiouser/": {
-    "ts": "2026-09-01T01:09:15.693584+00:00",
-    "title": "Curiouser and Curiouser"
-  },
-  "https://www.duskrise.com/2022/09/23/in-the-footsteps-of-the-fancy-bear-powerpoint-mouse-over-event-abused-to-deliver-graphite-implants/": {
-    "ts": "2026-09-01T01:09:15.746407+00:00",
-    "title": "In the footsteps of the Fancy Bear: PowerPoint\u00a0mouse-over event abused to deliver Graphite implants"
-  },
-  "https://cofense.com/blog/the-platform-you-trust-is-the-platform-they-target": {
-    "ts": "2026-09-01T01:09:15.797800+00:00",
-    "title": "The Platform You Trust Is the Platform They Target"
-  },
-  "https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/": {
-    "ts": "2026-09-01T01:09:15.850558+00:00",
-    "title": "Agents of Chaos: A New $100K Agentic Security Challenge"
-  },
-  "https://www.cybereason.com/blog/ttp-briefing-q3-2025": {
-    "ts": "2026-09-01T01:09:15.909173+00:00",
-    "title": "Cybereason TTP Briefing Q3 2025: LOLBINs and CVE Exploits Dominate"
-  },
-  "https://cyble.com/blog/attack-surface-discovery-asset-visibility/": {
-    "ts": "2026-09-01T01:09:15.958124+00:00",
-    "title": "The Assets You Don\u2019t Know You Own: Attack Surface Sprawl Is a Discovery Problem, Not a Tooling Problem"
-  },
-  "https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks": {
-    "ts": "2026-09-01T01:09:16.014309+00:00",
-    "title": "'TerminalFix' Campaign Weaponizes PowerShell for Enterprise Attacks"
-  },
-  "https://www.darktrace.com/blog/cybersecurity-for-the-sports-sector-the-threats-facing-a-digitized-industry-in-2026": {
-    "ts": "2026-09-01T01:09:16.014322+00:00",
-    "title": "Cybersecurity for the Sports Sector: The Threats Facing a Digitized Industry in 2026"
-  },
-  "https://blog.eclecticiq.com/seo-poisoning-campaign-leverages-gemini-and-claude-code-impersonation-to-deliver-infostealer": {
-    "ts": "2026-09-01T01:09:16.075091+00:00",
-    "title": "SEO poisoning campaign leverages Gemini and Claude Code impersonation to deliver infostealer"
-  },
-  "https://www.forescout.com/blog/2026h1-threat-review-vulnerabilities-up-51-year-over-year/": {
-    "ts": "2026-09-01T01:09:16.075102+00:00",
-    "title": "2026H1 Threat Review: Vulnerabilities Up 51% Year Over Year"
-  },
-  "https://cloud.google.com/blog/topics/threat-intelligence/google-continued-disruption-residential-proxy-networks/": {
-    "ts": "2026-09-01T01:09:16.075107+00:00",
-    "title": "Google\u2019s Continued Disruption of Malicious Residential Proxy Networks"
-  },
-  "https://www.group-ib.com/blog/scalable-bridges-ciaops-library/": {
-    "ts": "2026-09-01T01:09:16.075110+00:00",
-    "title": "Building Scalable Bridges Between Systems Using The Latest Release of Our Ciaops Library"
-  },
-  "https://www.helpnetsecurity.com/2026/08/31/amazon-aws-console-private-access/": {
-    "ts": "2026-09-01T01:09:16.197751+00:00",
-    "title": "AWS Console Private Access can block sign-ins to personal accounts"
-  },
-  "https://www.infoblox.com/blog/threat-intelligence/lookalike-domains-expose-the-iphone-theft-economy/": {
-    "ts": "2026-09-01T01:09:16.251146+00:00",
-    "title": "Lookalike Domains Expose the iPhone Theft Economy"
-  },
-  "https://www.malwarebytes.com/blog/bugs/2026/08/update-chrome-before-you-browse-again": {
-    "ts": "2026-09-01T01:09:16.305867+00:00",
-    "title": "Update Chrome before you browse again"
-  },
-  "https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/": {
-    "ts": "2026-09-01T01:09:16.360132+00:00",
-    "title": "\u200b\u200bMicrosoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)"
-  },
-  "https://moonlock.com/remove-malware-from-chrome": {
-    "ts": "2026-09-01T01:09:16.413154+00:00",
-    "title": "How to scan Chrome for viruses and remove them permanently"
-  },
-  "https://www.morphisec.com/blog/ai-inventory-the-missing-layer-in-endpoint-security/": {
-    "ts": "2026-09-01T01:09:16.413164+00:00",
-    "title": "AI Inventory: The Missing Layer in Endpoint Security"
-  },
-  "https://unit42.paloaltonetworks.com/soc-identity-front-door/": {
-    "ts": "2026-09-01T01:09:16.413167+00:00",
-    "title": "Inside the Modern SOC: The Identity Front Door"
-  },
-  "https://permiso.io/blog/permiso-wins-2026-sc-award-best-threat-detection-technology": {
-    "ts": "2026-09-01T01:09:16.413170+00:00",
-    "title": "Permiso Security Wins 2026 SC Award for Best Threat Detection Technology"
-  },
-  "https://www.rapid7.com/blog/post/c-starlink-distribution-partnership-africa": {
-    "ts": "2026-09-01T01:09:16.413173+00:00",
-    "title": "Africa\u2019s Cybersecurity Challenge Is Bigger Than Access to Technology"
-  },
-  "https://www.recordedfuture.com/blog/hugging-face-cheap-persistence": {
-    "ts": "2026-09-01T01:09:16.464091+00:00",
-    "title": "The Hugging Face Hack Was Cheap Persistence at Work"
-  },
-  "https://rewterz.com/threat-advisory/zyxel-patches-command-injection-flaw-in-18-access-points": {
-    "ts": "2026-09-01T01:09:16.513129+00:00",
-    "title": "Zyxel Patches Command Injection Flaw in 18 Access Points"
-  },
-  "https://securelist.com/armored-likho-still-toolkit/121033/": {
-    "ts": "2026-09-01T01:09:16.574529+00:00",
-    "title": "Armored Likho expands its cyber-espionage toolkit"
-  },
-  "https://securityaffairs.com/198191/security/valleyrat-when-legitimate-software-becomes-a-malware-delivery-tool.html": {
-    "ts": "2026-09-01T01:09:16.628541+00:00",
-    "title": "ValleyRAT: When Legitimate Software Becomes a Malware Delivery Tool"
-  },
-  "https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/": {
-    "ts": "2026-09-01T01:09:16.680577+00:00",
-    "title": "Nightmare Eclipse Drops \u2018HardBreacher\u2019 Kaspersky Product Exploit"
-  },
   "https://asec.ahnlab.com/en/94917/": {
     "ts": "2026-09-01T07:30:55.471321+00:00",
     "title": "July 2026 Dark Web Threat Actor Trend Report"
@@ -24962,5 +24842,125 @@
   "https://www.recordedfuture.com/research/malware-crypting-services-threat-actors": {
     "ts": "2026-10-31T00:37:40.904791+00:00",
     "title": "Malware Crypting Services and the Threat Actors Who Sell Them"
+  },
+  "https://securityaffairs.com/202133/security/u-s-cisa-adds-gitlab-and-cisco-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-10-31T06:48:08.248904+00:00",
+    "title": "U.S. CISA adds GitLab\u00a0and Cisco\u00a0flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/fake-claude-code-google-ads-malware": {
+    "ts": "2026-10-31T06:49:53.621563+00:00",
+    "title": "Windows and macOS Malware Spreads via Fake \u201cClaude Code\u201d Google Ads"
+  },
+  "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/": {
+    "ts": "2026-10-31T06:49:53.857329+00:00",
+    "title": "Drupal warns of critical Commerce Core flaw exploited in attacks"
+  },
+  "https://www.duskrise.com/2022/11/07/sanctioned-deals-the-irano-russian-connection-under-ankaras-supervision-analysis-of-the-nppd-leak/": {
+    "ts": "2026-10-31T06:49:53.857342+00:00",
+    "title": "Sanctioned deals: the Irano-Russian connection under Ankara\u2019s supervision. Analysis of the NPPD leak"
+  },
+  "https://cybersecuritynews.com/60000-attacks-targeting-wordpress/": {
+    "ts": "2026-10-31T06:49:53.857346+00:00",
+    "title": "Over 60,000 Attacks Target WordPress RCE Vulnerability Within 24 Hours"
+  },
+  "https://www.darktrace.com/blog/when-ai-infrastructure-becomes-part-of-the-attack-surface": {
+    "ts": "2026-10-31T06:49:54.096800+00:00",
+    "title": "When AI Infrastructure Becomes Part of the Attack Surface"
+  },
+  "https://blog.eclecticiq.com/customer-case-study-how-intelligence-center-helps-cti-teams-cut-through-noise-and-act-with-confidence": {
+    "ts": "2026-10-31T06:49:54.333438+00:00",
+    "title": "Customer case study: How Intelligence Center\u2122 helps CTI teams cut through noise and act with confidence"
+  },
+  "https://gbhackers.com/mdaemon-mail-server-flaw/": {
+    "ts": "2026-10-31T06:49:54.569649+00:00",
+    "title": "Russian Hackers Exploit MDaemon Mail Server Flaw to Install Backdoors Without User Interaction"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/": {
+    "ts": "2026-10-31T06:49:54.807293+00:00",
+    "title": "The \u2018Ghost\u2019 in the Database: Recovering Active ADFS Signing Keys via Machine DPAPI"
+  },
+  "https://www.group-ib.com/blog/windrelay-nfc-spynote-rat-combo-fraud/": {
+    "ts": "2026-10-31T06:49:55.052336+00:00",
+    "title": "Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme"
+  },
+  "https://www.helpnetsecurity.com/2026/10/30/bitdefender-smart-tvs-vulnerabilities-report/": {
+    "ts": "2026-10-31T06:49:55.292369+00:00",
+    "title": "Smart TVs can harbor unpatched security flaws and track what you watch"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/": {
+    "ts": "2026-10-31T06:49:55.537671+00:00",
+    "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor"
+  },
+  "https://permiso.io/blog/introducing-sandyclaw-dynamic-sandbox-ai-agent-skills": {
+    "ts": "2026-10-31T06:49:55.537684+00:00",
+    "title": "Introducing SandyClaw - The First Dynamic Sandbox for AI Agent Skills and Prompts"
+  },
+  "https://www.recordedfuture.com/blog/mines-minds-machines": {
+    "ts": "2026-10-31T06:49:55.537688+00:00",
+    "title": "Mines, Minds, and Machines: The Journey of AI"
+  },
+  "https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/": {
+    "ts": "2026-10-31T06:49:55.537692+00:00",
+    "title": "Bulletproof Host Virtualine Loses Its Domain to FBI Seizure"
+  },
+  "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html": {
+    "ts": "2026-10-31T06:49:55.772989+00:00",
+    "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats"
+  },
+  "https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682": {
+    "ts": "2026-10-31T06:49:56.016097+00:00",
+    "title": "Anthropic: That Claude Code extension compromise\u2026 couldn't be us"
+  },
+  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-october-2026/": {
+    "ts": "2026-10-31T06:49:56.250820+00:00",
+    "title": "This month in security with Tony Anscombe \u2013 October 2026 edition"
+  },
+  "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/": {
+    "ts": "2026-10-31T06:49:56.486981+00:00",
+    "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop"
+  },
+  "https://cybersecuritynews.com/google-launches-gemini-4-carbon/": {
+    "ts": "2026-10-31T06:49:56.724054+00:00",
+    "title": "Google Launches Gemini 4 Carbon With State-Of-The-Art Cybersecurity Capabilities"
+  },
+  "https://gbhackers.com/cisa-gitlab-vulnerability-cve-2026-97229/": {
+    "ts": "2026-10-31T06:49:56.958245+00:00",
+    "title": "CISA Confirms Active Exploitation of GitLab Vulnerability CVE-2026-97229"
+  },
+  "https://securityaffairs.com/202073/hacking/us-probes-suspected-hack-behind-military-base-freezer-failures.html": {
+    "ts": "2026-10-31T06:49:57.192671+00:00",
+    "title": "US Probes Suspected Hack Behind Military Base Freezer Failures"
+  },
+  "https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/": {
+    "ts": "2026-10-31T06:49:57.429108+00:00",
+    "title": "Fresh WordPress Vulnerability in Attackers\u2019 Crosshairs"
+  },
+  "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html": {
+    "ts": "2026-10-31T06:49:57.429124+00:00",
+    "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%"
+  },
+  "https://www.theregister.com/security/2026/10/29/shortlist-of-age-checks-for-the-uks-under-16-social-media-ban-is-out-some-adults-will-need-verifying/5306282": {
+    "ts": "2026-10-31T06:49:57.429127+00:00",
+    "title": "Shortlist of age checks for the UK's under-16 social media ban is out, 'some' adults will need verifying"
+  },
+  "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/": {
+    "ts": "2026-10-31T06:49:57.666315+00:00",
+    "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced"
+  },
+  "https://cybersecuritynews.com/teamviewer-security-flaw/": {
+    "ts": "2026-10-31T06:49:57.900871+00:00",
+    "title": "TeamViewer Security Flaw Could Turn Remote Support Sessions Into Computer Takeovers"
+  },
+  "https://gbhackers.com/windows-11-remote-desktop-connection-failures/": {
+    "ts": "2026-10-31T06:49:57.900886+00:00",
+    "title": "Microsoft Releases Emergency Fix for Windows 11 Remote Desktop Connection Failures"
+  },
+  "https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/": {
+    "ts": "2026-10-31T06:49:58.137362+00:00",
+    "title": "Drupal Commerce Core Vulnerability Exploited Against Online Stores"
+  },
+  "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html": {
+    "ts": "2026-10-31T06:49:58.380430+00:00",
+    "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours"
   }
 }

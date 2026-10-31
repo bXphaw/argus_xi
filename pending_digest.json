@@ -99,6 +99,61 @@
       "category": "new_technique",
       "title": "Critical Drupal Commerce Vulnerability Could Let Hackers Buy Products for Just $0.01",
       "url": "https://cybersecuritynews.com/critical-drupal-commerce-vulnerability/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Windows and macOS Malware Spreads via Fake \u201cClaude Code\u201d Google Ads",
+      "url": "https://www.bitdefender.com/en-us/blog/labs/fake-claude-code-google-ads-malware"
+    },
+    {
+      "category": "new_technique",
+      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "When AI Infrastructure Becomes Part of the Attack Surface",
+      "url": "https://www.darktrace.com/blog/when-ai-infrastructure-becomes-part-of-the-attack-surface"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/"
+    },
+    {
+      "category": "new_technique",
+      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+      "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "US Probes Suspected Hack Behind Military Base Freezer Failures",
+      "url": "https://securityaffairs.com/202073/hacking/us-probes-suspected-hack-behind-military-base-freezer-failures.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Fresh WordPress Vulnerability in Attackers\u2019 Crosshairs",
+      "url": "https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/"
+    },
+    {
+      "category": "new_technique",
+      "title": "TeamViewer Security Flaw Could Turn Remote Support Sessions Into Computer Takeovers",
+      "url": "https://cybersecuritynews.com/teamviewer-security-flaw/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Drupal Commerce Core Vulnerability Exploited Against Online Stores",
+      "url": "https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/"
+    },
+    {
+      "category": "new_technique",
+      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+      "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html"
     }
   ],
   "last_sent_date": "2026-10-30"
