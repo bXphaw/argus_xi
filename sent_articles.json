@@ -1,124 +1,4 @@
 {
-  "https://research.checkpoint.com/2026/27th-july-threat-intelligence-report/": {
-    "ts": "2026-09-01T17:44:00.214107+00:00",
-    "title": "27th July \u2013 Threat Intelligence Report"
-  },
-  "https://asec.ahnlab.com/en/94995/": {
-    "ts": "2026-09-01T17:48:35.590391+00:00",
-    "title": "Attack Cases for Domestic Web Servers Running SoftEther VPN in Korea"
-  },
-  "https://www.bitdefender.com/en-us/blog/labs/android-trojan-campaign-hugging-face-hosting-rat-payload": {
-    "ts": "2026-09-01T17:48:35.830107+00:00",
-    "title": "Android Trojan Campaign Uses Hugging Face Hosting for RAT Payload Delivery"
-  },
-  "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/": {
-    "ts": "2026-09-01T17:48:36.089737+00:00",
-    "title": "Hackers push malicious Virtualizor update in BGP hijacking attack"
-  },
-  "https://blog.talosintelligence.com/why-metaphor-may-dictate-your-security-strategy/": {
-    "ts": "2026-09-01T17:48:36.089757+00:00",
-    "title": "Why metaphor may dictate your security strategy"
-  },
-  "https://cofense.com/blog/why-cofense-ai-is-different-built-for-the-reality-that-phishing-gets-through": {
-    "ts": "2026-09-01T17:48:36.089761+00:00",
-    "title": "Why Cofense AI Is Different: Built for the Reality That Phishing Gets Through"
-  },
-  "https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/": {
-    "ts": "2026-09-01T17:48:36.330691+00:00",
-    "title": "CrowdStrike Falcon Guardian Defines the Next Generation of AI Security"
-  },
-  "https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain": {
-    "ts": "2026-09-01T17:48:36.585915+00:00",
-    "title": "ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain"
-  },
-  "https://www.darktrace.com/blog/shadow-ai-detection-the-first-step-toward-securing-ai": {
-    "ts": "2026-09-01T17:48:36.834395+00:00",
-    "title": "Shadow AI Detection: The First Step Toward Securing AI"
-  },
-  "https://cloud.google.com/blog/topics/threat-intelligence/stockstay-turla-intelligence-gathering/": {
-    "ts": "2026-09-01T17:48:37.081779+00:00",
-    "title": "STOCKSTAY Another Day: The Latest Addition to Turla\u2019s Intelligence Gathering Apparatus"
-  },
-  "https://www.group-ib.com/blog/xmrig-covert-linux-pam-abuse/": {
-    "ts": "2026-09-01T17:48:37.330906+00:00",
-    "title": "XMRig Covert Ops: The Cryptomining Campaign That Abuses Trusted Access and Deploys Forensic Smokescreens"
-  },
-  "https://www.helpnetsecurity.com/2026/09/01/cisa-on-eliminating-recurring-security-weaknesses/": {
-    "ts": "2026-09-01T17:48:37.330924+00:00",
-    "title": "CISA review makes the case for eliminating vulnerability classes"
-  },
-  "https://www.infoblox.com/blog/threat-intelligence/patterns-pirates-and-provider-action-what-we-learned-working-with-keitaro/": {
-    "ts": "2026-09-01T17:48:37.330929+00:00",
-    "title": "Patterns, Pirates, and Provider Action: What We Learned Working with Keitaro"
-  },
-  "https://www.malwarebytes.com/blog/scams/2026/09/fake-gta-6-leaked-copy-drains-your-crypto-wallet": {
-    "ts": "2026-09-01T17:48:37.569715+00:00",
-    "title": "Fake GTA 6 leaked copy drains your crypto wallet"
-  },
-  "https://www.morphisec.com/blog/how-ai-driven-attacks-are-bypassing-edr-and-why-pre-execution-defense-matters/": {
-    "ts": "2026-09-01T17:48:37.569733+00:00",
-    "title": "How AI-Driven Attacks Are Bypassing EDR \u2014 And Why Pre-Execution Defense Matters"
-  },
-  "https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/": {
-    "ts": "2026-09-01T17:48:37.569737+00:00",
-    "title": "The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discovery in Open-Source Software"
-  },
-  "https://www.rapid7.com/blog/post/em-patch-tuesday-august-2026": {
-    "ts": "2026-09-01T17:48:37.821058+00:00",
-    "title": "Patch Tuesday - August 2026"
-  },
-  "https://www.recordedfuture.com/blog/agentic-soc-real-defense": {
-    "ts": "2026-09-01T17:48:38.064917+00:00",
-    "title": "The Agentic SOC \u2013 From AI Theater to Real Defense"
-  },
-  "https://rewterz.com/threat-advisory/critical-isolated-vm-javascript-flaw-enables-sandbox-escape": {
-    "ts": "2026-09-01T17:48:38.308690+00:00",
-    "title": "Critical isolated-vm JavaScript Flaw Enables Sandbox Escape"
-  },
-  "https://securelist.com/project-cav3rn-continues/120991/": {
-    "ts": "2026-09-01T17:48:38.605480+00:00",
-    "title": "Project CAV3RN continues: Google Apps Script as C2 relay and DNS-based C2 channel selection"
-  },
-  "https://securityaffairs.com/198250/data-breach/attackers-access-aesto-health-aws-infrastructure-exposing-9-5-million-records.html": {
-    "ts": "2026-09-01T17:48:38.867160+00:00",
-    "title": "Attackers Access Aesto Health AWS Infrastructure, Exposing 9.5 Million Records"
-  },
-  "https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/": {
-    "ts": "2026-09-01T17:48:39.137918+00:00",
-    "title": "Hackers Start Exploiting Critical Langflow Vulnerability"
-  },
-  "https://www.sentinelone.com/labs/frontier-models-tackle-autonomous-long-horizon-malware-analysis/": {
-    "ts": "2026-09-01T17:48:39.137938+00:00",
-    "title": "Sol Searching | Can Frontier Models Tackle Autonomous Long-Horizon Malware Analysis?"
-  },
-  "https://www.silentpush.com/news/danglegeddon-the-full-research-report-is-now-available/?utm_source=rss&utm_medium=rss&utm_campaign=danglegeddon-the-full-research-report-is-now-available": {
-    "ts": "2026-09-01T17:48:39.384802+00:00",
-    "title": "Danglegeddon: The Full Research Report Is Now Available"
-  },
-  "https://socradar.io/blog/servicenow-patches-multiple-cvss-10-0/": {
-    "ts": "2026-09-01T17:48:39.384821+00:00",
-    "title": "ServiceNow Patches Multiple CVSS 10.0 Flaws"
-  },
-  "https://www.sophos.com/en-us/blog/fake-ai-real-malware-attackers-impersonating-ai-brands": {
-    "ts": "2026-09-01T17:48:39.624137+00:00",
-    "title": "Fake AI, real malware: Attackers impersonating AI brands"
-  },
-  "https://www.security.com/product-insights/how-take-prevention-web-layer": {
-    "ts": "2026-09-01T17:48:39.876867+00:00",
-    "title": "How To Take Prevention to the Web Layer"
-  },
-  "https://thedfirreport.com/2026/05/11/flash-alert-etherrat-and-tuktuk-c2-end-in-the-gentleman-ransomware/": {
-    "ts": "2026-09-01T17:48:40.132551+00:00",
-    "title": "Flash Alert: EtherRat and TukTuk C2 End in The Gentleman Ransomware"
-  },
-  "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html": {
-    "ts": "2026-09-01T17:48:40.380619+00:00",
-    "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds"
-  },
-  "https://www.intego.com/mac-security-blog/how-to-use-icloud-private-relay/": {
-    "ts": "2026-09-01T17:48:40.642960+00:00",
-    "title": "What is iCloud Private Relay and how do you use it?"
-  },
   "https://research.checkpoint.com/2026/20th-july-threat-intelligence-report/": {
     "ts": "2026-09-01T20:47:56.451508+00:00",
     "title": "20th July \u2013 Threat Intelligence Report"
@@ -24842,5 +24722,117 @@
   "https://gbhackers.com/wordpress-rce-vulnerability-2/": {
     "ts": "2026-10-31T13:30:42.479144+00:00",
     "title": "WordPress RCE Vulnerability Under Active Attack With Over 58,000 Exploit Attempts Blocked"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/lummastealer-second-life-castleloader": {
+    "ts": "2026-10-31T18:24:33.190990+00:00",
+    "title": "LummaStealer Is Getting a Second Life Alongside CastleLoader"
+  },
+  "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/": {
+    "ts": "2026-10-31T18:24:33.191009+00:00",
+    "title": "Northflank security breach leads to abuse of customers' AI API keys"
+  },
+  "https://www.duskrise.com/2022/09/15/erbium-infostealer-enters-the-scene-characteristics-and-origins/": {
+    "ts": "2026-10-31T18:24:33.237254+00:00",
+    "title": "Erbium InfoStealer Enters the Scene:\u00a0Characteristics and Origins"
+  },
+  "https://www.darktrace.com/blog/protecting-global-stadiums-and-events-with-self-learning-ai": {
+    "ts": "2026-10-31T18:24:33.237267+00:00",
+    "title": "Protecting Stadiums & Events with AI"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/": {
+    "ts": "2026-10-31T18:24:33.283450+00:00",
+    "title": "Financially Motivated Threat Actor BREEZE COMET Targets Brazil"
+  },
+  "https://www.group-ib.com/blog/moment-nobody-sees/": {
+    "ts": "2026-10-31T18:24:33.328624+00:00",
+    "title": "One Adversary: The Moment Nobody Sees"
+  },
+  "https://permiso.io/blog/copilot-prompt-injection-ai-email-phishing": {
+    "ts": "2026-10-31T18:24:33.374516+00:00",
+    "title": "CO-PILOT, DISENGAGE AUTOPHISH: The New Phishing Surface Hiding Inside AI Email Summaries"
+  },
+  "https://www.recordedfuture.com/blog/july-2026-cve-landscape": {
+    "ts": "2026-10-31T18:24:33.420009+00:00",
+    "title": "July 2026 CVE Landscape"
+  },
+  "https://www.sentinelone.com/labs/the-model-is-the-malware-what-four-agentic-intrusions-tell-defenders/": {
+    "ts": "2026-10-31T18:24:33.466107+00:00",
+    "title": "The Model Is the Malware | What Four Agentic Intrusions Tell Defenders"
+  },
+  "https://thedfirreport.com/2026/06/29/from-bing-search-to-ransomware-bumblebee-and-adaptixc2-deliver-akira-3/": {
+    "ts": "2026-10-31T18:24:33.515947+00:00",
+    "title": "From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira"
+  },
+  "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html": {
+    "ts": "2026-10-31T18:24:33.560884+00:00",
+    "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw"
+  },
+  "https://threatmon.io/c2-environment-and-targeted-data-extraction/": {
+    "ts": "2026-10-31T18:24:33.560897+00:00",
+    "title": "C2 Environment and Targeted Data Extraction"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/helpful-skills-or-hidden-payloads-bitdefender-labs-dives-deep-into-the-openclaw-malicious-skill-trap": {
+    "ts": "2026-10-31T18:24:33.606919+00:00",
+    "title": "Helpful Skills or Hidden Payloads? Bitdefender Labs Dives Deep into the OpenClaw Malicious Skill Trap"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/": {
+    "ts": "2026-10-31T18:24:33.652320+00:00",
+    "title": "New Android SMS of Death exploit can remotely crash unpatched phones"
+  },
+  "https://www.darktrace.com/blog/a-new-security-challenge-the-curious-case-of-prompt-language-analysis": {
+    "ts": "2026-10-31T18:24:33.652334+00:00",
+    "title": "The Curious Case of Prompt Language Analysis"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-influence-ecosystem/": {
+    "ts": "2026-10-31T18:24:33.698861+00:00",
+    "title": "The Bear Necessities: A Look at the Drivers, Dynamics, and Applications of the Pro-Russia Influence Ecosystem"
+  },
+  "https://www.group-ib.com/blog/mssp-fraud-as-a-service/": {
+    "ts": "2026-10-31T18:24:33.745051+00:00",
+    "title": "MSSPs: Your SOC Already Detects Fraud. Missed Opportunity Is Selling It As a Service."
+  },
+  "https://www.recordedfuture.com/research/emerging-threats-neurotechnology": {
+    "ts": "2026-10-31T18:24:33.791268+00:00",
+    "title": "Emerging Threats to Neurotechnology"
+  },
+  "https://thehackernews.com/2026/10/binance-suffers-security-breach.html": {
+    "ts": "2026-10-31T18:24:33.836991+00:00",
+    "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen"
+  },
+  "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/": {
+    "ts": "2026-10-31T18:24:33.882245+00:00",
+    "title": "Reddit to lock content behind logins to fight scrapers"
+  },
+  "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html": {
+    "ts": "2026-10-31T18:24:33.882258+00:00",
+    "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities"
+  },
+  "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html": {
+    "ts": "2026-10-31T18:24:33.882261+00:00",
+    "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations"
+  },
+  "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html": {
+    "ts": "2026-10-31T18:24:33.929335+00:00",
+    "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls"
+  },
+  "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html": {
+    "ts": "2026-10-31T18:24:33.929349+00:00",
+    "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers"
+  },
+  "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html": {
+    "ts": "2026-10-31T18:24:33.929353+00:00",
+    "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories"
+  },
+  "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html": {
+    "ts": "2026-10-31T18:24:33.974491+00:00",
+    "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls"
+  },
+  "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html": {
+    "ts": "2026-10-31T18:24:34.019450+00:00",
+    "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation"
+  },
+  "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html": {
+    "ts": "2026-10-31T18:24:34.077578+00:00",
+    "title": "Attacker Tried to Exploit Alpine Linux\u2019s GitLab via CVSS 10.0 Flaw Its Ruby Left Open"
   }
 }
