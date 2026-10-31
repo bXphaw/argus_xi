@@ -34,6 +34,21 @@
       "category": "new_technique",
       "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
       "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html"
+    },
+    {
+      "category": "malware_android",
+      "title": "Android Trojan Campaign Uses Hugging Face Hosting for RAT Payload Delivery",
+      "url": "https://www.bitdefender.com/en-us/blog/labs/android-trojan-campaign-hugging-face-hosting-rat-payload"
+    },
+    {
+      "category": "malware_windows",
+      "title": "STOCKSTAY Another Day: The Latest Addition to Turla\u2019s Intelligence Gathering Apparatus",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/stockstay-turla-intelligence-gathering/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "XMRig Covert Ops: The Cryptomining Campaign That Abuses Trusted Access and Deploys Forensic Smokescreens",
+      "url": "https://www.group-ib.com/blog/xmrig-covert-linux-pam-abuse/"
     }
   ],
   "last_sent_date": "2026-10-31"
