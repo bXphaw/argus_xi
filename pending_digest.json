@@ -59,6 +59,46 @@
       "category": "new_technique",
       "title": "CISA says max severity GitLab flaw now exploited in the wild",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Windsurf IDE Extension Drops Malware via Solana Blockchain",
+      "url": "https://www.bitdefender.com/en-us/blog/labs/windsurf-extension-malware-solana"
+    },
+    {
+      "category": "malware_windows",
+      "title": "An infostealer comes to town:\u00a0Dissecting a highly evasive malware targeting Italy",
+      "url": "https://www.duskrise.com/2022/12/22/an-infostealer-comes-to-town-dissecting-a-highly-evasive-malware-targeting-italy/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Hackers Build Fake Polymarket Platforms That Rig Trades and Block Cryptocurrency Withdrawals",
+      "url": "https://cybersecuritynews.com/fake-polymarket-platforms/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Anatomy of BraZetsu: How Cybercriminals Fuel the Underground Ecosystem",
+      "url": "https://www.group-ib.com/blog/brazetsu-ai-enhanced-iab-marketplace/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Hot Take: Operation Endgame VS SocGholish",
+      "url": "https://www.infoblox.com/blog/threat-intelligence/hot-take-operation-endgame-vs-socgholish/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "RevStealer Is Built to Be Silent",
+      "url": "https://www.morphisec.com/blog/revstealer-silence-is-its-greatest-weapon/"
+    },
+    {
+      "category": "new_technique",
+      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+      "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical Drupal Commerce Vulnerability Could Let Hackers Buy Products for Just $0.01",
+      "url": "https://cybersecuritynews.com/critical-drupal-commerce-vulnerability/"
     }
   ],
   "last_sent_date": "2026-10-30"
