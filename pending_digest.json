@@ -34,6 +34,21 @@
       "category": "malware_windows",
       "title": "From a Single Click: How Lunar Spider Enabled a Near Two-Month Intrusion",
       "url": "https://thedfirreport.com/2025/09/29/from-a-single-click-how-lunar-spider-enabled-a-near-two-month-intrusion/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/"
+    },
+    {
+      "category": "new_technique",
+      "title": "ARTEX and Friends: Enter Agentic Offensive Frameworks",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/artex-and-friends-enter-agentic-offensive-frameworks/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "HOLLOWGRAPH: Turning Microsoft 365 Calendars into Covert Command-and-Control Channels",
+      "url": "https://www.group-ib.com/blog/hollowgraph-microsoft-365/"
     }
   ],
   "last_sent_date": "2026-11-01"
