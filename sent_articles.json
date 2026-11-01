@@ -1,244 +1,4 @@
 {
-  "https://asec.ahnlab.com/en/94844/": {
-    "ts": "2026-09-02T03:42:01.734094+00:00",
-    "title": "Ransom & Dark Web Issues Week 1, August 2026"
-  },
-  "https://research.checkpoint.com/2026/13th-july-threat-intelligence-report/": {
-    "ts": "2026-09-02T03:42:03.235519+00:00",
-    "title": "13th July \u2013 Threat Intelligence Report"
-  },
-  "https://vmblog.com/news/silent-push-enables-cybersecurity-companies-to-build-proactive-security-products-with-first-party-infrastructure-intelligence/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=silent-push-enables-cybersecurity-companies-to-build-proactive-security-products-with-first-party-infrastructure-intelligence": {
-    "ts": "2026-09-02T03:42:18.584976+00:00",
-    "title": "Silent Push Enables Cybersecurity Companies to Build Proactive Security Products with First-Party Infrastructure Intelligence"
-  },
-  "https://www.bitdefender.com/en-us/blog/labs/fake-battlefield-6-pirated-games-trainers": {
-    "ts": "2026-09-02T03:44:49.013000+00:00",
-    "title": "Fake Battlefield 6 Pirated Versions and Game Trainers Used to Deploy Stealers and C2 Agents"
-  },
-  "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/": {
-    "ts": "2026-09-02T03:44:49.075325+00:00",
-    "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys"
-  },
-  "https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/": {
-    "ts": "2026-09-02T03:44:49.075345+00:00",
-    "title": "You were onto something with \u201cIt\u2019s the Climb,\u201d Miley"
-  },
-  "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency": {
-    "ts": "2026-09-02T03:44:49.075349+00:00",
-    "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency"
-  },
-  "https://www.darktrace.com/blog/state-of-ai-cybersecurity-2026-77-of-security-stacks-include-ai-but-trust-is-lagging": {
-    "ts": "2026-09-02T03:44:49.075353+00:00",
-    "title": "77% of security stacks include AI, but trust is lagging"
-  },
-  "https://gbhackers.com/microsoft-teams-it-support-scam/": {
-    "ts": "2026-09-02T03:44:49.136724+00:00",
-    "title": "Hackers Pose as IT Support on Microsoft Teams to Target More Than 150 Employees"
-  },
-  "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-education-sector-oracle-exploit/": {
-    "ts": "2026-09-02T03:44:49.202999+00:00",
-    "title": "ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit"
-  },
-  "https://www.group-ib.com/blog/jadeprox-china-nexus-triback-loader/": {
-    "ts": "2026-09-02T03:44:49.268664+00:00",
-    "title": "JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake"
-  },
-  "https://www.helpnetsecurity.com/2026/09/01/crowdsec-1-8-0-bot-detection/": {
-    "ts": "2026-09-02T03:44:49.331001+00:00",
-    "title": "Bot detection arrives in CrowdSec 1.8.0, along with two DoS fixes"
-  },
-  "https://www.malwarebytes.com/blog/ai/2026/08/encrypted-instructions-can-fool-ai-assistants-like-grok-and-gemini": {
-    "ts": "2026-09-02T03:44:49.391533+00:00",
-    "title": "Grok fooled into stealing user chat, location data, and more"
-  },
-  "https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/": {
-    "ts": "2026-09-02T03:44:49.455821+00:00",
-    "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign"
-  },
-  "https://www.morphisec.com/blog/top-edr-enhancements-for-advanced-threat-prevention/": {
-    "ts": "2026-09-02T03:44:49.455840+00:00",
-    "title": "Top EDR Enhancements for Advanced Threat Prevention"
-  },
-  "https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/": {
-    "ts": "2026-09-02T03:44:49.519083+00:00",
-    "title": "The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version"
-  },
-  "https://www.rapid7.com/blog/post/ra-unauthenticated-rce-in-jetbrains-teamcity-cve-2026-63077": {
-    "ts": "2026-09-02T03:44:49.585244+00:00",
-    "title": "Rapid7 Analysis: Unauthenticated Remote Code Execution in JetBrains TeamCity (CVE-2026-63077)"
-  },
-  "https://www.recordedfuture.com/research/iran-violent-extremism-landscape": {
-    "ts": "2026-09-02T03:44:49.585265+00:00",
-    "title": "Iran War\u2019s Secondary Effects Shape 2026 US Violent Extremism"
-  },
-  "https://securityaffairs.com/198214/hacking/chaotic-eclipse-releases-kaspersky-zero-day-hardbreacher.html": {
-    "ts": "2026-09-02T03:44:49.653393+00:00",
-    "title": "Chaotic Eclipse Releases Kaspersky Zero-Day HardBreacher"
-  },
-  "https://www.securityweek.com/coast-guard-establishes-office-of-maritime-cybersecurity-policy/": {
-    "ts": "2026-09-02T03:44:49.715136+00:00",
-    "title": "Coast Guard Establishes Office of Maritime Cybersecurity Policy"
-  },
-  "https://www.sentinelone.com/labs/context-engineering-compaction-agent-memory-for-automated-malware-analysis/": {
-    "ts": "2026-09-02T03:44:49.776827+00:00",
-    "title": "Context Engineering | Compaction & Agent Memory for Automated Malware Analysis"
-  },
-  "https://socradar.io/blog/openai-cyber-defense-against-ai-threats/": {
-    "ts": "2026-09-02T03:44:49.837872+00:00",
-    "title": "OpenAI Urges Cyber Defense Against AI Threats"
-  },
-  "https://www.sophos.com/en-us/blog/clickfix-campaign-abuses-deno-runtime-for-infostealer-delivery": {
-    "ts": "2026-09-02T03:44:49.897677+00:00",
-    "title": "ClickFix campaign abuses Deno runtime for infostealer delivery"
-  },
-  "https://www.security.com/product-insights/cluster-came-back-disaster-recovery-high-speed-discovery": {
-    "ts": "2026-09-02T03:44:49.897695+00:00",
-    "title": "The Cluster That Came Back: Disaster Recovery for High Speed Discovery"
-  },
-  "https://thedfirreport.com/2025/12/17/cats-got-your-files-lynx-ransomware/": {
-    "ts": "2026-09-02T03:44:49.964085+00:00",
-    "title": "Cat\u2019s Got Your Files: Lynx Ransomware"
-  },
-  "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html": {
-    "ts": "2026-09-02T03:44:50.026922+00:00",
-    "title": "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones"
-  },
-  "https://www.intego.com/mac-security-blog/mac-os-versions/": {
-    "ts": "2026-09-02T03:44:50.026943+00:00",
-    "title": "A list of macOS versions in order by year"
-  },
-  "https://www.theregister.com/cyber-crime/2026/09/02/cops-crowdstrike-disrupt-sality-botnet-by-poisoning-the-network-and-diverting-into-sinkholes/5293795": {
-    "ts": "2026-09-02T03:44:50.088313+00:00",
-    "title": "Cops, CrowdStrike disrupt Sality botnet by poisoning the network and diverting into sinkholes"
-  },
-  "https://cybersecuritynews.com/iran-linked-hackers-2/amp/#new_tab": {
-    "ts": "2026-09-02T03:44:50.153510+00:00",
-    "title": "Iran-Linked Hackers Reportedly Knock UK Power Plant Offline for Four Days"
-  },
-  "https://www.trendmicro.com/en_us/research/26/g/open-secure-ai-alliance.html": {
-    "ts": "2026-09-02T03:44:50.153530+00:00",
-    "title": "Why the Open Secure AI Alliance Matters: Open Frontier Models, Open Deployment Flexibility"
-  },
-  "https://asec.ahnlab.com/en/94847/": {
-    "ts": "2026-09-02T08:38:52.320313+00:00",
-    "title": "Analysis of the Connection Between Xctdoor and Past CRAT Attack Cases (Larva-26005)"
-  },
-  "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/": {
-    "ts": "2026-09-02T08:38:52.371978+00:00",
-    "title": "Sality botnet infrastructure dismantled in joint global takedown"
-  },
-  "https://www.crowdstrike.com/en-us/blog/inside-sality-botnet-disruption-operation/": {
-    "ts": "2026-09-02T08:38:52.421056+00:00",
-    "title": "Peer Pressure: Inside the Sality Botnet Disruption Operation"
-  },
-  "https://cybersecuritynews.com/remote-access-trojan/": {
-    "ts": "2026-09-02T08:38:52.421068+00:00",
-    "title": "Hackers Hide a Full Remote Access Trojan Inside a Real Exodus Crypto Wallet"
-  },
-  "https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within": {
-    "ts": "2026-09-02T08:38:52.421072+00:00",
-    "title": "Stronger Security Drives Ransomware Groups to Recruit From Within"
-  },
-  "https://www.darktrace.com/blog/chinese-apt-campaign-targets-entities-with-updated-fdmtp-backdoor": {
-    "ts": "2026-09-02T08:38:52.472043+00:00",
-    "title": "Chinese APT Campaign Targets Entities with Updated FDMTP Backdoor"
-  },
-  "https://gbhackers.com/google-patches-26-chrome-vulnerabilities/": {
-    "ts": "2026-09-02T08:38:52.524187+00:00",
-    "title": "Google Patches 26 Chrome Vulnerabilities, Including Critical WebGL and Shared Tab Groups Flaws"
-  },
-  "https://cloud.google.com/blog/topics/threat-intelligence/targeted-campaign-us-law-firms/": {
-    "ts": "2026-09-02T08:38:52.586252+00:00",
-    "title": "Seeking Counsel: Ongoing Targeted Campaign Against US Law Firms"
-  },
-  "https://www.group-ib.com/blog/threat-intelligence-connected-layer/": {
-    "ts": "2026-09-02T08:38:52.641765+00:00",
-    "title": "Risks, Vulnerabilities And Response: Threat Intelligence is Quietly Becoming The Connected Layer in Security"
-  },
-  "https://www.helpnetsecurity.com/2026/09/02/duckdb-aws-acquisition-open-source/": {
-    "ts": "2026-09-02T08:38:52.697585+00:00",
-    "title": "DuckDB stays open source while the team behind it goes to work for Amazon"
-  },
-  "https://www.malwarebytes.com/blog/privacy/2026/08/gta-6-leak-hunt-could-expose-data-belonging-to-thousands-of-discord-users": {
-    "ts": "2026-09-02T08:38:52.697597+00:00",
-    "title": "GTA 6 leak hunt could expose data belonging to thousands of Discord users"
-  },
-  "https://www.morphisec.com/blog/the-ai-security-gap-facing-modern-credit-unions/": {
-    "ts": "2026-09-02T08:38:52.697601+00:00",
-    "title": "The AI Security Gap Facing Modern Credit Unions"
-  },
-  "https://www.rapid7.com/blog/post/etr-cve-2026-18577-n-able-n-central-authentication-bypass-exploited-in-the-wild": {
-    "ts": "2026-09-02T08:38:52.755689+00:00",
-    "title": "CVE-2026-18577: N-able N-central Authentication Bypass Exploited in the Wild"
-  },
-  "https://www.recordedfuture.com/blog/ai-generated-extortion": {
-    "ts": "2026-09-02T08:38:52.755703+00:00",
-    "title": "Dealing with AI-Generated Extortion"
-  },
-  "https://securityaffairs.com/198270/hacking/hackers-target-langflow-in-cve-2026-0768-attacks.html": {
-    "ts": "2026-09-02T08:38:52.815017+00:00",
-    "title": "Hackers Target Langflow in CVE-2026-0768 Attacks"
-  },
-  "https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/": {
-    "ts": "2026-09-02T08:38:52.894419+00:00",
-    "title": "SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks"
-  },
-  "https://www.sentinelone.com/labs/macos-gaslight-rust-backdoor-turns-prompt-injection-on-the-analyst-not-the-sandbox/": {
-    "ts": "2026-09-02T08:38:52.965452+00:00",
-    "title": "macOS.Gaslight | Rust Backdoor Turns Prompt Injection on the Analyst, Not the Sandbox"
-  },
-  "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=weekly-recap-rogue-ai-models-88m-bitcoin-theft-water-system-attacks-and-dangling-dns-hijacks": {
-    "ts": "2026-09-02T08:38:53.023173+00:00",
-    "title": "Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks"
-  },
-  "https://socradar.io/blog/langflow-ruby-on-rails-flaws-exploited/": {
-    "ts": "2026-09-02T08:38:53.084544+00:00",
-    "title": "Langflow and Rails Exploitation Raises Credential Risks"
-  },
-  "https://www.sophos.com/en-us/blog/2608-volatility-interlock": {
-    "ts": "2026-09-02T08:38:53.144086+00:00",
-    "title": "2608-volatility-interlock"
-  },
-  "https://www.security.com/expert-perspectives/no-apologies-symantec-cbx": {
-    "ts": "2026-09-02T08:38:53.144099+00:00",
-    "title": "No Apologies for Symantec CBX"
-  },
-  "https://thedfirreport.com/2025/09/29/from-a-single-click-how-lunar-spider-enabled-a-near-two-month-intrusion/": {
-    "ts": "2026-09-02T08:38:53.204189+00:00",
-    "title": "From a Single Click: How Lunar Spider Enabled a Near Two-Month Intrusion"
-  },
-  "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html": {
-    "ts": "2026-09-02T08:38:53.291501+00:00",
-    "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another"
-  },
-  "https://www.intego.com/mac-security-blog/can-macs-get-viruses/": {
-    "ts": "2026-09-02T08:38:53.291515+00:00",
-    "title": "Can Macs get viruses? How to protect your Mac"
-  },
-  "https://www.theregister.com/security/2026/09/01/attacker-stole-a-metr-api-key-used-600k-worth-of-credits-and-no-one-noticed-for-weeks/5293730": {
-    "ts": "2026-09-02T08:38:53.365256+00:00",
-    "title": "Attacker stole a METR API key, used $600K worth of credits, and no one noticed for weeks"
-  },
-  "https://cyberpress.org/uk-power-plant-cyberattack/#new_tab": {
-    "ts": "2026-09-02T08:38:53.425533+00:00",
-    "title": "Cyberattack Disrupts 15 MW UK Power Plant for Four Days as OT Attack Vector Remains Unknown"
-  },
-  "https://www.trendmicro.com/en_us/research/26/g/tracking-fake-sites-in-the-2026-world-cup-scam-wave.html": {
-    "ts": "2026-09-02T08:38:53.482068+00:00",
-    "title": "Tracking Over 35,000 Fake Sites in the 2026 World Cup Scam Wave"
-  },
-  "https://www.volexity.com/blog/2026/07/17/proxying-to-compromise-sonicwall-secure-mobile-access-0-day-exploitation/": {
-    "ts": "2026-09-02T08:38:53.538665+00:00",
-    "title": "Proxying to Compromise: SonicWall Secure Mobile Access 0-day Exploitation"
-  },
-  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-august-2026/": {
-    "ts": "2026-09-02T08:38:53.592451+00:00",
-    "title": "This month in security with Tony Anscombe \u2013 August 2026 edition"
-  },
-  "https://threats.wiz.io/all-incidents/payroll-pirates-phishing-campaign-targets-microsoft-365-financial-workflows": {
-    "ts": "2026-09-02T08:38:53.648300+00:00",
-    "title": "Payroll Pirates Phishing Campaign Targets Microsoft 365 Financial Workflows (Campaign)"
-  },
   "https://asec.ahnlab.com/en/95211/": {
     "ts": "2026-09-02T13:28:07.236754+00:00",
     "title": "\u201cEvasive\u201d Malware Attack Tactics: Hiding, Bypassing, and Reappearing"
@@ -24658,5 +24418,49 @@
   "https://thedfirreport.com/2026/04/22/bissa-scanner-exposed-ai-assisted-mass-exploitation-and-credential-harvesting/": {
     "ts": "2026-11-01T02:00:27.507168+00:00",
     "title": "Bissa Scanner Exposed: AI-Assisted Mass Exploitation and Credential Harvesting"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/cve-2025-55182-exploitation-hits-the-smart-home": {
+    "ts": "2026-11-01T09:07:03.514227+00:00",
+    "title": "CVE-2025-55182 Exploitation Hits the Smart Home"
+  },
+  "https://cybersecuritynews.com/fbi-confirms-north-korean-hackers/": {
+    "ts": "2026-11-01T09:07:03.700996+00:00",
+    "title": "FBI Confirms North Korean Hackers Responsible for $6 Billion+ Binance Attack"
+  },
+  "https://www.darktrace.com/blog/how-multi-layered-ai-works-in-darktrace-email": {
+    "ts": "2026-11-01T09:07:03.701017+00:00",
+    "title": "How Multi-Layered AI Detects Email Threats | Darktrace / EMAIL"
+  },
+  "https://www.group-ib.com/blog/ransomware-2026-rules/": {
+    "ts": "2026-11-01T09:07:03.701020+00:00",
+    "title": "Ransomware in 2026: Same Business, New Rules"
+  },
+  "https://www.helpnetsecurity.com/2026/11/01/week-in-review-binance-hit-by-6-3-billion-theft-impact-of-brotli-vulnerability/": {
+    "ts": "2026-11-01T09:07:03.701023+00:00",
+    "title": "Week in review: Binance hit by $6.3 billion theft, impact of Brotli vulnerability"
+  },
+  "https://www.recordedfuture.com/blog/ai-changing-threat-intelligence": {
+    "ts": "2026-11-01T09:07:03.879366+00:00",
+    "title": "8 Ways AI is Changing Threat Intelligence"
+  },
+  "https://thedfirreport.com/2026/02/23/apache-activemq-exploit-leads-to-lockbit-ransomware/": {
+    "ts": "2026-11-01T09:07:04.067184+00:00",
+    "title": "Apache ActiveMQ Exploit Leads to LockBit Ransomware"
+  },
+  "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html": {
+    "ts": "2026-11-01T09:07:04.246372+00:00",
+    "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script"
+  },
+  "https://cybersecuritynews.com/hacktober-cyberattack-wave/": {
+    "ts": "2026-11-01T09:07:04.425416+00:00",
+    "title": "Hacktober \u2013 Cyberattack Wave Hits PHP, Node.js, Binance, LiteLLM, Pentagon, and a Few More"
+  },
+  "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html": {
+    "ts": "2026-11-01T09:07:04.612025+00:00",
+    "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection"
+  },
+  "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html": {
+    "ts": "2026-11-01T09:07:04.790623+00:00",
+    "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist"
   }
 }
