@@ -49,6 +49,21 @@
       "category": "malware_linux",
       "title": "XMRig Covert Ops: The Cryptomining Campaign That Abuses Trusted Access and Deploys Forensic Smokescreens",
       "url": "https://www.group-ib.com/blog/xmrig-covert-linux-pam-abuse/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Fake Leonardo DiCaprio Movie Torrent Drops Agent Tesla Through Layered PowerShell Chain",
+      "url": "https://www.bitdefender.com/en-us/blog/labs/fake-leonardo-dicaprio-movie-torrent-agent-tesla-powershell"
+    },
+    {
+      "category": "new_technique",
+      "title": "Zero-Day Exploitation of Vulnerability (CVE-2026-20245) in Cisco Catalyst SD-WAN Manager",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/zero-day-exploitation-cisco-catalyst-sd-wan-manager/"
+    },
+    {
+      "category": "new_technique",
+      "title": "The Hugging Face Incident Was a Governance Failure",
+      "url": "https://www.recordedfuture.com/blog/hugging-face-ai-safety"
     }
   ],
   "last_sent_date": "2026-10-31"
