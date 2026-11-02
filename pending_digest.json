@@ -49,6 +49,41 @@
       "category": "malware_windows",
       "title": "HOLLOWGRAPH: Turning Microsoft 365 Calendars into Covert Command-and-Control Channels",
       "url": "https://www.group-ib.com/blog/hollowgraph-microsoft-365/"
+    },
+    {
+      "category": "malware_macos",
+      "title": "ClickLock Stealer: Paste Once, Lose Everything",
+      "url": "https://www.group-ib.com/blog/clicklock-stealer-macos-malware/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "TAG-195 Upgrades MaaS Ecosystem with Modular Tools",
+      "url": "https://www.recordedfuture.com/research/tag-195-evolves-maas-ecosystem"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "LABScon25 Replay | Gamaredon x Turla: Unveiling a 2025 Espionage Alliance Targeting Ukraine",
+      "url": "https://www.sentinelone.com/labs/labscon25-replay-gamaredon-x-turla-unveiling-a-2025-espionage-alliance-targeting-ukraine/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Dangerous Invitations: Russian Threat Actor Spoofs European Security Events in Targeted Phishing Attacks",
+      "url": "https://www.volexity.com/blog/2025/12/04/dangerous-invitations-russian-threat-actor-spoofs-european-security-events-in-targeted-phishing-attacks/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "KongTuke FileFix Leads to New Interlock RAT Variant",
+      "url": "https://thedfirreport.com/2025/07/14/kongtuke-filefix-leads-to-new-interlock-rat-variant/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "APT Meets GPT: Targeted Operations with Untamed LLMs",
+      "url": "https://www.volexity.com/blog/2025/10/08/apt-meets-gpt-targeted-operations-with-untamed-llms/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "CaptiveCrunch: Midnight Blizzard Hospitality Network AiTM Campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/captivecrunch-midnight-blizzard-hospitality-network-aitm-campaign"
     }
   ],
   "last_sent_date": "2026-11-01"
