@@ -1,4 +1,50 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "apt_campaign",
+      "title": "2nd November \u2013 Threat Intelligence Report",
+      "url": "https://research.checkpoint.com/2026/2nd-november-threat-intelligence-report/"
+    },
+    {
+      "category": "new_technique",
+      "title": "The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "The Outsider Phishing Kit: A Resilient Threat in the Face of Law Enforcement Action",
+      "url": "https://www.group-ib.com/blog/chenlun-outsider-phaas-kit/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "CISA to federal agencies: Remediate exploited Ivanti Connect Secure vulnerabilities (CVE-2026-111357, CVE-2026-118527)",
+      "url": "https://www.helpnetsecurity.com/2026/11/02/cisa-to-federal-agencies-remediate-exploited-ivanti-connect-secure-vulnerabilities-cve-2026-111357-cve-2026-118527/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Supermarket Freezer Attacks Reach Belgium, Sweden, Luxembourg",
+      "url": "https://socradar.io/blog/supermarket-freezer-attack-belgium-sweden-luxembourg/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "BengalSEO Part 1: Anatomy of the Operation",
+      "url": "https://thedfirreport.com/2026/08/24/bengalseo-part-1-anatomy-of-the-operation/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "\u26a1 Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+      "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html"
+    },
+    {
+      "category": "malware_android",
+      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+      "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia"
+    }
+  ],
   "last_sent_date": "2026-11-02"
 }
