@@ -1,244 +1,4 @@
 {
-  "https://asec.ahnlab.com/en/94685/": {
-    "ts": "2026-09-03T03:43:15.565179+00:00",
-    "title": "Case Study: Targeted Attack Case on an MS-SQL Server Involving the Installation of GotoHTTP and SoftEther VPN"
-  },
-  "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/": {
-    "ts": "2026-09-03T03:43:15.565195+00:00",
-    "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery"
-  },
-  "https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce": {
-    "ts": "2026-09-03T03:43:15.565200+00:00",
-    "title": "SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE"
-  },
-  "https://www.darktrace.com/blog/state-of-ai-cybersecurity-2026-92-of-security-professionals-concerned-about-the-impact-of-ai-agents": {
-    "ts": "2026-09-03T03:43:15.565203+00:00",
-    "title": "92% of Security Pros Concerned About AI Agents"
-  },
-  "https://www.group-ib.com/blog/redhook-android-rat-upgraded/": {
-    "ts": "2026-09-03T03:43:15.610823+00:00",
-    "title": "RedHook Returns with a Dangerous Upgrade"
-  },
-  "https://www.helpnetsecurity.com/2026/09/02/sonicwall-sma-1000-cve-2026-83548-cve-2026-83549-zero-day-attacks/": {
-    "ts": "2026-09-03T03:43:15.654440+00:00",
-    "title": "SonicWall SMA 1000 appliances under attack via zero-day flaws"
-  },
-  "https://www.malwarebytes.com/blog/ai/2026/09/your-ai-chats-could-be-used-in-court": {
-    "ts": "2026-09-03T03:43:15.698810+00:00",
-    "title": "Your AI chats could be used in court"
-  },
-  "https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/": {
-    "ts": "2026-09-03T03:43:15.746349+00:00",
-    "title": "Impersonating IT support: how threat actors turn a remote session into enterprise-wide access"
-  },
-  "https://www.recordedfuture.com/blog/tracking-advanced-persistent-threats": {
-    "ts": "2026-09-03T03:43:15.792193+00:00",
-    "title": "Tracking Advanced Persistent Threat Groups | Recorded Future"
-  },
-  "https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/": {
-    "ts": "2026-09-03T03:43:15.838390+00:00",
-    "title": "Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards"
-  },
-  "https://www.sophos.com/en-us/blog/july-patch-tuesday-only-feels-endless": {
-    "ts": "2026-09-03T03:43:15.838403+00:00",
-    "title": "July Patch Tuesday only feels endless"
-  },
-  "https://thedfirreport.com/2026/08/24/bengalseo-part-1-anatomy-of-the-operation/": {
-    "ts": "2026-09-03T03:43:15.884527+00:00",
-    "title": "BengalSEO Part 1: Anatomy of the Operation"
-  },
-  "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html": {
-    "ts": "2026-09-03T03:43:15.929835+00:00",
-    "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages"
-  },
-  "https://www.theregister.com/security/2026/09/02/legacy-lenovo-login-opens-5000-dropbox-accounts-to-attackers/5293924": {
-    "ts": "2026-09-03T03:43:15.929844+00:00",
-    "title": "Legacy Lenovo login opens 5,000 Dropbox accounts to attackers"
-  },
-  "https://threatmon.io/the-rise-and-fall-of-breachforums-a-cybercrime-empire-collapses/": {
-    "ts": "2026-09-03T03:43:15.974345+00:00",
-    "title": "The Rise and Fall of BreachForums: A Cybercrime Empire Collapses"
-  },
-  "https://www.trendmicro.com/en_us/research/26/g/device-code-phishing.html": {
-    "ts": "2026-09-03T03:43:16.019139+00:00",
-    "title": "Device Code Phishing: Turning a Convenience Feature Into an MFA Bypass"
-  },
-  "https://www.volexity.com/blog/2025/04/22/phishing-for-codes-russian-threat-actors-target-microsoft-365-oauth-workflows/": {
-    "ts": "2026-09-03T03:43:16.065559+00:00",
-    "title": "Phishing for Codes: Russian Threat Actors Target Microsoft 365 OAuth Workflows"
-  },
-  "https://www.welivesecurity.com/en/business-security/black-hat-usa-2026-ai-racing-cybersecurity-controls/": {
-    "ts": "2026-09-03T03:43:16.111514+00:00",
-    "title": "Black Hat USA 2026: AI is racing ahead of cybersecurity controls"
-  },
-  "https://threats.wiz.io/all-incidents/sleepergem-rubygems-supply-chain-attack-targets-dormant-maintainer-accounts": {
-    "ts": "2026-09-03T03:43:16.156036+00:00",
-    "title": "SleeperGem: RubyGems Supply Chain Attack Targets Dormant Maintainer Accounts (Campaign)"
-  },
-  "https://www.zscaler.com/blogs/security-research/tracking-shai-hulud-inside-chaindrop-npm-worm": {
-    "ts": "2026-09-03T03:43:16.201197+00:00",
-    "title": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm"
-  },
-  "https://asec.ahnlab.com/en/94594/": {
-    "ts": "2026-09-03T03:43:16.201209+00:00",
-    "title": "June 2026 Threat Trend Report on APT Attacks (South Korea)"
-  },
-  "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/": {
-    "ts": "2026-09-03T03:43:16.201213+00:00",
-    "title": "Microsoft Defender flags legitimate Google search links as malicious"
-  },
-  "https://www.darktrace.com/blog/netsupport-rat-how-legitimate-tools-can-be-as-damaging-as-malware": {
-    "ts": "2026-09-03T03:43:16.246302+00:00",
-    "title": "NetSupport RAT: Why Legitimate Tools Are as Damaging as Malware"
-  },
-  "https://www.group-ib.com/blog/connecting-scattered-spider/": {
-    "ts": "2026-09-03T03:43:16.292699+00:00",
-    "title": "Connecting Scattered Spider: Defining A Cybercrime Collective Through Shared TTPs"
-  },
-  "https://www.helpnetsecurity.com/2026/09/02/grid-battery-storage-cyberattack/": {
-    "ts": "2026-09-03T03:43:16.292708+00:00",
-    "title": "A battery storage cyberattack would look exactly like a badly tuned controller"
-  },
-  "https://www.recordedfuture.com/research/iran-ai-asymmetric-playbook": {
-    "ts": "2026-09-03T03:43:16.340788+00:00",
-    "title": "AI Has Enhanced Iran\u2019s Asymmetric Playbook During the 2026 Conflict"
-  },
-  "https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/": {
-    "ts": "2026-09-03T03:43:16.390120+00:00",
-    "title": "Malicious Virtualizor Update Served via BGP Hijacking"
-  },
-  "https://www.sophos.com/en-us/blog/sonicwall-sma1000-vulnerabilities-in-active-exploitation": {
-    "ts": "2026-09-03T03:43:16.436861+00:00",
-    "title": "SonicWall SMA1000 vulnerabilities in active exploitation"
-  },
-  "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html": {
-    "ts": "2026-09-03T03:43:16.485450+00:00",
-    "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access"
-  },
-  "https://www.theregister.com/security/2026/09/01/firefox-helps-iphone-users-bypass-ads-on-web-sites-while-making-money-showing-its-own-ads/5293747": {
-    "ts": "2026-09-03T03:43:16.530778+00:00",
-    "title": "Firefox helps iPhone users bypass ads on web sites while making money showing its own ads"
-  },
-  "https://asec.ahnlab.com/en/95223/": {
-    "ts": "2026-09-03T08:44:39.114611+00:00",
-    "title": "Ransom & Dark Web Issues Week 1, September 2026"
-  },
-  "https://asec.ahnlab.com/en/94576/": {
-    "ts": "2026-09-03T08:44:53.508741+00:00",
-    "title": "Ransom & Dark Web Issues Week 4, July 2026"
-  },
-  "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/": {
-    "ts": "2026-09-03T08:46:54.768175+00:00",
-    "title": "US charges Russian for infecting 80,000 freelancers with malware"
-  },
-  "https://cyble.com/blog/supply-chain-attacks-in-2026-vendor-risk/": {
-    "ts": "2026-09-03T08:46:54.768196+00:00",
-    "title": "Supply Chain Attacks in 2026: Why Threat Intelligence Is the Only Early Warning System That Works"
-  },
-  "https://www.darktrace.com/blog/when-reality-diverges-from-the-playbook-darktrace-identifies-encryption-in-a-world-leaks-ransomware-attack": {
-    "ts": "2026-09-03T08:46:54.893076+00:00",
-    "title": "Darktrace Identifies Encryption in a World Leaks Ransomware Attack"
-  },
-  "https://www.group-ib.com/blog/chenlun-outsider-phaas-kit/": {
-    "ts": "2026-09-03T08:46:55.039904+00:00",
-    "title": "The Outsider Phishing Kit: A Resilient Threat in the Face of Law Enforcement Action"
-  },
-  "https://www.helpnetsecurity.com/2026/09/03/sans-aws-agentic-ai-security/": {
-    "ts": "2026-09-03T08:46:55.176232+00:00",
-    "title": "Your AI agent\u2019s system prompt is not a security control"
-  },
-  "https://www.recordedfuture.com/blog/the-shift-new-era-ai": {
-    "ts": "2026-09-03T08:46:55.307691+00:00",
-    "title": "The Shift: A New Era of AI Regulation"
-  },
-  "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/": {
-    "ts": "2026-09-03T08:46:55.436062+00:00",
-    "title": "OpenAI\u2019s Astra Crosses \u2018Critical\u2019 Cyber Threshold After Finding Zero-Days"
-  },
-  "https://www.sophos.com/en-us/blog/2607_agents_vs_telemetry": {
-    "ts": "2026-09-03T08:46:55.574182+00:00",
-    "title": "When AI agents look like attackers: what behavioral telemetry tells us"
-  },
-  "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html": {
-    "ts": "2026-09-03T08:46:55.699681+00:00",
-    "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon"
-  },
-  "https://www.theregister.com/security/2026/09/03/terminated-employee-cost-company-hundreds-of-thousands-of-dollars-because-nobody-revoked-access/5292763": {
-    "ts": "2026-09-03T08:46:55.824905+00:00",
-    "title": "Terminated employee cost company hundreds of thousands of dollars because nobody revoked access"
-  },
-  "https://threatmon.io/what-happened-to-breachforums/": {
-    "ts": "2026-09-03T08:46:55.954714+00:00",
-    "title": "What Happened to BreachForums"
-  },
-  "https://www.trendmicro.com/en_us/research/26/g/making-sense-of-the-vulnpocalypse.html": {
-    "ts": "2026-09-03T08:46:55.954734+00:00",
-    "title": "Volume Is Not Risk: Making Sense of the 'Vulnpocalypse'"
-  },
-  "https://www.volexity.com/blog/2025/04/01/goresolver-using-control-flow-graph-similarity-to-deobfuscate-golang-binaries-automatically/": {
-    "ts": "2026-09-03T08:46:55.954737+00:00",
-    "title": "GoResolver: Using Control-flow Graph Similarity to Deobfuscate Golang Binaries, Automatically"
-  },
-  "https://www.welivesecurity.com/en/kids-online/ai-tutors-safe-kids/": {
-    "ts": "2026-09-03T08:46:55.954740+00:00",
-    "title": "Are AI tutors safe for your kids?"
-  },
-  "https://threats.wiz.io/all-incidents/nadmesh-autonomous-ai-focused-botnet-targeting-cloud-and-ai-infrastructure": {
-    "ts": "2026-09-03T08:46:56.100644+00:00",
-    "title": "NadMesh: Autonomous AI-Focused Botnet Targeting Cloud and AI Infrastructure (Campaign)"
-  },
-  "https://www.zscaler.com/blogs/security-research/abyssos-technical-analysis-new-modular-rat": {
-    "ts": "2026-09-03T08:46:56.230440+00:00",
-    "title": "Abyssos: Technical Analysis of a New Modular RAT"
-  },
-  "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/": {
-    "ts": "2026-09-03T08:46:56.377769+00:00",
-    "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws"
-  },
-  "https://www.darktrace.com/blog/darktrace-unites-human-behavior-and-threat-detection-across-email-slack-teams-and-zoom": {
-    "ts": "2026-09-03T08:46:56.526354+00:00",
-    "title": "Darktrace Launches Unified Security Awareness Training and Messaging Security"
-  },
-  "https://www.group-ib.com/blog/balkans-fake-traffic-fines-phishing/": {
-    "ts": "2026-09-03T08:46:56.644396+00:00",
-    "title": "Phishing in the Balkans: Fake Traffic Fines, Real Losses"
-  },
-  "https://www.helpnetsecurity.com/2026/09/03/github-threat-intelligence-feed-ingestion/": {
-    "ts": "2026-09-03T08:46:56.786502+00:00",
-    "title": "Your threat feed is someone else\u2019s database: What ingesting malware intel at scale takes"
-  },
-  "https://www.recordedfuture.com/blog/fbi-fake-permit-fees": {
-    "ts": "2026-09-03T08:46:56.786516+00:00",
-    "title": "The FBI Warned About Fake Permit Fees. The Harder Question Is Where the Money Goes. | Recorded Future"
-  },
-  "https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/": {
-    "ts": "2026-09-03T08:46:56.786519+00:00",
-    "title": "Chrome and Firefox Updates Patch Dozens of Vulnerabilities"
-  },
-  "https://www.sophos.com/en-us/blog/vect-and-teampcp-partner-for-ransomware-campaigns": {
-    "ts": "2026-09-03T08:46:56.910445+00:00",
-    "title": "Vect and TeamPCP partner for ransomware campaigns"
-  },
-  "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html": {
-    "ts": "2026-09-03T08:46:56.910458+00:00",
-    "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners"
-  },
-  "https://www.theregister.com/ai-and-ml/2026/09/03/to-keep-the-ai-hacking-genie-bottled-up-try-one-way-networks/5294121": {
-    "ts": "2026-09-03T08:46:56.910462+00:00",
-    "title": "To keep the AI hacking genie bottled up, try one-way networks"
-  },
-  "https://threatmon.io/azure-credential-theft-campaign/": {
-    "ts": "2026-09-03T08:46:57.046019+00:00",
-    "title": "TheHatman Claims 3.6M Records Linked to Azure Environments Across Nine Organizations"
-  },
-  "https://www.trendmicro.com/en_us/research/26/g/actor-behind-patriot-bait-used-ai-to-deploy-c2-botnet.html": {
-    "ts": "2026-09-03T08:46:57.175834+00:00",
-    "title": "Six Minutes to Compromise: How \u2018Patriot Bait\u2019 Actor Used AI to Build and Deploy a C&C Botnet"
-  },
-  "https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/": {
-    "ts": "2026-09-03T08:46:57.305317+00:00",
-    "title": "Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication"
-  },
   "https://www.recordedfuture.com/blog/june-2026-cve-landscape": {
     "ts": "2026-09-03T13:24:55.754631+00:00",
     "title": "June 2026 CVE Landscape"
@@ -24186,5 +23946,125 @@
   "https://threats.wiz.io/all-incidents/captivecrunch-midnight-blizzard-hospitality-network-aitm-campaign": {
     "ts": "2026-11-02T01:23:04.599106+00:00",
     "title": "CaptiveCrunch: Midnight Blizzard Hospitality Network AiTM Campaign (Campaign)"
+  },
+  "https://gbhackers.com/malicious-claude-code-extensions-in-cursor-marketplace/": {
+    "ts": "2026-11-02T09:04:43.017238+00:00",
+    "title": "Malicious Claude Code Extensions in Cursor Marketplace Install Persistent SSH Backdoors on Windows and macOS"
+  },
+  "https://gbhackers.com/volta-infostealer/": {
+    "ts": "2026-11-02T09:04:49.927619+00:00",
+    "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Profile Victims and Rank Stolen Data"
+  },
+  "https://cybersecuritynews.com/ws-audiology-it-systems/": {
+    "ts": "2026-11-02T09:06:21.925950+00:00",
+    "title": "Hackers Breach WS Audiology IT Systems, Disrupting Widex and Signia Hearing Aid Services"
+  },
+  "https://www.darktrace.com/blog/how-email-delivered-prompt-injection-attacks-can-target-enterprise-ai-and-why-it-matters": {
+    "ts": "2026-11-02T09:06:22.190463+00:00",
+    "title": "Email prompt injection attacks on enterprise AI explained: Risks & impact"
+  },
+  "https://gbhackers.com/ai-bots-impersonation/": {
+    "ts": "2026-11-02T09:06:22.414460+00:00",
+    "title": "Hackers Impersonate ChatGPT, Claude, and Perplexity AI Bots to Hunt for Passwords and API Keys"
+  },
+  "https://www.group-ib.com/blog/compromised-card-tokenization/": {
+    "ts": "2026-11-02T09:06:22.414480+00:00",
+    "title": "Inside the Matching Engine: How Distributed Tokenization Identifies Compromised Cards Without Exposing Them"
+  },
+  "https://www.helpnetsecurity.com/2026/11/02/deepseek-dsh-superagent/": {
+    "ts": "2026-11-02T09:06:22.414485+00:00",
+    "title": "DeepSeek open-sources Super-Agent, a coding agent that watches team chats for work"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/11/a-week-in-security-october-26-november-1-2": {
+    "ts": "2026-11-02T09:06:22.643950+00:00",
+    "title": "A week in security (October 26 \u2013 November 1)"
+  },
+  "https://www.recordedfuture.com/blog/cyber-threat-hunting": {
+    "ts": "2026-11-02T09:06:22.866593+00:00",
+    "title": "Threat Hunting: A Guide | Recorded Future"
+  },
+  "https://securelist.com/tr/cyberstrikeai-attacks/121715/": {
+    "ts": "2026-11-02T09:06:23.098959+00:00",
+    "title": "CyberStrikeAI in the wild: the use of AI in real-world attacks on organizations"
+  },
+  "https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/": {
+    "ts": "2026-11-02T09:06:23.324074+00:00",
+    "title": "FBI Flags Over 600 Addresses Tied to North Korea\u2019s Binance Heist"
+  },
+  "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html": {
+    "ts": "2026-11-02T09:06:23.549801+00:00",
+    "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value"
+  },
+  "https://www.volexity.com/blog/2025/08/11/go-get-em-updates-to-volexity-golang-tooling/": {
+    "ts": "2026-11-02T09:06:23.549817+00:00",
+    "title": "Go Get \u2018Em: Updates to Volexity Golang Tooling"
+  },
+  "https://www.welivesecurity.com/en/business-security/black-hat-usa-2026-hugging-face-hack-human-responsibility/": {
+    "ts": "2026-11-02T09:06:23.774183+00:00",
+    "title": "Black Hat USA 2026: What the Hugging Face hack tells us about human responsibility"
+  },
+  "https://threats.wiz.io/all-incidents/cl0p-exploitation-of-ptc-windchill-and-flexplm-vulnerability": {
+    "ts": "2026-11-02T09:06:23.998225+00:00",
+    "title": "Cl0p Exploitation of PTC Windchill and FlexPLM Vulnerability (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/captivecrunch-midnight-blizzard-weaponizes-hotel-wi-fi-captive-portals": {
+    "ts": "2026-11-02T09:06:24.224657+00:00",
+    "title": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials"
+  },
+  "https://cybersecuritynews.com/reddit-plans-mandatory-logins/": {
+    "ts": "2026-11-02T09:06:24.224675+00:00",
+    "title": "Reddit Plans Mandatory Logins to Block AI Bots From Scraping User Data"
+  },
+  "https://gbhackers.com/ws-audiology-systems/": {
+    "ts": "2026-11-02T09:06:24.224679+00:00",
+    "title": "Hackers Gain Unauthorized Access to WS Audiology CRM Environment and Operational IT Systems"
+  },
+  "https://www.helpnetsecurity.com/2026/11/02/vinay-thakker-kloudstax-ai-agent-access-control/": {
+    "ts": "2026-11-02T09:06:24.224682+00:00",
+    "title": "The first ten lines of a command policy for AI coding agents"
+  },
+  "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/": {
+    "ts": "2026-11-02T09:06:24.454211+00:00",
+    "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain"
+  },
+  "https://cybersecuritynews.com/hackers-claims-stolen-data-from-parle-agro/": {
+    "ts": "2026-11-02T09:06:24.454229+00:00",
+    "title": "Hackers Claim to Have Stolen 30GB of Data From Frooti Maker Parle Agro"
+  },
+  "https://www.helpnetsecurity.com/2026/11/02/byoky-open-source-ai-api-key-wallet/": {
+    "ts": "2026-11-02T09:06:24.454234+00:00",
+    "title": "Byoky: Open-source wallet for AI API keys"
+  },
+  "https://cybersecuritynews.com/hackers-use-artex-ai-agents/": {
+    "ts": "2026-11-02T09:06:24.686511+00:00",
+    "title": "Hackers Use ARTEX AI Agents to Automate Active Directory Attacks, Kerberoasting, and Lateral Movement"
+  },
+  "https://gbhackers.com/artex-ai-agents/": {
+    "ts": "2026-11-02T09:06:24.911219+00:00",
+    "title": "Hackers Weaponize ARTEX AI Agents to Automate Network Intrusions and Steal Sensitive Data"
+  },
+  "https://www.helpnetsecurity.com/2026/11/02/product-showcase-trust-onion/": {
+    "ts": "2026-11-02T09:06:25.134500+00:00",
+    "title": "Product showcase: Trust Onion uses rotating codewords to verify callers"
+  },
+  "https://cybersecuritynews.com/critical-beyondtrust-vulnerability/": {
+    "ts": "2026-11-02T09:06:25.370550+00:00",
+    "title": "Critical BeyondTrust Vulnerability Faces Fresh Exploitation Probes as Hackers Prepare for Mass Scanning"
+  },
+  "https://gbhackers.com/hacktober-2026-major-cyberattacks/": {
+    "ts": "2026-11-02T09:06:25.594342+00:00",
+    "title": "Hacktober 2026: Major Cyberattacks Hit Binance, PHP, Node.js, LiteLLM, and Pentagon"
+  },
+  "https://www.helpnetsecurity.com/2026/11/02/aur0ra-ransomware-ai-agents/": {
+    "ts": "2026-11-02T09:06:25.816494+00:00",
+    "title": "Ransomware gang talked AI agents into doing much of its dirty work"
+  },
+  "https://cybersecuritynews.com/volta-malware-steals-gmail/": {
+    "ts": "2026-11-02T09:06:26.056270+00:00",
+    "title": "VOLTA Malware Steals Gmail and Discord Sessions, Then Uses AI to Build Detailed Victim Profiles"
+  },
+  "https://cybersecuritynews.com/tightvnc-pre-auth-rce-vulnerability/": {
+    "ts": "2026-11-02T09:06:26.287033+00:00",
+    "title": "TightVNC Pre-Auth RCE Vulnerability Lets Hackers Execute Code on Windows PCs, PoC Released"
   }
 }
