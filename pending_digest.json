@@ -24,6 +24,41 @@
       "category": "threat_actor",
       "title": "Hackers put porn on public billboards and claim it was \u201cfar too easy\u201d",
       "url": "https://www.malwarebytes.com/blog/bugs/2026/11/hackers-put-porn-on-public-billboards-and-claim-it-was-far-too-easy"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/"
+    },
+    {
+      "category": "malware_macos",
+      "title": "AppleScript Abuse: Unpacking a macOS Phishing Campaign",
+      "url": "https://www.darktrace.com/blog/applescript-abuse-unpacking-a-macos-phishing-campaign"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Attackers exploit critical Node-RED flaw to deploy Linux bot and backdoors (CVE-2026-58115)",
+      "url": "https://www.helpnetsecurity.com/2026/11/03/node-red-cve-2026-58115-exploitation/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Signed, Sealed, Compromised: Why Trusted Packages Are Now a Ransomware Delivery Vector",
+      "url": "https://www.morphisec.com/blog/signed-sealed-compromised-why-trusted-packages-are-now-a-ransomware-delivery-vector/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Targeted Attack on Government Entities in the Middle East | Part 2",
+      "url": "https://www.zscaler.com/blogs/security-research/targeted-attack-government-entities-middle-east-part-2"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Use AI Agents to Launch 3AM Ransomware Attacks Against UK School Networks",
+      "url": "https://cybersecuritynews.com/hackers-use-ai-agents-2/"
+    },
+    {
+      "category": "new_technique",
+      "title": "CVE-2026-1731: How Darktrace Sees the BeyondTrust Exploitation Wave Unfolding",
+      "url": "https://www.darktrace.com/blog/cve-2026-1731-how-darktrace-sees-the-beyondtrust-exploitation-wave-unfolding"
     }
   ],
   "last_sent_date": "2026-11-03"

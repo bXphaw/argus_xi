@@ -1,244 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/": {
-    "ts": "2026-09-04T20:33:28.508879+00:00",
-    "title": "39 New Methods That Compromise Passkey Authentication"
-  },
-  "https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people": {
-    "ts": "2026-09-04T20:33:28.508898+00:00",
-    "title": "What the AI Warning Letter Completely Missed"
-  },
-  "https://www.darktrace.com/blog/seo-poisoning-and-fake-putty-sites-darktraces-investigation-into-the-oyster-backdoor": {
-    "ts": "2026-09-04T20:33:28.558774+00:00",
-    "title": "SEO Poisoning and Fake PuTTY sites: Darktrace\u2019s Investigation into the Oyster backdoor"
-  },
-  "https://www.group-ib.com/blog/lead-data-obfuscation-brokers/": {
-    "ts": "2026-09-04T20:33:28.558790+00:00",
-    "title": "Volume Obfuscation Game: The Lead Data Brokers Out To Waste Your Time"
-  },
-  "https://www.helpnetsecurity.com/2026/09/04/echo-claude-mythos-vulnerability-findings/": {
-    "ts": "2026-09-04T20:33:28.558795+00:00",
-    "title": "Most of the bugs Claude Mythos found have never been checked by a human"
-  },
-  "https://www.malwarebytes.com/blog/inside-malwarebytes/2026/09/the-hidden-work-of-modernizing-malwarebytes": {
-    "ts": "2026-09-04T20:33:28.606755+00:00",
-    "title": "The hidden work of modernizing Malwarebytes"
-  },
-  "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/": {
-    "ts": "2026-09-04T20:33:28.654269+00:00",
-    "title": "How to secure edge AI in customer-owned environments"
-  },
-  "https://www.recordedfuture.com/blog/2026-fifa-world-cup-cyber-physical-threats-security-guide": {
-    "ts": "2026-09-04T20:33:28.701558+00:00",
-    "title": "2026 FIFA World Cup: What Public Safety Officials Need to Know"
-  },
-  "https://securityaffairs.com/198447/data-breach/crooks-behind-manchester-airports-group-hack-leaked-data-of-8-8-million-people.html": {
-    "ts": "2026-09-04T20:33:28.749960+00:00",
-    "title": "Crooks Behind Manchester Airports Group Hack Leaked Data of 8.8 Million People"
-  },
-  "https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/": {
-    "ts": "2026-09-04T20:33:28.796540+00:00",
-    "title": "OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders"
-  },
-  "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html": {
-    "ts": "2026-09-04T20:33:28.844288+00:00",
-    "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic"
-  },
-  "https://www.theregister.com/security/2026/09/04/ascii-smuggling-isnt-just-an-ai-security-risk/5294595": {
-    "ts": "2026-09-04T20:33:28.891716+00:00",
-    "title": "ASCII smuggling isn't just an AI security risk"
-  },
-  "https://www.trendmicro.com/en_us/research/26/e/banana-rat.html": {
-    "ts": "2026-09-04T20:33:28.940952+00:00",
-    "title": "Inside SHADOW-WATER-063\u2019s Banana RAT: From Build Server to Banking Fraud"
-  },
-  "https://www.welivesecurity.com/en/eset-research/killing-me-gently-inside-gentlemens-edr-killer-framework/": {
-    "ts": "2026-09-04T20:33:28.992848+00:00",
-    "title": "Killing me gently: Inside Gentlemen\u2019s EDR killer framework"
-  },
-  "https://threats.wiz.io/all-incidents/servicenow-unauthenticated-access-incident": {
-    "ts": "2026-09-04T20:33:28.992861+00:00",
-    "title": "ServiceNow Unauthenticated Access Incident (Incident)"
-  },
-  "https://www.zscaler.com/blogs/security-research/smartapesg-launches-okendo-reviews-supply-chain-attack": {
-    "ts": "2026-09-04T20:33:29.041725+00:00",
-    "title": "SmartApeSG Launches Okendo Reviews Supply Chain Attack"
-  },
-  "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/": {
-    "ts": "2026-09-04T20:33:29.088566+00:00",
-    "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges"
-  },
-  "https://www.darktrace.com/blog/introducing-the-industrys-first-truly-automated-cloud-forensics-solution": {
-    "ts": "2026-09-04T20:33:29.139508+00:00",
-    "title": "Industry-First Automated Cloud Forensics"
-  },
-  "https://www.group-ib.com/blog/igaming-fraud-growth/": {
-    "ts": "2026-09-04T20:33:29.187399+00:00",
-    "title": "Is Fraud Distorting Your iGaming Growth Numbers?"
-  },
-  "https://www.helpnetsecurity.com/2026/09/04/new-infosec-products-of-the-week-september-4-2026/": {
-    "ts": "2026-09-04T20:33:29.235321+00:00",
-    "title": "New infosec products of the week: September 4, 2026"
-  },
-  "https://www.recordedfuture.com/blog/china-noncombatant-evacuation-operations-2005-2025": {
-    "ts": "2026-09-04T20:33:29.235337+00:00",
-    "title": "China's Noncombatant Evacuation Operations: 2005\u20132025"
-  },
-  "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/": {
-    "ts": "2026-09-04T20:33:29.281376+00:00",
-    "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild"
-  },
-  "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html": {
-    "ts": "2026-09-04T20:33:29.281389+00:00",
-    "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests"
-  },
-  "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994": {
-    "ts": "2026-09-04T20:33:29.281394+00:00",
-    "title": "Turns out Brits would quite like their private messages to stay private"
-  },
-  "https://www.trendmicro.com/en_us/research/26/e/agentic-governance-why-it-matters-now.html": {
-    "ts": "2026-09-04T20:33:29.281398+00:00",
-    "title": "Agentic Governance: Why It Matters Now"
-  },
-  "https://www.welivesecurity.com/en/critical-infrastructure/protecting-legacy-ot-systems-modern-threats/": {
-    "ts": "2026-09-04T20:33:29.328788+00:00",
-    "title": "Protecting legacy OT systems against modern cyberthreats"
-  },
-  "https://threats.wiz.io/all-incidents/teampcp-adds-malware-to-multiple-microsoft-linked-github-projects": {
-    "ts": "2026-09-04T20:33:29.374340+00:00",
-    "title": "TeamPCP adds Malware to Multiple Microsoft-Linked GitHub Projects (Campaign)"
-  },
-  "https://www.zscaler.com/blogs/security-research/clickfix-campaign-generated-ai-delivers-smartrat": {
-    "ts": "2026-09-04T20:33:29.421365+00:00",
-    "title": "ClickFix Campaign Generated Via AI Delivers SmartRAT"
-  },
-  "https://www.darktrace.com/blog/shadowv2-an-emerging-ddos-for-hire-botnet": {
-    "ts": "2026-09-04T20:33:29.469707+00:00",
-    "title": "ShadowV2: An emerging DDoS for hire botnet"
-  },
-  "https://www.group-ib.com/blog/prevyn-ai-introduction/": {
-    "ts": "2026-09-04T20:33:29.518060+00:00",
-    "title": "Introducing Group-IB Prevyn AI"
-  },
-  "https://www.recordedfuture.com/blog/may-2026-cve-landscape": {
-    "ts": "2026-09-04T22:53:40.420426+00:00",
-    "title": "May 2026 CVE Landscape"
-  },
-  "https://cybersecuritynews.com/project-zenith-windows-pcs/": {
-    "ts": "2026-09-04T22:55:46.194343+00:00",
-    "title": "Microsoft Unveils Project Zenith Windows PCs That Can Run 30B+ AI Models Locally"
-  },
-  "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai": {
-    "ts": "2026-09-04T22:55:46.194366+00:00",
-    "title": "Insurers Search for Answers to Rein in Rogue AI"
-  },
-  "https://www.darktrace.com/blog/the-benefits-of-bringing-together-network-and-email-security": {
-    "ts": "2026-09-04T22:55:46.194370+00:00",
-    "title": "Why Unifying Email and Network Security Is Critical for Modern Cyber Defense"
-  },
-  "https://gbhackers.com/hivemq-powers-backdoor/": {
-    "ts": "2026-09-04T22:55:46.500333+00:00",
-    "title": "Hackers Turn HiveMQ and Element Messenger Into Control Channels for Windows Backdoors"
-  },
-  "https://www.group-ib.com/blog/incident-response-retainer/": {
-    "ts": "2026-09-04T22:55:46.500352+00:00",
-    "title": "What Is an Incident Response Retainer? (And Why Waiting Until a Breach Is Too Late)"
-  },
-  "https://www.recordedfuture.com/research/russia-defense-base-economy-risks-wars": {
-    "ts": "2026-09-04T22:55:46.597138+00:00",
-    "title": "Russia\u2019s Defense-Based Economy Risks Forcing Putin to Fight Wars"
-  },
-  "https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/": {
-    "ts": "2026-09-04T22:55:46.717769+00:00",
-    "title": "Catch Raises $5 Million for AI Executive Assistant With Guardrails"
-  },
-  "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html": {
-    "ts": "2026-09-04T22:55:46.846860+00:00",
-    "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means"
-  },
-  "https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372": {
-    "ts": "2026-09-04T22:55:46.932153+00:00",
-    "title": "Researcher shows how Claude Code can be tricked simply by asking it to summarize a website"
-  },
-  "https://www.trendmicro.com/en_us/research/26/e/analyzing-teampcp-supply-chain-attacks.html": {
-    "ts": "2026-09-04T22:55:47.055150+00:00",
-    "title": "Analyzing TeamPCP\u2019s Supply Chain Attacks: Checkmarx KICS and elementary-data in CI/CD Credential Theft"
-  },
-  "https://www.welivesecurity.com/en/eset-research/fishmongers-arsenal-upgraded-sprysocks-windows/": {
-    "ts": "2026-09-04T22:55:47.182160+00:00",
-    "title": "FishMonger\u2019s arsenal upgraded: SprySOCKS for Windows"
-  },
-  "https://threats.wiz.io/all-incidents/bindinggyp-supply-chain-attack-enables-cicd-worm-propagation-across-npm-packages": {
-    "ts": "2026-09-04T22:55:47.267957+00:00",
-    "title": "Binding.gyp Supply Chain Attack Enables CI/CD Worm Propagation Across npm Packages (Campaign)"
-  },
-  "https://www.zscaler.com/blogs/security-research/shai-hulud-campaign-evolution-miasma-hades-and-ai-scanner-evasion": {
-    "ts": "2026-09-04T22:55:47.364952+00:00",
-    "title": "Shai-Hulud Campaign Evolution: Miasma, Hades, and AI Scanner Evasion"
-  },
-  "https://cybersecuritynews.com/popular-messaging-services/": {
-    "ts": "2026-09-04T22:55:47.487720+00:00",
-    "title": "Hackers Use Popular Messaging Services to Control New Windows Backdoors"
-  },
-  "https://www.darktrace.com/blog/2025-cyber-threat-landscape-darktraces-mid-year-review": {
-    "ts": "2026-09-04T22:55:47.487738+00:00",
-    "title": "2025 Cyber Threats: A Mid\u2011Year Review"
-  },
-  "https://gbhackers.com/openai-agents-collude-on-public-wiki/": {
-    "ts": "2026-09-04T22:55:47.573292+00:00",
-    "title": "OpenAI Agents Collude on Public Wiki to Share Sandbox Bypass and Evasion Techniques"
-  },
-  "https://www.group-ib.com/blog/digital-brand-protection-2026/": {
-    "ts": "2026-09-04T22:55:47.665084+00:00",
-    "title": "Digital Brand Protection in Cybersecurity: Why It Matters in 2026"
-  },
-  "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/": {
-    "ts": "2026-09-04T22:55:47.756498+00:00",
-    "title": "VMware Workstation and Fusion Updates Patch Critical Vulnerability"
-  },
-  "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html": {
-    "ts": "2026-09-04T22:55:47.877305+00:00",
-    "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone"
-  },
-  "https://www.theregister.com/security/2026/08/28/us-government-snitch-finder-pleads-guilty-to-leaking-state-secrets-to-foreign-spies/5293248": {
-    "ts": "2026-09-04T22:55:47.968649+00:00",
-    "title": "US government snitch-finder pleads guilty to leaking state secrets to foreign spies"
-  },
-  "https://www.trendmicro.com/en_us/research/26/e/vibe-hacking-two-ai-augmented-campaigns-target-government-and-financial-sectors-in-latin-america.html": {
-    "ts": "2026-09-04T22:55:48.063656+00:00",
-    "title": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America"
-  },
-  "https://www.welivesecurity.com/en/cybercrime/eviltokens-phishing-doesnt-steal-password/": {
-    "ts": "2026-09-04T22:55:48.149762+00:00",
-    "title": "EvilTokens: A phishing attack that doesn\u2019t steal your password"
-  },
-  "https://threats.wiz.io/all-incidents/miasma-supply-chain-compromise-in-redhat-npm-packages": {
-    "ts": "2026-09-04T22:55:48.234191+00:00",
-    "title": "Miasma: Supply Chain Compromise in RedHat npm Packages (Campaign)"
-  },
-  "https://www.zscaler.com/blogs/security-research/one-click-compromise-threatlabz-2026-phishing-and-initial-access-report": {
-    "ts": "2026-09-04T22:55:48.234207+00:00",
-    "title": "One Click to Compromise: ThreatLabz 2026 Phishing and Initial Access Report"
-  },
-  "https://cybersecuritynews.com/nodestealer-record-everything/": {
-    "ts": "2026-09-04T22:55:48.356020+00:00",
-    "title": "NodeStealer Can Now Record Everything Victims Type and Steal Their Screenshots"
-  },
-  "https://www.darktrace.com/blog/from-vps-to-phishing-how-darktrace-uncovered-saas-hijacks-through-virtual-infrastructure-abuse": {
-    "ts": "2026-09-04T22:55:48.440976+00:00",
-    "title": "What is a VPS and How Do Attackers Abuse Virtual Servers?"
-  },
-  "https://gbhackers.com/microsoft-teams-adds-qr-code-protection/": {
-    "ts": "2026-09-04T22:55:48.535288+00:00",
-    "title": "Microsoft Teams Adds QR Code Protection to Block Phishing and Fraud"
-  },
-  "https://www.group-ib.com/blog/french-railway-two-step-scam/": {
-    "ts": "2026-09-04T22:55:48.657265+00:00",
-    "title": "The French 2-Step: Exposing a Multi-stage Scam Targeting the National Railway Company in France"
-  },
-  "https://www.recordedfuture.com/blog/recorded-future-holistic-sourcing-wins": {
-    "ts": "2026-09-04T22:55:48.741799+00:00",
-    "title": "Why Holistic Sourcing Wins: The Numbers Behind the Recorded Future Advantage"
-  },
   "https://www.darktrace.com/blog/darktraces-cyber-ai-analyst-in-action-4-real-world-investigations-into-advanced-threat-actors": {
     "ts": "2026-09-05T00:46:40.203694+00:00",
     "title": "AI Analyst in Action: 4 Real-World Investigations using AI Investigations"
@@ -23666,5 +23426,125 @@
   "https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/": {
     "ts": "2026-11-03T18:20:00.472685+00:00",
     "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for AI Agent Management Platforms"
+  },
+  "https://securityaffairs.com/202369/cyber-crime/binance-hack-how-fake-job-interviews-and-ai-abuse-led-to-a-6-34-billion-attack.html": {
+    "ts": "2026-11-03T23:53:44.035594+00:00",
+    "title": "Binance Hack: How Fake Job Interviews and AI Abuse Led to a $6.34 Billion Attack"
+  },
+  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-july-2026/": {
+    "ts": "2026-11-03T23:53:46.369134+00:00",
+    "title": "This month in security with Tony Anscombe \u2013 July 2026 edition"
+  },
+  "https://securityaffairs.com/202323/malware/inside-xcpe-the-botnet-that-turned-1-3m-set-top-boxes-into-proxy-servers.html": {
+    "ts": "2026-11-03T23:53:53.969733+00:00",
+    "title": "Inside XCPE, the botnet that turned 1.3M\u00a0set-top boxes into proxy servers"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/": {
+    "ts": "2026-11-03T23:55:32.872441+00:00",
+    "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/": {
+    "ts": "2026-11-03T23:55:32.872464+00:00",
+    "title": "CrowdStrike Secures AI Agents Inside Claude Cowork"
+  },
+  "https://cybersecuritynews.com/msecure-security-incident/": {
+    "ts": "2026-11-03T23:55:32.872469+00:00",
+    "title": "Password Manager mSecure Urges Users to Secure Logins and Confidential Data Stored"
+  },
+  "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security": {
+    "ts": "2026-11-03T23:55:32.872473+00:00",
+    "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus"
+  },
+  "https://www.darktrace.com/blog/applescript-abuse-unpacking-a-macos-phishing-campaign": {
+    "ts": "2026-11-03T23:55:32.953014+00:00",
+    "title": "AppleScript Abuse: Unpacking a macOS Phishing Campaign"
+  },
+  "https://gbhackers.com/nist-releases-new-cybersecurity-guidelines/": {
+    "ts": "2026-11-03T23:55:32.953035+00:00",
+    "title": "NIST Releases New Cybersecurity Guidelines to Protect Small Businesses From Phishing and Ransomware Attacks"
+  },
+  "https://www.group-ib.com/blog/cybersecurity-priorities-ecommerce/": {
+    "ts": "2026-11-03T23:55:32.953038+00:00",
+    "title": "10 Cybersecurity Priorities for E-Commerce Teams This Year"
+  },
+  "https://www.helpnetsecurity.com/2026/11/03/node-red-cve-2026-58115-exploitation/": {
+    "ts": "2026-11-03T23:55:33.030453+00:00",
+    "title": "Attackers exploit critical Node-RED flaw to deploy Linux bot and backdoors (CVE-2026-58115)"
+  },
+  "https://www.malwarebytes.com/blog/data-breaches/2026/11/revolve-card-breach-1-5-million-people-may-be-affected": {
+    "ts": "2026-11-03T23:55:33.030472+00:00",
+    "title": "Revolve card breach: 1.5 million people may be affected"
+  },
+  "https://www.morphisec.com/blog/signed-sealed-compromised-why-trusted-packages-are-now-a-ransomware-delivery-vector/": {
+    "ts": "2026-11-03T23:55:33.109568+00:00",
+    "title": "Signed, Sealed, Compromised: Why Trusted Packages Are Now a Ransomware Delivery Vector"
+  },
+  "https://www.recordedfuture.com/blog/automated-signature-creation": {
+    "ts": "2026-11-03T23:55:33.188200+00:00",
+    "title": "Recorded Future Announces Automated Signature Creation, Accelerating Vulnerability Prioritization"
+  },
+  "https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/": {
+    "ts": "2026-11-03T23:55:33.265786+00:00",
+    "title": "CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode"
+  },
+  "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html": {
+    "ts": "2026-11-03T23:55:33.344893+00:00",
+    "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity"
+  },
+  "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398": {
+    "ts": "2026-11-03T23:55:33.424081+00:00",
+    "title": "North Korean fake job interview led to $6.3B Binance heist"
+  },
+  "https://threats.wiz.io/all-incidents/cryptomining-campaign-targeting-linux-ssh-servers": {
+    "ts": "2026-11-03T23:55:33.502328+00:00",
+    "title": "Cryptomining campaign targeting Linux SSH servers (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/targeted-attack-government-entities-middle-east-part-2": {
+    "ts": "2026-11-03T23:55:33.581992+00:00",
+    "title": "Targeted Attack on Government Entities in the Middle East | Part 2"
+  },
+  "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/": {
+    "ts": "2026-11-03T23:55:33.582015+00:00",
+    "title": "WorkOS says attacker used ARTEX AI to breach internal sales app"
+  },
+  "https://cybersecuritynews.com/hackers-use-ai-agents-2/": {
+    "ts": "2026-11-03T23:55:33.672237+00:00",
+    "title": "Hackers Use AI Agents to Launch 3AM Ransomware Attacks Against UK School Networks"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud": {
+    "ts": "2026-11-03T23:55:33.672257+00:00",
+    "title": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit"
+  },
+  "https://www.darktrace.com/blog/cve-2026-1731-how-darktrace-sees-the-beyondtrust-exploitation-wave-unfolding": {
+    "ts": "2026-11-03T23:55:33.751250+00:00",
+    "title": "CVE-2026-1731: How Darktrace Sees the BeyondTrust Exploitation Wave Unfolding"
+  },
+  "https://gbhackers.com/genai-soc-copilots-buyers-guide/": {
+    "ts": "2026-11-03T23:55:33.830263+00:00",
+    "title": "11 GenAI SOC Copilots: The 2026 Buyer\u2019s Verdict Guide"
+  },
+  "https://www.group-ib.com/blog/incident-response-questions/": {
+    "ts": "2026-11-03T23:55:33.911063+00:00",
+    "title": "8 Questions to Ask Before Choosing an Incident Response Retainer"
+  },
+  "https://www.helpnetsecurity.com/2026/11/03/ai-powered-cyberattacks-artex-cyberstrikeai/": {
+    "ts": "2026-11-03T23:55:33.989600+00:00",
+    "title": "AI agents scale and speed up Chinese-linked attacks"
+  },
+  "https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/": {
+    "ts": "2026-11-03T23:55:34.077296+00:00",
+    "title": "Android\u2019s November 2026 Updates Patch Over 200 Vulnerabilities"
+  },
+  "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html": {
+    "ts": "2026-11-03T23:55:34.162427+00:00",
+    "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes"
+  },
+  "https://www.theregister.com/security/2026/11/03/ai-policy-wonks-declare-sovereign-agents-a-threat-to-civilization/5307354": {
+    "ts": "2026-11-03T23:55:34.162446+00:00",
+    "title": "AI policy wonks declare 'sovereign agents' a threat to civilization"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/beyond-screenshot-why-verify-you-see/": {
+    "ts": "2026-11-03T23:55:34.162449+00:00",
+    "title": "Beyond the screenshot: Why you should verify what you see"
   }
 }
