@@ -1,4 +1,30 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "Free the Model, Sell the Gateway: Prompt Adware hidden in Jailbreak Bundles",
+      "url": "https://research.checkpoint.com/2026/free-the-model-sell-the-gateway-prompt-adware-hidden-in-jailbreak-bundles/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Researcher Discovers Path Traversal Flaw in Renault Navigation System That Enables Root Code Execution",
+      "url": "https://gbhackers.com/renault-navigation-system/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+      "url": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "AsyncAPI Supply Chain Compromise via GitHub Actions (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/asyncapi-supply-chain-compromise-via-github-actions"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Hackers put porn on public billboards and claim it was \u201cfar too easy\u201d",
+      "url": "https://www.malwarebytes.com/blog/bugs/2026/11/hackers-put-porn-on-public-billboards-and-claim-it-was-far-too-easy"
+    }
+  ],
   "last_sent_date": "2026-11-03"
 }
