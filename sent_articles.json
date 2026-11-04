@@ -1,244 +1,4 @@
 {
-  "https://www.darktrace.com/blog/darktraces-cyber-ai-analyst-in-action-4-real-world-investigations-into-advanced-threat-actors": {
-    "ts": "2026-09-05T00:46:40.203694+00:00",
-    "title": "AI Analyst in Action: 4 Real-World Investigations using AI Investigations"
-  },
-  "https://www.group-ib.com/blog/drp-secops-integration/": {
-    "ts": "2026-09-05T00:46:40.203714+00:00",
-    "title": "Group-IB Digital Risk Protection Integrates with Google SecOps: Brand Threat Intelligence, Now In Your SOC"
-  },
-  "https://www.recordedfuture.com/research/2026-fifa-world-cup-threats": {
-    "ts": "2026-09-05T00:46:40.203718+00:00",
-    "title": "Threats to the 2026 FIFA World Cup"
-  },
-  "https://securityaffairs.com/198455/security/u-s-cisa-adds-google-chromium-v8-flaw-to-its-known-exploited-vulnerabilities-catalog-2.html": {
-    "ts": "2026-09-05T00:46:40.263300+00:00",
-    "title": "U.S. CISA adds Google Chromium V8 flaw to its Known Exploited Vulnerabilities catalog"
-  },
-  "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/": {
-    "ts": "2026-09-05T00:46:40.322547+00:00",
-    "title": "Google Patches 6th Chrome Zero-Day of 2026"
-  },
-  "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html": {
-    "ts": "2026-09-05T00:46:40.382861+00:00",
-    "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control"
-  },
-  "https://www.theregister.com/security/2026/08/28/cisa-most-exploited-vulnerabilities-should-have-been-eradicated-decades-ago/5293194": {
-    "ts": "2026-09-05T00:46:40.441379+00:00",
-    "title": "CISA: Most exploited vulnerabilities should have been eradicated decades ago"
-  },
-  "https://www.trendmicro.com/en_us/research/26/e/What-Is-the-Instructure-Canvas-Breach.html": {
-    "ts": "2026-09-05T00:46:40.499012+00:00",
-    "title": "What Is the Instructure Canvas Breach? Impact, Risks, and What Institutions Should Do"
-  },
-  "https://www.welivesecurity.com/en/eset-research/oceanlotus-external-espionage-domestic-targeting/": {
-    "ts": "2026-09-05T00:46:40.558439+00:00",
-    "title": "OceanLotus: From external espionage to domestic targeting"
-  },
-  "https://threats.wiz.io/all-incidents/jinx-0164-targeting-cryptocurrency-development-infrastructure": {
-    "ts": "2026-09-05T00:46:40.615973+00:00",
-    "title": "JINX-0164 Targeting Cryptocurrency Development Infrastructure (Campaign)"
-  },
-  "https://www.zscaler.com/blogs/security-research/technical-analysis-mltbackdoor": {
-    "ts": "2026-09-05T00:46:40.674653+00:00",
-    "title": "Technical Analysis of MLTBackdoor"
-  },
-  "https://www.darktrace.com/blog/ivanti-under-siege-investigating-the-ivanti-endpoint-manager-mobile-vulnerabilities-cve-2025-4427-cve-2025-4428": {
-    "ts": "2026-09-05T00:46:40.732786+00:00",
-    "title": "Investigating the Ivanti Endpoint Manager Mobile Vulnerabilities"
-  },
-  "https://www.group-ib.com/blog/architecture-deception-investment-crypto-fraud/": {
-    "ts": "2026-09-05T00:46:40.732802+00:00",
-    "title": "The Architecture of Deception: How a $187 Million Fraud Ecosystem Exploits Trust Across Australia and the United States"
-  },
-  "https://www.recordedfuture.com/blog/remembering-sir-alex-younger": {
-    "ts": "2026-09-05T00:46:40.732807+00:00",
-    "title": "Remembering Sir Alex Younger"
-  },
-  "https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/": {
-    "ts": "2026-09-05T00:46:40.732810+00:00",
-    "title": "Nvidia Is Buying AI Platform Hugging Face for $13 Billion"
-  },
-  "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html": {
-    "ts": "2026-09-05T00:46:40.791167+00:00",
-    "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain"
-  },
-  "https://www.theregister.com/security/2026/08/28/industry-that-built-the-problem-offers-to-sell-you-the-solution/5293207": {
-    "ts": "2026-09-05T00:46:40.851296+00:00",
-    "title": "Industry that built the problem offers to sell you the solution"
-  },
-  "https://www.trendmicro.com/en_us/research/26/e/national-cyber-strategy.html": {
-    "ts": "2026-09-05T00:46:40.910515+00:00",
-    "title": "Supporting the National Cyber Strategy: How TrendAI\u2122 Helps"
-  },
-  "https://www.welivesecurity.com/en/business-security/smb-cyber-readiness-what-makes-breaks-it/": {
-    "ts": "2026-09-05T00:46:40.969861+00:00",
-    "title": "Unpacking SMB cyber-readiness \u2013 and what makes or breaks it"
-  },
-  "https://threats.wiz.io/all-incidents/supply-chain-campaign-targeting-composer-and-github-repositories": {
-    "ts": "2026-09-05T00:46:41.028409+00:00",
-    "title": "Supply Chain Campaign Targeting Composer and GitHub Repositories (Campaign)"
-  },
-  "https://www.zscaler.com/blogs/security-research/when-scanner-starts-thinking-learnings-mythos-gpt-5-5-cyber-security": {
-    "ts": "2026-09-05T00:46:41.028424+00:00",
-    "title": "When the Scanner Starts Thinking: Learnings from Mythos &amp; GPT 5.5 Cyber in Security Testing"
-  },
-  "https://www.darktrace.com/blog/top-eight-threats-to-saas-security-and-how-to-combat-them": {
-    "ts": "2026-09-05T00:46:41.028428+00:00",
-    "title": "Top Eight Threats to SaaS Security and How to Combat Them"
-  },
-  "https://www.group-ib.com/blog/phoenix-phaas-kit-smishing/": {
-    "ts": "2026-09-05T00:46:41.087208+00:00",
-    "title": "Phoenix Rising: Exposing the PhaaS Kit Behind Global Mass Phishing Campaigns"
-  },
-  "https://www.recordedfuture.com/research/iran-handala-physical-threats": {
-    "ts": "2026-09-05T00:46:41.148723+00:00",
-    "title": "Iran Expands Handala Brand to Physical Threats"
-  },
-  "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html": {
-    "ts": "2026-09-05T00:46:41.206341+00:00",
-    "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends"
-  },
-  "https://www.theregister.com/security/2026/08/28/print-management-outfit-papercut-is-under-0-day-attack-and-its-drawing-customers-blood/5293168": {
-    "ts": "2026-09-05T00:46:41.264521+00:00",
-    "title": "Print management outfit PaperCut is under 0-day attack, and it\u2019s drawing customers\u2019 blood"
-  },
-  "https://www.trendmicro.com/en_us/research/26/e/installfix-and-claude-code.html": {
-    "ts": "2026-09-05T00:46:41.324192+00:00",
-    "title": "InstallFix and Claude Code: How Fake Install Pages Lead to Real Compromise"
-  },
-  "https://www.welivesecurity.com/en/business-security/cybercriminals-auditors-never-hired/": {
-    "ts": "2026-09-05T00:46:41.382764+00:00",
-    "title": "Cybercriminals: the 'auditors' you never hired"
-  },
-  "https://threats.wiz.io/all-incidents/megalodon-campaign-backdoors-github-repositories-via-ci-workflow-compromise": {
-    "ts": "2026-09-05T00:46:41.444700+00:00",
-    "title": "Megalodon Campaign Backdoors GitHub Repositories via CI Workflow Compromise (Campaign)"
-  },
-  "https://www.zscaler.com/blogs/security-research/malicious-openclaw-skill-distributes-remcos-rat-and-ghostloader": {
-    "ts": "2026-09-05T00:46:41.504399+00:00",
-    "title": "Malicious OpenClaw Skill Distributes Remcos RAT and GhostLoader"
-  },
-  "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html": {
-    "ts": "2026-09-05T05:25:08.965801+00:00",
-    "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials"
-  },
-  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-may-2026/": {
-    "ts": "2026-09-05T05:25:10.423916+00:00",
-    "title": "This month in security with Tony Anscombe \u2013 May 2026 edition"
-  },
-  "https://gbhackers.com/plex-urges-users-to-update-media-server/": {
-    "ts": "2026-09-05T05:25:12.893109+00:00",
-    "title": "Plex Urges Users to Update Media Server as Multiple Security Flaws Are Discovered"
-  },
-  "https://www.recordedfuture.com/blog/april-cve-landscape": {
-    "ts": "2026-09-05T05:25:13.991034+00:00",
-    "title": "April 2026 CVE Landscape"
-  },
-  "https://www.darktrace.com/blog/crypto-wallets-continue-to-be-drained-in-elaborate-social-media-scam": {
-    "ts": "2026-09-05T05:26:38.184724+00:00",
-    "title": "Wallet Drainers: How Scams Steal Funds"
-  },
-  "https://gbhackers.com/meccha-chameleon-flaw/": {
-    "ts": "2026-09-05T05:26:38.228154+00:00",
-    "title": "MECCHA CHAMELEON Flaw Lets Malicious Custom Maps Achieve Remote Code Execution"
-  },
-  "https://www.group-ib.com/blog/french-fintech-mule-accounts/": {
-    "ts": "2026-09-05T05:26:38.228165+00:00",
-    "title": "Anatomy of a Fraud Operation: Mule Account Creation on B2B Fintech Platforms in France"
-  },
-  "https://www.recordedfuture.com/blog/vulnerability-board-conversation": {
-    "ts": "2026-09-05T05:26:38.228169+00:00",
-    "title": "The Vulnerability Flood Is Now a Board Conversation. Here's How to Lead It."
-  },
-  "https://securityaffairs.com/198465/security/broadcom-patches-critical-vmware-workstation-and-fusion-vm-escape-vulnerabilities.html": {
-    "ts": "2026-09-05T05:26:38.271522+00:00",
-    "title": "Broadcom Patches Critical VMware Workstation and Fusion VM-Escape Vulnerabilities"
-  },
-  "https://socradar.io/blog/cve-2026-73749-hpe-arubaos-cx-rce/": {
-    "ts": "2026-09-05T05:26:38.313601+00:00",
-    "title": "CVE-2026-73749: HPE ArubaOS-CX RCE"
-  },
-  "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html": {
-    "ts": "2026-09-05T05:26:38.357943+00:00",
-    "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands"
-  },
-  "https://www.theregister.com/security/2026/08/28/australian-cops-cuff-alleged-teampcp-masterminds/5293157": {
-    "ts": "2026-09-05T05:26:38.398187+00:00",
-    "title": "Australian cops cuff alleged TeamPCP masterminds"
-  },
-  "https://www.trendmicro.com/en_us/research/26/e/quasar-linux-qlnx-a-silent-foothold-in-the-software-supply-chain.html": {
-    "ts": "2026-09-05T05:26:38.441918+00:00",
-    "title": "Quasar Linux (QLNX) \u2013 A Silent Foothold in the Supply Chain: Inside a Full-Featured Linux RAT With Rootkit, PAM Backdoor, Credential Harvesting Capabilities"
-  },
-  "https://www.welivesecurity.com/en/kids-online/lessons-life-childrens-data-long-term-identity-risk/": {
-    "ts": "2026-09-05T05:26:38.485766+00:00",
-    "title": "Lessons for life: Why children\u2019s data is a long-term identity risk"
-  },
-  "https://threats.wiz.io/all-incidents/teampcp-claims-breach-of-internal-github-repositories": {
-    "ts": "2026-09-05T05:26:38.527461+00:00",
-    "title": "TeamPCP Claims Breach of Internal GitHub Repositories (Incident)"
-  },
-  "https://www.zscaler.com/blogs/security-research/tropic-trooper-pivots-adaptixc2-and-custom-beacon-listener": {
-    "ts": "2026-09-05T05:26:38.570092+00:00",
-    "title": "Tropic Trooper Pivots to AdaptixC2 and Custom Beacon Listener"
-  },
-  "https://www.darktrace.com/blog/forensics-or-fauxrensics-five-core-capabilities-for-cloud-forensics-and-incident-response": {
-    "ts": "2026-09-05T05:26:38.570104+00:00",
-    "title": "5 Core Capabilities for Cloud Forensics and Incident Response"
-  },
-  "https://gbhackers.com/critical-super-forms-wordpress-flaw-actively-exploited/": {
-    "ts": "2026-09-05T05:26:38.570107+00:00",
-    "title": "Critical Super Forms WordPress Flaw Actively Exploited to Achieve Remote Code Execution"
-  },
-  "https://www.group-ib.com/blog/w3ll-phishing-ecosystem-takedown/": {
-    "ts": "2026-09-05T05:26:38.613464+00:00",
-    "title": "W3LL Unmasked: Inside the Takedown of a Global BEC Phishing-as-a-Service Ecosystem"
-  },
-  "https://www.recordedfuture.com/blog/ai-vulnerability-playbook": {
-    "ts": "2026-09-05T05:26:38.655585+00:00",
-    "title": "At Mythos Speed: A Defender's Playbook for the AI Vulnerability Surge in 2026"
-  },
-  "https://socradar.io/blog/cve-2026-20212-cisco-nexus-9000-rce/": {
-    "ts": "2026-09-05T05:26:38.697018+00:00",
-    "title": "CVE-2026-20212: Cisco Nexus 9000 RCE Flaw"
-  },
-  "https://www.theregister.com/cyber-crime/2026/08/27/crpx0-hacking-service-for-dummies-claims-victim-count-more-than-quintupled/5293097": {
-    "ts": "2026-09-05T05:26:38.740135+00:00",
-    "title": "CRPx0 hacking service for dummies claims victim count more than quintupled"
-  },
-  "https://www.trendmicro.com/en_us/research/26/d/inside-shadow-earth-053.html": {
-    "ts": "2026-09-05T05:26:38.786402+00:00",
-    "title": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia"
-  },
-  "https://threats.wiz.io/all-incidents/new-mini-shai-hulud-wave-targets-npm-pypi-packages-and-vscode-extension": {
-    "ts": "2026-09-05T05:26:38.828066+00:00",
-    "title": "New Mini-Shai-Hulud Wave Targets NPM, PyPi Packages and VSCode Extension (Campaign)"
-  },
-  "https://www.zscaler.com/blogs/security-research/payouts-king-takes-aim-ransomware-throne": {
-    "ts": "2026-09-05T05:26:38.871702+00:00",
-    "title": "Payouts King Takes Aim at the Ransomware Throne"
-  },
-  "https://www.darktrace.com/blog/modernising-uk-cyber-regulation-implications-of-the-cyber-security-and-resilience-bill": {
-    "ts": "2026-09-05T05:26:38.871714+00:00",
-    "title": "UK Cyber Bill: What CISOs Need to Know"
-  },
-  "https://www.group-ib.com/blog/seven-cyber-signals-first-paris-2026/": {
-    "ts": "2026-09-05T05:26:38.871719+00:00",
-    "title": "Seven Signals Cyber Experts Agreed on at FIRST Paris 2026"
-  },
-  "https://socradar.io/blog/elementor-pro-rce-under-attack/": {
-    "ts": "2026-09-05T05:26:38.871721+00:00",
-    "title": "Elementor Pro RCE Flaw Under Active Attack"
-  },
-  "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html": {
-    "ts": "2026-09-05T05:26:38.913161+00:00",
-    "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads"
-  },
-  "https://www.theregister.com/security/2026/08/27/ai-girlfriend-review-sites-secrets-were-exposed-to-the-world-for-three-weeks/5293064": {
-    "ts": "2026-09-05T05:26:38.913173+00:00",
-    "title": "AI girlfriend review site's secrets were exposed to the world for three weeks"
-  },
   "https://threats.wiz.io/all-incidents/tanstack-and-other-packages-compromised-in-supply-chain-attack": {
     "ts": "2026-09-05T10:15:03.870791+00:00",
     "title": "Tanstack and other Packages Compromised in Supply Chain Attack (Campaign)"
@@ -23546,5 +23306,125 @@
   "https://www.welivesecurity.com/en/cybersecurity/beyond-screenshot-why-verify-you-see/": {
     "ts": "2026-11-03T23:55:34.162449+00:00",
     "title": "Beyond the screenshot: Why you should verify what you see"
+  },
+  "https://threats.wiz.io/all-incidents/jscrambler-npm-package-compromised-in-supply-chain-attack": {
+    "ts": "2026-11-04T05:30:45.054030+00:00",
+    "title": "Jscrambler npm Package Compromised in Supply Chain Attack (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/targeted-attack-government-entities-middle-east-part-1": {
+    "ts": "2026-11-04T05:30:55.977855+00:00",
+    "title": "Targeted Attack on Government Entities in the Middle East | Part 1"
+  },
+  "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/": {
+    "ts": "2026-11-04T05:32:29.359452+00:00",
+    "title": "Binance says fake job interview led to $6.3 billion crypto heist"
+  },
+  "https://cybersecuritynews.com/openai-codex-jailbreak/": {
+    "ts": "2026-11-04T05:32:29.399380+00:00",
+    "title": "Hackers Use OpenAI Codex Jailbreak Toolkit That Secretly Injects Ads Into AI Responses"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach": {
+    "ts": "2026-11-04T05:32:29.399402+00:00",
+    "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach"
+  },
+  "https://www.darktrace.com/blog/the-year-ahead-ai-cybersecurity-trends-to-watch-in-2026": {
+    "ts": "2026-11-04T05:32:29.399407+00:00",
+    "title": "The Year Ahead: AI Cybersecurity Trends to Watch in 2026"
+  },
+  "https://gbhackers.com/ai-jailbreak-bundles/": {
+    "ts": "2026-11-04T05:32:29.434119+00:00",
+    "title": "Hackers Turn to AI Jailbreak Bundles as Researchers Uncover New Prompt Adware Technique"
+  },
+  "https://www.group-ib.com/blog/gitbait-phishing-mexico-banking-finance-es/": {
+    "ts": "2026-11-04T05:32:29.470997+00:00",
+    "title": "GitBait: Phishing dirigido al sector financiero mexicano"
+  },
+  "https://www.helpnetsecurity.com/2026/11/04/nist-small-business-cybersecurity-guide/": {
+    "ts": "2026-11-04T05:32:29.471020+00:00",
+    "title": "NIST publishes cybersecurity guide for businesses too small to have IT staff"
+  },
+  "https://securityaffairs.com/202297/intelligence/apples-spyware-notifications-reach-the-bundestag-what-the-bsi-says-to-do-now.html": {
+    "ts": "2026-11-04T05:32:29.471024+00:00",
+    "title": "Apple\u2019s spyware notifications reach the Bundestag: what the BSI says to do now"
+  },
+  "https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/": {
+    "ts": "2026-11-04T05:32:29.504422+00:00",
+    "title": "Critical Node-RED Flaw Exploited in Attacks"
+  },
+  "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html": {
+    "ts": "2026-11-04T05:32:29.504443+00:00",
+    "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access"
+  },
+  "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200": {
+    "ts": "2026-11-04T05:32:29.538510+00:00",
+    "title": "Britain on notice: AI-powered ransomware attacks to arrive by 2028"
+  },
+  "https://www.welivesecurity.com/en/eset-research/gorbag-orcs-border-harvesting-intelligence-ukraine/": {
+    "ts": "2026-11-04T05:32:29.573811+00:00",
+    "title": "Gorbag: Orcs at the border harvesting intelligence from Ukraine"
+  },
+  "https://www.zscaler.com/blogs/security-research/helpdesk-hijackers-teams-vishing-quick-assist-and-gogrpc-backdoor": {
+    "ts": "2026-11-04T05:32:29.610820+00:00",
+    "title": "Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/": {
+    "ts": "2026-11-04T05:32:29.645073+00:00",
+    "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges"
+  },
+  "https://cybersecuritynews.com/llmhijacking-attacks/": {
+    "ts": "2026-11-04T05:32:29.679712+00:00",
+    "title": "Hackers Launch LLMHijacking Attacks, Leaving Companies With $1 Million in Cloud Bills"
+  },
+  "https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack": {
+    "ts": "2026-11-04T05:32:29.713177+00:00",
+    "title": "3AM Affiliate Embraces AI-Like Loops in European School Attack"
+  },
+  "https://www.darktrace.com/blog/darktrace-identifies-campaign-targeting-south-korea-leveraging-vs-code-for-remote-access": {
+    "ts": "2026-11-04T05:32:29.751332+00:00",
+    "title": "Darktrace Identifies Campaign Targeting South Korea Leveraging VS Code for Remote Access"
+  },
+  "https://gbhackers.com/barracuda-email-security-gateway-flaws/": {
+    "ts": "2026-11-04T05:32:29.751352+00:00",
+    "title": "Barracuda Email Security Gateway Flaws Expose Devices to Potential Root-Level Compromise"
+  },
+  "https://www.group-ib.com/blog/gitbait-phishing-mexico-banking-finance/": {
+    "ts": "2026-11-04T05:32:29.751356+00:00",
+    "title": "GitBait: Phishing the Mexican Financial Sector"
+  },
+  "https://www.helpnetsecurity.com/2026/11/04/anthropic-flashprove-provable-inference/": {
+    "ts": "2026-11-04T05:32:29.751360+00:00",
+    "title": "Anthropic open-sources FlashProve, its provable inference prototype for MoE models"
+  },
+  "https://securityaffairs.com/202248/security/hackers-send-fake-nuclear-threat-alerts-to-ukrainian-and-russian-citizens.html": {
+    "ts": "2026-11-04T05:32:29.784447+00:00",
+    "title": "Hackers Send Fake Nuclear Threat Alerts to Ukrainian and Russian Citizens"
+  },
+  "https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/": {
+    "ts": "2026-11-04T05:32:29.818763+00:00",
+    "title": "NATO\u2019s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training"
+  },
+  "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html": {
+    "ts": "2026-11-04T05:32:29.852091+00:00",
+    "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges"
+  },
+  "https://www.theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967": {
+    "ts": "2026-11-04T05:32:29.886947+00:00",
+    "title": "Token thieves costing companies $100K+ per day in illicit LLM charges"
+  },
+  "https://www.welivesecurity.com/en/eset-research/forgotten-uefi-shims-undermining-secure-boot/": {
+    "ts": "2026-11-04T05:32:29.922813+00:00",
+    "title": "Forgotten UEFI shims undermining Secure Boot"
+  },
+  "https://threats.wiz.io/all-incidents/compromised-injective-sdk-npm-package-exfiltrates-cryptocurrency-wallet-keys": {
+    "ts": "2026-11-04T05:32:29.968579+00:00",
+    "title": "Compromised Injective SDK npm Package Exfiltrates Cryptocurrency Wallet Keys (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/": {
+    "ts": "2026-11-04T05:32:30.002421+00:00",
+    "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack"
+  },
+  "https://cybersecuritynews.com/french-blood-plasma-freezers-hacked/": {
+    "ts": "2026-11-04T05:32:30.035504+00:00",
+    "title": "Hackers Hijacked French Blood Plasma Freezers, Changing Temperature Settings From \u221230\u00b0C to 110\u00b0C"
   }
 }

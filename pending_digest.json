@@ -59,6 +59,56 @@
       "category": "new_technique",
       "title": "CVE-2026-1731: How Darktrace Sees the BeyondTrust Exploitation Wave Unfolding",
       "url": "https://www.darktrace.com/blog/cve-2026-1731-how-darktrace-sees-the-beyondtrust-exploitation-wave-unfolding"
+    },
+    {
+      "category": "malware_macos",
+      "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Use OpenAI Codex Jailbreak Toolkit That Secretly Injects Ads Into AI Responses",
+      "url": "https://cybersecuritynews.com/openai-codex-jailbreak/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Turn to AI Jailbreak Bundles as Researchers Uncover New Prompt Adware Technique",
+      "url": "https://gbhackers.com/ai-jailbreak-bundles/"
+    },
+    {
+      "category": "new_technique",
+      "title": "GitBait: Phishing dirigido al sector financiero mexicano",
+      "url": "https://www.group-ib.com/blog/gitbait-phishing-mexico-banking-finance-es/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Critical Node-RED Flaw Exploited in Attacks",
+      "url": "https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/"
+    },
+    {
+      "category": "new_technique",
+      "title": "3AM Affiliate Embraces AI-Like Loops in European School Attack",
+      "url": "https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Darktrace Identifies Campaign Targeting South Korea Leveraging VS Code for Remote Access",
+      "url": "https://www.darktrace.com/blog/darktrace-identifies-campaign-targeting-south-korea-leveraging-vs-code-for-remote-access"
+    },
+    {
+      "category": "malware_other",
+      "title": "Compromised Injective SDK npm Package Exfiltrates Cryptocurrency Wallet Keys (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/compromised-injective-sdk-npm-package-exfiltrates-cryptocurrency-wallet-keys"
+    },
+    {
+      "category": "malware_windows",
+      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Hijacked French Blood Plasma Freezers, Changing Temperature Settings From \u221230\u00b0C to 110\u00b0C",
+      "url": "https://cybersecuritynews.com/french-blood-plasma-freezers-hacked/"
     }
   ],
   "last_sent_date": "2026-11-03"
