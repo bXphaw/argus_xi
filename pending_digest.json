@@ -1,4 +1,30 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "SkyW4lker Phishing Campaign Expands, Threatening US Enterprises with Microsoft 365 Account Takeovers",
+      "url": "https://cybersecuritynews.com/skyw4lker-phishing-campaign-expands-threatening-us-enterprises-with-microsoft-365-account-takeovers/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
+      "url": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet"
+    },
+    {
+      "category": "new_technique",
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Indirect Prompt Injection in Web Content Targets AI Agents",
+      "url": "https://www.zscaler.com/blogs/security-research/indirect-prompt-injection-web-content-targets-ai-agents"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Error 524 Decoy: Unmasking a Global Smishing Operation Hiding Behind Error Pages",
+      "url": "https://www.group-ib.com/blog/error-524-decoy-smishing/"
+    }
+  ],
   "last_sent_date": "2026-11-04"
 }
