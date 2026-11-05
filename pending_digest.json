@@ -44,6 +44,56 @@
       "category": "new_technique",
       "title": "GhostMap Android Flaw Can Trap Phones in Endless Reboot Loops Without Opening an App",
       "url": "https://cybersecuritynews.com/ghostmap-android-vulnerability/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Bring a tent, I've got the coffee: Lessons from it-sa",
+      "url": "https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Turn Popular Chinese Keyboard Software Into a Backdoor for Cyberespionage Attacks",
+      "url": "https://cybersecuritynews.com/chinese-keyboard-software/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Salty Much: Darktrace\u2019s take on a recent Salt Typhoon intrusion",
+      "url": "https://www.darktrace.com/blog/salty-much-darktraces-view-on-a-recent-salt-typhoon-intrusion"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Russian APT29 Targets Mobile Users with Watering Hole Attacks",
+      "url": "https://securityaffairs.com/202473/apt/russian-apt29-targets-mobile-users-with-watering-hole-attacks.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Zyxel GS1900 Zero-Day: Patch 3 Fixes Bypassed Bug",
+      "url": "https://socradar.io/blog/zyxel-gs1900-zero-day-patch-3-fixes-bypassed-bug/"
+    },
+    {
+      "category": "new_technique",
+      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+      "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "OpenSSH Flaw Could Let Attackers Bypass Password Authentication on Alpine Linux Servers",
+      "url": "https://cybersecuritynews.com/openssh-flaw-bypass-password-authentication/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Akira SonicWall Campaign Uncovered",
+      "url": "https://www.darktrace.com/blog/inside-akiras-sonicwall-campaign-darktraces-detection-and-response"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Hackers Develop New HYFLOCK Ransomware That Encrypts Files and Attempts to Block Recovery",
+      "url": "https://gbhackers.com/hyflock-ransomware/"
     }
   ],
   "last_sent_date": "2026-11-05"
