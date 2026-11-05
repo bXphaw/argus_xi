@@ -24,6 +24,36 @@
       "category": "threat_actor",
       "title": "Error 524 Decoy: Unmasking a Global Smishing Operation Hiding Behind Error Pages",
       "url": "https://www.group-ib.com/blog/error-524-decoy-smishing/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical Ruby on Rails Flaw Could Let Hackers Steal Server Secrets Through Malicious Image Uploads",
+      "url": "https://cybersecuritynews.com/critical-ruby-on-rails-flaw/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
+      "url": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers"
+    },
+    {
+      "category": "new_technique",
+      "title": "CISA Warns of Active Attacks Exploiting WordPress Core Code Execution Vulnerability",
+      "url": "https://gbhackers.com/cisa-warns-of-wordpress-core-code-execution-vulnerability/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Klue Supply Chain Breach Leads to Salesforce Data Exfiltration (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/klue-supply-chain-breach-leads-to-salesforce-data-exfiltration"
+    },
+    {
+      "category": "malware_other",
+      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html"
+    },
+    {
+      "category": "malware_linux",
+      "title": "A Typo, a Leaked Token and Booby-Trapped Go Packages: Inside the CCDS C2 Server",
+      "url": "https://threatmon.io/a-typo-a-leaked-token-and-booby-trapped-go-packages-inside-the-ccds-c2-server/"
     }
   ],
   "last_sent_date": "2026-11-04"
