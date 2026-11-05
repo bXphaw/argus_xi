@@ -1,244 +1,4 @@
 {
-  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-march-2026/": {
-    "ts": "2026-09-06T03:43:18.912942+00:00",
-    "title": "This month in security with Tony Anscombe \u2013 March 2026 edition"
-  },
-  "https://threats.wiz.io/all-incidents/polinrider-supply-chain-attack": {
-    "ts": "2026-09-06T03:43:24.704341+00:00",
-    "title": "PolinRider supply chain attack (Incident)"
-  },
-  "https://www.darktrace.com/blog/phishing-attacks-surge-in-buildup-to-black-friday": {
-    "ts": "2026-09-06T03:43:25.541017+00:00",
-    "title": "Phishing Attacks Surge Over 600% in the Buildup to Black Friday"
-  },
-  "https://threats.wiz.io/all-incidents/trivy-supply-chain-attack": {
-    "ts": "2026-09-06T03:43:32.361443+00:00",
-    "title": "Trivy supply chain attack (Incident)"
-  },
-  "https://www.darktrace.com/blog/a-snake-in-the-net-defending-against-aitm-phishing-threats-and-mamba-2fa": {
-    "ts": "2026-09-06T03:45:17.284820+00:00",
-    "title": "Defending AITM Phishing and Mamba Attacks"
-  },
-  "https://www.group-ib.com/blog/docusign-impersonation-logokit/": {
-    "ts": "2026-09-06T03:45:17.284837+00:00",
-    "title": "The DocuSign Impersonation Wave with Real-Time Customizable LogoKit"
-  },
-  "https://www.theregister.com/security/2026/08/24/browser-fingerprint-tool-shows-how-easy-you-are-to-track-using-the-latest-sneaky-tricks/5292015": {
-    "ts": "2026-09-06T03:45:17.327063+00:00",
-    "title": "Browser fingerprint tool shows how easy you are to track using the latest sneaky tricks"
-  },
-  "https://threats.wiz.io/all-incidents/xygeni-action-repository-hijack": {
-    "ts": "2026-09-06T03:45:17.367341+00:00",
-    "title": "xygeni-action repository hijack (Incident)"
-  },
-  "https://www.zscaler.com/blogs/security-research/react2shell-remote-code-execution-vulnerability-cve-2025-55182": {
-    "ts": "2026-09-06T03:45:17.367354+00:00",
-    "title": "React2Shell: Remote Code Execution Vulnerability (CVE-2025-55182)"
-  },
-  "https://www.darktrace.com/blog/darktrace-positioned-leader-in-idc-network-detection-and-response-2024": {
-    "ts": "2026-09-06T03:45:17.407736+00:00",
-    "title": "Darktrace is Positioned as a Leader in the IDC MarketScape: Worldwide Network Detection and Response 2024 Vendor Assessment"
-  },
-  "https://www.group-ib.com/blog/online-job-scams-mena/": {
-    "ts": "2026-09-06T03:45:17.450404+00:00",
-    "title": "Empty Promises in MENA: How Online Quick Cash Schemes Exploit the Gig Economy"
-  },
-  "https://www.theregister.com/security/2026/08/24/iran-linked-cyberattack-shut-down-a-uk-power-plant/5291930": {
-    "ts": "2026-09-06T03:45:17.491819+00:00",
-    "title": "Iran-linked cyberattack shut down a UK power plant"
-  },
-  "https://www.welivesecurity.com/en/videos/rsac-2026-wrap-up-week-security-tony-anscombe/": {
-    "ts": "2026-09-06T03:45:17.532821+00:00",
-    "title": "RSAC 2026 wrap-up \u2013 Week in security with Tony Anscombe"
-  },
-  "https://www.zscaler.com/blogs/security-research/shai-hulud-v2-poses-risk-npm-supply-chain": {
-    "ts": "2026-09-06T03:45:17.576184+00:00",
-    "title": "Shai-Hulud V2 Poses Risk To NPM Supply Chain"
-  },
-  "https://www.group-ib.com/blog/mobile-malware-uzbekistan/": {
-    "ts": "2026-09-06T03:45:17.620690+00:00",
-    "title": "Choose Your Fighter: A New Stage in the Evolution of Android SMS Stealers in Uzbekistan"
-  },
-  "https://www.welivesecurity.com/en/business-security/cunning-predator-how-silver-fox-preys-japanese-firms-tax-season/": {
-    "ts": "2026-09-06T03:45:17.664200+00:00",
-    "title": "A cunning predator: How Silver Fox preys on Japanese firms this tax season"
-  },
-  "https://threats.wiz.io/all-incidents/lexisnexis-breach": {
-    "ts": "2026-09-06T03:45:17.664240+00:00",
-    "title": "LexisNexis breach (Incident)"
-  },
-  "https://www.zscaler.com/blogs/security-research/technical-analysis-matanbuchus-3-0": {
-    "ts": "2026-09-06T03:45:17.709380+00:00",
-    "title": "Technical Analysis of Matanbuchus 3.0"
-  },
-  "https://www.darktrace.com/blog/ai-and-cybersecurity-predictions-for-2025": {
-    "ts": "2026-09-06T03:45:17.709392+00:00",
-    "title": "AI and Cybersecurity: Predictions for 2025"
-  },
-  "https://www.group-ib.com/blog/ai-cybersecurity-guide-2025/": {
-    "ts": "2026-09-06T03:45:17.754376+00:00",
-    "title": "Your Updated Guide to AI in Cybersecurity: Adoption, Trends, Challenges, and The Future"
-  },
-  "https://www.welivesecurity.com/en/business-security/virtual-machines-virtually-everywhere-real-security-gaps/": {
-    "ts": "2026-09-06T03:45:17.795059+00:00",
-    "title": "Virtual machines, virtually everywhere \u2013 and with real security gaps"
-  },
-  "https://www.zscaler.com/blogs/security-research/water-gamayun-apt-attack": {
-    "ts": "2026-09-06T03:45:17.836388+00:00",
-    "title": "Zscaler Threat Hunting Discovers and Reconstructs a Sophisticated Water Gamayun APT Group Attack"
-  },
-  "https://www.darktrace.com/blog/darktrace-leading-the-future-of-network-detection-and-response-with-recognition-from-kuppingercole": {
-    "ts": "2026-09-06T03:45:17.880270+00:00",
-    "title": "Darktrace Leading the Future of Network Detection and Response With Recognition from KuppingerCole"
-  },
-  "https://www.group-ib.com/blog/credit-fraud-in-uzbekistan/": {
-    "ts": "2026-09-06T03:45:17.923469+00:00",
-    "title": "Fighting Credit Fraud in Uzbekistan: An Uphill Battle Against Social Engineering"
-  },
-  "https://www.welivesecurity.com/en/business-security/cloud-workload-security-mind-gaps/": {
-    "ts": "2026-09-06T03:45:17.923481+00:00",
-    "title": "Cloud workload security: Mind the gaps"
-  },
-  "https://threats.wiz.io/all-incidents/sandwormmode-typosquatted-npm-packages-used-to-hijack-ci-workflows": {
-    "ts": "2026-09-06T03:45:17.967014+00:00",
-    "title": "SANDWORM_MODE: Typosquatted npm Packages Used to Hijack CI Workflows (Campaign)"
-  },
-  "https://www.zscaler.com/blogs/security-research/cve-2025-50165-critical-flaw-windows-graphics-component": {
-    "ts": "2026-09-06T03:45:18.008292+00:00",
-    "title": "CVE-2025-50165: Critical Flaw in Windows Graphics Component"
-  },
-  "https://www.darktrace.com/blog/why-artificial-intelligence-is-the-future-of-cybersecurity": {
-    "ts": "2026-09-06T03:45:18.008303+00:00",
-    "title": "Why Artificial Intelligence is the Future of Cybersecurity"
-  },
-  "https://www.group-ib.com/blog/cyber-predictions-2026/": {
-    "ts": "2026-09-06T03:45:18.008307+00:00",
-    "title": "Stranger Threats Are Coming: Group-IB Cyber Predictions for 2026 and Beyond"
-  },
-  "https://www.welivesecurity.com/en/cybersecurity/move-fast-save-things-quick-guide-recovering-hacked-account/": {
-    "ts": "2026-09-06T03:45:18.008310+00:00",
-    "title": "Move fast and save things: A quick guide to recovering a hacked account"
-  },
-  "https://cybersecuritynews.com/best-ztna-solutions/": {
-    "ts": "2026-09-06T08:32:31.861275+00:00",
-    "title": "10 Best ZTNA Solutions (Zero Trust Network Access) In 2026"
-  },
-  "https://www.darktrace.com/blog/how-darktrace-won-an-email-security-trial-by-learning-the-business-not-the-breach": {
-    "ts": "2026-09-06T08:32:31.861294+00:00",
-    "title": "How Darktrace won an email security trial by learning the business, not the breach"
-  },
-  "https://www.group-ib.com/blog/turning-apps-into-gold/": {
-    "ts": "2026-09-06T08:32:32.137094+00:00",
-    "title": "Hook for Gold: Inside GoldFactory\u2019s \u0421ampaign That Turns Apps Into Goldmines"
-  },
-  "https://www.helpnetsecurity.com/2026/09/06/week-in-review-claude-accounts-compromised-through-infostealer-patch-tuesday-forecast/": {
-    "ts": "2026-09-06T08:32:32.373046+00:00",
-    "title": "Week in review: Claude accounts compromised through infostealer, Patch Tuesday forecast"
-  },
-  "https://securityaffairs.com/198495/breaking-news/security-affairs-newsletter-round-593-by-pierluigi-paganini-international-edition.html": {
-    "ts": "2026-09-06T08:32:32.603265+00:00",
-    "title": "Security Affairs newsletter Round 593 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION"
-  },
-  "https://www.welivesecurity.com/en/eset-research/edr-killers-explained-beyond-the-drivers/": {
-    "ts": "2026-09-06T08:32:32.844739+00:00",
-    "title": "EDR killers explained: Beyond the drivers"
-  },
-  "https://threats.wiz.io/all-incidents/sshstalker-linux-botnet-campaign": {
-    "ts": "2026-09-06T08:32:33.082887+00:00",
-    "title": "SSHStalker Linux Botnet campaign (Campaign)"
-  },
-  "https://cybersecuritynews.com/magento-and-adobe-commerce-0-day-rce/": {
-    "ts": "2026-09-06T08:32:33.318938+00:00",
-    "title": "Hackers Actively Exploiting Magento and Adobe Commerce 0-Day RCE Vulnerability"
-  },
-  "https://www.darktrace.com/blog/introducing-real-time-multi-cloud-detection-response-powered-by-ai": {
-    "ts": "2026-09-06T08:32:33.555660+00:00",
-    "title": "Introducing Real-Time Multi-Cloud Detection & Response Powered by AI"
-  },
-  "https://www.group-ib.com/blog/app-fraud-prevention/": {
-    "ts": "2026-09-06T08:32:33.794237+00:00",
-    "title": "Can You Actually Stop APP Fraud Before It Happens? Inside The Secure, Real-Time Fraud Intelligence Network Proving It\u2019s Possible"
-  },
-  "https://www.welivesecurity.com/en/privacy/face-value-what-takes-fool-facial-recognition/": {
-    "ts": "2026-09-06T08:32:33.794254+00:00",
-    "title": "Face value: What it takes to fool facial recognition"
-  },
-  "https://threats.wiz.io/all-incidents/teampcp-cloud-native-campaign-targeting-exposed-control-planes": {
-    "ts": "2026-09-06T08:32:34.031469+00:00",
-    "title": "TeamPCP Cloud-Native Campaign Targeting Exposed Control Planes (Campaign)"
-  },
-  "https://www.darktrace.com/blog/from-call-to-compromise-darktraces-response-to-a-vishing-induced-network-attack": {
-    "ts": "2026-09-06T08:32:34.031488+00:00",
-    "title": "From Call to Compromise: Darktrace\u2019s Response to a Vishing-Induced Network Attack"
-  },
-  "https://www.group-ib.com/blog/bloody-wolf/": {
-    "ts": "2026-09-06T08:32:34.279435+00:00",
-    "title": "Bloody Wolf: A Blunt Crowbar Threat To Justice"
-  },
-  "https://www.welivesecurity.com/en/business-security/cyber-fallout-iran-war-what-have-radar/": {
-    "ts": "2026-09-06T08:32:34.279452+00:00",
-    "title": "Cyber fallout from the Iran war: What to have on your radar"
-  },
-  "https://threats.wiz.io/all-incidents/supply-chain-hijacking-of-notepad-updates-via-hosting-provider-compromise": {
-    "ts": "2026-09-06T08:32:34.517692+00:00",
-    "title": "Supply-Chain Hijacking of Notepad++ Updates via Hosting Provider Compromise (Campaign)"
-  },
-  "https://www.darktrace.com/blog/navigating-buying-and-adoption-journeys-for-ai-cybersecurity-tools": {
-    "ts": "2026-09-06T08:32:34.754143+00:00",
-    "title": "Navigating Buying and Adoption Journeys for AI Cybersecurity Tools"
-  },
-  "https://www.group-ib.com/blog/uncover-phishing-italy/": {
-    "ts": "2026-09-06T08:32:34.991035+00:00",
-    "title": "Uncovering a Multi-Stage Phishing Kit Targeting Italy\u2019s Infrastructure"
-  },
-  "https://www.welivesecurity.com/en/eset-research/sednit-reloaded-back-trenches/": {
-    "ts": "2026-09-06T08:32:35.229296+00:00",
-    "title": "Sednit reloaded: Back in the trenches"
-  },
-  "https://threats.wiz.io/all-incidents/supply-chain-attack-via-force-pushes-on-plone-github-repositories": {
-    "ts": "2026-09-06T08:32:35.466920+00:00",
-    "title": "Supply-Chain Attack via Force Pushes on Plone GitHub Repositories (Campaign)"
-  },
-  "https://www.darktrace.com/blog/business-email-compromise-bec-in-the-age-of-ai": {
-    "ts": "2026-09-06T08:32:35.466937+00:00",
-    "title": "Business Email Compromise (BEC) in the Age of AI"
-  },
-  "https://www.group-ib.com/blog/ghosts-in-proc/": {
-    "ts": "2026-09-06T08:32:35.710307+00:00",
-    "title": "Ghosts in /proc: Manipulation and Timeline Corruption"
-  },
-  "https://www.welivesecurity.com/en/business-security/what-cybersecurity-actually-does-for-your-business/": {
-    "ts": "2026-09-06T08:32:35.710324+00:00",
-    "title": "What cybersecurity actually does for your business"
-  },
-  "https://threats.wiz.io/all-incidents/operation-bizarre-bazaar-commercialized-llmjacking": {
-    "ts": "2026-09-06T08:32:35.954451+00:00",
-    "title": "Operation Bizarre Bazaar: Commercialized LLMjacking (Campaign)"
-  },
-  "https://www.darktrace.com/blog/how-ai-can-help-cisos-navigate-the-global-cyber-talent-shortage": {
-    "ts": "2026-09-06T08:32:35.954470+00:00",
-    "title": "How AI can help CISOs navigate the global cyber talent shortage"
-  },
-  "https://www.group-ib.com/blog/detect-npm-supply-chain-attack/": {
-    "ts": "2026-09-06T08:32:36.190746+00:00",
-    "title": "Detecting the NPM Supply Chain Compromise Before It Spread"
-  },
-  "https://www.welivesecurity.com/en/business-security/how-smbs-use-threat-research-mdr-build-defensive-edge/": {
-    "ts": "2026-09-06T08:32:36.429771+00:00",
-    "title": "How SMBs use threat research and MDR to build a defensive edge"
-  },
-  "https://threats.wiz.io/all-incidents/cloud-native-phishing-infrastructure-via-abused-aws-workmail": {
-    "ts": "2026-09-06T08:32:36.672436+00:00",
-    "title": "Cloud-Native Phishing Infrastructure via Abused AWS WorkMail (Campaign)"
-  },
-  "https://www.darktrace.com/blog/what-you-need-to-know-about-faa-equipment-systems-and-network-information-security-protection-2024": {
-    "ts": "2026-09-06T08:32:36.903765+00:00",
-    "title": "What you need to know about FAA Security Protection Regulations 2024"
-  },
-  "https://www.group-ib.com/blog/illusion-wealth-investment-scams/": {
-    "ts": "2026-09-06T08:32:37.137423+00:00",
-    "title": "The Illusion of Wealth: Inside the Engineered Reality of Investment Scam Platforms"
-  },
   "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-february-2026/": {
     "ts": "2026-09-06T12:43:35.167870+00:00",
     "title": "This month in security with Tony Anscombe \u2013 February 2026 edition"
@@ -23066,5 +22826,125 @@
   "https://www.zscaler.com/blogs/security-research/payouts-king-ransomware-initial-access-broker-deploys-new-edgecution": {
     "ts": "2026-11-05T01:25:34.138208+00:00",
     "title": "Payouts King Ransomware Initial Access Broker Deploys New Edgecution Malware"
+  },
+  "https://asec.ahnlab.com/en/96414/": {
+    "ts": "2026-11-05T09:13:52.792031+00:00",
+    "title": "Ransom & Dark Web Issues Week 1, November 2026"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/ghostmap-android": {
+    "ts": "2026-11-05T09:13:52.950055+00:00",
+    "title": "GhostMap: The Android flaw that crashes your phone before you open the app"
+  },
+  "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/": {
+    "ts": "2026-11-05T09:13:53.063821+00:00",
+    "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware"
+  },
+  "https://cybersecuritynews.com/one-hacker-uses-12-ai-agents/": {
+    "ts": "2026-11-05T09:13:53.183250+00:00",
+    "title": "One Hacker Uses 12 AI Agents to Breach Taiwan\u2019s Emergency Services and Steal Sensitive Data"
+  },
+  "https://cyble.com/blog/ncsc-annual-review-ai-ransomware-uk/": {
+    "ts": "2026-11-05T09:13:53.183273+00:00",
+    "title": "AI-Powered Ransomware Is Coming for UK Critical Infrastructure, and Europe Is Already the Testing Ground"
+  },
+  "https://www.darktrace.com/blog/phishing-attacks-surge-by-620-in-the-lead-up-to-black-friday": {
+    "ts": "2026-11-05T09:13:53.294818+00:00",
+    "title": "Phishing attacks surge by 620% in the lead-up to Black Friday"
+  },
+  "https://gbhackers.com/digicert-confirms-data-breach/": {
+    "ts": "2026-11-05T09:13:53.406207+00:00",
+    "title": "DigiCert Confirms Data Breach After Security Misconfiguration Exposes Customer Personal Information"
+  },
+  "https://www.group-ib.com/blog/mirax-android-device-takeover-rat/": {
+    "ts": "2026-11-05T09:13:53.521050+00:00",
+    "title": "From Streaming to Stealing: Mirax and the Rise of Server-side Android Device Takeover in META"
+  },
+  "https://www.helpnetsecurity.com/2026/11/05/openai-linux-kernel-root-exploits/": {
+    "ts": "2026-11-05T09:13:53.631822+00:00",
+    "title": "OpenAI\u2019s upcoming AI model built 948 working Linux root exploits in a single run"
+  },
+  "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/": {
+    "ts": "2026-11-05T09:13:53.754852+00:00",
+    "title": "Want to Rent an Internet Address at the White House?"
+  },
+  "https://securityaffairs.com/202449/cyber-crime/u-s-charges-canadian-man-in-alleged-hack-of-university-supercomputers.html": {
+    "ts": "2026-11-05T09:13:53.754870+00:00",
+    "title": "U.S. Charges Canadian Man in Alleged Hack of University Supercomputers"
+  },
+  "https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/": {
+    "ts": "2026-11-05T09:13:53.865790+00:00",
+    "title": "Malicious cPGuard Updates Served in OpsShield Supply Chain Attack"
+  },
+  "https://socradar.io/blog/artex-ai-pentest-tool-what-security-teams-need-to-know/": {
+    "ts": "2026-11-05T09:13:53.980082+00:00",
+    "title": "ARTEX AI Pentest Tool: What Security Teams Need to Know"
+  },
+  "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html": {
+    "ts": "2026-11-05T09:13:54.089972+00:00",
+    "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution"
+  },
+  "https://www.theregister.com/cyber-crime/2026/11/02/frozen-part-ii-hackers-remotely-defrost-produce-in-euro-supermarkets-again/5306924": {
+    "ts": "2026-11-05T09:13:54.089993+00:00",
+    "title": "Frozen part II: Hackers remotely defrost produce in Euro supermarkets ... again"
+  },
+  "https://threatmon.io/make-500-in-30-minutes-the-fake-changelly-exploit-that-swaps-your-wallet-address/": {
+    "ts": "2026-11-05T09:13:54.187329+00:00",
+    "title": "Make $500 in 30 Minutes\u201d: The Fake Changelly Exploit That Swaps Your Wallet Address"
+  },
+  "https://www.welivesecurity.com/en/eset-research/slippynunchucks-hijacks-sogou-input-methods-brand-promotion-mechanism-to-distribute-malware/": {
+    "ts": "2026-11-05T09:13:54.292191+00:00",
+    "title": "SlippyNunchucks hijacks Sogou Input Method\u2019s brand promotion mechanism to distribute malware"
+  },
+  "https://threats.wiz.io/all-incidents/fortibleed-credential-compromise-campaign-targeting-fortinet-devices": {
+    "ts": "2026-11-05T09:13:54.404744+00:00",
+    "title": "FortiBleed: Credential Compromise Campaign Targeting Fortinet Devices (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/smartapesg-launches-okendo-reviews-supply-chain-attack": {
+    "ts": "2026-11-05T09:13:54.516915+00:00",
+    "title": "SmartApeSG Launches Okendo Reviews Supply Chain Attack"
+  },
+  "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/": {
+    "ts": "2026-11-05T09:13:54.630434+00:00",
+    "title": "mSecure password manager hack prompts password reset warnings"
+  },
+  "https://cybersecuritynews.com/hackers-trick-mac-users/": {
+    "ts": "2026-11-05T09:13:54.733689+00:00",
+    "title": "Hackers Trick Mac Users Into Running Terminal Commands That Install Phexia Password-Stealing Malware"
+  },
+  "https://www.darktrace.com/blog/tracking-a-dragon-investigating-a-dragonforce-affiliated-ransomware-attack-with-darktrace": {
+    "ts": "2026-11-05T09:13:54.842729+00:00",
+    "title": "Tracking a Dragon: Investigating a DragonForce-affiliated ransomware attack with Darktrace"
+  },
+  "https://gbhackers.com/critical-citrix-xenserver-flaw/": {
+    "ts": "2026-11-05T09:13:54.842749+00:00",
+    "title": "Critical Citrix XenServer Flaw Allows Unauthenticated Attackers to Take Control of Virtualization Hosts"
+  },
+  "https://www.group-ib.com/blog/ghost-stadium-football-fraud/": {
+    "ts": "2026-11-05T09:13:54.956832+00:00",
+    "title": "The GHOST STADIUM Score: Billions At Stake At The World\u2019s Largest Football Tournament"
+  },
+  "https://www.helpnetsecurity.com/2026/11/05/ghostmap-android-bug-research/": {
+    "ts": "2026-11-05T09:13:55.065758+00:00",
+    "title": "A banking malware sample led researchers to an Android bug that can loop-crash phones"
+  },
+  "https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/": {
+    "ts": "2026-11-05T09:13:55.180274+00:00",
+    "title": "Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html": {
+    "ts": "2026-11-05T09:13:55.285045+00:00",
+    "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says"
+  },
+  "https://www.theregister.com/security/2026/11/02/fbi-pins-63b-binance-crypto-heist-on-north-korean-hackers/5306889": {
+    "ts": "2026-11-05T09:13:55.408839+00:00",
+    "title": "FBI pins $6.3B Binance crypto heist on North Korean hackers"
+  },
+  "https://www.welivesecurity.com/en/business-security/smb-cyber-readiness-road-resilience-starts-here/": {
+    "ts": "2026-11-05T09:13:55.511209+00:00",
+    "title": "SMB cyber readiness: the road to resilience starts here"
+  },
+  "https://threats.wiz.io/all-incidents/atomic-arch-aur-package-supply-chain-compromise-using-malicious-npm-package": {
+    "ts": "2026-11-05T09:13:55.627786+00:00",
+    "title": "Atomic Arch: AUR Package Supply Chain Compromise Using Malicious npm Package (Campaign)"
   }
 }
