@@ -1,4 +1,50 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hacking on Autopilot: Inside ARTEX Cybercrime Campaigns",
+      "url": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders",
+      "url": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "The SOC Files 5: Ghost in the pipeline, or a fileless SharePoint breach by Storm-2603",
+      "url": "https://securelist.com/storm-2603-fileless-toolshell-attack/121467/"
+    },
+    {
+      "category": "new_technique",
+      "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
+      "url": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "ClickFix Campaign Generated Via AI Delivers SmartRAT",
+      "url": "https://www.zscaler.com/blogs/security-research/clickfix-campaign-generated-ai-delivers-smartrat"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/"
+    },
+    {
+      "category": "new_technique",
+      "title": "ChatGPT Lockdown Mode Bypass: Phishing, Malware Delivery, and Silent Data Exfiltration",
+      "url": "https://research.checkpoint.com/2026/chatgpt-lockdown-mode-bypass-phishing-malware-delivery-and-silent-data-exfiltration/"
+    },
+    {
+      "category": "new_technique",
+      "title": "GhostMap Android Flaw Can Trap Phones in Endless Reboot Loops Without Opening an App",
+      "url": "https://cybersecuritynews.com/ghostmap-android-vulnerability/"
+    }
+  ],
   "last_sent_date": "2026-11-05"
 }

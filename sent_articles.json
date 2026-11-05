@@ -1,244 +1,4 @@
 {
-  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-february-2026/": {
-    "ts": "2026-09-06T12:43:35.167870+00:00",
-    "title": "This month in security with Tony Anscombe \u2013 February 2026 edition"
-  },
-  "https://www.darktrace.com/blog/a-busy-agenda-darktraces-detection-of-qilin-ransomware-as-a-service-operator": {
-    "ts": "2026-09-06T12:43:53.111574+00:00",
-    "title": "Qilin RaaS: Darktrace Detection Insights"
-  },
-  "https://cybersecuritynews.com/asus-control-center-vulnerability/": {
-    "ts": "2026-09-06T12:45:28.646920+00:00",
-    "title": "ASUS Control Center Flaw Allows Attackers to Gain Full Admin Control of the System"
-  },
-  "https://www.darktrace.com/blog/introducing-defend-beyond": {
-    "ts": "2026-09-06T12:45:28.646936+00:00",
-    "title": "Introducing \u2018Defend Beyond\u2019: Our promise to customers in the face of evolving threats"
-  },
-  "https://www.group-ib.com/blog/muddywater-espionage/": {
-    "ts": "2026-09-06T12:45:29.082401+00:00",
-    "title": "Unmasking MuddyWater\u2019s New Malware Toolkit Driving International Espionage"
-  },
-  "https://securityaffairs.com/198524/ai/ai-agents-hijacked-german-wiki-to-cheat-openai-delayed-disclosure.html": {
-    "ts": "2026-09-06T12:45:29.082417+00:00",
-    "title": "AI Agents Hijacked German Wiki to Cheat, OpenAI Delayed Disclosure"
-  },
-  "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html": {
-    "ts": "2026-09-06T12:45:29.272872+00:00",
-    "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication"
-  },
-  "https://www.welivesecurity.com/en/business-security/protecting-education-how-mdr-can-tip-balance-favor-schools/": {
-    "ts": "2026-09-06T12:45:29.466047+00:00",
-    "title": "Protecting education: How MDR can tip the balance in favor of schools"
-  },
-  "https://threats.wiz.io/all-incidents/canonical-snap-store-hijacking-campaign": {
-    "ts": "2026-09-06T12:45:29.659810+00:00",
-    "title": "Canonical Snap Store Hijacking Campaign (Campaign)"
-  },
-  "https://cybersecuritynews.com/mikrotik-routeros-vulnerability/": {
-    "ts": "2026-09-06T12:45:29.855243+00:00",
-    "title": "Hackers Exploiting MikroTik RouterOS Vulnerability in the Wild to Gain Complete Network Access"
-  },
-  "https://www.darktrace.com/blog/cdr-is-just-ndr-for-the-cloud-right": {
-    "ts": "2026-09-06T12:45:30.053306+00:00",
-    "title": "CDR is just NDR for the Cloud... Right?"
-  },
-  "https://www.group-ib.com/blog/immediate-era-fraud-singapore/": {
-    "ts": "2026-09-06T12:45:30.248037+00:00",
-    "title": "Exposing the Immediate Era Fraud in Singapore"
-  },
-  "https://securityaffairs.com/198522/security/security-affairs-malware-newsletter-round-113.html": {
-    "ts": "2026-09-06T12:45:30.248051+00:00",
-    "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 113"
-  },
-  "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html": {
-    "ts": "2026-09-06T12:45:30.447964+00:00",
-    "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner"
-  },
-  "https://threats.wiz.io/all-incidents/voidlink-a-cloud-native-linux-malware-framework": {
-    "ts": "2026-09-06T12:45:30.639396+00:00",
-    "title": "VoidLink: A Cloud-Native Linux Malware Framework (Campaign)"
-  },
-  "https://www.darktrace.com/blog/darktrace-releases-2024-half-year-threat-insights-2": {
-    "ts": "2026-09-06T12:45:30.639415+00:00",
-    "title": "Darktrace Releases 2024 Half-Year Threat Insights"
-  },
-  "https://www.group-ib.com/blog/east-west-ndr/": {
-    "ts": "2026-09-06T12:45:30.639418+00:00",
-    "title": "East-west tension: Are NDR vendors monitoring the wrong traffic?"
-  },
-  "https://www.welivesecurity.com/en/mobile-security/mobile-app-permissions-still-matter-more-think/": {
-    "ts": "2026-09-06T12:45:30.831779+00:00",
-    "title": "Mobile app permissions (still) matter more than you may think"
-  },
-  "https://threats.wiz.io/all-incidents/geoserver-rce-exploited-in-coinminer-campaigns": {
-    "ts": "2026-09-06T12:45:31.031117+00:00",
-    "title": "GeoServer RCE Exploited in CoinMiner Campaigns (Campaign)"
-  },
-  "https://www.darktrace.com/blog/the-rise-in-safelink-smuggling-how-to-enhance-your-resilience-against-malicious-links": {
-    "ts": "2026-09-06T12:45:31.223418+00:00",
-    "title": "Safelink Smuggling: Enhancing Resilience Against Malicious Links"
-  },
-  "https://www.group-ib.com/blog/payment-fraud-defense/": {
-    "ts": "2026-09-06T12:45:31.417779+00:00",
-    "title": "A new weapon against payment fraud: Unique threat intelligence for anti-fraud teams"
-  },
-  "https://www.welivesecurity.com/en/business-security/faking-it-phone-how-tell-voice-call-ai/": {
-    "ts": "2026-09-06T12:45:31.617675+00:00",
-    "title": "Faking it on the phone: How to tell if a voice call is AI or not"
-  },
-  "https://threats.wiz.io/all-incidents/amadey-loader-abuses-compromised-self-hosted-gitlab-to-deliver-stealc-infostealer": {
-    "ts": "2026-09-06T12:45:31.816158+00:00",
-    "title": "Amadey Loader Abuses Compromised Self-Hosted GitLab to Deliver StealC Infostealer (Campaign)"
-  },
-  "https://www.darktrace.com/blog/how-darktraces-ai-applies-a-zero-trust-mentality-within-critical-infrastructure-supply-chains": {
-    "ts": "2026-09-06T12:45:31.816175+00:00",
-    "title": "How Darktrace\u2019s AI Applies a Zero-Trust Mentality within Critical Infrastructure Supply Chains"
-  },
-  "https://www.group-ib.com/blog/cybersecurity-newsletters/": {
-    "ts": "2026-09-06T12:45:31.816179+00:00",
-    "title": "Top 7 Cybersecurity Newsletters Worth Your Inbox"
-  },
-  "https://www.welivesecurity.com/en/eset-research/promptspy-ushers-in-era-android-threats-using-genai/": {
-    "ts": "2026-09-06T12:45:32.010910+00:00",
-    "title": "PromptSpy ushers in the era of Android threats using GenAI"
-  },
-  "https://threats.wiz.io/all-incidents/china-nexus-campaign-exploits-cve-2025-20393-in-cisco-email-security-devices": {
-    "ts": "2026-09-06T12:45:32.203422+00:00",
-    "title": "China-nexus Campaign Exploits CVE-2025-20393 in Cisco Email Security Devices (Campaign)"
-  },
-  "https://www.group-ib.com/blog/muddywater-infrastructure-malware/": {
-    "ts": "2026-09-06T12:45:32.400364+00:00",
-    "title": "Tracking MuddyWater in Action: Infrastructure, Malware and Operations during 2025"
-  },
-  "https://www.welivesecurity.com/en/scams/poshmark-safe-buy-sell-scammed/": {
-    "ts": "2026-09-06T12:45:32.400382+00:00",
-    "title": "Is Poshmark safe? How to buy and sell without getting scammed"
-  },
-  "https://threats.wiz.io/all-incidents/shai-hulud-20-supply-chain-attack": {
-    "ts": "2026-09-06T12:45:32.593919+00:00",
-    "title": "Shai-Hulud 2.0 Supply Chain Attack (Campaign)"
-  },
-  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-january-2026-edition/": {
-    "ts": "2026-09-06T16:03:27.248639+00:00",
-    "title": "This month in security with Tony Anscombe \u2013 January 2026 edition"
-  },
-  "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/": {
-    "ts": "2026-09-06T16:05:25.895377+00:00",
-    "title": "Attackers conceal phishing lures using invisible Unicode characters"
-  },
-  "https://cybersecuritynews.com/crowdstrike-launches-safemind/": {
-    "ts": "2026-09-06T16:05:25.895397+00:00",
-    "title": "CrowdStrike Launches SafeMind \u2013 First Agentic Cybersecurity Solution Built for Defenders"
-  },
-  "https://www.darktrace.com/blog/exploring-the-benefits-and-risks-of-third-party-data-solutions": {
-    "ts": "2026-09-06T16:05:25.895402+00:00",
-    "title": "Exploring the Benefits and Risks of Third-Party Data Solutions"
-  },
-  "https://www.group-ib.com/blog/cybersecurity-podcasts/": {
-    "ts": "2026-09-06T16:05:25.895406+00:00",
-    "title": "10 Cybersecurity Podcasts to Add to Your Queue Now"
-  },
-  "https://securityaffairs.com/198538/security/your-mikrotik-router-may-already-be-compromised-look-for-ssh-user-2.html": {
-    "ts": "2026-09-06T16:05:25.940743+00:00",
-    "title": "Your MikroTik Router May Already Be Compromised: Look for SSH User \u201c-2\u201d"
-  },
-  "https://www.welivesecurity.com/en/kids-online/children-selfies-online/": {
-    "ts": "2026-09-06T16:05:25.987942+00:00",
-    "title": "Is it OK to let your children post selfies online?"
-  },
-  "https://threats.wiz.io/all-incidents/cryptomining-campaign-exploiting-exposed-ray-ai-infrastructure": {
-    "ts": "2026-09-06T16:05:26.033932+00:00",
-    "title": "Cryptomining Campaign Exploiting Exposed Ray AI Infrastructure (Campaign)"
-  },
-  "https://www.darktrace.com/blog/elevating-network-security-confronting-trust-challenges-ransomware-epidemics-and-novel-attack-tactics": {
-    "ts": "2026-09-06T16:05:26.081532+00:00",
-    "title": "Elevating Network Security: Confronting Trust, Ransomware, & Novel Attacks"
-  },
-  "https://www.group-ib.com/blog/ai-cybercrime-usecases/": {
-    "ts": "2026-09-06T16:05:26.128612+00:00",
-    "title": "From Deepfakes to Dark LLMs: 5 use-cases of how AI is Powering Cybercrime"
-  },
-  "https://www.welivesecurity.com/en/ransomware/naming-shaming-ransomware-groups-tighten-screws-victims/": {
-    "ts": "2026-09-06T16:05:26.176872+00:00",
-    "title": "Naming and shaming: How ransomware groups tighten the screws on victims"
-  },
-  "https://threats.wiz.io/all-incidents/cisco-ise-vulnerability-exploited-as-0day-by-apt": {
-    "ts": "2026-09-06T16:05:26.222417+00:00",
-    "title": "Cisco ISE Vulnerability Exploited as 0day by APT (Campaign)"
-  },
-  "https://www.darktrace.com/blog/medusa-ransomware-looking-cyber-threats-in-the-eye-with-darktrace": {
-    "ts": "2026-09-06T16:05:26.269200+00:00",
-    "title": "Darktrace Investigation Into Medusa Ransomware"
-  },
-  "https://www.group-ib.com/blog/shadowsilk/": {
-    "ts": "2026-09-06T16:05:26.318421+00:00",
-    "title": "ShadowSilk: A Cross-Border Binary Union for Data Exfiltration"
-  },
-  "https://www.welivesecurity.com/en/scams/taxing-times-top-irs-scams-look-out-2026/": {
-    "ts": "2026-09-06T16:05:26.318461+00:00",
-    "title": "Taxing times: Top IRS scams to look out for in 2026"
-  },
-  "https://threats.wiz.io/all-incidents/unauthenticated-remote-access-via-triofox-vulnerability-exploited-by-unc6485": {
-    "ts": "2026-09-06T16:05:26.364926+00:00",
-    "title": "Unauthenticated Remote Access via Triofox Vulnerability Exploited by UNC6485 (Campaign)"
-  },
-  "https://www.darktrace.com/blog/safeguarding-distribution-centers-in-the-digital-age": {
-    "ts": "2026-09-06T16:05:26.413956+00:00",
-    "title": "Safeguarding Distribution Centers in the Digital Age"
-  },
-  "https://www.group-ib.com/blog/how-email-threats-hide-behind-your-partners/": {
-    "ts": "2026-09-06T16:05:26.463877+00:00",
-    "title": "Trust issues: How email threats hide behind your partners"
-  },
-  "https://www.welivesecurity.com/en/scams/offerup-scammers-out-force-heres-what-you-should-know/": {
-    "ts": "2026-09-06T16:05:26.509824+00:00",
-    "title": "OfferUp scammers are out in force: Here\u2019s what you should know"
-  },
-  "https://threats.wiz.io/all-incidents/gambling-network-exploits-abandoned-subdomains": {
-    "ts": "2026-09-06T16:05:26.556568+00:00",
-    "title": "Gambling Network Exploits Abandoned Subdomains (Campaign)"
-  },
-  "https://www.group-ib.com/blog/evolving-mule-tactics/": {
-    "ts": "2026-09-06T16:05:26.604660+00:00",
-    "title": "Evolving Mule Tactics in the META Region Banking Sector"
-  },
-  "https://www.welivesecurity.com/en/cybersecurity/slippery-slope-winter-olympics-scams-cyberthreats/": {
-    "ts": "2026-09-06T16:05:26.604675+00:00",
-    "title": "A slippery slope: Beware of Winter Olympics scams and other cyberthreats"
-  },
-  "https://threats.wiz.io/all-incidents/china-linked-actors-target-us-policy-oriented-non-profit-organisations": {
-    "ts": "2026-09-06T16:05:26.655872+00:00",
-    "title": "China-Linked Actors Target U.S. Policy-Oriented Non-Profit Organisations (Campaign)"
-  },
-  "https://www.group-ib.com/blog/exposing-investment-scams/": {
-    "ts": "2026-09-06T16:05:26.655890+00:00",
-    "title": "Exposing Investment Scams: AI Trading, Deepfake & Online Fraud"
-  },
-  "https://threats.wiz.io/all-incidents/trufflenet-campaign-exploits-aws-ses-for-large-scale-cloud-abuse-and-bec-fraud": {
-    "ts": "2026-09-06T16:05:26.704600+00:00",
-    "title": "TruffleNet Campaign Exploits AWS SES for Large-Scale Cloud Abuse and BEC Fraud (Campaign)"
-  },
-  "https://www.group-ib.com/blog/voice-deepfake-scams/": {
-    "ts": "2026-09-06T16:05:26.704617+00:00",
-    "title": "The Anatomy of a Deepfake\u202fVoice Phishing Attack: How AI-Generated Voices Are Powering the Next Wave of Scams"
-  },
-  "https://www.welivesecurity.com/en/eset-research/dynowiper-update-technical-analysis-attribution/": {
-    "ts": "2026-09-06T16:05:26.752082+00:00",
-    "title": "DynoWiper update: Technical analysis and attribution"
-  },
-  "https://threats.wiz.io/all-incidents/tata-motors-hardcoded-aws-keys-and-api-tokens-exposed-": {
-    "ts": "2026-09-06T16:05:26.798148+00:00",
-    "title": "Tata Motors Hardcoded AWS Keys and API Tokens Exposed  (Research)"
-  },
-  "https://www.group-ib.com/blog/unc2891-bank-heist/": {
-    "ts": "2026-09-06T16:05:26.845561+00:00",
-    "title": "UNC2891 Bank Heist: Physical ATM Backdoor & Linux Forensic Evasion"
-  },
-  "https://www.welivesecurity.com/en/eset-research/love-actually-fake-dating-app-used-lure-targeted-spyware-campaign-pakistan/": {
-    "ts": "2026-09-06T16:05:26.893479+00:00",
-    "title": "Love? Actually: Fake dating app used as lure in targeted spyware campaign in Pakistan"
-  },
   "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-december-2025/": {
     "ts": "2026-09-06T18:57:51.150775+00:00",
     "title": "This month in security with Tony Anscombe \u2013 December 2025 edition"
@@ -22946,5 +22706,125 @@
   "https://threats.wiz.io/all-incidents/atomic-arch-aur-package-supply-chain-compromise-using-malicious-npm-package": {
     "ts": "2026-11-05T09:13:55.627786+00:00",
     "title": "Atomic Arch: AUR Package Supply Chain Compromise Using Malicious npm Package (Campaign)"
+  },
+  "https://gbhackers.com/openmatter-network-positions-decentralized-computing-as-an-alternative-to-data-centers-for-ai/": {
+    "ts": "2026-11-05T17:55:17.508679+00:00",
+    "title": "OpenMatter Network Positions Decentralized Computing as an Alternative to Data Centers for AI"
+  },
+  "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/": {
+    "ts": "2026-11-05T17:57:28.917329+00:00",
+    "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts"
+  },
+  "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/": {
+    "ts": "2026-11-05T17:57:29.020765+00:00",
+    "title": "Hacking on Autopilot: Inside ARTEX Cybercrime Campaigns"
+  },
+  "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/": {
+    "ts": "2026-11-05T17:57:29.469835+00:00",
+    "title": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders"
+  },
+  "https://cybersecuritynews.com/openmatter-network-positions-decentralized-computing-as-an-alternative-to-data-centers-for-ai/": {
+    "ts": "2026-11-05T17:57:29.469859+00:00",
+    "title": "OpenMatter Network Positions Decentralized Computing as an Alternative to Data Centers for AI"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era": {
+    "ts": "2026-11-05T17:57:29.469863+00:00",
+    "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era"
+  },
+  "https://www.darktrace.com/blog/why-api-journaling-delivers-faster-sla-backed-email-security-for-microsoft-365": {
+    "ts": "2026-11-05T17:57:29.580437+00:00",
+    "title": "Why API\u202f+\u202fJournaling Delivers Faster, SLA-Backed Email Security for Microsoft 365"
+  },
+  "https://www.group-ib.com/blog/online-payment-fraud-prevention/": {
+    "ts": "2026-11-05T17:57:29.693667+00:00",
+    "title": "Online Payment Fraud Prevention: Best Practices for Organizations"
+  },
+  "https://www.helpnetsecurity.com/2026/11/05/vercel-security-review-session-hijacking/": {
+    "ts": "2026-11-05T17:57:29.799572+00:00",
+    "title": "Vercel ties login sessions to devices, rolls out AI security reviews in public beta"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/11/vizio-samsung-smart-tvs-seem-to-ignore-tracking-opt-outs": {
+    "ts": "2026-11-05T17:57:29.908018+00:00",
+    "title": "Vizio, Samsung smart TVs seem to ignore tracking opt outs"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/": {
+    "ts": "2026-11-05T17:57:30.025277+00:00",
+    "title": "Email threat landscape: Q3 2026 trends and insights"
+  },
+  "https://moonlock.com/costco-scam": {
+    "ts": "2026-11-05T17:57:30.025287+00:00",
+    "title": "Is the Costco survey real? Red flags that point to a Costco scam"
+  },
+  "https://www.rapid7.com/blog/post/ai-gartner-report-attack-paths-closing-faster-than-patchable": {
+    "ts": "2026-11-05T17:57:30.025290+00:00",
+    "title": "Gartner Report: The Attack Path is Closing Faster than Most Teams Can Patch"
+  },
+  "https://securelist.com/storm-2603-fileless-toolshell-attack/121467/": {
+    "ts": "2026-11-05T17:57:30.124022+00:00",
+    "title": "The SOC Files 5: Ghost in the pipeline, or a fileless SharePoint breach by Storm-2603"
+  },
+  "https://securityaffairs.com/202495/security/unm-health-shuts-clinics-and-diverts-patients-during-security-incident.html": {
+    "ts": "2026-11-05T17:57:30.124031+00:00",
+    "title": "UNM Health Shuts Clinics and Diverts Patients During Security Incident"
+  },
+  "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/": {
+    "ts": "2026-11-05T17:57:30.238600+00:00",
+    "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research"
+  },
+  "https://socradar.io/blog/dark-web-profile-nova-ransomware/": {
+    "ts": "2026-11-05T17:57:30.350604+00:00",
+    "title": "Dark Web Profile: Nova Ransomware"
+  },
+  "https://www.security.com/threat-intelligence/lindnor-new-backdoor-anubis-ransomware": {
+    "ts": "2026-11-05T17:57:30.466719+00:00",
+    "title": "New Lindnor Backdoor and Glut of Security Killers Used in Ransomware Attack on U.S. Org"
+  },
+  "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html": {
+    "ts": "2026-11-05T17:57:30.569566+00:00",
+    "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories"
+  },
+  "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855": {
+    "ts": "2026-11-05T17:57:30.671104+00:00",
+    "title": "OpenAI releases GPT-6 Cyber, and promises this one stays within 'rules of engagement'"
+  },
+  "https://www.welivesecurity.com/en/eset-research/gamaredon-2025-leveraging-tunnels-workers-dead-drops-new-alliances/": {
+    "ts": "2026-11-05T17:57:30.782861+00:00",
+    "title": "Gamaredon in 2025: Leveraging tunnels, workers, dead drops, and new alliances"
+  },
+  "https://threats.wiz.io/all-incidents/servicenow-unauthenticated-access-incident": {
+    "ts": "2026-11-05T17:57:30.782882+00:00",
+    "title": "ServiceNow Unauthenticated Access Incident (Incident)"
+  },
+  "https://www.zscaler.com/blogs/security-research/clickfix-campaign-generated-ai-delivers-smartrat": {
+    "ts": "2026-11-05T17:57:30.888183+00:00",
+    "title": "ClickFix Campaign Generated Via AI Delivers SmartRAT"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/": {
+    "ts": "2026-11-05T17:57:31.005414+00:00",
+    "title": "Hackers backdoor Linux servers using trojanized CWP web server"
+  },
+  "https://research.checkpoint.com/2026/chatgpt-lockdown-mode-bypass-phishing-malware-delivery-and-silent-data-exfiltration/": {
+    "ts": "2026-11-05T17:57:31.114827+00:00",
+    "title": "ChatGPT Lockdown Mode Bypass: Phishing, Malware Delivery, and Silent Data Exfiltration"
+  },
+  "https://cybersecuritynews.com/ghostmap-android-vulnerability/": {
+    "ts": "2026-11-05T17:57:31.227372+00:00",
+    "title": "GhostMap Android Flaw Can Trap Phones in Endless Reboot Loops Without Opening an App"
+  },
+  "https://www.darktrace.com/blog/unmasking-vo1d-inside-darktraces-botnet-detection": {
+    "ts": "2026-11-05T17:57:31.333639+00:00",
+    "title": "Vo1d Botnet Exposed: How Darktrace Detected a Global Android Threat"
+  },
+  "https://gbhackers.com/darkvigil-malware-campaign/": {
+    "ts": "2026-11-05T17:57:31.436786+00:00",
+    "title": "China-Aligned Hackers Hijack Popular Sogou Keyboard Software to Secretly Install DarkVigil Malware"
+  },
+  "https://www.group-ib.com/blog/lead-data-obfuscation-brokers/": {
+    "ts": "2026-11-05T17:57:31.546541+00:00",
+    "title": "Volume Obfuscation Game: The Lead Data Brokers Out To Waste Your Time"
+  },
+  "https://www.helpnetsecurity.com/2026/11/05/norad-grants-portal-breach/": {
+    "ts": "2026-11-05T17:57:31.658297+00:00",
+    "title": "Cyberattack on Norway\u2019s aid agency may have swept up all user data"
   }
 }
