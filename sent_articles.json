@@ -1,244 +1,4 @@
 {
-  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-november-2025/": {
-    "ts": "2026-09-06T23:37:51.991543+00:00",
-    "title": "This month in security with Tony Anscombe \u2013 November 2025 edition"
-  },
-  "https://www.group-ib.com/blog/fraud-underbelly-australia/": {
-    "ts": "2026-09-06T23:39:46.158130+00:00",
-    "title": "Fraud Underbelly: Australia\u2019s Digital Boom\u2014A Fraudster\u2019s Goldmine?"
-  },
-  "https://www.welivesecurity.com/en/eset-research/muddywater-snakes-riverbank/": {
-    "ts": "2026-09-06T23:39:46.499980+00:00",
-    "title": "MuddyWater: Snakes by the riverbank"
-  },
-  "https://threats.wiz.io/all-incidents/dripdropper-malware-exploits-patched-apache-activemq-for-persistence-on-cloud-linux-systems": {
-    "ts": "2026-09-06T23:39:46.620398+00:00",
-    "title": "DripDropper Malware Exploits Patched Apache ActiveMQ for Persistence on Cloud Linux Systems (Campaign)"
-  },
-  "https://www.group-ib.com/blog/hunters-international-ransomware-group/": {
-    "ts": "2026-09-06T23:39:46.745921+00:00",
-    "title": "The beginning of the end: the story of Hunters International"
-  },
-  "https://www.welivesecurity.com/en/business-security/oversharing-is-not-caring-stake-employees-post-too-much-online/": {
-    "ts": "2026-09-06T23:39:46.745939+00:00",
-    "title": "Oversharing is not caring: What\u2019s at stake if your employees post too much online"
-  },
-  "https://threats.wiz.io/all-incidents/uat-7237-targets-taiwanese-web-infrastructure-using-customized-open-source-tools": {
-    "ts": "2026-09-06T23:39:46.888679+00:00",
-    "title": "UAT-7237 Targets Taiwanese Web Infrastructure Using Customized Open-Source Tools (Campaign)"
-  },
-  "https://www.group-ib.com/blog/navigating-cybercrime-latin-america/": {
-    "ts": "2026-09-06T23:39:46.888697+00:00",
-    "title": "Navigating Cybercrime Currents in Latin America: Strengthening the Region\u2019s Defenses"
-  },
-  "https://threats.wiz.io/all-incidents/akira-ransomware-targeting-critical-vulnerability-in-sonicwall-sslvpn": {
-    "ts": "2026-09-06T23:39:47.003077+00:00",
-    "title": "Akira Ransomware Targeting Critical Vulnerability in SonicWall SSLVPN (Campaign)"
-  },
-  "https://www.group-ib.com/blog/unmasking-the-classiscam-in-central-asia/": {
-    "ts": "2026-09-06T23:39:47.124280+00:00",
-    "title": "Unmasking the Classiscam in Central Asia"
-  },
-  "https://www.welivesecurity.com/en/kids-online/parents-protect-children-doxxing/": {
-    "ts": "2026-09-06T23:39:47.124297+00:00",
-    "title": "What parents should know to protect their children from doxxing"
-  },
-  "https://threats.wiz.io/all-incidents/plague-pam-based-backdoor-for-linux": {
-    "ts": "2026-09-06T23:39:47.251017+00:00",
-    "title": "Plague PAM-Based Backdoor for Linux (Campaign)"
-  },
-  "https://www.group-ib.com/blog/hunting-rituals-5/": {
-    "ts": "2026-09-06T23:39:47.367265+00:00",
-    "title": "Hunting Rituals #5: Why hypothesis-based threat hunting is essential in cybersecurity"
-  },
-  "https://www.welivesecurity.com/en/social-media/influencers-crosshairs-cybercriminals-targeting-content-creators/": {
-    "ts": "2026-09-06T23:39:47.485844+00:00",
-    "title": "Influencers in the crosshairs: How cybercriminals are targeting content creators"
-  },
-  "https://threats.wiz.io/all-incidents/auto-color-malware-exploits-sap-vulnerability-for--linux-backdoor": {
-    "ts": "2026-09-06T23:39:47.610648+00:00",
-    "title": "Auto-Color Malware Exploits SAP Vulnerability for  Linux Backdoor (Campaign)"
-  },
-  "https://www.group-ib.com/blog/the-cybercriminal-with-four-faces-revealing-group-ib-s-investigation-into-altdos-desorden-ghostr-and-0mid16b/": {
-    "ts": "2026-09-06T23:39:47.735969+00:00",
-    "title": "The Cybercriminal with Four Faces: Revealing Group-IB\u2019s Investigation into ALTDOS, DESORDEN, GHOSTR and 0mid16B"
-  },
-  "https://threats.wiz.io/all-incidents/aws-codebuild-vulnerability-allows-build-process-secrets-extraction": {
-    "ts": "2026-09-06T23:39:47.856609+00:00",
-    "title": "AWS CodeBuild Vulnerability Allows Build Process Secrets Extraction (Research)"
-  },
-  "https://www.group-ib.com/blog/clickfix-the-social-engineering-technique-hackers-use-to-manipulate-victims/": {
-    "ts": "2026-09-06T23:39:47.980701+00:00",
-    "title": "ClickFix: The Social Engineering Technique Hackers Use to Manipulate Victims"
-  },
-  "https://threats.wiz.io/all-incidents/soco404-cryptomining-campaign-exploits-postgresql-and-cloud-misconfigurations": {
-    "ts": "2026-09-06T23:39:48.108852+00:00",
-    "title": "Soco404 Cryptomining Campaign Exploits PostgreSQL and Cloud Misconfigurations (Campaign)"
-  },
-  "https://www.group-ib.com/blog/the-evolution-of-sim-swapping-fraud-how-fraudsters-bypass-security-layers/": {
-    "ts": "2026-09-06T23:39:48.108870+00:00",
-    "title": "The Evolution of SIM Swapping Fraud: How Fraudsters Bypass Security Layers"
-  },
-  "https://threats.wiz.io/all-incidents/mimo-targets-magento-docker-and-cloud-environments": {
-    "ts": "2026-09-06T23:39:48.238610+00:00",
-    "title": "Mimo Targets Magento, Docker, and Cloud Environments (Campaign)"
-  },
-  "https://www.group-ib.com/blog/building-zero-trust-security-selectively-trust-to-rightfully-secure/": {
-    "ts": "2026-09-06T23:39:48.362434+00:00",
-    "title": "Building Zero Trust Security: Selectively Trust To Rightfully Secure"
-  },
-  "https://threats.wiz.io/all-incidents/supply-chain-attack-on-npm-packages-via-maintainer-phishing": {
-    "ts": "2026-09-06T23:39:48.479644+00:00",
-    "title": "Supply Chain Attack on npm Packages via Maintainer Phishing (Campaign)"
-  },
-  "https://www.group-ib.com/blog/technology-alone-isn-t-the-answer-to-cyber-threats-time-to-rethink-security-culture/": {
-    "ts": "2026-09-06T23:39:48.610599+00:00",
-    "title": "Technology Alone Isn\u2019t the Answer to Cyber Threats: Time to Rethink Security Culture"
-  },
-  "https://threats.wiz.io/all-incidents/0day-vulnerability-in-microsoft-sharepoint-exploited-in-the-wild": {
-    "ts": "2026-09-06T23:39:48.741254+00:00",
-    "title": "0day Vulnerability in Microsoft Sharepoint Exploited in-the-Wild (Campaign)"
-  },
-  "https://www.group-ib.com/blog/fingerprint-heists/": {
-    "ts": "2026-09-06T23:39:48.865460+00:00",
-    "title": "Fingerprint Heists: How your browser fingerprint can be stolen and used by fraudsters"
-  },
-  "https://threats.wiz.io/all-incidents/linuxsys-cryptominer-campaign": {
-    "ts": "2026-09-06T23:39:48.996418+00:00",
-    "title": "Linuxsys Cryptominer Campaign (Campaign)"
-  },
-  "https://www.group-ib.com/blog/ransomhub-never-sleeps-episode-1/": {
-    "ts": "2026-09-06T23:39:49.131652+00:00",
-    "title": "RansomHub Never Sleeps Episode 1: The evolution of modern ransomware"
-  },
-  "https://threats.wiz.io/all-incidents/aws-network-exploitation-and-ransomware-detonation": {
-    "ts": "2026-09-06T23:39:49.131671+00:00",
-    "title": "AWS Network Exploitation and Ransomware Detonation (Campaign)"
-  },
-  "https://www.group-ib.com/blog/5-ways-to-leverage-our-malware-reports/": {
-    "ts": "2026-09-06T23:39:49.131675+00:00",
-    "title": "5 ways to leverage our Malware Reports for malware analysis"
-  },
-  "https://asec.ahnlab.com/en/95254/": {
-    "ts": "2026-09-07T03:45:12.744104+00:00",
-    "title": "Detection and Removal of the Syslogk Rootkit in a Linux Environment"
-  },
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/": {
-    "ts": "2026-09-07T03:45:12.744122+00:00",
-    "title": "ChatGPT Astra is now rolling out to $20 Plus subscription"
-  },
-  "https://www.group-ib.com/blog/the-dark-side-of-automation-and-rise-of-ai-agent/": {
-    "ts": "2026-09-07T03:45:12.991702+00:00",
-    "title": "The Dark Side of Automation and Rise of AI Agents: Emerging Risks of Card Testing Attacks"
-  },
-  "https://threats.wiz.io/all-incidents/aws-data-exfiltration-and-attempted-ransomware": {
-    "ts": "2026-09-07T03:45:13.231871+00:00",
-    "title": "AWS Data Exfiltration and Attempted Ransomware (Campaign)"
-  },
-  "https://www.group-ib.com/blog/cat-s-out-of-the-bag-lynx-ransomware/": {
-    "ts": "2026-09-07T03:45:13.474246+00:00",
-    "title": "Cat\u2019s out of the bag: Lynx Ransomware-as-a-Service"
-  },
-  "https://threats.wiz.io/all-incidents/azure-account-hijack-via-stolen-tokens": {
-    "ts": "2026-09-07T03:45:13.713014+00:00",
-    "title": "Azure Account Hijack via Stolen Tokens (Campaign)"
-  },
-  "https://www.group-ib.com/blog/odds-ends-unraveling-the-surebet-playbook/": {
-    "ts": "2026-09-07T03:45:13.713035+00:00",
-    "title": "Odds & Ends: Unraveling the Surebet Playbook"
-  },
-  "https://threats.wiz.io/all-incidents/in-memory-iis-attacks-via-view-state-deserialization": {
-    "ts": "2026-09-07T03:45:13.943270+00:00",
-    "title": "In-Memory IIS Attacks via View State Deserialization (Campaign)"
-  },
-  "https://www.group-ib.com/blog/glocal-vision/": {
-    "ts": "2026-09-07T03:45:13.943285+00:00",
-    "title": "Group-IB\u2019s GLOCAL Vision Leading The Fight Against Global Cybercrime"
-  },
-  "https://threats.wiz.io/all-incidents/unc5174-exploits-ivanti-csa-zero-days-in-houken-campaign": {
-    "ts": "2026-09-07T03:45:14.189519+00:00",
-    "title": "UNC5174 Exploits Ivanti CSA Zero-Days in \u201cHouken\u201d Campaign (Campaign)"
-  },
-  "https://www.group-ib.com/blog/the-reality-of-deception-real-estate-scams/": {
-    "ts": "2026-09-07T03:45:14.421342+00:00",
-    "title": "The Realty of Deception: Real Estate Frauds Uncovered in the Middle East"
-  },
-  "https://threats.wiz.io/all-incidents/jdwp-exploited-in-the-wild": {
-    "ts": "2026-09-07T03:45:14.655349+00:00",
-    "title": "JDWP Exploited in the Wild (Campaign)"
-  },
-  "https://www.group-ib.com/blog/beyond-ai/": {
-    "ts": "2026-09-07T03:45:14.889107+00:00",
-    "title": "Beyond AI: Group-IB\u2019s Local Expertise in Fraud Protection"
-  },
-  "https://threats.wiz.io/all-incidents/linux-ssh-servers-compromised-to-deploy-proxies": {
-    "ts": "2026-09-07T03:45:15.129710+00:00",
-    "title": "Linux SSH Servers Compromised to Deploy Proxies (Campaign)"
-  },
-  "https://www.group-ib.com/blog/social-engineering-in-action/": {
-    "ts": "2026-09-07T03:45:15.368520+00:00",
-    "title": "Social Engineering in Action: How Fraudsters Exploit Trust with Fake Refund Schemes in the Middle East"
-  },
-  "https://threats.wiz.io/all-incidents/attacks-on-korean-iis--linux-servers": {
-    "ts": "2026-09-07T03:45:15.606026+00:00",
-    "title": "Attacks on Korean IIS & Linux Servers (Campaign)"
-  },
-  "https://www.group-ib.com/blog/cyber-predictions-for-2025/": {
-    "ts": "2026-09-07T03:45:15.606045+00:00",
-    "title": "Cyber Predictions For 2025 (and Beyond): Group-IB\u2019s Expert Take On What\u2019s Coming"
-  },
-  "https://threats.wiz.io/all-incidents/langflow-vulnerability-exploited-to-deliver-flodrix-botnet": {
-    "ts": "2026-09-07T03:45:15.835200+00:00",
-    "title": "Langflow Vulnerability Exploited to Deliver Flodrix Botnet (Campaign)"
-  },
-  "https://www.group-ib.com/blog/patch-me-if-you-can/": {
-    "ts": "2026-09-07T03:45:15.835219+00:00",
-    "title": "Patch Me If You Can: The Truth About Smartphone Vulnerabilities"
-  },
-  "https://threats.wiz.io/all-incidents/sfiretruck-malicious-javascript-campaign-using-obfuscation": {
-    "ts": "2026-09-07T03:45:16.073215+00:00",
-    "title": "SFireTruck: Malicious JavaScript Campaign Using Obfuscation (Campaign)"
-  },
-  "https://www.group-ib.com/blog/trust-hijacked/": {
-    "ts": "2026-09-07T03:45:16.316145+00:00",
-    "title": "Trust Hijacked: The Subtle Art of Phishing Through Familiar Facades"
-  },
-  "https://threats.wiz.io/all-incidents/teamfiltration-account-takeover-campaign": {
-    "ts": "2026-09-07T03:45:16.581049+00:00",
-    "title": "TeamFiltration Account Takeover Campaign (Campaign)"
-  },
-  "https://www.group-ib.com/blog/deepfake-fraud/": {
-    "ts": "2026-09-07T03:45:16.816313+00:00",
-    "title": "Deepfake Fraud: How AI is Deceiving Biometric Security in Financial Institutions"
-  },
-  "https://threats.wiz.io/all-incidents/npm-supply-chain-attack-compromises-16-popular-react-native-and-gluestack-packages": {
-    "ts": "2026-09-07T03:45:17.056370+00:00",
-    "title": "NPM Supply Chain Attack Compromises 16 Popular React Native and GlueStack Packages (Campaign)"
-  },
-  "https://www.group-ib.com/blog/shady-bets/": {
-    "ts": "2026-09-07T03:45:17.295771+00:00",
-    "title": "Shady Bets: How to Protect Yourself from Gambling Fraud Online"
-  },
-  "https://threats.wiz.io/all-incidents/open-webui-misconfiguration-exploited-for-cryptojacking": {
-    "ts": "2026-09-07T03:45:17.535367+00:00",
-    "title": "Open WebUI Misconfiguration Exploited for Cryptojacking (Campaign)"
-  },
-  "https://www.group-ib.com/blog/rethinking-investigation/": {
-    "ts": "2026-09-07T03:45:17.535386+00:00",
-    "title": "Rethinking investigation: Group-IB\u2019s Graph takes a leap forward"
-  },
-  "https://threats.wiz.io/all-incidents/cryptojacking-campaign-targets-misconfigured-devops-tools": {
-    "ts": "2026-09-07T03:45:17.774337+00:00",
-    "title": "Cryptojacking Campaign Targets Misconfigured DevOps Tools (Campaign)"
-  },
-  "https://www.group-ib.com/blog/tracing-the-path-of-vietcredcare-and-ducktail/": {
-    "ts": "2026-09-07T03:45:18.016550+00:00",
-    "title": "Tracing the Path of VietCredCare and DuckTail: Vietnamese dark market of infostealers\u2019 data"
-  },
-  "https://threats.wiz.io/all-incidents/earth-lamia-custom-toolkit-targets-multiple-sectors-via-web-vulnerabilities": {
-    "ts": "2026-09-07T03:45:18.258020+00:00",
-    "title": "Earth Lamia Custom Toolkit Targets Multiple Sectors via Web Vulnerabilities (Campaign)"
-  },
   "https://rewterz.com/threat-advisory/google-fixes-actively-exploited-chrome-zero-day-enabling-rce": {
     "ts": "2026-09-07T09:07:31.667820+00:00",
     "title": "Google Fixes Actively Exploited Chrome Zero-Day Enabling RCE"
@@ -22706,5 +22466,125 @@
   "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/": {
     "ts": "2026-11-05T23:29:52.217101+00:00",
     "title": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/": {
+    "ts": "2026-11-06T05:49:11.811793+00:00",
+    "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems"
+  },
+  "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users": {
+    "ts": "2026-11-06T05:49:12.036132+00:00",
+    "title": "APT29's Watering Holes Target Thousands of Mobile Users"
+  },
+  "https://www.darktrace.com/blog/out-of-character-detecting-vendor-compromise-and-trusted-relationship-abuse-with-darktrace": {
+    "ts": "2026-11-06T05:49:12.036152+00:00",
+    "title": "Detecting Vendor Compromise and Trusted Relationship Abuse with Darktrace"
+  },
+  "https://www.group-ib.com/blog/incident-response-retainer/": {
+    "ts": "2026-11-06T05:49:12.036155+00:00",
+    "title": "What Is an Incident Response Retainer? (And Why Waiting Until a Breach Is Too Late)"
+  },
+  "https://www.helpnetsecurity.com/2026/11/06/blueflag-ai-agents-access-risks-report/": {
+    "ts": "2026-11-06T05:49:12.036159+00:00",
+    "title": "99% of repository access tokens never expire"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/11/scammers-use-ai-generated-images-of-missing-pets-to-extort-owners": {
+    "ts": "2026-11-06T05:49:12.261142+00:00",
+    "title": "Scammers use AI-generated images of missing pets to extort owners"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/": {
+    "ts": "2026-11-06T05:49:12.493620+00:00",
+    "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets"
+  },
+  "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/": {
+    "ts": "2026-11-06T05:49:12.716454+00:00",
+    "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million"
+  },
+  "https://socradar.io/blog/sonicwall-gms-flaws-unpatched-after-end-of-life/": {
+    "ts": "2026-11-06T05:49:12.948841+00:00",
+    "title": "SonicWall GMS Flaws Unpatched After End of Life"
+  },
+  "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html": {
+    "ts": "2026-11-06T05:49:13.174428+00:00",
+    "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction"
+  },
+  "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022": {
+    "ts": "2026-11-06T05:49:13.174446+00:00",
+    "title": "AI agents are a \u2018bane\u2019 for some website operators, says Cloudflare"
+  },
+  "https://threatmon.io/an-82-day-breach-a-38-gb-leak-and-a-gang-that-was-supposed-to-be-gone-october-2026-in-ransomware/": {
+    "ts": "2026-11-06T05:49:13.405017+00:00",
+    "title": "An 82-Day Breach, a 38 GB Leak and a Gang That Was Supposed to Be Gone: October 2026 in Ransomware"
+  },
+  "https://www.welivesecurity.com/en/eset-research/killing-me-gently-inside-gentlemens-edr-killer-framework/": {
+    "ts": "2026-11-06T05:49:13.632205+00:00",
+    "title": "Killing me gently: Inside Gentlemen\u2019s EDR killer framework"
+  },
+  "https://threats.wiz.io/all-incidents/bindinggyp-supply-chain-attack-enables-cicd-worm-propagation-across-npm-packages": {
+    "ts": "2026-11-06T05:49:13.856640+00:00",
+    "title": "Binding.gyp Supply Chain Attack Enables CI/CD Worm Propagation Across npm Packages (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/one-click-compromise-threatlabz-2026-phishing-and-initial-access-report": {
+    "ts": "2026-11-06T05:49:13.856657+00:00",
+    "title": "One Click to Compromise: ThreatLabz 2026 Phishing and Initial Access Report"
+  },
+  "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/": {
+    "ts": "2026-11-06T05:49:14.079371+00:00",
+    "title": "OpenAI\u2019s GPT-6 Astra silently obstructed safety research tasks"
+  },
+  "https://www.darktrace.com/blog/seo-poisoning-and-fake-putty-sites-darktraces-investigation-into-the-oyster-backdoor": {
+    "ts": "2026-11-06T05:49:14.305222+00:00",
+    "title": "SEO Poisoning and Fake PuTTY sites: Darktrace\u2019s Investigation into the Oyster backdoor"
+  },
+  "https://www.group-ib.com/blog/digital-brand-protection-2026/": {
+    "ts": "2026-11-06T05:49:14.536411+00:00",
+    "title": "Digital Brand Protection in Cybersecurity: Why It Matters in 2026"
+  },
+  "https://www.helpnetsecurity.com/2026/11/06/holiday-rental-platform-phishing-travelers/": {
+    "ts": "2026-11-06T05:49:14.767091+00:00",
+    "title": "Rental phishing sites use live chat to win over hesitant travelers"
+  },
+  "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/": {
+    "ts": "2026-11-06T05:49:14.990337+00:00",
+    "title": "Cisco, WatchGuard Release Patches; SonicWall Won\u2019t Fix GMS Flaws"
+  },
+  "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html": {
+    "ts": "2026-11-06T05:49:14.990354+00:00",
+    "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out"
+  },
+  "https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000": {
+    "ts": "2026-11-06T05:49:14.990358+00:00",
+    "title": "Threat actor targets Indian fintechs on weekends when defenders aren\u2019t watching"
+  },
+  "https://www.welivesecurity.com/en/critical-infrastructure/protecting-legacy-ot-systems-modern-threats/": {
+    "ts": "2026-11-06T05:49:14.990361+00:00",
+    "title": "Protecting legacy OT systems against modern cyberthreats"
+  },
+  "https://threats.wiz.io/all-incidents/miasma-supply-chain-compromise-in-redhat-npm-packages": {
+    "ts": "2026-11-06T05:49:15.222327+00:00",
+    "title": "Miasma: Supply Chain Compromise in RedHat npm Packages (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/technical-analysis-mltbackdoor": {
+    "ts": "2026-11-06T05:49:15.449675+00:00",
+    "title": "Technical Analysis of MLTBackdoor"
+  },
+  "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/": {
+    "ts": "2026-11-06T05:49:15.672893+00:00",
+    "title": "DigiCert data breach exposes customer information, identity documents"
+  },
+  "https://www.darktrace.com/blog/introducing-the-industrys-first-truly-automated-cloud-forensics-solution": {
+    "ts": "2026-11-06T05:49:15.897632+00:00",
+    "title": "Industry-First Automated Cloud Forensics"
+  },
+  "https://www.group-ib.com/blog/french-railway-two-step-scam/": {
+    "ts": "2026-11-06T05:49:16.123278+00:00",
+    "title": "The French 2-Step: Exposing a Multi-stage Scam Targeting the National Railway Company in France"
+  },
+  "https://www.helpnetsecurity.com/2026/11/05/google-cloud-ai-agents-security-controls/": {
+    "ts": "2026-11-06T05:49:16.346274+00:00",
+    "title": "Google puts new limits on AI agents that hunt threats and fix vulnerabilities"
+  },
+  "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/": {
+    "ts": "2026-11-06T05:49:16.576970+00:00",
+    "title": "The Agent Smith Dilemma: Governing Agentic Identities"
   }
 }
