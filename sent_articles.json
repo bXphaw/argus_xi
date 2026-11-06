@@ -1,124 +1,4 @@
 {
-  "https://rewterz.com/threat-advisory/google-fixes-actively-exploited-chrome-zero-day-enabling-rce": {
-    "ts": "2026-09-07T09:07:31.667820+00:00",
-    "title": "Google Fixes Actively Exploited Chrome Zero-Day Enabling RCE"
-  },
-  "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/": {
-    "ts": "2026-09-07T09:09:22.676253+00:00",
-    "title": "N-able patches max severity N-central flaw amid ongoing attacks"
-  },
-  "https://www.group-ib.com/blog/strengthening-aml-defenses/": {
-    "ts": "2026-09-07T09:09:22.676272+00:00",
-    "title": "Strengthening AML Defenses: Detect Money Mules During Their \u2018Warm-Up\u2019 Phase"
-  },
-  "https://www.helpnetsecurity.com/2026/09/07/toolhive-open-source-mcp-server-security/": {
-    "ts": "2026-09-07T09:09:22.676276+00:00",
-    "title": "ToolHive: The open-source way to run any MCP server securely"
-  },
-  "https://www.malwarebytes.com/blog/news/2026/09/a-week-in-security-august-31-september-6": {
-    "ts": "2026-09-07T09:09:22.676278+00:00",
-    "title": "A week in security (August 31 \u2013 September 6)"
-  },
-  "https://rewterz.com/threat-advisory/sidewinder-apt-group-aka-rattlesnake-targeting-pakistan-active-iocs-25": {
-    "ts": "2026-09-07T09:09:22.899873+00:00",
-    "title": "SideWinder APT Group aka Rattlesnake Targeting Pakistan \u2013 Active IOCs"
-  },
-  "https://securityaffairs.com/198545/cyber-crime/berlin-ransomware-leak-exposes-state-secrets.html": {
-    "ts": "2026-09-07T09:09:22.899890+00:00",
-    "title": "Berlin Ransomware Leak Exposes State Secrets"
-  },
-  "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html": {
-    "ts": "2026-09-07T09:09:23.102749+00:00",
-    "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies"
-  },
-  "https://www.theregister.com/columnists/2026/09/07/openais-rebel-agent-swarm-died-young-but-its-chilling-logs-live-on/5294446": {
-    "ts": "2026-09-07T09:09:23.102770+00:00",
-    "title": "OpenAI's rebel agent swarm died young, but its chilling logs live on"
-  },
-  "https://threats.wiz.io/all-incidents/dragonforce-exploits-simplehelp-vulnerabilities-in-ransomware-campaign": {
-    "ts": "2026-09-07T09:09:23.102774+00:00",
-    "title": "DragonForce Exploits SimpleHelp Vulnerabilities in Ransomware Campaign (Campaign)"
-  },
-  "https://www.group-ib.com/blog/stealthy-attributes-of-apt-lazarus/": {
-    "ts": "2026-09-07T09:09:23.297727+00:00",
-    "title": "Stealthy Attributes of Lazarus APT Group: Evading Detection with Extended Attributes"
-  },
-  "https://www.helpnetsecurity.com/2026/09/07/chris-webber-teleport-zero-trust-ai-agents/": {
-    "ts": "2026-09-07T09:09:23.491519+00:00",
-    "title": "Zero trust AI agents demand a different kind of security"
-  },
-  "https://threats.wiz.io/all-incidents/coordinated-one-day-cloud-scanning-operation-targets-75-exposure-points": {
-    "ts": "2026-09-07T09:09:23.690503+00:00",
-    "title": "Coordinated One-Day Cloud Scanning Operation Targets 75 Exposure Points (Campaign)"
-  },
-  "https://www.group-ib.com/blog/chase-cyber-threats/": {
-    "ts": "2026-09-07T09:09:23.895536+00:00",
-    "title": "<s>Run from</s> Chase Cyber Threats"
-  },
-  "https://www.helpnetsecurity.com/2026/09/07/etsi-ai-data-quality-metrics/": {
-    "ts": "2026-09-07T09:09:24.089805+00:00",
-    "title": "18 ways to check whether data can be trusted for AI"
-  },
-  "https://rewterz.com/threat-advisory/microsoft-teams-abuse-leading-to-enterprise-compromise-active-iocs": {
-    "ts": "2026-09-07T09:09:24.284706+00:00",
-    "title": "Microsoft Teams Abuse Leading to Enterprise Compromise \u2013 Active IOCs"
-  },
-  "https://threats.wiz.io/all-incidents/mimo-exploits-craft-cms-rce-to-deploy-cryptominer-and-proxyware-in-coordinated-campaign": {
-    "ts": "2026-09-07T09:09:24.480459+00:00",
-    "title": "Mimo Exploits Craft CMS RCE to Deploy Cryptominer and Proxyware in Coordinated Campaign (Campaign)"
-  },
-  "https://www.group-ib.com/blog/cybercriminal-tactics-in-the-balkan-region/": {
-    "ts": "2026-09-07T09:09:24.480477+00:00",
-    "title": "Delivery Deception: Escalating cybercriminal tactics in the Balkan region"
-  },
-  "https://rewterz.com/threat-advisory/d-link-router-flaws-enable-credential-theft": {
-    "ts": "2026-09-07T09:09:24.680280+00:00",
-    "title": "D-Link Router Flaws Enable Credential Theft"
-  },
-  "https://threats.wiz.io/all-incidents/ivanti-epmm-rce-vulnerability-chain-exploited-in-the-wild": {
-    "ts": "2026-09-07T09:09:24.875259+00:00",
-    "title": "Ivanti EPMM RCE Vulnerability Chain Exploited in the Wild (Campaign)"
-  },
-  "https://www.group-ib.com/blog/fraud-protection-know-your-real-users/": {
-    "ts": "2026-09-07T09:09:24.875280+00:00",
-    "title": "Group-IB Fraud Protection: Know your real users, catch the fraudsters"
-  },
-  "https://rewterz.com/threat-advisory/cisa-warns-of-exploited-microsoft-sql-server-rce-flaw": {
-    "ts": "2026-09-07T09:09:25.069597+00:00",
-    "title": "CISA Warns of Exploited Microsoft SQL Server RCE Flaw"
-  },
-  "https://threats.wiz.io/all-incidents/utg-q-015-exploits-0-days-for-espionage-in-asia": {
-    "ts": "2026-09-07T09:09:25.273767+00:00",
-    "title": "UTG-Q-015 Exploits 0-Days for Espionage in Asia (Campaign)"
-  },
-  "https://www.group-ib.com/blog/global-igaming/": {
-    "ts": "2026-09-07T09:09:25.474490+00:00",
-    "title": "Global iGaming? Tailor Your Security with Group-IB Fraud Protection"
-  },
-  "https://threats.wiz.io/all-incidents/from-stolen-cloud-key-to-persistence-as-a-service": {
-    "ts": "2026-09-07T09:09:25.674182+00:00",
-    "title": "From stolen cloud key to persistence-as-a-service (Incident)"
-  },
-  "https://www.group-ib.com/blog/fake-wood-scams/": {
-    "ts": "2026-09-07T09:09:25.876258+00:00",
-    "title": "Woodn\u2019t You Believe It? The Rise of Fake Wood Scams"
-  },
-  "https://threats.wiz.io/all-incidents/redisraider-linux-cryptojacking-campaign-targets-redis-servers": {
-    "ts": "2026-09-07T09:09:26.070525+00:00",
-    "title": "RedisRaider Linux Cryptojacking Campaign Targets Redis Servers (Campaign)"
-  },
-  "https://www.group-ib.com/blog/cicada3301/": {
-    "ts": "2026-09-07T09:09:26.266021+00:00",
-    "title": "Encrypted Symphony: Infiltrating the Cicada3301 Ransomware-as-a-Service Group"
-  },
-  "https://threats.wiz.io/all-incidents/comfyui-exploitation-campaign--": {
-    "ts": "2026-09-07T09:09:26.456498+00:00",
-    "title": "ComfyUI exploitation campaign   (Campaign)"
-  },
-  "https://www.group-ib.com/blog/firming-grip-of-cyber-fraud-in-asia/": {
-    "ts": "2026-09-07T09:09:26.456517+00:00",
-    "title": "The firming grip of cyber fraud in Asia: What effective actions must banks take today?"
-  },
   "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/": {
     "ts": "2026-09-07T15:40:36.702093+00:00",
     "title": "Mathspace discloses data breach affecting over 1 million people"
@@ -22586,5 +22466,125 @@
   "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/": {
     "ts": "2026-11-06T05:49:16.576970+00:00",
     "title": "The Agent Smith Dilemma: Governing Agentic Identities"
+  },
+  "https://securityaffairs.com/202528/security/enisa-warns-of-cyberattacks-targeting-refrigeration-systems-across-europe.html": {
+    "ts": "2026-11-06T13:58:23.550502+00:00",
+    "title": "ENISA Warns of Cyberattacks Targeting Refrigeration Systems Across Europe"
+  },
+  "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/": {
+    "ts": "2026-11-06T14:00:16.606363+00:00",
+    "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches"
+  },
+  "https://cybersecuritynews.com/artex-ai-agents/": {
+    "ts": "2026-11-06T14:00:16.885921+00:00",
+    "title": "ARTEX AI Agents Steal 190,000 Gaming Credentials and Hundreds of Apple Code-Signing Certificates"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk": {
+    "ts": "2026-11-06T14:00:16.885941+00:00",
+    "title": "UK Warns Its Critical Infrastructure Faces Grave Risk"
+  },
+  "https://www.darktrace.com/blog/shadowv2-an-emerging-ddos-for-hire-botnet": {
+    "ts": "2026-11-06T14:00:17.108605+00:00",
+    "title": "ShadowV2: An emerging DDoS for hire botnet"
+  },
+  "https://gbhackers.com/dark-project-ransomware/": {
+    "ts": "2026-11-06T14:00:17.338248+00:00",
+    "title": "Dark Project Ransomware Gang Claims 38 Victims Across 8 Countries, Targeting Healthcare and Manufacturing"
+  },
+  "https://www.group-ib.com/blog/infostealers-banking-fraud-stolen-credentials/": {
+    "ts": "2026-11-06T14:00:17.567687+00:00",
+    "title": "Infostealers In Banking Fraud: How Stolen Credentials Lead To Silent Intrusions"
+  },
+  "https://www.helpnetsecurity.com/2026/11/06/openssh-sshole-cve-2026-123158-exploitation/": {
+    "ts": "2026-11-06T14:00:17.790267+00:00",
+    "title": "OpenSSH flaw exploited in the wild just hours after disclosure (CVE-2026-123158)"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/11/attacks-on-supermarket-and-blood-storage-systems-prompt-us-warning": {
+    "ts": "2026-11-06T14:00:18.013584+00:00",
+    "title": "Attacks on supermarket and blood storage systems prompt US warning"
+  },
+  "https://moonlock.com/fake-homebrew-installer-binance-heist": {
+    "ts": "2026-11-06T14:00:18.237943+00:00",
+    "title": "Fake Homebrew installer linked to record-breaking $6.3 billion Binance heist"
+  },
+  "https://securelist.com/virtualization-security-esxi-and-proxmox-ransomware-cases/121819/": {
+    "ts": "2026-11-06T14:00:18.460210+00:00",
+    "title": "Virtualization security: attack layers and misconfiguration impact"
+  },
+  "https://securityaffairs.com/202546/ai/openai-rates-gpt-6-cyber-critical-after-major-vulnerability-discoveries.html": {
+    "ts": "2026-11-06T14:00:18.460228+00:00",
+    "title": "OpenAI Rates GPT-6 Cyber Critical After Major Vulnerability Discoveries"
+  },
+  "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/": {
+    "ts": "2026-11-06T14:00:18.460232+00:00",
+    "title": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line"
+  },
+  "https://socradar.io/blog/refrigeration-cyberattack-fbi-cisa-warning/": {
+    "ts": "2026-11-06T14:00:18.695327+00:00",
+    "title": "Refrigeration Cyberattacks Draw FBI and CISA Warning"
+  },
+  "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html": {
+    "ts": "2026-11-06T14:00:18.695347+00:00",
+    "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It"
+  },
+  "https://www.theregister.com/security/2026/11/06/digicert-admits-16-month-security-lapse-exposed-customer-information/5308097": {
+    "ts": "2026-11-06T14:00:18.695351+00:00",
+    "title": "DigiCert admits 16-month security lapse exposed customer information"
+  },
+  "https://www.welivesecurity.com/en/eset-research/fishmongers-arsenal-upgraded-sprysocks-windows/": {
+    "ts": "2026-11-06T14:00:18.921666+00:00",
+    "title": "FishMonger\u2019s arsenal upgraded: SprySOCKS for Windows"
+  },
+  "https://threats.wiz.io/all-incidents/jinx-0164-targeting-cryptocurrency-development-infrastructure": {
+    "ts": "2026-11-06T14:00:19.143164+00:00",
+    "title": "JINX-0164 Targeting Cryptocurrency Development Infrastructure (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/when-scanner-starts-thinking-learnings-mythos-gpt-5-5-cyber-security": {
+    "ts": "2026-11-06T14:00:19.365818+00:00",
+    "title": "When the Scanner Starts Thinking: Learnings from Mythos &amp; GPT 5.5 Cyber in Security Testing"
+  },
+  "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/": {
+    "ts": "2026-11-06T14:00:19.586565+00:00",
+    "title": "MetaMask says recent attack didn't affect wallet infrastructure"
+  },
+  "https://cybersecuritynews.com/hackers-use-artex-ai/": {
+    "ts": "2026-11-06T14:00:19.817861+00:00",
+    "title": "Hackers Use ARTEX AI to Find GitHub Secrets and Steal Azure Key Vault Data in Just 5 Minutes"
+  },
+  "https://www.darktrace.com/blog/the-benefits-of-bringing-together-network-and-email-security": {
+    "ts": "2026-11-06T14:00:19.817879+00:00",
+    "title": "Why Unifying Email and Network Security Is Critical for Modern Cyber Defense"
+  },
+  "https://gbhackers.com/mirax-android-malware/": {
+    "ts": "2026-11-06T14:00:20.040121+00:00",
+    "title": "Hackers Use Fake Streaming Apps to Spread Mirax Android Malware and Steal Bank Accounts"
+  },
+  "https://www.group-ib.com/blog/drp-secops-integration/": {
+    "ts": "2026-11-06T14:00:20.040140+00:00",
+    "title": "Group-IB Digital Risk Protection Integrates with Google SecOps: Brand Threat Intelligence, Now In Your SOC"
+  },
+  "https://www.helpnetsecurity.com/2026/11/06/white-house-residential-proxy-traffic/": {
+    "ts": "2026-11-06T14:00:20.263048+00:00",
+    "title": "Residential proxy traffic caught leaving the White House network"
+  },
+  "https://moonlock.com/metamask-email-scam": {
+    "ts": "2026-11-06T14:00:20.263067+00:00",
+    "title": "Lost crypto to a MetaMask scam? What recovery realistically looks like"
+  },
+  "https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/": {
+    "ts": "2026-11-06T14:00:20.499455+00:00",
+    "title": "US Agencies Urge Organizations to Harden Refrigeration Controllers"
+  },
+  "https://socradar.io/blog/sshole-openssh-password-bypass-alpine/": {
+    "ts": "2026-11-06T14:00:20.723872+00:00",
+    "title": "sshole: OpenSSH Fixes Password Bypass on Alpine Linux"
+  },
+  "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html": {
+    "ts": "2026-11-06T14:00:20.945820+00:00",
+    "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889": {
+    "ts": "2026-11-06T14:00:21.167554+00:00",
+    "title": "UK ministers seek powers to investigate when AI agents are let off the leash"
   }
 }
