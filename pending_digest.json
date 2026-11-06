@@ -1,4 +1,35 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "Fake security tools on GitHub push backdoors and infostealers",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "New Dark Project Ransomware Group Offers Hackers 80% Commission to Expand Cyberattacks",
+      "url": "https://cybersecuritynews.com/new-dark-project-ransomware-group/"
+    },
+    {
+      "category": "new_technique",
+      "title": "You Might Be Someone Else\u2019s AI Test Environment",
+      "url": "https://cyble.com/blog/rogue-ai-agents-ai-test-environment/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Qilin Ransomware Admin Haise Allegedly Unmasked",
+      "url": "https://socradar.io/blog/qilin-ransomware-admin-haise-unmasked/"
+    },
+    {
+      "category": "new_technique",
+      "title": "What is a VPS and How Do Attackers Abuse Virtual Servers?",
+      "url": "https://www.darktrace.com/blog/from-vps-to-phishing-how-darktrace-uncovered-saas-hijacks-through-virtual-infrastructure-abuse"
+    },
+    {
+      "category": "new_technique",
+      "title": "Claude AI Flaw Lets Malicious Browser Extensions Execute Commands on Remote Computers",
+      "url": "https://gbhackers.com/claude-ai-flaw/"
+    }
+  ],
   "last_sent_date": "2026-11-06"
 }

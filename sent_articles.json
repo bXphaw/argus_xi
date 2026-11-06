@@ -1,244 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/": {
-    "ts": "2026-09-07T15:40:36.702093+00:00",
-    "title": "Mathspace discloses data breach affecting over 1 million people"
-  },
-  "https://research.checkpoint.com/2026/7th-september-threat-intelligence-report/": {
-    "ts": "2026-09-07T15:40:36.872280+00:00",
-    "title": "7th September \u2013 Threat Intelligence Report"
-  },
-  "https://cybersecuritynews.com/linux-rootkit/": {
-    "ts": "2026-09-07T15:40:36.963568+00:00",
-    "title": "Linux Rootkit Injects Fileless PHP Web Shells Into Compromised F5 BIG-IP Servers"
-  },
-  "https://cyble.com/blog/qatar-digital-boom-blindspot/": {
-    "ts": "2026-09-07T15:40:36.963589+00:00",
-    "title": "Qatar\u2019s Digital Boom Has a Blind Spot: What the 2025-26 Threat Data Is Telling Us"
-  },
-  "https://gbhackers.com/poisonedrefresh-malware/": {
-    "ts": "2026-09-07T15:40:37.066696+00:00",
-    "title": "PoisonedRefresh Malware Backdoors F5 BIG-IP Servers With Memory-Only PHP Web Shells"
-  },
-  "https://www.group-ib.com/blog/unveiling-usb-artifacts/": {
-    "ts": "2026-09-07T15:40:37.166986+00:00",
-    "title": "Unveiling USB Artifacts: A Comparative Analysis"
-  },
-  "https://www.helpnetsecurity.com/2026/09/07/mikrotik-routeros-ssh-vulnerabilities-exploited/": {
-    "ts": "2026-09-07T15:40:37.270229+00:00",
-    "title": "Hackers exploit RouterOS flaws to hijack MikroTik devices without authentication"
-  },
-  "https://www.malwarebytes.com/blog/privacy/2026/09/lg-tv-flaws-could-let-attackers-listen-in-even-in-standby-mode": {
-    "ts": "2026-09-07T15:40:37.373748+00:00",
-    "title": "LG TV flaws could let attackers listen in, even in standby mode"
-  },
-  "https://securityaffairs.com/198589/hacking/chaotic-eclipse-released-a-poc-for-nvidia-greensection-memory-corruption-zero-day.html": {
-    "ts": "2026-09-07T15:40:37.465518+00:00",
-    "title": "Chaotic Eclipse Released A PoC For NVIDIA GreenSection Memory Corruption Zero-Day"
-  },
-  "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/": {
-    "ts": "2026-09-07T15:40:37.561339+00:00",
-    "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits"
-  },
-  "https://socradar.io/blog/stylesmuggler-magento-adobe-commerce-0day/": {
-    "ts": "2026-09-07T15:40:37.658429+00:00",
-    "title": "StyleSmuggler: Unpatched Magento and Adobe Commerce Zero-Day Exploited"
-  },
-  "https://www.sophos.com/en-us/blog/dissecting-a-php-web-server-rootkit": {
-    "ts": "2026-09-07T15:40:37.763232+00:00",
-    "title": "Dissecting a PHP web server rootkit"
-  },
-  "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html": {
-    "ts": "2026-09-07T15:40:37.763251+00:00",
-    "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does"
-  },
-  "https://www.theregister.com/security/2026/09/07/nightwing-ceo-has-a-labor-day-message-for-staff-and-apparently-the-register/5294819": {
-    "ts": "2026-09-07T15:40:37.763255+00:00",
-    "title": "Nightwing CEO has a Labor Day message for staff \u2013 and apparently The Register"
-  },
-  "https://threatmon.io/760000-leaked-logins-and-five-spy-campaigns-inside-pakistans-worst-cyber-year-yet/": {
-    "ts": "2026-09-07T15:40:37.864605+00:00",
-    "title": "760,000 Leaked Logins and Five Spy Campaigns: Inside Pakistan\u2019s Worst Cyber Year Yet"
-  },
-  "https://threats.wiz.io/all-incidents/coder-module-registry-compromise-leads-to-credential-stealing-malware-distribution": {
-    "ts": "2026-09-07T15:40:37.980331+00:00",
-    "title": "Coder Module Registry Compromise Leads to Credential-Stealing Malware Distribution (Incident)"
-  },
-  "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/": {
-    "ts": "2026-09-07T15:40:38.080805+00:00",
-    "title": "Trezor data breach impact now reaches 81,000 customers"
-  },
-  "https://cybersecuritynews.com/mathspace-data-breach/": {
-    "ts": "2026-09-07T15:40:38.183776+00:00",
-    "title": "Online Maths Learning Platform Mathspace Disclosed Data Breach Impacts 1 Million Users"
-  },
-  "https://gbhackers.com/natural-resources-wales-data-breach/": {
-    "ts": "2026-09-07T15:40:38.285370+00:00",
-    "title": "Natural Resources Wales Data Breach Exposes Sensitive Employee Diversity Data"
-  },
-  "https://www.group-ib.com/blog/pig-butchering/": {
-    "ts": "2026-09-07T15:40:38.383525+00:00",
-    "title": "Pig Butchering Alert: Fraudulent Trading App targeted iOS and Android users"
-  },
-  "https://www.helpnetsecurity.com/2026/09/07/n-able-n-central-hotfix-cve-2026-86218/": {
-    "ts": "2026-09-07T15:40:38.485692+00:00",
-    "title": "N-able patches critical N-central zero-day exploited in the wild (CVE-2026-86218)"
-  },
-  "https://www.malwarebytes.com/blog/ai/2026/09/flirty-onlyfans-promoters-on-x-may-be-using-ai-to-appear-human": {
-    "ts": "2026-09-07T15:40:38.485712+00:00",
-    "title": "Flirty OnlyFans promoters on X may be using AI to appear human"
-  },
-  "https://securityaffairs.com/198573/malware/jsceal-hides-crypto-malware-in-v8-bytecode.html": {
-    "ts": "2026-09-07T15:40:38.590513+00:00",
-    "title": "JSCeal Hides Crypto Malware in V8 Bytecode"
-  },
-  "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/": {
-    "ts": "2026-09-07T15:40:38.691200+00:00",
-    "title": "North Korean Hackers Deploy New Linux Espionage Toolkit"
-  },
-  "https://socradar.io/blog/socradar-mcp-server-chatgpt/": {
-    "ts": "2026-09-07T15:40:38.691222+00:00",
-    "title": "Bring Licensed Threat Intelligence into Every Conversation with SOCRadar and ChatGPT"
-  },
-  "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html": {
-    "ts": "2026-09-07T15:40:38.781727+00:00",
-    "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts"
-  },
-  "https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770": {
-    "ts": "2026-09-07T15:40:38.877862+00:00",
-    "title": "Hackers drain $320M in Bitcoin from Liquid Network, claim they're the good guys"
-  },
-  "https://threats.wiz.io/all-incidents/jetbrains-cadence-compromised-via-exploitation-of-teamcity-vulnerability": {
-    "ts": "2026-09-07T15:40:38.972626+00:00",
-    "title": "JetBrains Cadence Compromised via Exploitation of TeamCity Vulnerability (Incident)"
-  },
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/": {
-    "ts": "2026-09-07T15:40:39.083661+00:00",
-    "title": "ChatGPT can now connect to your personal apps to mimic writing style"
-  },
-  "https://cybersecuritynews.com/switzerland-moves-away-from-microsoft-365/": {
-    "ts": "2026-09-07T15:40:39.188429+00:00",
-    "title": "Switzerland Moves Away From Microsoft 365 to Open-Source Alternatives"
-  },
-  "https://threats.wiz.io/all-incidents/7noheopenapi-react-query-codegen-compromised-in-supply-chain-attack": {
-    "ts": "2026-09-07T19:43:07.833335+00:00",
-    "title": "@7nohe/openapi-react-query-codegen Compromised in Supply Chain Attack (Campaign)"
-  },
-  "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/": {
-    "ts": "2026-09-07T19:43:13.958558+00:00",
-    "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores"
-  },
-  "https://threats.wiz.io/all-incidents/arrayref-and-other-rust-crates-hijacked-in-supply-chain-attack": {
-    "ts": "2026-09-07T19:43:16.155785+00:00",
-    "title": "arrayref and Other Rust Crates Hijacked in Supply Chain Attack (Campaign)"
-  },
-  "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/": {
-    "ts": "2026-09-07T19:44:58.174720+00:00",
-    "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor"
-  },
-  "https://cybersecuritynews.com/bimbo-oracle-ebs-data-breach/": {
-    "ts": "2026-09-07T19:44:58.322110+00:00",
-    "title": "Bimbo Bakeries USA Confirms Data Breach in Oracle EBS Zero-Day Attack"
-  },
-  "https://gbhackers.com/connectwise-screenconnect-remote-access-flaw/": {
-    "ts": "2026-09-07T19:44:58.322130+00:00",
-    "title": "ConnectWise ScreenConnect Remote Access Flaw Impacts Guest File Transfer Sessions"
-  },
-  "https://www.group-ib.com/blog/dragonforce-ransomware/": {
-    "ts": "2026-09-07T19:44:58.459735+00:00",
-    "title": "Inside the Dragon: DragonForce Ransomware Group"
-  },
-  "https://www.helpnetsecurity.com/2026/09/07/connectwise-screenconnect-file-transfer-flaw/": {
-    "ts": "2026-09-07T19:44:58.592872+00:00",
-    "title": "Attackers use rogue ScreenConnect clients to spread malware"
-  },
-  "https://www.malwarebytes.com/blog/podcast/2026/09/loyalty-points-fraud-is-funding-hacker-holidays-lock-and-code-s07e18": {
-    "ts": "2026-09-07T19:44:58.736384+00:00",
-    "title": "Loyalty points fraud is funding hacker holidays (Lock and Code S07E18)"
-  },
-  "https://securityaffairs.com/198603/uncategorized/stylesmuggler-the-magento-zero-day-behind-new-store-attacks.html": {
-    "ts": "2026-09-07T19:44:58.870071+00:00",
-    "title": "StyleSmuggler: The Magento Zero-Day Behind New Store Attacks"
-  },
-  "https://www.securityweek.com/openai-agents-hijack-another-victim-website/": {
-    "ts": "2026-09-07T19:44:58.979193+00:00",
-    "title": "OpenAI Agents Hijack Another Victim Website"
-  },
-  "https://socradar.io/blog/e-commerce-access-vedicline-data-langflow-rce-asus-claim-and-energy-shell-access/": {
-    "ts": "2026-09-07T19:44:59.111707+00:00",
-    "title": "E-Commerce Access, Vedicline Data, Langflow RCE, ASUS Claim, and Energy Shell Access"
-  },
-  "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html": {
-    "ts": "2026-09-07T19:44:59.259013+00:00",
-    "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution"
-  },
-  "https://www.theregister.com/security/2026/09/07/welsh-environment-regulators-foi-blunder-exposes-diversity-data-of-2000-staff/5294748": {
-    "ts": "2026-09-07T19:44:59.259032+00:00",
-    "title": "Welsh environment regulator's FoI blunder exposes diversity data of 2,000 staff"
-  },
-  "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/": {
-    "ts": "2026-09-07T19:44:59.387544+00:00",
-    "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations"
-  },
-  "https://cybersecuritynews.com/trusted-google-services/": {
-    "ts": "2026-09-07T19:44:59.534539+00:00",
-    "title": "Hackers Abuse Trusted Google Services to Hide Credential-Stealing Phishing Attacks"
-  },
-  "https://gbhackers.com/global-phishing-campaign/": {
-    "ts": "2026-09-07T19:44:59.670272+00:00",
-    "title": "Global Phishing Campaign Abuses Google Infrastructure to Evade Security and Steal Credentials"
-  },
-  "https://www.group-ib.com/blog/teamtnt/": {
-    "ts": "2026-09-07T19:44:59.818685+00:00",
-    "title": "Storm clouds on the horizon: Resurgence of TeamTNT?"
-  },
-  "https://www.helpnetsecurity.com/2026/09/07/openai-research-automation-intern/": {
-    "ts": "2026-09-07T19:44:59.950482+00:00",
-    "title": "OpenAI just hit a milestone on the road to self-improving AI"
-  },
-  "https://securityaffairs.com/198563/ai/why-ai-agent-sandboxes-are-failing-security-tests.html": {
-    "ts": "2026-09-07T19:45:00.080882+00:00",
-    "title": "Why AI Agent Sandboxes Are Failing Security Tests"
-  },
-  "https://socradar.io/blog/n-able-n-central-hf4-critical-rce-auth-flaws/": {
-    "ts": "2026-09-07T19:45:00.220825+00:00",
-    "title": "N-able N-central HF4 Fixes Critical RCE After Series of Authentication Flaws"
-  },
-  "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html": {
-    "ts": "2026-09-07T19:45:00.424669+00:00",
-    "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks"
-  },
-  "https://www.theregister.com/security/2026/09/07/uk-food-supply-chain-at-risk-from-hostile-attacks/5294719": {
-    "ts": "2026-09-07T19:45:00.645027+00:00",
-    "title": "UK food supply chain at risk from hostile attacks"
-  },
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/": {
-    "ts": "2026-09-07T19:45:00.775809+00:00",
-    "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers"
-  },
-  "https://cybersecuritynews.com/natural-resources-wales-expose/": {
-    "ts": "2026-09-07T19:45:00.775846+00:00",
-    "title": "Natural Resources Wales Exposes Sensitive Employee Data in Spreadsheet Breach"
-  },
-  "https://gbhackers.com/openai-commits-1-billion-in-daybreak-ai-cyber-tools/": {
-    "ts": "2026-09-07T19:45:00.775851+00:00",
-    "title": "OpenAI Commits $1 Billion in Daybreak AI Cyber Tools to Protect Critical Infrastructure"
-  },
-  "https://www.group-ib.com/blog/concealed-networks/": {
-    "ts": "2026-09-07T19:45:00.775875+00:00",
-    "title": "Concealed networks: Are dark web syndicates turning to social media for cybercrime?"
-  },
-  "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/": {
-    "ts": "2026-09-07T19:45:00.911549+00:00",
-    "title": "Modified ScreenConnect Clients Used in Worm-Like Campaign"
-  },
-  "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html": {
-    "ts": "2026-09-07T19:45:01.043424+00:00",
-    "title": "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More"
-  },
-  "https://www.theregister.com/security/2026/09/07/peers-ask-why-uk-cyber-bill-leaves-execs-off-the-personal-liability-hook/5294586": {
-    "ts": "2026-09-07T19:45:01.043442+00:00",
-    "title": "Peers ask why UK cyber bill leaves execs off the personal liability hook"
-  },
   "https://threats.wiz.io/all-incidents/apache-druid-cryptojacking": {
     "ts": "2026-09-07T22:41:06.715761+00:00",
     "title": "Apache Druid cryptojacking (Campaign)"
@@ -22586,5 +22346,125 @@
   "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889": {
     "ts": "2026-11-06T14:00:21.167554+00:00",
     "title": "UK ministers seek powers to investigate when AI agents are let off the leash"
+  },
+  "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/": {
+    "ts": "2026-11-06T20:24:20.210565+00:00",
+    "title": "Fake security tools on GitHub push backdoors and infostealers"
+  },
+  "https://cybersecuritynews.com/new-dark-project-ransomware-group/": {
+    "ts": "2026-11-06T20:24:20.432529+00:00",
+    "title": "New Dark Project Ransomware Group Offers Hackers 80% Commission to Expand Cyberattacks"
+  },
+  "https://cyble.com/blog/rogue-ai-agents-ai-test-environment/": {
+    "ts": "2026-11-06T20:24:20.663723+00:00",
+    "title": "You Might Be Someone Else\u2019s AI Test Environment"
+  },
+  "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job": {
+    "ts": "2026-11-06T20:24:20.663738+00:00",
+    "title": "AI Gave Your Incident Archive a Second Job"
+  },
+  "https://www.darktrace.com/blog/2025-cyber-threat-landscape-darktraces-mid-year-review": {
+    "ts": "2026-11-06T20:24:20.663742+00:00",
+    "title": "2025 Cyber Threats: A Mid\u2011Year Review"
+  },
+  "https://gbhackers.com/gaming-accounts-targeted/": {
+    "ts": "2026-11-06T20:24:20.893256+00:00",
+    "title": "Hackers Put AI Agents on Autopilot to Steal Gaming Accounts and Apple Signing Certificates"
+  },
+  "https://www.group-ib.com/blog/architecture-deception-investment-crypto-fraud/": {
+    "ts": "2026-11-06T20:24:21.117113+00:00",
+    "title": "The Architecture of Deception: How a $187 Million Fraud Ecosystem Exploits Trust Across Australia and the United States"
+  },
+  "https://www.helpnetsecurity.com/2026/11/06/openai-gpt-6-cyber-released/": {
+    "ts": "2026-11-06T20:24:21.338121+00:00",
+    "title": "OpenAI\u2019s GPT-6 Cyber found 81 Firefox flaws earlier AI testing missed"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/11/big-tech-sues-over-california-plan-to-limit-kids-scrolling": {
+    "ts": "2026-11-06T20:24:21.560859+00:00",
+    "title": "Big Tech sues over California plan to limit kids\u2019 scrolling"
+  },
+  "https://moonlock.com/shopify-scams": {
+    "ts": "2026-11-06T20:24:21.785609+00:00",
+    "title": "Is Shopify legit and safe? How scam stores, phishing, and fraud work"
+  },
+  "https://www.rapid7.com/blog/post/pt-metasploit-wrapup-unauth-rce-modules-in-network-perimeter-devices-and-much-more": {
+    "ts": "2026-11-06T20:24:21.785619+00:00",
+    "title": "Metasploit Wrapup: Unauth RCE modules in Network Perimeter Devices and much more"
+  },
+  "https://www.recordedfuture.com/blog/october-2026-cve-landscape": {
+    "ts": "2026-11-06T20:24:21.785623+00:00",
+    "title": "October 2026 CVE Landscape"
+  },
+  "https://securityaffairs.com/202515/ai/openai-reports-covert-underperformance-in-gpt-6-astra.html": {
+    "ts": "2026-11-06T20:24:21.785627+00:00",
+    "title": "OpenAI Reports Covert Underperformance in GPT-6 Astra"
+  },
+  "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/": {
+    "ts": "2026-11-06T20:24:21.785630+00:00",
+    "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks"
+  },
+  "https://socradar.io/blog/qilin-ransomware-admin-haise-unmasked/": {
+    "ts": "2026-11-06T20:24:22.008102+00:00",
+    "title": "Qilin Ransomware Admin Haise Allegedly Unmasked"
+  },
+  "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html": {
+    "ts": "2026-11-06T20:24:22.230514+00:00",
+    "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time"
+  },
+  "https://www.theregister.com/security/2026/11/06/hospital-gave-very-sick-doctor-a-special-pc-for-his-personal-erm-pleasure/5307750": {
+    "ts": "2026-11-06T20:24:22.453614+00:00",
+    "title": "Hospital gave very sick doctor a special PC for his personal, erm, pleasure"
+  },
+  "https://www.welivesecurity.com/en/cybercrime/eviltokens-phishing-doesnt-steal-password/": {
+    "ts": "2026-11-06T20:24:22.677084+00:00",
+    "title": "EvilTokens: A phishing attack that doesn\u2019t steal your password"
+  },
+  "https://threats.wiz.io/all-incidents/supply-chain-campaign-targeting-composer-and-github-repositories": {
+    "ts": "2026-11-06T20:24:22.900629+00:00",
+    "title": "Supply Chain Campaign Targeting Composer and GitHub Repositories (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/malicious-openclaw-skill-distributes-remcos-rat-and-ghostloader": {
+    "ts": "2026-11-06T20:24:23.131641+00:00",
+    "title": "Malicious OpenClaw Skill Distributes Remcos RAT and GhostLoader"
+  },
+  "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/": {
+    "ts": "2026-11-06T20:24:23.131653+00:00",
+    "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks"
+  },
+  "https://cybersecuritynews.com/microsoft-warns-fake-game-downloads/": {
+    "ts": "2026-11-06T20:24:23.131657+00:00",
+    "title": "Microsoft Warns Fake Game Downloads Are Secretly Monetizing Windows PCs"
+  },
+  "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast": {
+    "ts": "2026-11-06T20:24:23.131660+00:00",
+    "title": "Why Europe's Freezer Hacks Spread So Far, So Fast"
+  },
+  "https://www.darktrace.com/blog/from-vps-to-phishing-how-darktrace-uncovered-saas-hijacks-through-virtual-infrastructure-abuse": {
+    "ts": "2026-11-06T20:24:23.355657+00:00",
+    "title": "What is a VPS and How Do Attackers Abuse Virtual Servers?"
+  },
+  "https://gbhackers.com/claude-ai-flaw/": {
+    "ts": "2026-11-06T20:24:23.580092+00:00",
+    "title": "Claude AI Flaw Lets Malicious Browser Extensions Execute Commands on Remote Computers"
+  },
+  "https://www.group-ib.com/blog/phoenix-phaas-kit-smishing/": {
+    "ts": "2026-11-06T20:24:23.805514+00:00",
+    "title": "Phoenix Rising: Exposing the PhaaS Kit Behind Global Mass Phishing Campaigns"
+  },
+  "https://www.helpnetsecurity.com/2026/11/06/cyberattacks-refrigeration-systems-cisa-fbi/": {
+    "ts": "2026-11-06T20:24:24.037324+00:00",
+    "title": "US agencies warn attackers are targeting refrigeration systems that protect food and medicine"
+  },
+  "https://moonlock.com/apple-issues-iphone-spyware-alerts": {
+    "ts": "2026-11-06T20:24:24.261385+00:00",
+    "title": "Apple issued spyware alerts to iPhone users in 110 countries"
+  },
+  "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/": {
+    "ts": "2026-11-06T20:24:24.486034+00:00",
+    "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days"
+  },
+  "https://socradar.io/blog/microsoft-paint-cve-2026-83844-store-update/": {
+    "ts": "2026-11-06T20:24:24.709345+00:00",
+    "title": "Microsoft Paint RCE CVE-2026-83844 Raises Store Update Questions"
   }
 }
