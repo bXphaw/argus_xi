@@ -1,120 +1,4 @@
 {
-  "https://threats.wiz.io/all-incidents/apache-druid-cryptojacking": {
-    "ts": "2026-09-07T22:41:06.715761+00:00",
-    "title": "Apache Druid cryptojacking (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/rspack-supply-chain-attack": {
-    "ts": "2026-09-07T22:39:28.602527+00:00",
-    "title": "Rspack supply chain attack (Incident)"
-  },
-  "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/": {
-    "ts": "2026-09-07T22:41:02.817920+00:00",
-    "title": "ConnectWise warns of new ScreenConnect flaw without patch"
-  },
-  "https://www.group-ib.com/blog/ajina-malware/": {
-    "ts": "2026-09-07T22:41:03.117180+00:00",
-    "title": "Ajina attacks Central Asia: Story of an Uzbek Android Pandemic"
-  },
-  "https://securityaffairs.com/198628/data-breach/conde-nast-data-of-32-8-million-users-offered-for-sale-after-wired-leak.html": {
-    "ts": "2026-09-07T22:41:03.117202+00:00",
-    "title": "Cond\u00e9 Nast Data of 32.8 Million Users Offered for Sale After WIRED Leak"
-  },
-  "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html": {
-    "ts": "2026-09-07T22:41:03.357999+00:00",
-    "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE \u2014 Public Exploit Released"
-  },
-  "https://threats.wiz.io/all-incidents/supply-chain-compromise-of-": {
-    "ts": "2026-09-07T22:41:03.593983+00:00",
-    "title": "Supply Chain Compromise of  (Campaign)"
-  },
-  "https://www.group-ib.com/blog/pluggable-authentication-module/": {
-    "ts": "2026-09-07T22:41:03.833767+00:00",
-    "title": "The Duality of the Pluggable Authentication Module (PAM)"
-  },
-  "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html": {
-    "ts": "2026-09-07T22:41:04.069378+00:00",
-    "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw"
-  },
-  "https://threats.wiz.io/all-incidents/xai-leaked-api-key": {
-    "ts": "2026-09-07T22:41:04.326732+00:00",
-    "title": "xAI leaked API key (Research)"
-  },
-  "https://www.group-ib.com/blog/apt-lazarus-python-scripts/": {
-    "ts": "2026-09-07T22:41:04.569067+00:00",
-    "title": "APT Lazarus: Eager Crypto Beavers, Video calls and Games"
-  },
-  "https://threats.wiz.io/all-incidents/larva-25003-iis-native-module-malware-used-in-targeted-web-server-attacks": {
-    "ts": "2026-09-07T22:41:04.804023+00:00",
-    "title": "Larva-25003: IIS Native Module Malware Used in Targeted Web Server Attacks (Campaign)"
-  },
-  "https://www.group-ib.com/blog/ransomhub-raas/": {
-    "ts": "2026-09-07T22:41:05.064370+00:00",
-    "title": "RansomHub ransomware-as-a-service"
-  },
-  "https://threats.wiz.io/all-incidents/nodejs-repository-cicd-vulnerable-to-rce": {
-    "ts": "2026-09-07T22:41:05.309370+00:00",
-    "title": "Node.js repository CI/CD vulnerable to RCE (Research)"
-  },
-  "https://www.group-ib.com/blog/linux-pro-manipulation/": {
-    "ts": "2026-09-07T22:41:05.546088+00:00",
-    "title": "Hiding in plain sight: Techniques and defenses against `/proc` filesystem manipulation in Linux"
-  },
-  "https://threats.wiz.io/all-incidents/grafana-github-action-attempted-supply-chain-attack": {
-    "ts": "2026-09-07T22:41:05.781614+00:00",
-    "title": "Grafana GitHub Action attempted supply chain attack (Incident)"
-  },
-  "https://www.group-ib.com/blog/brain-cipher-ransomware/": {
-    "ts": "2026-09-07T22:41:06.015964+00:00",
-    "title": "Deciphering the Brain Cipher Ransomware"
-  },
-  "https://threats.wiz.io/all-incidents/password-spray-attack-leads-to-containers-being-used-for-cryptomining": {
-    "ts": "2026-09-07T22:41:06.250330+00:00",
-    "title": "Password spray attack leads to containers being used for cryptomining (Campaign)"
-  },
-  "https://www.group-ib.com/blog/compromised-mdm-credentials/": {
-    "ts": "2026-09-07T22:41:06.250343+00:00",
-    "title": "Under Siege: The threat of compromised Mobile Device Management credentials and its implications for organizational security"
-  },
-  "https://threats.wiz.io/all-incidents/hybrid-attack-discovered-by-mandiant": {
-    "ts": "2026-09-07T22:41:06.488052+00:00",
-    "title": "Hybrid attack discovered by Mandiant (Incident)"
-  },
-  "https://www.group-ib.com/blog/nis-2-compliance/": {
-    "ts": "2026-09-07T22:41:06.488064+00:00",
-    "title": "NIS 2 compliance for EU businesses: Meet cybersecurity requirements before the deadline (October 17)"
-  },
-  "https://www.group-ib.com/blog/craxs-rat-malaysia/": {
-    "ts": "2026-09-07T22:41:06.956256+00:00",
-    "title": "Beware CraxsRAT: Android Remote Access malware strikes in Malaysia"
-  },
-  "https://www.group-ib.com/blog/gxc-team-unmasked/": {
-    "ts": "2026-09-07T22:41:07.200891+00:00",
-    "title": "GXC Team Unmasked: The cybercriminal group targeting Spanish bank users with AI-powered phishing tools and Android malware"
-  },
-  "https://threats.wiz.io/all-incidents/sap-netweaver-visual-composer-exploitation-campaign": {
-    "ts": "2026-09-07T22:41:07.446865+00:00",
-    "title": "SAP NetWeaver Visual Composer exploitation campaign (Campaign)"
-  },
-  "https://www.group-ib.com/blog/qilin-revisited/": {
-    "ts": "2026-09-07T22:41:07.694464+00:00",
-    "title": "Qilin Revisited: Diving into the techniques and procedures of the recent Qilin Ransomware Attacks"
-  },
-  "https://threats.wiz.io/all-incidents/multi-layered-cryptojacking-via-docker": {
-    "ts": "2026-09-07T22:41:07.931999+00:00",
-    "title": "Multi-Layered Cryptojacking via Docker (Campaign)"
-  },
-  "https://www.group-ib.com/blog/digital-risk-protection/": {
-    "ts": "2026-09-07T22:41:07.932010+00:00",
-    "title": "Group-IB Digital Risk Protection: How does it enable the fastest violation detection and takedown?"
-  },
-  "https://www.group-ib.com/blog/estate-ransomware/": {
-    "ts": "2026-09-07T22:41:08.174618+00:00",
-    "title": "Patch or Peril: A Veeam vulnerability incident"
-  },
-  "https://threats.wiz.io/all-incidents/unc5174-linux-espionage-campaign": {
-    "ts": "2026-09-07T22:41:08.408754+00:00",
-    "title": "UNC5174 Linux Espionage Campaign (Campaign)"
-  },
   "https://gbhackers.com/best-secure-web-gateway-compared/": {
     "ts": "2026-09-08T01:01:34.704314+00:00",
     "title": "The 12 Best Secure Web Gateway (SWG) Solutions, Compared and Priced"
@@ -22466,5 +22350,125 @@
   "https://socradar.io/blog/microsoft-paint-cve-2026-83844-store-update/": {
     "ts": "2026-11-06T20:24:24.709345+00:00",
     "title": "Microsoft Paint RCE CVE-2026-83844 Raises Store Update Questions"
+  },
+  "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/": {
+    "ts": "2026-11-07T00:44:02.997143+00:00",
+    "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs"
+  },
+  "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/": {
+    "ts": "2026-11-07T00:45:41.107978+00:00",
+    "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks"
+  },
+  "https://cybersecuritynews.com/claude-code-leaks-user-email/": {
+    "ts": "2026-11-07T00:45:41.107996+00:00",
+    "title": "Anthropic\u2019s Claude Code Reportedly Leaks User Email Addresses Through HTTP User-Agent Headers"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy": {
+    "ts": "2026-11-07T00:45:41.108000+00:00",
+    "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes"
+  },
+  "https://www.darktrace.com/blog/darktraces-cyber-ai-analyst-in-action-4-real-world-investigations-into-advanced-threat-actors": {
+    "ts": "2026-11-07T00:45:41.108004+00:00",
+    "title": "AI Analyst in Action: 4 Real-World Investigations using AI Investigations"
+  },
+  "https://gbhackers.com/chatgpt-lockdown-mode-bypass/": {
+    "ts": "2026-11-07T00:45:41.141979+00:00",
+    "title": "ChatGPT Lockdown Mode Bypass Allowed Hackers to Steal Private Chats Without User Interaction"
+  },
+  "https://www.group-ib.com/blog/french-fintech-mule-accounts/": {
+    "ts": "2026-11-07T00:45:41.141992+00:00",
+    "title": "Anatomy of a Fraud Operation: Mule Account Creation on B2B Fintech Platforms in France"
+  },
+  "https://www.helpnetsecurity.com/2026/11/06/november-2026-patch-tuesday-forecast/": {
+    "ts": "2026-11-07T00:45:41.141996+00:00",
+    "title": "November 2026 Patch Tuesday forecast: Old software continues to bite"
+  },
+  "https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/": {
+    "ts": "2026-11-07T00:45:41.175539+00:00",
+    "title": "Turning Up the Heat: Inside the Attacks on Europe\u2019s Refrigeration System"
+  },
+  "https://securityaffairs.com/202563/security/white-house-network-appears-in-global-residential-proxy-traffic.html": {
+    "ts": "2026-11-07T00:45:41.175551+00:00",
+    "title": "White House Network Appears in Global Residential Proxy Traffic"
+  },
+  "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/": {
+    "ts": "2026-11-07T00:45:41.175555+00:00",
+    "title": "DigiCert Data Breach Impacts Business Customer Information"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html": {
+    "ts": "2026-11-07T00:45:41.209027+00:00",
+    "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot"
+  },
+  "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260": {
+    "ts": "2026-11-07T00:45:41.242864+00:00",
+    "title": "Agents reveal secrets when offered to team up with each other"
+  },
+  "https://www.welivesecurity.com/en/eset-research/oceanlotus-external-espionage-domestic-targeting/": {
+    "ts": "2026-11-07T00:45:41.277617+00:00",
+    "title": "OceanLotus: From external espionage to domestic targeting"
+  },
+  "https://threats.wiz.io/all-incidents/coder-module-registry-compromise-leads-to-credential-stealing-malware-distribution": {
+    "ts": "2026-11-07T00:45:41.310992+00:00",
+    "title": "Coder Module Registry Compromise Leads to Credential-Stealing Malware Distribution (Incident)"
+  },
+  "https://www.zscaler.com/blogs/security-research/tropic-trooper-pivots-adaptixc2-and-custom-beacon-listener": {
+    "ts": "2026-11-07T00:45:41.346901+00:00",
+    "title": "Tropic Trooper Pivots to AdaptixC2 and Custom Beacon Listener"
+  },
+  "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/": {
+    "ts": "2026-11-07T00:45:41.381571+00:00",
+    "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox"
+  },
+  "https://cybersecuritynews.com/240000-wordpress-exploit-attempts/": {
+    "ts": "2026-11-07T00:45:41.381586+00:00",
+    "title": "Hackers Launch 240,000 Exploit Attempts WordPress Core Flaw Enabling Remote Code Execution"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina": {
+    "ts": "2026-11-07T00:45:41.414338+00:00",
+    "title": "Opera\u00e7\u00e3o de influ\u00eancia russa tem como alvo generalizado a Am\u00e9rica Latina"
+  },
+  "https://www.darktrace.com/blog/ivanti-under-siege-investigating-the-ivanti-endpoint-manager-mobile-vulnerabilities-cve-2025-4427-cve-2025-4428": {
+    "ts": "2026-11-07T00:45:41.447144+00:00",
+    "title": "Investigating the Ivanti Endpoint Manager Mobile Vulnerabilities"
+  },
+  "https://gbhackers.com/security-policy-management-buyers-guide/": {
+    "ts": "2026-11-07T00:45:41.447157+00:00",
+    "title": "11 Security Policy Management Tools: The 2026 Buyer\u2019s Verdict Guide"
+  },
+  "https://www.group-ib.com/blog/w3ll-phishing-ecosystem-takedown/": {
+    "ts": "2026-11-07T00:45:41.480090+00:00",
+    "title": "W3LL Unmasked: Inside the Takedown of a Global BEC Phishing-as-a-Service Ecosystem"
+  },
+  "https://www.helpnetsecurity.com/2026/11/06/mariia-bakhtina-masaryk-university-security-certification/": {
+    "ts": "2026-11-07T00:45:41.513636+00:00",
+    "title": "Security certification is a snapshot, and buyers read too much into it"
+  },
+  "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/": {
+    "ts": "2026-11-07T00:45:41.546602+00:00",
+    "title": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack"
+  },
+  "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html": {
+    "ts": "2026-11-07T00:45:41.579847+00:00",
+    "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits"
+  },
+  "https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969": {
+    "ts": "2026-11-07T00:45:41.611725+00:00",
+    "title": "The White House is apparently a popular residential proxy exit spot"
+  },
+  "https://www.welivesecurity.com/en/business-security/smb-cyber-readiness-what-makes-breaks-it/": {
+    "ts": "2026-11-07T00:45:41.611738+00:00",
+    "title": "Unpacking SMB cyber-readiness \u2013 and what makes or breaks it"
+  },
+  "https://threats.wiz.io/all-incidents/jetbrains-cadence-compromised-via-exploitation-of-teamcity-vulnerability": {
+    "ts": "2026-11-07T00:45:41.611742+00:00",
+    "title": "JetBrains Cadence Compromised via Exploitation of TeamCity Vulnerability (Incident)"
+  },
+  "https://www.zscaler.com/blogs/security-research/payouts-king-takes-aim-ransomware-throne": {
+    "ts": "2026-11-07T00:45:41.648648+00:00",
+    "title": "Payouts King Takes Aim at the Ransomware Throne"
+  },
+  "https://cybersecuritynews.com/mirax-android-rat/": {
+    "ts": "2026-11-07T00:45:41.648662+00:00",
+    "title": "Mirax Android RAT Hijacks Phones Through Streaming-App Ads to Steal Banking Credentials and Drain Accounts"
   }
 }

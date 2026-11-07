@@ -29,6 +29,41 @@
       "category": "new_technique",
       "title": "Claude AI Flaw Lets Malicious Browser Extensions Execute Commands on Remote Computers",
       "url": "https://gbhackers.com/claude-ai-flaw/"
+    },
+    {
+      "category": "new_technique",
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/"
+    },
+    {
+      "category": "new_technique",
+      "title": "ChatGPT Lockdown Mode Bypass Allowed Hackers to Steal Private Chats Without User Interaction",
+      "url": "https://gbhackers.com/chatgpt-lockdown-mode-bypass/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Turning Up the Heat: Inside the Attacks on Europe\u2019s Refrigeration System",
+      "url": "https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Opera\u00e7\u00e3o de influ\u00eancia russa tem como alvo generalizado a Am\u00e9rica Latina",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Investigating the Ivanti Endpoint Manager Mobile Vulnerabilities",
+      "url": "https://www.darktrace.com/blog/ivanti-under-siege-investigating-the-ivanti-endpoint-manager-mobile-vulnerabilities-cve-2025-4427-cve-2025-4428"
+    },
+    {
+      "category": "malware_android",
+      "title": "Payouts King Takes Aim at the Ransomware Throne",
+      "url": "https://www.zscaler.com/blogs/security-research/payouts-king-takes-aim-ransomware-throne"
     }
   ],
   "last_sent_date": "2026-11-06"
