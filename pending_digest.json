@@ -64,6 +64,26 @@
       "category": "malware_android",
       "title": "Payouts King Takes Aim at the Ransomware Throne",
       "url": "https://www.zscaler.com/blogs/security-research/payouts-king-takes-aim-ransomware-throne"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Use Fake GitHub Security Tools to Spread Malware, Infecting Over 2,000 Computers",
+      "url": "https://gbhackers.com/hackers-use-fake-github-security-tools/"
+    },
+    {
+      "category": "malware_other",
+      "title": "@7nohe/openapi-react-query-codegen Compromised in Supply Chain Attack (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/7noheopenapi-react-query-codegen-compromised-in-supply-chain-attack"
+    },
+    {
+      "category": "malware_other",
+      "title": "arrayref and Other Rust Crates Hijacked in Supply Chain Attack (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/arrayref-and-other-rust-crates-hijacked-in-supply-chain-attack"
+    },
+    {
+      "category": "new_technique",
+      "title": "In-Memory Loader Drops ScreenConnect",
+      "url": "https://www.zscaler.com/blogs/security-research/memory-loader-drops-screenconnect"
     }
   ],
   "last_sent_date": "2026-11-06"

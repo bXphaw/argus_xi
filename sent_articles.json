@@ -1,124 +1,4 @@
 {
-  "https://gbhackers.com/best-secure-web-gateway-compared/": {
-    "ts": "2026-09-08T01:01:34.704314+00:00",
-    "title": "The 12 Best Secure Web Gateway (SWG) Solutions, Compared and Priced"
-  },
-  "https://cybersecuritynews.com/microsoft-to-retire-manifest-v2-extensions/": {
-    "ts": "2026-09-08T01:03:20.396260+00:00",
-    "title": "Microsoft to Retire Manifest V2 Extensions and Switch to V3 for Improved Security and Performance"
-  },
-  "https://gbhackers.com/tengu-mirai-style-linux-bot/": {
-    "ts": "2026-09-08T01:03:20.823998+00:00",
-    "title": "Tengu Mirai-Style Linux Bot Hides as Kernel Worker to Launch DDoS and Proxy Attacks"
-  },
-  "https://www.group-ib.com/blog/cyber-fraud-prevention/": {
-    "ts": "2026-09-08T01:03:20.824020+00:00",
-    "title": "Breaking silos: The convergence of cybersecurity and fraud prevention"
-  },
-  "https://threats.wiz.io/all-incidents/crazyhunter-ransomware-group-targets-critical-sectors-in-taiwan": {
-    "ts": "2026-09-08T01:03:21.022031+00:00",
-    "title": "CrazyHunter Ransomware Group Targets Critical Sectors in Taiwan (Campaign)"
-  },
-  "https://cybersecuritynews.com/connectwise-screenconnect-remote-access-flaw/": {
-    "ts": "2026-09-08T01:03:21.022053+00:00",
-    "title": "ConnectWise Warns of New ScreenConnect Remote Access Flaw \u2013 Released Mitigation Steps"
-  },
-  "https://gbhackers.com/best-wifi-security-solutions-compared/": {
-    "ts": "2026-09-08T01:03:21.216790+00:00",
-    "title": "The 12 Best Wireless / Wi-Fi Security Solutions, Compared and Priced"
-  },
-  "https://www.group-ib.com/blog/eldorado-ransomware/": {
-    "ts": "2026-09-08T01:03:21.416360+00:00",
-    "title": "Eldorado Ransomware: The New Golden Empire of Cybercrime?"
-  },
-  "https://threats.wiz.io/all-incidents/aws-breach-at-a-saas-company": {
-    "ts": "2026-09-08T01:03:21.611734+00:00",
-    "title": "AWS Breach at a SaaS Company (Incident)"
-  },
-  "https://cybersecuritynews.com/new-linux-bot/": {
-    "ts": "2026-09-08T01:03:21.813589+00:00",
-    "title": "New Linux Bot Hides as Kernel Process and Launches DDoS Attacks"
-  },
-  "https://gbhackers.com/best-network-sandboxing-compared/": {
-    "ts": "2026-09-08T01:03:22.008647+00:00",
-    "title": "The 12 Best Network Sandboxing Solutions, Compared and Priced"
-  },
-  "https://www.group-ib.com/blog/mssp-competitive-edge/": {
-    "ts": "2026-09-08T01:03:22.008667+00:00",
-    "title": "Boost your MSSP\u2019s competitive edge: New strategies for leveraging Threat Intelligence"
-  },
-  "https://threats.wiz.io/all-incidents/bpfdoors-hidden-controller-targets-amea-sectors": {
-    "ts": "2026-09-08T01:03:22.204692+00:00",
-    "title": "BPFDoor\u2019s Hidden Controller Targets AMEA Sectors (Campaign)"
-  },
-  "https://cybersecuritynews.com/openai-commits-1-billion/": {
-    "ts": "2026-09-08T01:03:22.204711+00:00",
-    "title": "OpenAI Commits $1 Billion to Give Critical Infrastructure Defenders Frontier AI Cyber Tools"
-  },
-  "https://gbhackers.com/best-sdp-solutions-compared/": {
-    "ts": "2026-09-08T01:03:22.204714+00:00",
-    "title": "The 12 Best Software-Defined Perimeter (SDP) Solutions, Compared and Priced"
-  },
-  "https://www.group-ib.com/blog/craxs-rat-malware/": {
-    "ts": "2026-09-08T01:03:22.400843+00:00",
-    "title": "Craxs Rat, the master tool behind fake app scams and banking fraud"
-  },
-  "https://threats.wiz.io/all-incidents/atlas-lion-campaign-exploits-device-enrollment-and-mfa-for-persistence": {
-    "ts": "2026-09-08T01:03:22.595317+00:00",
-    "title": "Atlas Lion Campaign Exploits Device Enrollment and MFA for Persistence (Campaign)"
-  },
-  "https://www.group-ib.com/blog/boolka/": {
-    "ts": "2026-09-08T01:03:22.792656+00:00",
-    "title": "Boolka Unveiled: From web attacks to modular malware"
-  },
-  "https://threats.wiz.io/all-incidents/long-term-email-breach-at-occ-exposes-sensitive-bank-oversight-data": {
-    "ts": "2026-09-08T01:03:22.792675+00:00",
-    "title": "Long-Term Email Breach at OCC Exposes Sensitive Bank Oversight Data (Incident)"
-  },
-  "https://www.group-ib.com/blog/goldpickaxe-ios-trojan/": {
-    "ts": "2026-09-08T01:03:22.989029+00:00",
-    "title": "GoldPickaxe exposed: How Group-IB analyzed the face-stealing iOS Trojan and how to do it yourself"
-  },
-  "https://threats.wiz.io/all-incidents/europecar-gitlab-breach": {
-    "ts": "2026-09-08T01:03:22.989051+00:00",
-    "title": "Europecar Gitlab Breach (Incident)"
-  },
-  "https://www.group-ib.com/blog/genai-or-not-genai/": {
-    "ts": "2026-09-08T01:03:23.189848+00:00",
-    "title": "Reorienting Cybersecurity: To GenAI or not to GenAI?"
-  },
-  "https://threats.wiz.io/all-incidents/critical-ivanti-connect-secure-vulnerability-exploited-by-china-linked-actor": {
-    "ts": "2026-09-08T01:03:23.385251+00:00",
-    "title": "Critical Ivanti Connect Secure Vulnerability Exploited by China-linked Actor (Campaign)"
-  },
-  "https://www.group-ib.com/blog/gdpr/": {
-    "ts": "2026-09-08T01:03:23.584446+00:00",
-    "title": "GDPR: A shield for consumers, a shackle for fraud fighters?"
-  },
-  "https://threats.wiz.io/all-incidents/weaver-ant-data-exfiltration-campaign": {
-    "ts": "2026-09-08T01:03:23.777989+00:00",
-    "title": "Weaver Ant data exfiltration campaign (Campaign)"
-  },
-  "https://www.group-ib.com/blog/generative-ai/": {
-    "ts": "2026-09-08T01:03:23.973122+00:00",
-    "title": "Generative AI: Raising the stakes for fraud in iGaming"
-  },
-  "https://threats.wiz.io/all-incidents/albabat-ransomware-targets-windows-linux-and-macos-using-github-infrastructure": {
-    "ts": "2026-09-08T01:03:24.168632+00:00",
-    "title": "Albabat Ransomware Targets Windows, Linux, and macOS Using GitHub Infrastructure (Campaign)"
-  },
-  "https://www.group-ib.com/blog/labhost-operation/": {
-    "ts": "2026-09-08T01:03:24.374075+00:00",
-    "title": "Phishy Business: Unraveling LabHost\u2019s scam ecosystem"
-  },
-  "https://threats.wiz.io/all-incidents/oracle-cloud-potential-supply-chain-breach": {
-    "ts": "2026-09-08T01:03:24.374095+00:00",
-    "title": "Oracle Cloud Potential Supply Chain Breach (Incident)"
-  },
-  "https://www.group-ib.com/blog/hunting-rituals-4/": {
-    "ts": "2026-09-08T01:03:24.374099+00:00",
-    "title": "Hunting Rituals #4: Threat hunting for execution via Windows Management Instrumentation"
-  },
   "https://gbhackers.com/bimbo-bakeries-usa-data-breach-exposes-ssns/": {
     "ts": "2026-09-08T07:03:42.920746+00:00",
     "title": "Bimbo Bakeries USA Data Breach Exposes SSNs in Oracle E-Business Suite Zero-Day Attack"
@@ -22470,5 +22350,125 @@
   "https://cybersecuritynews.com/mirax-android-rat/": {
     "ts": "2026-11-07T00:45:41.648662+00:00",
     "title": "Mirax Android RAT Hijacks Phones Through Streaming-App Ads to Steal Banking Credentials and Drain Accounts"
+  },
+  "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/": {
+    "ts": "2026-11-07T06:56:43.070592+00:00",
+    "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts"
+  },
+  "https://cybersecuritynews.com/workos-customer-records-exposed/": {
+    "ts": "2026-11-07T06:56:43.070618+00:00",
+    "title": "ARTEX AI Agent Escapes Research Sandbox and Accesses WorkOS Customer Records"
+  },
+  "https://www.darktrace.com/blog/top-eight-threats-to-saas-security-and-how-to-combat-them": {
+    "ts": "2026-11-07T06:56:43.070622+00:00",
+    "title": "Top Eight Threats to SaaS Security and How to Combat Them"
+  },
+  "https://gbhackers.com/hackers-use-fake-github-security-tools/": {
+    "ts": "2026-11-07T06:56:43.237752+00:00",
+    "title": "Hackers Use Fake GitHub Security Tools to Spread Malware, Infecting Over 2,000 Computers"
+  },
+  "https://www.group-ib.com/blog/seven-cyber-signals-first-paris-2026/": {
+    "ts": "2026-11-07T06:56:43.237775+00:00",
+    "title": "Seven Signals Cyber Experts Agreed on at FIRST Paris 2026"
+  },
+  "https://www.helpnetsecurity.com/2026/11/06/autonomous-ai-oversight-governance/": {
+    "ts": "2026-11-07T06:56:43.328207+00:00",
+    "title": "87% say their AI controls need to work better"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/": {
+    "ts": "2026-11-07T06:56:43.414066+00:00",
+    "title": "ARTEX abuse expands as cybercriminals target financial sector"
+  },
+  "https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/": {
+    "ts": "2026-11-07T06:56:43.497895+00:00",
+    "title": "Researchers Find Residential Proxies on White House Network"
+  },
+  "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html": {
+    "ts": "2026-11-07T06:56:43.592192+00:00",
+    "title": "The Flood is Coming And The Pipes Were Already Full"
+  },
+  "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910": {
+    "ts": "2026-11-07T06:56:43.683042+00:00",
+    "title": "Get root on a musl Linux system by slamming it with an overly long password"
+  },
+  "https://www.welivesecurity.com/en/business-security/cybercriminals-auditors-never-hired/": {
+    "ts": "2026-11-07T06:56:43.683063+00:00",
+    "title": "Cybercriminals: the 'auditors' you never hired"
+  },
+  "https://threats.wiz.io/all-incidents/7noheopenapi-react-query-codegen-compromised-in-supply-chain-attack": {
+    "ts": "2026-11-07T06:56:43.767413+00:00",
+    "title": "@7nohe/openapi-react-query-codegen Compromised in Supply Chain Attack (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/ai-finds-a-way-out-alibaba-incident-why-zero-trust-matters": {
+    "ts": "2026-11-07T06:56:43.767438+00:00",
+    "title": "When AI Finds a Way Out: The Alibaba Incident and Why Zero Trust Matters More Than Ever"
+  },
+  "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/": {
+    "ts": "2026-11-07T06:56:43.767442+00:00",
+    "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It"
+  },
+  "https://cybersecuritynews.com/insignary-releases-free-insignary-chk-tool-to-detect-php2shell-and-node2shell-exposure/": {
+    "ts": "2026-11-07T06:56:43.767445+00:00",
+    "title": "Insignary Releases Free Insignary-Chk Tool to Detect PHP2Shell and Node2Shell Exposure"
+  },
+  "https://www.darktrace.com/blog/crypto-wallets-continue-to-be-drained-in-elaborate-social-media-scam": {
+    "ts": "2026-11-07T06:56:43.852053+00:00",
+    "title": "Wallet Drainers: How Scams Steal Funds"
+  },
+  "https://gbhackers.com/sonicwall-ssl-vpn-vulnerability/": {
+    "ts": "2026-11-07T06:56:43.946422+00:00",
+    "title": "Hackers Exploit SonicWall SSL-VPN Vulnerability to Bypass Multi-Factor Authentication in Active Attacks"
+  },
+  "https://www.group-ib.com/blog/behavioral-analytics-cybersecurity/": {
+    "ts": "2026-11-07T06:56:44.026962+00:00",
+    "title": "Are Risks Revealed in Actions or Activity? Understanding Behavioral Analytics in Cybersecurity"
+  },
+  "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/": {
+    "ts": "2026-11-07T06:56:44.116482+00:00",
+    "title": "OpenSSH Rushes Patches for \u2018SSHole\u2019 Authentication Bypass"
+  },
+  "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html": {
+    "ts": "2026-11-07T06:56:44.205209+00:00",
+    "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services"
+  },
+  "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852": {
+    "ts": "2026-11-07T06:56:44.205230+00:00",
+    "title": "October crypto-tracker hack: Access cracked, law enforcement tokens packed"
+  },
+  "https://www.welivesecurity.com/en/kids-online/lessons-life-childrens-data-long-term-identity-risk/": {
+    "ts": "2026-11-07T06:56:44.205235+00:00",
+    "title": "Lessons for life: Why children\u2019s data is a long-term identity risk"
+  },
+  "https://threats.wiz.io/all-incidents/arrayref-and-other-rust-crates-hijacked-in-supply-chain-attack": {
+    "ts": "2026-11-07T06:56:44.290210+00:00",
+    "title": "arrayref and Other Rust Crates Hijacked in Supply Chain Attack (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/memory-loader-drops-screenconnect": {
+    "ts": "2026-11-07T06:56:44.382903+00:00",
+    "title": "In-Memory Loader Drops ScreenConnect"
+  },
+  "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/": {
+    "ts": "2026-11-07T06:56:44.382925+00:00",
+    "title": "Chainalysis says breach exposed credentials for all customers"
+  },
+  "https://cybersecuritynews.com/storm-2603-hackers/": {
+    "ts": "2026-11-07T06:56:44.471578+00:00",
+    "title": "Storm-2603 Hackers Exploit SharePoint ToolShell Flaws to Hide Fileless Backdoor and Launch Ransomware Attack"
+  },
+  "https://www.darktrace.com/blog/forensics-or-fauxrensics-five-core-capabilities-for-cloud-forensics-and-incident-response": {
+    "ts": "2026-11-07T06:56:44.562860+00:00",
+    "title": "5 Core Capabilities for Cloud Forensics and Incident Response"
+  },
+  "https://gbhackers.com/workos-data-breach-artex-ai/": {
+    "ts": "2026-11-07T06:56:44.676312+00:00",
+    "title": "WorkOS Confirms Data Breach After ARTEX AI Agent Escapes Security Researcher\u2019s Sandbox"
+  },
+  "https://www.group-ib.com/blog/dprk-fake-remote-developers/": {
+    "ts": "2026-11-07T06:56:44.762948+00:00",
+    "title": "Cyber Saga: In the Footsteps of the DPRK IT Workers"
+  },
+  "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/": {
+    "ts": "2026-11-07T06:56:44.852319+00:00",
+    "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions"
   }
 }
