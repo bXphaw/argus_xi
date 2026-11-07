@@ -1,124 +1,4 @@
 {
-  "https://www.group-ib.com/blog/christmas-miracle-incident-response/": {
-    "ts": "2026-09-08T17:08:22.893775+00:00",
-    "title": "The untold story of incident response: A Christmas Miracle"
-  },
-  "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/": {
-    "ts": "2026-09-08T17:09:58.636687+00:00",
-    "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database"
-  },
-  "https://research.checkpoint.com/2026/the-shared-clipboard-inside-the-sandbox-cross-account-data-leakage-in-chatgpt/": {
-    "ts": "2026-09-08T17:09:58.682921+00:00",
-    "title": "The Shared Clipboard Inside the Sandbox: Cross-Account Data Leakage in ChatGPT"
-  },
-  "https://www.group-ib.com/blog/farnetwork/": {
-    "ts": "2026-09-08T17:09:58.733637+00:00",
-    "title": "Ransomware manager: Investigation into farnetwork, a threat actor linked to five strains of ransomware"
-  },
-  "https://www.helpnetsecurity.com/2026/09/08/ai-agents-cyberattacks-automation-google-research/": {
-    "ts": "2026-09-08T17:09:58.733652+00:00",
-    "title": "Threat actors are giving AI agents a bigger role in cyberattacks"
-  },
-  "https://www.malwarebytes.com/blog/privacy/2026/09/grindr-settles-hiv-status-data-sharing-lawsuit-for-35-million": {
-    "ts": "2026-09-08T17:09:58.733656+00:00",
-    "title": "Grindr settles HIV status data-sharing lawsuit for $35 million"
-  },
-  "https://www.morphisec.com/blog/when-detection-arrives-after-the-damage-ransomware-as-a-patient-safety-emergency/": {
-    "ts": "2026-09-08T17:09:58.780032+00:00",
-    "title": "When Detection Arrives After the Damage: Ransomware as a Patient-Safety Emergency"
-  },
-  "https://www.securityweek.com/the-hidden-instructions-that-can-hijack-ai-agents/": {
-    "ts": "2026-09-08T17:09:58.827033+00:00",
-    "title": "The Hidden Instructions That Can Hijack AI Agents"
-  },
-  "https://www.security.com/expert-perspectives/who-will-win-ai-arms-race": {
-    "ts": "2026-09-08T17:09:58.872995+00:00",
-    "title": "Who Will Win the AI Arms Race?"
-  },
-  "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html": {
-    "ts": "2026-09-08T17:09:58.918477+00:00",
-    "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution"
-  },
-  "https://threats.wiz.io/all-incidents/earth-pretas-campaign-abusing-mavinject-to-bypass-detection": {
-    "ts": "2026-09-08T17:09:58.963105+00:00",
-    "title": "Earth Preta\u2019s Campaign Abusing MAVInject to Bypass Detection (Campaign)"
-  },
-  "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/": {
-    "ts": "2026-09-08T17:09:58.963116+00:00",
-    "title": "OpenAI says ChatGPT outage causes image generation errors"
-  },
-  "https://www.group-ib.com/blog/untold-story-insiders-gambit/": {
-    "ts": "2026-09-08T17:09:58.963120+00:00",
-    "title": "The untold story of incident response: Insider\u2019s Gambit"
-  },
-  "https://www.helpnetsecurity.com/2026/09/08/wechat-weworm-vulnerability-exploit-account-hijacking/": {
-    "ts": "2026-09-08T17:09:59.007853+00:00",
-    "title": "\u201cZero-click\u201d WeChat worm could hijack accounts and spread via a single call"
-  },
-  "https://www.securityweek.com/hackers-return-263-million-stolen-from-liquid-network/": {
-    "ts": "2026-09-08T17:09:59.007870+00:00",
-    "title": "Hackers Return $263 Million Stolen From Liquid Network"
-  },
-  "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html": {
-    "ts": "2026-09-08T17:09:59.007875+00:00",
-    "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC"
-  },
-  "https://threats.wiz.io/all-incidents/seashell-blizzard-subgroups-campaign-exploiting-vulnerabilities-for-data-exfiltration": {
-    "ts": "2026-09-08T17:09:59.054322+00:00",
-    "title": "Seashell Blizzard Subgroup's Campaign Exploiting Vulnerabilities for Data Exfiltration (Campaign)"
-  },
-  "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/": {
-    "ts": "2026-09-08T17:09:59.054338+00:00",
-    "title": "August updates trigger 0xc0000409 errors on Windows Server 2016"
-  },
-  "https://www.group-ib.com/blog/middle-east-conflict-week-1/": {
-    "ts": "2026-09-08T17:09:59.054342+00:00",
-    "title": "Analyzing cyber activity surrounding the conflict in the Middle East"
-  },
-  "https://www.helpnetsecurity.com/2026/09/08/jellyfin-12-0-security-fixes/": {
-    "ts": "2026-09-08T17:09:59.054344+00:00",
-    "title": "Jellyfin 12.0 security fixes arrive alongside the removal of legacy client logins"
-  },
-  "https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/": {
-    "ts": "2026-09-08T17:09:59.054347+00:00",
-    "title": "Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta"
-  },
-  "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html": {
-    "ts": "2026-09-08T17:09:59.102951+00:00",
-    "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account"
-  },
-  "https://threats.wiz.io/all-incidents/code-injection-attacks-exploiting-publicly-disclosed-aspnet-keys": {
-    "ts": "2026-09-08T17:09:59.148315+00:00",
-    "title": "Code Injection Attacks Exploiting Publicly Disclosed ASP.NET Keys (Campaign)"
-  },
-  "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/": {
-    "ts": "2026-09-08T17:09:59.194735+00:00",
-    "title": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability"
-  },
-  "https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/": {
-    "ts": "2026-09-08T17:09:59.240233+00:00",
-    "title": "SAP Patches Critical Extended Passport Processing Vulnerability"
-  },
-  "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html": {
-    "ts": "2026-09-08T17:09:59.285497+00:00",
-    "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours"
-  },
-  "https://threats.wiz.io/all-incidents/black-basta-exploiting-vulnerabilities-in-multiple-products": {
-    "ts": "2026-09-08T17:09:59.334905+00:00",
-    "title": "Black Basta Exploiting Vulnerabilities in Multiple Products (Campaign)"
-  },
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/": {
-    "ts": "2026-09-08T17:09:59.334916+00:00",
-    "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor"
-  },
-  "https://www.group-ib.com/blog/golddigger-fraud-matrix/": {
-    "ts": "2026-09-08T17:09:59.382606+00:00",
-    "title": "Let\u2019s dig deeper: dissecting the new Android Trojan GoldDigger with Group-IB Fraud Matrix"
-  },
-  "https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/": {
-    "ts": "2026-09-08T17:09:59.382620+00:00",
-    "title": "Party\u2019s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft"
-  },
   "https://www.group-ib.com/blog/hunting-rituals-windows-services-part-1/": {
     "ts": "2026-09-08T20:55:00.865249+00:00",
     "title": "Hunting Rituals #2: Threat hunting for abuse of Windows Services"
@@ -22350,5 +22230,125 @@
   "https://www.group-ib.com/blog/cybersecurity-strategy-planning-2026/": {
     "ts": "2026-11-07T13:50:57.123313+00:00",
     "title": "Cybersecurity Strategy Planning:  The Essential Reset for Security Teams and Leaders in 2026"
+  },
+  "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html": {
+    "ts": "2026-11-07T18:32:17.337063+00:00",
+    "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/": {
+    "ts": "2026-11-07T18:34:31.941874+00:00",
+    "title": "Hackers pull off $133 million French bank heist via service provider"
+  },
+  "https://www.darktrace.com/blog/catching-a-rat-how-darktrace-neutralized-asyncrat": {
+    "ts": "2026-11-07T18:34:31.997806+00:00",
+    "title": "AsyncRAT Exposed: Signals and Mitigations"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/": {
+    "ts": "2026-11-07T18:34:32.033217+00:00",
+    "title": "GTIG AI Threat Tracker: From Prompting to Autonomy \u2013 The Evolution of Adversarial AI"
+  },
+  "https://www.group-ib.com/blog/ransomware-2026-incident-response-data/": {
+    "ts": "2026-11-07T18:34:32.033229+00:00",
+    "title": "Ransomware in 2026: What the Data Demands From You"
+  },
+  "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html": {
+    "ts": "2026-11-07T18:34:32.067340+00:00",
+    "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run"
+  },
+  "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796": {
+    "ts": "2026-11-07T18:34:32.099124+00:00",
+    "title": "New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark"
+  },
+  "https://www.welivesecurity.com/en/malware/btmob-stealthy-rat-burrowing-deep-android-devices/": {
+    "ts": "2026-11-07T18:34:32.132636+00:00",
+    "title": "BTMOB: A stealthy RAT burrowing deep into Android devices"
+  },
+  "https://threats.wiz.io/all-incidents/node-ipc-npm-distribution-compromised": {
+    "ts": "2026-11-07T18:34:32.163884+00:00",
+    "title": "node-ipc npm Distribution Compromised (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/critical-remote-code-execution-vulnerability-cisco-secure-firewall": {
+    "ts": "2026-11-07T18:34:32.195984+00:00",
+    "title": "Critical Remote Code Execution Vulnerability in Cisco Secure Firewall Management Center (CVE-2026-20131)"
+  },
+  "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/": {
+    "ts": "2026-11-07T18:34:32.232891+00:00",
+    "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands"
+  },
+  "https://www.darktrace.com/blog/anomaly-based-threat-hunting-darktraces-approach-in-action": {
+    "ts": "2026-11-07T18:34:32.232901+00:00",
+    "title": "Anomaly-Based Threat Hunting: Darktrace's Approach in Action"
+  },
+  "https://www.group-ib.com/blog/gtfire-phishing-scheme-es/": {
+    "ts": "2026-11-07T18:34:32.269170+00:00",
+    "title": "Esquema de Phishing GTFire: Evitando la detecci\u00f3n mediante servicios de Google"
+  },
+  "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html": {
+    "ts": "2026-11-07T18:34:32.303092+00:00",
+    "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026"
+  },
+  "https://www.theregister.com/cyber-crime/2026/11/05/norways-aid-agency-pwned-and-all-users-data-is-stolen/5307765": {
+    "ts": "2026-11-07T18:34:32.303103+00:00",
+    "title": "Norway's aid agency pwned and all users' data is stolen"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/foul-play-fake-fifa-world-cup-websites-tickets/": {
+    "ts": "2026-11-07T18:34:32.303107+00:00",
+    "title": "Foul play: Fake FIFA websites target soccer fans looking for World Cup tickets, merchandise"
+  },
+  "https://threats.wiz.io/all-incidents/tanstack-and-other-packages-compromised-in-supply-chain-attack": {
+    "ts": "2026-11-07T18:34:32.335671+00:00",
+    "title": "Tanstack and other Packages Compromised in Supply Chain Attack (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/technical-analysis-snappyclient": {
+    "ts": "2026-11-07T18:34:32.381351+00:00",
+    "title": "Technical Analysis of SnappyClient"
+  },
+  "https://www.darktrace.com/blog/socgholish-from-loader-and-c2-activity-to-ransomhub-deployment": {
+    "ts": "2026-11-07T18:34:32.415184+00:00",
+    "title": "Darktrace Tracks SocGholish to RansomHub"
+  },
+  "https://www.group-ib.com/blog/cloud-phones-invisible-threat/": {
+    "ts": "2026-11-07T18:34:32.449361+00:00",
+    "title": "Cloud Phones: The Invisible Threat"
+  },
+  "https://www.welivesecurity.com/en/eset-research/webworm-new-burrowing-techniques/": {
+    "ts": "2026-11-07T18:34:32.483838+00:00",
+    "title": "Webworm: New burrowing techniques"
+  },
+  "https://threats.wiz.io/all-incidents/ddos-botnet-leveraging-jenkins-misconfigurations-for-initial-access": {
+    "ts": "2026-11-07T18:34:32.516611+00:00",
+    "title": "DDoS Botnet Leveraging Jenkins Misconfigurations for Initial Access (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/china-nexus-threat-actor-targets-arabian-gulf-region-plugx": {
+    "ts": "2026-11-07T18:34:32.552274+00:00",
+    "title": "China-nexus Threat Actor Targets Arabian Gulf Region With PlugX"
+  },
+  "https://www.darktrace.com/blog/evaluating-email-security-how-to-select-the-best-solution-for-your-organization": {
+    "ts": "2026-11-07T18:34:32.552284+00:00",
+    "title": "Evaluating Email Security: How to Select the Best Solution for Your Organization"
+  },
+  "https://www.group-ib.com/blog/hastalamuerte-gentlemen-raas-ttps/": {
+    "ts": "2026-11-07T18:34:32.593457+00:00",
+    "title": "How Hastalamuerte Operates: Group-IB\u2019s Analysis of The Gentlemen\u2019s Attack Methods"
+  },
+  "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html": {
+    "ts": "2026-11-07T18:34:32.626803+00:00",
+    "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/quest-greater-tech-independence/": {
+    "ts": "2026-11-07T18:34:32.661549+00:00",
+    "title": "The quest for greater tech independence"
+  },
+  "https://threats.wiz.io/all-incidents/compromise-of-checkmarx-jenkins-ast-plugin-by-teampcp": {
+    "ts": "2026-11-07T18:34:32.695405+00:00",
+    "title": "Compromise of Checkmarx Jenkins AST Plugin by TeamPCP (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/middle-east-conflict-fuels-opportunistic-cyber-attacks": {
+    "ts": "2026-11-07T18:34:32.729904+00:00",
+    "title": "Middle East Conflict Fuels Opportunistic Cyber Attacks"
+  },
+  "https://www.darktrace.com/blog/force-multiply-your-security-team-with-agentic-ai-how-the-industrys-only-true-cyber-ai-analyst-tm-saves-time-and-stop-threats": {
+    "ts": "2026-11-07T18:34:32.762826+00:00",
+    "title": "Force Multiply Your Security Team with Agentic AI: How the Industry\u2019s Only True Cyber AI Analyst\u2122 Saves Time and Stop Threats"
   }
 }
