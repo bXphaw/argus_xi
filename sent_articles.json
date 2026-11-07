@@ -1,124 +1,4 @@
 {
-  "https://www.group-ib.com/blog/hunting-rituals-windows-services-part-1/": {
-    "ts": "2026-09-08T20:55:00.865249+00:00",
-    "title": "Hunting Rituals #2: Threat hunting for abuse of Windows Services"
-  },
-  "https://threats.wiz.io/all-incidents/dogwiftool-supply-chain-attack": {
-    "ts": "2026-09-08T20:55:05.442414+00:00",
-    "title": "DogWifTool supply chain attack (Incident)"
-  },
-  "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/": {
-    "ts": "2026-09-08T20:56:43.859280+00:00",
-    "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards"
-  },
-  "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access": {
-    "ts": "2026-09-08T20:56:44.049811+00:00",
-    "title": "ClickFix Campaigns Abuse Legitimate Services for Persistent Access"
-  },
-  "https://www.group-ib.com/blog/shadowsyndicate-raas/": {
-    "ts": "2026-09-08T20:56:44.208841+00:00",
-    "title": "Dusting for fingerprints: ShadowSyndicate, a new RaaS player?"
-  },
-  "https://securityaffairs.com/198688/hacking/wechat-worm-can-hijack-accounts-without-victims-answering-calls.html": {
-    "ts": "2026-09-08T20:56:44.352308+00:00",
-    "title": "WeChat Worm Can Hijack Accounts Without Victims Answering Calls"
-  },
-  "https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/": {
-    "ts": "2026-09-08T20:56:44.352330+00:00",
-    "title": "Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days"
-  },
-  "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html": {
-    "ts": "2026-09-08T20:56:44.497868+00:00",
-    "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls"
-  },
-  "https://www.theregister.com/security/2026/09/08/boston-scientific-left-nursing-its-bottom-line-after-cyberattack/5295026": {
-    "ts": "2026-09-08T20:56:44.625828+00:00",
-    "title": "Boston Scientific left nursing its bottom line after cyberattack"
-  },
-  "https://threats.wiz.io/all-incidents/malicious-ai-models-bypass-picklescan-detection": {
-    "ts": "2026-09-08T20:56:44.756841+00:00",
-    "title": "Malicious AI Models Bypass Picklescan Detection (Campaign)"
-  },
-  "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/": {
-    "ts": "2026-09-08T20:56:44.892354+00:00",
-    "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?"
-  },
-  "https://www.group-ib.com/blog/mxdr-cryptominer/": {
-    "ts": "2026-09-08T20:56:45.024504+00:00",
-    "title": "It\u2019s a trap: Detecting a cryptominer on a popular website using Group-IB MXDR"
-  },
-  "https://www.securityweek.com/adobe-patches-over-170-vulnerabilities-including-commerce-zero-day/": {
-    "ts": "2026-09-08T20:56:45.144785+00:00",
-    "title": "Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day"
-  },
-  "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html": {
-    "ts": "2026-09-08T20:56:45.144807+00:00",
-    "title": "What It Took to Reach 1 Billion Build Manifests"
-  },
-  "https://www.theregister.com/security/2026/09/08/sponsored-how-to-secure-hybrid-meeting-rooms-without-sacrificing-user-experience/5294440": {
-    "ts": "2026-09-08T20:56:45.144810+00:00",
-    "title": "How to secure hybrid meeting rooms without sacrificing user experience"
-  },
-  "https://threats.wiz.io/all-incidents/from-social-engineering-to-lambda-modification": {
-    "ts": "2026-09-08T20:56:45.279298+00:00",
-    "title": "From social engineering to Lambda modification (Incident)"
-  },
-  "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/": {
-    "ts": "2026-09-08T20:56:45.409102+00:00",
-    "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit"
-  },
-  "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html": {
-    "ts": "2026-09-08T20:56:45.409121+00:00",
-    "title": "Grindr to Pay \u00a326 Million to Settle U.K. Claims Over HIV Status Data Sharing"
-  },
-  "https://www.theregister.com/security/2026/09/08/lg-accused-of-egregious-invasion-of-privacy-over-tv-data-collection/5294956": {
-    "ts": "2026-09-08T20:56:45.409125+00:00",
-    "title": "LG accused of 'egregious invasion of privacy' over TV data collection"
-  },
-  "https://threats.wiz.io/all-incidents/usaid-cryptojacking-incident": {
-    "ts": "2026-09-08T20:56:45.409128+00:00",
-    "title": "USAID cryptojacking incident (Incident)"
-  },
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/": {
-    "ts": "2026-09-08T20:56:45.409131+00:00",
-    "title": "Microsoft releases Windows 10 KB5122878 extended security update"
-  },
-  "https://www.group-ib.com/blog/incident-response-with-dmitry-volkov/": {
-    "ts": "2026-09-08T20:56:45.409134+00:00",
-    "title": "Incident Response through an opportunity lens: In conversation with Dmitry Volkov (CEO, Group-IB)"
-  },
-  "https://www.theregister.com/security/2026/09/08/bigbear-phishing-crew-nets-thousands-of-microsoft-365-credentials/5294944": {
-    "ts": "2026-09-08T20:56:45.561959+00:00",
-    "title": "BigBear phishing crew nets thousands of Microsoft 365 credentials"
-  },
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/": {
-    "ts": "2026-09-08T20:56:45.712870+00:00",
-    "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days"
-  },
-  "https://www.group-ib.com/blog/investment-scam-global/": {
-    "ts": "2026-09-08T20:56:45.830979+00:00",
-    "title": "From Rags to Riches: The illusion of quick wealth in investment scams"
-  },
-  "https://threats.wiz.io/all-incidents/operation-longfang": {
-    "ts": "2026-09-08T20:56:45.962002+00:00",
-    "title": "Operation LongFang (Campaign)"
-  },
-  "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/": {
-    "ts": "2026-09-08T20:56:46.117565+00:00",
-    "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released"
-  },
-  "https://www.group-ib.com/blog/airline-loyalty-program-protection/": {
-    "ts": "2026-09-08T20:56:46.117585+00:00",
-    "title": "Stealing the extra mile: How fraudsters target global airlines in air miles and customer service scams"
-  },
-  "https://threats.wiz.io/all-incidents/mastercard-fixes-five-year-old-dns-typo-misconfiguration": {
-    "ts": "2026-09-08T20:56:46.117589+00:00",
-    "title": "MasterCard Fixes Five-Year-Old DNS Typo Misconfiguration (Incident)"
-  },
-  "https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/": {
-    "ts": "2026-09-08T20:56:46.236239+00:00",
-    "title": "Adobe fixes critical Magento zero-day exploited to backdoor servers"
-  },
   "https://www.group-ib.com/blog/hunting-rituals-dll-side-loading/": {
     "ts": "2026-09-08T23:16:19.680556+00:00",
     "title": "Hunting Rituals #1: Threat hunting for DLL side-loading"
@@ -22350,5 +22230,125 @@
   "https://www.darktrace.com/blog/force-multiply-your-security-team-with-agentic-ai-how-the-industrys-only-true-cyber-ai-analyst-tm-saves-time-and-stop-threats": {
     "ts": "2026-11-07T18:34:32.762826+00:00",
     "title": "Force Multiply Your Security Team with Agentic AI: How the Industry\u2019s Only True Cyber AI Analyst\u2122 Saves Time and Stop Threats"
+  },
+  "https://threats.wiz.io/all-incidents/lightning-and-intercom-packages-compromised-in-supply-chain-attack": {
+    "ts": "2026-11-07T22:33:29.172692+00:00",
+    "title": "Lightning and Intercom Packages Compromised in Supply Chain Attack (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/elementary-data-compromised-in-supply-chain-attack": {
+    "ts": "2026-11-07T22:33:42.913042+00:00",
+    "title": "Elementary Data Compromised in Supply Chain Attack (Campaign)"
+  },
+  "https://www.darktrace.com/blog/email-bombing-exposed-darktraces-email-defense-in-action": {
+    "ts": "2026-11-07T22:35:53.974380+00:00",
+    "title": "Email bombing exposed: Darktrace\u2019s email defense in action"
+  },
+  "https://www.group-ib.com/blog/mea-shipment-tracking-scam/": {
+    "ts": "2026-11-07T22:35:53.974395+00:00",
+    "title": "The Rise of Fake Shipment Tracking Scams in MEA"
+  },
+  "https://www.morphisec.com/blog/when-detection-arrives-after-the-damage-ransomware-as-a-patient-safety-emergency/": {
+    "ts": "2026-11-07T22:35:53.974398+00:00",
+    "title": "When Detection Arrives After the Damage: Ransomware as a Patient-Safety Emergency"
+  },
+  "https://securityaffairs.com/202607/ai/inside-artex-ai-hacking-tools-exposed-servers-and-south-korean-bank-breaches.html": {
+    "ts": "2026-11-07T22:35:53.974401+00:00",
+    "title": "Inside ARTEX: AI Hacking Tools, Exposed Servers and South Korean Bank Breaches"
+  },
+  "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html": {
+    "ts": "2026-11-07T22:35:54.090399+00:00",
+    "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits"
+  },
+  "https://www.welivesecurity.com/en/scams/geopolitical-turmoil-gift-scammers-how-stay-safe/": {
+    "ts": "2026-11-07T22:35:54.196810+00:00",
+    "title": "Why geopolitical turmoil is a gift for scammers, and how to stay safe"
+  },
+  "https://www.zscaler.com/blogs/security-research/dust-specter-apt-targets-government-officials-iraq": {
+    "ts": "2026-11-07T22:35:54.317410+00:00",
+    "title": "Dust Specter APT Targets Government Officials in Iraq"
+  },
+  "https://www.darktrace.com/blog/how-ndr-and-sase-work-together-to-achieve-network-security-outcomes": {
+    "ts": "2026-11-07T22:35:54.419599+00:00",
+    "title": "How NDR and Secure Access Service Edge (SASE) Work Together to Achieve Network Security Outcomes"
+  },
+  "https://www.group-ib.com/blog/supply-chain-attack-groups-2026/": {
+    "ts": "2026-11-07T22:35:54.537884+00:00",
+    "title": "Six Supply Chain Attack Groups to Watch Out for in 2026"
+  },
+  "https://securityaffairs.com/202603/ai/one-product-isnt-the-problem-monetizing-an-ai-portfolio-without-confusing-your-customers.html": {
+    "ts": "2026-11-07T22:35:54.654118+00:00",
+    "title": "One Product Isn\u2019t the Problem: Monetizing an AI Portfolio Without Confusing Your Customers"
+  },
+  "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html": {
+    "ts": "2026-11-07T22:35:54.654125+00:00",
+    "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It"
+  },
+  "https://www.welivesecurity.com/en/eset-research/frostyneighbor-fresh-mischief-digital-shenanigans/": {
+    "ts": "2026-11-07T22:35:54.757892+00:00",
+    "title": "FrostyNeighbor: Fresh mischief and digital shenanigans"
+  },
+  "https://threats.wiz.io/all-incidents/supply-chain-campaign-targets-sap-npm-packages-with-credential-stealing-malware": {
+    "ts": "2026-11-07T22:35:54.856130+00:00",
+    "title": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/apt37-adds-new-capabilities-air-gapped-networks": {
+    "ts": "2026-11-07T22:35:54.963728+00:00",
+    "title": "APT37 Adds New Capabilities for Air-Gapped Networks"
+  },
+  "https://www.darktrace.com/blog/why-data-classification-isnt-enough-to-prevent-data-loss": {
+    "ts": "2026-11-07T22:35:54.963736+00:00",
+    "title": "Why Data Classification Isn\u2019t Enough to Prevent Data Loss"
+  },
+  "https://www.group-ib.com/blog/gtfire-phishing-scheme/": {
+    "ts": "2026-11-07T22:35:55.064866+00:00",
+    "title": "GTFire Phishing Scheme: Avoiding Detection Using Google Services"
+  },
+  "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html": {
+    "ts": "2026-11-07T22:35:55.179382+00:00",
+    "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor"
+  },
+  "https://www.welivesecurity.com/en/privacy/eyes-wide-open-mitigate-security-privacy-risks-smart-glasses/": {
+    "ts": "2026-11-07T22:35:55.273378+00:00",
+    "title": "Eyes wide open: How to mitigate the security and privacy risks of smart glasses"
+  },
+  "https://threats.wiz.io/all-incidents/critical-sql-injection-vulnerability-in-litellm-exploited-in-the-wild": {
+    "ts": "2026-11-07T22:35:55.366986+00:00",
+    "title": "Critical SQL Injection Vulnerability in LiteLLM Exploited in-the-Wild (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/technical-analysis-guloader-obfuscation-techniques": {
+    "ts": "2026-11-07T22:35:55.474359+00:00",
+    "title": "Technical Analysis of GuLoader Obfuscation Techniques"
+  },
+  "https://www.darktrace.com/blog/new-threat-on-the-prowl-investigating-lynx-ransomware": {
+    "ts": "2026-11-07T22:35:55.585318+00:00",
+    "title": "New Threat on the Prowl: Investigating Lynx Ransomware"
+  },
+  "https://www.group-ib.com/blog/muddywater-operation-olalampo/": {
+    "ts": "2026-11-07T22:35:55.702387+00:00",
+    "title": "Operation Olalampo: Inside MuddyWater\u2019s Latest Campaign"
+  },
+  "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html": {
+    "ts": "2026-11-07T22:35:55.826270+00:00",
+    "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure"
+  },
+  "https://www.welivesecurity.com/en/eset-research/fake-call-logs-real-payments-how-callphantom-tricks-android-users/": {
+    "ts": "2026-11-07T22:35:55.924384+00:00",
+    "title": "Fake call logs, real payments: How CallPhantom tricks Android users"
+  },
+  "https://www.zscaler.com/blogs/security-research/technical-analysis-marco-stealer": {
+    "ts": "2026-11-07T22:35:56.043240+00:00",
+    "title": "Technical Analysis of Marco Stealer"
+  },
+  "https://www.darktrace.com/blog/survey-findings-how-is-ai-impacting-the-soc": {
+    "ts": "2026-11-07T22:35:56.151596+00:00",
+    "title": "Survey findings: How is AI Impacting the SOC?"
+  },
+  "https://www.group-ib.com/blog/indonesia-tax-impersonation-goldfactory-malware/": {
+    "ts": "2026-11-07T22:35:56.252398+00:00",
+    "title": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia"
+  },
+  "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html": {
+    "ts": "2026-11-07T22:35:56.357901+00:00",
+    "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction"
   }
 }

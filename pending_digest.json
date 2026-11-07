@@ -44,6 +44,56 @@
       "category": "malware_other",
       "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
       "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Email bombing exposed: Darktrace\u2019s email defense in action",
+      "url": "https://www.darktrace.com/blog/email-bombing-exposed-darktraces-email-defense-in-action"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+      "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "FrostyNeighbor: Fresh mischief and digital shenanigans",
+      "url": "https://www.welivesecurity.com/en/eset-research/frostyneighbor-fresh-mischief-digital-shenanigans/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/supply-chain-campaign-targets-sap-npm-packages-with-credential-stealing-malware"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "APT37 Adds New Capabilities for Air-Gapped Networks",
+      "url": "https://www.zscaler.com/blogs/security-research/apt37-adds-new-capabilities-air-gapped-networks"
+    },
+    {
+      "category": "malware_windows",
+      "title": "New Threat on the Prowl: Investigating Lynx Ransomware",
+      "url": "https://www.darktrace.com/blog/new-threat-on-the-prowl-investigating-lynx-ransomware"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Operation Olalampo: Inside MuddyWater\u2019s Latest Campaign",
+      "url": "https://www.group-ib.com/blog/muddywater-operation-olalampo/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+      "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html"
+    },
+    {
+      "category": "malware_android",
+      "title": "Fake call logs, real payments: How CallPhantom tricks Android users",
+      "url": "https://www.welivesecurity.com/en/eset-research/fake-call-logs-real-payments-how-callphantom-tricks-android-users/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Technical Analysis of Marco Stealer",
+      "url": "https://www.zscaler.com/blogs/security-research/technical-analysis-marco-stealer"
     }
   ],
   "last_sent_date": "2026-11-07"
