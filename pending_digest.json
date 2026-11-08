@@ -94,6 +94,41 @@
       "category": "malware_windows",
       "title": "Technical Analysis of Marco Stealer",
       "url": "https://www.zscaler.com/blogs/security-research/technical-analysis-marco-stealer"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Shaping Shadows: Breaking Down New ShadowSyndicate Methods and Infrastructure",
+      "url": "https://www.group-ib.com/blog/new-shadowsyndicate-infrastructure/"
+    },
+    {
+      "category": "new_technique",
+      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+      "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html"
+    },
+    {
+      "category": "malware_other",
+      "title": "Checkmarx KICS and Bitwarden CLI Compromised in Fresh Supply Chain Attack (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/checkmarx-kics-and-bitwarden-cli-compromised-in-fresh-supply-chain-attack"
+    },
+    {
+      "category": "new_technique",
+      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+      "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Top 5 AI Security Risks in 2026",
+      "url": "https://www.group-ib.com/blog/ai-security-risks/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+      "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "GopherWhisper: A burrow full of malware",
+      "url": "https://www.welivesecurity.com/en/eset-research/gopherwhisper-burrow-full-malware/"
     }
   ],
   "last_sent_date": "2026-11-07"
