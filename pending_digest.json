@@ -1,4 +1,15 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_android",
+      "title": "Vwork: Weaponized Open-source Software as an Addon for Gigabud",
+      "url": "https://www.group-ib.com/blog/vwork-app-cloning-gigabud-goldfactory/"
+    },
+    {
+      "category": "new_technique",
+      "title": "xygeni-action repository hijack (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/xygeni-action-repository-hijack"
+    }
+  ],
   "last_sent_date": "2026-11-08"
 }
