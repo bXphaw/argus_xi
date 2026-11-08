@@ -1,244 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/": {
-    "ts": "2026-09-09T17:42:39.365383+00:00",
-    "title": "US says Chinese firms extracted billions of tokens from frontier AI models"
-  },
-  "https://securityaffairs.com/198757/security/google-fixes-the-seventh-actively-exploited-chrome-zero-day-of-2026.html": {
-    "ts": "2026-09-09T17:42:47.187840+00:00",
-    "title": "Google fixes the seventh actively exploited Chrome zero-day of 2026"
-  },
-  "https://threats.wiz.io/all-incidents/rce-vulnerability-in-pan-os-exploited-in-the-wild": {
-    "ts": "2026-09-09T17:42:58.756421+00:00",
-    "title": "RCE Vulnerability in PAN-OS Exploited in-the-Wild (Campaign)"
-  },
-  "https://blog.talosintelligence.com/fmc-ongoing-exploitation/": {
-    "ts": "2026-09-09T17:44:55.437174+00:00",
-    "title": "Active exploitation of Cisco Secure Firewall Management Center vulnerabilities"
-  },
-  "https://cybersecuritynews.com/bluemoon-exploit-chain/": {
-    "ts": "2026-09-09T17:44:55.644633+00:00",
-    "title": "Hackers Chain Chrome and Windows Zero-Days in New BlueMoon Exploit Kit Attacks"
-  },
-  "https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data": {
-    "ts": "2026-09-09T17:44:55.854648+00:00",
-    "title": "Identity-Based AI Attack Threatens Security of Enterprise Data"
-  },
-  "https://gbhackers.com/google-captcha-abuse/": {
-    "ts": "2026-09-09T17:44:56.046346+00:00",
-    "title": "Hackers Abuse Google CAPTCHA, WebDAV and BNB Smart Chain to Deploy Credential-Stealing Malware"
-  },
-  "https://www.group-ib.com/blog/opera1er-apt/": {
-    "ts": "2026-09-09T17:44:56.257159+00:00",
-    "title": "Financially motivated, dangerously activated: OPERA1ER APT in Africa"
-  },
-  "https://www.helpnetsecurity.com/2026/09/09/september-2026-patch-tuesday-zero-days-sigred-successor/": {
-    "ts": "2026-09-09T17:44:56.463752+00:00",
-    "title": "September 2026 Patch Tuesday: Record patch count, 2 zero-days, and a SigRed successor"
-  },
-  "https://www.malwarebytes.com/blog/scams/2026/09/more-than-100000-fake-stores-are-out-to-steal-your-card-details": {
-    "ts": "2026-09-09T17:44:56.672245+00:00",
-    "title": "More than 100,000 fake stores are out to steal your card details"
-  },
-  "https://www.rapid7.com/blog/post/pt-credentialed-pre-port-discovery-asking-host": {
-    "ts": "2026-09-09T17:44:56.885176+00:00",
-    "title": "Credentialed Pre-Port Discovery: Don't Probe the Host, Ask it"
-  },
-  "https://www.securityweek.com/helmguard-raises-7-3-million-for-agentic-grc-and-security/": {
-    "ts": "2026-09-09T17:44:57.091978+00:00",
-    "title": "HelmGuard Raises $7.3 Million for Agentic GRC and Security"
-  },
-  "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html": {
-    "ts": "2026-09-09T17:44:57.301080+00:00",
-    "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA"
-  },
-  "https://www.theregister.com/security/2026/09/09/serial-microsoft-0-day-hunter-drops-yet-another-defender-exploit/5295335": {
-    "ts": "2026-09-09T17:44:57.490329+00:00",
-    "title": "Serial Microsoft 0-day hunter drops yet another Defender exploit"
-  },
-  "https://www.volexity.com/blog/2026/09/09/mind-the-patch-gap-multiple-chinese-threat-actors-chain-0-day-exploits-in-chrome-windows/": {
-    "ts": "2026-09-09T17:44:57.684222+00:00",
-    "title": "Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows"
-  },
-  "https://threats.wiz.io/all-incidents/brazenbamboo-weaponizes-forticlient-vulnerability-to-steal-credentials": {
-    "ts": "2026-09-09T17:44:57.874549+00:00",
-    "title": "BrazenBamboo Weaponizes FortiClient Vulnerability to Steal Credentials (Campaign)"
-  },
-  "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/": {
-    "ts": "2026-09-09T17:44:58.092067+00:00",
-    "title": "Veradigm warns of patient data breach after ransomware gang claims attack"
-  },
-  "https://cybersecuritynews.com/veradigm-patient-data-breach/": {
-    "ts": "2026-09-09T17:44:58.298811+00:00",
-    "title": "Veradigm Confirms Patient Data Exposed in Third-Party Data Breach"
-  },
-  "https://gbhackers.com/fortipam-chrome-extension-vulnerability/": {
-    "ts": "2026-09-09T17:44:58.514894+00:00",
-    "title": "FortiPAM Chrome Extension Vulnerability Lets Malicious Sites Control Browser Proxy and Record Tabs"
-  },
-  "https://www.group-ib.com/blog/majikpos-treasurehunter-malware/": {
-    "ts": "2026-09-09T17:44:58.729968+00:00",
-    "title": "Treasure trove. Alive and well point-of-sale malware"
-  },
-  "https://www.helpnetsecurity.com/2026/09/09/picus-security-autonomous-breach-attack-simulation/": {
-    "ts": "2026-09-09T17:44:58.935799+00:00",
-    "title": "What breach and attack simulation needs to become in the AI era"
-  },
-  "https://www.securityweek.com/ai-is-giving-lesser-resourced-attackers-nation-state-level-reach-google-warns/": {
-    "ts": "2026-09-09T17:44:59.131971+00:00",
-    "title": "AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns"
-  },
-  "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html": {
-    "ts": "2026-09-09T17:44:59.348263+00:00",
-    "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok"
-  },
-  "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/": {
-    "ts": "2026-09-09T17:44:59.558933+00:00",
-    "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path"
-  },
-  "https://cybersecuritynews.com/new-n0va-phishkit-targets-north-america-and-eu-a-growing-identity-risk-for-socs/": {
-    "ts": "2026-09-09T17:44:59.766485+00:00",
-    "title": "New\u00a0N0va\u00a0Phishkit\u00a0Targets North America and EU: A Growing Identity Risk for SOCs"
-  },
-  "https://gbhackers.com/spycloud-2026-identity-threat-report-finds-non-human-identities-are-now-the-leading-path-into-the-enterprise/": {
-    "ts": "2026-09-09T17:44:59.766497+00:00",
-    "title": "SpyCloud 2026 Identity Threat Report Finds Non-Human Identities Are Now the Leading Path into the Enterprise"
-  },
-  "https://www.group-ib.com/blog/deadbolt-ransomware-decryption/": {
-    "ts": "2026-09-09T17:44:59.958493+00:00",
-    "title": "Deadbolt ransomware decryption: unlock your data"
-  },
-  "https://www.helpnetsecurity.com/2026/09/09/bleachbit-6-0-4-released/": {
-    "ts": "2026-09-09T17:44:59.958504+00:00",
-    "title": "BleachBit 6.0.4 fixes secure wiping that skipped clusters on Windows"
-  },
-  "https://www.securityweek.com/androids-september-2026-updates-patch-180-vulnerabilities/": {
-    "ts": "2026-09-09T17:44:59.958507+00:00",
-    "title": "Android\u2019s September 2026 Updates Patch 180 Vulnerabilities"
-  },
-  "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html": {
-    "ts": "2026-09-09T17:45:00.179248+00:00",
-    "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox"
-  },
-  "https://cybersecuritynews.com/papercut-flaws-compromised-using-ai/": {
-    "ts": "2026-09-09T20:45:14.340660+00:00",
-    "title": "Hackers Use Hundreds of AI Agents to Exploit PaperCut Flaws and Compromise 440 Servers Worldwide"
-  },
-  "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models": {
-    "ts": "2026-09-09T20:45:14.340675+00:00",
-    "title": "US Government Accuses Chinese AI Firms of Distilling Frontier Models"
-  },
-  "https://gbhackers.com/fake-linkedin-job-offers/": {
-    "ts": "2026-09-09T20:45:14.534280+00:00",
-    "title": "Iran-Linked Hackers Use Fake LinkedIn Job Offers to Deploy NodeRabbit and PollCat RATs"
-  },
-  "https://www.group-ib.com/blog/scam-is-rising/": {
-    "ts": "2026-09-09T20:45:14.534295+00:00",
-    "title": "Scam is rising"
-  },
-  "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/": {
-    "ts": "2026-09-09T20:45:14.738526+00:00",
-    "title": "Passkey-themed social engineering leads to identity and cloud compromise"
-  },
-  "https://securityaffairs.com/198770/security/us-agencies-warn-chinese-ai-firms-are-extracting-advanced-ai-models.html": {
-    "ts": "2026-09-09T20:45:14.932384+00:00",
-    "title": "US Agencies Warn Chinese AI Firms Are Extracting Advanced AI Models"
-  },
-  "https://www.securityweek.com/chipmaker-patch-tuesday-nvidia-amd-arm-issue-security-advisories/": {
-    "ts": "2026-09-09T20:45:15.130963+00:00",
-    "title": "Chipmaker Patch Tuesday: Nvidia, AMD, Arm Issue Security Advisories"
-  },
-  "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html": {
-    "ts": "2026-09-09T20:45:15.322499+00:00",
-    "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto"
-  },
-  "https://threats.wiz.io/all-incidents/silent-skimmer-attacks-exploiting-telerik-ui-to-steal-payment-data": {
-    "ts": "2026-09-09T20:45:15.521432+00:00",
-    "title": "Silent Skimmer Attacks Exploiting Telerik UI to Steal Payment Data (Campaign)"
-  },
-  "https://cybersecuritynews.com/clearfake-deploys-crypto-stealer/": {
-    "ts": "2026-09-09T20:45:15.712227+00:00",
-    "title": "ClearFake Deploys Crypto Stealer That Uses Vulnerable Driver to Kill EDR Security Tools"
-  },
-  "https://gbhackers.com/arango-vulnerabilities/": {
-    "ts": "2026-09-09T20:45:15.910940+00:00",
-    "title": "Critical ArangoDB Bugs Expose Entire Databases and Enable Remote Code Execution as Root"
-  },
-  "https://www.group-ib.com/blog/attack-surface-management/": {
-    "ts": "2026-09-09T20:45:15.910952+00:00",
-    "title": "Take control of your shadow IT"
-  },
-  "https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortimonitoronsight-chrome-extension/": {
-    "ts": "2026-09-09T20:45:15.910956+00:00",
-    "title": "Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension"
-  },
-  "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html": {
-    "ts": "2026-09-09T20:45:16.102790+00:00",
-    "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week"
-  },
-  "https://threats.wiz.io/all-incidents/mozi-botnet-using-androxgh0st-toolkit-to-target-cloud-environments": {
-    "ts": "2026-09-09T20:45:16.294485+00:00",
-    "title": "Mozi Botnet Using AndroxGh0st Toolkit to Target Cloud Environments (Campaign)"
-  },
-  "https://cybersecuritynews.com/hackers-use-fake-linkedin-job-offers/": {
-    "ts": "2026-09-09T20:45:16.490661+00:00",
-    "title": "Hackers Use Fake LinkedIn Job Offers to Infect Developers With New Cross-Platform RATs"
-  },
-  "https://gbhackers.com/critical-maplibre-gl-js-vulnerability/": {
-    "ts": "2026-09-09T20:45:16.690999+00:00",
-    "title": "Critical MapLibre GL JS Vulnerability Enables Zero-Click XSS Attacks"
-  },
-  "https://www.group-ib.com/blog/steam/": {
-    "ts": "2026-09-09T20:45:16.887458+00:00",
-    "title": "Letting off steam"
-  },
-  "https://www.securityweek.com/ivanti-patches-critical-flaws-across-enterprise-security-products/": {
-    "ts": "2026-09-09T20:45:17.090267+00:00",
-    "title": "Ivanti Patches Critical Flaws Across Enterprise Security Products"
-  },
-  "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html": {
-    "ts": "2026-09-09T20:45:17.292723+00:00",
-    "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root"
-  },
-  "https://threats.wiz.io/all-incidents/supply-chain-attack-on-lottie-player": {
-    "ts": "2026-09-09T20:45:17.493649+00:00",
-    "title": "Supply Chain Attack on lottie-player (Campaign)"
-  },
-  "https://cybersecuritynews.com/maplibre-zero-click-vulnerability/": {
-    "ts": "2026-09-09T20:45:17.493661+00:00",
-    "title": "MapLibre Vulnerability Exposes 2.7M Users to Zero-Click Attacks"
-  },
-  "https://gbhackers.com/gigabud-banking-malware/": {
-    "ts": "2026-09-09T20:45:17.692819+00:00",
-    "title": "GoldFactory Weaponizes Open-Source Vwork App Cloner in Gigabud Banking Malware Attacks"
-  },
-  "https://www.group-ib.com/blog/0ktapus/": {
-    "ts": "2026-09-09T20:45:17.692834+00:00",
-    "title": "Roasting 0ktapus: The phishing campaign going after Okta identity credentials"
-  },
-  "https://www.securityweek.com/this-key-will-self-destruct-an-open-standard-for-revocable-api-keys/": {
-    "ts": "2026-09-09T20:45:17.692841+00:00",
-    "title": "This Key Will Self-Destruct: An Open Standard for Revocable API Keys"
-  },
-  "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html": {
-    "ts": "2026-09-09T20:45:17.896561+00:00",
-    "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans"
-  },
-  "https://threats.wiz.io/all-incidents/cyberoam-breach-2018": {
-    "ts": "2026-09-09T20:45:18.088226+00:00",
-    "title": "Cyberoam breach (2018) (Incident)"
-  },
-  "https://cybersecuritynews.com/microsoft-expands-windows-family-safety/": {
-    "ts": "2026-09-09T20:45:18.281230+00:00",
-    "title": "Microsoft Expands Windows Family Safety With Built-In Age Verification and Parental Controls"
-  },
-  "https://gbhackers.com/windows-bitlocker-flaw-2/": {
-    "ts": "2026-09-09T20:45:18.474454+00:00",
-    "title": "Windows BitLocker Flaw Lets Attackers Execute Code on Vulnerable Systems"
-  },
-  "https://www.group-ib.com/blog/apt41-world-tour-2021/": {
-    "ts": "2026-09-09T20:45:18.667706+00:00",
-    "title": "APT41 World Tour 2021 on a tight schedule"
-  },
   "https://threats.wiz.io/all-incidents/prometei-campaign": {
     "ts": "2026-09-09T23:04:30.701543+00:00",
     "title": "Prometei campaign (Campaign)"
@@ -22230,5 +21990,125 @@
   "https://www.welivesecurity.com/en/business-security/cloud-workload-security-mind-gaps/": {
     "ts": "2026-11-08T16:38:34.208990+00:00",
     "title": "Cloud workload security: Mind the gaps"
+  },
+  "https://threats.wiz.io/all-incidents/polinrider-supply-chain-attack": {
+    "ts": "2026-11-08T20:59:53.722729+00:00",
+    "title": "PolinRider supply chain attack (Incident)"
+  },
+  "https://www.recordedfuture.com/blog/august-2026-cve-landscape": {
+    "ts": "2026-11-08T20:59:55.216204+00:00",
+    "title": "August 2026 CVE Landscape"
+  },
+  "https://threats.wiz.io/all-incidents/trivy-supply-chain-attack": {
+    "ts": "2026-11-08T20:59:58.912666+00:00",
+    "title": "Trivy supply chain attack (Incident)"
+  },
+  "https://www.darktrace.com/blog/from-call-to-compromise-darktraces-response-to-a-vishing-induced-network-attack": {
+    "ts": "2026-11-08T21:02:06.006759+00:00",
+    "title": "From Call to Compromise: Darktrace\u2019s Response to a Vishing-Induced Network Attack"
+  },
+  "https://www.group-ib.com/blog/bloody-wolf/": {
+    "ts": "2026-11-08T21:02:07.122501+00:00",
+    "title": "Bloody Wolf: A Blunt Crowbar Threat To Justice"
+  },
+  "https://www.recordedfuture.com/blog/unified-brand-identity-monitoring": {
+    "ts": "2026-11-08T21:02:07.122525+00:00",
+    "title": "Recorded Future Launches Digital Risk Protection, Unifying Brand and Identity Monitoring"
+  },
+  "https://securityaffairs.com/202691/cyber-crime/dont-hand-propaganda-a-gift-reading-the-brenner-base-tunnel-se-breach-calmly.html": {
+    "ts": "2026-11-08T21:02:07.122528+00:00",
+    "title": "Don\u2019t Hand Propaganda a Gift: Reading the Brenner Base Tunnel SE Breach Calmly"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/move-fast-save-things-quick-guide-recovering-hacked-account/": {
+    "ts": "2026-11-08T21:02:07.122532+00:00",
+    "title": "Move fast and save things: A quick guide to recovering a hacked account"
+  },
+  "https://www.darktrace.com/blog/navigating-buying-and-adoption-journeys-for-ai-cybersecurity-tools": {
+    "ts": "2026-11-08T21:02:07.228299+00:00",
+    "title": "Navigating Buying and Adoption Journeys for AI Cybersecurity Tools"
+  },
+  "https://www.group-ib.com/blog/uncover-phishing-italy/": {
+    "ts": "2026-11-08T21:02:07.353620+00:00",
+    "title": "Uncovering a Multi-Stage Phishing Kit Targeting Italy\u2019s Infrastructure"
+  },
+  "https://www.welivesecurity.com/en/eset-research/edr-killers-explained-beyond-the-drivers/": {
+    "ts": "2026-11-08T21:02:07.474457+00:00",
+    "title": "EDR killers explained: Beyond the drivers"
+  },
+  "https://threats.wiz.io/all-incidents/lexisnexis-breach": {
+    "ts": "2026-11-08T21:02:07.577868+00:00",
+    "title": "LexisNexis breach (Incident)"
+  },
+  "https://www.darktrace.com/blog/business-email-compromise-bec-in-the-age-of-ai": {
+    "ts": "2026-11-08T21:02:07.691101+00:00",
+    "title": "Business Email Compromise (BEC) in the Age of AI"
+  },
+  "https://www.group-ib.com/blog/ghosts-in-proc/": {
+    "ts": "2026-11-08T21:02:07.796670+00:00",
+    "title": "Ghosts in /proc: Manipulation and Timeline Corruption"
+  },
+  "https://www.welivesecurity.com/en/privacy/face-value-what-takes-fool-facial-recognition/": {
+    "ts": "2026-11-08T21:02:07.796693+00:00",
+    "title": "Face value: What it takes to fool facial recognition"
+  },
+  "https://www.darktrace.com/blog/how-ai-can-help-cisos-navigate-the-global-cyber-talent-shortage": {
+    "ts": "2026-11-08T21:02:07.796697+00:00",
+    "title": "How AI can help CISOs navigate the global cyber talent shortage"
+  },
+  "https://www.group-ib.com/blog/detect-npm-supply-chain-attack/": {
+    "ts": "2026-11-08T21:02:07.908597+00:00",
+    "title": "Detecting the NPM Supply Chain Compromise Before It Spread"
+  },
+  "https://www.welivesecurity.com/en/business-security/cyber-fallout-iran-war-what-have-radar/": {
+    "ts": "2026-11-08T21:02:08.017618+00:00",
+    "title": "Cyber fallout from the Iran war: What to have on your radar"
+  },
+  "https://threats.wiz.io/all-incidents/sandwormmode-typosquatted-npm-packages-used-to-hijack-ci-workflows": {
+    "ts": "2026-11-08T21:02:08.139385+00:00",
+    "title": "SANDWORM_MODE: Typosquatted npm Packages Used to Hijack CI Workflows (Campaign)"
+  },
+  "https://www.darktrace.com/blog/what-you-need-to-know-about-faa-equipment-systems-and-network-information-security-protection-2024": {
+    "ts": "2026-11-08T21:02:08.274991+00:00",
+    "title": "What you need to know about FAA Security Protection Regulations 2024"
+  },
+  "https://www.group-ib.com/blog/illusion-wealth-investment-scams/": {
+    "ts": "2026-11-08T21:02:08.391935+00:00",
+    "title": "The Illusion of Wealth: Inside the Engineered Reality of Investment Scam Platforms"
+  },
+  "https://www.welivesecurity.com/en/eset-research/sednit-reloaded-back-trenches/": {
+    "ts": "2026-11-08T21:02:08.512230+00:00",
+    "title": "Sednit reloaded: Back in the trenches"
+  },
+  "https://threats.wiz.io/all-incidents/sshstalker-linux-botnet-campaign": {
+    "ts": "2026-11-08T21:02:08.624062+00:00",
+    "title": "SSHStalker Linux Botnet campaign (Campaign)"
+  },
+  "https://www.darktrace.com/blog/introducing-defend-beyond": {
+    "ts": "2026-11-08T21:02:08.624082+00:00",
+    "title": "Introducing \u2018Defend Beyond\u2019: Our promise to customers in the face of evolving threats"
+  },
+  "https://www.group-ib.com/blog/muddywater-espionage/": {
+    "ts": "2026-11-08T21:02:08.744666+00:00",
+    "title": "Unmasking MuddyWater\u2019s New Malware Toolkit Driving International Espionage"
+  },
+  "https://www.welivesecurity.com/en/business-security/what-cybersecurity-actually-does-for-your-business/": {
+    "ts": "2026-11-08T21:02:08.744688+00:00",
+    "title": "What cybersecurity actually does for your business"
+  },
+  "https://threats.wiz.io/all-incidents/teampcp-cloud-native-campaign-targeting-exposed-control-planes": {
+    "ts": "2026-11-08T21:02:08.849651+00:00",
+    "title": "TeamPCP Cloud-Native Campaign Targeting Exposed Control Planes (Campaign)"
+  },
+  "https://www.darktrace.com/blog/cdr-is-just-ndr-for-the-cloud-right": {
+    "ts": "2026-11-08T21:02:08.849678+00:00",
+    "title": "CDR is just NDR for the Cloud... Right?"
+  },
+  "https://www.group-ib.com/blog/immediate-era-fraud-singapore/": {
+    "ts": "2026-11-08T21:02:08.966914+00:00",
+    "title": "Exposing the Immediate Era Fraud in Singapore"
+  },
+  "https://www.welivesecurity.com/en/business-security/how-smbs-use-threat-research-mdr-build-defensive-edge/": {
+    "ts": "2026-11-08T21:02:09.069900+00:00",
+    "title": "How SMBs use threat research and MDR to build a defensive edge"
   }
 }

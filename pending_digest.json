@@ -9,6 +9,36 @@
       "category": "new_technique",
       "title": "xygeni-action repository hijack (Incident)",
       "url": "https://threats.wiz.io/all-incidents/xygeni-action-repository-hijack"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Bloody Wolf: A Blunt Crowbar Threat To Justice",
+      "url": "https://www.group-ib.com/blog/bloody-wolf/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Ghosts in /proc: Manipulation and Timeline Corruption",
+      "url": "https://www.group-ib.com/blog/ghosts-in-proc/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Detecting the NPM Supply Chain Compromise Before It Spread",
+      "url": "https://www.group-ib.com/blog/detect-npm-supply-chain-attack/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Cyber fallout from the Iran war: What to have on your radar",
+      "url": "https://www.welivesecurity.com/en/business-security/cyber-fallout-iran-war-what-have-radar/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Unmasking MuddyWater\u2019s New Malware Toolkit Driving International Espionage",
+      "url": "https://www.group-ib.com/blog/muddywater-espionage/"
+    },
+    {
+      "category": "new_technique",
+      "title": "TeamPCP Cloud-Native Campaign Targeting Exposed Control Planes (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/teampcp-cloud-native-campaign-targeting-exposed-control-planes"
     }
   ],
   "last_sent_date": "2026-11-08"
