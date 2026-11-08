@@ -1,244 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/": {
-    "ts": "2026-09-09T03:54:29.339386+00:00",
-    "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults"
-  },
-  "https://www.group-ib.com/blog/hunting-sidewinder/": {
-    "ts": "2026-09-09T03:54:29.555148+00:00",
-    "title": "The distinctive rattle of APT SideWinder"
-  },
-  "https://www.rapid7.com/blog/post/em-patch-tuesday-september-2026": {
-    "ts": "2026-09-09T03:54:29.555165+00:00",
-    "title": "Patch Tuesday - September 2026"
-  },
-  "https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160": {
-    "ts": "2026-09-09T03:54:29.555168+00:00",
-    "title": "Microsoft breaks Patch Tuesday record with 974-CVE deluge"
-  },
-  "https://threats.wiz.io/all-incidents/volkswagen-massive-data-leak-through-spring-boot-actuator-misconfiguration": {
-    "ts": "2026-09-09T03:54:29.555171+00:00",
-    "title": "Volkswagen massive data leak through Spring Boot Actuator misconfiguration (Incident)"
-  },
-  "https://www.group-ib.com/blog/qilin-ransomware/": {
-    "ts": "2026-09-09T03:54:29.744819+00:00",
-    "title": "The Qilin Ransomware: Analysis and Protection Strategies"
-  },
-  "https://threats.wiz.io/all-incidents/ec2-grouper-campaign": {
-    "ts": "2026-09-09T03:54:29.935552+00:00",
-    "title": "EC2 Grouper Campaign (Campaign)"
-  },
-  "https://www.group-ib.com/blog/managed-xdr-updates/": {
-    "ts": "2026-09-09T03:54:29.935562+00:00",
-    "title": "Managed upgrades. Enhance malware analysis efficiency with Group-IB Malware Detonation Platform updates"
-  },
-  "https://threats.wiz.io/all-incidents/zagg-customer-data-compromised-via-hijacked-freshclicks-bigcommerce-app": {
-    "ts": "2026-09-09T03:54:29.935565+00:00",
-    "title": "ZAGG customer data compromised via hijacked FreshClicks BigCommerce app (Incident)"
-  },
-  "https://www.group-ib.com/blog/meta-phishing-campaign/": {
-    "ts": "2026-09-09T03:54:29.935567+00:00",
-    "title": "Tech (non)support: Scammers pose as Meta in Facebook account grab ploy"
-  },
-  "https://threats.wiz.io/all-incidents/phishing-campaign-leading-to-azure-account-takeover": {
-    "ts": "2026-09-09T03:54:30.128021+00:00",
-    "title": "Phishing campaign leading to Azure account takeover (Campaign)"
-  },
-  "https://www.group-ib.com/blog/phishing-investigation-guide/": {
-    "ts": "2026-09-09T03:54:30.323136+00:00",
-    "title": "Investigation into PostalFurious: a Chinese-speaking phishing gang targeting Singapore and Australia"
-  },
-  "https://threats.wiz.io/all-incidents/diicot-campaign-targeting-linux-environments": {
-    "ts": "2026-09-09T03:54:30.511076+00:00",
-    "title": "Diicot Campaign Targeting Linux Environments (Campaign)"
-  },
-  "https://www.group-ib.com/blog/muddywater-infrastructure/": {
-    "ts": "2026-09-09T03:54:30.699420+00:00",
-    "title": "SimpleHarm: Tracking MuddyWater\u2019s infrastructure"
-  },
-  "https://threats.wiz.io/all-incidents/rce-vulnerability-in-apache-struts-targeted-by-attackers": {
-    "ts": "2026-09-09T03:54:30.885465+00:00",
-    "title": "RCE Vulnerability in Apache Struts Targeted by Attackers (Campaign)"
-  },
-  "https://www.group-ib.com/blog/bablock-ransomware/": {
-    "ts": "2026-09-09T03:54:31.072371+00:00",
-    "title": "The old way: BabLock, new ransomware quietly cruising around Europe, Middle East, and Asia"
-  },
-  "https://threats.wiz.io/all-incidents/php-targeted-with-glutton-backdoor": {
-    "ts": "2026-09-09T03:54:31.259002+00:00",
-    "title": "PHP Targeted with Glutton backdoor (Campaign)"
-  },
-  "https://www.group-ib.com/blog/3cx-supply-chain-attack/": {
-    "ts": "2026-09-09T03:54:31.446423+00:00",
-    "title": "36gate: supply chain attack"
-  },
-  "https://threats.wiz.io/all-incidents/llm-hijacking-targeting-aws": {
-    "ts": "2026-09-09T03:54:31.630810+00:00",
-    "title": "LLM Hijacking Targeting AWS (Campaign)"
-  },
-  "https://www.group-ib.com/blog/venomous-vacancies/": {
-    "ts": "2026-09-09T03:54:31.630824+00:00",
-    "title": "Venomous vacancies: Job seekers across MEA hit by sting in scammers\u2019 tail"
-  },
-  "https://threats.wiz.io/all-incidents/cleo-vulnerabilities-targeted-by-cl0p-ransomware": {
-    "ts": "2026-09-09T03:54:31.822371+00:00",
-    "title": "Cleo Vulnerabilities Targeted by Cl0p Ransomware (Campaign)"
-  },
-  "https://www.group-ib.com/blog/bleak-outlook/": {
-    "ts": "2026-09-09T03:54:32.006390+00:00",
-    "title": "Bleak outlook: Mitigating CVE-2023-23397"
-  },
-  "https://threats.wiz.io/all-incidents/byte-federal-data-breach-via-gitlab-vulnerability": {
-    "ts": "2026-09-09T03:54:32.198640+00:00",
-    "title": "Byte Federal Data Breach via Gitlab Vulnerability (Incident)"
-  },
-  "https://www.group-ib.com/blog/banking-malware/": {
-    "ts": "2026-09-09T03:54:32.390412+00:00",
-    "title": "Bad Behaviour: How to detect banking trojans"
-  },
-  "https://threats.wiz.io/all-incidents/attacks-abusing-amazon-ses": {
-    "ts": "2026-09-09T03:54:32.577205+00:00",
-    "title": "Attacks abusing Amazon SES (Incident)"
-  },
-  "https://www.group-ib.com/blog/malware-bundles/": {
-    "ts": "2026-09-09T03:54:32.764328+00:00",
-    "title": "Package deal: Malware bundles causing disruption and damage across EMEA"
-  },
-  "https://threats.wiz.io/all-incidents/state-sponsored-apt-abuse-visual-studio-code-in-attacks": {
-    "ts": "2026-09-09T03:54:32.956964+00:00",
-    "title": "State-Sponsored APT Abuse Visual Studio Code in Attacks (Campaign)"
-  },
-  "https://www.group-ib.com/blog/tonto-team/": {
-    "ts": "2026-09-09T03:54:33.144420+00:00",
-    "title": "Nice Try Tonto Team"
-  },
-  "https://threats.wiz.io/all-incidents/ultralytics-compromise": {
-    "ts": "2026-09-09T03:54:33.331944+00:00",
-    "title": "Ultralytics compromise (Incident)"
-  },
-  "https://www.group-ib.com/blog/know-thy-enemy/": {
-    "ts": "2026-09-09T03:54:33.331959+00:00",
-    "title": "Know Thy Enemy: unraveling the \u201cHi-Tech Crime Trends 2022/2023\u201d report"
-  },
-  "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html": {
-    "ts": "2026-09-09T08:50:38.823207+00:00",
-    "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days"
-  },
-  "https://threats.wiz.io/all-incidents/solana-web3js-supply-chain-attack": {
-    "ts": "2026-09-09T08:50:38.826535+00:00",
-    "title": "Solana web3.js Supply Chain Attack (Campaign)"
-  },
-  "https://securityaffairs.com/198589/hacking/chaotic-eclipse-released-greensection-a-poc-for-nvidia-memory-corruption-zero-day.html": {
-    "ts": "2026-09-09T08:50:50.828972+00:00",
-    "title": "Chaotic Eclipse Released GreenSection, A PoC For NVIDIA Memory Corruption Zero-Day"
-  },
-  "https://gbhackers.com/best-mdr-services-compared/": {
-    "ts": "2026-09-09T08:50:52.455033+00:00",
-    "title": "The 12 Best Managed Detection & Response (MDR) Services, Compared and Priced"
-  },
-  "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/": {
-    "ts": "2026-09-09T08:52:25.220057+00:00",
-    "title": "Man gets 15 years for extorting women with AI-generated porn videos"
-  },
-  "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/": {
-    "ts": "2026-09-09T08:52:25.220070+00:00",
-    "title": "September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs"
-  },
-  "https://cybersecuritynews.com/cisa-warns-chinese-ai-firms/": {
-    "ts": "2026-09-09T08:52:25.220074+00:00",
-    "title": "CISA Warns Chinese AI Firms Extract Billions of Tokens From Claude, GPT, Gemini and Grok"
-  },
-  "https://gbhackers.com/windows-defender-shieldcrash-0-day/": {
-    "ts": "2026-09-09T08:52:25.455203+00:00",
-    "title": "Windows Defender ShieldCrash 0-Day Lets Attackers Read Arbitrary Files as SYSTEM"
-  },
-  "https://www.group-ib.com/blog/vwork-app-cloning-gigabud-goldfactory/": {
-    "ts": "2026-09-09T08:52:25.685329+00:00",
-    "title": "Vwork: Weaponized Open-source Software as an Addon for Gigabud"
-  },
-  "https://www.helpnetsecurity.com/2026/09/09/google-chrome-cve-2026-87491-zero-day-flaw/": {
-    "ts": "2026-09-09T08:52:25.685343+00:00",
-    "title": "Google fixes yet another actively exploited Chrome zero-day (CVE-2026-87491)"
-  },
-  "https://securityaffairs.com/198726/security/chaotic-eclipse-released-shieldcrash-a-poc-for-microsoft-defender-zero-day.html": {
-    "ts": "2026-09-09T08:52:25.919547+00:00",
-    "title": "Chaotic Eclipse Released\u00a0ShieldCrash, A PoC For Microsoft Defender\u00a0Zero-Day"
-  },
-  "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/": {
-    "ts": "2026-09-09T08:52:26.153912+00:00",
-    "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access"
-  },
-  "https://cybersecuritynews.com/cpanel-sql-injection-vulnerability/": {
-    "ts": "2026-09-09T08:52:26.153929+00:00",
-    "title": "New cPanel Vulnerability Allows Attacker to Gain Full Control of the Server"
-  },
-  "https://gbhackers.com/u-s-ai-models-targeted/": {
-    "ts": "2026-09-09T08:52:26.153934+00:00",
-    "title": "DeepSeek, Alibaba and Chinese AI Firms Extract Billions of Tokens From U.S. AI Models"
-  },
-  "https://www.group-ib.com/blog/dark-pink-apt/": {
-    "ts": "2026-09-09T08:52:26.391947+00:00",
-    "title": "Dark Pink"
-  },
-  "https://www.helpnetsecurity.com/2026/09/09/ai-infra-guard-open-source-security-scanner-ai-systems/": {
-    "ts": "2026-09-09T08:52:26.626533+00:00",
-    "title": "AI-Infra-Guard: Open-source security scanner for AI systems"
-  },
-  "https://securityaffairs.com/198705/security/microsofts-biggest-patch-tuesday-974-cves-2-zero-days-and-20-wormable-bugs.html": {
-    "ts": "2026-09-09T08:52:26.863030+00:00",
-    "title": "Microsoft\u2019s Biggest Patch Tuesday: 974 CVEs, 2 Zero-Days and 20 Wormable Bugs"
-  },
-  "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html": {
-    "ts": "2026-09-09T08:52:27.096546+00:00",
-    "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild"
-  },
-  "https://threats.wiz.io/all-incidents/gafgyt-malware-targeting-misconfigured-docker-servers": {
-    "ts": "2026-09-09T08:52:27.330373+00:00",
-    "title": "Gafgyt Malware Targeting Misconfigured Docker Servers (Campaign)"
-  },
-  "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/": {
-    "ts": "2026-09-09T08:52:27.330391+00:00",
-    "title": "Google warns of new Chrome zero-day bug exploited in attacks"
-  },
-  "https://cybersecuritynews.com/best-application-control-allowlisting-tools/": {
-    "ts": "2026-09-09T08:52:27.330396+00:00",
-    "title": "Top 10 Best Application Control & Allowlisting Tools in 2026"
-  },
-  "https://gbhackers.com/best-managed-xdr-compared/": {
-    "ts": "2026-09-09T08:52:27.330399+00:00",
-    "title": "The 12 Best Managed XDR Services, Compared and Priced"
-  },
-  "https://www.group-ib.com/blog/godfather-trojan/": {
-    "ts": "2026-09-09T08:52:27.568940+00:00",
-    "title": "Godfather Trojan \u2013 mobile banking malware that is impossible to refuse"
-  },
-  "https://www.helpnetsecurity.com/2026/09/09/prophet-security-evaluating-ai-soc-agents/": {
-    "ts": "2026-09-09T08:52:27.568964+00:00",
-    "title": "Gartner: 70% of SOCs will pilot AI agents. Only 15% will see results"
-  },
-  "https://threats.wiz.io/all-incidents/mauri-ransomware-exploiting-apache-activemq": {
-    "ts": "2026-09-09T08:52:27.817775+00:00",
-    "title": "Mauri Ransomware Exploiting Apache ActiveMQ (Campaign)"
-  },
-  "https://cybersecuritynews.com/best-patch-management-software/": {
-    "ts": "2026-09-09T08:52:28.047565+00:00",
-    "title": "Top 10 Best Patch Management Software in 2026"
-  },
-  "https://www.group-ib.com/blog/scam-free-christmas/": {
-    "ts": "2026-09-09T08:52:28.281612+00:00",
-    "title": "Scam-free Christmas"
-  },
-  "https://www.helpnetsecurity.com/2026/09/09/aws-routing-control-plane-network/": {
-    "ts": "2026-09-09T08:52:28.514972+00:00",
-    "title": "AWS spent years rebuilding its routing control plane without taking the network down"
-  },
-  "https://threats.wiz.io/all-incidents/gelsemiums-shift-to-linux-malware-with-wolfsbane-and-firewood": {
-    "ts": "2026-09-09T08:52:28.748714+00:00",
-    "title": "Gelsemium\u2019s Shift to Linux Malware with WolfsBane and FireWood (Campaign)"
-  },
-  "https://cybersecuritynews.com/best-mobile-threat-defense-solutions/": {
-    "ts": "2026-09-09T08:52:28.748725+00:00",
-    "title": "Top 10 Best Mobile Threat Defense (MTD) Solutions in 2026"
-  },
   "https://www.malwarebytes.com/blog/news/2026/09/microsoft-fixes-record-964-flaws-including-2-exploited-zero-days": {
     "ts": "2026-09-09T13:35:03.617637+00:00",
     "title": "Microsoft fixes record 964 flaws, including 2 exploited zero-days"
@@ -22350,5 +22110,125 @@
   "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html": {
     "ts": "2026-11-08T02:10:55.586995+00:00",
     "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw"
+  },
+  "https://threats.wiz.io/all-incidents/apifox-supply-chain-attack": {
+    "ts": "2026-11-08T09:59:09.010195+00:00",
+    "title": "Apifox supply chain attack (Incident)"
+  },
+  "https://www.darktrace.com/blog/securing-the-network-through-soc-transformation": {
+    "ts": "2026-11-08T10:01:08.872456+00:00",
+    "title": "Reimagining Your SOC: How to Shift Away From Reactive Network Security"
+  },
+  "https://www.group-ib.com/blog/examples-of-ai-in-cybersecurity/": {
+    "ts": "2026-11-08T10:01:09.113230+00:00",
+    "title": "Real-World Examples of AI in Cybersecurity"
+  },
+  "https://www.helpnetsecurity.com/2026/11/08/week-in-review-refrigeration-cyberattacks-hit-european-retailers-again-patch-tuesday-forecast/": {
+    "ts": "2026-11-08T10:01:09.332971+00:00",
+    "title": "Week in review: Refrigeration cyberattacks hit European retailers again, Patch Tuesday forecast"
+  },
+  "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html": {
+    "ts": "2026-11-08T10:01:09.544442+00:00",
+    "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food"
+  },
+  "https://www.welivesecurity.com/en/eset-research/new-ngate-variant-hides-in-a-trojanized-nfc-payment-app/": {
+    "ts": "2026-11-08T10:01:09.544462+00:00",
+    "title": "New NGate variant hides in a trojanized NFC payment app"
+  },
+  "https://threats.wiz.io/all-incidents/o365-device-code-phishing-campaign-using-eviltokens-and-abusing-railway-platform": {
+    "ts": "2026-11-08T10:01:09.759516+00:00",
+    "title": "O365 Device Code Phishing Campaign using EvilTokens and Abusing Railway Platform (Campaign)"
+  },
+  "https://www.darktrace.com/blog/why-ai-powered-email-protection-wasnt-merely-an-option-but-an-imperative-for-this-global-leader-in-financial-services": {
+    "ts": "2026-11-08T10:01:09.978614+00:00",
+    "title": "Why AI-powered Email Protection Became Essential for this Global Financial Services Leader"
+  },
+  "https://www.group-ib.com/blog/deadlock-ransomware-polygon-smart-contracts/": {
+    "ts": "2026-11-08T10:01:10.195075+00:00",
+    "title": "DeadLock Ransomware: Smart Contracts for Malicious Purposes"
+  },
+  "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html": {
+    "ts": "2026-11-08T10:01:10.411180+00:00",
+    "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors"
+  },
+  "https://www.welivesecurity.com/en/ransomware/what-ransom-note-doesnt-say/": {
+    "ts": "2026-11-08T10:01:10.635434+00:00",
+    "title": "What the ransom note won\u2019t say"
+  },
+  "https://threats.wiz.io/all-incidents/exploitation-campaign-of-vulnerable-github-workflows": {
+    "ts": "2026-11-08T10:01:10.844230+00:00",
+    "title": "Exploitation Campaign of Vulnerable GitHub Workflows (Campaign)"
+  },
+  "https://www.darktrace.com/blog/agent-vs-agentless-cloud-security-why-deployment-methods-matter": {
+    "ts": "2026-11-08T10:01:10.844249+00:00",
+    "title": "Agent vs. Agentless Cloud Security: Why Deployment Methods Matter"
+  },
+  "https://www.group-ib.com/blog/ghost-tapped-chinese-malware/": {
+    "ts": "2026-11-08T10:01:11.073089+00:00",
+    "title": "Ghost Tapped: Tracking the Rise of Chinese Tap-to-pay Android Malware"
+  },
+  "https://thehackernews.com/2026/11/attackers-target-unpatched.html": {
+    "ts": "2026-11-08T10:01:11.292534+00:00",
+    "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials"
+  },
+  "https://www.welivesecurity.com/en/scams/data-breach-alert-might-be-trap/": {
+    "ts": "2026-11-08T10:01:11.292552+00:00",
+    "title": "That data breach alert might be a trap"
+  },
+  "https://threats.wiz.io/all-incidents/uat-10608-campaign-abuses-react2shell-for-cloud-credential-harvesting": {
+    "ts": "2026-11-08T10:01:11.503275+00:00",
+    "title": "UAT-10608 Campaign Abuses React2Shell for Cloud Credential Harvesting (Campaign)"
+  },
+  "https://www.darktrace.com/blog/protecting-your-hybrid-cloud-the-future-of-cloud-security-in-2025-and-beyond": {
+    "ts": "2026-11-08T10:01:11.720076+00:00",
+    "title": "Protecting Your Hybrid Cloud: The Future of Cloud Security in 2025 and Beyond"
+  },
+  "https://www.group-ib.com/blog/docusign-impersonation-logokit/": {
+    "ts": "2026-11-08T10:01:11.935665+00:00",
+    "title": "The DocuSign Impersonation Wave with Real-Time Customizable LogoKit"
+  },
+  "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html": {
+    "ts": "2026-11-08T10:01:12.152298+00:00",
+    "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment"
+  },
+  "https://www.welivesecurity.com/en/business-security/supply-chain-dependencies-have-you-checked-your-blind-spot/": {
+    "ts": "2026-11-08T10:01:12.364617+00:00",
+    "title": "Supply chain dependencies: Have you checked your blind spot?"
+  },
+  "https://threats.wiz.io/all-incidents/axios-supply-chain-attack": {
+    "ts": "2026-11-08T10:01:12.575309+00:00",
+    "title": "Axios supply chain attack (Incident)"
+  },
+  "https://www.darktrace.com/blog/a-snake-in-the-net-defending-against-aitm-phishing-threats-and-mamba-2fa": {
+    "ts": "2026-11-08T10:01:12.785297+00:00",
+    "title": "Defending AITM Phishing and Mamba Attacks"
+  },
+  "https://www.group-ib.com/blog/online-job-scams-mena/": {
+    "ts": "2026-11-08T10:01:12.785316+00:00",
+    "title": "Empty Promises in MENA: How Online Quick Cash Schemes Exploit the Gig Economy"
+  },
+  "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html": {
+    "ts": "2026-11-08T10:01:12.993678+00:00",
+    "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers"
+  },
+  "https://www.welivesecurity.com/en/scams/recovery-scammers-hit-when-down-avoid-second-strike/": {
+    "ts": "2026-11-08T10:01:12.993696+00:00",
+    "title": "Recovery scammers hit you when you\u2019re down: Here\u2019s how to avoid a second strike"
+  },
+  "https://www.darktrace.com/blog/darktrace-positioned-leader-in-idc-network-detection-and-response-2024": {
+    "ts": "2026-11-08T10:01:13.205705+00:00",
+    "title": "Darktrace is Positioned as a Leader in the IDC MarketScape: Worldwide Network Detection and Response 2024 Vendor Assessment"
+  },
+  "https://www.group-ib.com/blog/mobile-malware-uzbekistan/": {
+    "ts": "2026-11-08T10:01:13.423665+00:00",
+    "title": "Choose Your Fighter: A New Stage in the Evolution of Android SMS Stealers in Uzbekistan"
+  },
+  "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html": {
+    "ts": "2026-11-08T10:01:13.636110+00:00",
+    "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy"
+  },
+  "https://www.welivesecurity.com/en/business-security/breakout-time-accelerates-prevention-first-cybersecurity-center-stage/": {
+    "ts": "2026-11-08T10:01:13.860825+00:00",
+    "title": "As breakout time accelerates, prevention-first cybersecurity takes center stage"
   }
 }
