@@ -39,6 +39,41 @@
       "category": "new_technique",
       "title": "TeamPCP Cloud-Native Campaign Targeting Exposed Control Planes (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/teampcp-cloud-native-campaign-targeting-exposed-control-planes"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows",
+      "url": "https://www.volexity.com/blog/2026/09/09/mind-the-patch-gap-multiple-chinese-threat-actors-chain-0-day-exploits-in-chrome-windows/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Supply-Chain Hijacking of Notepad++ Updates via Hosting Provider Compromise (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/supply-chain-hijacking-of-notepad-updates-via-hosting-provider-compromise"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Tracking MuddyWater in Action: Infrastructure, Malware and Operations during 2025",
+      "url": "https://www.group-ib.com/blog/muddywater-infrastructure-malware/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Cloud-Native Phishing Infrastructure via Abused AWS WorkMail (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/cloud-native-phishing-infrastructure-via-abused-aws-workmail"
+    },
+    {
+      "category": "malware_android",
+      "title": "PromptSpy ushers in the era of Android threats using GenAI",
+      "url": "https://www.welivesecurity.com/en/eset-research/promptspy-ushers-in-era-android-threats-using-genai/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "GeoServer RCE Exploited in CoinMiner Campaigns (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/geoserver-rce-exploited-in-coinminer-campaigns"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Amadey Loader Abuses Compromised Self-Hosted GitLab to Deliver StealC Infostealer (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/amadey-loader-abuses-compromised-self-hosted-gitlab-to-deliver-stealc-infostealer"
     }
   ],
   "last_sent_date": "2026-11-08"

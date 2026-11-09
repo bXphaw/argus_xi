@@ -1,124 +1,4 @@
 {
-  "https://threats.wiz.io/all-incidents/prometei-campaign": {
-    "ts": "2026-09-09T23:04:30.701543+00:00",
-    "title": "Prometei campaign (Campaign)"
-  },
-  "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/": {
-    "ts": "2026-09-09T23:06:02.539867+00:00",
-    "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks"
-  },
-  "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck": {
-    "ts": "2026-09-09T23:06:02.539889+00:00",
-    "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck"
-  },
-  "https://www.group-ib.com/blog/switching-side-jobs/": {
-    "ts": "2026-09-09T23:06:02.731660+00:00",
-    "title": "Switching side jobs"
-  },
-  "https://www.silentpush.com/blog/built-to-get-there-first/?utm_source=rss&utm_medium=rss&utm_campaign=built-to-get-there-first": {
-    "ts": "2026-09-09T23:06:02.731681+00:00",
-    "title": "Silent Push 6.1: Built to Get There First"
-  },
-  "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html": {
-    "ts": "2026-09-09T23:06:02.910819+00:00",
-    "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed"
-  },
-  "https://www.theregister.com/research/2026/09/09/novel-blue-moon-kit-targeting-chrome-and-windows-reflects-new-reality-of-ai-driven-exploits/5295399": {
-    "ts": "2026-09-09T23:06:03.095746+00:00",
-    "title": "Novel Blue Moon kit targeting Chrome and Windows reflects new reality of AI-driven exploits"
-  },
-  "https://threats.wiz.io/all-incidents/sharepoint-vulnerability-exploited-in-the-wild": {
-    "ts": "2026-09-09T23:06:03.286340+00:00",
-    "title": "SharePoint Vulnerability Exploited in-the-Wild (Incident)"
-  },
-  "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/": {
-    "ts": "2026-09-09T23:06:03.465550+00:00",
-    "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack"
-  },
-  "https://www.group-ib.com/blog/malibot/": {
-    "ts": "2026-09-09T23:06:03.657781+00:00",
-    "title": "Challenge accepted"
-  },
-  "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html": {
-    "ts": "2026-09-09T23:06:03.843013+00:00",
-    "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution"
-  },
-  "https://threats.wiz.io/all-incidents/emeraldwhale-attacks-targeting-exposed-git-config-files": {
-    "ts": "2026-09-09T23:06:04.027861+00:00",
-    "title": "EMERALDWHALE Attacks Targeting Exposed Git Config Files (Campaign)"
-  },
-  "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/": {
-    "ts": "2026-09-09T23:06:04.027883+00:00",
-    "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking"
-  },
-  "https://www.group-ib.com/blog/investment-scams-europe/": {
-    "ts": "2026-09-09T23:06:04.027889+00:00",
-    "title": "Fake investment scams in Europe"
-  },
-  "https://threats.wiz.io/all-incidents/amazon-db-exposed-with-prime-video-viewing-habits": {
-    "ts": "2026-09-09T23:06:04.027893+00:00",
-    "title": "Amazon DB exposed with Prime Video viewing habits (Research)"
-  },
-  "https://www.group-ib.com/blog/managed-xdr/": {
-    "ts": "2026-09-09T23:06:04.027896+00:00",
-    "title": "Under the Hood. Group-IB Managed XDR"
-  },
-  "https://threats.wiz.io/all-incidents/teamtnts-docker-gatling-gun-campaign": {
-    "ts": "2026-09-09T23:06:04.220639+00:00",
-    "title": "TeamTNT\u2019s Docker Gatling Gun Campaign (Campaign)"
-  },
-  "https://www.group-ib.com/blog/unified-risk-platform/": {
-    "ts": "2026-09-09T23:06:04.413039+00:00",
-    "title": "Group-IB introduces the Unified Risk Platform"
-  },
-  "https://threats.wiz.io/all-incidents/unc5820-exploiting-fortimanager-flaw": {
-    "ts": "2026-09-09T23:06:04.615225+00:00",
-    "title": "UNC5820 exploiting FortiManager flaw (Campaign)"
-  },
-  "https://www.group-ib.com/blog/gozi-latest-ttps/": {
-    "ts": "2026-09-09T23:06:04.799369+00:00",
-    "title": "We see you, Gozi"
-  },
-  "https://www.group-ib.com/blog/rostovtsev/": {
-    "ts": "2026-09-09T23:06:04.993648+00:00",
-    "title": "\u201cWe find many things that others do not even see\u201d"
-  },
-  "https://threats.wiz.io/all-incidents/triad-nexus-funnull-malicious-campaign": {
-    "ts": "2026-09-09T23:06:05.172864+00:00",
-    "title": "Triad Nexus: Funnull malicious campaign (Campaign)"
-  },
-  "https://www.group-ib.com/blog/brazil-exposed-db/": {
-    "ts": "2026-09-09T23:06:05.172882+00:00",
-    "title": "Thousands of IDs exposed in yet another data breach in Brazil"
-  },
-  "https://threats.wiz.io/all-incidents/perfctl-campaign-targeting-docker-api": {
-    "ts": "2026-09-09T23:06:05.360022+00:00",
-    "title": "perfctl campaign targeting Docker API (Campaign)"
-  },
-  "https://www.group-ib.com/blog/phishing-vietnam-banks/": {
-    "ts": "2026-09-09T23:06:05.360041+00:00",
-    "title": "Swiss Army Knife Phishing"
-  },
-  "https://threats.wiz.io/all-incidents/ea-cross-user-access-via-api": {
-    "ts": "2026-09-09T23:06:05.360045+00:00",
-    "title": "EA cross-user access via API (Research)"
-  },
-  "https://www.group-ib.com/blog/sidewinder-antibot/": {
-    "ts": "2026-09-09T23:06:05.557197+00:00",
-    "title": "SideWinder.AntiBot.Script"
-  },
-  "https://threats.wiz.io/all-incidents/earth-simnavaz-apt34-targeting-uae-and-gulf-regions": {
-    "ts": "2026-09-09T23:06:05.739790+00:00",
-    "title": "Earth Simnavaz (APT34) Targeting UAE and Gulf Regions (Campaign)"
-  },
-  "https://www.group-ib.com/blog/oldgremlin-comeback/": {
-    "ts": "2026-09-09T23:06:05.951973+00:00",
-    "title": "Old Gremlins, new methods"
-  },
-  "https://threats.wiz.io/all-incidents/game-freak-data-leak": {
-    "ts": "2026-09-09T23:06:05.951994+00:00",
-    "title": "Game Freak data leak (Incident)"
-  },
   "https://cybersecuritynews.com/critical-arangodb-flaws/": {
     "ts": "2026-09-10T03:51:24.411632+00:00",
     "title": "Critical ArangoDB Flaws Allow Authentication Bypass and Remote Code Execution as Root"
@@ -22110,5 +21990,125 @@
   "https://www.welivesecurity.com/en/business-security/how-smbs-use-threat-research-mdr-build-defensive-edge/": {
     "ts": "2026-11-08T21:02:09.069900+00:00",
     "title": "How SMBs use threat research and MDR to build a defensive edge"
+  },
+  "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-february-2026/": {
+    "ts": "2026-11-09T00:44:56.620740+00:00",
+    "title": "This month in security with Tony Anscombe \u2013 February 2026 edition"
+  },
+  "https://www.darktrace.com/blog/darktrace-releases-2024-half-year-threat-insights-2": {
+    "ts": "2026-11-09T00:47:03.563834+00:00",
+    "title": "Darktrace Releases 2024 Half-Year Threat Insights"
+  },
+  "https://www.group-ib.com/blog/east-west-ndr/": {
+    "ts": "2026-11-09T00:47:03.563854+00:00",
+    "title": "East-west tension: Are NDR vendors monitoring the wrong traffic?"
+  },
+  "https://www.volexity.com/blog/2026/09/09/mind-the-patch-gap-multiple-chinese-threat-actors-chain-0-day-exploits-in-chrome-windows/": {
+    "ts": "2026-11-09T00:47:03.635336+00:00",
+    "title": "Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows"
+  },
+  "https://www.welivesecurity.com/en/business-security/protecting-education-how-mdr-can-tip-balance-favor-schools/": {
+    "ts": "2026-11-09T00:47:03.635353+00:00",
+    "title": "Protecting education: How MDR can tip the balance in favor of schools"
+  },
+  "https://threats.wiz.io/all-incidents/supply-chain-hijacking-of-notepad-updates-via-hosting-provider-compromise": {
+    "ts": "2026-11-09T00:47:03.679445+00:00",
+    "title": "Supply-Chain Hijacking of Notepad++ Updates via Hosting Provider Compromise (Campaign)"
+  },
+  "https://www.group-ib.com/blog/payment-fraud-defense/": {
+    "ts": "2026-11-09T00:47:03.726422+00:00",
+    "title": "A new weapon against payment fraud: Unique threat intelligence for anti-fraud teams"
+  },
+  "https://threats.wiz.io/all-incidents/supply-chain-attack-via-force-pushes-on-plone-github-repositories": {
+    "ts": "2026-11-09T00:47:03.773843+00:00",
+    "title": "Supply-Chain Attack via Force Pushes on Plone GitHub Repositories (Campaign)"
+  },
+  "https://www.group-ib.com/blog/cybersecurity-newsletters/": {
+    "ts": "2026-11-09T00:47:03.817939+00:00",
+    "title": "Top 7 Cybersecurity Newsletters Worth Your Inbox"
+  },
+  "https://www.welivesecurity.com/en/mobile-security/mobile-app-permissions-still-matter-more-think/": {
+    "ts": "2026-11-09T00:47:03.862067+00:00",
+    "title": "Mobile app permissions (still) matter more than you may think"
+  },
+  "https://threats.wiz.io/all-incidents/operation-bizarre-bazaar-commercialized-llmjacking": {
+    "ts": "2026-11-09T00:47:03.906605+00:00",
+    "title": "Operation Bizarre Bazaar: Commercialized LLMjacking (Campaign)"
+  },
+  "https://www.group-ib.com/blog/muddywater-infrastructure-malware/": {
+    "ts": "2026-11-09T00:47:03.953383+00:00",
+    "title": "Tracking MuddyWater in Action: Infrastructure, Malware and Operations during 2025"
+  },
+  "https://www.welivesecurity.com/en/business-security/faking-it-phone-how-tell-voice-call-ai/": {
+    "ts": "2026-11-09T00:47:03.953402+00:00",
+    "title": "Faking it on the phone: How to tell if a voice call is AI or not"
+  },
+  "https://threats.wiz.io/all-incidents/cloud-native-phishing-infrastructure-via-abused-aws-workmail": {
+    "ts": "2026-11-09T00:47:03.997505+00:00",
+    "title": "Cloud-Native Phishing Infrastructure via Abused AWS WorkMail (Campaign)"
+  },
+  "https://www.group-ib.com/blog/cybersecurity-podcasts/": {
+    "ts": "2026-11-09T00:47:03.997526+00:00",
+    "title": "10 Cybersecurity Podcasts to Add to Your Queue Now"
+  },
+  "https://www.welivesecurity.com/en/eset-research/promptspy-ushers-in-era-android-threats-using-genai/": {
+    "ts": "2026-11-09T00:47:04.044544+00:00",
+    "title": "PromptSpy ushers in the era of Android threats using GenAI"
+  },
+  "https://threats.wiz.io/all-incidents/canonical-snap-store-hijacking-campaign": {
+    "ts": "2026-11-09T00:47:04.087735+00:00",
+    "title": "Canonical Snap Store Hijacking Campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/ai-cybercrime-usecases/": {
+    "ts": "2026-11-09T00:47:04.133247+00:00",
+    "title": "From Deepfakes to Dark LLMs: 5 use-cases of how AI is Powering Cybercrime"
+  },
+  "https://www.welivesecurity.com/en/scams/poshmark-safe-buy-sell-scammed/": {
+    "ts": "2026-11-09T00:47:04.178401+00:00",
+    "title": "Is Poshmark safe? How to buy and sell without getting scammed"
+  },
+  "https://threats.wiz.io/all-incidents/voidlink-a-cloud-native-linux-malware-framework": {
+    "ts": "2026-11-09T00:47:04.222763+00:00",
+    "title": "VoidLink: A Cloud-Native Linux Malware Framework (Campaign)"
+  },
+  "https://www.group-ib.com/blog/shadowsilk/": {
+    "ts": "2026-11-09T00:47:04.273021+00:00",
+    "title": "ShadowSilk: A Cross-Border Binary Union for Data Exfiltration"
+  },
+  "https://www.welivesecurity.com/en/kids-online/children-selfies-online/": {
+    "ts": "2026-11-09T00:47:04.273040+00:00",
+    "title": "Is it OK to let your children post selfies online?"
+  },
+  "https://threats.wiz.io/all-incidents/geoserver-rce-exploited-in-coinminer-campaigns": {
+    "ts": "2026-11-09T00:47:04.317198+00:00",
+    "title": "GeoServer RCE Exploited in CoinMiner Campaigns (Campaign)"
+  },
+  "https://www.group-ib.com/blog/how-email-threats-hide-behind-your-partners/": {
+    "ts": "2026-11-09T00:47:04.317218+00:00",
+    "title": "Trust issues: How email threats hide behind your partners"
+  },
+  "https://www.welivesecurity.com/en/ransomware/naming-shaming-ransomware-groups-tighten-screws-victims/": {
+    "ts": "2026-11-09T00:47:04.317222+00:00",
+    "title": "Naming and shaming: How ransomware groups tighten the screws on victims"
+  },
+  "https://threats.wiz.io/all-incidents/amadey-loader-abuses-compromised-self-hosted-gitlab-to-deliver-stealc-infostealer": {
+    "ts": "2026-11-09T00:47:04.360949+00:00",
+    "title": "Amadey Loader Abuses Compromised Self-Hosted GitLab to Deliver StealC Infostealer (Campaign)"
+  },
+  "https://www.group-ib.com/blog/evolving-mule-tactics/": {
+    "ts": "2026-11-09T00:47:04.408499+00:00",
+    "title": "Evolving Mule Tactics in the META Region Banking Sector"
+  },
+  "https://www.welivesecurity.com/en/scams/taxing-times-top-irs-scams-look-out-2026/": {
+    "ts": "2026-11-09T00:47:04.461829+00:00",
+    "title": "Taxing times: Top IRS scams to look out for in 2026"
+  },
+  "https://threats.wiz.io/all-incidents/china-nexus-campaign-exploits-cve-2025-20393-in-cisco-email-security-devices": {
+    "ts": "2026-11-09T00:47:04.507156+00:00",
+    "title": "China-nexus Campaign Exploits CVE-2025-20393 in Cisco Email Security Devices (Campaign)"
+  },
+  "https://www.group-ib.com/blog/exposing-investment-scams/": {
+    "ts": "2026-11-09T00:47:04.556430+00:00",
+    "title": "Exposing Investment Scams: AI Trading, Deepfake & Online Fraud"
   }
 }
