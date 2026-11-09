@@ -1,124 +1,4 @@
 {
-  "https://cybersecuritynews.com/critical-arangodb-flaws/": {
-    "ts": "2026-09-10T03:51:24.411632+00:00",
-    "title": "Critical ArangoDB Flaws Allow Authentication Bypass and Remote Code Execution as Root"
-  },
-  "https://threats.wiz.io/all-incidents/ref6138-campaign": {
-    "ts": "2026-09-10T03:51:32.240543+00:00",
-    "title": "REF6138 campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/storm-0501-targeting-hybrid-environments-with-ransomware": {
-    "ts": "2026-09-10T03:51:33.045096+00:00",
-    "title": "Storm-0501 Targeting Hybrid Environments with Ransomware (Campaign)"
-  },
-  "https://www.group-ib.com/blog/log4shell/": {
-    "ts": "2026-09-10T03:51:33.093776+00:00",
-    "title": "Mitigating Log4Shell in Log4j with Group-IB"
-  },
-  "https://threats.wiz.io/all-incidents/storm-0501-attacking-hybrid-environments-with-ransomware": {
-    "ts": "2026-09-10T03:51:33.134334+00:00",
-    "title": "Storm-0501 attacking hybrid environments with ransomware (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/scattered-spider-targeting-azure-environment": {
-    "ts": "2026-09-10T03:51:37.891031+00:00",
-    "title": "Scattered Spider targeting Azure environment (Incident)"
-  },
-  "https://cybersecuritynews.com/claude-ai-models-gained-unauthorized-access/": {
-    "ts": "2026-09-10T03:53:09.126021+00:00",
-    "title": "Claude AI Models Gained Unauthorized Access to Real Systems During Cybersecurity Tests"
-  },
-  "https://gbhackers.com/chatgpt-flaw/": {
-    "ts": "2026-09-10T03:53:09.213013+00:00",
-    "title": "ChatGPT Flaw Could Let Attackers Steal Gmail Data Across User Accounts"
-  },
-  "https://www.group-ib.com/blog/fake-crypto-giveaway/": {
-    "ts": "2026-09-10T03:53:09.213030+00:00",
-    "title": "Scammers make off with $1.6 million in crypto"
-  },
-  "https://www.helpnetsecurity.com/2026/09/10/openssl-4-1-0-alpha1-released/": {
-    "ts": "2026-09-10T03:53:09.213034+00:00",
-    "title": "OpenSSL\u2019s new alpha build speeds up post-quantum crypto"
-  },
-  "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/": {
-    "ts": "2026-09-10T03:53:09.213038+00:00",
-    "title": "Threat matrix: Mapping threats across cloud web applications"
-  },
-  "https://threats.wiz.io/all-incidents/apt29-targeting-zimbra-and-teamcity-servers": {
-    "ts": "2026-09-10T03:53:09.269734+00:00",
-    "title": "APT29 Targeting Zimbra and TeamCity Servers (Campaign)"
-  },
-  "https://gbhackers.com/agentic-ai-automates-cyberattacks/": {
-    "ts": "2026-09-10T03:53:09.328867+00:00",
-    "title": "Hackers Weaponize Agentic AI to Automate Reconnaissance, Exploitation and Post-Exploitation"
-  },
-  "https://www.group-ib.com/blog/spring4shell/": {
-    "ts": "2026-09-10T03:53:09.328884+00:00",
-    "title": "Mitigating Spring4Shell with Group-IB"
-  },
-  "https://threats.wiz.io/all-incidents/veeam-vulnerability-exploited-by-akira-and-fog-ransomware": {
-    "ts": "2026-09-10T03:53:09.385021+00:00",
-    "title": "Veeam Vulnerability Exploited by Akira and Fog Ransomware (Campaign)"
-  },
-  "https://www.group-ib.com/blog/fake-delivery-scams-singapore/": {
-    "ts": "2026-09-10T03:53:09.385036+00:00",
-    "title": "Empty Box"
-  },
-  "https://threats.wiz.io/all-incidents/llmjacking-for-roleplaying-campaign": {
-    "ts": "2026-09-10T03:53:09.442185+00:00",
-    "title": "LLMJacking for Roleplaying Campaign (Campaign)"
-  },
-  "https://www.group-ib.com/blog/assetzero/": {
-    "ts": "2026-09-10T03:53:09.500888+00:00",
-    "title": "Lost & Found: Group-IB Unveils Attack Surface Management (ex. AssetZero)"
-  },
-  "https://threats.wiz.io/all-incidents/perfctl-malware-targeting-linux": {
-    "ts": "2026-09-10T03:53:09.558500+00:00",
-    "title": "perfctl Malware Targeting Linux (Campaign)"
-  },
-  "https://www.group-ib.com/blog/5-ransomware-tips/": {
-    "ts": "2026-09-10T03:53:09.617320+00:00",
-    "title": "Top 5 recommendations for preventing ransomware for 2022"
-  },
-  "https://threats.wiz.io/all-incidents/rackspace-incident-2024": {
-    "ts": "2026-09-10T03:53:09.675017+00:00",
-    "title": "Rackspace incident (2024) (Incident)"
-  },
-  "https://www.group-ib.com/blog/atmosphere/": {
-    "ts": "2026-09-10T03:53:09.735406+00:00",
-    "title": "Cleaning the atmosphere"
-  },
-  "https://www.group-ib.com/blog/ml-in-investigations/": {
-    "ts": "2026-09-10T03:53:09.735422+00:00",
-    "title": "Shedding light on the dark web"
-  },
-  "https://www.group-ib.com/blog/tia-mitre/": {
-    "ts": "2026-09-10T03:53:09.735427+00:00",
-    "title": "How MITRE ATT&CK\u00ae helps users of Threat Intelligence"
-  },
-  "https://threats.wiz.io/all-incidents/docker-swarm-and-k8s-cryptojacking-campaign": {
-    "ts": "2026-09-10T03:53:09.792271+00:00",
-    "title": "Docker Swarm and K8s cryptojacking campaign (Campaign)"
-  },
-  "https://www.group-ib.com/blog/target/": {
-    "ts": "2026-09-10T03:53:09.792291+00:00",
-    "title": "Ready-made fraud"
-  },
-  "https://threats.wiz.io/all-incidents/unc1860-attacks-targeting-the-middle-east": {
-    "ts": "2026-09-10T03:53:09.850612+00:00",
-    "title": "UNC1860 Attacks Targeting the Middle East (Campaign)"
-  },
-  "https://www.group-ib.com/blog/hive/": {
-    "ts": "2026-09-10T03:53:09.911757+00:00",
-    "title": "Inside the Hive"
-  },
-  "https://threats.wiz.io/all-incidents/scattered-spider-targeting-gcp-environment": {
-    "ts": "2026-09-10T03:53:09.969591+00:00",
-    "title": "Scattered Spider targeting GCP environment (Incident)"
-  },
-  "https://www.group-ib.com/blog/blackmatter2/": {
-    "ts": "2026-09-10T03:53:10.204358+00:00",
-    "title": "The Darker Things"
-  },
   "https://gbhackers.com/best-mobile-threat-defense-compared/": {
     "ts": "2026-09-10T08:49:57.931336+00:00",
     "title": "The 12 Best Mobile Threat Defense (MTD) Solutions, Compared and Priced"
@@ -22110,5 +21990,125 @@
   "https://www.group-ib.com/blog/exposing-investment-scams/": {
     "ts": "2026-11-09T00:47:04.556430+00:00",
     "title": "Exposing Investment Scams: AI Trading, Deepfake & Online Fraud"
+  },
+  "https://gbhackers.com/nvidia-investigates-suspected-foreign-espionage-campaign/": {
+    "ts": "2026-11-09T07:45:23.211864+00:00",
+    "title": "NVIDIA Investigates Suspected Foreign Espionage Campaign Targeting CEO Jensen Huang"
+  },
+  "https://cybersecuritynews.com/hackers-targeting-industrial-refrigeration-systems/": {
+    "ts": "2026-11-09T07:47:00.051690+00:00",
+    "title": "U.S. Agencies Warn of Hackers Targeting Industrial Refrigeration to Disrupt Food and Medicine Storage"
+  },
+  "https://gbhackers.com/polinrider-malware-attack/": {
+    "ts": "2026-11-09T07:47:00.168412+00:00",
+    "title": "PolinRider Malware Returns in 10 Hijacked npm Packages Using Ethereum Blockchain to Deliver Malicious Code"
+  },
+  "https://www.group-ib.com/blog/identity-protection-group-ib-xdr/": {
+    "ts": "2026-11-09T07:47:00.168435+00:00",
+    "title": "Before A Stolen Password Becomes An Attack: Identity Protection With Group-IB XDR"
+  },
+  "https://www.helpnetsecurity.com/2026/11/09/wirken-open-source-ai-agent-gateway/": {
+    "ts": "2026-11-09T07:47:00.168439+00:00",
+    "title": "Wirken: Open-source AI agent gateway"
+  },
+  "https://securityaffairs.com/202667/cyber-warfare-2/the-bbc-has-a-plan-for-a-black-sky-event-and-it-runs-on-fm-radio.html": {
+    "ts": "2026-11-09T07:47:00.168441+00:00",
+    "title": "The BBC has a plan for a Black Sky event, and it runs on FM radio"
+  },
+  "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html": {
+    "ts": "2026-11-09T07:47:00.281323+00:00",
+    "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses"
+  },
+  "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345": {
+    "ts": "2026-11-09T07:47:00.281344+00:00",
+    "title": "Linus Torvalds sees signs AI-prompted patch flood has peaked"
+  },
+  "https://www.welivesecurity.com/en/scams/offerup-scammers-out-force-heres-what-you-should-know/": {
+    "ts": "2026-11-09T07:47:00.281347+00:00",
+    "title": "OfferUp scammers are out in force: Here\u2019s what you should know"
+  },
+  "https://threats.wiz.io/all-incidents/shai-hulud-20-supply-chain-attack": {
+    "ts": "2026-11-09T07:47:00.391775+00:00",
+    "title": "Shai-Hulud 2.0 Supply Chain Attack (Campaign)"
+  },
+  "https://cybersecuritynews.com/openssh-sshole-flaw-exploited/": {
+    "ts": "2026-11-09T07:47:00.495881+00:00",
+    "title": "Hackers Begin Exploiting OpenSSH SSHole Authentication Bypass Vulnerability"
+  },
+  "https://gbhackers.com/sonicwall-warns-of-actively-exploited-ssl-vpn-vulnerability/": {
+    "ts": "2026-11-09T07:47:00.601366+00:00",
+    "title": "SonicWall Warns of Actively Exploited SSL-VPN Vulnerability That Bypasses SAML and MFA Protection"
+  },
+  "https://www.group-ib.com/blog/voice-deepfake-scams/": {
+    "ts": "2026-11-09T07:47:00.717771+00:00",
+    "title": "The Anatomy of a Deepfake\u202fVoice Phishing Attack: How AI-Generated Voices Are Powering the Next Wave of Scams"
+  },
+  "https://www.helpnetsecurity.com/2026/11/09/barracuda-msp-cybersecurity-services-expectations-report/": {
+    "ts": "2026-11-09T07:47:00.840001+00:00",
+    "title": "Companies seeking an MSP doubt their ability to spot cyberattacks"
+  },
+  "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html": {
+    "ts": "2026-11-09T07:47:00.941501+00:00",
+    "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation"
+  },
+  "https://www.theregister.com/systems/2026/11/09/huawei-says-its-made-a-100-percent-chinese-pc/5308335": {
+    "ts": "2026-11-09T07:47:01.057149+00:00",
+    "title": "Huawei says it\u2019s made a 100 percent Chinese PC"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/slippery-slope-winter-olympics-scams-cyberthreats/": {
+    "ts": "2026-11-09T07:47:01.057169+00:00",
+    "title": "A slippery slope: Beware of Winter Olympics scams and other cyberthreats"
+  },
+  "https://threats.wiz.io/all-incidents/cryptomining-campaign-exploiting-exposed-ray-ai-infrastructure": {
+    "ts": "2026-11-09T07:47:01.152465+00:00",
+    "title": "Cryptomining Campaign Exploiting Exposed Ray AI Infrastructure (Campaign)"
+  },
+  "https://cybersecuritynews.com/claude-ai-deletes-law-professors-entire-syllabus/": {
+    "ts": "2026-11-09T07:47:01.152488+00:00",
+    "title": "Claude AI Accidentally Deletes Law Professor\u2019s Entire Syllabus and One Year of Lecture Notes"
+  },
+  "https://gbhackers.com/critical-react-server-components-vulnerability/": {
+    "ts": "2026-11-09T07:47:01.152491+00:00",
+    "title": "Critical React Server Components Vulnerability Allows Unauthenticated Attackers to Execute Malicious Code on Servers"
+  },
+  "https://www.group-ib.com/blog/unc2891-bank-heist/": {
+    "ts": "2026-11-09T07:47:01.257252+00:00",
+    "title": "UNC2891 Bank Heist: Physical ATM Backdoor & Linux Forensic Evasion"
+  },
+  "https://www.helpnetsecurity.com/2026/11/09/elastic-businesses-remote-access-attacks-report/": {
+    "ts": "2026-11-09T07:47:01.369243+00:00",
+    "title": "An average of 8 minutes is all hackers need to log in with stolen credentials"
+  },
+  "https://threats.wiz.io/all-incidents/cisco-ise-vulnerability-exploited-as-0day-by-apt": {
+    "ts": "2026-11-09T07:47:01.490059+00:00",
+    "title": "Cisco ISE Vulnerability Exploited as 0day by APT (Campaign)"
+  },
+  "https://cybersecuritynews.com/nvidia-investigates-chinese-spy-operation/": {
+    "ts": "2026-11-09T07:47:01.596091+00:00",
+    "title": "NVIDIA Investigates Suspected Chinese Spy Operation Targeting CEO Jensen Huang"
+  },
+  "https://www.group-ib.com/blog/predictive-ai/": {
+    "ts": "2026-11-09T07:47:01.706824+00:00",
+    "title": "Predictive AI: The \u201cQuiet Catalyst\u201d Behind The Future of Cybersecurity"
+  },
+  "https://threats.wiz.io/all-incidents/unauthenticated-remote-access-via-triofox-vulnerability-exploited-by-unc6485": {
+    "ts": "2026-11-09T07:47:01.814544+00:00",
+    "title": "Unauthenticated Remote Access via Triofox Vulnerability Exploited by UNC6485 (Campaign)"
+  },
+  "https://cybersecuritynews.com/react-server-components-vulnerability-patch/": {
+    "ts": "2026-11-09T07:47:01.814566+00:00",
+    "title": "Critical React Server Components Flaw Lets Hackers Execute Code Remotely Without Authentication"
+  },
+  "https://gbhackers.com/anthropics-claude-ai-deletes-a-year-of-law-professors-lecture-notes/": {
+    "ts": "2026-11-09T07:47:01.814570+00:00",
+    "title": "Anthropic\u2019s Claude AI Deletes a Year of Law Professor\u2019s Lecture Notes During Simple Editing Task"
+  },
+  "https://www.group-ib.com/blog/pdf-tampering/": {
+    "ts": "2026-11-09T07:47:01.814572+00:00",
+    "title": "Signed, Sealed, Altered? Deepdive into PDF Tampering"
+  },
+  "https://threats.wiz.io/all-incidents/gambling-network-exploits-abandoned-subdomains": {
+    "ts": "2026-11-09T07:47:01.933824+00:00",
+    "title": "Gambling Network Exploits Abandoned Subdomains (Campaign)"
   }
 }
