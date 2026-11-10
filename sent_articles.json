@@ -1,124 +1,4 @@
 {
-  "https://threats.wiz.io/all-incidents/mirai-campaign-targeting-ivanti-products": {
-    "ts": "2026-09-11T05:50:32.117010+00:00",
-    "title": "Mirai campaign targeting Ivanti products (Campaign)"
-  },
-  "https://gbhackers.com/openmatter-network-realigns-leadership-team-to-accelerate-global-commercial-growth/": {
-    "ts": "2026-09-11T05:50:32.837968+00:00",
-    "title": "OpenMatter Network Realigns Leadership Team to Accelerate Global Commercial Growth"
-  },
-  "https://gbhackers.com/skullcandy-dime-3-bluetooth-flaw/": {
-    "ts": "2026-09-11T05:50:39.635427+00:00",
-    "title": "Skullcandy Dime 3 Bluetooth Flaw Lets Nearby Attackers Hijack Audio and Microphone"
-  },
-  "https://cybersecuritynews.com/remote-desktop-services-failures/": {
-    "ts": "2026-09-11T05:52:13.660210+00:00",
-    "title": "Remote Desktop Services Failures on Windows Servers Following September Update"
-  },
-  "https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign": {
-    "ts": "2026-09-11T05:52:13.734074+00:00",
-    "title": "Indonesia Hit by Android Banking App-Cloning Campaign"
-  },
-  "https://gbhackers.com/wordpress-blocks-high-risk-plugin-releases/": {
-    "ts": "2026-09-11T05:52:13.734089+00:00",
-    "title": "WordPress Blocks High-Risk Plugin Releases With New AI-Powered Automated Security Review"
-  },
-  "https://www.group-ib.com/blog/windows10-timeline-for-forensics/": {
-    "ts": "2026-09-11T05:52:13.734093+00:00",
-    "title": "No Time to Waste"
-  },
-  "https://www.helpnetsecurity.com/2026/09/11/ransomware-decision-tree-video/": {
-    "ts": "2026-09-11T05:52:13.734097+00:00",
-    "title": "Building a ransomware decision tree before the call comes in"
-  },
-  "https://threats.wiz.io/all-incidents/snowflake-compromised-creds-abuse-campaign": {
-    "ts": "2026-09-11T05:52:13.779255+00:00",
-    "title": "Snowflake compromised creds abuse campaign (Incident)"
-  },
-  "https://cybersecuritynews.com/skullcandy-dime-3-bluetooth-flaw/": {
-    "ts": "2026-09-11T05:52:13.824185+00:00",
-    "title": "Skullcandy Dime 3 Bluetooth Flaw Lets Nearby Attackers Hijack Audio and Spy Through Microphone"
-  },
-  "https://gbhackers.com/critical-cisco-fmc-flaws-actively-exploited/": {
-    "ts": "2026-09-11T05:52:13.868704+00:00",
-    "title": "Critical Cisco FMC Flaws Actively Exploited to Gain Root Access and Deploy Malware"
-  },
-  "https://www.group-ib.com/blog/troldesh/": {
-    "ts": "2026-09-11T05:52:13.914544+00:00",
-    "title": "50 Shades of Ransomware"
-  },
-  "https://www.helpnetsecurity.com/2026/09/11/pistachio-employee-phishing-risk-report/": {
-    "ts": "2026-09-11T05:52:13.959901+00:00",
-    "title": "Companies may be measuring phishing resilience the wrong way"
-  },
-  "https://threats.wiz.io/all-incidents/kinsing-targeting-cloud-servers": {
-    "ts": "2026-09-11T05:52:14.003688+00:00",
-    "title": "Kinsing targeting cloud servers (Campaign)"
-  },
-  "https://cybersecuritynews.com/claude-ai-agents-used-to-automate-cyberattacks/": {
-    "ts": "2026-09-11T05:52:14.051824+00:00",
-    "title": "Hackers Use Claude AI Agents to Automate Cyberattacks, Develop 0-Days and Evade Detection"
-  },
-  "https://gbhackers.com/critical-check-point-vpn-flaws/": {
-    "ts": "2026-09-11T05:52:14.051843+00:00",
-    "title": "Critical Check Point VPN Flaws Let Unauthenticated Attackers Execute Remote Code"
-  },
-  "https://www.group-ib.com/blog/digital-forensics-tools/": {
-    "ts": "2026-09-11T05:52:14.051848+00:00",
-    "title": "Tools up: the best software and hardware tools for computer forensics"
-  },
-  "https://www.helpnetsecurity.com/2026/09/11/withsecure-salesforce-ai-trust-governance-paper/": {
-    "ts": "2026-09-11T05:52:14.051852+00:00",
-    "title": "AI is changing what Salesforce security needs to govern"
-  },
-  "https://cybersecuritynews.com/cisa-citrix-netscaler-authentication/": {
-    "ts": "2026-09-11T05:52:14.100245+00:00",
-    "title": "CISA Warns of Citrix NetScaler Authentication Bypass Vulnerability Exploited in Attacks"
-  },
-  "https://www.group-ib.com/blog/voice-kids-investigation/": {
-    "ts": "2026-09-11T05:52:14.100263+00:00",
-    "title": "Voting results of \u201cThe Voice Kids Russia Season 6\u201d"
-  },
-  "https://www.helpnetsecurity.com/2026/09/11/ubuntu-24-04-5-lts-released/": {
-    "ts": "2026-09-11T05:52:14.100269+00:00",
-    "title": "Ubuntu 24.04.5 LTS release patches security bugs across ten flavors"
-  },
-  "https://threats.wiz.io/all-incidents/atlas-lion-phishing-campaign": {
-    "ts": "2026-09-11T05:52:14.144950+00:00",
-    "title": "Atlas Lion phishing campaign (Campaign)"
-  },
-  "https://cybersecuritynews.com/passkey-themed-phishing/": {
-    "ts": "2026-09-11T05:52:14.218362+00:00",
-    "title": "Hackers Use Passkey-Themed Phishing to Hijack Microsoft 365 Accounts and Steal Cloud Data"
-  },
-  "https://gbhackers.com/litellm-ai-gateways/": {
-    "ts": "2026-09-11T05:52:14.264060+00:00",
-    "title": "Hackers Can Turn Vulnerable LiteLLM AI Gateways Into Root Access and Cloud Credential Theft"
-  },
-  "https://www.group-ib.com/blog/muddywater/": {
-    "ts": "2026-09-11T05:52:14.308012+00:00",
-    "title": "Catching fish in muddy waters"
-  },
-  "https://www.helpnetsecurity.com/2026/09/11/new-infosec-products-of-the-week-september-11-2026/": {
-    "ts": "2026-09-11T05:52:14.353875+00:00",
-    "title": "New infosec products of the week: September 11, 2026"
-  },
-  "https://threats.wiz.io/all-incidents/llmjacking-via-laravel-exploitation": {
-    "ts": "2026-09-11T05:52:14.400733+00:00",
-    "title": "LLMjacking via Laravel exploitation (Incident)"
-  },
-  "https://www.group-ib.com/blog/rtm/": {
-    "ts": "2026-09-11T05:52:14.446146+00:00",
-    "title": "Following the RTM"
-  },
-  "https://threats.wiz.io/all-incidents/utah-bathroom-bill-open-database": {
-    "ts": "2026-09-11T05:52:14.446159+00:00",
-    "title": "Utah \u201cBathroom Bill\u201d open database (Research)"
-  },
-  "https://gbhackers.com/hackers-steal-active-directory-password-hashes/": {
-    "ts": "2026-09-11T05:52:14.446164+00:00",
-    "title": "Hackers Steal Active Directory Password Hashes Without Attacking Domain Controllers Directly"
-  },
   "https://www.helpnetsecurity.com/2026/09/11/ai-agents-papercut-ng-mf-attack-campaign/": {
     "ts": "2026-09-11T10:54:16.443675+00:00",
     "title": "AI agents exploited PaperCut flaws to breach 395 organizations"
@@ -21510,5 +21390,125 @@
   "https://threats.wiz.io/all-incidents/trufflenet-campaign-exploits-aws-ses-for-large-scale-cloud-abuse-and-bec-fraud": {
     "ts": "2026-11-10T01:58:07.529637+00:00",
     "title": "TruffleNet Campaign Exploits AWS SES for Large-Scale Cloud Abuse and BEC Fraud (Campaign)"
+  },
+  "https://securelist.com/malware-report-q3-2026-mobile-statistics/121844/": {
+    "ts": "2026-11-10T09:28:41.164708+00:00",
+    "title": "IT threat evolution in Q3 2026. Mobile statistics"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/": {
+    "ts": "2026-11-10T09:30:17.557466+00:00",
+    "title": "Google patches eighth Chrome zero-day exploited in attacks this year"
+  },
+  "https://cybersecuritynews.com/malicious-ruby-gem/": {
+    "ts": "2026-11-10T09:30:17.858577+00:00",
+    "title": "Malicious Ruby Gem Steals 51 Types of Credentials and Plants Backdoors in AI Coding Tools"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut": {
+    "ts": "2026-11-10T09:30:17.858589+00:00",
+    "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India"
+  },
+  "https://gbhackers.com/fireworks-ai-hit-by-llmjacking-cyberattack/": {
+    "ts": "2026-11-10T09:30:17.858593+00:00",
+    "title": "Fireworks AI Hit by LLMJacking Cyberattack Exposing Customer Data and AI Model Weights"
+  },
+  "https://www.group-ib.com/blog/combolists-ulp-darkweb/": {
+    "ts": "2026-11-10T09:30:17.858595+00:00",
+    "title": "What Is a Combolist? How It Works, Risks, and Prevention"
+  },
+  "https://www.helpnetsecurity.com/2026/11/10/eric-fourrier-gitguardian-leaked-credentials/": {
+    "ts": "2026-11-10T09:30:17.974015+00:00",
+    "title": "What a security leader should tell the CEO about leaked credentials"
+  },
+  "https://www.recordedfuture.com/blog/intelligible-world-agents": {
+    "ts": "2026-11-10T09:30:18.083599+00:00",
+    "title": "The Intelligible World of Agents"
+  },
+  "https://rewterz.com/threat-advisory/everest-group-claims-theft-of-590gb-of-pwc-internal-data": {
+    "ts": "2026-11-10T09:30:18.193411+00:00",
+    "title": "Everest Group Claims Theft of 590GB of PwC Internal Data"
+  },
+  "https://securelist.com/malware-report-q3-2026-pc-iot-statistics/121843/": {
+    "ts": "2026-11-10T09:30:18.307804+00:00",
+    "title": "IT threat evolution in Q3 2026. Non-mobile statistics"
+  },
+  "https://securityaffairs.com/202740/data-breach/iris-ohyama-data-breach-may-expose-personal-information-of-7-7-million-people.html": {
+    "ts": "2026-11-10T09:30:18.415136+00:00",
+    "title": "Iris Ohyama data breach may expose personal information of 7.7 million people"
+  },
+  "https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/": {
+    "ts": "2026-11-10T09:30:18.527833+00:00",
+    "title": "France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators"
+  },
+  "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html": {
+    "ts": "2026-11-10T09:30:18.644279+00:00",
+    "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites"
+  },
+  "https://www.theregister.com/security/2026/11/09/attackers-backdoor-trusted-aws-integrations-to-steal-secrets/5308553": {
+    "ts": "2026-11-10T09:30:18.644287+00:00",
+    "title": "Attackers backdoor trusted AWS integrations to steal secrets"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/safe-word-what-why-need-one/": {
+    "ts": "2026-11-10T09:30:18.644290+00:00",
+    "title": "Safe word: What is it and why do you need one?"
+  },
+  "https://threats.wiz.io/all-incidents/tata-motors-hardcoded-aws-keys-and-api-tokens-exposed-": {
+    "ts": "2026-11-10T09:30:18.644292+00:00",
+    "title": "Tata Motors Hardcoded AWS Keys and API Tokens Exposed  (Research)"
+  },
+  "https://www.zscaler.com/blogs/security-research/sloppyrat-new-tool-ransomware-attacks": {
+    "ts": "2026-11-10T09:30:18.745513+00:00",
+    "title": "SloppyRAT: A New Tool For Ransomware Attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/": {
+    "ts": "2026-11-10T09:30:18.745521+00:00",
+    "title": "Fireworks AI discloses new breach after cloud provider hack"
+  },
+  "https://cybersecuritynews.com/progress-ws_ftp-server-fixes-security-vulnerabilities/": {
+    "ts": "2026-11-10T09:30:18.745524+00:00",
+    "title": "Progress WS_FTP Server Fixes 7 Security Flaws Allowing Credential Theft, Path Traversal, and Remote Attacks"
+  },
+  "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux": {
+    "ts": "2026-11-10T09:30:18.852507+00:00",
+    "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux"
+  },
+  "https://gbhackers.com/dark-storm-team-operations/": {
+    "ts": "2026-11-10T09:30:18.960744+00:00",
+    "title": "Dark Storm Team Offers DDoS Attacks, Database Dumps, and Stolen Access Through Telegram Channels"
+  },
+  "https://www.group-ib.com/blog/bioconfirm/": {
+    "ts": "2026-11-10T09:30:19.061818+00:00",
+    "title": "Authenticate Users, Secure Transactions: How BioConfirm Secures High-Stakes Banking Operations"
+  },
+  "https://www.helpnetsecurity.com/2026/11/10/abnormal-ai-behavioral-security-report/": {
+    "ts": "2026-11-10T09:30:19.180177+00:00",
+    "title": "Security teams want to spot unusual AI agent behavior while they\u2019re still defining normal"
+  },
+  "https://rewterz.com/threat-advisory/cisa-flags-actively-exploited-wordpress-core-rce-vulnerability": {
+    "ts": "2026-11-10T09:30:19.287547+00:00",
+    "title": "CISA Flags Actively Exploited WordPress Core RCE Vulnerability"
+  },
+  "https://securityaffairs.com/202730/hacking/cisa-and-the-fbi-warn-of-attacks-against-industrial-refrigeration-controllers.html": {
+    "ts": "2026-11-10T09:30:19.402317+00:00",
+    "title": "CISA and the FBI Warn Of Attacks against Industrial Refrigeration Controllers"
+  },
+  "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/": {
+    "ts": "2026-11-10T09:30:19.509522+00:00",
+    "title": "Chrome Update Patches Exploited XML Zero-Day, Eighth This Year"
+  },
+  "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html": {
+    "ts": "2026-11-10T09:30:19.509539+00:00",
+    "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark"
+  },
+  "https://www.theregister.com/security/2026/11/09/researchers-pwn-automakers-android-apps-to-remotely-unlock-cars-honk-horns/5308483": {
+    "ts": "2026-11-10T09:30:19.604913+00:00",
+    "title": "Researchers pwn automakers\u2019 Android apps to remotely unlock cars, honk horns"
+  },
+  "https://threats.wiz.io/all-incidents/iis-backdoor-exploiting-exposed-aspnet-machine-keys": {
+    "ts": "2026-11-10T09:30:19.711899+00:00",
+    "title": "IIS Backdoor Exploiting Exposed ASP.NET Machine Keys (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/": {
+    "ts": "2026-11-10T09:30:19.711912+00:00",
+    "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published"
   }
 }
