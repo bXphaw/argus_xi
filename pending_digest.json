@@ -59,6 +59,16 @@
       "category": "apt_campaign",
       "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
       "url": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html"
+    },
+    {
+      "category": "malware_android",
+      "title": "June\u2019s Dark Gift: The Rise of Qwizzserial",
+      "url": "https://www.group-ib.com/blog/rise-of-qwizzserial/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "eBPF Rootkit Targeting AWS and Linux Environments (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/ebpf-rootkit-targeting-aws-and-linux-environments"
     }
   ],
   "last_sent_date": "2026-11-10"
