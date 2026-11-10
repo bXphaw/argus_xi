@@ -1,4 +1,65 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Not All That Glitters Is Gold: Tracking CopperDragon\u2019s Sparrow Framework Around the Globe",
+      "url": "https://research.checkpoint.com/2026/not-all-that-glitters-is-gold-tracking-copperdragons-sparrow-framework-around-the-globe/"
+    },
+    {
+      "category": "malware_android",
+      "title": "Weekly Cybersecurity Newsletter \u2013 Top 50 Biggest Cybersecurity Stories of the Week",
+      "url": "https://gbhackers.com/weekly-cybersecurity-newsletter-november-2-6-2026/"
+    },
+    {
+      "category": "new_technique",
+      "title": "TeamViewer Patches High-Severity Vulnerability Enabling RCE",
+      "url": "https://rewterz.com/threat-advisory/teamviewer-patches-high-severity-vulnerability-enabling-rce"
+    },
+    {
+      "category": "new_technique",
+      "title": "iOS Sandbox Escape Is Public, and Apple Hasn\u2019t Confirmed a Fix",
+      "url": "https://securityaffairs.com/202788/hacking/ios-sandbox-escape-is-public-and-apple-hasnt-confirmed-a-fix.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "CVE-2026-109469: CVSS 10 Entra Device Registration Flaw",
+      "url": "https://socradar.io/blog/cve-2026-109469-cvss-10-entra-device-registration-flaw/"
+    },
+    {
+      "category": "new_technique",
+      "title": "N-able issues advisory on critical vulnerabilities",
+      "url": "https://www.sophos.com/en-us/blog/n-able-issues-advisory-on-critical-vulnerabilities"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "PassiveNeuron Campaign: Espionage Campaign Targeting Windows Server Environments (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/passiveneuron-campaign-espionage-campaign-targeting-windows-server-environments"
+    },
+    {
+      "category": "new_technique",
+      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Dark Web Profile: CyberXero",
+      "url": "https://socradar.io/blog/dark-web-profile-cyberxero/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
+      "url": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html"
+    }
+  ],
   "last_sent_date": "2026-11-10"
 }
