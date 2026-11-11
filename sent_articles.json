@@ -1,120 +1,4 @@
 {
-  "https://threats.wiz.io/all-incidents/meson-network-cryptojacking-campaign": {
-    "ts": "2026-09-11T23:59:36.854373+00:00",
-    "title": "Meson Network cryptojacking campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/magnet-goblin-campaign-2024": {
-    "ts": "2026-09-11T23:59:37.676027+00:00",
-    "title": "Magnet Goblin campaign (2024) (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/malware-campaign-targeting-misconfigured-servers": {
-    "ts": "2026-09-11T23:59:37.682806+00:00",
-    "title": "malware-campaign-targeting-misconfigured-servers (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/z0miner-targeting-weblogic-servers": {
-    "ts": "2026-09-11T23:59:37.709874+00:00",
-    "title": "z0Miner targeting WebLogic servers (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/zenlayer-exposed-database": {
-    "ts": "2026-09-11T23:59:49.366256+00:00",
-    "title": "Zenlayer exposed database (Research)"
-  },
-  "https://cybersecuritynews.com/cpanel-configserver-security-firewall-vulnerability/": {
-    "ts": "2026-09-12T00:00:32.865756+00:00",
-    "title": "cPanel ConfigServer Security & Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands"
-  },
-  "https://www.group-ib.com/blog/lazarus/": {
-    "ts": "2026-09-12T00:00:33.101840+00:00",
-    "title": "LAZARUS ARISEN"
-  },
-  "https://threats.wiz.io/all-incidents/unc5174-screenconnect-and-f5-big-ip-exploitation": {
-    "ts": "2026-09-12T00:00:33.286067+00:00",
-    "title": "UNC5174 ScreenConnect and F5 BIG-IP exploitation (Campaign)"
-  },
-  "https://www.group-ib.com/blog/echoes/": {
-    "ts": "2026-09-12T00:00:33.286085+00:00",
-    "title": "Echoes of cyberwar"
-  },
-  "https://threats.wiz.io/all-incidents/fujitsu-exposed-bucket": {
-    "ts": "2026-09-12T00:00:33.286090+00:00",
-    "title": "Fujitsu exposed bucket (Research)"
-  },
-  "https://www.group-ib.com/blog/hurricane/": {
-    "ts": "2026-09-12T00:00:33.286094+00:00",
-    "title": "In a Risk Group"
-  },
-  "https://threats.wiz.io/all-incidents/teamcity-exploitation": {
-    "ts": "2026-09-12T00:00:33.456895+00:00",
-    "title": "teamcity-exploitation (Campaign)"
-  },
-  "https://www.group-ib.com/blog/cron/": {
-    "ts": "2026-09-12T00:00:33.634199+00:00",
-    "title": "Cron has fallen"
-  },
-  "https://threats.wiz.io/all-incidents/vulnerability-in-aiohttp-targeted-by-shadowsyndicate": {
-    "ts": "2026-09-12T00:00:33.924547+00:00",
-    "title": "vulnerability-in-aiohttp-targeted-by-shadowsyndicate (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/from-writable-bucket-to-credential-theft": {
-    "ts": "2026-09-12T00:00:34.111404+00:00",
-    "title": "From writable bucket to credential theft (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/from-social-engineering-to-cryptocurrency-theft": {
-    "ts": "2026-09-12T00:00:34.111422+00:00",
-    "title": "From social engineering to cryptocurrency theft\u00a0 (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/cutoutpro-breach": {
-    "ts": "2026-09-12T00:00:34.111426+00:00",
-    "title": "Cutout.Pro Breach (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/pure-incubation-demandscience-breach": {
-    "ts": "2026-09-12T00:00:34.111429+00:00",
-    "title": "Pure Incubation (DemandScience) Breach (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/from-refresh-token-theft-to-global-admin": {
-    "ts": "2026-09-12T00:00:34.111432+00:00",
-    "title": "From refresh token theft to global admin (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/lucifer-botnet-targeting-apache-hadoop": {
-    "ts": "2026-09-12T00:00:34.302140+00:00",
-    "title": "lucifer-botnet-targeting-apache-hadoop (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/us-doi-pii-exfiltration-pentest": {
-    "ts": "2026-09-12T00:00:34.302160+00:00",
-    "title": "US DOI PII exfiltration pentest (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/s3-ransomware-scam": {
-    "ts": "2026-09-12T00:00:34.480788+00:00",
-    "title": "S3 ransomware scam (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/migo-cryptominer-targeting-redis": {
-    "ts": "2026-09-12T00:00:34.666244+00:00",
-    "title": "Migo cryptominer targeting Redis (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/ssh-snake-confluence-targeting-campaign": {
-    "ts": "2026-09-12T00:00:34.848499+00:00",
-    "title": "SSH-Snake Confluence targeting campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/winstar-exposed-app-database": {
-    "ts": "2026-09-12T00:00:34.848518+00:00",
-    "title": "WinStar exposed app database (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/bmw-exposed-cloud-storage": {
-    "ts": "2026-09-12T00:00:34.849094+00:00",
-    "title": "BMW exposed cloud storage (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/us-internet-exposed-email-server": {
-    "ts": "2026-09-12T00:00:34.849104+00:00",
-    "title": "U.S. Internet exposed email server (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/microsoft-smartscreen-vulnerability-exploited-by-water-hydra": {
-    "ts": "2026-09-12T00:00:35.032920+00:00",
-    "title": "Microsoft Smartscreen Vulnerability Exploited by Water Hydra (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/cgi-federal-incident": {
-    "ts": "2026-09-12T00:00:35.218372+00:00",
-    "title": "CGI Federal incident (Incident)"
-  },
   "https://threats.wiz.io/all-incidents/wrk-exposed-database": {
     "ts": "2026-09-12T04:24:36.086201+00:00",
     "title": "wrk-exposed-database (Research)"
@@ -21270,5 +21154,125 @@
   "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them": {
     "ts": "2026-11-10T23:01:29.710183+00:00",
     "title": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/": {
+    "ts": "2026-11-11T02:42:48.204521+00:00",
+    "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day"
+  },
+  "https://gbhackers.com/quboles-trusted-aws-access/": {
+    "ts": "2026-11-11T02:42:58.124864+00:00",
+    "title": "Hackers Abuse Qubole\u2019s Trusted AWS Access to Breach Multiple Cloud Accounts and Steal Sensitive Data"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/": {
+    "ts": "2026-11-11T02:44:29.512041+00:00",
+    "title": "Hackers exploit trusted AWS access to breach multiple cloud environments"
+  },
+  "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/": {
+    "ts": "2026-11-11T02:44:29.512061+00:00",
+    "title": "Microsoft Patch Tuesday for November 2026 \u2014 Snort rules and prominent vulnerabilities"
+  },
+  "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/": {
+    "ts": "2026-11-11T02:44:29.512066+00:00",
+    "title": "November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities"
+  },
+  "https://cybersecuritynews.com/outlook-0-day-vulnerability/": {
+    "ts": "2026-11-11T02:44:29.512070+00:00",
+    "title": "Microsoft Confirms Hackers Are Exploiting Outlook 0-Day to Steal Windows Authentication Hashes"
+  },
+  "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer": {
+    "ts": "2026-11-11T02:44:29.512073+00:00",
+    "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer"
+  },
+  "https://gbhackers.com/offsec-celebrates-20-years-of-practitioner-built-training-from-the-creators-of-kali-linux-and-oscp/": {
+    "ts": "2026-11-11T02:44:29.731273+00:00",
+    "title": "OffSec Celebrates 20 Years of Practitioner-Built Training From the Creators of Kali Linux and OSCP"
+  },
+  "https://www.group-ib.com/blog/declaration-trap/": {
+    "ts": "2026-11-11T02:44:29.952548+00:00",
+    "title": "Declaration trap: Crypto Drainers masquerading as European Tax Authorities"
+  },
+  "https://www.helpnetsecurity.com/2026/11/10/anthropic-claude-fable-and-mythos-5-2-safeguards/": {
+    "ts": "2026-11-11T02:44:30.167020+00:00",
+    "title": "Claude Mythos 5.2 arrives with stronger bug hunting and less sandbox-breaking behavior"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/": {
+    "ts": "2026-11-11T02:44:30.382866+00:00",
+    "title": "Detecting sleeper agents hiding in AI model neurons"
+  },
+  "https://www.rapid7.com/blog/post/em-patch-tuesday-november-2026": {
+    "ts": "2026-11-11T02:44:30.615281+00:00",
+    "title": "Patch Tuesday - November 2026"
+  },
+  "https://securityaffairs.com/202717/malware/fake-github-security-tools-infect-over-2000-pcs-with-malware.html": {
+    "ts": "2026-11-11T02:44:30.836284+00:00",
+    "title": "Fake GitHub Security Tools Infect Over 2,000 PCs With Malware"
+  },
+  "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/": {
+    "ts": "2026-11-11T02:44:30.836306+00:00",
+    "title": "Today: CISO Forum Virtual Summit 2026 \u2013 Join Global Cybersecurity Leaders"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html": {
+    "ts": "2026-11-11T02:44:31.054020+00:00",
+    "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access"
+  },
+  "https://www.theregister.com/security/2026/11/10/barracudas-email-security-gateways-bitten-by-make-me-root-vulns/5308883": {
+    "ts": "2026-11-11T02:44:31.054042+00:00",
+    "title": "Barracuda\u2019s email security gateways bitten by make-me-root vulns"
+  },
+  "https://threats.wiz.io/all-incidents/supply-chain-risk-in-axis-autodesk-revit-plugin-due-to-exposed-azure-storage-credentials-and-revit-rce-vulnerabilities": {
+    "ts": "2026-11-11T02:44:31.277550+00:00",
+    "title": "Supply Chain Risk in Axis Autodesk Revit Plugin Due to Exposed Azure Storage Credentials and Revit RCE Vulnerabilities (Research)"
+  },
+  "https://cybersecuritynews.com/ivanti-security-flaws/": {
+    "ts": "2026-11-11T02:44:31.277570+00:00",
+    "title": "Ivanti Patches New Security Flaws Affecting Endpoint Manager, EPMM, Sentry, CSA, and Workspace Manager"
+  },
+  "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness": {
+    "ts": "2026-11-11T02:44:31.277574+00:00",
+    "title": "How to Assess OT Incident Response Preparedness"
+  },
+  "https://gbhackers.com/finite-state-raises-27-million-to-help-device-makers-fight-vulnpocalypse-with-ai-powered-product-security/": {
+    "ts": "2026-11-11T02:44:31.277577+00:00",
+    "title": "Finite State Raises $27 Million to Help Device Makers Fight \u2018Vulnpocalypse\u2019 with AI-Powered Product Security"
+  },
+  "https://www.group-ib.com/blog/colombian-cybertrap/": {
+    "ts": "2026-11-11T02:44:31.277580+00:00",
+    "title": "Disguised Cyber Risks On The Colombian Shore: The Insurance Trap"
+  },
+  "https://www.helpnetsecurity.com/2026/11/10/windows-settings-backup-default/": {
+    "ts": "2026-11-11T02:44:31.277583+00:00",
+    "title": "Windows settings backup is on by default starting with Windows 11 26H2"
+  },
+  "https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/": {
+    "ts": "2026-11-11T02:44:31.497737+00:00",
+    "title": "WhiteMatter Raises $20 Million in Series A Funding"
+  },
+  "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html": {
+    "ts": "2026-11-11T02:44:31.717995+00:00",
+    "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem"
+  },
+  "https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722": {
+    "ts": "2026-11-11T02:44:31.943818+00:00",
+    "title": "Fireworks AI gets burned twice as customer data exposure widens"
+  },
+  "https://threats.wiz.io/all-incidents/crimson-collective-claims-theft-of-customer-data-from-red-hat": {
+    "ts": "2026-11-11T02:44:32.163492+00:00",
+    "title": "\u201cCrimson Collective\u201d Claims Theft of Customer Data from Red Hat (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/": {
+    "ts": "2026-11-11T02:44:32.384272+00:00",
+    "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released"
+  },
+  "https://cybersecuritynews.com/barracuda-email-gateway-flaws/": {
+    "ts": "2026-11-11T02:44:32.600727+00:00",
+    "title": "Barracuda Confirms Active Exploitation of Email Gateway Flaws Allowing Root Access"
+  },
+  "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github": {
+    "ts": "2026-11-11T02:44:32.600747+00:00",
+    "title": "AI Coding Agents Leak Thousands of Secrets to GitHub"
+  },
+  "https://www.group-ib.com/blog/pam-harvesting-insight/": {
+    "ts": "2026-11-11T02:44:32.816806+00:00",
+    "title": "Understanding Credential Harvesting via PAM: A Real-World Threat"
   }
 }

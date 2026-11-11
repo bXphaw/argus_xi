@@ -69,6 +69,36 @@
       "category": "malware_linux",
       "title": "eBPF Rootkit Targeting AWS and Linux Environments (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/ebpf-rootkit-targeting-aws-and-linux-environments"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Fake GitHub Security Tools Infect Over 2,000 PCs With Malware",
+      "url": "https://securityaffairs.com/202717/malware/fake-github-security-tools-infect-over-2000-pcs-with-malware.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Supply Chain Risk in Axis Autodesk Revit Plugin Due to Exposed Azure Storage Credentials and Revit RCE Vulnerabilities (Research)",
+      "url": "https://threats.wiz.io/all-incidents/supply-chain-risk-in-axis-autodesk-revit-plugin-due-to-exposed-azure-storage-credentials-and-revit-rce-vulnerabilities"
+    },
+    {
+      "category": "new_technique",
+      "title": "Barracuda Confirms Active Exploitation of Email Gateway Flaws Allowing Root Access",
+      "url": "https://cybersecuritynews.com/barracuda-email-gateway-flaws/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Understanding Credential Harvesting via PAM: A Real-World Threat",
+      "url": "https://www.group-ib.com/blog/pam-harvesting-insight/"
     }
   ],
   "last_sent_date": "2026-11-10"
