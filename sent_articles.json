@@ -1,240 +1,4 @@
 {
-  "https://threats.wiz.io/all-incidents/wrk-exposed-database": {
-    "ts": "2026-09-12T04:24:36.086201+00:00",
-    "title": "wrk-exposed-database (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/almerys-incident": {
-    "ts": "2026-09-12T04:24:36.823312+00:00",
-    "title": "Almerys incident (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/viamedis-incident": {
-    "ts": "2026-09-12T04:24:36.853100+00:00",
-    "title": "Viamedis incident (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/c3pool-mining-via-confluence-vulnerability": {
-    "ts": "2026-09-12T04:24:36.874927+00:00",
-    "title": "C3Pool mining via Confluence vulnerability (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/windows-smartscreen-vulnerability-exploited-by-mispadu-trojan": {
-    "ts": "2026-09-12T04:24:37.719081+00:00",
-    "title": "Windows SmartScreen vulnerability exploited by Mispadu trojan (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/commando-cat-campaign": {
-    "ts": "2026-09-12T04:24:39.284187+00:00",
-    "title": "Commando Cat campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/mimo-cryptomining-campaign": {
-    "ts": "2026-09-12T04:24:45.111648+00:00",
-    "title": "Mimo cryptomining campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/9hits-docker-campaign": {
-    "ts": "2026-09-12T04:24:45.131325+00:00",
-    "title": "9hits Docker campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/tensorflow-github-misconfiguration": {
-    "ts": "2026-09-12T04:24:45.915521+00:00",
-    "title": "TensorFlow GitHub misconfiguration (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/pytorch-github-misconfiguration": {
-    "ts": "2026-09-12T04:24:45.941985+00:00",
-    "title": "PyTorch GitHub misconfiguration (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/dreambus-campaign-2023": {
-    "ts": "2026-09-12T04:24:46.588246+00:00",
-    "title": "Dreambus campaign (2023) (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/fbot-toolkit-targets-cloud-environments": {
-    "ts": "2026-09-12T04:24:46.598565+00:00",
-    "title": "FBot toolkit targets cloud environments (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/ivanti-connect-secure-targeting-campaign": {
-    "ts": "2026-09-12T04:24:46.645429+00:00",
-    "title": "Ivanti Connect Secure targeting campaign (Campaign)"
-  },
-  "https://cybersecuritynews.com/openai-agents-flood-rubygems/": {
-    "ts": "2026-09-12T04:24:51.655276+00:00",
-    "title": "OpenAI Agents Flood RubyGems With 2,000 Packages and Exploit Build System for RCE"
-  },
-  "https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/": {
-    "ts": "2026-09-12T04:24:51.655296+00:00",
-    "title": "Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says"
-  },
-  "https://threats.wiz.io/all-incidents/juniper-support-portal-exposure": {
-    "ts": "2026-09-12T04:24:51.655753+00:00",
-    "title": "Juniper support portal exposure (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/cryptojacking-via-azure-batch": {
-    "ts": "2026-09-12T04:24:51.843588+00:00",
-    "title": "Cryptojacking via Azure Batch (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/football-australia-exposed-cloud-key": {
-    "ts": "2026-09-12T04:24:51.843606+00:00",
-    "title": "Football Australia exposed cloud key (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/cloudflare-incident-following-okta-breach": {
-    "ts": "2026-09-12T04:24:51.843610+00:00",
-    "title": "Cloudflare incident following Okta breach (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/new-relic-incident-november-2023": {
-    "ts": "2026-09-12T04:24:51.843613+00:00",
-    "title": "New Relic incident (November 2023) (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/dangerdev-ses-abuse-incident": {
-    "ts": "2026-09-12T04:24:51.843616+00:00",
-    "title": "DangerDev SES abuse incident (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/trigona-ransomware-infecting-misconfigured-mssql-servers": {
-    "ts": "2026-09-12T04:24:52.032182+00:00",
-    "title": "trigona-ransomware-infecting-misconfigured-mssql-servers (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/mercedes-benz-source-code-exposure": {
-    "ts": "2026-09-12T04:24:52.032201+00:00",
-    "title": "Mercedes-Benz source code exposure (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/ecs-fargate-cryptojacking": {
-    "ts": "2026-09-12T04:24:52.228369+00:00",
-    "title": "ECS Fargate cryptojacking (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/s3-data-exfiltration": {
-    "ts": "2026-09-12T04:24:52.417579+00:00",
-    "title": "S3 data exfiltration (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/microsoft-email-exfiltration-by-nobelium": {
-    "ts": "2026-09-12T04:24:52.608634+00:00",
-    "title": "Microsoft email exfiltration by Nobelium (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/from-activemq-to-godzilla-webshell": {
-    "ts": "2026-09-12T04:24:52.798228+00:00",
-    "title": "From ActiveMQ to Godzilla webshell (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/androxgh0st-usage-2024": {
-    "ts": "2026-09-12T04:24:52.997648+00:00",
-    "title": "AndroxGh0st usage (2024) (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/s3-ransomop-following-long-term-key-exposure": {
-    "ts": "2026-09-12T04:24:53.186347+00:00",
-    "title": "S3 RansomOp following long-term key exposure (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/sliver-deployment-via-confluence--vulnerability": {
-    "ts": "2026-09-12T09:07:06.910863+00:00",
-    "title": "Sliver deployment via Confluence\n  vulnerability (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/apache-app-cryptojacking-campaign": {
-    "ts": "2026-09-12T09:07:10.327697+00:00",
-    "title": "Apache app cryptojacking campaign (Campaign)"
-  },
-  "https://gbhackers.com/openai-agents-flood-rubygems-with-2000-packages/": {
-    "ts": "2026-09-12T09:07:10.394661+00:00",
-    "title": "OpenAI Agents Flood RubyGems With 2,000 Packages and Exploit Build System for RCE"
-  },
-  "https://gbhackers.com/cisa-warns-of-critical-gitlab-vulnerability-exploited-in-attacks/": {
-    "ts": "2026-09-12T09:07:11.198615+00:00",
-    "title": "CISA Warns of Critical GitLab Vulnerability Exploited in Attacks"
-  },
-  "https://threats.wiz.io/all-incidents/apt29-teamcity-campaign": {
-    "ts": "2026-09-12T09:07:12.643879+00:00",
-    "title": "APT29 TeamCity campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/krasue-thailand-campaign": {
-    "ts": "2026-09-12T09:07:14.091387+00:00",
-    "title": "Krasue Thailand campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/gotitan-activemq-campaign": {
-    "ts": "2026-09-12T09:07:14.819045+00:00",
-    "title": "GoTitan ActiveMQ campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/oracleiv-campaign": {
-    "ts": "2026-09-12T09:07:17.596069+00:00",
-    "title": "OracleIV campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/okta-support-system-supply-chain-attack": {
-    "ts": "2026-09-12T09:07:19.016973+00:00",
-    "title": "Okta support system supply chain attack (Incident)"
-  },
-  "https://cybersecuritynews.com/cisa-gitlab-path-traversal/": {
-    "ts": "2026-09-12T09:07:48.963597+00:00",
-    "title": "CISA Warns of GitLab Path Traversal Vulnerability Exploited in Attacks"
-  },
-  "https://gbhackers.com/threat-actors-use-claude-ai-agents-to-automate-cyberattacks-and-steal-sensitive-data/": {
-    "ts": "2026-09-12T09:07:49.194840+00:00",
-    "title": "Threat Actors Use Claude AI Agents to Automate Cyberattacks and Steal Sensitive Data"
-  },
-  "https://gbhackers.com/china-linked-hackers-chain-chrome-zero-day/": {
-    "ts": "2026-09-12T09:07:49.420040+00:00",
-    "title": "China-Linked Hackers Chain Chrome Zero-Day With Windows Kernel Flaw in Attacks"
-  },
-  "https://threats.wiz.io/all-incidents/returgence-campaign-targeting-mssql-servers-with-ransomware": {
-    "ts": "2026-09-12T09:07:49.644507+00:00",
-    "title": "returgence-campaign-targeting-mssql-servers-with-ransomware (Campaign)"
-  },
-  "https://gbhackers.com/new-phishing-campaign-abuses-windows-mshta-exe/": {
-    "ts": "2026-09-12T09:07:49.871430+00:00",
-    "title": "New Phishing Campaign Abuses Windows Mshta.exe to Steal Credentials and Secrets"
-  },
-  "https://threats.wiz.io/all-incidents/cyber-toufan-linux-destruction": {
-    "ts": "2026-09-12T09:07:50.095685+00:00",
-    "title": "Cyber Toufan Linux destruction (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/cloud-lateral-movement-via-citrix-cookie": {
-    "ts": "2026-09-12T09:07:50.328872+00:00",
-    "title": "Cloud lateral movement via Citrix cookie (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/gambleforce-sql-injection-campaign": {
-    "ts": "2026-09-12T09:07:50.557518+00:00",
-    "title": "GambleForce SQL injection campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/oauth-applications-to-deploy-vms-for-cryptomining": {
-    "ts": "2026-09-12T09:07:50.794429+00:00",
-    "title": "OAuth applications to deploy VMs for cryptomining (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/first-republic-bank-incident": {
-    "ts": "2026-09-12T09:07:50.794448+00:00",
-    "title": "First Republic Bank incident (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/package-hijacking-redteam-op": {
-    "ts": "2026-09-12T09:07:51.025640+00:00",
-    "title": "Package hijacking redteam op (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/line-and-naver-cloud-incident": {
-    "ts": "2026-09-12T09:07:51.025659+00:00",
-    "title": "LINE and NAVER Cloud incident (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/andariel-exploiting-apache-activemq": {
-    "ts": "2026-09-12T09:07:51.259826+00:00",
-    "title": "Andariel exploiting Apache ActiveMQ (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/cryptojacking-against-apache-servers-with-cobalt-strike": {
-    "ts": "2026-09-12T09:07:51.485056+00:00",
-    "title": "cryptojacking-against-apache-servers-with-cobalt-strike (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/confluence-targeting-by-c3rb3r": {
-    "ts": "2026-09-12T09:07:51.710524+00:00",
-    "title": "Confluence targeting by C3RB3R (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/sumologic-breach": {
-    "ts": "2026-09-12T09:07:51.710543+00:00",
-    "title": "sumologic-breach (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/elektra-leak": {
-    "ts": "2026-09-12T09:07:51.934890+00:00",
-    "title": "EleKtra-Leak (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/qubitstrike-crypto-mining-and-rootkit-campaign": {
-    "ts": "2026-09-12T09:07:52.159418+00:00",
-    "title": "Qubitstrike Crypto Mining and Rootkit Campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/cloud-tools-imitation-campaign": {
-    "ts": "2026-09-12T09:07:52.390966+00:00",
-    "title": "Cloud tools imitation campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/sql-server-to-cloud-lateral-movement": {
-    "ts": "2026-09-12T09:07:52.618333+00:00",
-    "title": "SQL Server to cloud lateral movement (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/darkbeam-data-exposure": {
-    "ts": "2026-09-12T09:07:52.618353+00:00",
-    "title": "Darkbeam data exposure (Research)"
-  },
   "https://threats.wiz.io/all-incidents/scattered-spider-saas-targeting": {
     "ts": "2026-09-12T13:27:28.962043+00:00",
     "title": "Scattered Spider SaaS targeting (Campaign)"
@@ -21274,5 +21038,125 @@
   "https://www.group-ib.com/blog/pam-harvesting-insight/": {
     "ts": "2026-11-11T02:44:32.816806+00:00",
     "title": "Understanding Credential Harvesting via PAM: A Real-World Threat"
+  },
+  "https://cybersecuritynews.com/best-audit-management-software/": {
+    "ts": "2026-11-11T10:31:51.821866+00:00",
+    "title": "Top 10 Best Audit Management Software in 2026 [Ranked & Scored]"
+  },
+  "https://asec.ahnlab.com/en/96481/": {
+    "ts": "2026-11-11T10:33:28.557958+00:00",
+    "title": "Ransom & Dark Web Issues Week 2, November 2026"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/": {
+    "ts": "2026-11-11T10:33:28.658394+00:00",
+    "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks"
+  },
+  "https://cybersecuritynews.com/fake-chrome-certificate/": {
+    "ts": "2026-11-11T10:33:28.692635+00:00",
+    "title": "China-Linked Hackers Use Fake Chrome Certificate Warnings to Infect Victims With Sparrow Backdoor"
+  },
+  "https://www.darkreading.com/cyber-risk/people-are-getting-weird-about-ai": {
+    "ts": "2026-11-11T10:33:28.692653+00:00",
+    "title": "People Are Getting Weird About AI"
+  },
+  "https://gbhackers.com/ivanti-patches-critical-sql-injection-flaw/": {
+    "ts": "2026-11-11T10:33:28.692658+00:00",
+    "title": "Ivanti Patches Critical SQL Injection Flaw Allowing Remote Code Execution Without Login"
+  },
+  "https://www.group-ib.com/blog/offensive-cyber-operations-europe/": {
+    "ts": "2026-11-11T10:33:28.729834+00:00",
+    "title": "Inside The Server: 14 Months of Offensive Cyber Operations Targeting Europe"
+  },
+  "https://www.helpnetsecurity.com/2026/11/11/ubuntu-certificate-revocation-curl-openssl/": {
+    "ts": "2026-11-11T10:33:28.729851+00:00",
+    "title": "Ubuntu certificate revocation checks arrive in curl, OpenSSL is next"
+  },
+  "https://securelist.com/citrus-ransomware/121879/": {
+    "ts": "2026-11-11T10:33:28.764804+00:00",
+    "title": "Citrus Ransomware: VLESS for traffic, Sn00py for encryption, and LLMs lending a hand"
+  },
+  "https://securityaffairs.com/202839/hacking/microsoft-november-patch-tuesday-one-exploited-outlook-bug-and-30-wormable-flaws.html": {
+    "ts": "2026-11-11T10:33:28.764820+00:00",
+    "title": "Microsoft November Patch Tuesday: one exploited Outlook bug and 30 wormable flaws"
+  },
+  "https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/": {
+    "ts": "2026-11-11T10:33:28.764825+00:00",
+    "title": "Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities"
+  },
+  "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html": {
+    "ts": "2026-11-11T10:33:28.797523+00:00",
+    "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006": {
+    "ts": "2026-11-11T10:33:28.829746+00:00",
+    "title": "OpenAI builds a kill switch for its research models"
+  },
+  "https://www.welivesecurity.com/en/eset-research/exchange-for-breakfast-turlas-cereal-tricks-are-not-for-kids/": {
+    "ts": "2026-11-11T10:33:28.863442+00:00",
+    "title": "Exchange for breakfast: Turla\u2019s Cereal tricks are not for kids"
+  },
+  "https://threats.wiz.io/all-incidents/cl0p-extortion-campaign-claims-theft-via-oracle-e-business-suite": {
+    "ts": "2026-11-11T10:33:28.896212+00:00",
+    "title": "Cl0p Extortion Campaign Claims Theft via Oracle E-Business Suite (Campaign)"
+  },
+  "https://asec.ahnlab.com/en/96477/": {
+    "ts": "2026-11-11T10:33:28.930621+00:00",
+    "title": "Analysis of Wpcdoor Attack Cases Spread via Korea-Based DVR Management Software"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/": {
+    "ts": "2026-11-11T10:33:28.930635+00:00",
+    "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates"
+  },
+  "https://cybersecuritynews.com/best-security-policy-management/": {
+    "ts": "2026-11-11T10:33:28.930640+00:00",
+    "title": "Top 10 Best Security Policy Management Tools in 2026 [Ranked & Scored]"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure": {
+    "ts": "2026-11-11T10:33:28.930643+00:00",
+    "title": "NIST: Solo Shouldn't Mean Less Secure"
+  },
+  "https://gbhackers.com/corelight-reveals-ai-security/": {
+    "ts": "2026-11-11T10:33:28.964366+00:00",
+    "title": "Corelight Warns AI Agents Can Silently Run Unreviewed Code With Privileged Access to Enterprise Networks"
+  },
+  "https://www.group-ib.com/blog/cyber-integration-mistakes/": {
+    "ts": "2026-11-11T10:33:28.964380+00:00",
+    "title": "How To Avoid Critical Integration Mistakes In Your Cybersecurity Stack"
+  },
+  "https://www.helpnetsecurity.com/2026/11/11/aurimas-bakas-copla-cra-vulnerability-reporting/": {
+    "ts": "2026-11-11T10:33:28.996816+00:00",
+    "title": "The Cyber Resilience Act clock doesn\u2019t stop for weekends"
+  },
+  "https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/": {
+    "ts": "2026-11-11T10:33:29.029830+00:00",
+    "title": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD"
+  },
+  "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html": {
+    "ts": "2026-11-11T10:33:29.064653+00:00",
+    "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges"
+  },
+  "https://www.theregister.com/security/2026/11/10/chrome-zero-day-whack-a-mole-continues-as-2026-tally-hits-8/5308732": {
+    "ts": "2026-11-11T10:33:29.096936+00:00",
+    "title": "Chrome zero-day whack-a-mole continues as 2026 tally hits 8"
+  },
+  "https://threats.wiz.io/all-incidents/renewed-arcanedoor-campaign-targeting-0-day-vulnerabilities-in-cisco-asa": {
+    "ts": "2026-11-11T10:33:29.129457+00:00",
+    "title": "Renewed \"ArcaneDoor\" Campaign Targeting 0-day Vulnerabilities in Cisco ASA (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/": {
+    "ts": "2026-11-11T10:33:29.129470+00:00",
+    "title": "Ransomware recovery is now a client retention metric"
+  },
+  "https://gbhackers.com/notion-ai-data-breach-exposes-customer-chat-transcripts/": {
+    "ts": "2026-11-11T10:33:29.129474+00:00",
+    "title": "Notion AI Data Breach Exposes Customer Chat Transcripts After Third-Party Fireworks AI Cyberattack"
+  },
+  "https://www.group-ib.com/blog/ransomware-debris/": {
+    "ts": "2026-11-11T10:33:29.164519+00:00",
+    "title": "Ransomware debris: an analysis of the RansomHub operation"
+  },
+  "https://www.helpnetsecurity.com/2026/11/11/flat-security-budget-video/": {
+    "ts": "2026-11-11T10:33:29.164574+00:00",
+    "title": "A CISO\u2019s guide to trimming waste from a flat security budget"
   }
 }
