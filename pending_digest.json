@@ -1,4 +1,40 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "threat_actor",
+      "title": "CERT-In\u2019s CRAFTY FALCON Advisory: AI Is the Accelerant, Your Payment APIs Are the Target",
+      "url": "https://cyble.com/blog/crafty-falcon-ai-assisted-financial-threat-actor/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Advertise a $1,000 Gmail Tool That Allegedly Survives Password Resets",
+      "url": "https://securityaffairs.com/202853/malware/hackers-advertise-a-1000-gmail-tool-that-allegedly-survives-password-resets.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical Xen Orchestra Flaws Exploited in Attacks",
+      "url": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "BRICKSTORM Espionage Backdoor Targeting U.S. Tech and Legal Sectors (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/brickstorm-espionage-backdoor-targeting-us-tech-and-legal-sectors"
+    },
+    {
+      "category": "malware_other",
+      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Beyond the Signature: How Attackers Hide Malware in PE Certificate Tables",
+      "url": "https://www.morphisec.com/blog/beyond-the-signature-how-attackers-hide-malware-in-pe-certificate-tables/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+      "url": "https://thehackernews.com/2026/09/contagious-interview-campaign.html#new_tab"
+    }
+  ],
   "last_sent_date": "2026-11-11"
 }
