@@ -1,8 +1,4 @@
 {
-  "https://securityaffairs.com/198980/breaking-news/security-affairs-malware-newsletter-round-114.html": {
-    "ts": "2026-09-13T18:38:33.738346+00:00",
-    "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 114"
-  },
   "https://asec.ahnlab.com/en/95390/": {
     "ts": "2026-09-14T04:42:28.919678+00:00",
     "title": "August 2026 Dark Web Threat Actor Trend Report"
@@ -21014,5 +21010,125 @@
   "https://www.helpnetsecurity.com/2026/11/12/europol-operation-endgame-malware-takedown/": {
     "ts": "2026-11-12T18:02:49.388885+00:00",
     "title": "Operation Endgame malware takedown turns up over 6 million stolen logins"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/": {
+    "ts": "2026-11-12T23:32:50.782581+00:00",
+    "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks"
+  },
+  "https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/": {
+    "ts": "2026-11-12T23:32:50.782600+00:00",
+    "title": "Never be afraid to ask questions"
+  },
+  "https://cybersecuritynews.com/microsoft-teams-outagenorth-america/": {
+    "ts": "2026-11-12T23:32:50.782604+00:00",
+    "title": "Microsoft Teams Outage Hits Users in North America"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox": {
+    "ts": "2026-11-12T23:32:50.782608+00:00",
+    "title": "Cyber Experts Weigh In: How to Fight Artex &amp; AntiFox"
+  },
+  "https://gbhackers.com/cruciferra-malware-attacks/": {
+    "ts": "2026-11-12T23:32:50.879339+00:00",
+    "title": "ESET Blocks Over 700,000 Cruciferra Malware Attacks Using Advanced Encryption to Evade Antivirus Detection"
+  },
+  "https://www.group-ib.com/blog/unmasking-the-classiscam-in-central-asia/": {
+    "ts": "2026-11-12T23:32:50.879357+00:00",
+    "title": "Unmasking the Classiscam in Central Asia"
+  },
+  "https://www.helpnetsecurity.com/2026/11/13/fake-zillow-clickfix-netsupport-rat/": {
+    "ts": "2026-11-12T23:32:50.981424+00:00",
+    "title": "Fake Zillow pages use ClickFix NetSupport RAT to target apartment hunters"
+  },
+  "https://www.malwarebytes.com/blog/mobile/2026/11/why-scammers-want-you-to-allow-notifications": {
+    "ts": "2026-11-12T23:32:50.981442+00:00",
+    "title": "Why scammers want you to allow push notifications"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/": {
+    "ts": "2026-11-12T23:32:51.079364+00:00",
+    "title": "Trained to betray: How post-training supply chain attacks hijack coding agents"
+  },
+  "https://www.morphisec.com/blog/your-newest-privileged-insider-doesnt-have-a-badge-it-has-an-api-key/": {
+    "ts": "2026-11-12T23:32:51.079382+00:00",
+    "title": "Your newest privileged insider doesn\u2019t have a badge. It has an API key"
+  },
+  "https://securityaffairs.com/202941/security/the-school-bomb-threats-came-from-accounts-already-in-stolen-data.html": {
+    "ts": "2026-11-12T23:32:51.184379+00:00",
+    "title": "The School Bomb Threats Came From Accounts Already in Stolen Data"
+  },
+  "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/": {
+    "ts": "2026-11-12T23:32:51.294941+00:00",
+    "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams"
+  },
+  "https://www.silentpush.com/white-papers-and-reports/proactively-defending-financial-institutions-against-north-korean-remote-it-workers/": {
+    "ts": "2026-11-12T23:32:51.397302+00:00",
+    "title": "Proactively Defending Financial Institutions Against North Korean Remote IT Workers"
+  },
+  "https://socradar.io/blog/dark-web-profile-n0n-ransomware/": {
+    "ts": "2026-11-12T23:32:51.503946+00:00",
+    "title": "Dark Web Profile: n0n Ransomware"
+  },
+  "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html": {
+    "ts": "2026-11-12T23:32:51.614568+00:00",
+    "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them"
+  },
+  "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500": {
+    "ts": "2026-11-12T23:32:51.614585+00:00",
+    "title": "OpenAI launches security products, tells orgs they\u2019re doomed if they don\u2019t use them"
+  },
+  "https://shattered.io/binance-shinyhunters-335-9m-lines-claim-likely-scam-2026/#new_tab": {
+    "ts": "2026-11-12T23:32:51.614589+00:00",
+    "title": "Binance Calls 335.9M-Line Leak Claim Likely Scam [2026]"
+  },
+  "https://threats.wiz.io/all-incidents/compromised-salesloft-drift-tokens-enable-data-theft-across-integrations": {
+    "ts": "2026-11-12T23:32:51.713657+00:00",
+    "title": "Compromised Salesloft Drift Tokens Enable Data Theft Across Integrations (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/": {
+    "ts": "2026-11-12T23:32:51.823929+00:00",
+    "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials"
+  },
+  "https://cybersecuritynews.com/when-attackers-move-at-ai-speed-how-can-your-soc-keep-up/": {
+    "ts": "2026-11-12T23:32:51.823945+00:00",
+    "title": "When Attackers Move at AI Speed, How Can Your SOC Keep Up?"
+  },
+  "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time": {
+    "ts": "2026-11-12T23:32:51.926257+00:00",
+    "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time"
+  },
+  "https://gbhackers.com/global-scam-networks/": {
+    "ts": "2026-11-12T23:32:52.027249+00:00",
+    "title": "Global Scam Networks Use AI, Deepfakes, and Crypto to Steal Billions From Victims, FATF Warns"
+  },
+  "https://www.group-ib.com/blog/hunting-rituals-5/": {
+    "ts": "2026-11-12T23:32:52.138330+00:00",
+    "title": "Hunting Rituals #5: Why hypothesis-based threat hunting is essential in cybersecurity"
+  },
+  "https://www.helpnetsecurity.com/2026/11/13/postgresql-security-update-november-2026/": {
+    "ts": "2026-11-12T23:32:52.239641+00:00",
+    "title": "PostgreSQL security update fixes 52 vulnerabilities, ends support for PostgreSQL 14"
+  },
+  "https://securityaffairs.com/202932/security/microsoft-cloud-outage-hits-outlook-teams-copilot-and-ai-services.html": {
+    "ts": "2026-11-12T23:32:52.335286+00:00",
+    "title": "Microsoft Cloud Outage Hits Outlook, Teams, Copilot and AI Services"
+  },
+  "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/": {
+    "ts": "2026-11-12T23:32:52.335302+00:00",
+    "title": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities"
+  },
+  "https://www.silentpush.com/news/singapore-imda-spark-programme/": {
+    "ts": "2026-11-12T23:32:52.436147+00:00",
+    "title": "Silent Push Joins Singapore's IMDA Spark Programme"
+  },
+  "https://socradar.io/blog/socradar-microsoft-ignite-2026-sentinel-connectors/": {
+    "ts": "2026-11-12T23:32:52.436164+00:00",
+    "title": "SOCRadar Featured in Microsoft\u2019s Ignite 2026 Sentinel Connectors"
+  },
+  "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html": {
+    "ts": "2026-11-12T23:32:52.536858+00:00",
+    "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories"
+  },
+  "https://www.theregister.com/security/2026/11/12/lego-marketplace-bricklink-in-pieces-after-unusual-activity-takes-it-offline-for-almost-a-week/5309425": {
+    "ts": "2026-11-12T23:32:52.536876+00:00",
+    "title": "Lego marketplace BrickLink in pieces after 'unusual activity' takes it offline for almost a week"
   }
 }

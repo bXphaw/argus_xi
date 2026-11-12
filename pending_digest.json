@@ -44,6 +44,46 @@
       "category": "new_technique",
       "title": "CISA Warns of Actively Exploited Microsoft Outlook Zero-Day Vulnerability",
       "url": "https://gbhackers.com/cisa-warns-of-microsoft-outlook-zero-day-vulnerability/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "ESET Blocks Over 700,000 Cruciferra Malware Attacks Using Advanced Encryption to Evade Antivirus Detection",
+      "url": "https://gbhackers.com/cruciferra-malware-attacks/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Fake Zillow pages use ClickFix NetSupport RAT to target apartment hunters",
+      "url": "https://www.helpnetsecurity.com/2026/11/13/fake-zillow-clickfix-netsupport-rat/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Trained to betray: How post-training supply chain attacks hijack coding agents",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Compromised Salesloft Drift Tokens Enable Data Theft Across Integrations (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/compromised-salesloft-drift-tokens-enable-data-theft-across-integrations"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Silent Push Joins Singapore's IMDA Spark Programme",
+      "url": "https://www.silentpush.com/news/singapore-imda-spark-programme/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+      "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html"
     }
   ],
   "last_sent_date": "2026-11-12"
