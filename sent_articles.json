@@ -20822,5 +20822,125 @@
   "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html": {
     "ts": "2026-11-12T01:25:38.099084+00:00",
     "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords"
+  },
+  "https://cybersecuritynews.com/best-maturity-assessment-tools/": {
+    "ts": "2026-11-12T09:30:54.988260+00:00",
+    "title": "Top 10 Best Cybersecurity Maturity Assessment Tools in 2026 [Ranked & Scored]"
+  },
+  "https://asec.ahnlab.com/en/96495/": {
+    "ts": "2026-11-12T09:32:31.398797+00:00",
+    "title": "Beware of phishing emails disguised as quote requests (SnakeKeylogger)"
+  },
+  "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/": {
+    "ts": "2026-11-12T09:32:31.398829+00:00",
+    "title": "eMudhra revokes 8 more CA certificates after private key mishap"
+  },
+  "https://cybersecuritynews.com/github-accounts/": {
+    "ts": "2026-11-12T09:32:31.398834+00:00",
+    "title": "Hackers Hijack 4,837 GitHub Accounts to Target 61,764 Repositories With CI Secret-Stealing Malware"
+  },
+  "https://cyble.com/blog/can-agentic-ai-investigate-phishing-campaign/": {
+    "ts": "2026-11-12T09:32:31.398838+00:00",
+    "title": "Can Agentic AI Investigate a Phishing Campaign? Evidence Walkthrough"
+  },
+  "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack": {
+    "ts": "2026-11-12T09:32:31.560173+00:00",
+    "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack"
+  },
+  "https://gbhackers.com/adversarial-exposure-validation-tools/": {
+    "ts": "2026-11-12T09:32:31.726092+00:00",
+    "title": "12 Adversarial Exposure Validation Tools: The 2026 Buyer\u2019s Verdict Guide"
+  },
+  "https://www.group-ib.com/blog/sms-pumping/": {
+    "ts": "2026-11-12T09:32:31.885317+00:00",
+    "title": "SMS Pumping: How Criminals Turn Your Messaging Service into Their Cash Machine"
+  },
+  "https://www.helpnetsecurity.com/2026/11/12/wfx-loot-github-actions-secret-stealer/": {
+    "ts": "2026-11-12T09:32:32.057281+00:00",
+    "title": "Check your GitHub repos: A secret stealer hit tens of thousands of them"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/11/fbi-agent-stole-2-47m-in-crypto-from-criminal-wallets": {
+    "ts": "2026-11-12T09:32:32.219944+00:00",
+    "title": "FBI agent stole $2.47m in crypto from criminal wallets"
+  },
+  "https://securityaffairs.com/202895/security/poland-takes-its-national-e-government-platform-offline-after-a-cyberattack.html": {
+    "ts": "2026-11-12T09:32:32.384322+00:00",
+    "title": "Poland takes its national e-government platform offline after a cyberattack"
+  },
+  "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/": {
+    "ts": "2026-11-12T09:32:32.545187+00:00",
+    "title": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images"
+  },
+  "https://www.silentpush.com/blog/north-korea-crypto-heists-open-internet/": {
+    "ts": "2026-11-12T09:32:32.704804+00:00",
+    "title": "North Korea\u2019s Crypto Heists Start on the Open Internet"
+  },
+  "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html": {
+    "ts": "2026-11-12T09:32:32.866125+00:00",
+    "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data"
+  },
+  "https://www.theregister.com/security/2026/11/12/london-hotel-put-admin-login-for-booking-website-on-whiteboard-behind-the-front-desk/5308889": {
+    "ts": "2026-11-12T09:32:32.866147+00:00",
+    "title": "London hotel put admin login for booking website on whiteboard behind the front desk"
+  },
+  "https://threats.wiz.io/all-incidents/shai-hulud-ongoing-package-supply-chain-compromise-delivering-data-stealing-malware": {
+    "ts": "2026-11-12T09:32:33.034090+00:00",
+    "title": "Shai-Hulud: Ongoing Package Supply Chain Compromise Delivering Data-Stealing Malware (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/": {
+    "ts": "2026-11-12T09:32:33.034118+00:00",
+    "title": "Notion says Fireworks breach exposed customer AI chat transcripts"
+  },
+  "https://cybersecuritynews.com/palo-alto-networks-pan-os-rce-vulnerability/": {
+    "ts": "2026-11-12T09:32:33.195903+00:00",
+    "title": "Palo Alto PAN-OS RCE Flaw Allows Attackers to Execute Arbitrary Code With Root Privileges"
+  },
+  "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience": {
+    "ts": "2026-11-12T09:32:33.195925+00:00",
+    "title": "AI Raises the Stakes for Cyber Resilience"
+  },
+  "https://gbhackers.com/gsocket-based-linux-attacks/": {
+    "ts": "2026-11-12T09:32:33.365432+00:00",
+    "title": "Microsoft Finds Hackers Using GSocket to Hide Linux Backdoors as Legitimate System Processes"
+  },
+  "https://www.group-ib.com/blog/fraud-underbelly-australia/": {
+    "ts": "2026-11-12T09:32:33.365454+00:00",
+    "title": "Fraud Underbelly: Australia\u2019s Digital Boom\u2014A Fraudster\u2019s Goldmine?"
+  },
+  "https://www.helpnetsecurity.com/2026/11/12/net-11-security-changes/": {
+    "ts": "2026-11-12T09:32:33.532339+00:00",
+    "title": ".NET 11 security changes target the software supply chain"
+  },
+  "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/": {
+    "ts": "2026-11-12T09:32:33.694310+00:00",
+    "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt"
+  },
+  "https://www.silentpush.com/blog/operation-omegaline-fbi-seizes-virtualine/": {
+    "ts": "2026-11-12T09:32:33.856889+00:00",
+    "title": "Omegatech Is Disrupted, and the Pressure on Bulletproof Hosting Keeps Building"
+  },
+  "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html": {
+    "ts": "2026-11-12T09:32:34.018107+00:00",
+    "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories"
+  },
+  "https://www.theregister.com/security/2026/11/12/disgraced-former-ca-emudhra-blames-buggy-script-for-hopelessly-weak-certificates/5309244": {
+    "ts": "2026-11-12T09:32:34.175939+00:00",
+    "title": "Disgraced former CA eMudhra blames buggy script for hopelessly weak certificates"
+  },
+  "https://threats.wiz.io/all-incidents/qix-npm-package-supply-chain-compromise": {
+    "ts": "2026-11-12T09:32:34.340468+00:00",
+    "title": "Qix npm package supply chain compromise (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/": {
+    "ts": "2026-11-12T09:32:34.513570+00:00",
+    "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice"
+  },
+  "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws": {
+    "ts": "2026-11-12T09:32:34.513592+00:00",
+    "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws"
+  },
+  "https://gbhackers.com/shipping-giant-maersk-confirms-data-breach/": {
+    "ts": "2026-11-12T09:32:34.513597+00:00",
+    "title": "Shipping Giant Maersk Confirms Data Breach Following Unauthorized Access to IT Systems"
   }
 }
