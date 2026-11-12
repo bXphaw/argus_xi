@@ -1,340 +1,4 @@
 {
-  "https://threats.wiz.io/all-incidents/gobruteforcer-campaign": {
-    "ts": "2026-09-12T19:03:31.606308+00:00",
-    "title": "GoBruteforcer campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/scarleteel": {
-    "ts": "2026-09-12T19:03:33.366649+00:00",
-    "title": "scarleteel (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/fayvo-exposed-database": {
-    "ts": "2026-09-12T19:03:33.393558+00:00",
-    "title": "Fayvo exposed database (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/headcrab-campaign": {
-    "ts": "2026-09-12T19:03:34.891595+00:00",
-    "title": "HeadCrab campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/jupyter-notebook-cred-harvesting-campaign": {
-    "ts": "2026-09-12T19:03:38.060835+00:00",
-    "title": "Jupyter Notebook cred harvesting campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/okta-source-code-theft": {
-    "ts": "2026-09-12T19:03:38.077094+00:00",
-    "title": "Okta source code theft (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/redigo-campaign": {
-    "ts": "2026-09-12T19:03:38.078828+00:00",
-    "title": "Redigo campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/dropbox-breach": {
-    "ts": "2026-09-12T19:03:40.342643+00:00",
-    "title": "Dropbox breach (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/auth0-source-code-theft": {
-    "ts": "2026-09-12T19:03:42.550512+00:00",
-    "title": "Auth0 source code theft (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/fast-company-breach": {
-    "ts": "2026-09-12T19:03:42.581069+00:00",
-    "title": "fast-company-breach (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/optus-breach": {
-    "ts": "2026-09-12T19:03:42.599472+00:00",
-    "title": "optus-breach (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/kiss-a-dog-campaign": {
-    "ts": "2026-09-12T19:03:43.382159+00:00",
-    "title": "Kiss-A-Dog campaign (Campaign)"
-  },
-  "https://securityaffairs.com/198905/ai/anthropic-ai-misuse-is-entering-a-new-phase-from-cybercrime-to-surveillance-propaganda-and-weapons.html": {
-    "ts": "2026-09-12T19:03:54.152559+00:00",
-    "title": "Anthropic: AI Misuse Is Entering a New Phase: From Cybercrime to Surveillance, Propaganda and Weapons"
-  },
-  "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html": {
-    "ts": "2026-09-12T19:03:54.577760+00:00",
-    "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV"
-  },
-  "https://threats.wiz.io/all-incidents/icefire-aspera-faspex-campaign": {
-    "ts": "2026-09-12T19:03:54.766386+00:00",
-    "title": "IceFire Aspera Faspex campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/stealing-the-lightshow": {
-    "ts": "2026-09-12T19:03:54.955147+00:00",
-    "title": "Stealing the LIGHTSHOW (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/us-military-email-server-exposure": {
-    "ts": "2026-09-12T19:03:54.955165+00:00",
-    "title": "US military email server exposure (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/esxiargs-attack": {
-    "ts": "2026-09-12T19:03:55.143108+00:00",
-    "title": "esxiargs-attack (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/github-certificate-theft-incident": {
-    "ts": "2026-09-12T19:03:55.143128+00:00",
-    "title": "GitHub certificate theft incident (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/commuteair-exposed-jenkins": {
-    "ts": "2026-09-12T19:03:55.143131+00:00",
-    "title": "CommuteAir exposed Jenkins (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/circleci-breach": {
-    "ts": "2026-09-12T19:03:55.143134+00:00",
-    "title": "circleci-breach (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/pytorch-nightly-torchtriton-dependency-compromise": {
-    "ts": "2026-09-12T19:03:55.338677+00:00",
-    "title": "PyTorch-nightly torchtriton dependency compromise (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/lastpass-goto-breach": {
-    "ts": "2026-09-12T19:03:55.338697+00:00",
-    "title": "lastpass-goto-breach (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/watchdog-east-asian-csp-campaign": {
-    "ts": "2026-09-12T19:03:55.526837+00:00",
-    "title": "WatchDog East-Asian CSP campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/dropbox-github-breach": {
-    "ts": "2026-09-12T19:03:55.526855+00:00",
-    "title": "Dropbox Github breach (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/backdooring-self-hosted-github-runner": {
-    "ts": "2026-09-12T19:03:55.714174+00:00",
-    "title": "Backdooring self-hosted GitHub Runner (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/reuters-leaky-elasticsearch-dbs": {
-    "ts": "2026-09-12T19:03:55.903018+00:00",
-    "title": "reuters-leaky-elasticsearch-dbs (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/leaked-long-lived-aws-creds": {
-    "ts": "2026-09-12T19:03:55.903038+00:00",
-    "title": "Leaked long-lived AWS creds (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/redirection-roulette": {
-    "ts": "2026-09-12T19:03:55.903042+00:00",
-    "title": "Redirection Roulette (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/apt29-targeting-microsoft-365": {
-    "ts": "2026-09-12T19:03:56.089323+00:00",
-    "title": "APT29 targeting Microsoft 365 (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/microsoft-credential-exposure-on-github": {
-    "ts": "2026-09-12T22:02:16.549767+00:00",
-    "title": "Microsoft credential exposure on GitHub (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/twilio-breach": {
-    "ts": "2026-09-12T22:02:16.563851+00:00",
-    "title": "twilio-breach (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/premint-hack": {
-    "ts": "2026-09-12T22:02:16.586013+00:00",
-    "title": "PREMINT hack (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/bondnet-campaign-2022": {
-    "ts": "2026-09-12T22:02:16.608785+00:00",
-    "title": "Bondnet campaign (2022) (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/unc2903-campaigns": {
-    "ts": "2026-09-12T22:02:19.806257+00:00",
-    "title": "UNC2903 campaigns (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/lemonduck-docker-campaign": {
-    "ts": "2026-09-12T22:02:19.819927+00:00",
-    "title": "LemonDuck Docker campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/github-npm-breach": {
-    "ts": "2026-09-12T22:02:19.847405+00:00",
-    "title": "github-npm-breach (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/denonia-campaign": {
-    "ts": "2026-09-12T22:02:19.847479+00:00",
-    "title": "Denonia campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/incident-report-from-cli-to-console-chasing-an-attacker-in-aws": {
-    "ts": "2026-09-12T22:02:19.909221+00:00",
-    "title": "incident-report-from-cli-to-console-chasing-an-attacker-in-aws (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/muhstick-redis-campaign": {
-    "ts": "2026-09-12T22:02:19.936027+00:00",
-    "title": "Muhstick Redis campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/lapsus-campaigns": {
-    "ts": "2026-09-12T22:02:19.936092+00:00",
-    "title": "LAPSUS$ campaigns (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/coinstomp-campaign": {
-    "ts": "2026-09-12T22:02:19.936127+00:00",
-    "title": "CoinStomp campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/unc3379-npm-supply-chain-attacks": {
-    "ts": "2026-09-12T22:02:21.469632+00:00",
-    "title": "UNC3379 npm supply chain attacks (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/siloscape-campaign": {
-    "ts": "2026-09-12T22:02:23.717172+00:00",
-    "title": "Siloscape campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/codecov-incident": {
-    "ts": "2026-09-12T22:02:23.740600+00:00",
-    "title": "Codecov incident (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/gin-docker-cryptojacking-campaign": {
-    "ts": "2026-09-12T22:02:24.492010+00:00",
-    "title": "Gin Docker cryptojacking campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/teamtnt-campaigns": {
-    "ts": "2026-09-12T22:02:24.492101+00:00",
-    "title": "TeamTNT campaigns (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/dreambus-campaign": {
-    "ts": "2026-09-12T22:02:24.492138+00:00",
-    "title": "dreambus-campaign (Campaign)"
-  },
-  "https://securityaffairs.com/198922/data-breach/revolut-exposed-kyc-data-after-fraudulent-government-email-passed-security-checks.html": {
-    "ts": "2026-09-12T22:02:28.504586+00:00",
-    "title": "Revolut Exposed KYC Data After Fraudulent Government Email Passed Security Checks"
-  },
-  "https://threats.wiz.io/all-incidents/8220-gang-targeting-confluence": {
-    "ts": "2026-09-12T22:02:28.752322+00:00",
-    "title": "8220 Gang targeting Confluence (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/darkradiation-container-ransomwarewiper": {
-    "ts": "2026-09-12T22:02:28.986032+00:00",
-    "title": "darkradiation-container-ransomwarewiper (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/incident-report-spotting-an-attacker-in-gcp": {
-    "ts": "2026-09-12T22:02:28.986052+00:00",
-    "title": "incident-report-spotting-an-attacker-in-gcp (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/javascript-injection-via-wordpress-exploitation": {
-    "ts": "2026-09-12T22:02:29.218771+00:00",
-    "title": "JavaScript injection via WordPress exploitation (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/from-code-commit-to-production-takeover": {
-    "ts": "2026-09-12T22:02:29.218792+00:00",
-    "title": "From code commit to production takeover (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/from-s3-bucket-to-jenkins-credential-dump": {
-    "ts": "2026-09-12T22:02:29.218796+00:00",
-    "title": "From S3 bucket to Jenkins credential dump (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/ivanti-supply-chain": {
-    "ts": "2026-09-12T22:02:29.455632+00:00",
-    "title": "ivanti-supply-chain (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/tsunami-targeting-jenkins-and-weblogic": {
-    "ts": "2026-09-12T22:02:29.688258+00:00",
-    "title": "Tsunami targeting Jenkins and Weblogic (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/abcbot-huawei-cloud-targeting-campaign": {
-    "ts": "2026-09-12T22:02:29.922171+00:00",
-    "title": "Abcbot Huawei Cloud targeting campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/multiple-organizations-vulnerable-to-dependency-confusion": {
-    "ts": "2026-09-12T22:02:30.154395+00:00",
-    "title": "Multiple organizations vulnerable to dependency confusion (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/solarwinds-supply-chain-attack": {
-    "ts": "2026-09-12T22:02:30.380396+00:00",
-    "title": "solarwinds-supply-chain-attack (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/loggerminer-campaign": {
-    "ts": "2026-09-13T00:42:09.106135+00:00",
-    "title": "Loggerminer campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/cetus-campaign": {
-    "ts": "2026-09-13T00:42:10.280705+00:00",
-    "title": "Cetus campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/drizly-data-breach": {
-    "ts": "2026-09-13T00:42:10.292718+00:00",
-    "title": "Drizly data breach (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/doki-cryptojacking-campaign": {
-    "ts": "2026-09-13T00:42:10.294699+00:00",
-    "title": "Doki cryptojacking campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/bluekai-exposed-database": {
-    "ts": "2026-09-13T00:42:11.797775+00:00",
-    "title": "BlueKai exposed database (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/kinsing-campaign-2020": {
-    "ts": "2026-09-13T00:42:13.200863+00:00",
-    "title": "kinsing-campaign-2020 (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/ubiquiti-breach": {
-    "ts": "2026-09-13T00:42:13.227416+00:00",
-    "title": "ubiquiti-breach (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/graboid-campaign": {
-    "ts": "2026-09-13T00:42:13.227621+00:00",
-    "title": "Graboid campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/webmin-supply-chain-attack-2018": {
-    "ts": "2026-09-13T00:42:13.896330+00:00",
-    "title": "Webmin supply chain attack (2018) (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/capital-one-breach": {
-    "ts": "2026-09-13T00:42:13.931125+00:00",
-    "title": "capital-one-breach (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/ngrok-cryptojacking-campaign": {
-    "ts": "2026-09-13T00:42:13.933239+00:00",
-    "title": "ngrok cryptojacking campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/operation-windigo": {
-    "ts": "2026-09-13T00:42:16.075937+00:00",
-    "title": "Operation Windigo (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/cdorked-campaign": {
-    "ts": "2026-09-13T00:42:16.076119+00:00",
-    "title": "Cdorked campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/kernelorg-supply-chain-attack": {
-    "ts": "2026-09-13T00:42:16.090701+00:00",
-    "title": "kernel.org supply chain attack (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/apple-cloud-key-exposure": {
-    "ts": "2026-09-13T00:42:19.506255+00:00",
-    "title": "Apple cloud key exposure (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/behind-the-scenes-in-the-expel-soc-alert-to-fix-in-aws": {
-    "ts": "2026-09-13T00:42:19.506273+00:00",
-    "title": "Behind the scenes in the Expel SOC: Alert-to-fix in AWS (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/meow-database-server-campaign": {
-    "ts": "2026-09-13T00:42:19.577772+00:00",
-    "title": "Meow database server campaign (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/exim-exploitation-by-sandworm": {
-    "ts": "2026-09-13T00:42:19.635252+00:00",
-    "title": "Exim exploitation by Sandworm (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/large-scale-cryptomining-attack-against-k8s-clusters-detected-by-azure": {
-    "ts": "2026-09-13T00:42:19.693621+00:00",
-    "title": "Large-scale cryptomining attack against K8s clusters detected by Azure (Campaign)"
-  },
-  "https://threats.wiz.io/all-incidents/imperva-data-leak": {
-    "ts": "2026-09-13T00:42:19.693638+00:00",
-    "title": "imperva-data-leak (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/us-dod-niprnet-access-via-atlassian-ssrf": {
-    "ts": "2026-09-13T00:42:19.693642+00:00",
-    "title": "US DoD NIPRNet access via Atlassian SSRF (Research)"
-  },
-  "https://threats.wiz.io/all-incidents/the-los-angeles-times-cryptomining-attack": {
-    "ts": "2026-09-13T00:42:19.693645+00:00",
-    "title": "The Los Angeles Times Cryptomining Attack (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/browserstack-data-breach": {
-    "ts": "2026-09-13T00:42:19.693649+00:00",
-    "title": "BrowserStack Data Breach (Incident)"
-  },
-  "https://threats.wiz.io/all-incidents/operation-aurora": {
-    "ts": "2026-09-13T00:42:19.752223+00:00",
-    "title": "Operation Aurora (Incident)"
-  },
   "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html": {
     "ts": "2026-09-13T11:22:55.387263+00:00",
     "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data"
@@ -21042,5 +20706,121 @@
   "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html": {
     "ts": "2026-11-11T18:31:22.444615+00:00",
     "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets"
+  },
+  "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/": {
+    "ts": "2026-11-12T01:25:36.204863+00:00",
+    "title": "Baker Tilly notifies clients of data breach at third-party provider"
+  },
+  "https://cybersecuritynews.com/ai-hacking-frameworks/": {
+    "ts": "2026-11-12T01:25:36.204877+00:00",
+    "title": "AI Hacking Frameworks Like ARTEX, PentAGI, and Agent Zero Found Running on Internet-Accessible Servers"
+  },
+  "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry": {
+    "ts": "2026-11-12T01:25:36.204880+00:00",
+    "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry"
+  },
+  "https://gbhackers.com/n-able-warns-of-critical-n-central-zero-day-vulnerability/": {
+    "ts": "2026-11-12T01:25:36.641971+00:00",
+    "title": "N-able Warns of Critical N-central Zero-Day Vulnerability Actively Exploited by Hackers"
+  },
+  "https://www.group-ib.com/blog/dark-web-fraud/": {
+    "ts": "2026-11-12T01:25:36.641982+00:00",
+    "title": "Typical Dark Web Fraud: Where Scammers Operate and What They Look Like"
+  },
+  "https://www.helpnetsecurity.com/2026/11/11/eu-enisa-cybersecurity-report/": {
+    "ts": "2026-11-12T01:25:36.641985+00:00",
+    "title": "EU cyber scores look healthy, but 45% of surveyed IT providers take months to patch"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/11/vanderbilt-restores-systems-after-cyberattack-as-hackers-claim-data-theft": {
+    "ts": "2026-11-12T01:25:36.722984+00:00",
+    "title": "Vanderbilt restores systems after cyberattack as hackers claim data theft"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/": {
+    "ts": "2026-11-12T01:25:36.807563+00:00",
+    "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2"
+  },
+  "https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/": {
+    "ts": "2026-11-12T01:25:36.890828+00:00",
+    "title": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know"
+  },
+  "https://securityaffairs.com/202880/hacking/ai-pentest-tool-antifox-abused-to-steal-aws-credentials.html": {
+    "ts": "2026-11-12T01:25:36.975595+00:00",
+    "title": "AI Pentest Tool AntiFox Abused To Steal AWS Credentials"
+  },
+  "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/": {
+    "ts": "2026-11-12T01:25:37.056898+00:00",
+    "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities"
+  },
+  "https://www.politico.com/newsletters/weekly-cybersecurity/2026/09/14/inside-a-new-push-to-bring-ai-to-critical-infrastructure-01074100#new_tab": {
+    "ts": "2026-11-12T01:25:38.099072+00:00",
+    "title": "Inside a new push to bring AI to critical infrastructure"
+  },
+  "https://socradar.io/blog/major-cyber-attacks-october-2026/": {
+    "ts": "2026-11-12T01:25:37.212039+00:00",
+    "title": "October 2026: Binance Heist, ConnectWise Breach, and More"
+  },
+  "https://www.sophos.com/en-us/blog/malicious-screenconnect-deployments-observed": {
+    "ts": "2026-11-12T01:25:37.289310+00:00",
+    "title": "Malicious ScreenConnect deployments observed"
+  },
+  "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html": {
+    "ts": "2026-11-12T01:25:37.374293+00:00",
+    "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits"
+  },
+  "https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-one-already-under-attack/5308946": {
+    "ts": "2026-11-12T01:25:37.374301+00:00",
+    "title": "November Patch Tuesday boasts over 1,000 bugs, one already under attack"
+  },
+  "https://threats.wiz.io/all-incidents/sonicwall-mysonicwall-cloud-backup-file-security-incident": {
+    "ts": "2026-11-12T01:25:37.374304+00:00",
+    "title": "SonicWall MySonicWall Cloud Backup File Security Incident (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/": {
+    "ts": "2026-11-12T01:25:37.446452+00:00",
+    "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations"
+  },
+  "https://cybersecuritynews.com/hackers-could-exploit-mcp-server/": {
+    "ts": "2026-11-12T01:25:37.530565+00:00",
+    "title": "Hackers Could Exploit MCP Server Supply Chain Weaknesses to Steal API Keys and Administrator Credentials"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches": {
+    "ts": "2026-11-12T01:25:37.530573+00:00",
+    "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise"
+  },
+  "https://gbhackers.com/bluephishing-attack/": {
+    "ts": "2026-11-12T01:25:37.601390+00:00",
+    "title": "BluePhishing Attack Abuses Microsoft Entra OAuth Consent to Create Hidden AI Agent Identities"
+  },
+  "https://www.group-ib.com/blog/ciso-risk-management/": {
+    "ts": "2026-11-12T01:25:37.687141+00:00",
+    "title": "CISOs Top Order Of Business: Cyber Risk Reduction & Management"
+  },
+  "https://www.helpnetsecurity.com/2026/11/11/security-teams-vulnerability-backlog/": {
+    "ts": "2026-11-12T01:25:37.759002+00:00",
+    "title": "Nearly half of big firms shelve or close vulnerability findings they haven\u2019t confirmed"
+  },
+  "https://www.malwarebytes.com/blog/bugs/2026/11/microsoft-patch-tuesday-fixes-outlook-flaw-already-under-attack": {
+    "ts": "2026-11-12T01:25:37.842788+00:00",
+    "title": "Microsoft Patch Tuesday fixes Outlook flaw already under attack"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/": {
+    "ts": "2026-11-12T01:25:37.921384+00:00",
+    "title": "Lessons from 59 Linux Kernel Bug Reports"
+  },
+  "https://securityaffairs.com/202869/data-breach/whitearmor-demands-5-million-from-maersk-claims-theft-of-100gb-of-data.html": {
+    "ts": "2026-11-12T01:25:38.015460+00:00",
+    "title": "WhiteArmor Demands $5 Million from Maersk, Claims Theft of 100GB of Data"
+  },
+  "https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/": {
+    "ts": "2026-11-12T01:25:38.015468+00:00",
+    "title": "Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices"
+  },
+  "https://socradar.io/blog/november-2026-patch-tuesday-zero-day/": {
+    "ts": "2026-11-12T01:25:38.099080+00:00",
+    "title": "November 2026 Patch Tuesday: 1,094 Flaws, One Exploited"
+  },
+  "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html": {
+    "ts": "2026-11-12T01:25:38.099084+00:00",
+    "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords"
   }
 }
