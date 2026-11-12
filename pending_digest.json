@@ -1,4 +1,50 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "Attackers turn NIKKE\u2019s game launcher into malware",
+      "url": "https://www.bitdefender.com/en-us/blog/labs/nikke-game-launcher-malware"
+    },
+    {
+      "category": "new_technique",
+      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "PHP2Shell Exploitation on Check Point Gateway",
+      "url": "https://research.checkpoint.com/2026/php2shell-exploitation-on-check-point-gateway/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Europol Takes Down 235 Servers and 257 Domains Linked to Gootloader, CastleRAT, and StealC Malware",
+      "url": "https://cybersecuritynews.com/malware-infrastructure-disrupted/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "The beginning of the end: the story of Hunters International",
+      "url": "https://www.group-ib.com/blog/hunters-international-ransomware-group/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Attackers breached 10 organizations with an open-source AI pentest framework",
+      "url": "https://www.helpnetsecurity.com/2026/11/12/cairn-autonomous-ai-cyberattacks/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
+      "url": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/"
+    },
+    {
+      "category": "new_technique",
+      "title": "New N-able N-central Zero-Day Exploits Target Patched Servers, Claiming Unauthenticated Root Access",
+      "url": "https://cybersecuritynews.com/n-able-n-central-zero-day-exploits/"
+    },
+    {
+      "category": "new_technique",
+      "title": "CISA Warns of Actively Exploited Microsoft Outlook Zero-Day Vulnerability",
+      "url": "https://gbhackers.com/cisa-warns-of-microsoft-outlook-zero-day-vulnerability/"
+    }
+  ],
   "last_sent_date": "2026-11-12"
 }

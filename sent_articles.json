@@ -1,52 +1,4 @@
 {
-  "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html": {
-    "ts": "2026-09-13T11:22:55.387263+00:00",
-    "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data"
-  },
-  "https://cybersecuritynews.com/revolut-data-breach/": {
-    "ts": "2026-09-13T11:22:58.894943+00:00",
-    "title": "Revolut Data Breach Exposes Customers\u2019 Passport Copies and Full Transaction Histories to Hackers"
-  },
-  "https://www.helpnetsecurity.com/2026/09/13/week-in-review-linux-rootkit-deployed-on-f5-big-ip-apm-devices-cisco-fmc-bugs-exploited/": {
-    "ts": "2026-09-13T11:22:59.117239+00:00",
-    "title": "Week in review: Linux rootkit deployed on F5 BIG-IP APM devices, Cisco FMC bugs exploited"
-  },
-  "https://securityaffairs.com/198931/cyber-crime/conti-hacker-who-built-malware-and-attacked-victims-gets-four-year-sentence.html": {
-    "ts": "2026-09-13T11:22:59.317379+00:00",
-    "title": "Conti Hacker Who Built Malware and Attacked Victims Gets Four-Year Sentence"
-  },
-  "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000": {
-    "ts": "2026-09-13T11:22:59.317395+00:00",
-    "title": "Security through obscurity is dead, and AI delivered the fatal blow"
-  },
-  "https://cybersecuritynews.com/plesk-backup-manager-flaw/": {
-    "ts": "2026-09-13T11:22:59.505770+00:00",
-    "title": "Plesk Backup Manager Flaw Lets Low-Privileged Users Gain Root Access to Servers"
-  },
-  "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/": {
-    "ts": "2026-09-13T15:52:49.150186+00:00",
-    "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware"
-  },
-  "https://cybersecuritynews.com/dell-objectscale-vulnerabilities/": {
-    "ts": "2026-09-13T15:52:49.150211+00:00",
-    "title": "Critical Dell ObjectScale Vulnerabilities Allows Malicious Users to Compromise the Affected system"
-  },
-  "https://securityaffairs.com/198957/security/security-affairs-newsletter-round-594-by-pierluigi-paganini-international-edition.html": {
-    "ts": "2026-09-13T15:52:49.150216+00:00",
-    "title": "Security Affairs newsletter Round 594 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION"
-  },
-  "https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/": {
-    "ts": "2026-09-13T15:52:49.150219+00:00",
-    "title": "Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up"
-  },
-  "https://threatmon.io/what-is-infostealer-malware-and-how-do-you-know-youre-infected/": {
-    "ts": "2026-09-13T15:52:49.150222+00:00",
-    "title": "What Is Infostealer Malware and How Do You Know You\u2019re Infected?"
-  },
-  "https://securityaffairs.com/198945/hacking/gitlab-cve-2026-85706-one-http-request-no-authentication-full-file-read-exploited-within-24-hours.html": {
-    "ts": "2026-09-13T15:52:49.346010+00:00",
-    "title": "GitLab CVE-2026-85706: One HTTP Request, No Authentication, Full File Read \u2013 Exploited Within 24 Hours"
-  },
   "https://securityaffairs.com/198980/breaking-news/security-affairs-malware-newsletter-round-114.html": {
     "ts": "2026-09-13T18:38:33.738346+00:00",
     "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 114"
@@ -20942,5 +20894,125 @@
   "https://gbhackers.com/shipping-giant-maersk-confirms-data-breach/": {
     "ts": "2026-11-12T09:32:34.513597+00:00",
     "title": "Shipping Giant Maersk Confirms Data Breach Following Unauthorized Access to IT Systems"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/nikke-game-launcher-malware": {
+    "ts": "2026-11-12T18:02:45.324536+00:00",
+    "title": "Attackers turn NIKKE\u2019s game launcher into malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/": {
+    "ts": "2026-11-12T18:02:45.548404+00:00",
+    "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges"
+  },
+  "https://research.checkpoint.com/2026/php2shell-exploitation-on-check-point-gateway/": {
+    "ts": "2026-11-12T18:02:45.778812+00:00",
+    "title": "PHP2Shell Exploitation on Check Point Gateway"
+  },
+  "https://cofense.com/blog/cofense-advances-ai-driven-phishing-defense-with-adaptive-classification-and-automation": {
+    "ts": "2026-11-12T18:02:45.778832+00:00",
+    "title": "Cofense Advances AI-Driven Phishing Defense with Adaptive Classification and Automation"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/": {
+    "ts": "2026-11-12T18:02:45.778837+00:00",
+    "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions"
+  },
+  "https://cybersecuritynews.com/malware-infrastructure-disrupted/": {
+    "ts": "2026-11-12T18:02:46.001035+00:00",
+    "title": "Europol Takes Down 235 Servers and 257 Domains Linked to Gootloader, CastleRAT, and StealC Malware"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer": {
+    "ts": "2026-11-12T18:02:46.001055+00:00",
+    "title": "Inside an AI Attack Against a US Retailer"
+  },
+  "https://gbhackers.com/ndiligence-releases-four-year-study-identifying-a-critical-supply-chain-vulnerability-across-50-platform-types/": {
+    "ts": "2026-11-12T18:02:46.001059+00:00",
+    "title": "nDiligence Releases Four-Year Study Identifying a Critical Supply-Chain Vulnerability Across 50 Platform Types"
+  },
+  "https://www.group-ib.com/blog/hunters-international-ransomware-group/": {
+    "ts": "2026-11-12T18:02:46.230450+00:00",
+    "title": "The beginning of the end: the story of Hunters International"
+  },
+  "https://www.helpnetsecurity.com/2026/11/12/cairn-autonomous-ai-cyberattacks/": {
+    "ts": "2026-11-12T18:02:46.462685+00:00",
+    "title": "Attackers breached 10 organizations with an open-source AI pentest framework"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/11/legos-bricklink-taken-offline-after-unusual-activity-what-users-should-know": {
+    "ts": "2026-11-12T18:02:46.685053+00:00",
+    "title": "LEGO\u2019s BrickLink taken offline: What users should know"
+  },
+  "https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/": {
+    "ts": "2026-11-12T18:02:46.915801+00:00",
+    "title": "Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors"
+  },
+  "https://www.recordedfuture.com/blog/state-of-threat-intelligence-2027": {
+    "ts": "2026-11-12T18:02:47.138548+00:00",
+    "title": "Five Findings From the 2027 State of Threat Intelligence"
+  },
+  "https://securelist.com/how-a-cloud-pentest-works/121921/": {
+    "ts": "2026-11-12T18:02:47.359947+00:00",
+    "title": "Transcending the trust boundaries: how a cloud pentest works"
+  },
+  "https://securityaffairs.com/202922/malware/predator-pegasus-and-graphite-governments-accused-of-spyware-abuse-face-little-accountability.html": {
+    "ts": "2026-11-12T18:02:47.584379+00:00",
+    "title": "Predator, Pegasus and Graphite: Governments Accused of Spyware Abuse Face Little Accountability"
+  },
+  "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/": {
+    "ts": "2026-11-12T18:02:47.815567+00:00",
+    "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google"
+  },
+  "https://www.sekoia.com/blog/the-intelligence-asymmetry-the-strategic-case-for-autonomous-defensive-intelligence": {
+    "ts": "2026-11-12T18:02:47.815588+00:00",
+    "title": "Intelligence Asymmetry: The Strategic Case For Autonomous Defensive Intelligence"
+  },
+  "https://www.sentinelone.com/labs/labscon26-replay-let-s-get-physical-why-cybersecurity-needs-hardware-based-security-to-survive-ai/": {
+    "ts": "2026-11-12T18:02:47.815591+00:00",
+    "title": "LABScon26 Replay | Let\u2019s Get Physical: Why Cybersecurity Needs Hardware-Based Security to Survive AI"
+  },
+  "https://www.silentpush.com/news/silent-push-abstract-security-integration/": {
+    "ts": "2026-11-12T18:02:47.815595+00:00",
+    "title": "Silent Push Now Runs Inside Abstract Security"
+  },
+  "https://socradar.io/blog/artex-ai-pentest-consoles-us/": {
+    "ts": "2026-11-12T18:02:47.815597+00:00",
+    "title": "ARTEX: 916 Exposed AI Pentest Consoles Mapped in the U.S."
+  },
+  "https://www.security.com/threat-intelligence/ai-assisted-attack-us-retailer": {
+    "ts": "2026-11-12T18:02:48.041147+00:00",
+    "title": "How AI Revived a Stalled Attack on a U.S. Retailer"
+  },
+  "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html": {
+    "ts": "2026-11-12T18:02:48.269912+00:00",
+    "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry"
+  },
+  "https://www.theregister.com/saas/2026/11/12/microsoft-exchange-server-2016-and-2019-enter-their-permanently-vulnerable-era/5309401": {
+    "ts": "2026-11-12T18:02:48.491102+00:00",
+    "title": "Microsoft Exchange Server 2016 and 2019 enter their 'permanently vulnerable' era"
+  },
+  "https://threatmon.io/inside-the-enterprise-access-market-what-nine-underground-listings-reveal-about-initial-access-sales/": {
+    "ts": "2026-11-12T18:02:48.715939+00:00",
+    "title": "Inside the Enterprise Access Market: What Nine Underground Listings Reveal About Initial Access Sales"
+  },
+  "https://threats.wiz.io/all-incidents/ghostaction-campaign": {
+    "ts": "2026-11-12T18:02:48.938254+00:00",
+    "title": "GhostAction campaign (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/": {
+    "ts": "2026-11-12T18:02:48.938272+00:00",
+    "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure"
+  },
+  "https://cybersecuritynews.com/n-able-n-central-zero-day-exploits/": {
+    "ts": "2026-11-12T18:02:49.165787+00:00",
+    "title": "New N-able N-central Zero-Day Exploits Target Patched Servers, Claiming Unauthenticated Root Access"
+  },
+  "https://gbhackers.com/cisa-warns-of-microsoft-outlook-zero-day-vulnerability/": {
+    "ts": "2026-11-12T18:02:49.388863+00:00",
+    "title": "CISA Warns of Actively Exploited Microsoft Outlook Zero-Day Vulnerability"
+  },
+  "https://www.group-ib.com/blog/navigating-cybercrime-latin-america/": {
+    "ts": "2026-11-12T18:02:49.388882+00:00",
+    "title": "Navigating Cybercrime Currents in Latin America: Strengthening the Region\u2019s Defenses"
+  },
+  "https://www.helpnetsecurity.com/2026/11/12/europol-operation-endgame-malware-takedown/": {
+    "ts": "2026-11-12T18:02:49.388885+00:00",
+    "title": "Operation Endgame malware takedown turns up over 6 million stolen logins"
   }
 }
