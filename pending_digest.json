@@ -1,4 +1,70 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "ARTEX and beyond: AI-enabled penetration testing platforms",
+      "url": "https://blog.talosintelligence.com/artex-and-beyond/"
+    },
+    {
+      "category": "new_technique",
+      "title": "New TypoPrompting Attacks Turn Mistyped AI Website Addresses Into Malware Installation Traps",
+      "url": "https://cybersecuritynews.com/new-typoprompting-attacks/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Exploit ChatGPT and Claude Website Typos to Deliver Malware and Hijack Browsers",
+      "url": "https://gbhackers.com/ai-website-typos-exploited/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Smish. Click. Drained: Inside the Smishing Triad\u2019s Phishing Cockpit",
+      "url": "https://www.group-ib.com/blog/smishing-triad-outsider-jwr/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Gootloader Malware Disrupted After Infecting 25,000 Computers",
+      "url": "https://securityaffairs.com/202997/cyber-crime/gootloader-malware-disrupted-after-infecting-25000-computers.html"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Silk Typhoon Exploiting Trusted Relationships for Cloud Environments Compromise (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/silk-typhoon-exploiting-trusted-relationships-for-cloud-environments-compromise"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Hackers Use SANSAR Linux Malware to Hide Crypto Mining by Faking 0% GPU Usage",
+      "url": "https://cybersecuritynews.com/hackers-use-sansar-linux-malware/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Hijack Microsoft SQL Servers Using T-SQL Commands to Install Gh0st RAT and Crypto Miners",
+      "url": "https://gbhackers.com/microsoft-sql-servers-hijacked/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Fingerprint Heists: How your browser fingerprint can be stolen and used by fraudsters",
+      "url": "https://www.group-ib.com/blog/fingerprint-heists/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Binance data breach claim over 335.9 million lines is likely a scam, exchange says",
+      "url": "https://en.cryptonomist.ch/2026/11/09/binance-data-breach-claims/#new_tab"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Use 2,700 Passwords to Break Into Microsoft SQL Servers and Deploy Remote Access Malware",
+      "url": "https://cybersecuritynews.com/break-into-microsoft-sql-servers/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Disguise XLoader Malware as Purchase Order Confirmations to Infect Windows Computers",
+      "url": "https://gbhackers.com/xloader-malware-attack-2/"
+    }
+  ],
   "last_sent_date": "2026-11-13"
 }
