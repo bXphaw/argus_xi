@@ -1,24 +1,4 @@
 {
-  "https://asec.ahnlab.com/en/95390/": {
-    "ts": "2026-09-14T04:42:28.919678+00:00",
-    "title": "August 2026 Dark Web Threat Actor Trend Report"
-  },
-  "https://asec.ahnlab.com/en/95391/": {
-    "ts": "2026-09-14T04:42:29.724675+00:00",
-    "title": "August 2026 Dark Web Issue Trend Report"
-  },
-  "https://asec.ahnlab.com/en/95385/": {
-    "ts": "2026-09-14T04:42:30.409178+00:00",
-    "title": "August 2026 Dark Web Breach Incident Trend Report"
-  },
-  "https://www.helpnetsecurity.com/2026/09/14/digicert-certificate-management-automation-report/": {
-    "ts": "2026-09-14T04:42:30.409193+00:00",
-    "title": "Certificate failures can cost firms over $250,000"
-  },
-  "https://www.helpnetsecurity.com/2026/09/14/aws-deception-benchmark-security-vulnerabilities/": {
-    "ts": "2026-09-14T04:42:30.409197+00:00",
-    "title": "AWS puts AI vulnerability detection to the test, and false positives pile up"
-  },
   "https://gbhackers.com/grayrabbit-backdoor/": {
     "ts": "2026-09-14T10:25:28.226831+00:00",
     "title": "China-Linked Hackers Exploit Sogou One-Click RCE to Deploy GRAYRABBIT Backdoor"
@@ -21130,5 +21110,125 @@
   "https://www.theregister.com/security/2026/11/12/lego-marketplace-bricklink-in-pieces-after-unusual-activity-takes-it-offline-for-almost-a-week/5309425": {
     "ts": "2026-11-12T23:32:52.536876+00:00",
     "title": "Lego marketplace BrickLink in pieces after 'unusual activity' takes it offline for almost a week"
+  },
+  "https://gbhackers.com/massive-microsoft-365-outage-disrupts-outlook/": {
+    "ts": "2026-11-13T05:48:10.775339+00:00",
+    "title": "Massive Microsoft 365 Outage Disrupts Outlook, Teams, Copilot, and Defender XDR Worldwide"
+  },
+  "https://threats.wiz.io/all-incidents/nx-package-supply-chain-compromise-delivers-data-stealing-malware": {
+    "ts": "2026-11-13T05:48:14.983816+00:00",
+    "title": "Nx Package Supply Chain Compromise Delivers Data-Stealing Malware (Campaign)"
+  },
+  "https://cybersecuritynews.com/ndiligence-releases-four-year-study-identifying-a-critical-supply-chain-vulnerability-across-50-platform-types/": {
+    "ts": "2026-11-13T05:48:15.619716+00:00",
+    "title": "nDiligence Releases Four-Year Study Identifying a Critical Supply-Chain Vulnerability Across 50 Platform Types"
+  },
+  "https://asec.ahnlab.com/en/96513/": {
+    "ts": "2026-11-13T05:49:39.112012+00:00",
+    "title": "Beware of phishing emails disguised as purchase order confirmation requests (Xloader)"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/": {
+    "ts": "2026-11-13T05:49:39.112029+00:00",
+    "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide"
+  },
+  "https://cybersecuritynews.com/tsmc-data-breach/": {
+    "ts": "2026-11-13T05:49:39.112034+00:00",
+    "title": "TSMC Data Breach \u2013 Employee Data Exposed via Third-Party Cloud Provider"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery": {
+    "ts": "2026-11-13T05:49:39.112037+00:00",
+    "title": "Getting Past the Post-Quantum Cryptography Discovery Phase"
+  },
+  "https://gbhackers.com/aws-warns-of-mcp-gateway-registry-vulnerability/": {
+    "ts": "2026-11-13T05:49:39.112040+00:00",
+    "title": "AWS Warns of MCP Gateway Registry Vulnerability Allowing Attackers to Access Internal Network Services"
+  },
+  "https://www.group-ib.com/blog/the-cybercriminal-with-four-faces-revealing-group-ib-s-investigation-into-altdos-desorden-ghostr-and-0mid16b/": {
+    "ts": "2026-11-13T05:49:39.146386+00:00",
+    "title": "The Cybercriminal with Four Faces: Revealing Group-IB\u2019s Investigation into ALTDOS, DESORDEN, GHOSTR and 0mid16B"
+  },
+  "https://www.helpnetsecurity.com/2026/11/13/corelight-mcp-server-supply-chain/": {
+    "ts": "2026-11-13T05:49:39.146399+00:00",
+    "title": "Your pinned MCP server may not be as pinned as you think"
+  },
+  "https://securityaffairs.com/202911/security/zoom-fixes-critical-windows-vulnerability-allowing-privilege-escalation.html": {
+    "ts": "2026-11-13T05:49:39.178880+00:00",
+    "title": "Zoom Fixes Critical Windows Vulnerability Allowing Privilege Escalation"
+  },
+  "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/": {
+    "ts": "2026-11-13T05:49:39.211461+00:00",
+    "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance"
+  },
+  "https://www.silentpush.com/blog/disruption-week-2026/": {
+    "ts": "2026-11-13T05:49:39.211472+00:00",
+    "title": "A Global Public-Private Partnership Just Got Preemptive"
+  },
+  "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html": {
+    "ts": "2026-11-13T05:49:39.243264+00:00",
+    "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access"
+  },
+  "https://www.theregister.com/security/2026/11/12/software-samaritan-revamps-borked-indian-certs-to-block-smart-tv-ads/5309467": {
+    "ts": "2026-11-13T05:49:39.275899+00:00",
+    "title": "Software Samaritan revamps borked Indian certs to block smart TV ads"
+  },
+  "https://coinlaw.io/binance-denies-data-breach-rumours/#new_tab": {
+    "ts": "2026-11-13T05:49:39.308012+00:00",
+    "title": "Binance Denies Data Breach Rumors After $6.34 Billion Crypto Hack"
+  },
+  "https://threats.wiz.io/all-incidents/storm-0501-deploys-cloud-based-ransomware": {
+    "ts": "2026-11-13T05:49:39.340714+00:00",
+    "title": "Storm-0501 Deploys Cloud-Based Ransomware (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/": {
+    "ts": "2026-11-13T05:49:39.373733+00:00",
+    "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released"
+  },
+  "https://cybersecuritynews.com/massive-microsoft-365-outage/": {
+    "ts": "2026-11-13T05:49:39.373743+00:00",
+    "title": "Massive Microsoft 365 Outage Impacts Exchange Online, Teams, SharePoint, Copilot, and Defender XDR Users"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches-japanese": {
+    "ts": "2026-11-13T05:49:39.373748+00:00",
+    "title": "AI\u3092\u6d3b\u7528\u3057\u305f\u30b5\u30a4\u30d0\u30fc\u653b\u6483\u306e\u5897\u52a0\u3092\u53d7\u3051\u3001\u65e5\u672c\u304c\u30b5\u30a4\u30d0\u30fc\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u3078\u306e\u7dca\u6025\u8cc7\u91d1\u62e0\u51fa\u3092\u63a8\u9032"
+  },
+  "https://www.group-ib.com/blog/clickfix-the-social-engineering-technique-hackers-use-to-manipulate-victims/": {
+    "ts": "2026-11-13T05:49:39.409921+00:00",
+    "title": "ClickFix: The Social Engineering Technique Hackers Use to Manipulate Victims"
+  },
+  "https://www.helpnetsecurity.com/2026/11/13/ibm-digital-sovereignty-challenges-report/": {
+    "ts": "2026-11-13T05:49:39.409933+00:00",
+    "title": "Digital sovereignty leaves enterprises chasing their own audit trails"
+  },
+  "https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/": {
+    "ts": "2026-11-13T05:49:39.442063+00:00",
+    "title": "Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign"
+  },
+  "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html": {
+    "ts": "2026-11-13T05:49:39.473933+00:00",
+    "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass"
+  },
+  "https://www.theregister.com/security/2026/11/12/hackers-exploiting-screenconnect-plugin-flaw-to-spread-malware-across-hundreds-of-pcs/5309361": {
+    "ts": "2026-11-13T05:49:39.505598+00:00",
+    "title": "Hackers exploiting ScreenConnect plugin flaw to spread malware across hundreds of PCs"
+  },
+  "https://coinedition.com/crypto-live-news/cz-dismisses-binance-335m-record-data-breach-claim-as-a/#new_tab": {
+    "ts": "2026-11-13T05:49:39.537409+00:00",
+    "title": "CZ Dismisses Binance 335M-Record Data Breach Claim as a $900K Scam"
+  },
+  "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/": {
+    "ts": "2026-11-13T05:49:39.570098+00:00",
+    "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw"
+  },
+  "https://gbhackers.com/critical-mongodb-use-after-free-vulnerability/": {
+    "ts": "2026-11-13T05:49:39.608203+00:00",
+    "title": "Critical MongoDB Use-After-Free Vulnerability Allows Remote Code Execution Without Authentication"
+  },
+  "https://www.group-ib.com/blog/the-evolution-of-sim-swapping-fraud-how-fraudsters-bypass-security-layers/": {
+    "ts": "2026-11-13T05:49:39.608213+00:00",
+    "title": "The Evolution of SIM Swapping Fraud: How Fraudsters Bypass Security Layers"
+  },
+  "https://www.helpnetsecurity.com/2026/11/13/google-smart-glasses-privacy-protections/": {
+    "ts": "2026-11-13T05:49:39.608216+00:00",
+    "title": "Google smart glasses privacy features cover wearers and the people around them"
   }
 }

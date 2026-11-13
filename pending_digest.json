@@ -84,6 +84,36 @@
       "category": "malware_linux",
       "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
       "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Beware of phishing emails disguised as purchase order confirmation requests (Xloader)",
+      "url": "https://asec.ahnlab.com/en/96513/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "The Cybercriminal with Four Faces: Revealing Group-IB\u2019s Investigation into ALTDOS, DESORDEN, GHOSTR and 0mid16B",
+      "url": "https://www.group-ib.com/blog/the-cybercriminal-with-four-faces-revealing-group-ib-s-investigation-into-altdos-desorden-ghostr-and-0mid16b/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Zoom Fixes Critical Windows Vulnerability Allowing Privilege Escalation",
+      "url": "https://securityaffairs.com/202911/security/zoom-fixes-critical-windows-vulnerability-allowing-privilege-escalation.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
+      "url": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/"
+    },
+    {
+      "category": "new_technique",
+      "title": "ClickFix: The Social Engineering Technique Hackers Use to Manipulate Victims",
+      "url": "https://www.group-ib.com/blog/clickfix-the-social-engineering-technique-hackers-use-to-manipulate-victims/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign",
+      "url": "https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/"
     }
   ],
   "last_sent_date": "2026-11-12"
