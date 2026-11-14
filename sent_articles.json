@@ -1,128 +1,4 @@
 {
-  "https://www.helpnetsecurity.com/2026/09/15/homebrew-7-0-0-security-open-source/": {
-    "ts": "2026-09-15T04:06:40.219704+00:00",
-    "title": "Homebrew 7.0.0 is out, here\u2019s what changed for security"
-  },
-  "https://cybersecuritynews.com/kb5002914-update-breaks-copy-paste/": {
-    "ts": "2026-09-15T09:51:43.018278+00:00",
-    "title": "Microsoft Confirms KB5002914 Update Breaks Copy and Paste on Excel"
-  },
-  "https://gbhackers.com/best-cwpp-compared/": {
-    "ts": "2026-09-15T09:51:49.146862+00:00",
-    "title": "12 Best CWPP Solutions Compared (2026): Features & Pricing"
-  },
-  "https://cybersecuritynews.com/hackers-hijack-hbo-max/": {
-    "ts": "2026-09-15T09:51:49.171656+00:00",
-    "title": "Hackers Hijack HBO Max Reddit Account to Push 108 ClickFix Malware Ads"
-  },
-  "https://gbhackers.com/best-cspm-compared/": {
-    "ts": "2026-09-15T09:51:49.194886+00:00",
-    "title": "11 Best CSPM Tools Compared (2026): Features & Pricing"
-  },
-  "https://gbhackers.com/best-enterprise-browsers-compared/": {
-    "ts": "2026-09-15T09:51:50.082115+00:00",
-    "title": "12 Best Enterprise Browsers Compared (2026): Features & Pricing"
-  },
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/": {
-    "ts": "2026-09-15T09:53:20.696606+00:00",
-    "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste"
-  },
-  "https://cybersecuritynews.com/telegram-desktop-flaw/": {
-    "ts": "2026-09-15T09:53:20.925238+00:00",
-    "title": "Telegram Desktop Flaw Lets Attackers Steal Chat Messages Through Poisoned HTML Exports"
-  },
-  "https://gbhackers.com/linux-kernel-zcopyreaper-vulnerability/": {
-    "ts": "2026-09-15T09:53:21.121222+00:00",
-    "title": "Linux Kernel ZcopyReaper Vulnerability Lets Local Attackers Gain Root Privileges"
-  },
-  "https://www.helpnetsecurity.com/2026/09/15/product-showcase-msecure-password-manager/": {
-    "ts": "2026-09-15T09:53:21.121242+00:00",
-    "title": "Product showcase: mSecure makes one vault do more than remember passwords"
-  },
-  "https://www.malwarebytes.com/blog/threat-intel/2026/09/search-results-are-sending-people-to-fake-bitrefill-checkouts": {
-    "ts": "2026-09-15T09:53:21.121245+00:00",
-    "title": "Search results are sending people to fake Bitrefill checkouts"
-  },
-  "https://securityaffairs.com/199076/security/telegram-desktop-flaw-could-turn-old-chat-exports-into-data-theft-traps.html": {
-    "ts": "2026-09-15T09:53:21.317703+00:00",
-    "title": "Telegram Desktop Flaw Could Turn Old Chat Exports Into Data Theft Traps"
-  },
-  "https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/": {
-    "ts": "2026-09-15T09:53:21.504550+00:00",
-    "title": "Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints"
-  },
-  "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html": {
-    "ts": "2026-09-15T09:53:21.699925+00:00",
-    "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server"
-  },
-  "https://www.intego.com/mac-security-blog/do-i-need-antivirus-on-my-mac/": {
-    "ts": "2026-09-15T09:53:21.896010+00:00",
-    "title": "Do Macs need antivirus, or is built-in protection enough?"
-  },
-  "https://www.theregister.com/ai-and-ml/2026/09/15/the-latest-ai-doomsayer-is-chinas-intelligence-boss/5296451": {
-    "ts": "2026-09-15T09:53:22.091955+00:00",
-    "title": "The latest AI doomsayer is China\u2019s intelligence boss"
-  },
-  "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/": {
-    "ts": "2026-09-15T09:53:22.294707+00:00",
-    "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks"
-  },
-  "https://cybersecuritynews.com/hackers-use-autonomous-ai-agents/": {
-    "ts": "2026-09-15T09:53:22.490291+00:00",
-    "title": "Hackers Use Autonomous AI Agents to Harvest Thousands of Credentials in Under 6 Hours"
-  },
-  "https://gbhackers.com/microsoft-offers-60000-bounty/": {
-    "ts": "2026-09-15T09:53:22.490308+00:00",
-    "title": "Microsoft Offers $60,000 Bounty for Critical Cross-Tenant Vulnerabilities"
-  },
-  "https://www.helpnetsecurity.com/2026/09/15/onetrust-enterprise-ai-governance-trends-report/": {
-    "ts": "2026-09-15T09:53:22.490312+00:00",
-    "title": "Your employees are already using AI tools you never approved"
-  },
-  "https://securityaffairs.com/199090/security/non-zero-day-vpn-flaw-left-japan-government-shared-network-platform-exposed-246000-records-at-risk.html": {
-    "ts": "2026-09-15T09:53:22.490315+00:00",
-    "title": "Non-Zero-Day VPN Flaw Left Japan \u2018s Government Shared Network Platform Exposed: 246,000 Records at Risk"
-  },
-  "https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/": {
-    "ts": "2026-09-15T09:53:22.676805+00:00",
-    "title": "Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack"
-  },
-  "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html": {
-    "ts": "2026-09-15T09:53:22.871736+00:00",
-    "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution"
-  },
-  "https://gbhackers.com/agentic-ai-exploitation/": {
-    "ts": "2026-09-15T09:53:23.067233+00:00",
-    "title": "Hackers Deploy Agentic AI to Automate Exploitation and Mass Credential Harvesting"
-  },
-  "https://www.helpnetsecurity.com/2026/09/15/gartner-ai-in-internal-audit/": {
-    "ts": "2026-09-15T09:53:23.067252+00:00",
-    "title": "Most chief audit executives can\u2019t tell you what AI is worth yet"
-  },
-  "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/": {
-    "ts": "2026-09-15T09:53:23.255908+00:00",
-    "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation"
-  },
-  "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html": {
-    "ts": "2026-09-15T09:53:23.451636+00:00",
-    "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE"
-  },
-  "https://cybersecuritynews.com/marimo-rce-to-steal-aws-credentials-in-8-seconds/": {
-    "ts": "2026-09-15T09:53:23.638982+00:00",
-    "title": "Hackers Exploit Marimo RCE to Steal AWS Credentials and Reach Bastion Host in 8 Seconds"
-  },
-  "https://gbhackers.com/best-cnapp-compared/": {
-    "ts": "2026-09-15T09:53:23.826491+00:00",
-    "title": "12 Best CNAPP Platforms Compared (2026): Features & Pricing"
-  },
-  "https://cybersecuritynews.com/hackers-abuse-vssadmin/": {
-    "ts": "2026-09-15T09:53:24.013445+00:00",
-    "title": "Hackers Abuse VSSAdmin to Extract NTDS.dit and Delete Windows Recovery Copies"
-  },
-  "https://cybersecuritynews.com/best-serverless-security-solutions/": {
-    "ts": "2026-09-15T09:53:24.201163+00:00",
-    "title": "Top 10 Best Serverless Security Solutions in 2026"
-  },
   "https://cybersecuritynews.com/googles-new-search/": {
     "ts": "2026-09-15T14:44:13.771521+00:00",
     "title": "Google\u2019s New Search Redirects Make It Harder to Check Where Links Lead Before Clicking"
@@ -21242,5 +21118,125 @@
   "https://www.helpnetsecurity.com/2026/11/13/microsoft-teams-device-code-phishing/": {
     "ts": "2026-11-14T02:06:23.718565+00:00",
     "title": "How attackers turned a Teams meeting booking into a device code phishing trap"
+  },
+  "https://gbhackers.com/cisa-check-point-zero-day-vulnerability/": {
+    "ts": "2026-11-14T09:57:02.188801+00:00",
+    "title": "CISA Warns of Actively Exploited Check Point Zero-Day Vulnerability Allowing Attackers to Gain Root Access"
+  },
+  "https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/": {
+    "ts": "2026-11-14T09:59:02.648591+00:00",
+    "title": "Inside Falcon AI Gateway: One Control Point for AI Traffic"
+  },
+  "https://cybersecuritynews.com/cursor-data-breach/": {
+    "ts": "2026-11-14T09:59:02.726177+00:00",
+    "title": "Cursor Reveals How a Leaked Fireworks AI Key Led to a Backdoored Claude Code Extension"
+  },
+  "https://gbhackers.com/blacknevas-ransomware-attacks-vmware-esxi-servers/": {
+    "ts": "2026-11-14T09:59:02.767674+00:00",
+    "title": "BlackNevas Ransomware Attacks VMware ESXi Servers, Destroying Virtual Machines and Backup Infrastructure"
+  },
+  "https://www.group-ib.com/blog/cat-s-out-of-the-bag-lynx-ransomware/": {
+    "ts": "2026-11-14T09:59:02.810552+00:00",
+    "title": "Cat\u2019s out of the bag: Lynx Ransomware-as-a-Service"
+  },
+  "https://www.helpnetsecurity.com/2026/11/13/north-korean-it-workers-onboarding/": {
+    "ts": "2026-11-14T09:59:02.810563+00:00",
+    "title": "Suspected North Korean IT workers reached onboarding at companies with open data"
+  },
+  "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/": {
+    "ts": "2026-11-14T09:59:02.856556+00:00",
+    "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update"
+  },
+  "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html": {
+    "ts": "2026-11-14T09:59:02.907356+00:00",
+    "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins"
+  },
+  "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302": {
+    "ts": "2026-11-14T09:59:02.952042+00:00",
+    "title": "Big Tech takes a beating as online safety experts accuse companies of doing bare minimum"
+  },
+  "https://www.welivesecurity.com/en/cybersecurity/gta-vi-isnt-out-yet-scams-full-swing/": {
+    "ts": "2026-11-14T09:59:02.995685+00:00",
+    "title": "GTA VI isn\u2019t out yet \u2013 and the scams are already in full swing"
+  },
+  "https://threats.wiz.io/all-incidents/uat-7237-targets-taiwanese-web-infrastructure-using-customized-open-source-tools": {
+    "ts": "2026-11-14T09:59:03.041470+00:00",
+    "title": "UAT-7237 Targets Taiwanese Web Infrastructure Using Customized Open-Source Tools (Campaign)"
+  },
+  "https://cybersecuritynews.com/check-point-0-day-vulnerability/": {
+    "ts": "2026-11-14T09:59:03.041487+00:00",
+    "title": "CISA Warns of Check Point 0-Day Vulnerability Exploited to Gain Root Access"
+  },
+  "https://www.group-ib.com/blog/odds-ends-unraveling-the-surebet-playbook/": {
+    "ts": "2026-11-14T09:59:03.041491+00:00",
+    "title": "Odds & Ends: Unraveling the Surebet Playbook"
+  },
+  "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/": {
+    "ts": "2026-11-14T09:59:03.041493+00:00",
+    "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html": {
+    "ts": "2026-11-14T09:59:03.083946+00:00",
+    "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files"
+  },
+  "https://www.theregister.com/cyber-crime/2026/11/10/ransomware-threat-blares-from-vanderbilt-university-computers-during-cyberattack/5308687": {
+    "ts": "2026-11-14T09:59:03.083964+00:00",
+    "title": "Ransomware threat blares from Vanderbilt University computers during cyberattack"
+  },
+  "https://threats.wiz.io/all-incidents/akira-ransomware-targeting-critical-vulnerability-in-sonicwall-sslvpn": {
+    "ts": "2026-11-14T09:59:03.130138+00:00",
+    "title": "Akira Ransomware Targeting Critical Vulnerability in SonicWall SSLVPN (Campaign)"
+  },
+  "https://gbhackers.com/hackers-llm-api-keys-artex-ai-agents/": {
+    "ts": "2026-11-14T09:59:03.176867+00:00",
+    "title": "Hackers Use Stolen LLM API Keys to Power ARTEX AI Agents and Continue Credential Theft"
+  },
+  "https://www.group-ib.com/blog/glocal-vision/": {
+    "ts": "2026-11-14T09:59:03.224532+00:00",
+    "title": "Group-IB\u2019s GLOCAL Vision Leading The Fight Against Global Cybercrime"
+  },
+  "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/": {
+    "ts": "2026-11-14T09:59:03.272981+00:00",
+    "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html": {
+    "ts": "2026-11-14T09:59:03.319537+00:00",
+    "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625": {
+    "ts": "2026-11-14T09:59:03.319550+00:00",
+    "title": "Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques"
+  },
+  "https://threats.wiz.io/all-incidents/plague-pam-based-backdoor-for-linux": {
+    "ts": "2026-11-14T09:59:03.361369+00:00",
+    "title": "Plague PAM-Based Backdoor for Linux (Campaign)"
+  },
+  "https://gbhackers.com/fbi-warns-artex-ai-framework/": {
+    "ts": "2026-11-14T09:59:03.404891+00:00",
+    "title": "FBI Warns Hackers Are Weaponizing ARTEX AI Framework to Launch Autonomous Cyberattacks Worldwide"
+  },
+  "https://www.group-ib.com/blog/the-reality-of-deception-real-estate-scams/": {
+    "ts": "2026-11-14T09:59:03.404901+00:00",
+    "title": "The Realty of Deception: Real Estate Frauds Uncovered in the Middle East"
+  },
+  "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/": {
+    "ts": "2026-11-14T09:59:03.450544+00:00",
+    "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit \u2018SignDrop\u2019"
+  },
+  "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html": {
+    "ts": "2026-11-14T09:59:03.497431+00:00",
+    "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers"
+  },
+  "https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434": {
+    "ts": "2026-11-14T09:59:03.497444+00:00",
+    "title": "Microsoft's Azure Linux gets 470-plus security fixes in one almighty patching session"
+  },
+  "https://threats.wiz.io/all-incidents/auto-color-malware-exploits-sap-vulnerability-for--linux-backdoor": {
+    "ts": "2026-11-14T09:59:03.541233+00:00",
+    "title": "Auto-Color Malware Exploits SAP Vulnerability for  Linux Backdoor (Campaign)"
+  },
+  "https://gbhackers.com/hackers-use-falcon-c2-framework/": {
+    "ts": "2026-11-14T09:59:03.582715+00:00",
+    "title": "Hackers Use Falcon C2 Framework to Hijack Browsers and Steal Credentials From Government Agencies"
   }
 }
