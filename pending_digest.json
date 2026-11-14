@@ -64,6 +64,51 @@
       "category": "malware_windows",
       "title": "Hackers Disguise XLoader Malware as Purchase Order Confirmations to Infect Windows Computers",
       "url": "https://gbhackers.com/xloader-malware-attack-2/"
+    },
+    {
+      "category": "malware_android",
+      "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
+      "url": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Hackers Exploit Check Point PHP2Shell Flaws to Gain Root Access and Deploy Wiper Malware",
+      "url": "https://gbhackers.com/hackers-exploit-check-point-php2shell-flaws/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "RansomHub Never Sleeps Episode 1: The evolution of modern ransomware",
+      "url": "https://www.group-ib.com/blog/ransomhub-never-sleeps-episode-1/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "SCKit abuses ScreenConnect to deploy remote access and target technician sessions",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "North Korea \u2018s Crypto Theft Operations: DOJ Seizes $1.2 Billion and Disrupts Hacker Infrastructure",
+      "url": "https://securityaffairs.com/203012/cyber-crime/north-korea-crypto-theft-operations-doj-seizes-1-2-billion-and-disrupts-hacker-infrastructure.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Stolen webcam clips of 900+ victims feed North Korea\u2019s $400 million fake Zoom scheme",
+      "url": "https://www.helpnetsecurity.com/2026/11/13/fbi-north-korean-fake-zoom-calls/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Chinese-Speaking Hackers Weaponize Cairn AI Framework to Breach Semiconductor and Defense Organizations",
+      "url": "https://gbhackers.com/cairn-ai-framework/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "The Dark Side of Automation and Rise of AI Agents: Emerging Risks of Card Testing Attacks",
+      "url": "https://www.group-ib.com/blog/the-dark-side-of-automation-and-rise-of-ai-agent/"
+    },
+    {
+      "category": "new_technique",
+      "title": "How attackers turned a Teams meeting booking into a device code phishing trap",
+      "url": "https://www.helpnetsecurity.com/2026/11/13/microsoft-teams-device-code-phishing/"
     }
   ],
   "last_sent_date": "2026-11-13"

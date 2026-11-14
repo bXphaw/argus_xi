@@ -1,24 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/": {
-    "ts": "2026-09-14T23:45:07.784706+00:00",
-    "title": "Microsoft releases emergency Windows updates to fix RDS failures"
-  },
-  "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink": {
-    "ts": "2026-09-14T23:45:08.006774+00:00",
-    "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink"
-  },
-  "https://www.helpnetsecurity.com/2026/09/15/apple-parental-controls-ios-27/": {
-    "ts": "2026-09-14T23:45:08.006795+00:00",
-    "title": "Apple parental controls in iOS 27 let kids ask before opening new websites"
-  },
-  "https://www.theregister.com/cyber-crime/2026/09/14/hbo-max-reddit-account-compromised-to-serve-clickfix-attacks/5296408": {
-    "ts": "2026-09-14T23:45:08.006799+00:00",
-    "title": "HBO Max Reddit account compromised to serve ClickFix attacks"
-  },
-  "https://www.helpnetsecurity.com/2026/09/15/cybersecurity-jobs-available-right-now-september-15-2026/": {
-    "ts": "2026-09-14T23:45:08.006802+00:00",
-    "title": "Cybersecurity jobs available right now: September 15, 2026"
-  },
   "https://www.helpnetsecurity.com/2026/09/15/homebrew-7-0-0-security-open-source/": {
     "ts": "2026-09-15T04:06:40.219704+00:00",
     "title": "Homebrew 7.0.0 is out, here\u2019s what changed for security"
@@ -21142,5 +21122,125 @@
   "https://gbhackers.com/xloader-malware-attack-2/": {
     "ts": "2026-11-13T21:19:39.255800+00:00",
     "title": "Hackers Disguise XLoader Malware as Purchase Order Confirmations to Infect Windows Computers"
+  },
+  "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/": {
+    "ts": "2026-11-14T02:06:22.130807+00:00",
+    "title": "How one AI agent exposed five critical enterprise security gaps"
+  },
+  "https://cybersecuritynews.com/uber-confirms-data-breach/": {
+    "ts": "2026-11-14T02:06:22.130827+00:00",
+    "title": "Uber Confirms Data Breach \u2013 Hackers Stole Users\u2019 Personal Information"
+  },
+  "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai": {
+    "ts": "2026-11-14T02:06:22.231886+00:00",
+    "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI"
+  },
+  "https://gbhackers.com/hackers-exploit-check-point-php2shell-flaws/": {
+    "ts": "2026-11-14T02:06:22.313614+00:00",
+    "title": "Hackers Exploit Check Point PHP2Shell Flaws to Gain Root Access and Deploy Wiper Malware"
+  },
+  "https://www.group-ib.com/blog/ransomhub-never-sleeps-episode-1/": {
+    "ts": "2026-11-14T02:06:22.392254+00:00",
+    "title": "RansomHub Never Sleeps Episode 1: The evolution of modern ransomware"
+  },
+  "https://www.helpnetsecurity.com/2026/11/13/openai-daybreak-vulnerability-remediation-red-team-defense-factory-agents/": {
+    "ts": "2026-11-14T02:06:22.392275+00:00",
+    "title": "OpenAI\u2019s Daybreak brings AI agents to security testing and vulnerability fixes"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/": {
+    "ts": "2026-11-14T02:06:22.478184+00:00",
+    "title": "SCKit abuses ScreenConnect to deploy remote access and target technician sessions"
+  },
+  "https://www.recordedfuture.com/blog/proactive-threat-intelligence": {
+    "ts": "2026-11-14T02:06:22.478206+00:00",
+    "title": "What is Proactive Threat Intelligence? | Recorded Future"
+  },
+  "https://securityaffairs.com/203012/cyber-crime/north-korea-crypto-theft-operations-doj-seizes-1-2-billion-and-disrupts-hacker-infrastructure.html": {
+    "ts": "2026-11-14T02:06:22.559349+00:00",
+    "title": "North Korea \u2018s Crypto Theft Operations: DOJ Seizes $1.2 Billion and Disrupts Hacker Infrastructure"
+  },
+  "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/": {
+    "ts": "2026-11-14T02:06:22.559370+00:00",
+    "title": "FAA Ground Stop Issued Due to \u2018Extraordinary Circumstances\u2019"
+  },
+  "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/": {
+    "ts": "2026-11-14T02:06:22.642136+00:00",
+    "title": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe"
+  },
+  "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html": {
+    "ts": "2026-11-14T02:06:22.720559+00:00",
+    "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls"
+  },
+  "https://www.theregister.com/devops/2026/11/13/c26-stumbles-at-finish-line-over-contracts-dispute/5309526": {
+    "ts": "2026-11-14T02:06:22.804320+00:00",
+    "title": "C++26 stumbles at finish line over Contracts dispute"
+  },
+  "https://crypto.news/binance-calls-shinyhunters-alleged-335-million-user-data-breach-a-likely-scam/#new_tab": {
+    "ts": "2026-11-14T02:06:22.881812+00:00",
+    "title": "Binance calls ShinyHunters\u2019 alleged 335 million user data breach a likely scam"
+  },
+  "https://threats.wiz.io/all-incidents/warlock-ransomware-exploiting-sharepoint-vulnerabilities-": {
+    "ts": "2026-11-14T02:06:22.964565+00:00",
+    "title": "Warlock Ransomware Exploiting Sharepoint Vulnerabilities  (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/": {
+    "ts": "2026-11-14T02:06:22.964586+00:00",
+    "title": "Microsoft confirms Windows activation failures after November updates"
+  },
+  "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/": {
+    "ts": "2026-11-14T02:06:22.964590+00:00",
+    "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations"
+  },
+  "https://gbhackers.com/openai-launches-advanced-ai-cybersecurity-tools/": {
+    "ts": "2026-11-14T02:06:22.964593+00:00",
+    "title": "OpenAI Launches Advanced AI Cybersecurity Tools for Automated Penetration Testing and Vulnerability Research"
+  },
+  "https://www.group-ib.com/blog/5-ways-to-leverage-our-malware-reports/": {
+    "ts": "2026-11-14T02:06:22.964596+00:00",
+    "title": "5 ways to leverage our Malware Reports for malware analysis"
+  },
+  "https://www.helpnetsecurity.com/2026/11/13/fbi-north-korean-fake-zoom-calls/": {
+    "ts": "2026-11-14T02:06:23.055328+00:00",
+    "title": "Stolen webcam clips of 900+ victims feed North Korea\u2019s $400 million fake Zoom scheme"
+  },
+  "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/": {
+    "ts": "2026-11-14T02:06:23.134752+00:00",
+    "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure"
+  },
+  "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html": {
+    "ts": "2026-11-14T02:06:23.216828+00:00",
+    "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases"
+  },
+  "https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216": {
+    "ts": "2026-11-14T02:06:23.293330+00:00",
+    "title": "European tech buyers add digital sovereignty to cyber shopping list"
+  },
+  "https://www.gate.tr/en/news/detail/binance-founder-cz-denies-335-million-user-data-breach-claims-calls-32195#new_tab": {
+    "ts": "2026-11-14T02:06:23.386773+00:00",
+    "title": "Binance Founder CZ Denies 335 Million User Data Breach Claims"
+  },
+  "https://threats.wiz.io/all-incidents/dripdropper-malware-exploits-patched-apache-activemq-for-persistence-on-cloud-linux-systems": {
+    "ts": "2026-11-14T02:06:23.467929+00:00",
+    "title": "DripDropper Malware Exploits Patched Apache ActiveMQ for Persistence on Cloud Linux Systems (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/": {
+    "ts": "2026-11-14T02:06:23.467948+00:00",
+    "title": "Police arrest 354 suspects in dark web cybercrime crackdown"
+  },
+  "https://cybersecuritynews.com/microsoft-365-massive-outage-fixes-fail-as-restored-servers-keep-going-unresponsive/": {
+    "ts": "2026-11-14T02:06:23.467953+00:00",
+    "title": "Microsoft 365 Massive Outage \u2013 Fixes Fail as Restored Servers Keep Going Unresponsive"
+  },
+  "https://gbhackers.com/cairn-ai-framework/": {
+    "ts": "2026-11-14T02:06:23.552609+00:00",
+    "title": "Chinese-Speaking Hackers Weaponize Cairn AI Framework to Breach Semiconductor and Defense Organizations"
+  },
+  "https://www.group-ib.com/blog/the-dark-side-of-automation-and-rise-of-ai-agent/": {
+    "ts": "2026-11-14T02:06:23.631397+00:00",
+    "title": "The Dark Side of Automation and Rise of AI Agents: Emerging Risks of Card Testing Attacks"
+  },
+  "https://www.helpnetsecurity.com/2026/11/13/microsoft-teams-device-code-phishing/": {
+    "ts": "2026-11-14T02:06:23.718565+00:00",
+    "title": "How attackers turned a Teams meeting booking into a device code phishing trap"
   }
 }
