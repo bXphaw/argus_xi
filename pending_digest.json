@@ -49,6 +49,61 @@
       "category": "malware_linux",
       "title": "Linuxsys Cryptominer Campaign (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/linuxsys-cryptominer-campaign"
+    },
+    {
+      "category": "new_technique",
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Tajin Group: Guarantee Marketplace Vendor Involved in Phishing and Chinese Money Laundering Group",
+      "url": "https://www.recordedfuture.com/research/tajin-group-gurantee-marketplace"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Extortion Group Claims Theft of Nearly One Billion Expedia Traveler Records",
+      "url": "https://securityaffairs.com/203062/cyber-crime/extortion-group-claims-theft-of-nearly-one-billion-expedia-traveler-records.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+      "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "AWS Network Exploitation and Ransomware Detonation (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/aws-network-exploitation-and-ransomware-detonation"
+    },
+    {
+      "category": "new_technique",
+      "title": "AWS Data Exfiltration and Attempted Ransomware (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/aws-data-exfiltration-and-attempted-ransomware"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Tracing the Path of VietCredCare and DuckTail: Vietnamese dark market of infostealers\u2019 data",
+      "url": "https://www.group-ib.com/blog/tracing-the-path-of-vietcredcare-and-ducktail/"
+    },
+    {
+      "category": "malware_macos",
+      "title": "Stealthy Attributes of Lazarus APT Group: Evading Detection with Extended Attributes",
+      "url": "https://www.group-ib.com/blog/stealthy-attributes-of-apt-lazarus/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Attacks on Korean IIS & Linux Servers (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/attacks-on-korean-iis--linux-servers"
+    },
+    {
+      "category": "malware_ios",
+      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+      "url": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Langflow Vulnerability Exploited to Deliver Flodrix Botnet (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/langflow-vulnerability-exploited-to-deliver-flodrix-botnet"
     }
   ],
   "last_sent_date": "2026-11-14"

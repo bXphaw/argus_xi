@@ -1,72 +1,4 @@
 {
-  "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html": {
-    "ts": "2026-09-15T18:47:29.228042+00:00",
-    "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems"
-  },
-  "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/": {
-    "ts": "2026-09-15T18:48:11.554872+00:00",
-    "title": "CenterPoint Energy confirms customer data stolen in cyberattack"
-  },
-  "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises": {
-    "ts": "2026-09-15T18:48:11.805969+00:00",
-    "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month"
-  },
-  "https://www.helpnetsecurity.com/2026/09/15/hbo-max-reddit-account-clickfix-infostealer-malware/": {
-    "ts": "2026-09-15T18:48:12.045827+00:00",
-    "title": "Attackers hijack HBO Max\u2019s Reddit account for 48-hour malvertising blitz"
-  },
-  "https://www.infoblox.com/blog/threat-intelligence/how-money-laundering-scams-and-espionage-hide-in-a-web-full-of-casino-garbage/": {
-    "ts": "2026-09-15T18:48:12.286449+00:00",
-    "title": "How Money Laundering, Scams, and Espionage Hide in a Web Full of Casino Garbage"
-  },
-  "https://www.malwarebytes.com/blog/how-to/2026/09/how-to-opt-out-of-ai-chatbot-training": {
-    "ts": "2026-09-15T18:48:12.286470+00:00",
-    "title": "How to opt out of AI chatbot training"
-  },
-  "https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/": {
-    "ts": "2026-09-15T18:48:12.525385+00:00",
-    "title": "$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws"
-  },
-  "https://www.sophos.com/en-us/blog/ai-research-messageboards": {
-    "ts": "2026-09-15T18:48:12.771006+00:00",
-    "title": "ai research messageboards"
-  },
-  "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html": {
-    "ts": "2026-09-15T18:48:13.007753+00:00",
-    "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists"
-  },
-  "https://www.theregister.com/security/2026/09/15/iranian-spies-hit-windows-machines-with-chosen-brick-data-stealing-malware/5296646": {
-    "ts": "2026-09-15T18:48:13.249675+00:00",
-    "title": "Iranian spies hit Windows machines with Chosen Brick data-stealing malware"
-  },
-  "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/": {
-    "ts": "2026-09-15T18:48:13.488111+00:00",
-    "title": "BambooToken malware controls Windows and Linux systems via MQTT"
-  },
-  "https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/": {
-    "ts": "2026-09-15T18:48:13.488131+00:00",
-    "title": "Exein Secures $270M at $1.7B Valuation for Physical AI Security"
-  },
-  "https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604": {
-    "ts": "2026-09-15T18:48:13.488136+00:00",
-    "title": "Cisco email security boxes can be rooted by... an email"
-  },
-  "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/": {
-    "ts": "2026-09-15T18:48:13.488140+00:00",
-    "title": "Hackers target WordPress sites via third-party WooCommerce plugin"
-  },
-  "https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/": {
-    "ts": "2026-09-15T18:48:13.727359+00:00",
-    "title": "Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data"
-  },
-  "https://www.theregister.com/security/2026/09/15/sponsored-whos-governing-your-ai-a-trust-framework-for-enterprise-agents-and-models/5294237": {
-    "ts": "2026-09-15T18:48:13.727378+00:00",
-    "title": "Who's governing your AI? A trust framework for enterprise agents and models"
-  },
-  "https://www.securityweek.com/apple-patches-200-vulnerabilities-with-new-ios-27-macos-golden-gate-27-releases/": {
-    "ts": "2026-09-15T18:48:13.727383+00:00",
-    "title": "Apple Patches 200 Vulnerabilities With New iOS 27, macOS Golden Gate 27 Releases"
-  },
   "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/": {
     "ts": "2026-09-15T22:00:21.146992+00:00",
     "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin"
@@ -21238,5 +21170,125 @@
   "https://threats.wiz.io/all-incidents/linuxsys-cryptominer-campaign": {
     "ts": "2026-11-14T16:30:55.553347+00:00",
     "title": "Linuxsys Cryptominer Campaign (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/": {
+    "ts": "2026-11-14T21:14:16.904478+00:00",
+    "title": "Cursor confirms security breach led to malicious Claude Code extension"
+  },
+  "https://www.group-ib.com/blog/shady-bets/": {
+    "ts": "2026-11-14T21:14:16.904500+00:00",
+    "title": "Shady Bets: How to Protect Yourself from Gambling Fraud Online"
+  },
+  "https://www.recordedfuture.com/research/tajin-group-gurantee-marketplace": {
+    "ts": "2026-11-14T21:14:17.014664+00:00",
+    "title": "Tajin Group: Guarantee Marketplace Vendor Involved in Phishing and Chinese Money Laundering Group"
+  },
+  "https://securityaffairs.com/203062/cyber-crime/extortion-group-claims-theft-of-nearly-one-billion-expedia-traveler-records.html": {
+    "ts": "2026-11-14T21:14:17.122805+00:00",
+    "title": "Extortion Group Claims Theft of Nearly One Billion Expedia Traveler Records"
+  },
+  "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html": {
+    "ts": "2026-11-14T21:14:17.225759+00:00",
+    "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover"
+  },
+  "https://threats.wiz.io/all-incidents/aws-network-exploitation-and-ransomware-detonation": {
+    "ts": "2026-11-14T21:14:17.326299+00:00",
+    "title": "AWS Network Exploitation and Ransomware Detonation (Campaign)"
+  },
+  "https://www.group-ib.com/blog/rethinking-investigation/": {
+    "ts": "2026-11-14T21:14:17.326334+00:00",
+    "title": "Rethinking investigation: Group-IB\u2019s Graph takes a leap forward"
+  },
+  "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html": {
+    "ts": "2026-11-14T21:14:17.326337+00:00",
+    "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely"
+  },
+  "https://threats.wiz.io/all-incidents/aws-data-exfiltration-and-attempted-ransomware": {
+    "ts": "2026-11-14T21:14:17.436976+00:00",
+    "title": "AWS Data Exfiltration and Attempted Ransomware (Campaign)"
+  },
+  "https://www.group-ib.com/blog/tracing-the-path-of-vietcredcare-and-ducktail/": {
+    "ts": "2026-11-14T21:14:17.549062+00:00",
+    "title": "Tracing the Path of VietCredCare and DuckTail: Vietnamese dark market of infostealers\u2019 data"
+  },
+  "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html": {
+    "ts": "2026-11-14T21:14:17.650755+00:00",
+    "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients"
+  },
+  "https://threats.wiz.io/all-incidents/azure-account-hijack-via-stolen-tokens": {
+    "ts": "2026-11-14T21:14:17.755239+00:00",
+    "title": "Azure Account Hijack via Stolen Tokens (Campaign)"
+  },
+  "https://www.group-ib.com/blog/strengthening-aml-defenses/": {
+    "ts": "2026-11-14T21:14:17.867753+00:00",
+    "title": "Strengthening AML Defenses: Detect Money Mules During Their \u2018Warm-Up\u2019 Phase"
+  },
+  "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html": {
+    "ts": "2026-11-14T21:14:17.979659+00:00",
+    "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned."
+  },
+  "https://threats.wiz.io/all-incidents/in-memory-iis-attacks-via-view-state-deserialization": {
+    "ts": "2026-11-14T21:14:18.102883+00:00",
+    "title": "In-Memory IIS Attacks via View State Deserialization (Campaign)"
+  },
+  "https://www.group-ib.com/blog/stealthy-attributes-of-apt-lazarus/": {
+    "ts": "2026-11-14T21:14:18.225233+00:00",
+    "title": "Stealthy Attributes of Lazarus APT Group: Evading Detection with Extended Attributes"
+  },
+  "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html": {
+    "ts": "2026-11-14T21:14:18.225253+00:00",
+    "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise"
+  },
+  "https://threats.wiz.io/all-incidents/unc5174-exploits-ivanti-csa-zero-days-in-houken-campaign": {
+    "ts": "2026-11-14T21:14:18.225256+00:00",
+    "title": "UNC5174 Exploits Ivanti CSA Zero-Days in \u201cHouken\u201d Campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/chase-cyber-threats/": {
+    "ts": "2026-11-14T21:14:18.225259+00:00",
+    "title": "<s>Run from</s> Chase Cyber Threats"
+  },
+  "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html": {
+    "ts": "2026-11-14T21:14:18.225261+00:00",
+    "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons"
+  },
+  "https://threats.wiz.io/all-incidents/jdwp-exploited-in-the-wild": {
+    "ts": "2026-11-14T21:14:18.346475+00:00",
+    "title": "JDWP Exploited in the Wild (Campaign)"
+  },
+  "https://www.group-ib.com/blog/cybercriminal-tactics-in-the-balkan-region/": {
+    "ts": "2026-11-14T21:14:18.467644+00:00",
+    "title": "Delivery Deception: Escalating cybercriminal tactics in the Balkan region"
+  },
+  "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html": {
+    "ts": "2026-11-14T21:14:18.574025+00:00",
+    "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches"
+  },
+  "https://threats.wiz.io/all-incidents/linux-ssh-servers-compromised-to-deploy-proxies": {
+    "ts": "2026-11-14T21:14:18.674795+00:00",
+    "title": "Linux SSH Servers Compromised to Deploy Proxies (Campaign)"
+  },
+  "https://www.group-ib.com/blog/fraud-protection-know-your-real-users/": {
+    "ts": "2026-11-14T21:14:18.779095+00:00",
+    "title": "Group-IB Fraud Protection: Know your real users, catch the fraudsters"
+  },
+  "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html": {
+    "ts": "2026-11-14T21:14:18.779116+00:00",
+    "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats"
+  },
+  "https://threats.wiz.io/all-incidents/attacks-on-korean-iis--linux-servers": {
+    "ts": "2026-11-14T21:14:18.902124+00:00",
+    "title": "Attacks on Korean IIS & Linux Servers (Campaign)"
+  },
+  "https://www.group-ib.com/blog/global-igaming/": {
+    "ts": "2026-11-14T21:14:18.902146+00:00",
+    "title": "Global iGaming? Tailor Your Security with Group-IB Fraud Protection"
+  },
+  "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html": {
+    "ts": "2026-11-14T21:14:19.022660+00:00",
+    "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed"
+  },
+  "https://threats.wiz.io/all-incidents/langflow-vulnerability-exploited-to-deliver-flodrix-botnet": {
+    "ts": "2026-11-14T21:14:19.121996+00:00",
+    "title": "Langflow Vulnerability Exploited to Deliver Flodrix Botnet (Campaign)"
   }
 }
