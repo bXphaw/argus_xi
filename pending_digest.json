@@ -1,4 +1,55 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "threat_actor",
+      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+      "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/"
+    },
+    {
+      "category": "new_technique",
+      "title": "FBI Reveals How Hackers Use ARTEX AI Agents to Gain Privileged Access in Under Three Hours",
+      "url": "https://cybersecuritynews.com/fbi-reveals-hackers-artex-ai-usage/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Japan Hit by Record Cyberattack Surge as Hackers Use AI to Exploit Security Vulnerabilities",
+      "url": "https://gbhackers.com/japan-cyberattack-ai-security-vulnerabilities/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "AWS CodeBuild Vulnerability Allows Build Process Secrets Extraction (Research)",
+      "url": "https://threats.wiz.io/all-incidents/aws-codebuild-vulnerability-allows-build-process-secrets-extraction"
+    },
+    {
+      "category": "new_technique",
+      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+      "url": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Mimo Targets Magento, Docker, and Cloud Environments (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/mimo-targets-magento-docker-and-cloud-environments"
+    },
+    {
+      "category": "new_technique",
+      "title": "0day Vulnerability in Microsoft Sharepoint Exploited in-the-Wild (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/0day-vulnerability-in-microsoft-sharepoint-exploited-in-the-wild"
+    },
+    {
+      "category": "threat_actor",
+      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+      "url": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Linuxsys Cryptominer Campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/linuxsys-cryptominer-campaign"
+    }
+  ],
   "last_sent_date": "2026-11-14"
 }
