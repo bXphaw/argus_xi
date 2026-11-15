@@ -1,4 +1,40 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "threat_actor",
+      "title": "Week in review: Secret stealer hits GitHub repos, Claude Code turned into remote-controlled implant",
+      "url": "https://www.helpnetsecurity.com/2026/11/15/week-in-review-secret-stealer-hits-github-repos-claude-code-turned-into-remote-controlled-implant/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Every Endpoint Now Runs Node: How AI Tools Multiplied an Unmanaged Runtime",
+      "url": "https://www.morphisec.com/blog/every-endpoint-now-runs-node-how-ai-tools-multiplied-an-unmanaged-runtime/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Atlas Lion Campaign Exploits Device Enrollment and MFA for Persistence (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/atlas-lion-campaign-exploits-device-enrollment-and-mfa-for-persistence"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Extra credit: VietCredCare information stealer takes aim at Vietnamese businesses",
+      "url": "https://www.group-ib.com/blog/vietcredcare-stealer/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Critical Ivanti Connect Secure Vulnerability Exploited by China-linked Actor (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/critical-ivanti-connect-secure-vulnerability-exploited-by-china-linked-actor"
+    },
+    {
+      "category": "malware_ios",
+      "title": "Face Off: Group-IB identifies first iOS trojan stealing facial recognition data",
+      "url": "https://www.group-ib.com/blog/goldfactory-ios-trojan/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Weaver Ant data exfiltration campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/weaver-ant-data-exfiltration-campaign"
+    }
+  ],
   "last_sent_date": "2026-11-15"
 }

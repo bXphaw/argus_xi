@@ -1,112 +1,4 @@
 {
-  "https://securityaffairs.com/199170/data-breach/texas-utility-centerpoint-energy-confirms-data-breach-after-hacker-claims-7-49m-records-stolen.html": {
-    "ts": "2026-09-16T11:09:00.070721+00:00",
-    "title": "Texas Utility CenterPoint Energy Confirms Data Breach After Hacker Claims 7.49M Records Stolen"
-  },
-  "https://www.helpnetsecurity.com/2026/09/16/iranian-hackers-chosen-brick-malware-dissidents-journalists/": {
-    "ts": "2026-09-16T11:09:09.964659+00:00",
-    "title": "Iranian hackers use CHOSEN BRICK data-stealing malware to spy on dissidents and journalists"
-  },
-  "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/": {
-    "ts": "2026-09-16T11:10:43.470127+00:00",
-    "title": "Windows Server 2022 reaches end of mainstream support next month"
-  },
-  "https://blog.talosintelligence.com/securing-the-unpatchable-in-an-age-of-ai-driven-vulnerabilities/": {
-    "ts": "2026-09-16T11:10:43.470147+00:00",
-    "title": "Securing the unpatchable in an age of AI-driven vulnerabilities"
-  },
-  "https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/": {
-    "ts": "2026-09-16T11:10:43.717504+00:00",
-    "title": "PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting"
-  },
-  "https://www.group-ib.com/blog/adversary-full-force-industry/": {
-    "ts": "2026-09-16T11:10:43.717519+00:00",
-    "title": "The Adversary We Are Fighting Is Now a Full-Force Industry: Inside cybercrime\u2019s new economy"
-  },
-  "https://www.helpnetsecurity.com/2026/09/16/centerpoint-energy-data-breach-hacker-claims/": {
-    "ts": "2026-09-16T11:10:43.717523+00:00",
-    "title": "CenterPoint Energy confirms data breach following claims on hacking forum"
-  },
-  "https://www.malwarebytes.com/blog/mobile/2026/09/google-pixel-owners-urged-to-patch-actively-exploited-modem-flaw": {
-    "ts": "2026-09-16T11:10:43.763219+00:00",
-    "title": "Google Pixel owners urged to patch actively exploited modem flaw"
-  },
-  "https://unit42.paloaltonetworks.com/atomic-macos-amos-stealer-activity/": {
-    "ts": "2026-09-16T11:10:43.807667+00:00",
-    "title": "Atomic macOS (AMOS) Stealer Activity"
-  },
-  "https://securelist.com/tr/nighteagle-apt-ghostcontainer-and-tunneling/121323/": {
-    "ts": "2026-09-16T11:10:43.852841+00:00",
-    "title": "NightEagle targets Russian companies"
-  },
-  "https://www.securityweek.com/280000-impacted-by-premier-medical-group-data-breach/": {
-    "ts": "2026-09-16T11:10:43.897849+00:00",
-    "title": "280,000 Impacted by Premier Medical Group Data Breach"
-  },
-  "https://www.sentinelone.com/labs/agents-at-large-tracing-illicit-openai-agent-activity-on-hugging-face/": {
-    "ts": "2026-09-16T11:10:43.944682+00:00",
-    "title": "Agents at Large | Tracing Illicit OpenAI Agent Activity on Hugging Face"
-  },
-  "https://www.security.com/product-insights/sensitive-data-thrives-quiet-environment": {
-    "ts": "2026-09-16T11:10:43.944740+00:00",
-    "title": "Sensitive Data Thrives in a Quiet Environment"
-  },
-  "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html": {
-    "ts": "2026-09-16T11:10:43.989805+00:00",
-    "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells"
-  },
-  "https://www.theregister.com/security/2026/09/16/ministry-of-justice-apologizes-after-court-staff-accessed-southport-victims-files/5296808": {
-    "ts": "2026-09-16T11:10:43.989823+00:00",
-    "title": "Ministry of Justice apologizes after court staff accessed Southport victims' files"
-  },
-  "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/": {
-    "ts": "2026-09-16T11:10:44.034053+00:00",
-    "title": "Google fixes actively exploited Android zero-day on Pixel devices"
-  },
-  "https://www.helpnetsecurity.com/2026/09/16/google-mandiant-enterprise-ai-security-risks-report/": {
-    "ts": "2026-09-16T11:10:44.034067+00:00",
-    "title": "One runaway AI agent racked up a $50,000 cloud bill"
-  },
-  "https://www.malwarebytes.com/blog/threat-intel/2026/09/ai-helps-scammers-build-convincing-antivirus-renewal-pages": {
-    "ts": "2026-09-16T11:10:44.034071+00:00",
-    "title": "AI helps scammers build convincing antivirus renewal pages"
-  },
-  "https://www.securityweek.com/chrome-firefox-updates-patch-115-vulnerabilities/": {
-    "ts": "2026-09-16T11:10:44.034074+00:00",
-    "title": "Chrome, Firefox Updates Patch 115 Vulnerabilities"
-  },
-  "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html": {
-    "ts": "2026-09-16T11:10:44.080967+00:00",
-    "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens"
-  },
-  "https://www.theregister.com/security/2026/09/16/mythos-has-made-2026-patching-hell-it-might-make-2027-a-breeze/5296747": {
-    "ts": "2026-09-16T11:10:44.080983+00:00",
-    "title": "Mythos has made 2026 patching hell. It might make 2027 a breeze"
-  },
-  "https://www.helpnetsecurity.com/2026/09/16/acronis-backup-plugin-vulnerability-exploited-cve-2026-87886/": {
-    "ts": "2026-09-16T11:10:44.127085+00:00",
-    "title": "Acronis backup plugin flaw exploited in targeted attacks (CVE-2026-87886)"
-  },
-  "https://www.securityweek.com/acronis-patches-exploited-vulnerability-in-cpanel-backup-plugin/": {
-    "ts": "2026-09-16T11:10:44.171410+00:00",
-    "title": "Acronis Patches Exploited Vulnerability in cPanel Backup Plugin"
-  },
-  "https://www.securityweek.com/enterprises-warned-of-attacks-exploiting-wso2-vulnerability/": {
-    "ts": "2026-09-16T11:10:44.222749+00:00",
-    "title": "Enterprises Warned of Attacks Exploiting WSO2 Vulnerability"
-  },
-  "https://www.helpnetsecurity.com/2026/09/16/nist-cisa-cloud-token-security-guidance/": {
-    "ts": "2026-09-16T11:10:44.267813+00:00",
-    "title": "NIST and CISA finalize playbook to stop token theft and forgery"
-  },
-  "https://www.securityweek.com/oracle-patches-800-vulnerabilities-in-september-2026-security-update/": {
-    "ts": "2026-09-16T11:10:44.314780+00:00",
-    "title": "Oracle Patches 800+ Vulnerabilities in September 2026 Security Update"
-  },
-  "https://www.helpnetsecurity.com/2026/09/16/gourab-basu-meshiq-ai-agent-governance/": {
-    "ts": "2026-09-16T11:10:44.361445+00:00",
-    "title": "What happens when AI agent governance is missing at scale"
-  },
   "https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/": {
     "ts": "2026-09-16T16:29:14.079838+00:00",
     "title": "Pixel Modem Zero-Day Exploited in Targeted Attacks"
@@ -21390,5 +21282,125 @@
   "https://threats.wiz.io/all-incidents/crazyhunter-ransomware-group-targets-critical-sectors-in-taiwan": {
     "ts": "2026-11-15T09:00:06.043070+00:00",
     "title": "CrazyHunter Ransomware Group Targets Critical Sectors in Taiwan (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/": {
+    "ts": "2026-11-15T16:17:32.625407+00:00",
+    "title": "TSMC employee data breach linked to cloud provider"
+  },
+  "https://cybersecuritynews.com/supermarket-refrigeration-systems-0-day/": {
+    "ts": "2026-11-15T16:17:32.625429+00:00",
+    "title": "Researchers Find Six 0-Days Allowing Unauthorized Takeover of Supermarket Refrigeration Systems"
+  },
+  "https://www.group-ib.com/blog/gdpr/": {
+    "ts": "2026-11-15T16:17:32.625433+00:00",
+    "title": "GDPR: A shield for consumers, a shackle for fraud fighters?"
+  },
+  "https://www.helpnetsecurity.com/2026/11/15/week-in-review-secret-stealer-hits-github-repos-claude-code-turned-into-remote-controlled-implant/": {
+    "ts": "2026-11-15T16:17:32.728108+00:00",
+    "title": "Week in review: Secret stealer hits GitHub repos, Claude Code turned into remote-controlled implant"
+  },
+  "https://www.morphisec.com/blog/every-endpoint-now-runs-node-how-ai-tools-multiplied-an-unmanaged-runtime/": {
+    "ts": "2026-11-15T16:17:32.772713+00:00",
+    "title": "Every Endpoint Now Runs Node: How AI Tools Multiplied an Unmanaged Runtime"
+  },
+  "https://securityaffairs.com/203156/malware/security-affairs-malware-newsletter-round-123.html": {
+    "ts": "2026-11-15T16:17:32.772727+00:00",
+    "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 123"
+  },
+  "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/": {
+    "ts": "2026-11-15T16:17:32.772731+00:00",
+    "title": "Pentagon Renames CDAO \u2018Super Intelligence Office\u2019"
+  },
+  "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html": {
+    "ts": "2026-11-15T16:17:32.772734+00:00",
+    "title": "Italy Fines Meta \u20ac805 Million Over Facebook's Android Gallery Access Without Explicit Consent"
+  },
+  "https://threats.wiz.io/all-incidents/aws-breach-at-a-saas-company": {
+    "ts": "2026-11-15T16:17:32.772737+00:00",
+    "title": "AWS Breach at a SaaS Company (Incident)"
+  },
+  "https://www.group-ib.com/blog/generative-ai/": {
+    "ts": "2026-11-15T16:17:32.772740+00:00",
+    "title": "Generative AI: Raising the stakes for fraud in iGaming"
+  },
+  "https://securityaffairs.com/203140/breaking-news/security-affairs-newsletter-round-604-by-pierluigi-paganini-international-edition.html": {
+    "ts": "2026-11-15T16:17:32.816672+00:00",
+    "title": "Security Affairs newsletter Round 604 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION"
+  },
+  "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/": {
+    "ts": "2026-11-15T16:17:32.858510+00:00",
+    "title": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook"
+  },
+  "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html": {
+    "ts": "2026-11-15T16:17:32.902153+00:00",
+    "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident"
+  },
+  "https://threats.wiz.io/all-incidents/bpfdoors-hidden-controller-targets-amea-sectors": {
+    "ts": "2026-11-15T16:17:32.945753+00:00",
+    "title": "BPFDoor\u2019s Hidden Controller Targets AMEA Sectors (Campaign)"
+  },
+  "https://www.group-ib.com/blog/labhost-operation/": {
+    "ts": "2026-11-15T16:17:32.990292+00:00",
+    "title": "Phishy Business: Unraveling LabHost\u2019s scam ecosystem"
+  },
+  "https://securityaffairs.com/203126/data-breach/data-breach-at-la-poste-subsidiary-maileva-affects-22-million-people-in-france.html": {
+    "ts": "2026-11-15T16:17:32.990305+00:00",
+    "title": "Data Breach at La Poste Subsidiary Maileva Affects 22 Million People in France"
+  },
+  "https://threats.wiz.io/all-incidents/atlas-lion-campaign-exploits-device-enrollment-and-mfa-for-persistence": {
+    "ts": "2026-11-15T16:17:33.035315+00:00",
+    "title": "Atlas Lion Campaign Exploits Device Enrollment and MFA for Persistence (Campaign)"
+  },
+  "https://www.group-ib.com/blog/hunting-rituals-4/": {
+    "ts": "2026-11-15T16:17:33.035328+00:00",
+    "title": "Hunting Rituals #4: Threat hunting for execution via Windows Management Instrumentation"
+  },
+  "https://threats.wiz.io/all-incidents/long-term-email-breach-at-occ-exposes-sensitive-bank-oversight-data": {
+    "ts": "2026-11-15T16:17:33.035332+00:00",
+    "title": "Long-Term Email Breach at OCC Exposes Sensitive Bank Oversight Data (Incident)"
+  },
+  "https://www.group-ib.com/blog/pegasus-spyware/": {
+    "ts": "2026-11-15T16:17:33.035335+00:00",
+    "title": "In-Depth Analysis of Pegasus Spyware and How To Detect It on Your Mobile Devices"
+  },
+  "https://threats.wiz.io/all-incidents/europecar-gitlab-breach": {
+    "ts": "2026-11-15T16:17:33.035338+00:00",
+    "title": "Europecar Gitlab Breach (Incident)"
+  },
+  "https://www.group-ib.com/blog/vietcredcare-stealer/": {
+    "ts": "2026-11-15T16:17:33.082059+00:00",
+    "title": "Extra credit: VietCredCare information stealer takes aim at Vietnamese businesses"
+  },
+  "https://threats.wiz.io/all-incidents/critical-ivanti-connect-secure-vulnerability-exploited-by-china-linked-actor": {
+    "ts": "2026-11-15T16:17:33.130743+00:00",
+    "title": "Critical Ivanti Connect Secure Vulnerability Exploited by China-linked Actor (Campaign)"
+  },
+  "https://www.group-ib.com/blog/goldfactory-ios-trojan/": {
+    "ts": "2026-11-15T16:17:33.178416+00:00",
+    "title": "Face Off: Group-IB identifies first iOS trojan stealing facial recognition data"
+  },
+  "https://threats.wiz.io/all-incidents/weaver-ant-data-exfiltration-campaign": {
+    "ts": "2026-11-15T16:17:33.223106+00:00",
+    "title": "Weaver Ant data exfiltration campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/resumelooters/": {
+    "ts": "2026-11-15T16:17:33.272408+00:00",
+    "title": "Dead-end job: ResumeLooters infect websites in APAC through SQL injection and XSS attacks"
+  },
+  "https://threats.wiz.io/all-incidents/albabat-ransomware-targets-windows-linux-and-macos-using-github-infrastructure": {
+    "ts": "2026-11-15T16:17:33.317056+00:00",
+    "title": "Albabat Ransomware Targets Windows, Linux, and macOS Using GitHub Infrastructure (Campaign)"
+  },
+  "https://www.group-ib.com/blog/inferno-drainer/": {
+    "ts": "2026-11-15T16:17:33.361265+00:00",
+    "title": "Inferno Drainer: A Deep Dive into Crypto Wallet-Draining Malware"
+  },
+  "https://threats.wiz.io/all-incidents/oracle-cloud-potential-supply-chain-breach": {
+    "ts": "2026-11-15T16:17:33.404591+00:00",
+    "title": "Oracle Cloud Potential Supply Chain Breach (Incident)"
+  },
+  "https://www.group-ib.com/blog/hunting-rituals-3/": {
+    "ts": "2026-11-15T16:17:33.448834+00:00",
+    "title": "Hunting Rituals #3: Threat hunting for scheduled tasks"
   }
 }
