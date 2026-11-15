@@ -1,44 +1,4 @@
 {
-  "https://cybersecuritynews.com/google-chrome-fixes-42-flaws/": {
-    "ts": "2026-09-16T05:47:43.496596+00:00",
-    "title": "Google Chrome 153 Update Fixes 42 Security Flaws, Including 3 Critical Ones"
-  },
-  "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive": {
-    "ts": "2026-09-16T05:47:43.574061+00:00",
-    "title": "Cyber Op Targets South Korean Media &amp; Automotive Sectors"
-  },
-  "https://gbhackers.com/apple-releases-ios-27-security-update/": {
-    "ts": "2026-09-16T05:47:43.574083+00:00",
-    "title": "Apple Releases iOS 27 Security Update to Fix Over 120 Vulnerabilities"
-  },
-  "https://www.helpnetsecurity.com/2026/09/16/vulnerable-windows-drivers-deepzero-open-source/": {
-    "ts": "2026-09-16T05:47:43.574087+00:00",
-    "title": "DeepZero: Open-source hunting for vulnerable Windows drivers"
-  },
-  "https://gbhackers.com/kremlin-banking-malware/": {
-    "ts": "2026-09-16T05:47:43.632558+00:00",
-    "title": "KREMLIN Banking Malware Bypasses Chrome Security to Steal Banking Sessions"
-  },
-  "https://www.helpnetsecurity.com/2026/09/16/material-google-workspace-attack-chains/": {
-    "ts": "2026-09-16T05:47:43.691523+00:00",
-    "title": "The modern attack chain: Rethinking Google Workspace security in the age of AI"
-  },
-  "https://gbhackers.com/luciferus-uncensored-ai-service/": {
-    "ts": "2026-09-16T05:47:43.751495+00:00",
-    "title": "Luciferus Uncensored AI Service Lets Cybercriminals Generate RAT Malware"
-  },
-  "https://www.helpnetsecurity.com/2026/09/16/msp-ciso-services-compliance/": {
-    "ts": "2026-09-16T05:47:43.808850+00:00",
-    "title": "MSPs say nearly half their customers rely on them for CISO services"
-  },
-  "https://gbhackers.com/3022-malicious-rubygems/": {
-    "ts": "2026-09-16T05:47:43.867532+00:00",
-    "title": "OpenAI Agent Swarm Linked to 3,022 Malicious RubyGems Packages in GemStuffer Campaign"
-  },
-  "https://gbhackers.com/google-chrome-153-released/": {
-    "ts": "2026-09-16T05:47:43.927072+00:00",
-    "title": "Google Chrome 153 Released With Fixes for 42 Security Vulnerabilities"
-  },
   "https://securityaffairs.com/199170/data-breach/texas-utility-centerpoint-energy-confirms-data-breach-after-hacker-claims-7-49m-records-stolen.html": {
     "ts": "2026-09-16T11:09:00.070721+00:00",
     "title": "Texas Utility CenterPoint Energy Confirms Data Breach After Hacker Claims 7.49M Records Stolen"
@@ -21314,5 +21274,121 @@
   "https://threats.wiz.io/all-incidents/redisraider-linux-cryptojacking-campaign-targets-redis-servers": {
     "ts": "2026-11-15T01:38:04.539441+00:00",
     "title": "RedisRaider Linux Cryptojacking Campaign Targets Redis Servers (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/apache-druid-cryptojacking": {
+    "ts": "2026-11-15T09:00:05.009840+00:00",
+    "title": "Apache Druid cryptojacking (Campaign)"
+  },
+  "https://www.group-ib.com/blog/brain-cipher-ransomware/": {
+    "ts": "2026-11-15T09:00:03.571388+00:00",
+    "title": "Deciphering the Brain Cipher Ransomware"
+  },
+  "https://threats.wiz.io/all-incidents/comfyui-exploitation-campaign--": {
+    "ts": "2026-11-15T09:00:03.674647+00:00",
+    "title": "ComfyUI exploitation campaign   (Campaign)"
+  },
+  "https://www.group-ib.com/blog/compromised-mdm-credentials/": {
+    "ts": "2026-11-15T09:00:03.674672+00:00",
+    "title": "Under Siege: The threat of compromised Mobile Device Management credentials and its implications for organizational security"
+  },
+  "https://threats.wiz.io/all-incidents/supply-chain-compromise-of-": {
+    "ts": "2026-11-15T09:00:03.787217+00:00",
+    "title": "Supply Chain Compromise of  (Campaign)"
+  },
+  "https://www.group-ib.com/blog/nis-2-compliance/": {
+    "ts": "2026-11-15T09:00:03.787240+00:00",
+    "title": "NIS 2 compliance for EU businesses: Meet cybersecurity requirements before the deadline (October 17)"
+  },
+  "https://threats.wiz.io/all-incidents/xai-leaked-api-key": {
+    "ts": "2026-11-15T09:00:03.787244+00:00",
+    "title": "xAI leaked API key (Research)"
+  },
+  "https://www.group-ib.com/blog/craxs-rat-malaysia/": {
+    "ts": "2026-11-15T09:00:03.908368+00:00",
+    "title": "Beware CraxsRAT: Android Remote Access malware strikes in Malaysia"
+  },
+  "https://threats.wiz.io/all-incidents/larva-25003-iis-native-module-malware-used-in-targeted-web-server-attacks": {
+    "ts": "2026-11-15T09:00:04.018384+00:00",
+    "title": "Larva-25003: IIS Native Module Malware Used in Targeted Web Server Attacks (Campaign)"
+  },
+  "https://www.group-ib.com/blog/gxc-team-unmasked/": {
+    "ts": "2026-11-15T09:00:04.120843+00:00",
+    "title": "GXC Team Unmasked: The cybercriminal group targeting Spanish bank users with AI-powered phishing tools and Android malware"
+  },
+  "https://threats.wiz.io/all-incidents/nodejs-repository-cicd-vulnerable-to-rce": {
+    "ts": "2026-11-15T09:00:04.235577+00:00",
+    "title": "Node.js repository CI/CD vulnerable to RCE (Research)"
+  },
+  "https://www.group-ib.com/blog/qilin-revisited/": {
+    "ts": "2026-11-15T09:00:04.352236+00:00",
+    "title": "Qilin Revisited: Diving into the techniques and procedures of the recent Qilin Ransomware Attacks"
+  },
+  "https://threats.wiz.io/all-incidents/grafana-github-action-attempted-supply-chain-attack": {
+    "ts": "2026-11-15T09:00:04.458086+00:00",
+    "title": "Grafana GitHub Action attempted supply chain attack (Incident)"
+  },
+  "https://www.group-ib.com/blog/digital-risk-protection/": {
+    "ts": "2026-11-15T09:00:04.571769+00:00",
+    "title": "Group-IB Digital Risk Protection: How does it enable the fastest violation detection and takedown?"
+  },
+  "https://threats.wiz.io/all-incidents/password-spray-attack-leads-to-containers-being-used-for-cryptomining": {
+    "ts": "2026-11-15T09:00:04.681555+00:00",
+    "title": "Password spray attack leads to containers being used for cryptomining (Campaign)"
+  },
+  "https://www.group-ib.com/blog/estate-ransomware/": {
+    "ts": "2026-11-15T09:00:04.787278+00:00",
+    "title": "Patch or Peril: A Veeam vulnerability incident"
+  },
+  "https://threats.wiz.io/all-incidents/hybrid-attack-discovered-by-mandiant": {
+    "ts": "2026-11-15T09:00:04.897466+00:00",
+    "title": "Hybrid attack discovered by Mandiant (Incident)"
+  },
+  "https://www.group-ib.com/blog/cyber-fraud-prevention/": {
+    "ts": "2026-11-15T09:00:04.897492+00:00",
+    "title": "Breaking silos: The convergence of cybersecurity and fraud prevention"
+  },
+  "https://www.group-ib.com/blog/eldorado-ransomware/": {
+    "ts": "2026-11-15T09:00:05.135675+00:00",
+    "title": "Eldorado Ransomware: The New Golden Empire of Cybercrime?"
+  },
+  "https://www.group-ib.com/blog/mssp-competitive-edge/": {
+    "ts": "2026-11-15T09:00:05.135699+00:00",
+    "title": "Boost your MSSP\u2019s competitive edge: New strategies for leveraging Threat Intelligence"
+  },
+  "https://threats.wiz.io/all-incidents/sap-netweaver-visual-composer-exploitation-campaign": {
+    "ts": "2026-11-15T09:00:05.246288+00:00",
+    "title": "SAP NetWeaver Visual Composer exploitation campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/craxs-rat-malware/": {
+    "ts": "2026-11-15T09:00:05.364196+00:00",
+    "title": "Craxs Rat, the master tool behind fake app scams and banking fraud"
+  },
+  "https://threats.wiz.io/all-incidents/multi-layered-cryptojacking-via-docker": {
+    "ts": "2026-11-15T09:00:05.468359+00:00",
+    "title": "Multi-Layered Cryptojacking via Docker (Campaign)"
+  },
+  "https://www.group-ib.com/blog/boolka/": {
+    "ts": "2026-11-15T09:00:05.589846+00:00",
+    "title": "Boolka Unveiled: From web attacks to modular malware"
+  },
+  "https://threats.wiz.io/all-incidents/rspack-supply-chain-attack": {
+    "ts": "2026-11-15T09:00:05.706412+00:00",
+    "title": "Rspack supply chain attack (Incident)"
+  },
+  "https://www.group-ib.com/blog/goldpickaxe-ios-trojan/": {
+    "ts": "2026-11-15T09:00:05.829208+00:00",
+    "title": "GoldPickaxe exposed: How Group-IB analyzed the face-stealing iOS Trojan and how to do it yourself"
+  },
+  "https://threats.wiz.io/all-incidents/unc5174-linux-espionage-campaign": {
+    "ts": "2026-11-15T09:00:05.938573+00:00",
+    "title": "UNC5174 Linux Espionage Campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/genai-or-not-genai/": {
+    "ts": "2026-11-15T09:00:05.938593+00:00",
+    "title": "Reorienting Cybersecurity: To GenAI or not to GenAI?"
+  },
+  "https://threats.wiz.io/all-incidents/crazyhunter-ransomware-group-targets-critical-sectors-in-taiwan": {
+    "ts": "2026-11-15T09:00:06.043070+00:00",
+    "title": "CrazyHunter Ransomware Group Targets Critical Sectors in Taiwan (Campaign)"
   }
 }
