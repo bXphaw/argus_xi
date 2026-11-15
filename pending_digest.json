@@ -104,6 +104,66 @@
       "category": "malware_linux",
       "title": "Langflow Vulnerability Exploited to Deliver Flodrix Botnet (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/langflow-vulnerability-exploited-to-deliver-flodrix-botnet"
+    },
+    {
+      "category": "malware_other",
+      "title": "SFireTruck: Malicious JavaScript Campaign Using Obfuscation (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/sfiretruck-malicious-javascript-campaign-using-obfuscation"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Encrypted Symphony: Infiltrating the Cicada3301 Ransomware-as-a-Service Group",
+      "url": "https://www.group-ib.com/blog/cicada3301/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "TeamFiltration Account Takeover Campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/teamfiltration-account-takeover-campaign"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+      "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "NPM Supply Chain Attack Compromises 16 Popular React Native and GlueStack Packages (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/npm-supply-chain-attack-compromises-16-popular-react-native-and-gluestack-packages"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Earth Lamia Custom Toolkit Targets Multiple Sectors via Web Vulnerabilities (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/earth-lamia-custom-toolkit-targets-multiple-sectors-via-web-vulnerabilities"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Storm clouds on the horizon: Resurgence of TeamTNT?",
+      "url": "https://www.group-ib.com/blog/teamtnt/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "UTG-Q-015 Exploits 0-Days for Espionage in Asia (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/utg-q-015-exploits-0-days-for-espionage-in-asia"
+    },
+    {
+      "category": "threat_actor",
+      "title": "RansomHub ransomware-as-a-service",
+      "url": "https://www.group-ib.com/blog/ransomhub-raas/"
+    },
+    {
+      "category": "new_technique",
+      "title": "From stolen cloud key to persistence-as-a-service (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/from-stolen-cloud-key-to-persistence-as-a-service"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hiding in plain sight: Techniques and defenses against `/proc` filesystem manipulation in Linux",
+      "url": "https://www.group-ib.com/blog/linux-pro-manipulation/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "RedisRaider Linux Cryptojacking Campaign Targets Redis Servers (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/redisraider-linux-cryptojacking-campaign-targets-redis-servers"
     }
   ],
   "last_sent_date": "2026-11-14"

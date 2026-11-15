@@ -1,100 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/": {
-    "ts": "2026-09-15T22:00:21.146992+00:00",
-    "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin"
-  },
-  "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday": {
-    "ts": "2026-09-15T22:00:21.147009+00:00",
-    "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday"
-  },
-  "https://securityaffairs.com/199156/security/u-s-cisa-adds-cisco-secure-email-gateway-flaw-to-its-known-exploited-vulnerabilities-catalog.html": {
-    "ts": "2026-09-15T22:00:21.147012+00:00",
-    "title": "U.S. CISA adds Cisco Secure Email Gateway flaw to its Known Exploited Vulnerabilities catalog"
-  },
-  "https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/": {
-    "ts": "2026-09-15T22:00:21.147016+00:00",
-    "title": "Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?"
-  },
-  "https://www.silentpush.com/blog/fast-flux-phishing/?utm_source=rss&utm_medium=rss&utm_campaign=fast-flux-phishing": {
-    "ts": "2026-09-15T22:00:21.147019+00:00",
-    "title": "Silent Push Tracks a Mass Phishing Operation Through Fast Flux"
-  },
-  "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html": {
-    "ts": "2026-09-15T22:00:21.488119+00:00",
-    "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens"
-  },
-  "https://www.theregister.com/security/2026/09/15/the-vulnpocalypse-rains-ibugs-down-on-apple-with-record-setting-number-of-patches/5296679": {
-    "ts": "2026-09-15T22:00:21.611475+00:00",
-    "title": "The vulnpocalypse rains iBugs down on Apple with record-setting number of patches"
-  },
-  "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/": {
-    "ts": "2026-09-15T22:00:21.755561+00:00",
-    "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites"
-  },
-  "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk": {
-    "ts": "2026-09-15T22:00:21.868382+00:00",
-    "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI\u2013Hugging Face Incident"
-  },
-  "https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/": {
-    "ts": "2026-09-15T22:00:22.015447+00:00",
-    "title": "\u201cWe Think the Security Control Is Working\u201d Is No Longer Good Enough"
-  },
-  "https://www.theregister.com/security/2026/09/15/low-quality-casino-sites-conceal-highly-dangerous-threat-actors/5296652": {
-    "ts": "2026-09-15T22:00:22.145642+00:00",
-    "title": "Low-quality casino sites conceal highly dangerous threat actors"
-  },
-  "https://cybersecuritynews.com/cisa-nist-identity-token-security/": {
-    "ts": "2026-09-16T00:10:47.881662+00:00",
-    "title": "CISA and NIST Release Technical Checklist for Safeguarding Identity Tokens From Theft and Misuse"
-  },
-  "https://gbhackers.com/wordpress-events-calendar-vulnerabilities/": {
-    "ts": "2026-09-16T00:10:48.048955+00:00",
-    "title": "WordPress Events Calendar Vulnerabilities Let Hackers Take Over 600,000 Websites"
-  },
-  "https://cybersecuritynews.com/cisa-active-directory-attack-techniques/": {
-    "ts": "2026-09-16T00:10:48.048968+00:00",
-    "title": "CISA Shares 17 Techniques Used by Hackers to Compromise Active Directory Environments"
-  },
-  "https://gbhackers.com/red-heron-hackers-exploit-critical-gitea-rce/": {
-    "ts": "2026-09-16T00:10:48.093151+00:00",
-    "title": "Red Heron Hackers Exploit Critical Gitea RCE to Steal Source Code and Deploy Linux Rootkit"
-  },
-  "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/": {
-    "ts": "2026-09-16T00:10:48.093162+00:00",
-    "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices"
-  },
-  "https://gbhackers.com/telegram-desktop-xss-vulnerability-lets-attackers-steal-entire-chat-histories/": {
-    "ts": "2026-09-16T00:10:48.137521+00:00",
-    "title": "Telegram Desktop XSS Vulnerability Lets Attackers Steal Entire Chat Histories"
-  },
-  "https://cybersecuritynews.com/how-to-keep-malwares-rotating-infrastructure-from-becoming-a-detection-gap/": {
-    "ts": "2026-09-16T00:10:48.195472+00:00",
-    "title": "How to Keep Malware\u2019s Rotating Infrastructure From Becoming a Detection Gap"
-  },
-  "https://gbhackers.com/marimo-rce-flaw/": {
-    "ts": "2026-09-16T00:10:48.663142+00:00",
-    "title": "Marimo RCE Flaw Lets Hackers Steal AWS Credentials and Pivot to Bastion Host in 8 Seconds"
-  },
-  "https://cybersecuritynews.com/microsoft-ai-cyberattack-ban/": {
-    "ts": "2026-09-16T00:10:48.716772+00:00",
-    "title": "Microsoft Bans Its AI Models From Launching Cyberattacks or Escalating Their Own Access"
-  },
-  "https://gbhackers.com/intel-tdx-under-attack/": {
-    "ts": "2026-09-16T00:10:49.017428+00:00",
-    "title": "DDRop Attack Forces Intel TDX Confidential VMs Into Debug Mode and Exposes Memory"
-  },
-  "https://cybersecuritynews.com/hackers-advertise-luciferus-ai-service/": {
-    "ts": "2026-09-16T00:10:49.017443+00:00",
-    "title": "Hackers Advertise Uncensored Luciferus AI Service on Underground Forums"
-  },
-  "https://cybersecuritynews.com/cisco-secure-email-gateway-0-day-vulnerability-exploited/": {
-    "ts": "2026-09-16T00:10:49.063727+00:00",
-    "title": "CISA Warns of Cisco Secure Email Gateway 0-Day Vulnerability Actively Exploited in Attacks"
-  },
-  "https://cybersecuritynews.com/japan-digital-agency-data-breach/": {
-    "ts": "2026-09-16T00:10:49.063741+00:00",
-    "title": "Japan\u2019s Digital Agency Breach Exposes 240,000+ Users\u2019 Personal Records to Hackers"
-  },
   "https://cybersecuritynews.com/google-chrome-fixes-42-flaws/": {
     "ts": "2026-09-16T05:47:43.496596+00:00",
     "title": "Google Chrome 153 Update Fixes 42 Security Flaws, Including 3 Critical Ones"
@@ -21290,5 +21194,125 @@
   "https://threats.wiz.io/all-incidents/langflow-vulnerability-exploited-to-deliver-flodrix-botnet": {
     "ts": "2026-11-14T21:14:19.121996+00:00",
     "title": "Langflow Vulnerability Exploited to Deliver Flodrix Botnet (Campaign)"
+  },
+  "https://www.group-ib.com/blog/fake-wood-scams/": {
+    "ts": "2026-11-15T01:38:03.502135+00:00",
+    "title": "Woodn\u2019t You Believe It? The Rise of Fake Wood Scams"
+  },
+  "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html": {
+    "ts": "2026-11-15T01:38:03.502153+00:00",
+    "title": "Beyond the Alert: The Case for Rich Network Data"
+  },
+  "https://threats.wiz.io/all-incidents/sfiretruck-malicious-javascript-campaign-using-obfuscation": {
+    "ts": "2026-11-15T01:38:03.560884+00:00",
+    "title": "SFireTruck: Malicious JavaScript Campaign Using Obfuscation (Campaign)"
+  },
+  "https://www.group-ib.com/blog/cicada3301/": {
+    "ts": "2026-11-15T01:38:03.609237+00:00",
+    "title": "Encrypted Symphony: Infiltrating the Cicada3301 Ransomware-as-a-Service Group"
+  },
+  "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html": {
+    "ts": "2026-11-15T01:38:03.609255+00:00",
+    "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities"
+  },
+  "https://threats.wiz.io/all-incidents/teamfiltration-account-takeover-campaign": {
+    "ts": "2026-11-15T01:38:03.654283+00:00",
+    "title": "TeamFiltration Account Takeover Campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/firming-grip-of-cyber-fraud-in-asia/": {
+    "ts": "2026-11-15T01:38:03.654302+00:00",
+    "title": "The firming grip of cyber fraud in Asia: What effective actions must banks take today?"
+  },
+  "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html": {
+    "ts": "2026-11-15T01:38:03.698214+00:00",
+    "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers"
+  },
+  "https://threats.wiz.io/all-incidents/npm-supply-chain-attack-compromises-16-popular-react-native-and-gluestack-packages": {
+    "ts": "2026-11-15T01:38:03.743745+00:00",
+    "title": "NPM Supply Chain Attack Compromises 16 Popular React Native and GlueStack Packages (Campaign)"
+  },
+  "https://www.group-ib.com/blog/unveiling-usb-artifacts/": {
+    "ts": "2026-11-15T01:38:03.743765+00:00",
+    "title": "Unveiling USB Artifacts: A Comparative Analysis"
+  },
+  "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html": {
+    "ts": "2026-11-15T01:38:03.789149+00:00",
+    "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution"
+  },
+  "https://threats.wiz.io/all-incidents/open-webui-misconfiguration-exploited-for-cryptojacking": {
+    "ts": "2026-11-15T01:38:03.833090+00:00",
+    "title": "Open WebUI Misconfiguration Exploited for Cryptojacking (Campaign)"
+  },
+  "https://www.group-ib.com/blog/pig-butchering/": {
+    "ts": "2026-11-15T01:38:03.882293+00:00",
+    "title": "Pig Butchering Alert: Fraudulent Trading App targeted iOS and Android users"
+  },
+  "https://threats.wiz.io/all-incidents/cryptojacking-campaign-targets-misconfigured-devops-tools": {
+    "ts": "2026-11-15T01:38:03.932352+00:00",
+    "title": "Cryptojacking Campaign Targets Misconfigured DevOps Tools (Campaign)"
+  },
+  "https://www.group-ib.com/blog/dragonforce-ransomware/": {
+    "ts": "2026-11-15T01:38:03.979201+00:00",
+    "title": "Inside the Dragon: DragonForce Ransomware Group"
+  },
+  "https://threats.wiz.io/all-incidents/earth-lamia-custom-toolkit-targets-multiple-sectors-via-web-vulnerabilities": {
+    "ts": "2026-11-15T01:38:04.023111+00:00",
+    "title": "Earth Lamia Custom Toolkit Targets Multiple Sectors via Web Vulnerabilities (Campaign)"
+  },
+  "https://www.group-ib.com/blog/teamtnt/": {
+    "ts": "2026-11-15T01:38:04.068267+00:00",
+    "title": "Storm clouds on the horizon: Resurgence of TeamTNT?"
+  },
+  "https://threats.wiz.io/all-incidents/dragonforce-exploits-simplehelp-vulnerabilities-in-ransomware-campaign": {
+    "ts": "2026-11-15T01:38:04.068287+00:00",
+    "title": "DragonForce Exploits SimpleHelp Vulnerabilities in Ransomware Campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/concealed-networks/": {
+    "ts": "2026-11-15T01:38:04.068290+00:00",
+    "title": "Concealed networks: Are dark web syndicates turning to social media for cybercrime?"
+  },
+  "https://threats.wiz.io/all-incidents/coordinated-one-day-cloud-scanning-operation-targets-75-exposure-points": {
+    "ts": "2026-11-15T01:38:04.068293+00:00",
+    "title": "Coordinated One-Day Cloud Scanning Operation Targets 75 Exposure Points (Campaign)"
+  },
+  "https://www.group-ib.com/blog/ajina-malware/": {
+    "ts": "2026-11-15T01:38:04.132105+00:00",
+    "title": "Ajina attacks Central Asia: Story of an Uzbek Android Pandemic"
+  },
+  "https://threats.wiz.io/all-incidents/mimo-exploits-craft-cms-rce-to-deploy-cryptominer-and-proxyware-in-coordinated-campaign": {
+    "ts": "2026-11-15T01:38:04.177767+00:00",
+    "title": "Mimo Exploits Craft CMS RCE to Deploy Cryptominer and Proxyware in Coordinated Campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/pluggable-authentication-module/": {
+    "ts": "2026-11-15T01:38:04.222531+00:00",
+    "title": "The Duality of the Pluggable Authentication Module (PAM)"
+  },
+  "https://threats.wiz.io/all-incidents/ivanti-epmm-rce-vulnerability-chain-exploited-in-the-wild": {
+    "ts": "2026-11-15T01:38:04.267732+00:00",
+    "title": "Ivanti EPMM RCE Vulnerability Chain Exploited in the Wild (Campaign)"
+  },
+  "https://www.group-ib.com/blog/apt-lazarus-python-scripts/": {
+    "ts": "2026-11-15T01:38:04.314637+00:00",
+    "title": "APT Lazarus: Eager Crypto Beavers, Video calls and Games"
+  },
+  "https://threats.wiz.io/all-incidents/utg-q-015-exploits-0-days-for-espionage-in-asia": {
+    "ts": "2026-11-15T01:38:04.359080+00:00",
+    "title": "UTG-Q-015 Exploits 0-Days for Espionage in Asia (Campaign)"
+  },
+  "https://www.group-ib.com/blog/ransomhub-raas/": {
+    "ts": "2026-11-15T01:38:04.404707+00:00",
+    "title": "RansomHub ransomware-as-a-service"
+  },
+  "https://threats.wiz.io/all-incidents/from-stolen-cloud-key-to-persistence-as-a-service": {
+    "ts": "2026-11-15T01:38:04.448002+00:00",
+    "title": "From stolen cloud key to persistence-as-a-service (Incident)"
+  },
+  "https://www.group-ib.com/blog/linux-pro-manipulation/": {
+    "ts": "2026-11-15T01:38:04.493923+00:00",
+    "title": "Hiding in plain sight: Techniques and defenses against `/proc` filesystem manipulation in Linux"
+  },
+  "https://threats.wiz.io/all-incidents/redisraider-linux-cryptojacking-campaign-targets-redis-servers": {
+    "ts": "2026-11-15T01:38:04.539441+00:00",
+    "title": "RedisRaider Linux Cryptojacking Campaign Targets Redis Servers (Campaign)"
   }
 }
