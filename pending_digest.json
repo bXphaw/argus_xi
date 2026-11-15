@@ -34,6 +34,51 @@
       "category": "apt_campaign",
       "title": "Weaver Ant data exfiltration campaign (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/weaver-ant-data-exfiltration-campaign"
+    },
+    {
+      "category": "new_technique",
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Agents at Large | Tracing Illicit OpenAI Agent Activity on Hugging Face",
+      "url": "https://www.sentinelone.com/labs/agents-at-large-tracing-illicit-openai-agent-activity-on-hugging-face/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Exposed Jupyter Notebooks Targeted for Cryptomining (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/exposed-jupyter-notebooks-targeted-for-cryptomining"
+    },
+    {
+      "category": "new_technique",
+      "title": "tj-actions/changed-files supply chain attack (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/tj-actionschanged-files-supply-chain-attack"
+    },
+    {
+      "category": "new_technique",
+      "title": "CDC dangling domain hijack (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/cdc-dangling-domain-hijack"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "PHP-CGI Vulnerability Exploited in Attacks Targeting Japan (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/php-cgi-vulnerability-exploited-in-attacks-targeting-japan"
+    },
+    {
+      "category": "malware_linux",
+      "title": "CPU_HU: Malicious Campaign Targeting Misconfigured PostgreSQL Servers for Cryptomining (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/cpuhu-malicious-campaign-targeting-misconfigured-postgresql-servers-for-cryptomining"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Ransomware manager: Investigation into farnetwork, a threat actor linked to five strains of ransomware",
+      "url": "https://www.group-ib.com/blog/farnetwork/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "ByBit hack (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/bybit-hack"
     }
   ],
   "last_sent_date": "2026-11-15"
