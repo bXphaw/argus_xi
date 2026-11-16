@@ -1,40 +1,4 @@
 {
-  "https://asec.ahnlab.com/en/95450/": {
-    "ts": "2026-09-17T07:23:29.893276+00:00",
-    "title": "Ransom & Dark Web Issues Week 3, September 2026"
-  },
-  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/": {
-    "ts": "2026-09-17T07:23:29.963455+00:00",
-    "title": "Cisco warns of max severity ISE zero-day exploited in attacks"
-  },
-  "https://www.helpnetsecurity.com/2026/09/17/frederic-bull-gremlin-ai-in-cybersecurity-gap/": {
-    "ts": "2026-09-17T07:23:29.963469+00:00",
-    "title": "The AI security question leaders should be asking instead"
-  },
-  "https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/": {
-    "ts": "2026-09-17T07:23:30.014437+00:00",
-    "title": "Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day"
-  },
-  "https://www.helpnetsecurity.com/2026/09/17/flat-cybersecurity-budget-video/": {
-    "ts": "2026-09-17T07:23:30.014450+00:00",
-    "title": "A flat cybersecurity budget doesn\u2019t have to mean weaker coverage"
-  },
-  "https://www.helpnetsecurity.com/2026/09/17/aws-spend-limit-agent-set-permissions/": {
-    "ts": "2026-09-17T07:23:30.014455+00:00",
-    "title": "AWS\u2019s new sign-up gives accounts spend caps, email invites, and agent-set permissions"
-  },
-  "https://www.helpnetsecurity.com/2026/09/17/gnome-51-new-features/": {
-    "ts": "2026-09-17T07:23:30.014458+00:00",
-    "title": "GNOME 51 adds passkey logins, offline maps and drawn PDF signatures"
-  },
-  "https://www.helpnetsecurity.com/2026/09/17/ai-and-open-source-projects/": {
-    "ts": "2026-09-17T07:23:30.014461+00:00",
-    "title": "AI is adding to the review load on open-source projects, many of them thinly funded"
-  },
-  "https://www.helpnetsecurity.com/2026/09/17/autonomous-ai-weapons-future/": {
-    "ts": "2026-09-17T07:23:30.014464+00:00",
-    "title": "The world must establish red lines for autonomous AI weapons"
-  },
   "https://securityaffairs.com/199239/security/u-s-cisa-adds-acronis-backup-cisco-ise-and-google-pixel-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
     "ts": "2026-09-17T13:13:07.368074+00:00",
     "title": "U.S. CISA adds Acronis Backup, Cisco\u00a0ISE, and Google Pixel\u00a0flaws to its Known Exploited Vulnerabilities catalog"
@@ -21358,5 +21322,125 @@
   "https://www.group-ib.com/blog/cryptoslabs-investment-scams/": {
     "ts": "2026-11-16T01:42:00.361983+00:00",
     "title": "Busting CryptosLabs: a scam ring targeting French speakers for millions"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/": {
+    "ts": "2026-11-16T09:14:48.742445+00:00",
+    "title": "Microsoft pushes Windows emergency updates to fix activation failures"
+  },
+  "https://www.group-ib.com/blog/operation-triangulation/": {
+    "ts": "2026-11-16T09:14:48.798033+00:00",
+    "title": "Operation Triangulation: Mapping the threat"
+  },
+  "https://www.helpnetsecurity.com/2026/11/16/cloudflare-kitesurf-open-source/": {
+    "ts": "2026-11-16T09:14:48.798052+00:00",
+    "title": "You can now self-host Kitesurf, Cloudflare\u2019s open-source browser for AI agents"
+  },
+  "https://www.malwarebytes.com/blog/uncategorized/2026/11/a-week-in-security-november-9-november-15-2": {
+    "ts": "2026-11-16T09:14:48.798056+00:00",
+    "title": "A week in security (November 9 \u2013 November 15)"
+  },
+  "https://blog.qualys.com/category/misc": {
+    "ts": "2026-11-16T09:14:48.798058+00:00",
+    "title": "ARTEX Moves at Machine Speed: What Risk Owners Need to Change"
+  },
+  "https://rewterz.com/threat-advisory/microsoft-365-infrastructure-failure-causes-widespread-service-disruptions": {
+    "ts": "2026-11-16T09:14:48.798061+00:00",
+    "title": "Microsoft 365 Infrastructure Failure Causes Widespread Service Disruptions"
+  },
+  "https://securelist.com/retadup-delivers-coffeeloader/121908/": {
+    "ts": "2026-11-16T09:14:48.830284+00:00",
+    "title": "A USB worm\u2019s second life: Retadup spreading CoffeeLoader"
+  },
+  "https://securityaffairs.com/203099/apt/silentair-and-liminal-panda-target-telecom-networks-to-spy-on-subscribers.html": {
+    "ts": "2026-11-16T09:14:48.861822+00:00",
+    "title": "SilentAir and LIMINAL PANDA Target Telecom Networks to Spy on Subscribers"
+  },
+  "https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/": {
+    "ts": "2026-11-16T09:14:48.861839+00:00",
+    "title": "Tor Updates DoS Defenses Again as Relay Attacks Continue"
+  },
+  "https://socradar.io/blog/tsmc-kazakhstan-court-daxus-telegram-data-leaks/": {
+    "ts": "2026-11-16T09:14:48.861843+00:00",
+    "title": "TSMC Leak Claim, Daxus Logs, Kazakhstan Court, Greek Ticketing, and Telegram Data"
+  },
+  "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html": {
+    "ts": "2026-11-16T09:14:48.892407+00:00",
+    "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys"
+  },
+  "https://threats.wiz.io/all-incidents/codefinger-ransomware-campaign-targeting-s3-buckets": {
+    "ts": "2026-11-16T09:14:48.924771+00:00",
+    "title": "Codefinger Ransomware Campaign Targeting S3 Buckets (Campaign)"
+  },
+  "https://www.group-ib.com/blog/dark-pink-episode-2/": {
+    "ts": "2026-11-16T09:14:48.956930+00:00",
+    "title": "Dark Pink. Episode 2"
+  },
+  "https://www.helpnetsecurity.com/2026/11/16/google-project-zero-disclosure-policy/": {
+    "ts": "2026-11-16T09:14:48.987235+00:00",
+    "title": "Google Project Zero will disclose bugs after 90 days, fixed or not"
+  },
+  "https://rewterz.com/threat-advisory/fortinet2shell-flaw-enables-rce-attacks-through-malicious-websites": {
+    "ts": "2026-11-16T09:14:49.016931+00:00",
+    "title": "Fortinet2Shell Flaw Enables RCE Attacks Through Malicious Websites"
+  },
+  "https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/": {
+    "ts": "2026-11-16T09:14:49.052061+00:00",
+    "title": "Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign"
+  },
+  "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html": {
+    "ts": "2026-11-16T09:14:49.082251+00:00",
+    "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server"
+  },
+  "https://threats.wiz.io/all-incidents/exploitation-in-the-wild-of-aviatrix-controller-rce": {
+    "ts": "2026-11-16T09:14:49.115509+00:00",
+    "title": "Exploitation in the Wild of Aviatrix Controller RCE (Campaign)"
+  },
+  "https://www.group-ib.com/blog/api-security-best-practices/": {
+    "ts": "2026-11-16T09:14:49.115523+00:00",
+    "title": "Bridging the gap: How to leverage API security best practices to combat top 3 vulnerability types"
+  },
+  "https://www.helpnetsecurity.com/2026/11/16/ory-hydra-oauth-server-open-source/": {
+    "ts": "2026-11-16T09:14:49.115526+00:00",
+    "title": "Ory Hydra: Open-source OAuth 2.0 server and OpenID Connect provider"
+  },
+  "https://rewterz.com/threat-advisory/cve-2026-124194-microsoft-outlook-vulnerability-exploit-in-the-wild": {
+    "ts": "2026-11-16T09:14:49.146487+00:00",
+    "title": "CVE-2026-124194 \u2013 Microsoft Outlook Vulnerability Exploit in the Wild"
+  },
+  "https://threats.wiz.io/all-incidents/campaign-targeting-publicly-exposed-management-interfaces-on-fortinet-fortigate-firewalls": {
+    "ts": "2026-11-16T09:14:49.176857+00:00",
+    "title": "Campaign Targeting Publicly Exposed Management Interfaces on Fortinet FortiGate Firewalls (Campaign)"
+  },
+  "https://www.group-ib.com/blog/hunting-sidewinder/": {
+    "ts": "2026-11-16T09:14:49.210936+00:00",
+    "title": "The distinctive rattle of APT SideWinder"
+  },
+  "https://www.helpnetsecurity.com/2026/11/16/product-showcase-eset-mobile-security-ios/": {
+    "ts": "2026-11-16T09:14:49.240977+00:00",
+    "title": "Product showcase: ESET Mobile Security brings phishing protection and security checks to iOS"
+  },
+  "https://rewterz.com/threat-advisory/bitter-apt-targets-south-asian-organizations-using-new-paprat-malware-active-iocs": {
+    "ts": "2026-11-16T09:14:49.272910+00:00",
+    "title": "Bitter APT Targets South Asian Organizations Using New PapRAT Malware \u2013 Active IOCs"
+  },
+  "https://threats.wiz.io/all-incidents/gravy-analytics-data-breach": {
+    "ts": "2026-11-16T09:14:49.272923+00:00",
+    "title": "Gravy Analytics data breach (Incident)"
+  },
+  "https://www.group-ib.com/blog/qilin-ransomware/": {
+    "ts": "2026-11-16T09:14:49.304377+00:00",
+    "title": "The Qilin Ransomware: Analysis and Protection Strategies"
+  },
+  "https://www.helpnetsecurity.com/2026/11/16/forescout-ai-models-vulnerability-research/": {
+    "ts": "2026-11-16T09:14:49.334953+00:00",
+    "title": "AI uncovers flaws in discontinued devices with no vendor left to patch them"
+  },
+  "https://threats.wiz.io/all-incidents/kong-image-compromise": {
+    "ts": "2026-11-16T09:14:49.334966+00:00",
+    "title": "Kong image compromise (Incident)"
+  },
+  "https://www.group-ib.com/blog/managed-xdr-updates/": {
+    "ts": "2026-11-16T09:14:49.334968+00:00",
+    "title": "Managed upgrades. Enhance malware analysis efficiency with Group-IB Malware Detonation Platform updates"
   }
 }
