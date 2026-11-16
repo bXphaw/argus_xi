@@ -1,116 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/": {
-    "ts": "2026-09-16T22:45:43.650269+00:00",
-    "title": "Windows 11 KB5124008 update breaks domain trust for some users"
-  },
-  "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value": {
-    "ts": "2026-09-16T22:45:43.650290+00:00",
-    "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value"
-  },
-  "https://securityaffairs.com/199205/malware/bambootoken-the-malware-that-speaks-mqtt-to-stay-under-the-radar.html": {
-    "ts": "2026-09-16T22:45:43.767175+00:00",
-    "title": "BambooToken: The Malware That Speaks MQTT to Stay Under the Radar"
-  },
-  "https://www.sophos.com/en-us/blog/september-2026-patch-tuesday": {
-    "ts": "2026-09-16T22:45:43.767197+00:00",
-    "title": "September Patch Tuesday haul includes 973 CVEs"
-  },
-  "https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991": {
-    "ts": "2026-09-16T22:45:43.767202+00:00",
-    "title": "AI agents can modify themselves without humans telling them to do so"
-  },
-  "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/": {
-    "ts": "2026-09-16T22:45:43.878213+00:00",
-    "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets"
-  },
-  "https://www.theregister.com/security/2026/09/16/cisa-decides-weekly-vulnerability-bulletin-isnt-necessary-anymore/5296968": {
-    "ts": "2026-09-16T22:45:43.878235+00:00",
-    "title": "CISA decides weekly vulnerability bulletin isn't necessary anymore"
-  },
-  "https://cybersecuritynews.com/windows-11-kb5124008-update/": {
-    "ts": "2026-09-17T01:11:53.723639+00:00",
-    "title": "Windows 11 KB5124008 Update Breaks Active Directory Domain Trust and Blocks User Logins"
-  },
-  "https://cybersecuritynews.com/screenconnect-vulnerability-exploited/": {
-    "ts": "2026-09-17T01:11:58.062020+00:00",
-    "title": "CISA Warns of Critical ScreenConnect Vulnerability Actively Exploited in Attacks"
-  },
-  "https://gbhackers.com/best-kubernetes-security-compared/": {
-    "ts": "2026-09-17T01:12:08.944279+00:00",
-    "title": "12 Best Kubernetes Security Tools Compared (2026): Features & Pricing"
-  },
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/": {
-    "ts": "2026-09-17T01:13:05.362523+00:00",
-    "title": "Anthropic wants Claude to analyze your bank account and financial data"
-  },
-  "https://gbhackers.com/ghostcode-abuses-microsoft-entra/": {
-    "ts": "2026-09-17T01:13:05.557242+00:00",
-    "title": "GhostCode Abuses Microsoft Entra Device Enrollment to Maintain Access After Token Revocation"
-  },
-  "https://cybersecuritynews.com/check-point-root-access-flaw/": {
-    "ts": "2026-09-17T01:13:05.557262+00:00",
-    "title": "Check Point Vulnerability Lets Remote Hackers Gain Root Access Without Authentication"
-  },
-  "https://gbhackers.com/vectrarat-malware-as-a-service/": {
-    "ts": "2026-09-17T01:13:05.707712+00:00",
-    "title": "VectraRAT Malware-as-a-Service Lets Hackers Bypass UAC and Hijack Windows Systems"
-  },
-  "https://cybersecuritynews.com/centerpoint-energy-data-breach/": {
-    "ts": "2026-09-17T01:13:05.707732+00:00",
-    "title": "CenterPoint Energy Data Breach \u2013 Hackers Stolen Customer\u2019s Personal Data"
-  },
-  "https://gbhackers.com/tp-link-tapo-camera-flaw/": {
-    "ts": "2026-09-17T01:13:05.707736+00:00",
-    "title": "TP-Link Tapo Camera Flaw Lets Attackers Gain Admin Access Without Password"
-  },
-  "https://gbhackers.com/noodle-rat-backdoor/": {
-    "ts": "2026-09-17T01:13:05.856790+00:00",
-    "title": "Chinese-Speaking Hackers Use Noodle RAT Backdoor to Spy on Windows and Linux Systems"
-  },
-  "https://cybersecuritynews.com/german-manufacturer-security-alerts/": {
-    "ts": "2026-09-17T01:13:05.856811+00:00",
-    "title": "German Manufacturer Shrinks Security Alert Response While Protecting 10,000 Endpoints"
-  },
-  "https://gbhackers.com/axoflow-launches-axodetect-bringing-detection-into-the-pipeline-and-making-the-siem-optional/": {
-    "ts": "2026-09-17T01:13:05.856815+00:00",
-    "title": "Axoflow Launches AxoDetect, Bringing Detection Into the Pipeline and Making the SIEM Optional"
-  },
-  "https://cybersecuritynews.com/critical-wso2-vulnerability/": {
-    "ts": "2026-09-17T01:13:05.856819+00:00",
-    "title": "Critical WSO2 Vulnerability Allow Hackers to Gain Full Admin Access"
-  },
-  "https://gbhackers.com/jwr-phishing-kit/": {
-    "ts": "2026-09-17T01:13:06.000930+00:00",
-    "title": "Smishing Triad Hackers Use JWR Phishing Kit to Steal Cards, OTPs and Bank Credentials"
-  },
-  "https://cybersecuritynews.com/ghostcode-phishing-kit/": {
-    "ts": "2026-09-17T01:13:06.151263+00:00",
-    "title": "GhostCode Phishing Kit Bypasses Microsoft 365 MFA to Hijack Accounts in 78 Seconds"
-  },
-  "https://gbhackers.com/centerpoint-energy-confirms-data-breach/": {
-    "ts": "2026-09-17T01:13:06.302570+00:00",
-    "title": "CenterPoint Energy Confirms Data Breach Exposing Customers\u2019 Personal Information"
-  },
-  "https://cybersecuritynews.com/microsoft-365-hit-by-new-outage/": {
-    "ts": "2026-09-17T01:13:06.452006+00:00",
-    "title": "Microsoft 365 Hit by New Outage as Users Report Widespread 502 and 503 Errors"
-  },
-  "https://gbhackers.com/parallels-desktop-flaw/": {
-    "ts": "2026-09-17T01:13:06.626449+00:00",
-    "title": "Parallels Desktop Flaw Lets Unprivileged Mac Users Gain Root Access"
-  },
-  "https://cybersecuritynews.com/hackers-can-rent-vectrarat/": {
-    "ts": "2026-09-17T01:13:06.771917+00:00",
-    "title": "Hackers Can Rent VectraRAT for $250 a Month to Take Control of Windows PCs"
-  },
-  "https://gbhackers.com/acronis-backup-plugin-vulnerability/": {
-    "ts": "2026-09-17T01:13:06.771937+00:00",
-    "title": "Acronis Backup Plugin Vulnerability Exploited in the Wild to Gain Elevated Linux Privileges"
-  },
-  "https://cybersecuritynews.com/cross-platform-noodle-rat/": {
-    "ts": "2026-09-17T01:13:06.915217+00:00",
-    "title": "Hackers Use Cross-Platform Noodle RAT to Secretly Control Windows and Linux Systems"
-  },
   "https://asec.ahnlab.com/en/95450/": {
     "ts": "2026-09-17T07:23:29.893276+00:00",
     "title": "Ransom & Dark Web Issues Week 3, September 2026"
@@ -21350,5 +21238,125 @@
   "https://threats.wiz.io/all-incidents/earth-pretas-campaign-abusing-mavinject-to-bypass-detection": {
     "ts": "2026-11-15T21:34:39.778787+00:00",
     "title": "Earth Preta\u2019s Campaign Abusing MAVInject to Bypass Detection (Campaign)"
+  },
+  "https://www.group-ib.com/blog/hunting-rituals-windows-services-part-1/": {
+    "ts": "2026-11-16T01:40:14.361231+00:00",
+    "title": "Hunting Rituals #2: Threat hunting for abuse of Windows Services"
+  },
+  "https://threats.wiz.io/all-incidents/dogwiftool-supply-chain-attack": {
+    "ts": "2026-11-16T01:40:19.693029+00:00",
+    "title": "DogWifTool supply chain attack (Incident)"
+  },
+  "https://www.group-ib.com/blog/hunting-rituals-dll-side-loading/": {
+    "ts": "2026-11-16T01:40:21.071200+00:00",
+    "title": "Hunting Rituals #1: Threat hunting for DLL side-loading"
+  },
+  "https://threats.wiz.io/all-incidents/otelier-data-breach": {
+    "ts": "2026-11-16T01:40:25.931021+00:00",
+    "title": "Otelier data breach (Incident)"
+  },
+  "https://www.group-ib.com/blog/shadowsyndicate-raas/": {
+    "ts": "2026-11-16T01:41:58.964711+00:00",
+    "title": "Dusting for fingerprints: ShadowSyndicate, a new RaaS player?"
+  },
+  "https://www.morphisec.com/blog/malware-that-rewrites-itself-every-hour-ai-powered-polymorphic-threats-break-signature-based-defense/": {
+    "ts": "2026-11-16T01:41:59.044431+00:00",
+    "title": "Malware That Rewrites Itself Every Hour: AI-Powered Polymorphic Threats Break Signature-Based Defense"
+  },
+  "https://securityaffairs.com/203189/security/the-microsoft-outage-left-15-hotel-guests-poisoned-by-chlorine.html": {
+    "ts": "2026-11-16T01:41:59.044452+00:00",
+    "title": "The Microsoft Outage Left 15 Hotel Guests Poisoned by Chlorine"
+  },
+  "https://threats.wiz.io/all-incidents/seashell-blizzard-subgroups-campaign-exploiting-vulnerabilities-for-data-exfiltration": {
+    "ts": "2026-11-16T01:41:59.129403+00:00",
+    "title": "Seashell Blizzard Subgroup's Campaign Exploiting Vulnerabilities for Data Exfiltration (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/operation-rapidrust-apt36-deploys-rustyshade-rustymove-psnatch-and": {
+    "ts": "2026-11-16T01:41:59.211099+00:00",
+    "title": "Operation RapidRust: APT36 Deploys RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH"
+  },
+  "https://www.group-ib.com/blog/mxdr-cryptominer/": {
+    "ts": "2026-11-16T01:41:59.296524+00:00",
+    "title": "It\u2019s a trap: Detecting a cryptominer on a popular website using Group-IB MXDR"
+  },
+  "https://threats.wiz.io/all-incidents/code-injection-attacks-exploiting-publicly-disclosed-aspnet-keys": {
+    "ts": "2026-11-16T01:41:59.375571+00:00",
+    "title": "Code Injection Attacks Exploiting Publicly Disclosed ASP.NET Keys (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/black-basta-exploiting-vulnerabilities-in-multiple-products": {
+    "ts": "2026-11-16T01:41:59.453414+00:00",
+    "title": "Black Basta Exploiting Vulnerabilities in Multiple Products (Campaign)"
+  },
+  "https://www.group-ib.com/blog/incident-response-with-dmitry-volkov/": {
+    "ts": "2026-11-16T01:41:59.544319+00:00",
+    "title": "Incident Response through an opportunity lens: In conversation with Dmitry Volkov (CEO, Group-IB)"
+  },
+  "https://threats.wiz.io/all-incidents/malicious-ai-models-bypass-picklescan-detection": {
+    "ts": "2026-11-16T01:41:59.623488+00:00",
+    "title": "Malicious AI Models Bypass Picklescan Detection (Campaign)"
+  },
+  "https://www.group-ib.com/blog/investment-scam-global/": {
+    "ts": "2026-11-16T01:41:59.623508+00:00",
+    "title": "From Rags to Riches: The illusion of quick wealth in investment scams"
+  },
+  "https://threats.wiz.io/all-incidents/from-social-engineering-to-lambda-modification": {
+    "ts": "2026-11-16T01:41:59.623513+00:00",
+    "title": "From social engineering to Lambda modification (Incident)"
+  },
+  "https://www.group-ib.com/blog/airline-loyalty-program-protection/": {
+    "ts": "2026-11-16T01:41:59.623516+00:00",
+    "title": "Stealing the extra mile: How fraudsters target global airlines in air miles and customer service scams"
+  },
+  "https://threats.wiz.io/all-incidents/usaid-cryptojacking-incident": {
+    "ts": "2026-11-16T01:41:59.623519+00:00",
+    "title": "USAID cryptojacking incident (Incident)"
+  },
+  "https://www.group-ib.com/blog/classiscam-2023/": {
+    "ts": "2026-11-16T01:41:59.623522+00:00",
+    "title": "New hierarchy, heightened threat: Classiscam\u2019s sustained global campaign"
+  },
+  "https://www.group-ib.com/blog/cve-2023-38831-winrar-zero-day/": {
+    "ts": "2026-11-16T01:41:59.705372+00:00",
+    "title": "Traders\u2019 dollars in danger: CVE-2023-38831 zero-day vulnerability in WinRAR exploited by cybercriminals to target traders"
+  },
+  "https://threats.wiz.io/all-incidents/operation-longfang": {
+    "ts": "2026-11-16T01:41:59.781361+00:00",
+    "title": "Operation LongFang (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/mastercard-fixes-five-year-old-dns-typo-misconfiguration": {
+    "ts": "2026-11-16T01:41:59.781383+00:00",
+    "title": "MasterCard Fixes Five-Year-Old DNS Typo Misconfiguration (Incident)"
+  },
+  "https://www.group-ib.com/blog/gigabud-banking-malware/": {
+    "ts": "2026-11-16T01:41:59.872354+00:00",
+    "title": "Breaking down Gigabud banking malware with Group-IB Fraud Matrix"
+  },
+  "https://threats.wiz.io/all-incidents/triplestrength-cloud-account-hijacking-and-cryptocurrency-mining-via-stolen-credentials": {
+    "ts": "2026-11-16T01:41:59.950039+00:00",
+    "title": "TRIPLESTRENGTH: Cloud Account Hijacking and Cryptocurrency Mining via Stolen Credentials (Campaign)"
+  },
+  "https://www.group-ib.com/blog/cybercrime-fighters-club/": {
+    "ts": "2026-11-16T01:42:00.033982+00:00",
+    "title": "JOIN THE CYBERCRIME FIGHTERS CLUB"
+  },
+  "https://threats.wiz.io/all-incidents/unc2165-targets-hybrid-environments-with-ransomware": {
+    "ts": "2026-11-16T01:42:00.120180+00:00",
+    "title": "UNC2165 Targets Hybrid Environments with Ransomware (Campaign)"
+  },
+  "https://www.group-ib.com/blog/mysterious-team-bangladesh/": {
+    "ts": "2026-11-16T01:42:00.204539+00:00",
+    "title": "Demystifying Mysterious Team Bangladesh"
+  },
+  "https://www.group-ib.com/blog/cloud-infrastructure-threats/": {
+    "ts": "2026-11-16T01:42:00.284054+00:00",
+    "title": "Clouded Judgment: how mismanaged cloud infrastructure can expose users to cyber risks"
+  },
+  "https://threats.wiz.io/all-incidents/bapak-exploiting-stolen-cloud-access-keys": {
+    "ts": "2026-11-16T01:42:00.361963+00:00",
+    "title": "Bapak Exploiting Stolen Cloud Access Keys (Campaign)"
+  },
+  "https://www.group-ib.com/blog/cryptoslabs-investment-scams/": {
+    "ts": "2026-11-16T01:42:00.361983+00:00",
+    "title": "Busting CryptosLabs: a scam ring targeting French speakers for millions"
   }
 }

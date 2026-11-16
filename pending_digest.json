@@ -79,6 +79,46 @@
       "category": "threat_actor",
       "title": "ByBit hack (Incident)",
       "url": "https://threats.wiz.io/all-incidents/bybit-hack"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Dusting for fingerprints: ShadowSyndicate, a new RaaS player?",
+      "url": "https://www.group-ib.com/blog/shadowsyndicate-raas/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Malware That Rewrites Itself Every Hour: AI-Powered Polymorphic Threats Break Signature-Based Defense",
+      "url": "https://www.morphisec.com/blog/malware-that-rewrites-itself-every-hour-ai-powered-polymorphic-threats-break-signature-based-defense/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Seashell Blizzard Subgroup's Campaign Exploiting Vulnerabilities for Data Exfiltration (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/seashell-blizzard-subgroups-campaign-exploiting-vulnerabilities-for-data-exfiltration"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Operation RapidRust: APT36 Deploys RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH",
+      "url": "https://www.zscaler.com/blogs/security-research/operation-rapidrust-apt36-deploys-rustyshade-rustymove-psnatch-and"
+    },
+    {
+      "category": "new_technique",
+      "title": "Traders\u2019 dollars in danger: CVE-2023-38831 zero-day vulnerability in WinRAR exploited by cybercriminals to target traders",
+      "url": "https://www.group-ib.com/blog/cve-2023-38831-winrar-zero-day/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Operation LongFang (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/operation-longfang"
+    },
+    {
+      "category": "malware_android",
+      "title": "Breaking down Gigabud banking malware with Group-IB Fraud Matrix",
+      "url": "https://www.group-ib.com/blog/gigabud-banking-malware/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "TRIPLESTRENGTH: Cloud Account Hijacking and Cryptocurrency Mining via Stolen Credentials (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/triplestrength-cloud-account-hijacking-and-cryptocurrency-mining-via-stolen-credentials"
     }
   ],
   "last_sent_date": "2026-11-15"
