@@ -1,196 +1,4 @@
 {
-  "https://socradar.io/blog/cve-2026-76460-cisco-ise-flaw/": {
-    "ts": "2026-09-18T14:51:11.597087+00:00",
-    "title": "CVE-2026-76460: Cisco ISE Flaw Actively Exploited"
-  },
-  "https://gbhackers.com/settra-ransomware/": {
-    "ts": "2026-09-18T14:51:21.062435+00:00",
-    "title": "New SETTRA Ransomware Uses MeshAgent RMM and BYOVD to Encrypt Windows Systems"
-  },
-  "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/": {
-    "ts": "2026-09-18T14:53:23.024690+00:00",
-    "title": "Secure enterprise sharing with access reviews for Microsoft 365"
-  },
-  "https://cybersecuritynews.com/microsoft-azure-ai-foundry-vulnerability/": {
-    "ts": "2026-09-18T14:53:23.202842+00:00",
-    "title": "Critical Microsoft Azure AI Foundry Vulnerability Allows Attackers to Escalate Privileges"
-  },
-  "https://www.darktrace.com/blog/how-to-protect-your-organization-against-microsoft-teams-phishing-attacks": {
-    "ts": "2026-09-18T14:53:23.322323+00:00",
-    "title": "Strategies to Combat Microsoft Teams Phishing Attacks"
-  },
-  "https://gbhackers.com/casino-domains-hide-c2-traffic/": {
-    "ts": "2026-09-18T14:53:23.471993+00:00",
-    "title": "PeckBirdy C2 Traffic Seen Across Enterprise Networks While Hiding Behind Casino Domains"
-  },
-  "https://www.malwarebytes.com/blog/ai/2026/09/did-an-ai-really-try-to-break-free-from-human-control": {
-    "ts": "2026-09-18T14:53:23.472010+00:00",
-    "title": "Did an AI really try to break free from human control?"
-  },
-  "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/": {
-    "ts": "2026-09-18T14:53:23.612313+00:00",
-    "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw"
-  },
-  "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html": {
-    "ts": "2026-09-18T14:53:23.737657+00:00",
-    "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation"
-  },
-  "https://www.intego.com/mac-security-blog/how-to-enable-stolen-device-protection-for-iphone/": {
-    "ts": "2026-09-18T14:53:23.851272+00:00",
-    "title": "How to turn on Stolen Device Protection on iPhone"
-  },
-  "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/": {
-    "ts": "2026-09-18T14:53:23.993766+00:00",
-    "title": "Microsoft Teams will let admins block custom file extensions"
-  },
-  "https://cybersecuritynews.com/feral-wolf-ransomware/": {
-    "ts": "2026-09-18T14:53:24.101803+00:00",
-    "title": "Feral Wolf Ransomware Attacks Exploit Atlassian Confluence and Misconfigured 1C Systems"
-  },
-  "https://gbhackers.com/genielocker-ransomware/": {
-    "ts": "2026-09-18T14:53:24.231926+00:00",
-    "title": "Feral Wolf Hackers Exploit Confluence and 1C to Deploy GenieLocker Ransomware"
-  },
-  "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/": {
-    "ts": "2026-09-18T14:53:24.373974+00:00",
-    "title": "AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code"
-  },
-  "https://socradar.io/blog/socradar-alert-management-zendesk/": {
-    "ts": "2026-09-18T14:53:24.373993+00:00",
-    "title": "Manage SOCRadar Alerts Where Your Team Already Works with SOCRadar and Zendesk"
-  },
-  "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html": {
-    "ts": "2026-09-18T14:53:24.373995+00:00",
-    "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It."
-  },
-  "https://www.intego.com/mac-security-blog/if-hackers-crack-a-six-digit-iphone-passcode-they-can-get-all-your-passwords/": {
-    "ts": "2026-09-18T14:53:24.373998+00:00",
-    "title": "iPhone passcode security: Why 6 digits may not be enough"
-  },
-  "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/": {
-    "ts": "2026-09-18T14:53:24.511757+00:00",
-    "title": "Webinar: Which Google Workspace security controls actually matter?"
-  },
-  "https://cybersecuritynews.com/new-settra-ransomware/": {
-    "ts": "2026-09-18T14:53:24.636559+00:00",
-    "title": "New SETTRA Ransomware Uses MeshAgent RMM and BYOVD to Encrypt Windows Systems"
-  },
-  "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/": {
-    "ts": "2026-09-18T14:53:24.754257+00:00",
-    "title": "23 Million User Records Compromised in Gyazo Data Breach"
-  },
-  "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html": {
-    "ts": "2026-09-18T14:53:24.893219+00:00",
-    "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents"
-  },
-  "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/": {
-    "ts": "2026-09-18T14:53:25.016653+00:00",
-    "title": "Microsoft fixes bug behind \u2018Defender Antivirus is turned off\u2019 alerts"
-  },
-  "https://cybersecuritynews.com/ai-agents-3/": {
-    "ts": "2026-09-18T14:53:25.144142+00:00",
-    "title": "AI Agents Now Run Ransomware Attacks End-to-End Without Human Operators"
-  },
-  "https://gbhackers.com/agentic-ransomware-to-target-ai-models/": {
-    "ts": "2026-09-18T14:53:25.280952+00:00",
-    "title": "JADEPUFFER Evolves Agentic Ransomware to Target AI Models and Training Data"
-  },
-  "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/": {
-    "ts": "2026-09-18T14:53:25.280970+00:00",
-    "title": "Microsoft Patches 18 Vulnerabilities in AI, Cloud Products"
-  },
-  "https://cybersecuritynews.com/linux-kernel-privilege-escalation-flaws/": {
-    "ts": "2026-09-18T14:53:25.280973+00:00",
-    "title": "Linux Kernel Hit by Four Privilege Escalation Flaws Enabling Root Access"
-  },
-  "https://gbhackers.com/researchers-find-security-risks-in-73-6-of-61500-abandoned-iot-apps/": {
-    "ts": "2026-09-18T14:53:25.280976+00:00",
-    "title": "Researchers Find Security Risks in 73.6% of 61,500 Abandoned IoT Apps"
-  },
-  "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/": {
-    "ts": "2026-09-18T14:53:25.410163+00:00",
-    "title": "Check Point, Kaspersky, Tanium Patch Product Vulnerabilities"
-  },
-  "https://cybersecuritynews.com/chatgpt-subscription/": {
-    "ts": "2026-09-18T14:53:25.545361+00:00",
-    "title": "Hackers Impersonate ChatGPT Subscription Alerts to Steal OpenAI Account Credentials"
-  },
-  "https://gbhackers.com/critical-pgadmin-authentication-bypass/": {
-    "ts": "2026-09-18T14:53:25.651833+00:00",
-    "title": "Critical pgAdmin Authentication Bypass Lets Attackers Login as Administrator Without Credentials"
-  },
-  "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/": {
-    "ts": "2026-09-18T18:11:14.164686+00:00",
-    "title": "Gyazo server flaw exploited to steal 23.6 million user records"
-  },
-  "https://www.forescout.com/blog/ot-security-enters-new-phase-of-operational-risk-reduction/": {
-    "ts": "2026-09-18T18:11:14.164703+00:00",
-    "title": "OT Security Enters New Phase of Operational Risk Reduction"
-  },
-  "https://www.malwarebytes.com/blog/news/2026/09/new-android-malware-uses-ai-to-steal-bank-logins-and-pins": {
-    "ts": "2026-09-18T18:11:14.401189+00:00",
-    "title": "New Android malware uses AI to steal bank logins and PINs"
-  },
-  "https://securityaffairs.com/199338/data-breach/gyazo-data-breach-exposes-23-million-user-records.html": {
-    "ts": "2026-09-18T18:11:14.401204+00:00",
-    "title": "Gyazo Data Breach Exposes 23 Million User Records"
-  },
-  "https://www.sentinelone.com/labs/dont-call-us-well-call-your-apis-tradertraitor-backdoors-resurface-on-victim-with-no-crypto-ties/": {
-    "ts": "2026-09-18T18:11:14.449055+00:00",
-    "title": "Don\u2019t Call Us, We\u2019ll Call Your APIs | TraderTraitor Backdoors Resurface on Victim With No Crypto Ties"
-  },
-  "https://www.security.com/product-insights/part-1-why-less-more-symantec-pam-clustering": {
-    "ts": "2026-09-18T18:11:14.493001+00:00",
-    "title": "Part 1: Why \"Less Is More\" in Symantec PAM Clustering"
-  },
-  "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html": {
-    "ts": "2026-09-18T18:11:14.537376+00:00",
-    "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution"
-  },
-  "https://www.intego.com/mac-security-blog/mac-hacked-what-to-do/": {
-    "ts": "2026-09-18T18:11:14.586609+00:00",
-    "title": "Think your Mac has been hacked? How to tell and what to do"
-  },
-  "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517": {
-    "ts": "2026-09-18T18:11:14.635210+00:00",
-    "title": "Researchers used Claude to hack OpenAI employees' ChatGPT accounts"
-  },
-  "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/": {
-    "ts": "2026-09-18T18:11:14.679233+00:00",
-    "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer"
-  },
-  "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html": {
-    "ts": "2026-09-18T18:11:14.724960+00:00",
-    "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2"
-  },
-  "https://www.theregister.com/security/2026/09/18/north-koreas-fake-job-interviews-infected-30000-devices/5297461": {
-    "ts": "2026-09-18T18:11:14.724971+00:00",
-    "title": "North Korea's fake job interviews infected 30,000 devices"
-  },
-  "https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499": {
-    "ts": "2026-09-18T18:11:14.724975+00:00",
-    "title": "FBI: Fake cop and government impersonation scams cost victims $1.6B"
-  },
-  "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks": {
-    "ts": "2026-09-18T21:30:58.483075+00:00",
-    "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks"
-  },
-  "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html": {
-    "ts": "2026-09-18T21:30:58.769885+00:00",
-    "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root"
-  },
-  "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues": {
-    "ts": "2026-09-18T21:30:58.769904+00:00",
-    "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues"
-  },
-  "https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight": {
-    "ts": "2026-09-18T21:30:58.769908+00:00",
-    "title": "EY Survey Finds Autonomous AI Implementation Outpaces Oversight"
-  },
-  "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse": {
-    "ts": "2026-09-18T21:30:58.769910+00:00",
-    "title": "MFA Won't Save You From OAuth Consent Abuse"
-  },
   "https://securityaffairs.com/199355/hacking/brevo-supply-chain-attack-infected-over-100000-websites.html": {
     "ts": "2026-09-19T00:00:05.094307+00:00",
     "title": "Brevo Supply-Chain Attack Infected Over 100,000 Websites"
@@ -21226,5 +21034,125 @@
   "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/": {
     "ts": "2026-11-17T12:56:25.290197+00:00",
     "title": "Uber notifies drivers of data breach affecting nearly 150,000 people"
+  },
+  "https://asec.ahnlab.com/en/96586/": {
+    "ts": "2026-11-17T21:36:05.206707+00:00",
+    "title": "October 2026 Dark Web Threat Actor Trend Report"
+  },
+  "https://www.sekoia.com/blog/best-soc-platforms-for-modern-security-teams": {
+    "ts": "2026-11-17T21:36:19.402146+00:00",
+    "title": "The 7 Best SOC Platforms For Modern Security Teams in 2027"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/how-ai-agents-become-new-targets-in-github-malware-campaign": {
+    "ts": "2026-11-17T21:38:02.594037+00:00",
+    "title": "How AI Agents Become New Targets in GitHub Malware Campaign"
+  },
+  "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/": {
+    "ts": "2026-11-17T21:38:02.594055+00:00",
+    "title": "Cloud keys leaked in Docker Hub images are stolen within seconds"
+  },
+  "https://cybersecuritynews.com/malicious-ios-scripts-now-behind-1-in-5-advertiser-suspensions-as-coruna-exploit-kit-hides-inside-ad-landing-pages/": {
+    "ts": "2026-11-17T21:38:02.627591+00:00",
+    "title": "Malicious iOS Scripts Now Behind 1 in 5 Advertiser Suspensions as Coruna Exploit Kit Hides Inside Ad Landing Pages"
+  },
+  "https://cyble.com/blog/eu-sanctions-social-design-agency-noname05716/": {
+    "ts": "2026-11-17T21:38:02.627608+00:00",
+    "title": "EU Sanctions 30 People and Two Entities Over Russian Disinformation and Cyberattacks"
+  },
+  "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat": {
+    "ts": "2026-11-17T21:38:02.659735+00:00",
+    "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat"
+  },
+  "https://gbhackers.com/optimjack-attack/": {
+    "ts": "2026-11-17T21:38:02.694760+00:00",
+    "title": "OPTIMJACK Attack Injects Malicious JavaScript Into CNN, Zoom and Other Major Websites to Steal Data"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/": {
+    "ts": "2026-11-17T21:38:02.728831+00:00",
+    "title": "COLD RELIC: A Case Study in Impersonation and Compromise"
+  },
+  "https://www.group-ib.com/blog/3cx-supply-chain-attack/": {
+    "ts": "2026-11-17T21:38:02.763371+00:00",
+    "title": "36gate: supply chain attack"
+  },
+  "https://www.helpnetsecurity.com/2026/11/17/8-digits-team-ransomware-suspect-extradited-us-italy/": {
+    "ts": "2026-11-17T21:38:02.796631+00:00",
+    "title": "Suspected ransomware affiliate extradited to US over $500 million in extortion demands"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/11/openai-lost-control-of-ai-agents-over-80-times-california-alleges": {
+    "ts": "2026-11-17T21:38:02.829286+00:00",
+    "title": "OpenAI lost control of AI agents over 80 times, California alleges"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/": {
+    "ts": "2026-11-17T21:38:02.829300+00:00",
+    "title": "Security for the agentic era, powered by Microsoft Perception"
+  },
+  "https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/": {
+    "ts": "2026-11-17T21:38:02.867347+00:00",
+    "title": "Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-114938-reported-critical-pre-authentication-remote-code-execution-java-17": {
+    "ts": "2026-11-17T21:38:02.867364+00:00",
+    "title": "CVE-2026-114938: Reported Critical Pre-authentication Remote Code Execution in Java 17"
+  },
+  "https://www.recordedfuture.com/blog/threat-intelligence-roi": {
+    "ts": "2026-11-17T21:38:02.867369+00:00",
+    "title": "What Is Threat Intelligence Worth? 142 Security Teams Did the Math."
+  },
+  "https://securityaffairs.com/203354/security/apple-outages-add-to-growing-concerns-over-technology-service-disruptions.html": {
+    "ts": "2026-11-17T21:38:02.867372+00:00",
+    "title": "Apple Services Disrupted as NSA Network Goes Down and Equinor Faces Cyberattack"
+  },
+  "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/": {
+    "ts": "2026-11-17T21:38:02.900809+00:00",
+    "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says"
+  },
+  "https://www.sophos.com/en-us/blog/hijacked-optimizely-snippets-served-malicious-code": {
+    "ts": "2026-11-17T21:38:02.932955+00:00",
+    "title": "Hijacked Optimizely snippets served malicious code on major websites"
+  },
+  "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html": {
+    "ts": "2026-11-17T21:38:02.966944+00:00",
+    "title": "Researchers Claim Two RCE Exploits That Bypass Telegram\u2019s New Android Defenses"
+  },
+  "https://www.theregister.com/security/2026/11/17/gemini-test-proves-once-again-that-amoral-ai-agents-will-do-almost-anything-if-told-never-give-up/5310574": {
+    "ts": "2026-11-17T21:38:02.966963+00:00",
+    "title": "Gemini test proves once again that amoral AI agents will do almost anything if told \u2018NEVER give up\u2019"
+  },
+  "https://www.welivesecurity.com/en/eset-research/beware-sparrowock-backdoor-bites-commands-catch/": {
+    "ts": "2026-11-17T21:38:03.002906+00:00",
+    "title": "Beware the SparroWock: The backdoor that bites, the commands that catch"
+  },
+  "https://threats.wiz.io/all-incidents/phishing-campaign-leading-to-azure-account-takeover": {
+    "ts": "2026-11-17T21:38:03.034643+00:00",
+    "title": "Phishing campaign leading to Azure account takeover (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/": {
+    "ts": "2026-11-17T21:38:03.068468+00:00",
+    "title": "Japan takes Fugaku supercomputer offlline after cyberattack"
+  },
+  "https://cybersecuritynews.com/mssp-threat-intelligence-soc-capacity/": {
+    "ts": "2026-11-17T21:38:03.102587+00:00",
+    "title": "How a Five-Analyst MSSP Increased SOC Capacity by 25% with Threat Intelligence"
+  },
+  "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach": {
+    "ts": "2026-11-17T21:38:03.134810+00:00",
+    "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach"
+  },
+  "https://gbhackers.com/kukurat-backdoor-activity/": {
+    "ts": "2026-11-17T21:38:03.167963+00:00",
+    "title": "Hackers Deploy PerfectPioneer RAT and KUKURAT Backdoor to Steal Sensitive Government Data"
+  },
+  "https://www.group-ib.com/blog/venomous-vacancies/": {
+    "ts": "2026-11-17T21:38:03.167976+00:00",
+    "title": "Venomous vacancies: Job seekers across MEA hit by sting in scammers\u2019 tail"
+  },
+  "https://www.helpnetsecurity.com/2026/11/17/ai-powered-cyberattacks-gtig-report/": {
+    "ts": "2026-11-17T21:38:03.208148+00:00",
+    "title": "Google finds AI agent writing and launching exploits with no human in the loop"
+  },
+  "https://www.malwarebytes.com/blog/threat-intel/2026/11/amazon-job-offer-promises-5000-a-month-but-its-got-all-the-signs-of-a-scam": {
+    "ts": "2026-11-17T21:38:03.208169+00:00",
+    "title": "\u201cAmazon\u201d job offer promises $5,000 a month, but it\u2019s got all the signs of a scam"
   }
 }
