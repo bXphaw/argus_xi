@@ -1,200 +1,4 @@
 {
-  "https://gbhackers.com/fbi-seizes-nightmarestresser-ddos/": {
-    "ts": "2026-09-18T05:44:39.783955+00:00",
-    "title": "FBI Seizes NightmareStresser DDoS-for-Hire Domains Used in Hundreds of Thousands of Attacks"
-  },
-  "https://asec.ahnlab.com/en/95469/": {
-    "ts": "2026-09-18T05:46:04.534326+00:00",
-    "title": "Private HTS programs that spread ransomware"
-  },
-  "https://cybersecuritynews.com/opus-5-to-help-exploit-openai-flaws/": {
-    "ts": "2026-09-18T05:46:04.596795+00:00",
-    "title": "Researchers Use Claude Opus 5 to Hack OpenAI Forum and Reach Internal Repositories"
-  },
-  "https://gbhackers.com/ai-powered-malware/": {
-    "ts": "2026-09-18T05:46:04.918617+00:00",
-    "title": "AI Malware Keeps Changing Its Code to Break Traditional Signature-Based Detection"
-  },
-  "https://www.helpnetsecurity.com/2026/09/18/hush-security-mcp-credential-exposure-report/": {
-    "ts": "2026-09-18T05:46:04.918636+00:00",
-    "title": "Hardcoded MCP credentials found in public GitHub files"
-  },
-  "https://thehackernews.com/2026/09/critical-check-point-management-server.html": {
-    "ts": "2026-09-18T05:46:04.987722+00:00",
-    "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root"
-  },
-  "https://www.theregister.com/security/2026/09/18/usas-venezuela-takeover-comes-with-bonus-exposure-to-chinese-ai-surveillance-tech/5297357": {
-    "ts": "2026-09-18T05:46:05.045004+00:00",
-    "title": "USA\u2019s Venezuela takeover comes with bonus exposure to Chinese AI surveillance tech"
-  },
-  "https://www.welivesecurity.com/en/eset-research/beware-sparrowock-backdoor-bites-commands-catch/": {
-    "ts": "2026-09-18T05:46:05.109214+00:00",
-    "title": "Beware the SparroWock: The backdoor that bites, the commands that catch"
-  },
-  "https://cybersecuritynews.com/steam-windows-0-day-vulnerability/": {
-    "ts": "2026-09-18T05:46:05.166129+00:00",
-    "title": "Steam Windows 0-Day Vulnerability Allows Users to Silently Escalate to Full SYSTEM Privileges"
-  },
-  "https://www.helpnetsecurity.com/2026/09/18/hypr-hiring-fraud-detection-report/": {
-    "ts": "2026-09-18T05:46:05.225160+00:00",
-    "title": "98% of fraudulent hires have company credentials by the time they\u2019re caught"
-  },
-  "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html": {
-    "ts": "2026-09-18T05:46:05.285979+00:00",
-    "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories"
-  },
-  "https://gbhackers.com/moviereaper-malware/": {
-    "ts": "2026-09-18T05:46:05.343114+00:00",
-    "title": "MovieReaper Malware Spreads Through Pirated Movie Torrents and Uses Solana for C2"
-  },
-  "https://www.helpnetsecurity.com/2026/09/18/wordpress-security-survey-recovery-plan/": {
-    "ts": "2026-09-18T05:46:05.343128+00:00",
-    "title": "Most WordPress pros still lack a breach recovery plan"
-  },
-  "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html": {
-    "ts": "2026-09-18T05:46:05.399829+00:00",
-    "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files"
-  },
-  "https://gbhackers.com/openai-reveals-ai-models-concealing-mistakes/": {
-    "ts": "2026-09-18T05:46:05.399845+00:00",
-    "title": "OpenAI Reveals AI Models Concealing Mistakes, Using Exposed API Keys and Sharing Files"
-  },
-  "https://www.helpnetsecurity.com/2026/09/18/new-infosec-products-of-the-week-september-18-2026/": {
-    "ts": "2026-09-18T05:46:05.399849+00:00",
-    "title": "New infosec products of the week: September 18, 2026"
-  },
-  "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html": {
-    "ts": "2026-09-18T05:46:05.457499+00:00",
-    "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords"
-  },
-  "https://gbhackers.com/steam-windows-vulnerability/": {
-    "ts": "2026-09-18T05:46:05.514237+00:00",
-    "title": "Steam Windows Vulnerability Lets Users Escalate Privileges to NT AUTHORITY\\SYSTEM"
-  },
-  "https://gbhackers.com/how-pentest-companies-adapt-in-the-era-of-ai/": {
-    "ts": "2026-09-18T05:46:05.571803+00:00",
-    "title": "How Pentest Companies Adapt In The Era of AI"
-  },
-  "https://gbhackers.com/google-chrome-153-update-fixes-16-security-flaws/": {
-    "ts": "2026-09-18T10:51:03.736179+00:00",
-    "title": "Google Chrome 153 Update Fixes 16 Security Flaws, Including Two Critical Vulnerabilities"
-  },
-  "https://asec.ahnlab.com/en/95478/": {
-    "ts": "2026-09-18T10:53:15.131841+00:00",
-    "title": "August 2026 Threat Trend Report on APT Groups"
-  },
-  "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/": {
-    "ts": "2026-09-18T10:53:15.131860+00:00",
-    "title": "New Check Point flaw lets hackers execute code with root privileges"
-  },
-  "https://cybersecuritynews.com/android-apps-check-security-patches/": {
-    "ts": "2026-09-18T10:53:15.131865+00:00",
-    "title": "Android Apps Can Now Check If Your Phone Is Missing Critical Security Patches"
-  },
-  "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data": {
-    "ts": "2026-09-18T10:53:15.131868+00:00",
-    "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data"
-  },
-  "https://www.helpnetsecurity.com/2026/09/18/social-media-bot-detection-study/": {
-    "ts": "2026-09-18T10:53:15.131872+00:00",
-    "title": "Bots with good manners are better at fooling people on social media"
-  },
-  "https://www.malwarebytes.com/blog/scams/2026/09/fake-parcel-delivery-messages-steal-your-card-and-bank-details": {
-    "ts": "2026-09-18T10:53:15.401342+00:00",
-    "title": "Fake parcel delivery messages steal your card and bank details"
-  },
-  "https://moonlock.com/apple-patches-macos-flaws-sensitive-data": {
-    "ts": "2026-09-18T10:53:15.630441+00:00",
-    "title": "Apple patches macOS flaws that could expose sensitive user data"
-  },
-  "https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/": {
-    "ts": "2026-09-18T10:53:15.874313+00:00",
-    "title": "A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity"
-  },
-  "https://securityaffairs.com/199317/malware/rathat-turns-android-accessibility-into-an-attack-weapon.html": {
-    "ts": "2026-09-18T10:53:16.102844+00:00",
-    "title": "RatHat Turns Android Accessibility Into an Attack Weapon"
-  },
-  "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/": {
-    "ts": "2026-09-18T10:53:16.344680+00:00",
-    "title": "NightmareStresser DDoS Service Disrupted in International Operation"
-  },
-  "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html": {
-    "ts": "2026-09-18T10:53:16.578794+00:00",
-    "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage"
-  },
-  "https://threatmon.io/top-api-security-vulnerabilities-risks-and-mitigation-strategies-2/": {
-    "ts": "2026-09-18T10:53:16.804875+00:00",
-    "title": "Top API Security Vulnerabilities: Risks and Mitigation Strategies"
-  },
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/": {
-    "ts": "2026-09-18T10:53:16.804892+00:00",
-    "title": "Microsoft fixes broken copy and paste for Excel 2016 users"
-  },
-  "https://cybersecuritynews.com/mikrotrick-attack/": {
-    "ts": "2026-09-18T10:53:17.039856+00:00",
-    "title": "MikroTrick Attack Lets Hackers Gain Full Admin Control of MikroTik Routers Without Login"
-  },
-  "https://gbhackers.com/chatgpt-phishing-campaign/": {
-    "ts": "2026-09-18T10:53:17.039875+00:00",
-    "title": "ChatGPT Phishing Campaign Targets Both Work and Personal OpenAI Accounts"
-  },
-  "https://www.helpnetsecurity.com/2026/09/18/plugin4shell-ai-coding-agents-vulnerability/": {
-    "ts": "2026-09-18T10:53:17.281269+00:00",
-    "title": "Zero-click RCE vulnerability hit four major AI coding agents, two remain unpatched"
-  },
-  "https://moonlock.com/hbo-max-reddit-hacked-spreading-malware": {
-    "ts": "2026-09-18T10:53:17.524477+00:00",
-    "title": "Hackers hijack HBO Max\u2019s Reddit account to spread Mac malware"
-  },
-  "https://securityaffairs.com/199279/security/check-point-fixes-critical-cve-2026-91843-allowing-root-code-execution.html": {
-    "ts": "2026-09-18T10:53:17.752724+00:00",
-    "title": "Check Point Fixes Critical CVE-2026-91843 Allowing Root Code Execution"
-  },
-  "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/": {
-    "ts": "2026-09-18T10:53:17.983315+00:00",
-    "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites"
-  },
-  "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html": {
-    "ts": "2026-09-18T10:53:18.224789+00:00",
-    "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer"
-  },
-  "https://cybersecuritynews.com/fake-t-mobile-rewards/": {
-    "ts": "2026-09-18T10:53:18.224806+00:00",
-    "title": "Hackers Use Fake T-Mobile Rewards Expiry Texts to Lure Users to Phishing Sites"
-  },
-  "https://gbhackers.com/linux-kernel-hit-by-4-lpe-flaws/": {
-    "ts": "2026-09-18T10:53:18.224811+00:00",
-    "title": "Linux Kernel Hit by 4 LPE Flaws Enabling Attackers to Gain Root Shell"
-  },
-  "https://www.helpnetsecurity.com/2026/09/18/google-androidx-security-state-libraries/": {
-    "ts": "2026-09-18T10:53:18.224814+00:00",
-    "title": "Android apps can now check security patches down to individual device components"
-  },
-  "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/": {
-    "ts": "2026-09-18T10:53:18.473352+00:00",
-    "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks"
-  },
-  "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html": {
-    "ts": "2026-09-18T10:53:18.703327+00:00",
-    "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall"
-  },
-  "https://cybersecuritynews.com/brevo-supply-chain-attack/": {
-    "ts": "2026-09-18T10:53:18.934285+00:00",
-    "title": "Brevo Supply Chain Attack Pushes WordPress Backdoors and ClickFix Malware to 100,000+ Sites"
-  },
-  "https://gbhackers.com/tutor-lms-vulnerability/": {
-    "ts": "2026-09-18T10:53:19.183090+00:00",
-    "title": "Over 100,000 WordPress Sites Exposed to RCE Through Tutor LMS Vulnerability"
-  },
-  "https://www.helpnetsecurity.com/2026/09/18/abandoned-iot-apps-data-security-risks/": {
-    "ts": "2026-09-18T10:53:19.424883+00:00",
-    "title": "Abandoned IoT apps keep sending sensitive data to broken servers"
-  },
-  "https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/": {
-    "ts": "2026-09-18T10:53:19.672413+00:00",
-    "title": "MIND Secures $72 Million for AI-Powered DLP"
-  },
   "https://socradar.io/blog/cve-2026-76460-cisco-ise-flaw/": {
     "ts": "2026-09-18T14:51:11.597087+00:00",
     "title": "CVE-2026-76460: Cisco ISE Flaw Actively Exploited"
@@ -21302,5 +21106,125 @@
   "https://www.theregister.com/security/2026/11/16/123456-has-been-the-worlds-most-popular-password-for-7-out-of-the-last-8-years/5310189": {
     "ts": "2026-11-17T03:33:11.082845+00:00",
     "title": "\u2018123456\u2019 has been the world\u2019s most popular password for 7 out of the last 8 years"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/": {
+    "ts": "2026-11-17T12:54:17.656178+00:00",
+    "title": "Microsoft testing Remote Lock for lost or stolen Windows devices"
+  },
+  "https://securelist.com/operation-shadowcloud-gitdoor/122004/": {
+    "ts": "2026-11-17T12:54:35.218915+00:00",
+    "title": "Operation\u202fShadowCloud: cloud service\u2013based backdoors targeting government networks in Asia and Africa. Part 1"
+  },
+  "https://asec.ahnlab.com/en/96583/": {
+    "ts": "2026-11-17T12:54:42.030541+00:00",
+    "title": "October 2026 Dark Web Issue Trend Report"
+  },
+  "https://asec.ahnlab.com/en/96569/": {
+    "ts": "2026-11-17T12:56:22.131037+00:00",
+    "title": "October 2026: Major APT Group Trends"
+  },
+  "https://www.group-ib.com/blog/muddywater-infrastructure/": {
+    "ts": "2026-11-17T12:56:22.332587+00:00",
+    "title": "SimpleHarm: Tracking MuddyWater\u2019s infrastructure"
+  },
+  "https://www.helpnetsecurity.com/2026/11/17/optimizely-vulnerability-malicious-javascript/": {
+    "ts": "2026-11-17T12:56:22.517437+00:00",
+    "title": "Malware spread through Optimizely hits 178 organizations, including BBC, CNN and Zoom"
+  },
+  "https://www.malwarebytes.com/blog/mobile/2026/11/facebook-may-have-access-to-your-entire-photo-gallery": {
+    "ts": "2026-11-17T12:56:22.517463+00:00",
+    "title": "Facebook may have access to your entire photo gallery"
+  },
+  "https://securelist.com/operation-shadowcloud-graphdoor/122005/": {
+    "ts": "2026-11-17T12:56:22.709122+00:00",
+    "title": "Operation\u202fShadowCloud: cloud service\u2013based backdoors targeting government networks in Asia and Africa. Part 2"
+  },
+  "https://securityaffairs.com/203309/data-breach/infoblox-confirms-supply-chain-breach-after-attackers-access-sensitive-data.html": {
+    "ts": "2026-11-17T12:56:22.895114+00:00",
+    "title": "Infoblox Confirms Supply Chain Breach After Attackers Access Sensitive Data"
+  },
+  "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/": {
+    "ts": "2026-11-17T12:56:23.085517+00:00",
+    "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days"
+  },
+  "https://www.sekoia.com/blog/neighbors-being-neighborly-a-glimpse-into-the-india-china-cyber-espionage-landscape": {
+    "ts": "2026-11-17T12:56:23.269967+00:00",
+    "title": "A Glimpse Into The India-China Cyber Espionage Landscape"
+  },
+  "https://socradar.io/blog/argonhunt-crypto-breach-stolen-ai-api-keys/": {
+    "ts": "2026-11-17T12:56:23.451518+00:00",
+    "title": "Operation ArgonHunt: Open Directory Exposes a Crypto Exchange Breach and 44,000 Stolen AI API Keys"
+  },
+  "https://www.security.com/threat-intelligence/cyber-ai-predictions-2027": {
+    "ts": "2026-11-17T12:56:23.633494+00:00",
+    "title": "Attackers Pick the Target, AI Does the Rest: Cyber Predictions for 2027"
+  },
+  "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html": {
+    "ts": "2026-11-17T12:56:23.815149+00:00",
+    "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap"
+  },
+  "https://www.theregister.com/security/2026/11/17/opinion-pollster-ipsos-fesses-up-to-cybersecurity-incident/5310405": {
+    "ts": "2026-11-17T12:56:23.815171+00:00",
+    "title": "Opinion pollster Ipsos 'fesses up to 'cybersecurity incident'"
+  },
+  "https://www.welivesecurity.com/en/privacy/is-it-safe-upload-passport-id-online/": {
+    "ts": "2026-11-17T12:56:23.815175+00:00",
+    "title": "Is it safe to upload my passport or ID online?"
+  },
+  "https://threats.wiz.io/all-incidents/ec2-grouper-campaign": {
+    "ts": "2026-11-17T12:56:23.995603+00:00",
+    "title": "EC2 Grouper Campaign (Campaign)"
+  },
+  "https://asec.ahnlab.com/en/96574/": {
+    "ts": "2026-11-17T12:56:23.995625+00:00",
+    "title": "October 2026 Dark Web Breach Incident Trend Report"
+  },
+  "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/": {
+    "ts": "2026-11-17T12:56:24.176095+00:00",
+    "title": "Court clears brothers of $25 million Ethereum crypto heist charges"
+  },
+  "https://www.group-ib.com/blog/bablock-ransomware/": {
+    "ts": "2026-11-17T12:56:24.369500+00:00",
+    "title": "The old way: BabLock, new ransomware quietly cruising around Europe, Middle East, and Asia"
+  },
+  "https://www.helpnetsecurity.com/2026/11/17/apple-macos-app-permission-changes/": {
+    "ts": "2026-11-17T12:56:24.549482+00:00",
+    "title": "Apple splits Mac app permissions fearing overreaching AI agents"
+  },
+  "https://www.malwarebytes.com/blog/threat-intel/2026/11/holiday-shopping-in-a-world-of-fakes-how-ai-is-changing-the-game": {
+    "ts": "2026-11-17T12:56:24.731862+00:00",
+    "title": "Holiday shopping in a world of fakes: How AI is changing the game"
+  },
+  "https://securityaffairs.com/203289/malware/optimjack-bbc-cnn-and-zoom-among-targets-of-optimizely-script-hijacking.html": {
+    "ts": "2026-11-17T12:56:24.913875+00:00",
+    "title": "OPTIMJACK: BBC, CNN and Zoom Among Targets of Optimizely Script Hijacking"
+  },
+  "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/": {
+    "ts": "2026-11-17T12:56:24.913896+00:00",
+    "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack"
+  },
+  "https://www.sekoia.com/blog/best-cybersecurity-platforms-for-modern-security-teams": {
+    "ts": "2026-11-17T12:56:24.913901+00:00",
+    "title": "Best Cybersecurity Platforms For Modern Security Teams"
+  },
+  "https://socradar.io/blog/optimizely-attack-hits-zoom-bbc-cnn-with-skimmer-ios-kits/": {
+    "ts": "2026-11-17T12:56:25.108315+00:00",
+    "title": "Optimizely Attack Hits Zoom, BBC, CNN With Skimmer, iOS Kits"
+  },
+  "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html": {
+    "ts": "2026-11-17T12:56:25.290164+00:00",
+    "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission"
+  },
+  "https://www.theregister.com/security/2026/11/17/japans-fugaku-supercomputer-has-decidedly-un-super-security/5310333": {
+    "ts": "2026-11-17T12:56:25.290189+00:00",
+    "title": "Japan's Fugaku supercomputer has decidedly un-super security"
+  },
+  "https://threats.wiz.io/all-incidents/zagg-customer-data-compromised-via-hijacked-freshclicks-bigcommerce-app": {
+    "ts": "2026-11-17T12:56:25.290194+00:00",
+    "title": "ZAGG customer data compromised via hijacked FreshClicks BigCommerce app (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/": {
+    "ts": "2026-11-17T12:56:25.290197+00:00",
+    "title": "Uber notifies drivers of data breach affecting nearly 150,000 people"
   }
 }
