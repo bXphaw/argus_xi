@@ -1,144 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/": {
-    "ts": "2026-09-17T22:01:50.478665+00:00",
-    "title": "New RatHat Android malware uses AI to automate device control"
-  },
-  "https://cybersecuritynews.com/hacked-thai-college-website-abused-to-redirect-google-searchers-to-illegal-online-casino/": {
-    "ts": "2026-09-17T22:01:50.478688+00:00",
-    "title": "Hacked Thai College Website Abused to Redirect Google Searchers to Illegal Online Casino"
-  },
-  "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus": {
-    "ts": "2026-09-17T22:01:50.478692+00:00",
-    "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus"
-  },
-  "https://gbhackers.com/proxy-interviews-scam/": {
-    "ts": "2026-09-17T22:01:50.672352+00:00",
-    "title": "North Korean IT Workers Pay People to Sit Through Job Interviews While They Control the Computer"
-  },
-  "https://www.helpnetsecurity.com/2026/09/17/fake-ai-trading-agent-research/": {
-    "ts": "2026-09-17T22:01:50.875512+00:00",
-    "title": "Fake AI trading agent steals crypto wallet passwords"
-  },
-  "https://www.malwarebytes.com/blog/privacy/2026/09/flock-cameras-are-tracking-people-as-well-as-cars": {
-    "ts": "2026-09-17T22:01:51.068587+00:00",
-    "title": "Flock cameras are tracking people as well as cars"
-  },
-  "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/": {
-    "ts": "2026-09-17T22:01:51.277113+00:00",
-    "title": "From guidance to action: Security fundamentals that materially reduce risk"
-  },
-  "https://securityaffairs.com/199280/hacking/cyberattacks-on-oil-tankers-put-maritime-critical-infrastructure-at-risk.html": {
-    "ts": "2026-09-17T22:01:51.477204+00:00",
-    "title": "Cyberattacks on Oil Tankers Put Maritime Critical Infrastructure at Risk"
-  },
-  "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/": {
-    "ts": "2026-09-17T22:01:51.674531+00:00",
-    "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom"
-  },
-  "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html": {
-    "ts": "2026-09-17T22:01:51.874531+00:00",
-    "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America"
-  },
-  "https://www.theregister.com/security/2026/09/17/researchers-find-way-to-listen-in-on-headphones-from-afar/5297303": {
-    "ts": "2026-09-17T22:01:51.874550+00:00",
-    "title": "Researchers find way to listen in on headphones from afar"
-  },
-  "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/": {
-    "ts": "2026-09-17T22:01:51.874554+00:00",
-    "title": "OpenAI details more cases of AI agents taking unauthorized actions"
-  },
-  "https://cybersecuritynews.com/heavygram-surveillance-malware/": {
-    "ts": "2026-09-17T22:01:52.077483+00:00",
-    "title": "Hackers Turn Telegram Into a Command Center for HEAVYGRAM Surveillance Malware"
-  },
-  "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america": {
-    "ts": "2026-09-17T22:01:52.270716+00:00",
-    "title": "China's FamousSparrow APT Spies on US Politics in Latin America"
-  },
-  "https://gbhackers.com/gpt4free-privacy-risks-expose-ai-prompts/": {
-    "ts": "2026-09-17T22:01:52.270736+00:00",
-    "title": "GPT4Free Privacy Risks Expose AI Prompts to Third-Party Servers and Hidden Logs"
-  },
-  "https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/": {
-    "ts": "2026-09-17T22:01:52.464185+00:00",
-    "title": "Improving email security outcomes with real-world Microsoft Defender insights"
-  },
-  "https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/": {
-    "ts": "2026-09-17T22:01:52.658534+00:00",
-    "title": "AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals"
-  },
-  "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html": {
-    "ts": "2026-09-17T22:01:52.853053+00:00",
-    "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads"
-  },
-  "https://cybersecuritynews.com/silkparasite-linked-malware/": {
-    "ts": "2026-09-17T22:01:53.062299+00:00",
-    "title": "SilkParasite-Linked Malware Infrastructure Traced Back Four Years Across Central Asia"
-  },
-  "https://gbhackers.com/bind-9-20-29-fixes-14-security-flaws/": {
-    "ts": "2026-09-17T22:01:53.258420+00:00",
-    "title": "BIND 9.20.29 Fixes 14 Security Flaws Enabling DNSSEC Bypass and Denial-of-Service Attacks"
-  },
-  "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html": {
-    "ts": "2026-09-17T22:01:53.258440+00:00",
-    "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS"
-  },
-  "https://cybersecuritynews.com/north-korean-it-workers-2/": {
-    "ts": "2026-09-17T22:01:53.458534+00:00",
-    "title": "North Korean IT Workers Use AI and Remote Desktop Tools to Fake Technical Interviews"
-  },
-  "https://gbhackers.com/sparrowocky-backdoor/": {
-    "ts": "2026-09-17T22:01:53.653629+00:00",
-    "title": "FamousSparrow Deploys New SparroWocky Backdoor Against Latin American Governments"
-  },
-  "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html": {
-    "ts": "2026-09-17T22:01:53.653650+00:00",
-    "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records"
-  },
-  "https://cybersecuritynews.com/famoussparrow-exploits/": {
-    "ts": "2026-09-17T22:01:53.849603+00:00",
-    "title": "FamousSparrow Exploits Public-Facing Exchange Servers to Deploy SparroWocky Backdoor"
-  },
-  "https://gbhackers.com/cisa-urges-organizations-to-deploy-cyber-decoys/": {
-    "ts": "2026-09-17T22:01:54.052206+00:00",
-    "title": "CISA Urges Organizations to Deploy Cyber Decoys to Detect Hackers Inside Networks"
-  },
-  "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html": {
-    "ts": "2026-09-17T22:01:54.255446+00:00",
-    "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks"
-  },
-  "https://cybersecuritynews.com/critical-docker-sandboxes-vulnerabilities/": {
-    "ts": "2026-09-17T22:01:54.450271+00:00",
-    "title": "Critical Docker Sandbox Vulnerabilities Enable Malicious Guests to Escape Isolated microVM Workspaces"
-  },
-  "https://gbhackers.com/kubernetes-identity-attack/": {
-    "ts": "2026-09-17T22:01:54.645748+00:00",
-    "title": "Kubernetes Attack Lets Hackers Steal SPIFFE Workload Identities and Impersonate Applications"
-  },
-  "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html": {
-    "ts": "2026-09-17T22:01:54.853841+00:00",
-    "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks"
-  },
-  "https://gbhackers.com/best-dspm-compared/": {
-    "ts": "2026-09-18T00:05:42.606857+00:00",
-    "title": "12 Best DSPM Tools Compared (2026): Features & Pricing"
-  },
-  "https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/": {
-    "ts": "2026-09-18T00:05:46.300110+00:00",
-    "title": "CrowdStrike SafeMind: When the Best Offense Builds the Best Defense"
-  },
-  "https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/": {
-    "ts": "2026-09-18T00:05:46.300129+00:00",
-    "title": "Inside the Modern SOC: Defending the Cross-Environment Pivot"
-  },
-  "https://securityaffairs.com/199302/ai/openai-admits-its-models-lie-to-cover-their-own-mistakes.html": {
-    "ts": "2026-09-18T00:05:46.300132+00:00",
-    "title": "OpenAI admits its models lie to cover their own mistakes"
-  },
-  "https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335": {
-    "ts": "2026-09-18T00:05:46.300134+00:00",
-    "title": "AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom"
-  },
   "https://gbhackers.com/fbi-seizes-nightmarestresser-ddos/": {
     "ts": "2026-09-18T05:44:39.783955+00:00",
     "title": "FBI Seizes NightmareStresser DDoS-for-Hire Domains Used in Hundreds of Thousands of Attacks"
@@ -21322,5 +21182,125 @@
   "https://socradar.io/blog/danfoss-ak-sm800a-flaw-takeover/": {
     "ts": "2026-11-16T20:08:55.519327+00:00",
     "title": "Unpatched Danfoss AK-SM800A Flaws Allow Takeover"
+  },
+  "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/": {
+    "ts": "2026-11-17T03:33:09.322231+00:00",
+    "title": "Optimizely supply chain attack infects major brands' sites with malware"
+  },
+  "https://cybersecuritynews.com/chase-outage-disrupts-bank/": {
+    "ts": "2026-11-17T03:33:09.322258+00:00",
+    "title": "Chase Software Bug Disrupts Banking Services as Customers Report Outages at Major US Banks"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines": {
+    "ts": "2026-11-17T03:33:09.322262+00:00",
+    "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts"
+  },
+  "https://gbhackers.com/claude-code-extension/": {
+    "ts": "2026-11-17T03:33:09.322265+00:00",
+    "title": "Claude Code Extension Could Let AI Agents Access Files Outside Trusted Workspaces Through Symlinks"
+  },
+  "https://www.group-ib.com/blog/heavygram-handala-hack-telegram-c2/": {
+    "ts": "2026-11-17T03:33:09.428377+00:00",
+    "title": "HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack"
+  },
+  "https://www.helpnetsecurity.com/2026/11/16/geovision-camera-software-vulnerabilities/": {
+    "ts": "2026-11-17T03:33:09.538075+00:00",
+    "title": "Unpatched GeoVision camera software gave cryptojackers a side door into 13 organizations"
+  },
+  "https://threatresearch.ext.hp.com/hp-wolf-security-threat-insights-report-september-2026/": {
+    "ts": "2026-11-17T03:33:09.538099+00:00",
+    "title": "HP Wolf Security Threat Insights Report: September 2026"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/11/criminals-are-using-artex-ai-agents-to-speed-up-cyberattacks-fbi-warns": {
+    "ts": "2026-11-17T03:33:09.648684+00:00",
+    "title": "Criminals are using ARTEX AI agents to speed up cyberattacks, FBI warns"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/": {
+    "ts": "2026-11-17T03:33:09.648709+00:00",
+    "title": "High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors"
+  },
+  "https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/": {
+    "ts": "2026-11-17T03:33:09.775718+00:00",
+    "title": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments"
+  },
+  "https://www.recordedfuture.com/blog/forrester-wave-external-threat-intelligence-2026": {
+    "ts": "2026-11-17T03:33:09.874954+00:00",
+    "title": "Our View on What It Takes To Be Named an Industry-Recognized Threat Intelligence Leader"
+  },
+  "https://securityaffairs.com/203272/security/u-s-banks-struggle-with-outages-amid-wider-technology-disruptions.html": {
+    "ts": "2026-11-17T03:33:09.988235+00:00",
+    "title": "U.S. Banks Struggle With Outages Amid Wider Technology Disruptions"
+  },
+  "https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/": {
+    "ts": "2026-11-17T03:33:10.097415+00:00",
+    "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology"
+  },
+  "https://socradar.io/blog/best-dns-servers-for-security-and-privacy-2026/": {
+    "ts": "2026-11-17T03:33:10.211486+00:00",
+    "title": "Best DNS Servers for Security and Privacy (2026)"
+  },
+  "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html": {
+    "ts": "2026-11-17T03:33:10.315837+00:00",
+    "title": "\u26a1 Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days"
+  },
+  "https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280": {
+    "ts": "2026-11-17T03:33:10.315859+00:00",
+    "title": "Infoblox customer and staff data exposed in Sharepoint breach"
+  },
+  "https://www.welivesecurity.com/en/business-security/cyberthreats-moving-faster-smbs-readiness-must-accelerate/": {
+    "ts": "2026-11-17T03:33:10.315863+00:00",
+    "title": "Cyberthreats are moving faster than SMBs: Readiness must accelerate"
+  },
+  "https://threats.wiz.io/all-incidents/volkswagen-massive-data-leak-through-spring-boot-actuator-misconfiguration": {
+    "ts": "2026-11-17T03:33:10.315867+00:00",
+    "title": "Volkswagen massive data leak through Spring Boot Actuator misconfiguration (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/": {
+    "ts": "2026-11-17T03:33:10.432226+00:00",
+    "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website"
+  },
+  "https://cybersecuritynews.com/optimizely-websites-hijacked/": {
+    "ts": "2026-11-17T03:33:10.543660+00:00",
+    "title": "Hackers Infect 178 Major Websites via Optimizely to Steal Credit Cards and Target iPhones"
+  },
+  "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline": {
+    "ts": "2026-11-17T03:33:10.648408+00:00",
+    "title": "Ransomware Attacks Increase Behind AI, But Payments Decline"
+  },
+  "https://gbhackers.com/apple-unveils-secure-exclaves-to-protect-camera/": {
+    "ts": "2026-11-17T03:33:10.759450+00:00",
+    "title": "Apple Unveils Secure Exclaves to Protect Camera and Microphone Data From Kernel-Level Attacks"
+  },
+  "https://www.group-ib.com/blog/top-fraud-prevention-platforms-banks-fintechs/": {
+    "ts": "2026-11-17T03:33:10.876886+00:00",
+    "title": "Top 5 Fraud Prevention Platforms for Banks and Fintechs in 2026"
+  },
+  "https://www.helpnetsecurity.com/2026/11/16/rspamd-4-3-0-released/": {
+    "ts": "2026-11-17T03:33:10.972789+00:00",
+    "title": "Rspamd 4.3.0 stops forwarded mail from softening DMARC rejects"
+  },
+  "https://www.malwarebytes.com/blog/how-to/2026/11/how-to-prepare-your-digital-accounts-for-after-your-death": {
+    "ts": "2026-11-17T03:33:11.082807+00:00",
+    "title": "How to prepare your digital accounts for after your death"
+  },
+  "https://www.recordedfuture.com/blog/new-rules-machine-speed-defense": {
+    "ts": "2026-11-17T03:33:11.082834+00:00",
+    "title": "The New Rules of Machine Speed Defense"
+  },
+  "https://securityaffairs.com/203230/hacking/from-report-to-tested-detection-in-hours-the-artex-signature-pack.html": {
+    "ts": "2026-11-17T03:33:11.082837+00:00",
+    "title": "From Report to Tested Detection in Hours: The ARTEX Signature Pack"
+  },
+  "https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/": {
+    "ts": "2026-11-17T03:33:11.082840+00:00",
+    "title": "Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks"
+  },
+  "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html": {
+    "ts": "2026-11-17T03:33:11.082842+00:00",
+    "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login"
+  },
+  "https://www.theregister.com/security/2026/11/16/123456-has-been-the-worlds-most-popular-password-for-7-out-of-the-last-8-years/5310189": {
+    "ts": "2026-11-17T03:33:11.082845+00:00",
+    "title": "\u2018123456\u2019 has been the world\u2019s most popular password for 7 out of the last 8 years"
   }
 }
