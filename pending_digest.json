@@ -1,4 +1,25 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "Betrayed Expectations: Malware Delivery via Common Brands",
+      "url": "https://cofense.com/blog/betrayed-expectations-malware-delivery-via-common-brands"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Fake FMCSA, DAT, and TIMOCOM Portals Attack US Logistics Firms",
+      "url": "https://cybersecuritynews.com/fake-fmcsa-dat-timocom-portals-target-us-logistics/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Apache Roller RCE Flaw CVE-2026-129448 Under Active Attack",
+      "url": "https://securityaffairs.com/203419/security/apache-roller-rce-flaw-cve-2026-129448-under-active-attack.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "LLM Hijacking Targeting AWS (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/llm-hijacking-targeting-aws"
+    }
+  ],
   "last_sent_date": "2026-11-18"
 }

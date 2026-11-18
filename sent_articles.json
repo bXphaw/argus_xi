@@ -1,64 +1,4 @@
 {
-  "https://gbhackers.com/google-gemini-ai-hacked-3-real-companies/": {
-    "ts": "2026-09-19T13:47:10.440929+00:00",
-    "title": "Google Gemini AI Hacked 3 Real Companies After Cybersecurity Test Exposed It to Internet"
-  },
-  "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/": {
-    "ts": "2026-09-19T13:47:13.535524+00:00",
-    "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first"
-  },
-  "https://cybersecuritynews.com/tanstack-supply-chain-attack/": {
-    "ts": "2026-09-19T13:47:13.746935+00:00",
-    "title": "TanStack Supply Chain Attack Lets Hackers Steal 170 Private CrowdSec GitHub Repositories"
-  },
-  "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html": {
-    "ts": "2026-09-19T13:47:13.952376+00:00",
-    "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws"
-  },
-  "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html": {
-    "ts": "2026-09-19T13:47:13.952399+00:00",
-    "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE"
-  },
-  "https://cybersecuritynews.com/linux-kernel-vulnerabilities-actively-exploited/": {
-    "ts": "2026-09-19T17:05:27.333778+00:00",
-    "title": "CISA Warns of Linux Kernel Vulnerabilities Actively Exploited in Attacks"
-  },
-  "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/": {
-    "ts": "2026-09-19T17:06:10.713996+00:00",
-    "title": "BragJack attacks hijack AI browser agents through malicious extensions"
-  },
-  "https://securityaffairs.com/199392/ai/google-gemini-also-broke-out-of-its-test-environment.html": {
-    "ts": "2026-09-19T17:06:10.714016+00:00",
-    "title": "Google Gemini also Broke Out of Its Test Environment"
-  },
-  "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/": {
-    "ts": "2026-09-19T17:06:10.714020+00:00",
-    "title": "TigerByte Cyber Emerges From Stealth With $3 Million in Funding"
-  },
-  "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html": {
-    "ts": "2026-09-19T17:06:10.714024+00:00",
-    "title": "Identity Visibility in 2026: The Foundation of Identity Security"
-  },
-  "https://www.theregister.com/security/2026/09/19/agentic-security-is-the-billion-dollar-challenge-for-some-clever-startup-to-solve/5297546": {
-    "ts": "2026-09-19T17:06:10.714028+00:00",
-    "title": "Agentic security is the billion-dollar challenge for some clever startup to solve"
-  },
-  "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/": {
-    "ts": "2026-09-19T17:06:10.946720+00:00",
-    "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide"
-  },
-  "https://securityaffairs.com/199378/ai/ai-helps-hackers-hijack-openai-staff-accounts-through-a-forum.html": {
-    "ts": "2026-09-19T17:06:11.184364+00:00",
-    "title": "AI Helps Hackers Hijack OpenAI Staff Accounts Through a Forum"
-  },
-  "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/": {
-    "ts": "2026-09-19T17:06:11.433236+00:00",
-    "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang"
-  },
-  "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/": {
-    "ts": "2026-09-19T17:06:11.669426+00:00",
-    "title": "Viral AI actress' hotline face-scans every caller, watches their mood"
-  },
   "https://cybersecuritynews.com/autonomous-ai-attacks-the-hugging-face-reality-check/": {
     "ts": "2026-09-20T05:53:21.101194+00:00",
     "title": "Autonomous AI Attacks: The Hugging Face Reality Check"
@@ -21334,5 +21274,125 @@
   "https://threats.wiz.io/all-incidents/php-targeted-with-glutton-backdoor": {
     "ts": "2026-11-18T12:49:09.489894+00:00",
     "title": "PHP Targeted with Glutton backdoor (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/": {
+    "ts": "2026-11-18T21:15:14.039574+00:00",
+    "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam"
+  },
+  "https://research.checkpoint.com/2026/the-state-of-ransomware-q3-2026/": {
+    "ts": "2026-11-18T21:15:14.039602+00:00",
+    "title": "The State of Ransomware Q3 2026"
+  },
+  "https://cofense.com/blog/betrayed-expectations-malware-delivery-via-common-brands": {
+    "ts": "2026-11-18T21:15:14.272668+00:00",
+    "title": "Betrayed Expectations: Malware Delivery via Common Brands"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/": {
+    "ts": "2026-11-18T21:15:14.272688+00:00",
+    "title": "CrowdStrike Brings the Human Advantage to AI Detection and Response"
+  },
+  "https://cybersecuritynews.com/fake-fmcsa-dat-timocom-portals-target-us-logistics/": {
+    "ts": "2026-11-18T21:15:14.493123+00:00",
+    "title": "Fake FMCSA, DAT, and TIMOCOM Portals Attack US Logistics Firms"
+  },
+  "https://cyble.com/blog/java4shell-cve-2026-114938-bug/": {
+    "ts": "2026-11-18T21:15:14.724050+00:00",
+    "title": "Java4Shell (CVE-2026-114938): Who\u2019s Exposed and How to Fix It"
+  },
+  "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool": {
+    "ts": "2026-11-18T21:15:14.951055+00:00",
+    "title": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool"
+  },
+  "https://gbhackers.com/offsec-php2shell-black-october-hands-on-labs/": {
+    "ts": "2026-11-18T21:15:15.181643+00:00",
+    "title": "After Black October, OffSec Turns PHPH2Shell and Other New Vulnerabilities Into Hands-On Labs"
+  },
+  "https://www.group-ib.com/blog/java4shell-vulnerability/": {
+    "ts": "2026-11-18T21:15:15.404728+00:00",
+    "title": "Java4Shell And The Conditions That Put Enterprise Java At Risk"
+  },
+  "https://www.helpnetsecurity.com/2026/11/18/christian-schwalbe-deutsche-telekom-iot-security/": {
+    "ts": "2026-11-18T21:15:15.624343+00:00",
+    "title": "Deutsche Telekom IoT\u2019s CEO on securing devices that run for 20 years"
+  },
+  "https://www.malwarebytes.com/blog/inside-malwarebytes/2026/11/who-protects-the-antivirus-how-we-secure-malwarebytes-itself": {
+    "ts": "2026-11-18T21:15:15.624390+00:00",
+    "title": "Who protects the antivirus? How we secure Malwarebytes itself"
+  },
+  "https://moonlock.com/remove-calendar-virus": {
+    "ts": "2026-11-18T21:15:15.624396+00:00",
+    "title": "Calendar virus or just spam? How to clean up your iPhone and Mac Calendar"
+  },
+  "https://www.rapid7.com/blog/post/tr-self-hosted-ai-renting-compute-exposed-servers": {
+    "ts": "2026-11-18T21:15:15.624400+00:00",
+    "title": "Open by Default, Already Occupied: Threat Actors are Renting your Compute"
+  },
+  "https://www.recordedfuture.com/blog/tech-stack-automation": {
+    "ts": "2026-11-18T21:15:15.624403+00:00",
+    "title": "Recorded Future Launches New Automation Capabilities for Tech Stack Watch List"
+  },
+  "https://securityaffairs.com/203419/security/apache-roller-rce-flaw-cve-2026-129448-under-active-attack.html": {
+    "ts": "2026-11-18T21:15:15.842997+00:00",
+    "title": "Apache Roller RCE Flaw CVE-2026-129448 Under Active Attack"
+  },
+  "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/": {
+    "ts": "2026-11-18T21:15:16.076886+00:00",
+    "title": "VeroSecurity Raises $11 Million for AI Security Engineering Platform"
+  },
+  "https://www.sentinelone.com/labs/labscon26-replay-governing-just-in-time-intelligence-ai-dual-use-capabilities-and-the-limits-of-guardrails/": {
+    "ts": "2026-11-18T21:15:16.291427+00:00",
+    "title": "LABScon26 Replay | Governing Just-in-Time Intelligence: AI, Dual-Use Capabilities, and the Limits of Guardrails"
+  },
+  "https://socradar.io/blog/php2shell-ai-agents-credential-harvesting/": {
+    "ts": "2026-11-18T21:15:16.532434+00:00",
+    "title": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign"
+  },
+  "https://www.sophos.com/en-us/blog/patches-released-for-critical-nginx2root-vulnerabilities": {
+    "ts": "2026-11-18T21:15:16.763821+00:00",
+    "title": "Patches released for critical \u2018NGINX2Root\u2019 vulnerabilities"
+  },
+  "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html": {
+    "ts": "2026-11-18T21:15:16.991972+00:00",
+    "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers"
+  },
+  "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887": {
+    "ts": "2026-11-18T21:15:16.991996+00:00",
+    "title": "AI found more critical bugs in another widely used technology running 225M websites"
+  },
+  "https://www.welivesecurity.com/en/privacy/nudify-apps-fake-nude-you/": {
+    "ts": "2026-11-18T21:15:16.992000+00:00",
+    "title": "\u2018Nudify\u2019 apps: What to do if someone makes a fake nude of you"
+  },
+  "https://threats.wiz.io/all-incidents/llm-hijacking-targeting-aws": {
+    "ts": "2026-11-18T21:15:17.209528+00:00",
+    "title": "LLM Hijacking Targeting AWS (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/": {
+    "ts": "2026-11-18T21:15:17.209548+00:00",
+    "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/": {
+    "ts": "2026-11-18T21:15:17.209552+00:00",
+    "title": "CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM"
+  },
+  "https://cybersecuritynews.com/hackers-use-ghostmap-ebpf-rootkit/": {
+    "ts": "2026-11-18T21:15:17.436468+00:00",
+    "title": "Hackers Use GhostMap eBPF Rootkit to Hide IronWorm Malware From Linux Security Tools"
+  },
+  "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups": {
+    "ts": "2026-11-18T21:15:17.676774+00:00",
+    "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks"
+  },
+  "https://gbhackers.com/2027-cybersecurity-excellence-awards/": {
+    "ts": "2026-11-18T21:15:17.892658+00:00",
+    "title": "2027 Cybersecurity Excellence Awards Launch With Six New AI Security Categories"
+  },
+  "https://www.group-ib.com/blog/know-thy-enemy/": {
+    "ts": "2026-11-18T21:15:18.109978+00:00",
+    "title": "Know Thy Enemy: unraveling the \u201cHi-Tech Crime Trends 2022/2023\u201d report"
+  },
+  "https://www.helpnetsecurity.com/2026/11/18/nicola-fox-hamilton-victim-blaming-scams-phishing/": {
+    "ts": "2026-11-18T21:15:18.325266+00:00",
+    "title": "Once a scam ends the victim blaming begins"
   }
 }
