@@ -44,6 +44,56 @@
       "category": "new_technique",
       "title": "Google finds AI agent writing and launching exploits with no human in the loop",
       "url": "https://www.helpnetsecurity.com/2026/11/17/ai-powered-cyberattacks-gtig-report/"
+    },
+    {
+      "category": "new_technique",
+      "title": "OpenJDK Java Vulnerability Patch Recommendation (CVE-2026-114938)",
+      "url": "https://asec.ahnlab.com/en/96615/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/"
+    },
+    {
+      "category": "new_technique",
+      "title": "CVE-2026-114938: Critical vulnerability in OpenJDK JAVA",
+      "url": "https://blog.talosintelligence.com/java4shell/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical Java4Shell Flaw Lets Hackers Execute Code Without Authentication on OpenJDK Servers",
+      "url": "https://cybersecuritynews.com/java4shell/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Bleak outlook: Mitigating CVE-2023-23397",
+      "url": "https://www.group-ib.com/blog/bleak-outlook/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/"
+    },
+    {
+      "category": "new_technique",
+      "title": "CNN, BBC, Zoom, and other sites served malicious code in supply-chain attack",
+      "url": "https://www.malwarebytes.com/blog/news/2026/11/cnn-bbc-zoom-and-other-sites-served-malicious-code-in-supply-chain-attack"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Diicot Campaign Targeting Linux Environments (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/diicot-campaign-targeting-linux-environments"
+    },
+    {
+      "category": "new_technique",
+      "title": "Fridge Controller Attacks: Researchers Find Six Zero-Days in an Hour",
+      "url": "https://securityaffairs.com/203324/security/fridge-controller-attacks-researchers-find-six-zero-days-in-an-hour.html"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+      "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html"
     }
   ],
   "last_sent_date": "2026-11-17"

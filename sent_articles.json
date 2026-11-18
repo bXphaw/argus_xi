@@ -1,20 +1,4 @@
 {
-  "https://securityaffairs.com/199355/hacking/brevo-supply-chain-attack-infected-over-100000-websites.html": {
-    "ts": "2026-09-19T00:00:05.094307+00:00",
-    "title": "Brevo Supply-Chain Attack Infected Over 100,000 Websites"
-  },
-  "https://cybersecuritynews.com/tutor-lms-flaw/": {
-    "ts": "2026-09-19T00:00:06.715500+00:00",
-    "title": "Tutor LMS Flaw Exposes 100,000+ WordPress Sites to Remote Code Execution"
-  },
-  "https://www.recordedfuture.com/blog/klue-security-incident-jp": {
-    "ts": "2026-09-19T00:00:06.715510+00:00",
-    "title": "Klue\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30a4\u30f3\u30b7\u30c7\u30f3\u30c8\u3068Recorded Future\u3078\u306e\u5f71\u97ff"
-  },
-  "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/": {
-    "ts": "2026-09-19T00:00:06.715512+00:00",
-    "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws"
-  },
   "https://cybersecuritynews.com/google-gemini-ai-hacked-3-real-companies/": {
     "ts": "2026-09-19T09:18:12.691828+00:00",
     "title": "Google Gemini AI Hacked 3 Real Companies during a Cybersecurity Test"
@@ -21154,5 +21138,125 @@
   "https://www.malwarebytes.com/blog/threat-intel/2026/11/amazon-job-offer-promises-5000-a-month-but-its-got-all-the-signs-of-a-scam": {
     "ts": "2026-11-17T21:38:03.208169+00:00",
     "title": "\u201cAmazon\u201d job offer promises $5,000 a month, but it\u2019s got all the signs of a scam"
+  },
+  "https://asec.ahnlab.com/en/96615/": {
+    "ts": "2026-11-18T03:28:40.115194+00:00",
+    "title": "OpenJDK Java Vulnerability Patch Recommendation (CVE-2026-114938)"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/": {
+    "ts": "2026-11-18T03:28:40.338311+00:00",
+    "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications"
+  },
+  "https://blog.talosintelligence.com/java4shell/": {
+    "ts": "2026-11-18T03:28:40.562567+00:00",
+    "title": "CVE-2026-114938: Critical vulnerability in OpenJDK JAVA"
+  },
+  "https://cybersecuritynews.com/java4shell/": {
+    "ts": "2026-11-18T03:28:40.786889+00:00",
+    "title": "Critical Java4Shell Flaw Lets Hackers Execute Code Without Authentication on OpenJDK Servers"
+  },
+  "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks": {
+    "ts": "2026-11-18T03:28:40.786904+00:00",
+    "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks"
+  },
+  "https://gbhackers.com/mcdonalds-ios-app-flooded-with-suspicious-push-notifications/": {
+    "ts": "2026-11-18T03:28:40.786908+00:00",
+    "title": "McDonald\u2019s iOS App Flooded With Suspicious Push Notifications in Possible Cyberattack"
+  },
+  "https://www.group-ib.com/blog/bleak-outlook/": {
+    "ts": "2026-11-18T03:28:41.018346+00:00",
+    "title": "Bleak outlook: Mitigating CVE-2023-23397"
+  },
+  "https://www.helpnetsecurity.com/2026/11/17/openai-nato-ai-cyber-defense/": {
+    "ts": "2026-11-18T03:28:41.018362+00:00",
+    "title": "NATO\u2019s AI cyber defense work hits up to 300 billion OpenAI tokens a month"
+  },
+  "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/": {
+    "ts": "2026-11-18T03:28:41.248030+00:00",
+    "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/11/cnn-bbc-zoom-and-other-sites-served-malicious-code-in-supply-chain-attack": {
+    "ts": "2026-11-18T03:28:41.471220+00:00",
+    "title": "CNN, BBC, Zoom, and other sites served malicious code in supply-chain attack"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/": {
+    "ts": "2026-11-18T03:28:41.695206+00:00",
+    "title": "The risks of device code authentication for AI coding agents"
+  },
+  "https://www.rapid7.com/blog/post/em-claude-access-brings-ai-context-into-surface-command-asm-easm": {
+    "ts": "2026-11-18T03:28:41.917064+00:00",
+    "title": "Who Has Access to Claude? Bring AI Identity and Access Context Into Surface Command"
+  },
+  "https://securityaffairs.com/203339/data-breach/fireworks-ai-breach-exposes-uber-data-and-highlights-supply-chain-risks.html": {
+    "ts": "2026-11-18T03:28:42.140235+00:00",
+    "title": "Fireworks AI Breach Exposes Uber Data and Highlights Supply Chain Risks"
+  },
+  "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/": {
+    "ts": "2026-11-18T03:28:42.364279+00:00",
+    "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says"
+  },
+  "https://www.sentinelone.com/labs/dont-call-us-well-call-your-apis-tradertraitor-backdoors-resurface-on-victim-with-no-crypto-ties/": {
+    "ts": "2026-11-18T03:28:42.587093+00:00",
+    "title": "Don\u2019t Call Us, We\u2019ll Call Your APIs | TraderTraitor Backdoors Resurface on Victim With No Crypto Ties"
+  },
+  "https://www.sophos.com/en-us/blog/java4shell-could-allow-remote-code-execution": {
+    "ts": "2026-11-18T03:28:42.587106+00:00",
+    "title": "'Java4Shell' vulnerability (CVE-2026-114938) could allow remote code execution"
+  },
+  "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html": {
+    "ts": "2026-11-18T03:28:42.587110+00:00",
+    "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges"
+  },
+  "https://www.theregister.com/security/2026/11/17/daily-disruptive-outages-that-ground-planes-and-halt-work-welcome-to-the-new-normal/5310634": {
+    "ts": "2026-11-18T03:28:42.587113+00:00",
+    "title": "Daily disruptive outages that ground planes and halt work \u2013 welcome to the new normal"
+  },
+  "https://threats.wiz.io/all-incidents/diicot-campaign-targeting-linux-environments": {
+    "ts": "2026-11-18T03:28:42.817341+00:00",
+    "title": "Diicot Campaign Targeting Linux Environments (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/": {
+    "ts": "2026-11-18T03:28:42.817357+00:00",
+    "title": "Apple reports outages affecting iCloud Mail, AppleCare and more"
+  },
+  "https://cybersecuritynews.com/themailer-ai-phishing-platform/": {
+    "ts": "2026-11-18T03:28:43.041089+00:00",
+    "title": "TheMailer \u2013 Self-hosted Phishing Platform that Runs on Claude and ChatGPT"
+  },
+  "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval": {
+    "ts": "2026-11-18T03:28:43.270849+00:00",
+    "title": "Grok Bots Attempt to Access Corporate Data Without User Approval"
+  },
+  "https://gbhackers.com/microsoft-warns-hackers-are-exploiting-microsoft-365-outages/": {
+    "ts": "2026-11-18T03:28:43.502249+00:00",
+    "title": "Microsoft Warns Hackers Are Exploiting Microsoft 365 Outages to Launch Credential Phishing Attacks"
+  },
+  "https://www.group-ib.com/blog/banking-malware/": {
+    "ts": "2026-11-18T03:28:43.725718+00:00",
+    "title": "Bad Behaviour: How to detect banking trojans"
+  },
+  "https://www.helpnetsecurity.com/2026/11/17/peter-stockli-github-ai-security-audits/": {
+    "ts": "2026-11-18T03:28:43.950075+00:00",
+    "title": "Too many instructions can hold back AI security audits"
+  },
+  "https://www.malwarebytes.com/blog/podcast/2026/11/how-to-prepare-your-data-for-your-death-lock-and-code-s07e23": {
+    "ts": "2026-11-18T03:28:43.950089+00:00",
+    "title": "How to prepare your data for your death (Lock and Code S07E23)"
+  },
+  "https://securityaffairs.com/203324/security/fridge-controller-attacks-researchers-find-six-zero-days-in-an-hour.html": {
+    "ts": "2026-11-18T03:28:44.172310+00:00",
+    "title": "Fridge Controller Attacks: Researchers Find Six Zero-Days in an Hour"
+  },
+  "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/": {
+    "ts": "2026-11-18T03:28:44.172328+00:00",
+    "title": "Market Research Giant Ipsos Investigating Breach of Internal System"
+  },
+  "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html": {
+    "ts": "2026-11-18T03:28:44.396378+00:00",
+    "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers"
+  },
+  "https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464": {
+    "ts": "2026-11-18T03:28:44.396393+00:00",
+    "title": "Hackers smash 'n' grab AI vendor: Take  off with license data of Uber drivers"
   }
 }
