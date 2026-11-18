@@ -1,48 +1,4 @@
 {
-  "https://cybersecuritynews.com/google-gemini-ai-hacked-3-real-companies/": {
-    "ts": "2026-09-19T09:18:12.691828+00:00",
-    "title": "Google Gemini AI Hacked 3 Real Companies during a Cybersecurity Test"
-  },
-  "https://gbhackers.com/north-korean-waterplum-hackers-target-it-professionals/": {
-    "ts": "2026-09-19T09:18:12.907599+00:00",
-    "title": "North Korean WaterPlum Hackers Target IT Professionals With Fake Job Interviews to Steal Crypto"
-  },
-  "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html": {
-    "ts": "2026-09-19T09:18:13.053600+00:00",
-    "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild"
-  },
-  "https://www.welivesecurity.com/en/privacy/nudify-apps-fake-nude-you/": {
-    "ts": "2026-09-19T09:18:13.053616+00:00",
-    "title": "\u2018Nudify\u2019 apps: What to do if someone makes a fake nude of you"
-  },
-  "https://cybersecuritynews.com/click2shell-wordpress-vulnerability/": {
-    "ts": "2026-09-19T09:18:13.201890+00:00",
-    "title": "Click2Shell WordPress Flaw Lets Attackers Gain RCE With a Single Malicious Link"
-  },
-  "https://gbhackers.com/ai-powered-rathat-android-trojan-steals-bank-credentials/": {
-    "ts": "2026-09-19T09:18:13.656064+00:00",
-    "title": "AI-Powered RatHat Android Trojan Steals Bank Credentials, PINs and MFA Codes"
-  },
-  "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html": {
-    "ts": "2026-09-19T09:18:13.799109+00:00",
-    "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up"
-  },
-  "https://cybersecuritynews.com/bragjack-ai-agent-hijacking/": {
-    "ts": "2026-09-19T09:18:13.932590+00:00",
-    "title": "BragJack Attack Lets Malicious Extensions Hijack AI Agents Across 5 Major Browsers"
-  },
-  "https://gbhackers.com/powershell-malware-abuses-registry-and-dns-txt-records/": {
-    "ts": "2026-09-19T09:18:14.090262+00:00",
-    "title": "PowerShell Malware Abuses Registry and DNS TXT Records to Deploy XMRig Crypto Miner"
-  },
-  "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html": {
-    "ts": "2026-09-19T09:18:14.224258+00:00",
-    "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories"
-  },
-  "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html": {
-    "ts": "2026-09-19T09:18:14.224269+00:00",
-    "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild"
-  },
   "https://gbhackers.com/google-gemini-ai-hacked-3-real-companies/": {
     "ts": "2026-09-19T13:47:10.440929+00:00",
     "title": "Google Gemini AI Hacked 3 Real Companies After Cybersecurity Test Exposed It to Internet"
@@ -21258,5 +21214,125 @@
   "https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464": {
     "ts": "2026-11-18T03:28:44.396393+00:00",
     "title": "Hackers smash 'n' grab AI vendor: Take  off with license data of Uber drivers"
+  },
+  "https://asec.ahnlab.com/en/96624/": {
+    "ts": "2026-11-18T12:49:08.606169+00:00",
+    "title": "Ransom & Dark Web Issues Week 3, November 2026"
+  },
+  "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/": {
+    "ts": "2026-11-18T12:49:08.606187+00:00",
+    "title": "Dizigom illegal streaming service with 21M monthly visits shuts down"
+  },
+  "https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/": {
+    "ts": "2026-11-18T12:49:08.606191+00:00",
+    "title": "The challenge of defending against bulletproof dead drops on public blockchains"
+  },
+  "https://cybersecuritynews.com/global-banks/": {
+    "ts": "2026-11-18T12:49:08.663832+00:00",
+    "title": "Chinese APT Hackers Target Global Banks to Steal Financial Intelligence and Spy on Microsoft 365 Accounts"
+  },
+  "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check": {
+    "ts": "2026-11-18T12:49:08.663844+00:00",
+    "title": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check"
+  },
+  "https://gbhackers.com/github-and-microsoft-launch-ai-security-initiative/": {
+    "ts": "2026-11-18T12:49:08.663848+00:00",
+    "title": "GitHub and Microsoft Launch AI Security Initiative to Protect Six Major Open Source Projects"
+  },
+  "https://www.group-ib.com/blog/malware-bundles/": {
+    "ts": "2026-11-18T12:49:08.663850+00:00",
+    "title": "Package deal: Malware bundles causing disruption and damage across EMEA"
+  },
+  "https://www.helpnetsecurity.com/2026/11/18/java4shell-openjdk-vulnerability-cve-2026-114938/": {
+    "ts": "2026-11-18T12:49:08.708980+00:00",
+    "title": "Java4Shell OpenJDK flaw: Exploitation is tricky and hinges on specific CPUs (CVE-2026-114938)"
+  },
+  "https://www.malwarebytes.com/blog/bugs/2026/11/java4shell-a-critical-flaw-with-a-narrow-reach": {
+    "ts": "2026-11-18T12:49:08.754945+00:00",
+    "title": "Java4Shell: A critical flaw with a narrow reach"
+  },
+  "https://securelist.com/auditteam-opsagent-forced-audit/122031/": {
+    "ts": "2026-11-18T12:49:08.799043+00:00",
+    "title": "The forced audit: how AuditTeam\u2019s OpsAgent framework masks ransomware as consulting"
+  },
+  "https://securityaffairs.com/203394/hacking/norwegian-gas-giant-equinor-says-its-under-cyberattack-production-keeps-running.html": {
+    "ts": "2026-11-18T12:49:08.842540+00:00",
+    "title": "Norwegian Gas Giant Equinor Says It\u2019s Under Cyberattack. Production Keeps Running"
+  },
+  "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/": {
+    "ts": "2026-11-18T12:49:08.886303+00:00",
+    "title": "Microsoft Takes Perception Agentic Security Platform Out of Preview"
+  },
+  "https://socradar.io/blog/java4shell-cve-2026-114938-openjdk-rce/": {
+    "ts": "2026-11-18T12:49:08.932519+00:00",
+    "title": "Java4Shell (CVE-2026-114938): What You Need to Know"
+  },
+  "https://www.security.com/threat-intelligence/java4shell-cve2026114938-patch-now": {
+    "ts": "2026-11-18T12:49:08.977624+00:00",
+    "title": "Java4Shell: Critical OpenJDK Flaw Allows Unauthenticated Remote Code Execution"
+  },
+  "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html": {
+    "ts": "2026-11-18T12:49:09.024012+00:00",
+    "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567": {
+    "ts": "2026-11-18T12:49:09.024026+00:00",
+    "title": "UK MPs want AI watchdog with power to pull the plug on dangerous models"
+  },
+  "https://threatmon.io/gpt-lock-ransomware-group/": {
+    "ts": "2026-11-18T12:49:09.068579+00:00",
+    "title": "GPT LOCK Ransomware Group"
+  },
+  "https://threats.wiz.io/all-incidents/rce-vulnerability-in-apache-struts-targeted-by-attackers": {
+    "ts": "2026-11-18T12:49:09.068594+00:00",
+    "title": "RCE Vulnerability in Apache Struts Targeted by Attackers (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/": {
+    "ts": "2026-11-18T12:49:09.068599+00:00",
+    "title": "Apache warns of Roller RCE vulnerability exploited in attacks"
+  },
+  "https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/": {
+    "ts": "2026-11-18T12:49:09.116973+00:00",
+    "title": "UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing"
+  },
+  "https://cybersecuritynews.com/hackers-impersonate-microsoft-exchange/": {
+    "ts": "2026-11-18T12:49:09.162557+00:00",
+    "title": "Hackers Impersonate Microsoft Exchange Online Alerts to Trick Users During Microsoft 365 Outage"
+  },
+  "https://gbhackers.com/linux-ebpf-technology/": {
+    "ts": "2026-11-18T12:49:09.208539+00:00",
+    "title": "Hackers Abuse Linux eBPF Technology to Hide Malware Processes and Evade Detection"
+  },
+  "https://www.group-ib.com/blog/tonto-team/": {
+    "ts": "2026-11-18T12:49:09.256612+00:00",
+    "title": "Nice Try Tonto Team"
+  },
+  "https://www.helpnetsecurity.com/2026/11/18/ubuntu-ai-security-patches-edge-archive/": {
+    "ts": "2026-11-18T12:49:09.303083+00:00",
+    "title": "Ubuntu AI security patches are here, if you\u2019re willing to test them yourself"
+  },
+  "https://securityaffairs.com/203387/hacking/65-characters-to-rce-inside-the-java4shell-vulnerability.html": {
+    "ts": "2026-11-18T12:49:09.350186+00:00",
+    "title": "65 Characters to RCE: Inside the Java4Shell Vulnerability"
+  },
+  "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/": {
+    "ts": "2026-11-18T12:49:09.350198+00:00",
+    "title": "CISO Conversations: Patti Degnan \u2013 Part of the Job Is Deciding What Not to Do"
+  },
+  "https://www.security.com/threat-intelligence/power-management-software-attack-vector": {
+    "ts": "2026-11-18T12:49:09.397163+00:00",
+    "title": "Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools"
+  },
+  "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html": {
+    "ts": "2026-11-18T12:49:09.443924+00:00",
+    "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More"
+  },
+  "https://www.theregister.com/security/2026/11/18/oracle-reveals-fix-this-asap-grade-java4shell-bug-that-allows-attacks-on-many-third-party-apps/5310661": {
+    "ts": "2026-11-18T12:49:09.443934+00:00",
+    "title": "Oracle reveals fix-this-ASAP-grade Java4Shell bug that allows attacks on many third-party apps"
+  },
+  "https://threats.wiz.io/all-incidents/php-targeted-with-glutton-backdoor": {
+    "ts": "2026-11-18T12:49:09.489894+00:00",
+    "title": "PHP Targeted with Glutton backdoor (Campaign)"
   }
 }
