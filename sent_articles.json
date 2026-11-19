@@ -21394,5 +21394,125 @@
   "https://www.helpnetsecurity.com/2026/11/18/nicola-fox-hamilton-victim-blaming-scams-phishing/": {
     "ts": "2026-11-18T21:15:18.325266+00:00",
     "title": "Once a scam ends the victim blaming begins"
+  },
+  "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/": {
+    "ts": "2026-11-19T03:01:57.801975+00:00",
+    "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms"
+  },
+  "https://cofense.com/blog/the-next-cyberattack-won-t-wait-are-you-ready": {
+    "ts": "2026-11-19T03:01:57.801999+00:00",
+    "title": "The Next Cyberattack Won\u2019t Wait. Are You Ready?"
+  },
+  "https://cybersecuritynews.com/wordpress-7-1-5-patches-20-security-issues/": {
+    "ts": "2026-11-19T03:01:57.802004+00:00",
+    "title": "WordPress 7.1.5 Patches 20 Security Issues, Including Potential RCE and SQL Injection Flaws"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another": {
+    "ts": "2026-11-19T03:01:57.931337+00:00",
+    "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another"
+  },
+  "https://gbhackers.com/spycloud-2027-cybersecurity-forecast-trusted-access-ai-agents/": {
+    "ts": "2026-11-19T03:01:57.931359+00:00",
+    "title": "SpyCloud\u2019s 2027 Forecast: Attackers Will Exploit Trusted Access, From Hijacked Sessions to AI Agents"
+  },
+  "https://www.group-ib.com/blog/dark-pink-apt/": {
+    "ts": "2026-11-19T03:01:58.069148+00:00",
+    "title": "Dark Pink"
+  },
+  "https://www.helpnetsecurity.com/2026/11/19/nist-quantum-position-verification/": {
+    "ts": "2026-11-19T03:01:58.204404+00:00",
+    "title": "Quantum position verification could lock remote hackers out, NIST shows"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/11/outage-or-attack-dont-let-social-media-fill-in-the-gaps": {
+    "ts": "2026-11-19T03:01:58.333921+00:00",
+    "title": "Outage or attack? Don\u2019t let social media fill in the gaps"
+  },
+  "https://moonlock.com/iphone-hacked": {
+    "ts": "2026-11-19T03:01:58.467020+00:00",
+    "title": "How to check if your phone is hacked, and what to do if it is"
+  },
+  "https://www.rapid7.com/blog/post/ve-cve-2026-123007-critical-nginx-http-2-integer-underflow-leads-to-rce-fixed": {
+    "ts": "2026-11-19T03:01:58.600509+00:00",
+    "title": "CVE-2026-123007: Critical NGINX HTTP/2 Integer Underflow Leads to RCE (FIXED)"
+  },
+  "https://securityaffairs.com/203408/cyber-crime/scattered-spider-member-gets-six-years-for-phishing-and-sim-swapping-attacks.html": {
+    "ts": "2026-11-19T03:01:58.729380+00:00",
+    "title": "Scattered Spider Member Gets Six Years for Phishing and SIM-Swapping Attacks"
+  },
+  "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/": {
+    "ts": "2026-11-19T03:01:58.859326+00:00",
+    "title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization"
+  },
+  "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html": {
+    "ts": "2026-11-19T03:01:58.859347+00:00",
+    "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE"
+  },
+  "https://www.theregister.com/patches/2026/11/18/get-ready-for-another-critical-php-security-release-to-drop/5310911": {
+    "ts": "2026-11-19T03:01:58.859352+00:00",
+    "title": "Get ready for another critical PHP security release to drop"
+  },
+  "https://threats.wiz.io/all-incidents/cleo-vulnerabilities-targeted-by-cl0p-ransomware": {
+    "ts": "2026-11-19T03:01:58.988185+00:00",
+    "title": "Cleo Vulnerabilities Targeted by Cl0p Ransomware (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/cve-2026-114938-openjdk-base64-decoder-vulnerable-pre-authentication-rce": {
+    "ts": "2026-11-19T03:01:58.988205+00:00",
+    "title": "CVE-2026-114938: OpenJDK Base64 Decoder Vulnerable To Pre-Authentication RCE (Java4Shell)"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/": {
+    "ts": "2026-11-19T03:01:59.119174+00:00",
+    "title": "Microsoft\u2019s Agent Framework PyPI package compromised to steal credentials"
+  },
+  "https://cybersecuritynews.com/php-critical-vulnerabilities/": {
+    "ts": "2026-11-19T03:01:59.119195+00:00",
+    "title": "PHP Security Team Warns of Critical Vulnerabilities, Urges Users to Prepare for November 19 Updates"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem": {
+    "ts": "2026-11-19T03:01:59.119200+00:00",
+    "title": "Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem"
+  },
+  "https://gbhackers.com/armornet-ai-software-supply-chain-vendor-security/": {
+    "ts": "2026-11-19T03:01:59.119203+00:00",
+    "title": "Armornet Debuts AI Security for the Code and Vendors Companies Trust"
+  },
+  "https://www.group-ib.com/blog/godfather-trojan/": {
+    "ts": "2026-11-19T03:01:59.251756+00:00",
+    "title": "Godfather Trojan \u2013 mobile banking malware that is impossible to refuse"
+  },
+  "https://www.helpnetsecurity.com/2026/11/19/ransomware-access-brokers-cybercrime/": {
+    "ts": "2026-11-19T03:01:59.381129+00:00",
+    "title": "Ransomware access brokers are moving their deals off public forums"
+  },
+  "https://www.malwarebytes.com/blog/scams/2026/11/gta-6-scams-could-cost-you-your-account-money-or-crypto": {
+    "ts": "2026-11-19T03:02:00.013482+00:00",
+    "title": "GTA 6 scams could cost you your account, money, or crypto"
+  },
+  "https://securityaffairs.com/203377/hacking/u-s-cisa-adds-perforce-puppet-enterprise-flaw-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-11-19T03:02:00.152894+00:00",
+    "title": "U.S. CISA adds Perforce Puppet Enterprise\u00a0flaw to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/": {
+    "ts": "2026-11-19T03:02:00.287549+00:00",
+    "title": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case"
+  },
+  "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html": {
+    "ts": "2026-11-19T03:02:00.287570+00:00",
+    "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required"
+  },
+  "https://www.theregister.com/security/2026/11/18/california-tells-waymo-to-take-the-next-exit-after-freeway-mishaps/5310841": {
+    "ts": "2026-11-19T03:02:00.287575+00:00",
+    "title": "California tells Waymo to take the next exit after freeway mishaps"
+  },
+  "https://threats.wiz.io/all-incidents/byte-federal-data-breach-via-gitlab-vulnerability": {
+    "ts": "2026-11-19T03:02:00.287579+00:00",
+    "title": "Byte Federal Data Breach via Gitlab Vulnerability (Incident)"
+  },
+  "https://www.zscaler.com/blogs/security-research/attackers-exploit-optimizely-flaw-inject-malicious-javascript": {
+    "ts": "2026-11-19T03:02:00.418672+00:00",
+    "title": "Attackers Exploit Optimizely Flaw To Inject Malicious JavaScript"
+  },
+  "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/": {
+    "ts": "2026-11-19T03:02:00.555397+00:00",
+    "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters"
   }
 }

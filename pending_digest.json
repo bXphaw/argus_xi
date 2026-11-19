@@ -19,6 +19,46 @@
       "category": "threat_actor",
       "title": "LLM Hijacking Targeting AWS (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/llm-hijacking-targeting-aws"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+      "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Scattered Spider Member Gets Six Years for Phishing and SIM-Swapping Attacks",
+      "url": "https://securityaffairs.com/203408/cyber-crime/scattered-spider-member-gets-six-years-for-phishing-and-sim-swapping-attacks.html"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
+      "url": "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Cleo Vulnerabilities Targeted by Cl0p Ransomware (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/cleo-vulnerabilities-targeted-by-cl0p-ransomware"
+    },
+    {
+      "category": "malware_other",
+      "title": "Microsoft\u2019s Agent Framework PyPI package compromised to steal credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Attackers Exploit Optimizely Flaw To Inject Malicious JavaScript",
+      "url": "https://www.zscaler.com/blogs/security-research/attackers-exploit-optimizely-flaw-inject-malicious-javascript"
+    },
+    {
+      "category": "new_technique",
+      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+      "url": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/"
     }
   ],
   "last_sent_date": "2026-11-18"
