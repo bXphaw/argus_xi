@@ -1,28 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/": {
-    "ts": "2026-09-20T14:38:57.102306+00:00",
-    "title": "Malicious npm packages evade install-script defenses at runtime"
-  },
-  "https://securityaffairs.com/199415/ai/ai-hallucination-nearly-triggered-a-us-china-military-confrontation.html": {
-    "ts": "2026-09-20T14:38:57.102327+00:00",
-    "title": "AI Hallucinations Nearly Triggered a US-China Military Confrontation"
-  },
-  "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/": {
-    "ts": "2026-09-20T14:38:57.204564+00:00",
-    "title": "Researchers escape OpenAI Codex sandbox to run commands on host"
-  },
-  "https://securityaffairs.com/199409/malware/security-affairs-malware-newsletter-round-115.html": {
-    "ts": "2026-09-20T14:38:57.204581+00:00",
-    "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 115"
-  },
-  "https://securityaffairs.com/199430/security/u-s-cisa-adds-linux-kernel-flaws-to-its-known-exploited-vulnerabilities-catalog-2.html": {
-    "ts": "2026-09-20T18:07:00.756231+00:00",
-    "title": "U.S. CISA adds Linux Kernel\u00a0flaws to its Known Exploited Vulnerabilities catalog"
-  },
-  "https://threatmon.io/1067-victims-in-30-days-inside-august-2026s-global-ransomware-wave/": {
-    "ts": "2026-09-20T18:07:00.756248+00:00",
-    "title": "1,067 Victims in 30 Days: Inside August 2026\u2019s Global Ransomware Wave"
-  },
   "https://undercodenews.com/emperador-and-qilin-add-new-victims-as-ransomware-activity-hits-healthcare-and-swiss-mobility-sectors-video/#new_tab": {
     "ts": "2026-09-20T23:58:38.369007+00:00",
     "title": "Emperador and Qilin Add New Victims as Ransomware Activity Hits Healthcare and Swiss Mobility Sectors"
@@ -21614,5 +21590,125 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/": {
     "ts": "2026-11-19T11:30:14.434608+00:00",
     "title": "Microsoft announces Windows Server 2028 with hardened security"
+  },
+  "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/": {
+    "ts": "2026-11-19T20:17:09.320010+00:00",
+    "title": "Transport for London breach exposes 265,000 Oyster card users' data"
+  },
+  "https://research.checkpoint.com/2026/30-years-of-gatekeeper-asymmetry-doom-the-paradox-that-makes-powerful-llms-more-vulnerable/": {
+    "ts": "2026-11-19T20:17:09.320033+00:00",
+    "title": "30 Years of Gatekeeper Asymmetry Doom: The Paradox that Makes Powerful LLMs More Vulnerable"
+  },
+  "https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/": {
+    "ts": "2026-11-19T20:17:09.320037+00:00",
+    "title": "The internet needs a nap (and you do, too)"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/": {
+    "ts": "2026-11-19T20:17:09.320041+00:00",
+    "title": "Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity"
+  },
+  "https://cybersecuritynews.com/phpaftershell-rce/": {
+    "ts": "2026-11-19T20:17:09.529066+00:00",
+    "title": "New phpAfterShell Attack Bypasses PHP2Shell Fix to Enable Remote Code Execution"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era": {
+    "ts": "2026-11-19T20:17:09.706774+00:00",
+    "title": "Navigating Vulnerability Hysteria in the AI Era"
+  },
+  "https://www.forescout.com/blog/bankweaver-campaign-abuses-digital-banking-middleware-to-deploy-web-shells/": {
+    "ts": "2026-11-19T20:17:09.888177+00:00",
+    "title": "BankWeaver Campaign Abuses Digital Banking Middleware to Deploy Web Shells"
+  },
+  "https://gbhackers.com/criminal-ip-launches-aitem-to-connect-asset-discovery-with-ai-powered-exposure-management/": {
+    "ts": "2026-11-19T20:17:10.069544+00:00",
+    "title": "Criminal IP Launches AITEM to Connect Asset Discovery with AI-Powered Exposure Management"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-vsphere/": {
+    "ts": "2026-11-19T20:17:10.249951+00:00",
+    "title": "ARMORY CASTLE Exploits vSphere"
+  },
+  "https://www.group-ib.com/blog/hired-hand/": {
+    "ts": "2026-11-19T20:17:10.428728+00:00",
+    "title": "Hired hand: Scammers mimic Saudi manpower provider"
+  },
+  "https://www.helpnetsecurity.com/2026/11/19/nginx2root-nginx-vulnerabilities/": {
+    "ts": "2026-11-19T20:17:10.428746+00:00",
+    "title": "NGINX2Root: F5 patches five critical NGINX vulnerabilities"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/11/deepfake-elon-musk-nearly-costs-viewers-4-7-million-in-crypto": {
+    "ts": "2026-11-19T20:17:10.428751+00:00",
+    "title": "Deepfake Elon Musk  nearly costs viewers $4.7 million in crypto"
+  },
+  "https://moonlock.com/antivirus-iphone": {
+    "ts": "2026-11-19T20:17:10.428754+00:00",
+    "title": "Do you need an antivirus for iPhone? Here\u2019s our honest answer"
+  },
+  "https://www.rapid7.com/blog/post/dr-what-is-preemptive-mdr-security-leaders-guide": {
+    "ts": "2026-11-19T20:17:10.428758+00:00",
+    "title": "What Is Preemptive MDR? A Guide For Security Leaders"
+  },
+  "https://www.recordedfuture.com/blog/2027-soti-regional-summaries": {
+    "ts": "2026-11-19T20:17:10.428761+00:00",
+    "title": "Regional Insights: 2027 State of Threat Intelligence"
+  },
+  "https://securityaffairs.com/203504/hacking/u-s-cisa-adds-apache-axis-vanderbilt-redcapberriai-litellm-and-synology-dsm-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-11-19T20:17:10.607566+00:00",
+    "title": "U.S. CISA adds Apache Axis, Vanderbilt REDCap,BerriAI LiteLLM, and Synology DSM\u00a0flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/": {
+    "ts": "2026-11-19T20:17:10.786526+00:00",
+    "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT"
+  },
+  "https://www.sekoia.com/blog/on-premises-vs-cloud-how-to-choose-a-deployment-model-for-your-soc": {
+    "ts": "2026-11-19T20:17:10.966169+00:00",
+    "title": "On-Premises vs. Cloud: Choosing the Right SOC Deployment"
+  },
+  "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html": {
+    "ts": "2026-11-19T20:17:11.145765+00:00",
+    "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories"
+  },
+  "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153": {
+    "ts": "2026-11-19T20:17:11.325488+00:00",
+    "title": "Nvidia adds possible hack to list of very bad things under investigation"
+  },
+  "https://threats.wiz.io/all-incidents/ultralytics-compromise": {
+    "ts": "2026-11-19T20:17:11.504825+00:00",
+    "title": "Ultralytics compromise (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/": {
+    "ts": "2026-11-19T20:17:11.504844+00:00",
+    "title": "PHP security updates fix 18 flaws, including critical RCE bugs"
+  },
+  "https://cybersecuritynews.com/vmware-vcenter-authentication-bypass/": {
+    "ts": "2026-11-19T20:17:11.504848+00:00",
+    "title": "Critical VMware vCenter Flaws Let Hackers Bypass Authentication and Access Servers"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday": {
+    "ts": "2026-11-19T20:17:11.504852+00:00",
+    "title": "Why Holiday Security Can't Wait for Black Friday"
+  },
+  "https://gbhackers.com/synology-fixes-critical-security-flaws/": {
+    "ts": "2026-11-19T20:17:11.504855+00:00",
+    "title": "Synology Fixes Critical Security Flaws With CVSS Scores of 9.8 and 8.1 Across NAS Platforms"
+  },
+  "https://www.group-ib.com/blog/opera1er-apt-fr/": {
+    "ts": "2026-11-19T20:17:11.683867+00:00",
+    "title": "Arm\u00e9s et dangereux : une soif d\u2019argent inextinguible L\u2019APT OPERA1ER en Afrique"
+  },
+  "https://www.helpnetsecurity.com/2026/11/19/php-8-6-released/": {
+    "ts": "2026-11-19T20:17:11.861962+00:00",
+    "title": "PHP 8.6 is out, and here\u2019s what changes for your code"
+  },
+  "https://www.malwarebytes.com/blog/bugs/2026/11/chrome-patches-six-critical-flaws-two-found-with-ais-help": {
+    "ts": "2026-11-19T20:17:12.047469+00:00",
+    "title": "Chrome patches six critical flaws, two found with AI\u2019s help"
+  },
+  "https://moonlock.com/photo-hider-apps": {
+    "ts": "2026-11-19T20:17:12.230832+00:00",
+    "title": "12 photo hider apps to hide and lock your private photos on iPhone"
+  },
+  "https://www.rapid7.com/blog/post/tr-spying-on-governments-no-malware-custom-webworms-toolkit-softether-bridge": {
+    "ts": "2026-11-19T20:17:12.407976+00:00",
+    "title": "Spying on Governments with Zero Lines of Malware: A Custom SoftEther Bridge in Webworm\u2019s Toolkit"
   }
 }

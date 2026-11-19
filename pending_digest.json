@@ -1,4 +1,15 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "New phpAfterShell Attack Bypasses PHP2Shell Fix to Enable Remote Code Execution",
+      "url": "https://cybersecuritynews.com/phpaftershell-rce/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Ultralytics compromise (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/ultralytics-compromise"
+    }
+  ],
   "last_sent_date": "2026-11-19"
 }
