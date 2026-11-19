@@ -1,24 +1,4 @@
 {
-  "https://cybersecuritynews.com/autonomous-ai-attacks-the-hugging-face-reality-check/": {
-    "ts": "2026-09-20T05:53:21.101194+00:00",
-    "title": "Autonomous AI Attacks: The Hugging Face Reality Check"
-  },
-  "https://securityaffairs.com/199400/security/security-affairs-newsletter-round-595-by-pierluigi-paganini-international-edition.html": {
-    "ts": "2026-09-20T05:53:21.101211+00:00",
-    "title": "Security Affairs newsletter Round 595 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION"
-  },
-  "https://cybersecuritynews.com/when-ransomware-targets-ai-models-defending-the-ai-ml-recovery-chain/": {
-    "ts": "2026-09-20T05:53:21.147932+00:00",
-    "title": "When Ransomware Targets AI Models: Defending the AI/ML Recovery Chain"
-  },
-  "https://cybersecuritynews.com/business-survival-in-the-age-of-ai/": {
-    "ts": "2026-09-20T10:57:00.344568+00:00",
-    "title": "Business Survival in the Age of\u00a0AI"
-  },
-  "https://www.helpnetsecurity.com/2026/09/20/week-in-review-cisco-patches-exploited-email-gateway-0-day-revolut-breach/": {
-    "ts": "2026-09-20T10:57:00.395443+00:00",
-    "title": "Week in review: Cisco patches exploited email gateway 0-day, Revolut breach"
-  },
   "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/": {
     "ts": "2026-09-20T14:38:57.102306+00:00",
     "title": "Malicious npm packages evade install-script defenses at runtime"
@@ -21514,5 +21494,125 @@
   "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/": {
     "ts": "2026-11-19T03:02:00.555397+00:00",
     "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/": {
+    "ts": "2026-11-19T11:30:12.832484+00:00",
+    "title": "Microsoft confirms app installation, launch issues after hotpatch"
+  },
+  "https://cybersecuritynews.com/hackers-turn-anotepad/": {
+    "ts": "2026-11-19T11:30:13.147628+00:00",
+    "title": "Hackers Turn aNotepad Into a Malware Delivery Channel for XenoRAT and NodeLinkRAT Backdoors"
+  },
+  "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge": {
+    "ts": "2026-11-19T11:30:13.147643+00:00",
+    "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge"
+  },
+  "https://gbhackers.com/oauth-tokens-theft/": {
+    "ts": "2026-11-19T11:30:13.224101+00:00",
+    "title": "Hackers Use Legitimate Microsoft Login Pages to Steal OAuth Tokens and Hijack Microsoft 365 Accounts"
+  },
+  "https://www.group-ib.com/blog/scam-free-christmas/": {
+    "ts": "2026-11-19T11:30:13.224112+00:00",
+    "title": "Scam-free Christmas"
+  },
+  "https://www.helpnetsecurity.com/2026/11/19/backbox-linux-10-penetration-testing/": {
+    "ts": "2026-11-19T11:30:13.224116+00:00",
+    "title": "BackBox Linux 10 brings new hacking tools and Ubuntu 26.04 support"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/11/scattered-spiders-phishing-and-sim-swap-tactics-led-to-six-year-sentence": {
+    "ts": "2026-11-19T11:30:13.300806+00:00",
+    "title": "Scattered Spider\u2019s phishing and SIM-swap tactics led to six-year sentence"
+  },
+  "https://securityaffairs.com/203472/security/php-warns-of-critical-flaws-ahead-of-november-security-release.html": {
+    "ts": "2026-11-19T11:30:13.300816+00:00",
+    "title": "PHP Warns of Critical Flaws Ahead of November Security Release"
+  },
+  "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/": {
+    "ts": "2026-11-19T11:30:13.300819+00:00",
+    "title": "Splunk Patches Nearly 140 Flaws Across Three Core Products"
+  },
+  "https://www.silentpush.com/blog/nk-construction/": {
+    "ts": "2026-11-19T11:30:13.379076+00:00",
+    "title": "Silent Push Exposes North Korean Fake Construction Company"
+  },
+  "https://socradar.io/blog/nginx2root-nginx-cve-2026-123007/": {
+    "ts": "2026-11-19T11:30:13.457961+00:00",
+    "title": "NGINX2Root: What NGINX Admins Should Know"
+  },
+  "https://www.security.com/threat-intelligence/african-stock-exchange-ai-assisted-attack": {
+    "ts": "2026-11-19T11:30:13.536819+00:00",
+    "title": "Major African Stock Exchange Targeted in AI-Assisted Attack"
+  },
+  "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html": {
+    "ts": "2026-11-19T11:30:13.614141+00:00",
+    "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions"
+  },
+  "https://www.theregister.com/security/2026/11/19/tfl-takes-oyster-photocard-website-offline-after-attackers-compromise-customer-accounts/5310985": {
+    "ts": "2026-11-19T11:30:13.686468+00:00",
+    "title": "TfL takes Oyster photocard website offline after attackers compromise customer accounts"
+  },
+  "https://threatmon.io/the-6-4-billion-breach-of-trust-inside-the-2026-finance-threat-landscape/": {
+    "ts": "2026-11-19T11:30:13.759230+00:00",
+    "title": "The $6.4 Billion Breach of Trust: Inside the 2026 Finance Threat Landscape"
+  },
+  "https://www.welivesecurity.com/en/scams/who-was-trying-phone-how-one-ring-phone-scams-work/": {
+    "ts": "2026-11-19T11:30:13.759241+00:00",
+    "title": "Who was that trying to phone me just now? How one-ring phone scams work"
+  },
+  "https://threats.wiz.io/all-incidents/attacks-abusing-amazon-ses": {
+    "ts": "2026-11-19T11:30:13.836439+00:00",
+    "title": "Attacks abusing Amazon SES (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/": {
+    "ts": "2026-11-19T11:30:13.908207+00:00",
+    "title": "NVIDIA investigating Gentlemen ransomware breach claims"
+  },
+  "https://cybersecuritynews.com/n-able-confirms-server-breach/": {
+    "ts": "2026-11-19T11:30:13.908217+00:00",
+    "title": "N-able Confirms Server Breach, Disables Mail Assure and SpamExperts Management Access"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud": {
+    "ts": "2026-11-19T11:30:13.985307+00:00",
+    "title": "Major Brazilian Signature Apps Enable RCE &amp; Fraud"
+  },
+  "https://gbhackers.com/apache-roller-vulnerability-2/": {
+    "ts": "2026-11-19T11:30:14.061786+00:00",
+    "title": "Apache Roller Vulnerability Allows Remote Code Execution Through Unsafe XML-RPC Deserialization"
+  },
+  "https://www.group-ib.com/blog/money-mules/": {
+    "ts": "2026-11-19T11:30:14.134523+00:00",
+    "title": "Understanding Money Mules: The Hidden Link in Cybercrime"
+  },
+  "https://www.helpnetsecurity.com/2026/11/19/sonicwall-gen-6-firewalls-reach-end-of-support/": {
+    "ts": "2026-11-19T11:30:14.212091+00:00",
+    "title": "SonicWall urges customers to replace Gen 6 firewalls now"
+  },
+  "https://securityaffairs.com/203440/hacking/nginx2rootai-discovers-five-critical-nginx-flaws-and-a-path-to-root.html": {
+    "ts": "2026-11-19T11:30:14.285485+00:00",
+    "title": "nginx2root:AI Discovers Five Critical nginx Flaws and a Path to Root"
+  },
+  "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/": {
+    "ts": "2026-11-19T11:30:14.362482+00:00",
+    "title": "F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public"
+  },
+  "https://socradar.io/blog/socradar-north-america-fastest-growing-deloitte-fast-500-2026/": {
+    "ts": "2026-11-19T11:30:14.362493+00:00",
+    "title": "SOCRadar Named One of North America\u2019s Fastest-Growing Technology Companies on the 2026 Deloitte Technology Fast 500\u2122"
+  },
+  "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html": {
+    "ts": "2026-11-19T11:30:14.362497+00:00",
+    "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE"
+  },
+  "https://www.theregister.com/security/2026/11/19/sticky-note-on-monitor-provided-keys-to-the-companys-kingdom/5310908": {
+    "ts": "2026-11-19T11:30:14.362501+00:00",
+    "title": "Sticky note on monitor provided keys to the company\u2019s kingdom"
+  },
+  "https://threats.wiz.io/all-incidents/state-sponsored-apt-abuse-visual-studio-code-in-attacks": {
+    "ts": "2026-11-19T11:30:14.434594+00:00",
+    "title": "State-Sponsored APT Abuse Visual Studio Code in Attacks (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/": {
+    "ts": "2026-11-19T11:30:14.434608+00:00",
+    "title": "Microsoft announces Windows Server 2028 with hardened security"
   }
 }
