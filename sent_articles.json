@@ -1,100 +1,4 @@
 {
-  "https://cybersecuritynews.com/weekly-cybersecurity-newsletter-sept-21/": {
-    "ts": "2026-09-21T04:43:35.860569+00:00",
-    "title": "Weekly Cybersecurity Newsletter Bulletin \u2013 Cisco and Android 0-Day, BragJack Attack, Claude Opus 5 Used to Hack OpenAI, and 20+ Stories"
-  },
-  "https://www.helpnetsecurity.com/2026/09/21/6g-intent-injection-attacks/": {
-    "ts": "2026-09-21T04:43:36.087007+00:00",
-    "title": "Intent injection attacks are a new worry for AI-native 6G networks"
-  },
-  "https://www.helpnetsecurity.com/2026/09/21/ai-compliance-issues-research/": {
-    "ts": "2026-09-21T04:43:36.087025+00:00",
-    "title": "AI compliance issues hit 2 in 5 large companies, and legacy workflows are a big factor"
-  },
-  "https://www.helpnetsecurity.com/2026/09/21/helpfeel-gyazo-data-breach/": {
-    "ts": "2026-09-21T10:30:52.131890+00:00",
-    "title": "Hackers exploit Gyazo server flaw to steal 23.6 million user records"
-  },
-  "https://www.malwarebytes.com/blog/news/2026/09/shinyhunters-hacks-rival-extortion-gang-and-takes-over-its-dark-web-site": {
-    "ts": "2026-09-21T10:32:23.349425+00:00",
-    "title": "ShinyHunters hacks rival extortion gang and takes over its dark web site"
-  },
-  "https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/": {
-    "ts": "2026-09-21T10:32:23.349448+00:00",
-    "title": "From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies"
-  },
-  "https://rewterz.com/threat-advisory/cisco-ise-zero-day-vulnerability-exploited-in-active-attacks": {
-    "ts": "2026-09-21T10:32:23.476978+00:00",
-    "title": "Cisco ISE Zero-Day Vulnerability Exploited in Active Attacks"
-  },
-  "https://securelist.com/tr/payload-ransomware-via-group-policy/121335/": {
-    "ts": "2026-09-21T10:32:23.612933+00:00",
-    "title": "Group Policy hijacked: PAYLOAD ransomware weaponizes Active Directory GPO"
-  },
-  "https://securityaffairs.com/199454/ai/the-target-is-no-longer-the-model-its-the-agent.html": {
-    "ts": "2026-09-21T10:32:23.612950+00:00",
-    "title": "The Target Is No Longer the Model. It\u2019s the Agent."
-  },
-  "https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/": {
-    "ts": "2026-09-21T10:32:23.730680+00:00",
-    "title": "Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems"
-  },
-  "https://www.security.com/feature-stories/execution-runtime-security-era-agentic-ai": {
-    "ts": "2026-09-21T10:32:23.836971+00:00",
-    "title": "Execution Runtime Security in the Era of Agentic AI"
-  },
-  "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html": {
-    "ts": "2026-09-21T10:32:23.958444+00:00",
-    "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure"
-  },
-  "https://www.helpnetsecurity.com/2026/09/21/guilherme-joventino-mignow-sap-ecc-migration/": {
-    "ts": "2026-09-21T10:32:24.088873+00:00",
-    "title": "Know what was tested before your SAP ECC migration goes live"
-  },
-  "https://www.malwarebytes.com/blog/news/2026/09/a-week-in-security-september-14-september-20": {
-    "ts": "2026-09-21T10:32:24.205862+00:00",
-    "title": "A week in security (September 14 \u2013 September 20)"
-  },
-  "https://rewterz.com/threat-advisory/tp-link-camera-zero-days-enable-unauthorized-surveillance": {
-    "ts": "2026-09-21T10:32:24.328323+00:00",
-    "title": "TP-Link Camera Zero-Days Enable Unauthorized Surveillance"
-  },
-  "https://securityaffairs.com/199442/uncategorized/uk-police-data-faces-long-standing-microsoft-cloud-security-concerns.html": {
-    "ts": "2026-09-21T10:32:24.459671+00:00",
-    "title": "UK Police Data Faces Long-Standing Microsoft Cloud Security Concerns"
-  },
-  "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/": {
-    "ts": "2026-09-21T10:32:24.583114+00:00",
-    "title": "Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities"
-  },
-  "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html": {
-    "ts": "2026-09-21T10:32:24.693215+00:00",
-    "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors"
-  },
-  "https://www.helpnetsecurity.com/2026/09/21/product-showcase-helmit-parental-controls/": {
-    "ts": "2026-09-21T10:32:24.818852+00:00",
-    "title": "Product showcase: Helmit alerts parents when online conversations show signs of trouble"
-  },
-  "https://rewterz.com/threat-advisory/apple-fixes-273-security-vulnerabilities-across-devices": {
-    "ts": "2026-09-21T10:32:24.818872+00:00",
-    "title": "Apple Fixes 273 Security Vulnerabilities Across Devices"
-  },
-  "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/": {
-    "ts": "2026-09-21T10:32:24.818875+00:00",
-    "title": "Google Confirms Gemini AI Breached Three Firms"
-  },
-  "https://www.helpnetsecurity.com/2026/09/21/gopass-open-source-password-manager/": {
-    "ts": "2026-09-21T10:32:24.818877+00:00",
-    "title": "Gopass: Open-source command-line password manager for teams"
-  },
-  "https://rewterz.com/threat-advisory/critical-wordpress-plugin-flaws-risk-600000-websites": {
-    "ts": "2026-09-21T10:32:24.818880+00:00",
-    "title": "Critical WordPress Plugin Flaws Risk 600,000 Websites"
-  },
-  "https://rewterz.com/threat-advisory/windows-rdp-client-flaw-enables-remote-code-execution": {
-    "ts": "2026-09-21T10:32:24.818882+00:00",
-    "title": "Windows RDP Client Flaw Enables Remote Code Execution"
-  },
   "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/": {
     "ts": "2026-09-21T16:55:31.653927+00:00",
     "title": "Google fined \u20ac403 million over location data privacy violations"
@@ -21826,5 +21730,125 @@
   "https://www.group-ib.com/blog/deadbolt-ransomware-decryption/": {
     "ts": "2026-11-20T02:09:26.957368+00:00",
     "title": "Deadbolt ransomware decryption: unlock your data"
+  },
+  "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175": {
+    "ts": "2026-11-20T11:05:15.394198+00:00",
+    "title": "Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info"
+  },
+  "https://asec.ahnlab.com/en/96698/": {
+    "ts": "2026-11-20T11:05:17.086694+00:00",
+    "title": "October 2026 Infostealer Trend Report"
+  },
+  "https://www.helpnetsecurity.com/2026/11/20/european-commission-ai-generated-cyberattack-publicly-available-tool/": {
+    "ts": "2026-11-20T11:06:50.342906+00:00",
+    "title": "European Commission confirms AI-generated cyberattack disrupted its systems"
+  },
+  "https://gbhackers.com/sse-buyers-guide/": {
+    "ts": "2026-11-20T11:06:55.947945+00:00",
+    "title": "12 SSE Solutions: The 2026 Buyer\u2019s Verdict Guide"
+  },
+  "https://asec.ahnlab.com/en/96690/": {
+    "ts": "2026-11-20T11:08:41.461818+00:00",
+    "title": "It hasn\u2019t even been that long since PHP2Shell was disclosed\u2014and now another PHP vulnerability?"
+  },
+  "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/": {
+    "ts": "2026-11-20T11:08:41.461935+00:00",
+    "title": "F5 releases emergency patches for critical BIG-IP RCE flaws"
+  },
+  "https://cybersecuritynews.com/signal-restricts-screenshots/": {
+    "ts": "2026-11-20T11:08:41.461940+00:00",
+    "title": "Signal Restricts Screenshots to protect User Privacy from AI assistants"
+  },
+  "https://gbhackers.com/zero-trust-platforms-buyers-guide/": {
+    "ts": "2026-11-20T11:08:41.461943+00:00",
+    "title": "12 Zero Trust Security Platforms: The 2026 Buyer\u2019s Verdict Guide"
+  },
+  "https://www.group-ib.com/blog/scam-is-rising/": {
+    "ts": "2026-11-20T11:08:41.461946+00:00",
+    "title": "Scam is rising"
+  },
+  "https://www.helpnetsecurity.com/2026/11/20/transport-for-london-oyster-photocard-data-breach/": {
+    "ts": "2026-11-20T11:08:41.461949+00:00",
+    "title": "265,000 Oyster photocard customers\u2019 data exposed in Transport for London breach"
+  },
+  "https://moonlock.com/hackers-trick-mac-users-installing-malware": {
+    "ts": "2026-11-20T11:08:41.562032+00:00",
+    "title": "Hackers increasingly rely on ClickFix and scams to trick Mac users"
+  },
+  "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-breaking-zimbra-s-identity-boundaries": {
+    "ts": "2026-11-20T11:08:41.562050+00:00",
+    "title": "Metasploit Wrap Up: Breaking Zimbra's Identity Boundaries"
+  },
+  "https://securityaffairs.com/203554/cyber-crime/hunt-io-uncovers-russian-speaking-credential-theft-operation-targeting-us-banks-and-government-accounts.html": {
+    "ts": "2026-11-20T11:08:41.562055+00:00",
+    "title": "Hunt.io Uncovers Russian-Speaking Credential Theft Operation Targeting US Banks and Government Accounts"
+  },
+  "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/": {
+    "ts": "2026-11-20T11:08:41.609106+00:00",
+    "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services"
+  },
+  "https://socradar.io/blog/babidighost-ai-augmented-cybercrime/": {
+    "ts": "2026-11-20T11:08:41.656905+00:00",
+    "title": "BabidiGhost: An AI-Augmented Cybercrime Operation"
+  },
+  "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html": {
+    "ts": "2026-11-20T11:08:41.701537+00:00",
+    "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data"
+  },
+  "https://threatmon.io/wppconnect-supply-chain-attack-malicious-npm-releases-expose-whatsapp-sessions-and-developer-secrets/": {
+    "ts": "2026-11-20T11:08:41.747992+00:00",
+    "title": "WPPConnect Supply Chain Attack: Malicious npm Releases Expose WhatsApp Sessions and Developer Secrets"
+  },
+  "https://threats.wiz.io/all-incidents/mauri-ransomware-exploiting-apache-activemq": {
+    "ts": "2026-11-20T11:08:41.793074+00:00",
+    "title": "Mauri Ransomware Exploiting Apache ActiveMQ (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/": {
+    "ts": "2026-11-20T11:08:41.839781+00:00",
+    "title": "Windows 11 KB5132057 update released with 28 changes and fixes"
+  },
+  "https://cybersecuritynews.com/palo-alto-confirms-java-vulnerability-impacts/": {
+    "ts": "2026-11-20T11:08:41.839797+00:00",
+    "title": "Palo Alto Confirms Java Vulnerability Impacts Privilege Threat Analytics and Remote Access Connector"
+  },
+  "https://gbhackers.com/ztna-buyers-guide/": {
+    "ts": "2026-11-20T11:08:41.839802+00:00",
+    "title": "12 ZTNA Solutions: The 2026 Buyer\u2019s Verdict Guide"
+  },
+  "https://www.group-ib.com/blog/attack-surface-management/": {
+    "ts": "2026-11-20T11:08:41.885754+00:00",
+    "title": "Take control of your shadow IT"
+  },
+  "https://moonlock.com/optimizely-hack-cnn-zoom-spread-malware": {
+    "ts": "2026-11-20T11:08:41.931179+00:00",
+    "title": "Optimizely hack made sites like CNN, Zoom and IKEA spread malware"
+  },
+  "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/": {
+    "ts": "2026-11-20T11:08:41.931197+00:00",
+    "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE"
+  },
+  "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html": {
+    "ts": "2026-11-20T11:08:41.976773+00:00",
+    "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs"
+  },
+  "https://www.theregister.com/security/2026/11/19/russian-national-accused-of-stalking-san-francisco-techie-in-plot-against-us-defense-tech-giant/5311126": {
+    "ts": "2026-11-20T11:08:42.022888+00:00",
+    "title": "Russian national accused of stalking San Francisco techie in plot against US defense-tech giant"
+  },
+  "https://threats.wiz.io/all-incidents/gelsemiums-shift-to-linux-malware-with-wolfsbane-and-firewood": {
+    "ts": "2026-11-20T11:08:42.068034+00:00",
+    "title": "Gelsemium\u2019s Shift to Linux Malware with WolfsBane and FireWood (Campaign)"
+  },
+  "https://asec.ahnlab.com/en/96686/": {
+    "ts": "2026-11-20T11:08:42.116865+00:00",
+    "title": "Java4Shell: JDK Vulnerability Exploiting a Flaw in High-Speed Base64 Processing Logic (CVE-2026-114938)"
+  },
+  "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/": {
+    "ts": "2026-11-20T11:08:42.162216+00:00",
+    "title": "Five warning signs of ransomware breach before encryption or data theft"
+  },
+  "https://cybersecuritynews.com/clamav-patches-10-high-severity-vulnerabilities/": {
+    "ts": "2026-11-20T11:08:42.162233+00:00",
+    "title": "ClamAV Patches 10 High-Severity Vulnerabilities That Could Let Attackers Crash Antivirus Scanners"
   }
 }
