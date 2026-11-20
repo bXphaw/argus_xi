@@ -9,6 +9,66 @@
       "category": "malware_other",
       "title": "Ultralytics compromise (Incident)",
       "url": "https://threats.wiz.io/all-incidents/ultralytics-compromise"
+    },
+    {
+      "category": "new_technique",
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/"
+    },
+    {
+      "category": "new_technique",
+      "title": "NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform",
+      "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Hackers Exploit VMware vCenter 0-Day Since September to Hijack Admin Accounts and Steal VM Data",
+      "url": "https://cybersecuritynews.com/hackers-exploit-vmware-vcenter-0-day/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Ubiquiti UniFi Access Vulnerabilities Enable Privilege Escalation and Unauthorized Command Execution",
+      "url": "https://gbhackers.com/ubiquiti-unifi-access-vulnerabilities/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Financially motivated, dangerously activated: OPERA1ER APT in Africa",
+      "url": "https://www.group-ib.com/blog/opera1er-apt/"
+    },
+    {
+      "category": "new_technique",
+      "title": "CVE-2026-123890: Critical Authentication Bypass in VMware vCenter",
+      "url": "https://www.rapid7.com/blog/post/etr-cve-2026-123890-critical-authentication-bypass-vmware-vcenter"
+    },
+    {
+      "category": "new_technique",
+      "title": "Chaotic Eclipse Releases FastUnlock, a New Windows Zero-Day Vulnerability",
+      "url": "https://securityaffairs.com/203537/hacking/chaotic-eclipse-releases-fastunlock-a-new-windows-zero-day-vulnerability.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "New Windows 11 Narrator Lock Screen 0-Day Allows Attackers to Bypass BitLocker Protections",
+      "url": "https://cybersecuritynews.com/windows-11-narrator-lock-screen-0-day/"
+    },
+    {
+      "category": "malware_android",
+      "title": "Hackers Hide Malware Inside Cheap TV Boxes to Steal Home Internet Bandwidth and Generate Fake Ads",
+      "url": "https://gbhackers.com/malware-hidden-cheap-tv-boxes/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Treasure trove. Alive and well point-of-sale malware",
+      "url": "https://www.group-ib.com/blog/majikpos-treasurehunter-malware/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Russian spies turn one cloud breach into a stepping stone for the next",
+      "url": "https://www.helpnetsecurity.com/2026/11/19/russian-spies-impersonation-cloud-breach/"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Deadbolt ransomware decryption: unlock your data",
+      "url": "https://www.group-ib.com/blog/deadbolt-ransomware-decryption/"
     }
   ],
   "last_sent_date": "2026-11-19"

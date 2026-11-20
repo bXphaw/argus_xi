@@ -1,8 +1,4 @@
 {
-  "https://undercodenews.com/emperador-and-qilin-add-new-victims-as-ransomware-activity-hits-healthcare-and-swiss-mobility-sectors-video/#new_tab": {
-    "ts": "2026-09-20T23:58:38.369007+00:00",
-    "title": "Emperador and Qilin Add New Victims as Ransomware Activity Hits Healthcare and Swiss Mobility Sectors"
-  },
   "https://cybersecuritynews.com/weekly-cybersecurity-newsletter-sept-21/": {
     "ts": "2026-09-21T04:43:35.860569+00:00",
     "title": "Weekly Cybersecurity Newsletter Bulletin \u2013 Cisco and Android 0-Day, BragJack Attack, Claude Opus 5 Used to Hack OpenAI, and 20+ Stories"
@@ -21710,5 +21706,125 @@
   "https://www.rapid7.com/blog/post/tr-spying-on-governments-no-malware-custom-webworms-toolkit-softether-bridge": {
     "ts": "2026-11-19T20:17:12.407976+00:00",
     "title": "Spying on Governments with Zero Lines of Malware: A Custom SoftEther Bridge in Webworm\u2019s Toolkit"
+  },
+  "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/": {
+    "ts": "2026-11-20T02:09:25.211377+00:00",
+    "title": "VMware patches vCenter zero-day exploited in attacks since September"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/": {
+    "ts": "2026-11-20T02:09:25.295682+00:00",
+    "title": "NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform"
+  },
+  "https://cybersecuritynews.com/hackers-exploit-vmware-vcenter-0-day/": {
+    "ts": "2026-11-20T02:09:25.380554+00:00",
+    "title": "Hackers Exploit VMware vCenter 0-Day Since September to Hijack Admin Accounts and Steal VM Data"
+  },
+  "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering": {
+    "ts": "2026-11-20T02:09:25.380575+00:00",
+    "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering"
+  },
+  "https://gbhackers.com/ubiquiti-unifi-access-vulnerabilities/": {
+    "ts": "2026-11-20T02:09:25.467226+00:00",
+    "title": "Ubiquiti UniFi Access Vulnerabilities Enable Privilege Escalation and Unauthorized Command Execution"
+  },
+  "https://www.group-ib.com/blog/opera1er-apt/": {
+    "ts": "2026-11-20T02:09:25.546520+00:00",
+    "title": "Financially motivated, dangerously activated: OPERA1ER APT in Africa"
+  },
+  "https://www.helpnetsecurity.com/2026/11/20/android-developer-verification-power-users/": {
+    "ts": "2026-11-20T02:09:25.546543+00:00",
+    "title": "Android developer verification will reach every install source, with a side door for power users"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-123890-critical-authentication-bypass-vmware-vcenter": {
+    "ts": "2026-11-20T02:09:25.632608+00:00",
+    "title": "CVE-2026-123890: Critical Authentication Bypass in VMware vCenter"
+  },
+  "https://securityaffairs.com/203537/hacking/chaotic-eclipse-releases-fastunlock-a-new-windows-zero-day-vulnerability.html": {
+    "ts": "2026-11-20T02:09:25.710627+00:00",
+    "title": "Chaotic Eclipse Releases FastUnlock, a New Windows Zero-Day Vulnerability"
+  },
+  "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/": {
+    "ts": "2026-11-20T02:09:25.710651+00:00",
+    "title": "PHP Patches Seven Critical RCE Vulnerabilities"
+  },
+  "https://www.sekoia.com/blog/sekoia-io-achieves-iso-27001-compliance": {
+    "ts": "2026-11-20T02:09:25.796518+00:00",
+    "title": "Sekoia Has Achieved ISO 27001 Certification"
+  },
+  "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html": {
+    "ts": "2026-11-20T02:09:25.878246+00:00",
+    "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution"
+  },
+  "https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193": {
+    "ts": "2026-11-20T02:09:25.959437+00:00",
+    "title": "Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else"
+  },
+  "https://threats.wiz.io/all-incidents/solana-web3js-supply-chain-attack": {
+    "ts": "2026-11-20T02:09:26.038544+00:00",
+    "title": "Solana web3.js Supply Chain Attack (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/": {
+    "ts": "2026-11-20T02:09:26.130191+00:00",
+    "title": "Hackers steal data of 1.6 million SBC Medical Group customers"
+  },
+  "https://cybersecuritynews.com/windows-11-narrator-lock-screen-0-day/": {
+    "ts": "2026-11-20T02:09:26.210733+00:00",
+    "title": "New Windows 11 Narrator Lock Screen 0-Day Allows Attackers to Bypass BitLocker Protections"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached": {
+    "ts": "2026-11-20T02:09:26.210756+00:00",
+    "title": "Second Norwegian Energy Company Breached in Two Days"
+  },
+  "https://gbhackers.com/malware-hidden-cheap-tv-boxes/": {
+    "ts": "2026-11-20T02:09:26.292313+00:00",
+    "title": "Hackers Hide Malware Inside Cheap TV Boxes to Steal Home Internet Bandwidth and Generate Fake Ads"
+  },
+  "https://www.group-ib.com/blog/majikpos-treasurehunter-malware/": {
+    "ts": "2026-11-20T02:09:26.371586+00:00",
+    "title": "Treasure trove. Alive and well point-of-sale malware"
+  },
+  "https://www.helpnetsecurity.com/2026/11/19/russian-spies-impersonation-cloud-breach/": {
+    "ts": "2026-11-20T02:09:26.462233+00:00",
+    "title": "Russian spies turn one cloud breach into a stepping stone for the next"
+  },
+  "https://securityaffairs.com/203483/hacking/european-commission-cyberattack-artex-ai-tool-suspected-in-prolonged-disruption.html": {
+    "ts": "2026-11-20T02:09:26.539013+00:00",
+    "title": "European Commission Cyberattack: ARTEX AI Tool Suspected in Prolonged Disruption"
+  },
+  "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/": {
+    "ts": "2026-11-20T02:09:26.631432+00:00",
+    "title": "Nvidia Responds to Gentlemen Ransomware Claim"
+  },
+  "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html": {
+    "ts": "2026-11-20T02:09:26.713651+00:00",
+    "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution"
+  },
+  "https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186": {
+    "ts": "2026-11-20T02:09:26.792319+00:00",
+    "title": "Germ Network infects Android, but in a good way"
+  },
+  "https://threats.wiz.io/all-incidents/gafgyt-malware-targeting-misconfigured-docker-servers": {
+    "ts": "2026-11-20T02:09:26.878276+00:00",
+    "title": "Gafgyt Malware Targeting Misconfigured Docker Servers (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/": {
+    "ts": "2026-11-20T02:09:26.878296+00:00",
+    "title": "ASUS warns of critical hard-coded key flaw in Control Center Express"
+  },
+  "https://cybersecuritynews.com/jpmorgan-third-party-data-breach/": {
+    "ts": "2026-11-20T02:09:26.878301+00:00",
+    "title": "JPMorgan Chase Confirms Third-Party Cyberattack That May Have Exposed Customer Names and Emails"
+  },
+  "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell": {
+    "ts": "2026-11-20T02:09:26.878304+00:00",
+    "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style"
+  },
+  "https://gbhackers.com/n-able-confirms-security-breach-in-mail-assure/": {
+    "ts": "2026-11-20T02:09:26.878307+00:00",
+    "title": "N-able Confirms Security Breach in Mail Assure and SpamExperts Hosted Cloud, Credentials Potentially Exposed"
+  },
+  "https://www.group-ib.com/blog/deadbolt-ransomware-decryption/": {
+    "ts": "2026-11-20T02:09:26.957368+00:00",
+    "title": "Deadbolt ransomware decryption: unlock your data"
   }
 }
