@@ -1,4 +1,55 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_windows",
+      "title": "Fake GTA VI PC client spreads malware through a ClickFix attack",
+      "url": "https://www.bitdefender.com/en-us/blog/labs/fake-gta-vi-pc-client-malware-clickfix"
+    },
+    {
+      "category": "threat_actor",
+      "title": "AI-Assisted Hackers Deploy 41 PowerShell Scripts to Steal Credentials From African Stock Exchange",
+      "url": "https://gbhackers.com/african-stock-exchange-credential-theft/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Letting off steam",
+      "url": "https://www.group-ib.com/blog/steam/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "VMware vCenter zero-day exploited for months before patch (CVE-2026-123890)",
+      "url": "https://www.helpnetsecurity.com/2026/11/20/vmware-vcenter-zero-day-cve-2026-123890-exploited/"
+    },
+    {
+      "category": "new_technique",
+      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+      "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Sports Piracy Exploiting Misconfigured Jupyter Servers (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/sports-piracy-exploiting-misconfigured-jupyter-servers"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Exploit Cisco Expressway Flaw CVE-2026-76466 to Breach Russian Organization",
+      "url": "https://securityaffairs.com/203598/hacking/hackers-exploit-cisco-expressway-flaw-cve-2026-76466-to-breach-russian-organization.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "phpAfterShell (CVE-2026-126714) Slips Past PHP2Shell Patch",
+      "url": "https://socradar.io/blog/phpaftershell-cve-2026-126714-php2shell/"
+    },
+    {
+      "category": "malware_android",
+      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+      "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html"
+    }
+  ],
   "last_sent_date": "2026-11-20"
 }
