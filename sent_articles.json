@@ -1,20 +1,4 @@
 {
-  "https://cybersecuritynews.com/metas-muse-ai-agent-0-day-vulnerability/": {
-    "ts": "2026-09-22T04:11:10.633972+00:00",
-    "title": "Meta\u2019s Muse AI Agent 0-Day Vulnerability Allows Attackers to Hijack the Tool and Inject Malware"
-  },
-  "https://www.helpnetsecurity.com/2026/09/22/cybersecurity-jobs-available-right-now-september-22-2026/": {
-    "ts": "2026-09-22T04:11:10.633996+00:00",
-    "title": "Cybersecurity jobs available right now: September 22, 2026"
-  },
-  "https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/": {
-    "ts": "2026-09-22T04:11:10.634000+00:00",
-    "title": "US Proposes AI Incident Alert System in Talks With China, Bessent Says"
-  },
-  "https://www.helpnetsecurity.com/2026/09/22/davmail-7-0-0-microsoft-graph/": {
-    "ts": "2026-09-22T04:11:10.634004+00:00",
-    "title": "DavMail 7.0.0 puts most of its work into Microsoft Graph"
-  },
   "https://asec.ahnlab.com/en/95519/": {
     "ts": "2026-09-22T09:43:32.894112+00:00",
     "title": "August 2026 Infostealer Trend Report"
@@ -21782,5 +21766,125 @@
   "https://www.group-ib.com/blog/investment-scams-europe/": {
     "ts": "2026-11-21T01:14:44.430754+00:00",
     "title": "Fake investment scams in Europe"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/": {
+    "ts": "2026-11-21T09:27:03.382188+00:00",
+    "title": "Critical NGINX \u2018NGINX2Root\u2019 bugs let attackers hijack servers"
+  },
+  "https://cybersecuritynews.com/critical-f5-big-ip-vulnerabilities/": {
+    "ts": "2026-11-21T09:27:03.415275+00:00",
+    "title": "6 Critical F5 BIG-IP Vulnerabilities Could Let Hackers Disrupt Websites and Execute Malicious Code"
+  },
+  "https://gbhackers.com/critical-f5-big-ip-stack-buffer-overflow-flaw/": {
+    "ts": "2026-11-21T09:27:03.449575+00:00",
+    "title": "Critical F5 BIG-IP Stack Buffer Overflow Flaw Enables Remote Code Execution and Denial-of-Service Attacks"
+  },
+  "https://www.group-ib.com/blog/managed-xdr/": {
+    "ts": "2026-11-21T09:27:03.449593+00:00",
+    "title": "Under the Hood. Group-IB Managed XDR"
+  },
+  "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/": {
+    "ts": "2026-11-21T09:27:03.483019+00:00",
+    "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak"
+  },
+  "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html": {
+    "ts": "2026-11-21T09:27:03.483037+00:00",
+    "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS"
+  },
+  "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345": {
+    "ts": "2026-11-21T09:27:03.483040+00:00",
+    "title": "Dutch data watchdog highlights safety issues with AI glasses"
+  },
+  "https://www.volexity.com/blog/2026/09/21/mind-the-patch-gap-part-2-fake-websites-used-to-deploy-chrome-windows-0-day-exploits/": {
+    "ts": "2026-11-21T09:27:03.517216+00:00",
+    "title": "Mind the (Patch) Gap, Part 2: Fake Websites Used to Deploy Chrome & Windows 0-Day Exploits"
+  },
+  "https://threats.wiz.io/all-incidents/silent-skimmer-attacks-exploiting-telerik-ui-to-steal-payment-data": {
+    "ts": "2026-11-21T09:27:03.551447+00:00",
+    "title": "Silent Skimmer Attacks Exploiting Telerik UI to Steal Payment Data (Campaign)"
+  },
+  "https://cybersecuritynews.com/whatsapp-android-flaws/": {
+    "ts": "2026-11-21T09:27:03.551466+00:00",
+    "title": "WhatsApp Android Flaws Could Let Hackers Delete Users\u2019 Files and Expose IP Addresses"
+  },
+  "https://gbhackers.com/china-linked-webworm-softether-vpn/": {
+    "ts": "2026-11-21T09:27:03.585318+00:00",
+    "title": "China-Linked Webworm Hackers Deploy Custom SoftEther VPN to Maintain Hidden Access to Government Networks"
+  },
+  "https://www.group-ib.com/blog/unified-risk-platform/": {
+    "ts": "2026-11-21T09:27:03.622419+00:00",
+    "title": "Group-IB introduces the Unified Risk Platform"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html": {
+    "ts": "2026-11-21T09:27:03.655825+00:00",
+    "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge"
+  },
+  "https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292": {
+    "ts": "2026-11-21T09:27:03.691598+00:00",
+    "title": "Spy court blasts UK secrecy, forces government to admit Apple \u2018backdoor\u2019 demand"
+  },
+  "https://threats.wiz.io/all-incidents/mozi-botnet-using-androxgh0st-toolkit-to-target-cloud-environments": {
+    "ts": "2026-11-21T09:27:03.726925+00:00",
+    "title": "Mozi Botnet Using AndroxGh0st Toolkit to Target Cloud Environments (Campaign)"
+  },
+  "https://cybersecuritynews.com/enterprise-risk-management-tools/": {
+    "ts": "2026-11-21T09:27:03.726944+00:00",
+    "title": "14 Best Enterprise Risk Management Tools 2027"
+  },
+  "https://gbhackers.com/ai-powered-bazuka-banking-trojan-android-users/": {
+    "ts": "2026-11-21T09:27:03.761407+00:00",
+    "title": "New AI-Powered Bazuka Banking Trojan Targets Android Users With Keylogging and SMS Interception"
+  },
+  "https://www.group-ib.com/blog/gozi-latest-ttps/": {
+    "ts": "2026-11-21T09:27:03.795238+00:00",
+    "title": "We see you, Gozi"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html": {
+    "ts": "2026-11-21T09:27:03.831299+00:00",
+    "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network"
+  },
+  "https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263": {
+    "ts": "2026-11-21T09:27:03.831318+00:00",
+    "title": "Windows 11 passkey bug cries failure after successful sign-in"
+  },
+  "https://threats.wiz.io/all-incidents/supply-chain-attack-on-lottie-player": {
+    "ts": "2026-11-21T09:27:03.865570+00:00",
+    "title": "Supply Chain Attack on lottie-player (Campaign)"
+  },
+  "https://cybersecuritynews.com/critical-apache-tomcat-flaw/": {
+    "ts": "2026-11-21T09:27:03.902724+00:00",
+    "title": "Critical Apache Tomcat Flaw Lets Remote Attackers Join Trusted Server Clusters Without Authentication"
+  },
+  "https://gbhackers.com/whatsapp-security-flaw/": {
+    "ts": "2026-11-21T09:27:03.939006+00:00",
+    "title": "WhatsApp Security Flaw Lets Attackers Delete Files and Leak Chat Database Information on Android Devices"
+  },
+  "https://www.group-ib.com/blog/rostovtsev/": {
+    "ts": "2026-11-21T09:27:03.979339+00:00",
+    "title": "\u201cWe find many things that others do not even see\u201d"
+  },
+  "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html": {
+    "ts": "2026-11-21T09:27:04.013983+00:00",
+    "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It"
+  },
+  "https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979": {
+    "ts": "2026-11-21T09:27:04.014000+00:00",
+    "title": "Cyberattack on service provider exposes payee data at 40 Irish credit unions"
+  },
+  "https://threats.wiz.io/all-incidents/cyberoam-breach-2018": {
+    "ts": "2026-11-21T09:27:04.048257+00:00",
+    "title": "Cyberoam breach (2018) (Incident)"
+  },
+  "https://cybersecuritynews.com/fake-gta-6-pc-launchers/": {
+    "ts": "2026-11-21T09:27:04.084618+00:00",
+    "title": "Hackers Use 355 Domains to Spread Fake GTA 6 PC Launchers Delivering Malware"
+  },
+  "https://gbhackers.com/north-korean-fake-construction-company-ai-deepfakes/": {
+    "ts": "2026-11-21T09:27:04.120290+00:00",
+    "title": "North Korean IT Workers Create Fake Construction Company and Use AI Deepfakes to Target U.S. Businesses"
+  },
+  "https://www.group-ib.com/blog/brazil-exposed-db/": {
+    "ts": "2026-11-21T09:27:04.120309+00:00",
+    "title": "Thousands of IDs exposed in yet another data breach in Brazil"
   }
 }
