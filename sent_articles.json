@@ -1,184 +1,4 @@
 {
-  "https://asec.ahnlab.com/en/95519/": {
-    "ts": "2026-09-22T09:43:32.894112+00:00",
-    "title": "August 2026 Infostealer Trend Report"
-  },
-  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/": {
-    "ts": "2026-09-22T09:43:33.083407+00:00",
-    "title": "CISA orders feds to patch Zyxel flaw exploited for data theft"
-  },
-  "https://blog.eclecticiq.com/intelligence-center-3.9": {
-    "ts": "2026-09-22T09:43:33.083444+00:00",
-    "title": "Intelligence Center 3.9: More AI provider choice, MITRE ATT&CK v19.1 support, and more"
-  },
-  "https://www.helpnetsecurity.com/2026/09/22/fake-ai-subscription-sites-google-sign-in/": {
-    "ts": "2026-09-22T09:43:33.083448+00:00",
-    "title": "Scammers use genuine Google sign-ins to sell costly, unverified AI subscriptions"
-  },
-  "https://securityaffairs.com/199506/uncategorized/contagious-interview-30000-devices-infected-by-a-fake-job-interview.html": {
-    "ts": "2026-09-22T09:43:33.272351+00:00",
-    "title": "Contagious Interview: 30,000 devices infected by a fake job interview"
-  },
-  "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/": {
-    "ts": "2026-09-22T09:43:33.462144+00:00",
-    "title": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme"
-  },
-  "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html": {
-    "ts": "2026-09-22T09:43:33.651256+00:00",
-    "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing"
-  },
-  "https://www.welivesecurity.com/en/business-security/smb-cybersecurity-squeeze-ai-agents-work-old-attacks-overdrive/": {
-    "ts": "2026-09-22T09:43:33.846571+00:00",
-    "title": "The SMB cybersecurity squeeze: AI agents at work, old attacks in overdrive"
-  },
-  "https://asec.ahnlab.com/en/95516/": {
-    "ts": "2026-09-22T09:43:34.035396+00:00",
-    "title": "Larva-25012: A 2026 Proxyware Distribution Campaign by the Threat Actor (DigitalPulse, SOAX, Appsalt, IPRoyal)"
-  },
-  "https://www.helpnetsecurity.com/2026/09/22/5g-subscriber-tracking-research/": {
-    "ts": "2026-09-22T09:43:34.222627+00:00",
-    "title": "A cheap fake base station can still track 5G subscribers"
-  },
-  "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html": {
-    "ts": "2026-09-22T09:43:34.412912+00:00",
-    "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor"
-  },
-  "https://www.helpnetsecurity.com/2026/09/22/passwork-nis2-compliance-guide/": {
-    "ts": "2026-09-22T09:43:34.412931+00:00",
-    "title": "Passwork NIS2 efficiency guide: Save your team hours before the 2026 audit"
-  },
-  "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html": {
-    "ts": "2026-09-22T09:43:34.412935+00:00",
-    "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session"
-  },
-  "https://www.helpnetsecurity.com/2026/09/22/idc-european-ai-spending/": {
-    "ts": "2026-09-22T09:43:34.412938+00:00",
-    "title": "European AI spending is on track to reach nearly $470 billion by 2030"
-  },
-  "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html": {
-    "ts": "2026-09-22T09:43:34.602780+00:00",
-    "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access"
-  },
-  "https://securityaffairs.com/199518/hacking/u-s-cisa-adds-zyxel-flaw-to-its-known-exploited-vulnerabilities-catalog.html": {
-    "ts": "2026-09-22T14:30:33.406579+00:00",
-    "title": "U.S. CISA adds Zyxel flaw to its Known Exploited Vulnerabilities catalog"
-  },
-  "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/": {
-    "ts": "2026-09-22T14:32:37.468287+00:00",
-    "title": "Webinar tomorrow: Inside real-world Google Workspace breaches"
-  },
-  "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/": {
-    "ts": "2026-09-22T14:32:37.587479+00:00",
-    "title": "The Closed Quorum: Inside the first reported autonomous AI C2 implant"
-  },
-  "https://cybersecuritynews.com/microsoft-sharepoint-rce-flaw/": {
-    "ts": "2026-09-22T14:32:37.587496+00:00",
-    "title": "Microsoft SharePoint Flaw Lets Attackers Execute Code Remotely With Low Privileges"
-  },
-  "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle": {
-    "ts": "2026-09-22T14:32:37.587501+00:00",
-    "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds"
-  },
-  "https://www.forescout.com/blog/what-47700-segments-reveal-about-network-segmentation/": {
-    "ts": "2026-09-22T14:32:37.587504+00:00",
-    "title": "What 47,700 Segments Reveal About Network Segmentation"
-  },
-  "https://gbhackers.com/critical-linux-kvm-flaw/": {
-    "ts": "2026-09-22T14:32:37.636684+00:00",
-    "title": "Critical Linux KVM Flaw Enables Guest-to-Host Escape on ARM64 Systems"
-  },
-  "https://www.helpnetsecurity.com/2026/09/22/cairn-open-source-framework-ai-malware-closedquorum/": {
-    "ts": "2026-09-22T14:32:37.690397+00:00",
-    "title": "Researchers uncover malware that uses AI to choose its next move"
-  },
-  "https://www.malwarebytes.com/blog/bugs/2026/09/metas-muse-ai-assistant-has-a-zero-day-that-can-turn-it-into-a-mac-backdoor": {
-    "ts": "2026-09-22T14:32:37.737491+00:00",
-    "title": "Meta\u2019s Muse AI assistant has a zero-day that can turn it into a Mac backdoor"
-  },
-  "https://securityaffairs.com/199532/security/public-poc-exposes-critical-veeam-agent-privilege-escalation.html": {
-    "ts": "2026-09-22T14:32:37.785253+00:00",
-    "title": "Public PoC Exposes Critical Veeam Agent Privilege Escalation"
-  },
-  "https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/": {
-    "ts": "2026-09-22T14:32:37.832495+00:00",
-    "title": "Cyera Raises $400 Million at $12+ Billion Valuation"
-  },
-  "https://news.risky.biz/risky-bulletin-academics-find-source-code-overlaps-between-geedge-and-chinas-great-firewall/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=risky-bulletin-academics-find-source-code-overlaps-between-geedge-and-chinas-great-firewall": {
-    "ts": "2026-09-22T14:32:37.879493+00:00",
-    "title": "Risky Bulletin: Academics find source code overlaps between Geedge and China's Great Firewall"
-  },
-  "https://www.security.com/feature-stories/ses-complete-certified-leader-av-comparatives-epr-test": {
-    "ts": "2026-09-22T14:32:37.926864+00:00",
-    "title": "SES Complete Is a Certified Leader in the AV-Comparatives EPR Test"
-  },
-  "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html": {
-    "ts": "2026-09-22T14:32:37.974571+00:00",
-    "title": "AI Agents Are Rewriting the Rules of Lateral Movement"
-  },
-  "https://www.intego.com/mac-security-blog/how-to-keep-your-mac-safe-at-universities-and-public-networks/": {
-    "ts": "2026-09-22T14:32:38.021797+00:00",
-    "title": "How to use public Wi-Fi safely on your Mac"
-  },
-  "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/": {
-    "ts": "2026-09-22T14:32:38.069115+00:00",
-    "title": "D-Link warns of max severity zero-day bug in DIR-822A routers"
-  },
-  "https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/": {
-    "ts": "2026-09-22T14:32:38.069130+00:00",
-    "title": "Introducing CAIRN: Frontier tracking for AI-integrated malware"
-  },
-  "https://cybersecuritynews.com/new-taskstomp-backdoor/": {
-    "ts": "2026-09-22T14:32:38.116172+00:00",
-    "title": "New TASK#STOMP Backdoor Uses PowerShell to Steal Documents and Wi-Fi Passwords"
-  },
-  "https://gbhackers.com/taskstomp-powershell-backdoor/": {
-    "ts": "2026-09-22T14:32:38.162275+00:00",
-    "title": "TASK#STOMP PowerShell Backdoor Steals Business Documents and Executes Remote Commands"
-  },
-  "https://www.helpnetsecurity.com/2026/09/22/elsevier-domains-hijack-lapsus/": {
-    "ts": "2026-09-22T14:32:38.208420+00:00",
-    "title": "Brief hijack makes Elsevier domains redirect to LAPSUS$ \u201cChapter II\u201d page"
-  },
-  "https://www.malwarebytes.com/blog/news/2026/09/researchers-used-claude-to-hack-openai": {
-    "ts": "2026-09-22T14:32:38.257004+00:00",
-    "title": "Researchers used Claude to hack OpenAI"
-  },
-  "https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/": {
-    "ts": "2026-09-22T14:32:38.302021+00:00",
-    "title": "Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity"
-  },
-  "https://cybersecuritynews.com/bandwidth-sharing-app/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=bandwidth-sharing-app-can-turn-employee-devices-into-gateways-to-internal-networks": {
-    "ts": "2026-09-22T14:32:38.351749+00:00",
-    "title": "Bandwidth-Sharing App Can Turn Employee Devices Into Gateways to Internal Networks"
-  },
-  "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html": {
-    "ts": "2026-09-22T14:32:38.398420+00:00",
-    "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups"
-  },
-  "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/": {
-    "ts": "2026-09-22T14:32:38.442607+00:00",
-    "title": "New Windows Defender zero-day blocks Microsoft antivirus updates"
-  },
-  "https://cybersecuritynews.com/linux-kvm-arm64-vulnerability/": {
-    "ts": "2026-09-22T14:32:38.490208+00:00",
-    "title": "Linux KVM/arm64 Vulnerability Lets Attackers Escape Virtual Machines and Gain Host Access"
-  },
-  "https://gbhackers.com/hackers-exploit-veeam-agent-vulnerability/": {
-    "ts": "2026-09-22T14:32:38.536538+00:00",
-    "title": "Hackers Exploit Veeam Agent Vulnerability to Gain SYSTEM-Level Access on Windows"
-  },
-  "https://www.helpnetsecurity.com/2026/09/22/cisos-deepfake-incidents-social-engineering-survey/": {
-    "ts": "2026-09-22T14:32:38.536554+00:00",
-    "title": "The latest deepfake numbers give CISOs plenty to worry about"
-  },
-  "https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/": {
-    "ts": "2026-09-22T14:32:38.536558+00:00",
-    "title": "Only 13% of OT Network Segments Are Fully Isolated: Analysis"
-  },
-  "https://www.silentpush.com/video/explore-silent-push-6-1/?utm_source=rss&utm_medium=rss&utm_campaign=explore-silent-push-6-1": {
-    "ts": "2026-09-22T14:32:38.536561+00:00",
-    "title": "Explore Silent Push 6.1"
-  },
   "https://cybersecuritynews.com/aembit-launches-support-for-okta-cross-app-access-extending-enterprise-identity-controls-to-ai-agents/": {
     "ts": "2026-09-22T18:38:14.673973+00:00",
     "title": "Aembit Launches Support for Okta Cross App Access, Extending Enterprise Identity Controls to AI Agents"
@@ -21886,5 +21706,125 @@
   "https://www.group-ib.com/blog/brazil-exposed-db/": {
     "ts": "2026-11-21T09:27:04.120309+00:00",
     "title": "Thousands of IDs exposed in yet another data breach in Brazil"
+  },
+  "https://www.theregister.com/patches/2026/11/18/another-critical-php-security-release-has-dropped/5310911": {
+    "ts": "2026-11-21T17:13:48.206433+00:00",
+    "title": "Another critical PHP security release has dropped"
+  },
+  "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/": {
+    "ts": "2026-11-21T17:15:26.915651+00:00",
+    "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests"
+  },
+  "https://cybersecuritynews.com/crowdstrike-to-acquire-zscaler/": {
+    "ts": "2026-11-21T17:15:26.915672+00:00",
+    "title": "CrowdStrike in Talks to Acquire Zscaler in One of the Biggest Cybersecurity Deals Ever"
+  },
+  "https://gbhackers.com/critical-apache-tomcat-security-flaw/": {
+    "ts": "2026-11-21T17:15:26.974164+00:00",
+    "title": "Critical Apache Tomcat Security Flaw Enables Unauthorized Nodes to Join Protected Server Clusters"
+  },
+  "https://www.group-ib.com/blog/phishing-vietnam-banks/": {
+    "ts": "2026-11-21T17:15:26.974183+00:00",
+    "title": "Swiss Army Knife Phishing"
+  },
+  "https://www.morphisec.com/blog/a-14-minute-ai-attack-shows-fast-response-doesnt-help-when-the-attack-is-faster/": {
+    "ts": "2026-11-21T17:15:26.974188+00:00",
+    "title": "A 14-Minute AI Attack Shows Fast Response Doesn\u2019t Help When the Attack Is Faster"
+  },
+  "https://securityaffairs.com/203639/security/u-s-cisa-adds-cisco-expressway-sap-netweaver-broadcom-vmware-vcenter-and-apache-roller-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-11-21T17:15:26.974192+00:00",
+    "title": "U.S. CISA adds Cisco Expressway, SAP NetWeaver, Broadcom VMware vCenter, and Apache Roller\u00a0flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/": {
+    "ts": "2026-11-21T17:15:27.020968+00:00",
+    "title": "Amazon: China-Linked Hackers\u2019 AI Agents Exploited Medical Software Zero-Day"
+  },
+  "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html": {
+    "ts": "2026-11-21T17:15:27.020986+00:00",
+    "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats"
+  },
+  "https://threats.wiz.io/all-incidents/sharepoint-vulnerability-exploited-in-the-wild": {
+    "ts": "2026-11-21T17:15:27.020991+00:00",
+    "title": "SharePoint Vulnerability Exploited in-the-Wild (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/": {
+    "ts": "2026-11-21T17:15:27.020994+00:00",
+    "title": "FBI reportedly hacked again, this time targeting nationwide police database"
+  },
+  "https://cybersecuritynews.com/legitimate-vpn-software/": {
+    "ts": "2026-11-21T17:15:27.071471+00:00",
+    "title": "Hackers Turn Legitimate VPN Software Into a Stealthy Tool for Spying on Government Networks"
+  },
+  "https://gbhackers.com/palo-alto-networks-warns-of-critical-java-rce-vulnerability/": {
+    "ts": "2026-11-21T17:15:27.117392+00:00",
+    "title": "Palo Alto Networks Warns of Critical Java RCE Vulnerability Affecting Multiple Security Products"
+  },
+  "https://www.group-ib.com/blog/sidewinder-antibot/": {
+    "ts": "2026-11-21T17:15:27.168359+00:00",
+    "title": "SideWinder.AntiBot.Script"
+  },
+  "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html": {
+    "ts": "2026-11-21T17:15:27.212443+00:00",
+    "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys"
+  },
+  "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858": {
+    "ts": "2026-11-21T17:15:27.258898+00:00",
+    "title": "Microsoft's official Python agent framework hijacked to distribute malware"
+  },
+  "https://threats.wiz.io/all-incidents/emeraldwhale-attacks-targeting-exposed-git-config-files": {
+    "ts": "2026-11-21T17:15:27.307378+00:00",
+    "title": "EMERALDWHALE Attacks Targeting Exposed Git Config Files (Campaign)"
+  },
+  "https://cybersecuritynews.com/openssl-heap-buffer-overflow/": {
+    "ts": "2026-11-21T17:15:27.307397+00:00",
+    "title": "OpenSSL Hit by Critical 9.8 Heap Buffer Overflow Vulnerability in Base64 Encoding Function"
+  },
+  "https://gbhackers.com/nginx2root-exploits-5-critical-nginx-vulnerabilities/": {
+    "ts": "2026-11-21T17:15:27.307402+00:00",
+    "title": "NGINX2ROOT Exploits 5 Critical NGINX Vulnerabilities to Gain Remote Code Execution and Root Access"
+  },
+  "https://www.group-ib.com/blog/oldgremlin-comeback/": {
+    "ts": "2026-11-21T17:15:27.353837+00:00",
+    "title": "Old Gremlins, new methods"
+  },
+  "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html": {
+    "ts": "2026-11-21T17:15:27.402068+00:00",
+    "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access"
+  },
+  "https://www.theregister.com/security/2026/11/18/partner-content-cyber-insurers-now-want-proof-you-can-actually-recover/5309325": {
+    "ts": "2026-11-21T17:15:27.449923+00:00",
+    "title": "Cyber insurers now want proof you can actually recover"
+  },
+  "https://threats.wiz.io/all-incidents/amazon-db-exposed-with-prime-video-viewing-habits": {
+    "ts": "2026-11-21T17:15:27.495132+00:00",
+    "title": "Amazon DB exposed with Prime Video viewing habits (Research)"
+  },
+  "https://www.group-ib.com/blog/fake-crypto-giveaway/": {
+    "ts": "2026-11-21T17:15:27.541820+00:00",
+    "title": "Scammers make off with $1.6 million in crypto"
+  },
+  "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html": {
+    "ts": "2026-11-21T17:15:27.593158+00:00",
+    "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication"
+  },
+  "https://www.theregister.com/security/2026/11/18/sponsored-ai-powered-cyber-threats-are-changing-the-rules-of-enterprise-recovery/5310515": {
+    "ts": "2026-11-21T17:15:27.646356+00:00",
+    "title": "AI-powered cyber threats are changing the rules of enterprise recovery"
+  },
+  "https://threats.wiz.io/all-incidents/teamtnts-docker-gatling-gun-campaign": {
+    "ts": "2026-11-21T17:15:27.691197+00:00",
+    "title": "TeamTNT\u2019s Docker Gatling Gun Campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/spring4shell/": {
+    "ts": "2026-11-21T17:15:27.741255+00:00",
+    "title": "Mitigating Spring4Shell with Group-IB"
+  },
+  "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html": {
+    "ts": "2026-11-21T17:15:27.785296+00:00",
+    "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites"
+  },
+  "https://www.theregister.com/os-platforms/2026/11/17/windows-11-previews-remote-padlock-only-it-can-open/5310402": {
+    "ts": "2026-11-21T17:15:27.785312+00:00",
+    "title": "Windows 11 previews remote padlock only IT can open"
   }
 }
