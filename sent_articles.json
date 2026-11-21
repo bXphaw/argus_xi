@@ -1,236 +1,4 @@
 {
-  "https://cybersecuritynews.com/aembit-launches-support-for-okta-cross-app-access-extending-enterprise-identity-controls-to-ai-agents/": {
-    "ts": "2026-09-22T18:38:14.673973+00:00",
-    "title": "Aembit Launches Support for Okta Cross App Access, Extending Enterprise Identity Controls to AI Agents"
-  },
-  "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/": {
-    "ts": "2026-09-22T18:39:59.371267+00:00",
-    "title": "New ClosedQuorum Windows malware uses AI for attack decisions"
-  },
-  "https://cofense.com/blog/from-payment-plan-to-ransomware-inside-a-global-group-attack": {
-    "ts": "2026-09-22T18:39:59.499429+00:00",
-    "title": "From Payment Plan to Ransomware - Inside a Global Group Attack"
-  },
-  "https://cybersecuritynews.com/check-point-management-server-0-day-exploited/": {
-    "ts": "2026-09-22T18:39:59.499438+00:00",
-    "title": "Check Point Management Server 0-Day Vulnerability Actively Exploited in Attacks"
-  },
-  "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data": {
-    "ts": "2026-09-22T18:39:59.632833+00:00",
-    "title": "Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data"
-  },
-  "https://gbhackers.com/aembit-launches-support-for-okta-cross-app-access-extending-enterprise-identity-controls-to-ai-agents/": {
-    "ts": "2026-09-22T18:39:59.632841+00:00",
-    "title": "Aembit Launches Support for Okta Cross App Access, Extending Enterprise Identity Controls to AI Agents"
-  },
-  "https://www.helpnetsecurity.com/2026/09/22/csc-online-intellectual-property-risk-report/": {
-    "ts": "2026-09-22T18:39:59.748354+00:00",
-    "title": "The next intellectual property thief may sound like your CEO"
-  },
-  "https://www.malwarebytes.com/blog/news/2026/09/some-cheap-smart-glasses-are-a-security-disaster": {
-    "ts": "2026-09-22T18:39:59.882517+00:00",
-    "title": "Some cheap smart glasses are a security disaster"
-  },
-  "https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/": {
-    "ts": "2026-09-22T18:40:00.012846+00:00",
-    "title": "Unmasking EvilTokens: Getting to the root of device code phishing"
-  },
-  "https://www.recordedfuture.com/blog/agent-running-ai": {
-    "ts": "2026-09-22T18:40:00.141894+00:00",
-    "title": "Agent Running in the Age of AI"
-  },
-  "https://securityaffairs.com/199538/hacking/chaotic-eclipse-released-bigdiskbuster-a-poc-for-windows-defender-update-dos-zero-day.html": {
-    "ts": "2026-09-22T18:40:00.274617+00:00",
-    "title": "Chaotic Eclipse Released\u00a0BigDiskBuster, A PoC For Windows Defender Update\u00a0DoS Zero-Day"
-  },
-  "https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/": {
-    "ts": "2026-09-22T18:40:00.274636+00:00",
-    "title": "BigCommerce Data Stolen via Ribon Apps Hack"
-  },
-  "https://cyberinsurancenews.org/data-center-cyber-claims-allianz-accumulation/#google_vignette#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=data-center-cyber-claims-rank-second-the-larger-exposure-is-invisible": {
-    "ts": "2026-09-22T18:40:00.274639+00:00",
-    "title": "Data Center Cyber Claims Rank Second. The Larger Exposure Is Invisible."
-  },
-  "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html": {
-    "ts": "2026-09-22T18:40:00.397522+00:00",
-    "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises"
-  },
-  "https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385": {
-    "ts": "2026-09-22T18:40:00.397536+00:00",
-    "title": "ShinyHunters claims FBI hack: 'This is NOT financially motivated'"
-  },
-  "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/": {
-    "ts": "2026-09-22T18:40:00.397539+00:00",
-    "title": "Reducing shadow IT visibility gaps with Wazuh"
-  },
-  "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real": {
-    "ts": "2026-09-22T18:40:00.519547+00:00",
-    "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real"
-  },
-  "https://gbhackers.com/red-hat-openshift-flaw/": {
-    "ts": "2026-09-22T18:40:00.647533+00:00",
-    "title": "Red Hat OpenShift Flaw Lets Attackers Poison Disconnected Registries With Malicious Releases"
-  },
-  "https://www.helpnetsecurity.com/2026/09/22/zyxel-switches-cve-2026-7273-vulnerability-exploited/": {
-    "ts": "2026-09-22T18:40:00.765897+00:00",
-    "title": "Attacker compromised nearly 1000 Zyxel switches since August (CVE-2026-7273)"
-  },
-  "https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/": {
-    "ts": "2026-09-22T18:40:00.907946+00:00",
-    "title": "Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers"
-  },
-  "https://www.citybiz.co/article/892608/silent-push-kairos-data-among-16-reston-companies-on-2026-inc-5000-list/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=silent-push-kairos-data-among-16-reston-companies-on-2026-inc-5000-list": {
-    "ts": "2026-09-22T18:40:01.051153+00:00",
-    "title": "Silent Push, Kairos Data Among 16 Reston Companies on 2026 Inc. 5000 List"
-  },
-  "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html": {
-    "ts": "2026-09-22T18:40:01.051161+00:00",
-    "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials"
-  },
-  "https://www.theregister.com/security/2026/09/22/nightmareeclipses-latest-zero-day-leaves-microsoft-defender-stuck-in-the-past/5298320": {
-    "ts": "2026-09-22T18:40:01.051164+00:00",
-    "title": "NightmareEclipse's latest zero-day leaves Microsoft Defender stuck in the past"
-  },
-  "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/": {
-    "ts": "2026-09-22T18:40:01.051166+00:00",
-    "title": "Check Point warns of Management Server zero-day exploited in attacks"
-  },
-  "https://cybersecuritynews.com/scaling-soc-capabilities-how-threat-intelligence-cuts-triage-time-and-burnout/": {
-    "ts": "2026-09-22T18:40:01.051169+00:00",
-    "title": "Scaling SOC Capabilities: How Threat Intelligence Cuts Triage Time and Burnout"
-  },
-  "https://gbhackers.com/linux-bambootoken-malware/": {
-    "ts": "2026-09-22T18:40:01.174735+00:00",
-    "title": "Linux BambooToken Malware Uses MQTT C2 for Remote Shell Access and File Exfiltration"
-  },
-  "https://www.helpnetsecurity.com/2026/09/22/ai-crawler-traffic-online-stores/": {
-    "ts": "2026-09-22T18:40:01.174745+00:00",
-    "title": "Somewhere in your traffic logs, a bot is doing more than looking"
-  },
-  "https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/": {
-    "ts": "2026-09-22T18:40:01.284339+00:00",
-    "title": "Malicious B-tree NPM Package Accumulates Millions of Downloads"
-  },
-  "https://www.silentpush.com/video/silent-push-mcp-server-turn-one-phishing-domain-into-a-full-threat-hunt/?utm_source=rss&utm_medium=rss&utm_campaign=silent-push-mcp-server-turn-one-phishing-domain-into-a-full-threat-hunt": {
-    "ts": "2026-09-22T18:40:01.284350+00:00",
-    "title": "Silent Push MCP Server: Turn One Phishing Domain Into a Full Threat Hunt"
-  },
-  "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html": {
-    "ts": "2026-09-22T18:40:01.418443+00:00",
-    "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates"
-  },
-  "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html": {
-    "ts": "2026-09-22T21:53:42.388159+00:00",
-    "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks"
-  },
-  "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/": {
-    "ts": "2026-09-22T21:55:21.653580+00:00",
-    "title": "Rogue external MFA providers can steal passwords during logins"
-  },
-  "https://cybersecuritynews.com/ai-agents-retail-credit-card-theft/": {
-    "ts": "2026-09-22T21:55:21.752453+00:00",
-    "title": "Autonomous AI Agents Hack Retailers for $25 and Steal 600,000 Credit Cards"
-  },
-  "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models": {
-    "ts": "2026-09-22T21:55:21.846623+00:00",
-    "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US"
-  },
-  "https://gbhackers.com/critical-maxkb-ai-agent-flaw/": {
-    "ts": "2026-09-22T21:55:21.948560+00:00",
-    "title": "Critical MaxKB AI Agent Flaw Lets Prompt Injection Execute System Commands"
-  },
-  "https://securityaffairs.com/199549/security/check-point-fixes-a-new-actively-exploited-critical-security-flaw.html": {
-    "ts": "2026-09-22T21:55:22.049441+00:00",
-    "title": "Check Point Fixes a New Actively Exploited Critical Security Flaw"
-  },
-  "https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/": {
-    "ts": "2026-09-22T21:55:22.150484+00:00",
-    "title": "WordPress Patches \u2018Click2Shell\u2019 Vulnerability"
-  },
-  "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435": {
-    "ts": "2026-09-22T21:55:22.251052+00:00",
-    "title": "Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions"
-  },
-  "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/": {
-    "ts": "2026-09-22T21:55:22.344772+00:00",
-    "title": "Sweden fines Milj\u00f6data $183,000 over breach affecting 2.2 million"
-  },
-  "https://cybersecuritynews.com/cairn-tool-for-tracking-ai-malware/": {
-    "ts": "2026-09-22T21:55:22.439668+00:00",
-    "title": "CAIRN \u2013 A New Tool to Track AI Malware That Operates Without Human Control"
-  },
-  "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service": {
-    "ts": "2026-09-22T21:55:22.536509+00:00",
-    "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service"
-  },
-  "https://gbhackers.com/hackers-abuse-stolen-bigcommerce-app-key/": {
-    "ts": "2026-09-22T21:55:22.536527+00:00",
-    "title": "Hackers Abuse Stolen BigCommerce App Key to Steal Master of Malt Customer Data"
-  },
-  "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html": {
-    "ts": "2026-09-22T21:55:22.633695+00:00",
-    "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers"
-  },
-  "https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300": {
-    "ts": "2026-09-22T21:55:22.741364+00:00",
-    "title": "Z.ai says sorry for slurping up your code, open sources ZCode"
-  },
-  "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/": {
-    "ts": "2026-09-22T21:55:22.847202+00:00",
-    "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data"
-  },
-  "https://cybersecuritynews.com/veeam-agent-flaw-exploited/": {
-    "ts": "2026-09-22T21:55:22.958670+00:00",
-    "title": "Veeam Agent Flaw Actively Exploited to Gain SYSTEM Privileges on Windows"
-  },
-  "https://gbhackers.com/apt-exploits-chrome-and-windows/": {
-    "ts": "2026-09-22T21:55:23.052340+00:00",
-    "title": "Chinese APT Clones Legitimate Websites to Deliver Chrome and Windows Zero-Day Exploits"
-  },
-  "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html": {
-    "ts": "2026-09-22T21:55:23.156029+00:00",
-    "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials"
-  },
-  "https://www.theregister.com/security/2026/09/22/uk-cops-arrest-2-eviltokens-suspects-microsoft-seizes-50-phishing-kit-websites/5298317": {
-    "ts": "2026-09-22T21:55:23.260949+00:00",
-    "title": "UK cops arrest 2 EvilTokens suspects, Microsoft seizes 50 phishing kit websites"
-  },
-  "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/": {
-    "ts": "2026-09-22T21:55:23.357651+00:00",
-    "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach"
-  },
-  "https://cybersecuritynews.com/red-hat-openshift-flaw/": {
-    "ts": "2026-09-22T21:55:23.457920+00:00",
-    "title": "Red Hat OpenShift Flaw Lets Attackers Bypass PGP Checks and Push Malicious Releases"
-  },
-  "https://gbhackers.com/d-link-dir-822a-router-vulnerability/": {
-    "ts": "2026-09-22T21:55:23.457935+00:00",
-    "title": "D-Link DIR-822A Router Vulnerability Scores CVSS 10.0 With Public PoC Available"
-  },
-  "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html": {
-    "ts": "2026-09-22T21:55:23.457939+00:00",
-    "title": "DORA Year Two: Can Your SOC Actually See the Attack?"
-  },
-  "https://www.theregister.com/security/2026/09/22/sponsored/5297693": {
-    "ts": "2026-09-22T21:55:23.457942+00:00",
-    "title": "Who signed off on that AI agent? Nobody? Thought so."
-  },
-  "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/": {
-    "ts": "2026-09-22T21:55:23.553752+00:00",
-    "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts"
-  },
-  "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html": {
-    "ts": "2026-09-22T21:55:23.553769+00:00",
-    "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory"
-  },
-  "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html": {
-    "ts": "2026-09-22T21:55:23.647685+00:00",
-    "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE"
-  },
-  "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html": {
-    "ts": "2026-09-22T21:55:23.756739+00:00",
-    "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal"
-  },
   "https://asec.ahnlab.com/en/95545/": {
     "ts": "2026-09-23T05:40:33.239838+00:00",
     "title": "Ransom & Dark Web Issues Week 4, September 2026"
@@ -21826,5 +21594,125 @@
   "https://www.theregister.com/os-platforms/2026/11/17/windows-11-previews-remote-padlock-only-it-can-open/5310402": {
     "ts": "2026-11-21T17:15:27.785312+00:00",
     "title": "Windows 11 previews remote padlock only IT can open"
+  },
+  "https://www.group-ib.com/blog/log4shell/": {
+    "ts": "2026-11-21T22:55:38.443031+00:00",
+    "title": "Mitigating Log4Shell in Log4j with Group-IB"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/": {
+    "ts": "2026-11-21T22:57:13.304365+00:00",
+    "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data"
+  },
+  "https://blog.eclecticiq.com/intelligence-center-3.9": {
+    "ts": "2026-11-21T22:57:13.304380+00:00",
+    "title": "Intelligence Center 3.9: More AI provider choice, MITRE ATT&CK v19.1 support, and more"
+  },
+  "https://www.group-ib.com/blog/fake-delivery-scams-singapore/": {
+    "ts": "2026-11-21T22:57:13.423343+00:00",
+    "title": "Empty Box"
+  },
+  "https://securityaffairs.com/203680/hacking/cyberattack-on-austrian-foreign-ministry-exposes-diplomatic-staff-data.html": {
+    "ts": "2026-11-21T22:57:13.423359+00:00",
+    "title": "Cyberattack on Austrian Foreign Ministry Exposes Diplomatic Staff Data"
+  },
+  "https://thehackernews.com/2026/11/everything-is-web-application-including.html": {
+    "ts": "2026-11-21T22:57:13.530558+00:00",
+    "title": "Everything Is a Web Application, Including Your Firewall"
+  },
+  "https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197": {
+    "ts": "2026-11-21T22:57:13.530572+00:00",
+    "title": "'Not rocket surgery' claims researcher who found six Danfoss fridge controller zero-days in under an hour"
+  },
+  "https://www.welivesecurity.com/en/business-security/smb-cybersecurity-squeeze-ai-agents-work-old-attacks-overdrive/": {
+    "ts": "2026-11-21T22:57:13.530577+00:00",
+    "title": "The SMB cybersecurity squeeze: AI agents at work, old attacks in overdrive"
+  },
+  "https://threats.wiz.io/all-incidents/unc5820-exploiting-fortimanager-flaw": {
+    "ts": "2026-11-21T22:57:13.633878+00:00",
+    "title": "UNC5820 exploiting FortiManager flaw (Campaign)"
+  },
+  "https://www.group-ib.com/blog/assetzero/": {
+    "ts": "2026-11-21T22:57:13.633891+00:00",
+    "title": "Lost & Found: Group-IB Unveils Attack Surface Management (ex. AssetZero)"
+  },
+  "https://securityaffairs.com/203664/ai/cairn-ai-framework-used-in-autonomous-zero-day-exploitation.html": {
+    "ts": "2026-11-21T22:57:13.731406+00:00",
+    "title": "Cairn AI Framework Used in Autonomous Zero-Day Exploitation"
+  },
+  "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html": {
+    "ts": "2026-11-21T22:57:13.842389+00:00",
+    "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle"
+  },
+  "https://www.theregister.com/security/2026/11/16/noisytcp-bug-gives-linux-servers-a-remote-crash-problem-11-years-in-the-making/5310144": {
+    "ts": "2026-11-21T22:57:13.939897+00:00",
+    "title": "NoisyTCP bug gives Linux servers a remote crash problem 11 years in the making"
+  },
+  "https://threats.wiz.io/all-incidents/prometei-campaign": {
+    "ts": "2026-11-21T22:57:14.041281+00:00",
+    "title": "Prometei campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/5-ransomware-tips/": {
+    "ts": "2026-11-21T22:57:14.152135+00:00",
+    "title": "Top 5 recommendations for preventing ransomware for 2022"
+  },
+  "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html": {
+    "ts": "2026-11-21T22:57:14.262301+00:00",
+    "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks"
+  },
+  "https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139": {
+    "ts": "2026-11-21T22:57:14.262315+00:00",
+    "title": "Ubuntu gets AI-generated security fixes for those feeling brave"
+  },
+  "https://threats.wiz.io/all-incidents/triad-nexus-funnull-malicious-campaign": {
+    "ts": "2026-11-21T22:57:14.378948+00:00",
+    "title": "Triad Nexus: Funnull malicious campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/atmosphere/": {
+    "ts": "2026-11-21T22:57:14.378961+00:00",
+    "title": "Cleaning the atmosphere"
+  },
+  "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html": {
+    "ts": "2026-11-21T22:57:14.378966+00:00",
+    "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19"
+  },
+  "https://www.theregister.com/security/2026/11/16/crook-turns-learnworlds-free-trials-into-phishing-factory-sends-13000-fake-youtube-copyright-notices/5310122": {
+    "ts": "2026-11-21T22:57:14.378969+00:00",
+    "title": "Crook turns LearnWorlds' free trials into phishing factory, sends 13,000 fake YouTube copyright notices"
+  },
+  "https://threats.wiz.io/all-incidents/perfctl-campaign-targeting-docker-api": {
+    "ts": "2026-11-21T22:57:14.476548+00:00",
+    "title": "perfctl campaign targeting Docker API (Campaign)"
+  },
+  "https://www.group-ib.com/blog/ml-in-investigations/": {
+    "ts": "2026-11-21T22:57:14.595605+00:00",
+    "title": "Shedding light on the dark web"
+  },
+  "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html": {
+    "ts": "2026-11-21T22:57:14.704583+00:00",
+    "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks"
+  },
+  "https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094": {
+    "ts": "2026-11-21T22:57:14.811762+00:00",
+    "title": "US allies deepen deal to guard AI supply chains against 'hostile actors' (cough, China, cough)"
+  },
+  "https://threats.wiz.io/all-incidents/ea-cross-user-access-via-api": {
+    "ts": "2026-11-21T22:57:14.908472+00:00",
+    "title": "EA cross-user access via API (Research)"
+  },
+  "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html": {
+    "ts": "2026-11-21T22:57:15.011770+00:00",
+    "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years"
+  },
+  "https://www.theregister.com/security/2026/11/16/partner-content-has-ais-black-october-changed-the-way-you-secure-your-code/5309775": {
+    "ts": "2026-11-21T22:57:15.011781+00:00",
+    "title": "Has AI\u2019s \u2018Black October\u2019 changed the way you secure your code?"
+  },
+  "https://threats.wiz.io/all-incidents/earth-simnavaz-apt34-targeting-uae-and-gulf-regions": {
+    "ts": "2026-11-21T22:57:15.124368+00:00",
+    "title": "Earth Simnavaz (APT34) Targeting UAE and Gulf Regions (Campaign)"
+  },
+  "https://www.group-ib.com/blog/tia-mitre/": {
+    "ts": "2026-11-21T22:57:15.124382+00:00",
+    "title": "How MITRE ATT&CK\u00ae helps users of Threat Intelligence"
   }
 }

@@ -44,6 +44,46 @@
       "category": "new_technique",
       "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
       "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"
+    },
+    {
+      "category": "malware_android",
+      "title": "Empty Box",
+      "url": "https://www.group-ib.com/blog/fake-delivery-scams-singapore/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Everything Is a Web Application, Including Your Firewall",
+      "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "UNC5820 exploiting FortiManager flaw (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/unc5820-exploiting-fortimanager-flaw"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Cairn AI Framework Used in Autonomous Zero-Day Exploitation",
+      "url": "https://securityaffairs.com/203664/ai/cairn-ai-framework-used-in-autonomous-zero-day-exploitation.html"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Triad Nexus: Funnull malicious campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/triad-nexus-funnull-malicious-campaign"
+    },
+    {
+      "category": "new_technique",
+      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+      "url": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Earth Simnavaz (APT34) Targeting UAE and Gulf Regions (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/earth-simnavaz-apt34-targeting-uae-and-gulf-regions"
     }
   ],
   "last_sent_date": "2026-11-21"
