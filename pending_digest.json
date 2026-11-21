@@ -49,6 +49,36 @@
       "category": "malware_android",
       "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
       "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day"
+    },
+    {
+      "category": "threat_actor",
+      "title": "APT41 World Tour 2021 on a tight schedule",
+      "url": "https://www.group-ib.com/blog/apt41-world-tour-2021/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "Earth Kasha\u2019s Campaign Exploiting Fortinet Vulnerability (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/earth-kashas-campaign-exploiting-fortinet-vulnerability"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Vidar Adds Virtual Machine and Custom Stream Ciphers For String Obfuscation",
+      "url": "https://www.zscaler.com/blogs/security-research/vidar-adds-virtual-machine-and-custom-stream-ciphers-string-obfuscation"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Switching side jobs",
+      "url": "https://www.group-ib.com/blog/switching-side-jobs/"
+    },
+    {
+      "category": "new_technique",
+      "title": "RCE Vulnerability in PAN-OS Exploited in-the-Wild (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/rce-vulnerability-in-pan-os-exploited-in-the-wild"
     }
   ],
   "last_sent_date": "2026-11-20"

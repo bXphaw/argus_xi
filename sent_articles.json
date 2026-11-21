@@ -1,192 +1,4 @@
 {
-  "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/": {
-    "ts": "2026-09-21T20:53:31.953911+00:00",
-    "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach"
-  },
-  "https://cybersecuritynews.com/payload-ransomware-hijacks-active-directory/": {
-    "ts": "2026-09-21T20:53:42.306276+00:00",
-    "title": "PAYLOAD Ransomware Hijacks Active Directory GPO to Disrupt Entire Windows Domain Without Encryption"
-  },
-  "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html": {
-    "ts": "2026-09-21T20:53:44.772731+00:00",
-    "title": "Google Fined \u20ac403 Million Over GDPR Violations Tied to Location Data"
-  },
-  "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/": {
-    "ts": "2026-09-21T20:55:06.440097+00:00",
-    "title": "CISA alerts of active exploitation of three Linux kernel flaws"
-  },
-  "https://cybersecuritynews.com/entra-id-sms-sign-in-retirement/": {
-    "ts": "2026-09-21T20:55:06.440118+00:00",
-    "title": "Microsoft Entra ID to Block SMS First-Factor Sign-Ins Worldwide in February 2027"
-  },
-  "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims": {
-    "ts": "2026-09-21T20:55:06.544692+00:00",
-    "title": "ShinyHunters Hacked Clop. Now What About Clop's Victims?"
-  },
-  "https://gbhackers.com/new-rapuncel-infostealer-abuses-microsoft-signed-driver/": {
-    "ts": "2026-09-21T20:55:06.640571+00:00",
-    "title": "New Rapuncel Infostealer Abuses Microsoft-Signed Driver to Disable 145 Security Tools"
-  },
-  "https://www.helpnetsecurity.com/2026/09/21/fake-police-federal-agents-scams/": {
-    "ts": "2026-09-21T20:55:06.640593+00:00",
-    "title": "Scammers impersonate cops, use arrest threats to extort victims"
-  },
-  "https://securityaffairs.com/199480/ics-scada/foreign-hackers-target-two-colorado-water-utilities.html": {
-    "ts": "2026-09-21T20:55:06.739733+00:00",
-    "title": "Foreign Hackers Target Two Colorado Water Utilities"
-  },
-  "https://cyberinsurancenews.org/preemptive-threat-intelligence-silent-push-api/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=silent-push-now-sells-its-data-to-other-vendors-the-insurance-case-is-still-a-forecast": {
-    "ts": "2026-09-21T20:55:06.841129+00:00",
-    "title": "Silent Push Now Sells Its Data To Other Vendors. The Insurance Case Is Still A Forecast."
-  },
-  "https://socradar.io/blog/cve-2026-91843-check-point-root-rce/": {
-    "ts": "2026-09-21T20:55:06.944402+00:00",
-    "title": "CVE-2026-91843: Check Point Root RCE"
-  },
-  "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html": {
-    "ts": "2026-09-21T20:55:07.046490+00:00",
-    "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR"
-  },
-  "https://www.theregister.com/ai-and-ml/2026/09/21/meta-muse-ai-app-flaw-lets-local-malware-redirect-dictation-traffic/5297980": {
-    "ts": "2026-09-21T20:55:07.148372+00:00",
-    "title": "Meta Muse AI app flaw lets local malware redirect dictation traffic"
-  },
-  "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/": {
-    "ts": "2026-09-21T20:55:07.251547+00:00",
-    "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server"
-  },
-  "https://cybersecuritynews.com/microsoft-teams-calling-issue/": {
-    "ts": "2026-09-21T20:55:07.251567+00:00",
-    "title": "Microsoft Investigating Teams Calling Issue Blocking Users From Making or Receiving Calls"
-  },
-  "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films": {
-    "ts": "2026-09-21T20:55:07.366794+00:00",
-    "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films"
-  },
-  "https://gbhackers.com/bigdiskbuster-windows-defender-dos-vulnerability/": {
-    "ts": "2026-09-21T20:55:07.467927+00:00",
-    "title": "BigDiskBuster Windows Defender DoS Vulnerability Blocks Platform and Signature Updates"
-  },
-  "https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/": {
-    "ts": "2026-09-21T20:55:07.564238+00:00",
-    "title": "RatHat Android Trojan Uses AI for Automation"
-  },
-  "https://www.channelinsider.com/channel-business/channel-careers/july-2026-leadership-recap-part-2/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=july-2026-leadership-recap-part-2-more-moves-across-the-channel": {
-    "ts": "2026-09-21T20:55:07.667702+00:00",
-    "title": "July 2026 Leadership Recap Part 2: More Moves Across the Channel"
-  },
-  "https://thehackernews.com/2026/09/contagious-interview-campaign.html": {
-    "ts": "2026-09-21T20:55:07.769128+00:00",
-    "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto"
-  },
-  "https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965": {
-    "ts": "2026-09-21T20:55:07.870658+00:00",
-    "title": "Treasury chief says AI bosses, not their bots, will carry the can for criminal acts"
-  },
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/": {
-    "ts": "2026-09-21T20:55:07.978616+00:00",
-    "title": "Microsoft to retire Microsoft 365 Companion apps in December"
-  },
-  "https://gbhackers.com/hangro-vpn-exposure/": {
-    "ts": "2026-09-21T20:55:08.085227+00:00",
-    "title": "North Korea\u2019s Hangro VPN Certificate Exposes Internal Network and Russia-Linked Infrastructure"
-  },
-  "https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/": {
-    "ts": "2026-09-21T20:55:08.191647+00:00",
-    "title": "Rust Team Members and Popular Crate Owners Targeted via Video Calls"
-  },
-  "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=researchers-built-a-fake-crypto-startup-and-hired-three-suspected-north-korean-it-workers": {
-    "ts": "2026-09-21T20:55:08.287407+00:00",
-    "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers"
-  },
-  "https://www.theregister.com/cyber-crime/2026/09/21/clop-gets-a-taste-of-its-own-medicine-after-shinyhunters-hijack-leak-site/5297702": {
-    "ts": "2026-09-21T20:55:08.287427+00:00",
-    "title": "Clop gets a taste of its own medicine after ShinyHunters hijack leak site"
-  },
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/": {
-    "ts": "2026-09-21T20:55:08.287431+00:00",
-    "title": "Microsoft reminds admins to migrate Entra ID users to passkeys"
-  },
-  "https://cybersecuritynews.com/malicious-npm-package/": {
-    "ts": "2026-09-21T20:55:08.396070+00:00",
-    "title": "Malicious npm Package With 2 Million Downloads Hides Malware in Runtime Code"
-  },
-  "https://gbhackers.com/hackers-abuse-microsoft-teams/": {
-    "ts": "2026-09-21T20:55:08.492823+00:00",
-    "title": "Hackers Abuse Microsoft Teams to Pose as IT Support and Steal Employee Passwords"
-  },
-  "https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/": {
-    "ts": "2026-09-21T20:55:08.492841+00:00",
-    "title": "CrowdSec Confirms Source Code Stolen in Supply Chain Attack"
-  },
-  "https://securityaffairs.com/199494/laws-and-regulations/google-fined-e403-million-over-location-data-practices.html": {
-    "ts": "2026-09-21T23:56:26.783121+00:00",
-    "title": "Google Fined \u20ac403 Million Over Location Data Practices"
-  },
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/": {
-    "ts": "2026-09-21T23:56:29.361830+00:00",
-    "title": "Microsoft: September updates break File History backup feature"
-  },
-  "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/": {
-    "ts": "2026-09-21T23:57:15.405556+00:00",
-    "title": "BigCommerce alerts merchants of data breach linked to Ribon apps"
-  },
-  "https://research.checkpoint.com/2026/21st-september-threat-intelligence-report/": {
-    "ts": "2026-09-21T23:57:15.534438+00:00",
-    "title": "21st September \u2013 Threat Intelligence Report"
-  },
-  "https://cybersecuritynews.com/windows-updates-breaks-file-history-backup/": {
-    "ts": "2026-09-21T23:57:15.534457+00:00",
-    "title": "Microsoft Confirms September 2026 Windows Updates Break File History Backups"
-  },
-  "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs": {
-    "ts": "2026-09-21T23:57:15.534461+00:00",
-    "title": "How AI Agents Can Trigger Runaway Costs for Enterprises"
-  },
-  "https://gbhackers.com/new-cache-key-injection-attack/": {
-    "ts": "2026-09-21T23:57:15.629492+00:00",
-    "title": "New Cache Key Injection Attack Lets Hackers Bypass Access Controls and Poison Nginx Caches"
-  },
-  "https://www.corporatecomplianceinsights.com/grc-news-roundup-deloitte-onspring-bloomberg-lexisnexis-more/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=grc-news-roundup-deloitte-onspring-bloomberg-lexisnexis-more": {
-    "ts": "2026-09-21T23:57:15.724634+00:00",
-    "title": "GRC News Roundup: Deloitte, Onspring, Bloomberg, LexisNexis & More"
-  },
-  "https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018": {
-    "ts": "2026-09-21T23:57:15.820114+00:00",
-    "title": "Anthropic-linked CVEs pile up, attackers mostly shrug"
-  },
-  "https://www.volexity.com/blog/2026/09/21/mind-the-patch-gap-part-2-fake-websites-used-to-deploy-chrome-windows-0-day-exploits/": {
-    "ts": "2026-09-21T23:57:15.922135+00:00",
-    "title": "Mind the (Patch) Gap, Part 2: Fake Websites Used to Deploy Chrome & Windows 0-Day Exploits"
-  },
-  "https://cybersecuritynews.com/chatgpt-ad-tracking-cookie-follows-users/": {
-    "ts": "2026-09-21T23:57:16.023424+00:00",
-    "title": "ChatGPT Ad Tracking Cookie Follows Users Across Third-Party Advertiser Websites"
-  },
-  "https://gbhackers.com/terraform-lock-files/": {
-    "ts": "2026-09-21T23:57:16.126328+00:00",
-    "title": "Hackers Weaponize Terraform Lock Files to Infect DevOps Engineers With macOS Backdoors"
-  },
-  "https://cyberinsurancenews.org/water-utility-cyber-insurance-alarm-attacks/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=hackers-silenced-the-water-alarms-insurers-are-being-asked-to-fix-it": {
-    "ts": "2026-09-21T23:57:16.223660+00:00",
-    "title": "Hackers Silenced The Water Alarms. Insurers Are Being Asked To Fix It"
-  },
-  "https://www.theregister.com/security/2026/09/21/rustaceans-warned-of-job-interviews-with-a-malicious-payload/5297690": {
-    "ts": "2026-09-21T23:57:16.223704+00:00",
-    "title": "Rustaceans warned of job interviews with a malicious payload"
-  },
-  "https://cybersecuritynews.com/leaky-tls-certificate/": {
-    "ts": "2026-09-21T23:57:16.323342+00:00",
-    "title": "Leaky TLS Certificate Exposes North Korea\u2019s Hangro VPN Infrastructure Across Two Countries"
-  },
-  "https://gbhackers.com/heif-heist-image-flaws/": {
-    "ts": "2026-09-21T23:57:16.454931+00:00",
-    "title": "HEIF Heist Image Flaws Let Attackers Gain RCE Across Meta, Slack and GitHub Enterprise"
-  },
-  "https://digitalitnews.com/silent-push-expands-first-party-infrastructure-intelligence/#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=silent-push-expands-first-party-infrastructure-intelligence": {
-    "ts": "2026-09-21T23:57:16.454950+00:00",
-    "title": "Silent Push Expands First-Party Infrastructure Intelligence"
-  },
   "https://cybersecuritynews.com/metas-muse-ai-agent-0-day-vulnerability/": {
     "ts": "2026-09-22T04:11:10.633972+00:00",
     "title": "Meta\u2019s Muse AI Agent 0-Day Vulnerability Allows Attackers to Hijack the Tool and Inject Malware"
@@ -21850,5 +21662,125 @@
   "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html": {
     "ts": "2026-11-20T19:49:47.434511+00:00",
     "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control"
+  },
+  "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/": {
+    "ts": "2026-11-21T01:14:40.382346+00:00",
+    "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day": {
+    "ts": "2026-11-21T01:14:40.630553+00:00",
+    "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day"
+  },
+  "https://www.group-ib.com/blog/apt41-world-tour-2021/": {
+    "ts": "2026-11-21T01:14:40.897709+00:00",
+    "title": "APT41 World Tour 2021 on a tight schedule"
+  },
+  "https://www.helpnetsecurity.com/2026/11/20/security-dashboards-tips-video/": {
+    "ts": "2026-11-21T01:14:40.897732+00:00",
+    "title": "It\u2019s time to retire vanity security dashboards"
+  },
+  "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/": {
+    "ts": "2026-11-21T01:14:40.897735+00:00",
+    "title": "CTO of \u2018RansomwareHelp\u2019 Indicted for Wire Fraud"
+  },
+  "https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/": {
+    "ts": "2026-11-21T01:14:41.132818+00:00",
+    "title": "Dialing for Data: Inside the Com\u2019s High-Profile Heists"
+  },
+  "https://www.recordedfuture.com/blog/ai-industrial-attack-workflow": {
+    "ts": "2026-11-21T01:14:41.369606+00:00",
+    "title": "AI Joins the Industrial Attack Workflow"
+  },
+  "https://securityaffairs.com/203622/security/cve-2026-23871-whatsapp-bug-helped-scammers-make-messages-look-legitimate.html": {
+    "ts": "2026-11-21T01:14:41.605316+00:00",
+    "title": "CVE-2026-23871: WhatsApp Bug Helped Scammers Make Messages Look Legitimate"
+  },
+  "https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/": {
+    "ts": "2026-11-21T01:14:41.866737+00:00",
+    "title": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday"
+  },
+  "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html": {
+    "ts": "2026-11-21T01:14:42.143159+00:00",
+    "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts"
+  },
+  "https://www.theregister.com/devops/2026/11/20/php-86-things-are-gonna-get-a-lot-more-strict-around-here/5311486": {
+    "ts": "2026-11-21T01:14:42.143180+00:00",
+    "title": "PHP 8.6: Things are gonna get a lot more strict around here"
+  },
+  "https://threats.wiz.io/all-incidents/earth-kashas-campaign-exploiting-fortinet-vulnerability": {
+    "ts": "2026-11-21T01:14:42.405088+00:00",
+    "title": "Earth Kasha\u2019s Campaign Exploiting Fortinet Vulnerability (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/vidar-adds-virtual-machine-and-custom-stream-ciphers-string-obfuscation": {
+    "ts": "2026-11-21T01:14:42.644622+00:00",
+    "title": "Vidar Adds Virtual Machine and Custom Stream Ciphers For String Obfuscation"
+  },
+  "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/": {
+    "ts": "2026-11-21T01:14:42.644641+00:00",
+    "title": "Still tracking company passwords in spreadsheets? You\u2019re flying blind."
+  },
+  "https://www.group-ib.com/blog/switching-side-jobs/": {
+    "ts": "2026-11-21T01:14:42.909671+00:00",
+    "title": "Switching side jobs"
+  },
+  "https://www.helpnetsecurity.com/2026/11/20/ai-agent-api-security-production/": {
+    "ts": "2026-11-21T01:14:42.909694+00:00",
+    "title": "AI agent API security hasn\u2019t caught up with agents already running in production"
+  },
+  "https://securityaffairs.com/203581/intelligence/trumps-first-move-after-the-outages-fire-the-cyber-director.html": {
+    "ts": "2026-11-21T01:14:42.909697+00:00",
+    "title": "Trump\u2019s First Move After the Outages: Fire the Cyber Director"
+  },
+  "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/": {
+    "ts": "2026-11-21T01:14:42.909699+00:00",
+    "title": "SBC Medical Group Data Breach Impacts Over 2 Million"
+  },
+  "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html": {
+    "ts": "2026-11-21T01:14:42.909702+00:00",
+    "title": "The Path to AI Autonomy in the SOC"
+  },
+  "https://www.theregister.com/cyber-crime/2026/11/20/visa-mastercard-theft-included-info-useful-for-phishing-but-not-draining-bank-accounts-say-researchers/5311478": {
+    "ts": "2026-11-21T01:14:42.909704+00:00",
+    "title": "Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers"
+  },
+  "https://threats.wiz.io/all-incidents/brazenbamboo-weaponizes-forticlient-vulnerability-to-steal-credentials": {
+    "ts": "2026-11-21T01:14:43.174492+00:00",
+    "title": "BrazenBamboo Weaponizes FortiClient Vulnerability to Steal Credentials (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/": {
+    "ts": "2026-11-21T01:14:43.432551+00:00",
+    "title": "N-able says recent security breach led to major service outage"
+  },
+  "https://www.group-ib.com/blog/malibot/": {
+    "ts": "2026-11-21T01:14:43.670787+00:00",
+    "title": "Challenge accepted"
+  },
+  "https://www.helpnetsecurity.com/2026/11/20/network-outage-recovery-resilience/": {
+    "ts": "2026-11-21T01:14:43.933931+00:00",
+    "title": "Most CIOs and CISOs expect to contain attacks, though few can reach their gear right away"
+  },
+  "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/": {
+    "ts": "2026-11-21T01:14:44.192640+00:00",
+    "title": "N-able Blames Service Disruption on Cyberattack"
+  },
+  "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html": {
+    "ts": "2026-11-21T01:14:44.192662+00:00",
+    "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws"
+  },
+  "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466": {
+    "ts": "2026-11-21T01:14:44.192665+00:00",
+    "title": "Signal slams door on prying AI agents to protect privacy"
+  },
+  "https://threats.wiz.io/all-incidents/rce-vulnerability-in-pan-os-exploited-in-the-wild": {
+    "ts": "2026-11-21T01:14:44.430728+00:00",
+    "title": "RCE Vulnerability in PAN-OS Exploited in-the-Wild (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/": {
+    "ts": "2026-11-21T01:14:44.430751+00:00",
+    "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices"
+  },
+  "https://www.group-ib.com/blog/investment-scams-europe/": {
+    "ts": "2026-11-21T01:14:44.430754+00:00",
+    "title": "Fake investment scams in Europe"
   }
 }
