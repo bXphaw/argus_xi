@@ -1,52 +1,4 @@
 {
-  "https://asec.ahnlab.com/en/95545/": {
-    "ts": "2026-09-23T05:40:33.239838+00:00",
-    "title": "Ransom & Dark Web Issues Week 4, September 2026"
-  },
-  "https://cybersecuritynews.com/f5-big-ip-oauth-server-0-day-flaw/": {
-    "ts": "2026-09-23T05:40:33.380513+00:00",
-    "title": "Hackers Exploiting F5 BIG-IP OAuth Server 0-day Flaw to Gain Remote Code Execution"
-  },
-  "https://gbhackers.com/hackers-exploit-check-point-0-day-flaw/": {
-    "ts": "2026-09-23T05:40:33.476028+00:00",
-    "title": "Hackers Exploit Check Point 0-Day Flaw to Execute Code on Management Servers"
-  },
-  "https://www.helpnetsecurity.com/2026/09/23/prismor-open-source-ai-agent-security/": {
-    "ts": "2026-09-23T05:40:33.476050+00:00",
-    "title": "Prismor: Open-source runtime control plane for AI agents"
-  },
-  "https://cybersecuritynews.com/shinyhunters-allegedly-claims-fbi-breach/": {
-    "ts": "2026-09-23T05:40:33.575421+00:00",
-    "title": "ShinyHunters Allegedly Claims Breach of FBI Jobs Site and Stolen Agents\u2019 Data"
-  },
-  "https://gbhackers.com/stealthy-wordpress-malware/": {
-    "ts": "2026-09-23T05:40:33.575442+00:00",
-    "title": "Stealthy WordPress Malware Uses Must-Use Plugin and Ethereum EtherHiding for Persistent Backdoor Access"
-  },
-  "https://www.helpnetsecurity.com/2026/09/23/product-showcase-savi-scamwise/": {
-    "ts": "2026-09-23T05:40:33.575446+00:00",
-    "title": "Product showcase: Scamwise checks the red flags before you take the bait"
-  },
-  "https://gbhackers.com/shinyhunters-claims-fbi-breach-exposed-data/": {
-    "ts": "2026-09-23T05:40:33.671424+00:00",
-    "title": "ShinyHunters Claims FBI Breach Exposed Data of All Employees and Applicants"
-  },
-  "https://www.helpnetsecurity.com/2026/09/23/datadome-growing-bad-bot-traffic-report/": {
-    "ts": "2026-09-23T05:40:33.671446+00:00",
-    "title": "Nearly two-thirds of tested websites fail every bot test"
-  },
-  "https://gbhackers.com/critical-f5-big-ip-apm-flaw/": {
-    "ts": "2026-09-23T05:40:33.764649+00:00",
-    "title": "Critical F5 BIG-IP APM Flaw Actively Exploited for Remote Code Execution"
-  },
-  "https://www.helpnetsecurity.com/2026/09/23/rabbit-os3-ai-agent-now-available/": {
-    "ts": "2026-09-23T05:40:33.764670+00:00",
-    "title": "Rabbit\u2019s new OS lives in the cloud and borrows your laptop to get things done"
-  },
-  "https://www.helpnetsecurity.com/2026/09/23/netbsd-10-2-security-fixes-released/": {
-    "ts": "2026-09-23T05:40:33.764674+00:00",
-    "title": "NetBSD 10.2 security fixes close a remote kernel bug in ipfilter"
-  },
   "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/": {
     "ts": "2026-09-23T11:07:59.687204+00:00",
     "title": "Ryuk ransomware member sentenced to 24 months in prison"
@@ -21834,5 +21786,125 @@
   "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html": {
     "ts": "2026-11-22T02:56:33.380851+00:00",
     "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors"
+  },
+  "https://threats.wiz.io/all-incidents/storm-0501-attacking-hybrid-environments-with-ransomware": {
+    "ts": "2026-11-22T10:54:53.442472+00:00",
+    "title": "Storm-0501 attacking hybrid environments with ransomware (Campaign)"
+  },
+  "https://www.group-ib.com/blog/gib-tia-db/": {
+    "ts": "2026-11-22T10:54:55.473459+00:00",
+    "title": "Under the hood. Group-IB Threat Intelligence. Part 1"
+  },
+  "https://threats.wiz.io/all-incidents/scattered-spider-targeting-azure-environment": {
+    "ts": "2026-11-22T10:54:58.907068+00:00",
+    "title": "Scattered Spider targeting Azure environment (Incident)"
+  },
+  "https://www.group-ib.com/blog/blackmatter-ransomware/": {
+    "ts": "2026-11-22T10:56:39.425752+00:00",
+    "title": "It\u2019s alive!"
+  },
+  "https://www.helpnetsecurity.com/2026/11/22/week-in-review-java4shell-proves-tricky-to-exploit-malware-planted-via-optimizely-hits-178-orgs/": {
+    "ts": "2026-11-22T10:56:39.425768+00:00",
+    "title": "Week in review: Java4Shell proves tricky to exploit, malware planted via Optimizely hits 178 orgs"
+  },
+  "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html": {
+    "ts": "2026-11-22T10:56:39.425772+00:00",
+    "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms"
+  },
+  "https://threats.wiz.io/all-incidents/storm-0501-targeting-hybrid-environments-with-ransomware": {
+    "ts": "2026-11-22T10:56:39.507769+00:00",
+    "title": "Storm-0501 Targeting Hybrid Environments with Ransomware (Campaign)"
+  },
+  "https://www.group-ib.com/blog/prometheus-tds/": {
+    "ts": "2026-11-22T10:56:39.507783+00:00",
+    "title": "Prometheus TDS"
+  },
+  "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html": {
+    "ts": "2026-11-22T10:56:39.591079+00:00",
+    "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps"
+  },
+  "https://www.group-ib.com/blog/task/": {
+    "ts": "2026-11-22T10:56:39.673759+00:00",
+    "title": "The Art of Cyberwarfare"
+  },
+  "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html": {
+    "ts": "2026-11-22T10:56:39.754028+00:00",
+    "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems"
+  },
+  "https://threats.wiz.io/all-incidents/docker-swarm-and-k8s-cryptojacking-campaign": {
+    "ts": "2026-11-22T10:56:39.841018+00:00",
+    "title": "Docker Swarm and K8s cryptojacking campaign (Campaign)"
+  },
+  "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html": {
+    "ts": "2026-11-22T10:56:39.922395+00:00",
+    "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners"
+  },
+  "https://threats.wiz.io/all-incidents/unc1860-attacks-targeting-the-middle-east": {
+    "ts": "2026-11-22T10:56:40.011558+00:00",
+    "title": "UNC1860 Attacks Targeting the Middle East (Campaign)"
+  },
+  "https://www.group-ib.com/blog/fraud-family-nl/": {
+    "ts": "2026-11-22T10:56:40.011573+00:00",
+    "title": "The Fraud Family"
+  },
+  "https://threats.wiz.io/all-incidents/scattered-spider-targeting-gcp-environment": {
+    "ts": "2026-11-22T10:56:40.091252+00:00",
+    "title": "Scattered Spider targeting GCP environment (Incident)"
+  },
+  "https://www.group-ib.com/blog/grimagent/": {
+    "ts": "2026-11-22T10:56:40.179183+00:00",
+    "title": "The Brothers Grim"
+  },
+  "https://www.group-ib.com/blog/revil-raas/": {
+    "ts": "2026-11-22T10:56:40.261561+00:00",
+    "title": "REvil Twins: Ransomware-as-a-Service program"
+  },
+  "https://threats.wiz.io/all-incidents/github-pat-leakage-leading-to-rds-database-exfiltration": {
+    "ts": "2026-11-22T10:56:40.349555+00:00",
+    "title": "GitHub PAT leakage leading to RDS Database exfiltration (Incident)"
+  },
+  "https://www.group-ib.com/blog/colunmtk-apt41/": {
+    "ts": "2026-11-22T10:56:40.430831+00:00",
+    "title": "Big airline heist"
+  },
+  "https://threats.wiz.io/all-incidents/fortinet-sharepoint-data-leak": {
+    "ts": "2026-11-22T10:56:40.518521+00:00",
+    "title": "Fortinet Sharepoint data leak (Incident)"
+  },
+  "https://www.group-ib.com/blog/fontpack/": {
+    "ts": "2026-11-22T10:56:40.608385+00:00",
+    "title": "FontPack: A dangerous update"
+  },
+  "https://threats.wiz.io/all-incidents/campaign-targeting-selenium-grid-for-cryptomining": {
+    "ts": "2026-11-22T10:56:40.690485+00:00",
+    "title": "Campaign targeting Selenium Grid for cryptomining (Campaign)"
+  },
+  "https://www.group-ib.com/blog/blackcat/": {
+    "ts": "2026-11-22T10:56:40.778015+00:00",
+    "title": "BlackCat Ransomware: Tactics, Techniques & Mitigation Strategies"
+  },
+  "https://threats.wiz.io/all-incidents/hadooken-malware-targeting-weblogic-servers": {
+    "ts": "2026-11-22T10:56:40.862073+00:00",
+    "title": "Hadooken Malware Targeting Weblogic Servers (Campaign)"
+  },
+  "https://www.group-ib.com/blog/hancitor-cuba-ransomware/": {
+    "ts": "2026-11-22T10:56:40.948962+00:00",
+    "title": "Connecting the Bots"
+  },
+  "https://threats.wiz.io/all-incidents/dragonrank-targeting-iis-web-servers": {
+    "ts": "2026-11-22T10:56:41.037708+00:00",
+    "title": "DragonRank Targeting IIS Web Servers (Campaign)"
+  },
+  "https://www.group-ib.com/blog/grelosgtm/": {
+    "ts": "2026-11-22T10:56:41.037721+00:00",
+    "title": "GrelosGTM group abuses Google Tag Manager to attack e-commerce websites"
+  },
+  "https://threats.wiz.io/all-incidents/godzilla-backdoor-exploiting-confluence-vulnerability": {
+    "ts": "2026-11-22T10:56:41.124477+00:00",
+    "title": "Godzilla Backdoor Exploiting Confluence Vulnerability (Campaign)"
+  },
+  "https://www.group-ib.com/blog/btc-changer/": {
+    "ts": "2026-11-22T10:56:41.207466+00:00",
+    "title": "Lazarus BTC Changer"
   }
 }
