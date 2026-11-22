@@ -21714,5 +21714,125 @@
   "https://www.group-ib.com/blog/tia-mitre/": {
     "ts": "2026-11-21T22:57:15.124382+00:00",
     "title": "How MITRE ATT&CK\u00ae helps users of Threat Intelligence"
+  },
+  "https://threats.wiz.io/all-incidents/ref6138-campaign": {
+    "ts": "2026-11-22T02:54:58.981279+00:00",
+    "title": "REF6138 campaign (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/": {
+    "ts": "2026-11-22T02:56:31.567282+00:00",
+    "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets"
+  },
+  "https://cybersecuritynews.com/upload2shell-flaw/": {
+    "ts": "2026-11-22T02:56:31.567299+00:00",
+    "title": "Hackers Could Execute Commands on WordPress, Email and Print Servers Through Upload2Shell Flaw"
+  },
+  "https://www.group-ib.com/blog/target/": {
+    "ts": "2026-11-22T02:56:31.567303+00:00",
+    "title": "Ready-made fraud"
+  },
+  "https://www.recordedfuture.com/blog/agent-running-ai": {
+    "ts": "2026-11-22T02:56:31.567306+00:00",
+    "title": "Agent Running in the Age of AI"
+  },
+  "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/": {
+    "ts": "2026-11-22T02:56:31.567310+00:00",
+    "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says"
+  },
+  "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html": {
+    "ts": "2026-11-22T02:56:31.567313+00:00",
+    "title": "Quality Isn\u2019t The Main Worry About AI Pentesting \u2014 Data Privacy and Production Safety Are"
+  },
+  "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926": {
+    "ts": "2026-11-22T02:56:31.567316+00:00",
+    "title": "Google: AI agent turned a security patch into a working exploit with no human help"
+  },
+  "https://threats.wiz.io/all-incidents/game-freak-data-leak": {
+    "ts": "2026-11-22T02:56:31.567319+00:00",
+    "title": "Game Freak data leak (Incident)"
+  },
+  "https://cybersecuritynews.com/microsoft-entra-connect-health-flaw/": {
+    "ts": "2026-11-22T02:56:31.720886+00:00",
+    "title": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Organization Data"
+  },
+  "https://www.group-ib.com/blog/hive/": {
+    "ts": "2026-11-22T02:56:31.841414+00:00",
+    "title": "Inside the Hive"
+  },
+  "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/": {
+    "ts": "2026-11-22T02:56:31.963990+00:00",
+    "title": "President Trump Taps Kirsten Davies as National Cyber Director"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html": {
+    "ts": "2026-11-22T02:56:32.081468+00:00",
+    "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers"
+  },
+  "https://threats.wiz.io/all-incidents/apt29-targeting-zimbra-and-teamcity-servers": {
+    "ts": "2026-11-22T02:56:32.185546+00:00",
+    "title": "APT29 Targeting Zimbra and TeamCity Servers (Campaign)"
+  },
+  "https://www.group-ib.com/blog/blackmatter2/": {
+    "ts": "2026-11-22T02:56:32.306128+00:00",
+    "title": "The Darker Things"
+  },
+  "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html": {
+    "ts": "2026-11-22T02:56:32.412345+00:00",
+    "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution"
+  },
+  "https://threats.wiz.io/all-incidents/veeam-vulnerability-exploited-by-akira-and-fog-ransomware": {
+    "ts": "2026-11-22T02:56:32.521288+00:00",
+    "title": "Veeam Vulnerability Exploited by Akira and Fog Ransomware (Campaign)"
+  },
+  "https://www.group-ib.com/blog/cannibal-carders-fake-shops/": {
+    "ts": "2026-11-22T02:56:32.521302+00:00",
+    "title": "Cannibal Carders"
+  },
+  "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html": {
+    "ts": "2026-11-22T02:56:32.634720+00:00",
+    "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials"
+  },
+  "https://threats.wiz.io/all-incidents/llmjacking-for-roleplaying-campaign": {
+    "ts": "2026-11-22T02:56:32.745853+00:00",
+    "title": "LLMJacking for Roleplaying Campaign (Campaign)"
+  },
+  "https://www.group-ib.com/blog/middle-east-scam/": {
+    "ts": "2026-11-22T02:56:32.745867+00:00",
+    "title": "Scamdemic outbreak"
+  },
+  "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html": {
+    "ts": "2026-11-22T02:56:32.849465+00:00",
+    "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization"
+  },
+  "https://threats.wiz.io/all-incidents/perfctl-malware-targeting-linux": {
+    "ts": "2026-11-22T02:56:32.947605+00:00",
+    "title": "perfctl Malware Targeting Linux (Campaign)"
+  },
+  "https://www.group-ib.com/blog/runlir/": {
+    "ts": "2026-11-22T02:56:33.053848+00:00",
+    "title": "RUNLIR \u2013 phishing campaign targeting Netherlands"
+  },
+  "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html": {
+    "ts": "2026-11-22T02:56:33.158083+00:00",
+    "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels"
+  },
+  "https://threats.wiz.io/all-incidents/rackspace-incident-2024": {
+    "ts": "2026-11-22T02:56:33.269258+00:00",
+    "title": "Rackspace incident (2024) (Incident)"
+  },
+  "https://www.group-ib.com/blog/tailored-threat-intel/": {
+    "ts": "2026-11-22T02:56:33.269271+00:00",
+    "title": "Under the hood. Group-IB Threat Intelligence. Part 2"
+  },
+  "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html": {
+    "ts": "2026-11-22T02:56:33.269276+00:00",
+    "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks"
+  },
+  "https://www.group-ib.com/blog/awc/": {
+    "ts": "2026-11-22T02:56:33.269280+00:00",
+    "title": "Bold ad campaign"
+  },
+  "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html": {
+    "ts": "2026-11-22T02:56:33.380851+00:00",
+    "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors"
   }
 }

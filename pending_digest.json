@@ -84,6 +84,36 @@
       "category": "apt_campaign",
       "title": "Earth Simnavaz (APT34) Targeting UAE and Gulf Regions (Campaign)",
       "url": "https://threats.wiz.io/all-incidents/earth-simnavaz-apt34-targeting-uae-and-gulf-regions"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Organization Data",
+      "url": "https://cybersecuritynews.com/microsoft-entra-connect-health-flaw/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Inside the Hive",
+      "url": "https://www.group-ib.com/blog/hive/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Veeam Vulnerability Exploited by Akira and Fog Ransomware (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/veeam-vulnerability-exploited-by-akira-and-fog-ransomware"
+    },
+    {
+      "category": "malware_other",
+      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+      "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "LLMJacking for Roleplaying Campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/llmjacking-for-roleplaying-campaign"
+    },
+    {
+      "category": "malware_other",
+      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+      "url": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html"
     }
   ],
   "last_sent_date": "2026-11-21"
