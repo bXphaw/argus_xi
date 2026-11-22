@@ -1,244 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/": {
-    "ts": "2026-09-23T11:07:59.687204+00:00",
-    "title": "Ryuk ransomware member sentenced to 24 months in prison"
-  },
-  "https://cybersecuritynews.com/the-phishing-kit/": {
-    "ts": "2026-09-23T11:07:59.867620+00:00",
-    "title": "The Phishing Kit That Turned Microsoft\u2019s Login Flow Into an AI-Powered Fraud Machine"
-  },
-  "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks": {
-    "ts": "2026-09-23T11:07:59.867642+00:00",
-    "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks"
-  },
-  "https://gbhackers.com/eviltokens-ai-phishing/": {
-    "ts": "2026-09-23T11:08:00.001691+00:00",
-    "title": "Microsoft Warns of EvilTokens AI Phishing Service Hijacking Thousands of Accounts"
-  },
-  "https://www.group-ib.com/blog/remcontrol-android-banking-trojan/": {
-    "ts": "2026-09-23T11:08:00.128264+00:00",
-    "title": "RemControl: AI Built the Overlays. Victims Lose their PINs"
-  },
-  "https://www.helpnetsecurity.com/2026/09/23/check-point-f5-big-ip-apm-zero-days-targeted/": {
-    "ts": "2026-09-23T11:08:00.258408+00:00",
-    "title": "Attackers hit Check Point Management Servers and Spark firewalls, F5 BIG-IP APM instances"
-  },
-  "https://www.rapid7.com/blog/post/etr-cve-2026-94127-critical-unauthenticated-rce-in-f5-big-ip-apm": {
-    "ts": "2026-09-23T11:08:00.380429+00:00",
-    "title": "CVE-2026-94127: Critical Unauthenticated RCE in F5 BIG-IP APM"
-  },
-  "https://securityaffairs.com/199593/cyber-crime/eviltokens-made-phishing-as-a-service-look-easy-then-it-got-taken-down.html": {
-    "ts": "2026-09-23T11:08:00.512271+00:00",
-    "title": "EvilTokens made phishing-as-a-service look easy. Then it got taken down"
-  },
-  "https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/": {
-    "ts": "2026-09-23T11:08:00.627761+00:00",
-    "title": "Chrome 154 Patches 108 Vulnerabilities"
-  },
-  "https://www.sekoia.com/blog/soc-platform-evaluation-checklist-for-mssps-4-questions-to-ask": {
-    "ts": "2026-09-23T11:08:00.783147+00:00",
-    "title": "SOC Platform Evaluation Checklist for MSSPs: Key Questions for SOC Providers"
-  },
-  "https://socradar.io/blog/berlin-data-leak-rhysida-unresolved/": {
-    "ts": "2026-09-23T11:08:00.783184+00:00",
-    "title": "Berlin Data Leak: What Rhysida Published, and What Is Still Unresolved"
-  },
-  "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html": {
-    "ts": "2026-09-23T11:08:00.910453+00:00",
-    "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers"
-  },
-  "https://www.theregister.com/security/2026/09/23/sponsored-why-security-belongs-in-the-network/5296790": {
-    "ts": "2026-09-23T11:08:01.040823+00:00",
-    "title": "Why security belongs in the network"
-  },
-  "https://www.welivesecurity.com/en/kids-online/looking-for-free-robux-heres-whats-real-whats-scam/": {
-    "ts": "2026-09-23T11:08:01.177361+00:00",
-    "title": "Looking for free Robux? Here\u2019s what\u2019s real, and what\u2019s a scam"
-  },
-  "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/": {
-    "ts": "2026-09-23T11:08:01.303000+00:00",
-    "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks"
-  },
-  "https://cybersecuritynews.com/malware-hiding-in-developer-tools/": {
-    "ts": "2026-09-23T11:08:01.420117+00:00",
-    "title": "The Malware Hiding in Developer Tools That Turned Terraform Providers Into Attack Paths"
-  },
-  "https://gbhackers.com/graphalgo-malware/": {
-    "ts": "2026-09-23T11:08:01.543595+00:00",
-    "title": "Graphalgo Malware Uses Malicious Terraform Providers and Go Modules to Deploy RAT"
-  },
-  "https://www.helpnetsecurity.com/2026/09/23/gpt-6-sol-luna-lower-api-prices/": {
-    "ts": "2026-09-23T11:08:01.668384+00:00",
-    "title": "GPT-6 Sol and Luna arrive with 50% lower API prices"
-  },
-  "https://securityaffairs.com/199577/malware/fake-lastpass-on-github-led-to-an-infostealer-that-killed-145-security-tools.html": {
-    "ts": "2026-09-23T11:08:01.778405+00:00",
-    "title": "Fake LastPass on GitHub Led to an Infostealer That Killed 145 Security Tools"
-  },
-  "https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/": {
-    "ts": "2026-09-23T11:08:01.906844+00:00",
-    "title": "A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk"
-  },
-  "https://www.sekoia.com/blog/ai-in-the-soc-what-europes-new-framework-means-for-trust-and-tech-autonomy": {
-    "ts": "2026-09-23T11:08:01.906861+00:00",
-    "title": "AI in the SOC: EU AI Act and Technology Sovereignty"
-  },
-  "https://socradar.io/blog/operation-conflict-compass-konni-ukraine-lnk-lure/": {
-    "ts": "2026-09-23T11:08:02.046603+00:00",
-    "title": "Operation Conflict Compass: Konni Targets Ukraine via Malicious LNK Lures"
-  },
-  "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html": {
-    "ts": "2026-09-23T11:08:02.169427+00:00",
-    "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware"
-  },
-  "https://cybersecuritynews.com/ai-driven-cyberattacks/": {
-    "ts": "2026-09-23T11:08:02.289030+00:00",
-    "title": "AI-Driven Cyberattacks Enter New Phase With Autonomous Fraud and Digital Trust Abuse"
-  },
-  "https://gbhackers.com/nvidia-infrastructure-controller-hit-by-14-flaws-enabling-code-execution-and-privilege-escalation/": {
-    "ts": "2026-09-23T11:08:02.289047+00:00",
-    "title": "NVIDIA Infrastructure Controller Hit by 14 Flaws Enabling Code Execution and Privilege Escalation"
-  },
-  "https://www.helpnetsecurity.com/2026/09/23/cve-2026-87902-wordpress-7-1-2-security-release/": {
-    "ts": "2026-09-23T11:08:02.426651+00:00",
-    "title": "WordPress 7.1.2 fixes critical unauthenticated path traversal vulnerability (CVE-2026-87902)"
-  },
-  "https://securityaffairs.com/199564/hacking/cve-2026-87902-how-close-is-your-wordpress-to-remote-code-execution.html": {
-    "ts": "2026-09-23T11:08:02.561518+00:00",
-    "title": "CVE-2026-87902: how close is your WordPress to remote code execution?"
-  },
-  "https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/": {
-    "ts": "2026-09-23T11:08:02.687819+00:00",
-    "title": "Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm"
-  },
-  "https://www.sekoia.com/blog/exvicy-a-copycat-of-the-errtraffic-malware-distribution-framework": {
-    "ts": "2026-09-23T11:08:02.828300+00:00",
-    "title": "Exvicy: A Copycat of the ErrTraffic Malware Distribution Framework"
-  },
-  "https://socradar.io/blog/major-cyber-attacks-august-2026/": {
-    "ts": "2026-09-23T11:08:02.956731+00:00",
-    "title": "August 2026: GTA VI Leak, Keyv & Carhartt Breaches"
-  },
-  "https://securityaffairs.com/199612/cyber-crime/shinyhunters-claims-fbi-breach-after-alleged-peoplesoft-zero-day-attack.html": {
-    "ts": "2026-09-23T16:27:33.742659+00:00",
-    "title": "ShinyHunters claims FBI breach after alleged PeopleSoft zero-day attack"
-  },
-  "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/": {
-    "ts": "2026-09-23T16:29:39.161228+00:00",
-    "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers"
-  },
-  "https://cofense.com/blog/cofense-expands-ai-driven-phishing-defense-platform-to-advance-secure-behavior-management": {
-    "ts": "2026-09-23T16:29:39.161250+00:00",
-    "title": "Cofense Expands AI-Driven Phishing Defense Platform to Advance Secure Behavior Management"
-  },
-  "https://cybersecuritynews.com/gitlab-email-private-repository-flaw/": {
-    "ts": "2026-09-23T16:29:39.161254+00:00",
-    "title": "GitLab Email Feature Vulnerability Lets Attackers Push Code Into Private Repositories"
-  },
-  "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign": {
-    "ts": "2026-09-23T16:29:39.349632+00:00",
-    "title": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign"
-  },
-  "https://www.forescout.com/blog/hugging-face-incident-puts-security-fundamentals-in-spotlight/": {
-    "ts": "2026-09-23T16:29:39.349654+00:00",
-    "title": "Hugging Face Incident Puts Security Fundamentals in Spotlight"
-  },
-  "https://gbhackers.com/fake-crypto-wallet-app/": {
-    "ts": "2026-09-23T16:29:39.537558+00:00",
-    "title": "Fake Crypto Wallet App Delivers PamStealer Malware That Hijacks Mac Credentials"
-  },
-  "https://www.helpnetsecurity.com/2026/09/23/china-ai-relay-frontier-model-abuse/": {
-    "ts": "2026-09-23T16:29:39.734049+00:00",
-    "title": "80,000 relay servers help users in China slip past U.S. AI region bans"
-  },
-  "https://www.malwarebytes.com/blog/threat-intel/2026/09/fake-claude-max-giveaway-hides-a-google-account-phishing-trap": {
-    "ts": "2026-09-23T16:29:39.922128+00:00",
-    "title": "Fake Claude Max giveaway hides a Google account phishing trap"
-  },
-  "https://www.morphisec.com/blog/how-automated-moving-target-defense-stops-attacks-before-execution/": {
-    "ts": "2026-09-23T16:29:40.114358+00:00",
-    "title": "How Automated Moving Target Defense Stops Attacks Before Execution"
-  },
-  "https://www.rapid7.com/blog/post/em-dynamic-application-security-testing-dast-validates-risk-at-runtime-idc-marketscape": {
-    "ts": "2026-09-23T16:29:40.303810+00:00",
-    "title": "How dynamic application security testing validates risk at runtime"
-  },
-  "https://www.recordedfuture.com/blog/your-logo-is-the-lure": {
-    "ts": "2026-09-23T16:29:40.493803+00:00",
-    "title": "The Lure Isn't The Malware. It's Your Logo."
-  },
-  "https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/": {
-    "ts": "2026-09-23T16:29:40.493823+00:00",
-    "title": "Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare"
-  },
-  "https://www.sekoia.com/blog/why-multi-tenant-socs-need-multi-level-agents": {
-    "ts": "2026-09-23T16:29:40.493826+00:00",
-    "title": "Why One SOC Agent Isn\u2019t Enough for Every Customer"
-  },
-  "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html": {
-    "ts": "2026-09-23T16:29:40.684770+00:00",
-    "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key"
-  },
-  "https://www.theregister.com/security/2026/09/23/academic-publisher-elsevier-hit-by-lapsus-redirect-attack/5298592": {
-    "ts": "2026-09-23T16:29:40.872983+00:00",
-    "title": "Academic publisher Elsevier hit by LAPSUS$ redirect attack"
-  },
-  "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/": {
-    "ts": "2026-09-23T16:29:41.062783+00:00",
-    "title": "InfraTrust report warns network management systems under attack"
-  },
-  "https://cofense.com/blog/beyond-human-risk-a-better-way-to-build-secure-behavior": {
-    "ts": "2026-09-23T16:29:41.268911+00:00",
-    "title": "Beyond Human Risk: A Better Way to Build Secure Behavior"
-  },
-  "https://cybersecuritynews.com/the-visibility-gap-in-phishing-detection-where-sandboxing-makes-a-difference/": {
-    "ts": "2026-09-23T16:29:41.464258+00:00",
-    "title": "The Visibility Gap in Phishing Detection: Where Sandboxing Makes a Difference"
-  },
-  "https://www.darkreading.com/cybersecurity-operations/how-ciso-cmo-alliance-builds-trust-before-crisis": {
-    "ts": "2026-09-23T16:29:41.662385+00:00",
-    "title": "How the CISO-CMO Alliance Builds Trust Before Crisis Strikes"
-  },
-  "https://www.forescout.com/blog/the-need-for-smarter-network-security-in-the-ai-driven-era/": {
-    "ts": "2026-09-23T16:29:41.851731+00:00",
-    "title": "The Need for Smarter Network Security in the AI-Driven Era"
-  },
-  "https://gbhackers.com/exvicy-clickfix-malware/": {
-    "ts": "2026-09-23T16:29:42.042127+00:00",
-    "title": "Exvicy ClickFix Malware-as-a-Service Copies ErrTraffic to Hijack WordPress Sites"
-  },
-  "https://www.helpnetsecurity.com/2026/09/23/darkme-rat-phishing-email-hits-corporate-targets/": {
-    "ts": "2026-09-23T16:29:42.258234+00:00",
-    "title": "DarkMe RAT trades zero-days for plain phishing emails"
-  },
-  "https://www.malwarebytes.com/blog/news/2026/09/shinyhunters-claims-fbi-breach-was-revenge-for-false-report": {
-    "ts": "2026-09-23T16:29:42.447628+00:00",
-    "title": "ShinyHunters claims FBI breach was revenge for \u201cfalse\u201d report"
-  },
-  "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/": {
-    "ts": "2026-09-23T16:29:42.447646+00:00",
-    "title": "Adobe Patches Critical Flaws in Connect, AEM Forms"
-  },
-  "https://www.sekoia.com/blog/ai-soc-agents-are-only-as-good-as-the-context-they-can-see": {
-    "ts": "2026-09-23T16:29:42.447650+00:00",
-    "title": "Why AI SOC Agents Need Context to Investigate Alerts"
-  },
-  "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html": {
-    "ts": "2026-09-23T16:29:42.638844+00:00",
-    "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move"
-  },
-  "https://www.theregister.com/security/2026/09/23/sponsored-closing-the-observability-gap-for-the-ai-ready-enterprise/5298070": {
-    "ts": "2026-09-23T16:29:42.835495+00:00",
-    "title": "Closing the observability gap for the AI-ready enterprise"
-  },
-  "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/": {
-    "ts": "2026-09-23T16:29:43.030094+00:00",
-    "title": "How One Kubernetes YAML Can Hand Over a GCP Organization"
-  },
-  "https://cybersecuritynews.com/outerlimit-ai-agent-zero-trust/": {
-    "ts": "2026-09-23T16:29:43.219810+00:00",
-    "title": "Outerlimit Raises $16M to Build Zero Trust Security Layer for Autonomous AI Agents"
-  },
   "https://securityaffairs.com/199619/security/f5-big-ip-apm-zero-day-exploited-in-zero-day-rce-attacks.html": {
     "ts": "2026-09-23T20:02:22.327351+00:00",
     "title": "F5 BIG-IP APM Zero-Day Exploited in Zero-Day RCE Attacks"
@@ -21906,5 +21666,125 @@
   "https://www.group-ib.com/blog/btc-changer/": {
     "ts": "2026-11-22T10:56:41.207466+00:00",
     "title": "Lazarus BTC Changer"
+  },
+  "https://securityaffairs.com/203714/malware/security-affairs-malware-newsletter-round-123-2.html": {
+    "ts": "2026-11-22T18:20:47.346836+00:00",
+    "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 123"
+  },
+  "https://threats.wiz.io/all-incidents/gafgyt-malware-targeting-cloud-environments": {
+    "ts": "2026-11-22T18:20:53.898276+00:00",
+    "title": "Gafgyt Malware Targeting Cloud Environments (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/earth-baku-campaign": {
+    "ts": "2026-11-22T18:20:56.843836+00:00",
+    "title": "Earth Baku campaign (Campaign)"
+  },
+  "https://threats.wiz.io/all-incidents/panamorfi-campaign": {
+    "ts": "2026-11-22T18:20:57.428773+00:00",
+    "title": "Panamorfi campaign (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/": {
+    "ts": "2026-11-22T18:22:13.660470+00:00",
+    "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach"
+  },
+  "https://cybersecuritynews.com/virustotal-ransomware-detection/": {
+    "ts": "2026-11-22T18:22:13.660486+00:00",
+    "title": "VirusTotal\u2019s New Ransomware Detection Catches Malware Missed by All 75 Antivirus Engines"
+  },
+  "https://www.group-ib.com/blog/phishing-kits/": {
+    "ts": "2026-11-22T18:22:13.660490+00:00",
+    "title": "Deep water: exploring phishing kits"
+  },
+  "https://securityaffairs.com/203725/ai/security-affairs-ai-cybersecurity-newsletter-round-9.html": {
+    "ts": "2026-11-22T18:22:13.660493+00:00",
+    "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 9"
+  },
+  "https://threats.wiz.io/all-incidents/confluence-exploited-for-cryptojacking": {
+    "ts": "2026-11-22T18:22:13.934510+00:00",
+    "title": "Confluence exploited for cryptojacking (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/": {
+    "ts": "2026-11-22T18:22:13.934528+00:00",
+    "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android"
+  },
+  "https://cybersecuritynews.com/openrouter-ai-chat-leaks/": {
+    "ts": "2026-11-22T18:22:13.934532+00:00",
+    "title": "OpenRouter Users\u2019 Private AI Chats Possibly Exposed Via Compromised Third-Party Providers"
+  },
+  "https://www.group-ib.com/blog/swarmshop/": {
+    "ts": "2026-11-22T18:22:13.934535+00:00",
+    "title": "When Karma Comes Back"
+  },
+  "https://threats.wiz.io/all-incidents/shinyhunters-ransomware-targeting-cloud-environments": {
+    "ts": "2026-11-22T18:22:14.155852+00:00",
+    "title": "ShinyHunters Ransomware Targeting Cloud Environments (Campaign)"
+  },
+  "https://cybersecuritynews.com/mcp-server-security/": {
+    "ts": "2026-11-22T18:22:14.155871+00:00",
+    "title": "MCP Server Security: How to Stop Rogue AI Agents"
+  },
+  "https://www.group-ib.com/blog/rats-nigeria/": {
+    "ts": "2026-11-22T18:22:14.384282+00:00",
+    "title": "Kremlin RATs from Nigeria"
+  },
+  "https://securityaffairs.com/203701/breaking-news/security-affairs-newsletter-round-605-by-pierluigi-paganini-international-edition.html": {
+    "ts": "2026-11-22T18:22:14.613197+00:00",
+    "title": "Security Affairs newsletter Round 605 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION"
+  },
+  "https://threats.wiz.io/all-incidents/pgmem-malware-exploiting-misconfigured-postresql-instances": {
+    "ts": "2026-11-22T18:22:14.834152+00:00",
+    "title": "PG_MEM Malware Exploiting Misconfigured PostreSQL Instances (Campaign)"
+  },
+  "https://www.group-ib.com/blog/bootkits/": {
+    "ts": "2026-11-22T18:22:15.059502+00:00",
+    "title": "Masters of disguise"
+  },
+  "https://threats.wiz.io/all-incidents/msupedge-backdoor-targeting-taiwanese-university": {
+    "ts": "2026-11-22T18:22:15.279383+00:00",
+    "title": "Msupedge Backdoor Targeting Taiwanese University (Campaign)"
+  },
+  "https://www.group-ib.com/blog/e1rb/": {
+    "ts": "2026-11-22T18:22:15.499913+00:00",
+    "title": "JavaScript sniffers\u2019 new tricks"
+  },
+  "https://threats.wiz.io/all-incidents/extortion-campaign-exploiting-exposed-environment-variable": {
+    "ts": "2026-11-22T18:22:15.722181+00:00",
+    "title": "Extortion Campaign Exploiting Exposed Environment Variable (Campaign)"
+  },
+  "https://www.group-ib.com/blog/classiscam/": {
+    "ts": "2026-11-22T18:22:15.722198+00:00",
+    "title": "Inside Classiscam"
+  },
+  "https://www.group-ib.com/blog/gitlab-jenkins-forensics/": {
+    "ts": "2026-11-22T18:22:15.722202+00:00",
+    "title": "The source of everything"
+  },
+  "https://threats.wiz.io/all-incidents/horde-panda-targeting-south-asian-telecommunications-provider-": {
+    "ts": "2026-11-22T18:22:15.941948+00:00",
+    "title": "Horde Panda targeting South Asian telecommunications provider  (Campaign)"
+  },
+  "https://www.group-ib.com/blog/ultrarank/": {
+    "ts": "2026-11-22T18:22:16.164504+00:00",
+    "title": "New attacks by UltraRank group"
+  },
+  "https://threats.wiz.io/all-incidents/scattered-spider-abuses-cloud-management-agent": {
+    "ts": "2026-11-22T18:22:16.386647+00:00",
+    "title": "Scattered Spider Abuses Cloud Management Agent (Campaign)"
+  },
+  "https://www.group-ib.com/blog/fakesecurity-raccoon/": {
+    "ts": "2026-11-22T18:22:16.608684+00:00",
+    "title": "The footprints of Raccoon"
+  },
+  "https://www.group-ib.com/blog/egregor/": {
+    "ts": "2026-11-22T18:22:16.829070+00:00",
+    "title": "The Locking Egregor"
+  },
+  "https://www.group-ib.com/blog/oldgremlin/": {
+    "ts": "2026-11-22T18:22:17.050058+00:00",
+    "title": "Big Game Hunting: Now in Russia"
+  },
+  "https://threats.wiz.io/all-incidents/mirai-botnet-exploiting-apache-ofbiz-vulnerability": {
+    "ts": "2026-11-22T18:22:17.270908+00:00",
+    "title": "Mirai Botnet Exploiting Apache OFBiz Vulnerability (Campaign)"
   }
 }

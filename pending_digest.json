@@ -1,4 +1,35 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "Confluence exploited for cryptojacking (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/confluence-exploited-for-cryptojacking"
+    },
+    {
+      "category": "threat_actor",
+      "title": "ShinyHunters Ransomware Targeting Cloud Environments (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/shinyhunters-ransomware-targeting-cloud-environments"
+    },
+    {
+      "category": "malware_other",
+      "title": "JavaScript sniffers\u2019 new tricks",
+      "url": "https://www.group-ib.com/blog/e1rb/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Extortion Campaign Exploiting Exposed Environment Variable (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/extortion-campaign-exploiting-exposed-environment-variable"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Horde Panda targeting South Asian telecommunications provider  (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/horde-panda-targeting-south-asian-telecommunications-provider-"
+    },
+    {
+      "category": "malware_linux",
+      "title": "Mirai Botnet Exploiting Apache OFBiz Vulnerability (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/mirai-botnet-exploiting-apache-ofbiz-vulnerability"
+    }
+  ],
   "last_sent_date": "2026-11-22"
 }
