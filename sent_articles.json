@@ -1,244 +1,4 @@
 {
-  "https://securityaffairs.com/199619/security/f5-big-ip-apm-zero-day-exploited-in-zero-day-rce-attacks.html": {
-    "ts": "2026-09-23T20:02:22.327351+00:00",
-    "title": "F5 BIG-IP APM Zero-Day Exploited in Zero-Day RCE Attacks"
-  },
-  "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/": {
-    "ts": "2026-09-23T20:04:14.596760+00:00",
-    "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw"
-  },
-  "https://cybersecuritynews.com/cpanel-user-account-access-flaw/": {
-    "ts": "2026-09-23T20:04:14.791810+00:00",
-    "title": "New Cpanel Vulnerability Allows Attackers to Access Other Users\u2019 Accounts"
-  },
-  "https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals": {
-    "ts": "2026-09-23T20:04:14.791833+00:00",
-    "title": "Deception by Design: CISA's Guide to Tricking Cybercriminals"
-  },
-  "https://gbhackers.com/hpe-networking-analytics-engine-flaws-let-attackers-gain-root-access/": {
-    "ts": "2026-09-23T20:04:14.990434+00:00",
-    "title": "HPE Networking Analytics Engine Flaws Let Attackers Gain Root Access"
-  },
-  "https://www.helpnetsecurity.com/2026/09/23/fake-claude-max-giveaway-phishing/": {
-    "ts": "2026-09-23T20:04:15.183584+00:00",
-    "title": "Fake Claude Max giveaway tricks users into handing over their Google account credentials"
-  },
-  "https://www.malwarebytes.com/blog/how-to/2026/09/how-device-code-phishing-gives-scammers-access-to-your-account": {
-    "ts": "2026-09-23T20:04:15.375981+00:00",
-    "title": "How device code phishing gives scammers access to your account"
-  },
-  "https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/": {
-    "ts": "2026-09-23T20:04:15.571979+00:00",
-    "title": "Reimagining the SOC for the agentic era in Microsoft Defender"
-  },
-  "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/": {
-    "ts": "2026-09-23T20:04:15.785674+00:00",
-    "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin"
-  },
-  "https://www.sekoia.com/blog/beyond-lazarus-organization-of-dprk-cyber-capabilities": {
-    "ts": "2026-09-23T20:04:15.980143+00:00",
-    "title": "Beyond Lazarus: How North Korea Organizes Its Cyber Operations"
-  },
-  "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html": {
-    "ts": "2026-09-23T20:04:16.174463+00:00",
-    "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry"
-  },
-  "https://www.theregister.com/security/2026/09/23/someones-attacking-a-critical-0-day-rce-in-f5-big-ip-apm/5298659": {
-    "ts": "2026-09-23T20:04:16.373744+00:00",
-    "title": "Someone's attacking a critical 0-day RCE in F5 BIG-IP APM"
-  },
-  "https://threatmon.io/blackhatsect0r-dxqrtxx-global-operations/": {
-    "ts": "2026-09-23T20:04:16.568393+00:00",
-    "title": "Blackhatsect0r & DXQRTXX Global Operations"
-  },
-  "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/": {
-    "ts": "2026-09-23T20:04:16.761690+00:00",
-    "title": "Hackers start exploiting critical WordPress flaw for code execution"
-  },
-  "https://cybersecuritynews.com/critical-ibm-ftm-flaws/": {
-    "ts": "2026-09-23T20:04:16.761713+00:00",
-    "title": "Critical IBM FTM Flaws Let Attackers Execute Code and Access Payment Systems"
-  },
-  "https://gbhackers.com/malware-hosting-networks/": {
-    "ts": "2026-09-23T20:04:16.956804+00:00",
-    "title": "Cybercriminals Abandon Domains but Keep the Hosting Networks Behind Malware Campaigns"
-  },
-  "https://www.helpnetsecurity.com/2026/09/23/microsoft-eviltokens-phishing-service-disrupted/": {
-    "ts": "2026-09-23T20:04:17.150219+00:00",
-    "title": "Microsoft disrupts EvilTokens phishing service that gave criminals access to 12,000 inboxes"
-  },
-  "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/": {
-    "ts": "2026-09-23T20:04:17.370428+00:00",
-    "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios"
-  },
-  "https://www.sekoia.com/blog/ai-transparency-in-cybersecurity-how-sekoia-handles-customer-data": {
-    "ts": "2026-09-23T20:04:17.565865+00:00",
-    "title": "AI SOC Security: All About Sekoia\u2019s AI Trust Architecture"
-  },
-  "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html": {
-    "ts": "2026-09-23T20:04:17.758380+00:00",
-    "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You"
-  },
-  "https://www.theregister.com/security/2026/09/23/british-regulator-takes-a-hard-look-at-pornhubs-apple-powered-age-checks/5298558": {
-    "ts": "2026-09-23T20:04:17.969846+00:00",
-    "title": "British regulator takes a hard look at Pornhub's Apple-powered age checks"
-  },
-  "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/": {
-    "ts": "2026-09-23T20:04:17.969867+00:00",
-    "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day"
-  },
-  "https://cybersecuritynews.com/ryuk-ransomware-operator-sentenced/": {
-    "ts": "2026-09-23T20:04:18.173705+00:00",
-    "title": "Ryuk Ransomware Operator Sentenced for Deploying Malware and Extorting Victim Networks"
-  },
-  "https://gbhackers.com/solarwinds-observability-flaws/": {
-    "ts": "2026-09-23T20:04:18.173725+00:00",
-    "title": "SolarWinds Observability Flaws Let Unauthenticated Attackers Execute Remote Code"
-  },
-  "https://www.helpnetsecurity.com/2026/09/23/anthropic-claude-opus-5-5/": {
-    "ts": "2026-09-23T20:04:18.173729+00:00",
-    "title": "Claude Opus 5.5 cuts costs and adds safeguards for autonomous AI"
-  },
-  "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/": {
-    "ts": "2026-09-23T20:04:18.366590+00:00",
-    "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft"
-  },
-  "https://www.sekoia.com/blog/every-detection-needs-a-next-step-why-runbooks-solve-the-investigation-problem": {
-    "ts": "2026-09-23T20:04:18.366610+00:00",
-    "title": "Here's Why Every Detection Needs a Runbook"
-  },
-  "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html": {
-    "ts": "2026-09-23T20:04:18.556518+00:00",
-    "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI"
-  },
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/": {
-    "ts": "2026-09-23T20:04:18.556538+00:00",
-    "title": "Microsoft: September Windows updates break Always On VPN connections"
-  },
-  "https://cybersecuritynews.com/aws-lambda-flaw/": {
-    "ts": "2026-09-23T20:04:18.750317+00:00",
-    "title": "AWS Lambda Flaw Lets Attackers Bypass IAM Permissions and Access Cloud Services"
-  },
-  "https://gbhackers.com/critical-wordpress-flaw/": {
-    "ts": "2026-09-23T23:29:11.844091+00:00",
-    "title": "Critical WordPress Flaw Lets Unauthenticated Attackers Execute Remote Code"
-  },
-  "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html": {
-    "ts": "2026-09-23T23:29:19.013341+00:00",
-    "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants"
-  },
-  "https://www.sekoia.com/blog/fsbs-matryoshka-2-3-gamaredons-gifts-that-keeps-unpacking-gammaload": {
-    "ts": "2026-09-23T23:29:20.920039+00:00",
-    "title": "FSB\u2019s matryoshka #2/3: Gamaredon's Gammaload Malware"
-  },
-  "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/": {
-    "ts": "2026-09-23T23:31:09.047708+00:00",
-    "title": "Placeholder domain used in dev docs now serves ClickFix attacks"
-  },
-  "https://cybersecuritynews.com/critical-next-js-flaw-allows-remote-code-execution/": {
-    "ts": "2026-09-23T23:31:09.092879+00:00",
-    "title": "Critical NEXT.JS Flaw Enables RCE Attacks Via Weaponized SVG File"
-  },
-  "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses": {
-    "ts": "2026-09-23T23:31:09.137881+00:00",
-    "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses"
-  },
-  "https://gbhackers.com/manageengine-rce-flaw/": {
-    "ts": "2026-09-23T23:31:09.182130+00:00",
-    "title": "ManageEngine RCE Flaw Enables SYSTEM Code Execution From Windows Login Screen"
-  },
-  "https://www.helpnetsecurity.com/2026/09/24/americans-views-on-data-centers/": {
-    "ts": "2026-09-23T23:31:09.182145+00:00",
-    "title": "Americans\u2019 views on data centers have turned more negative"
-  },
-  "https://securityaffairs.com/199631/hacking/u-s-cisa-adds-check-point-arista-velocloud-orchestrator-and-f5-big-ip-apm-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
-    "ts": "2026-09-23T23:31:09.182150+00:00",
-    "title": "U.S. CISA adds Check Point, Arista VeloCloud Orchestrator, and F5 BIG-IP APM\u00a0flaws to its Known Exploited Vulnerabilities catalog"
-  },
-  "https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/": {
-    "ts": "2026-09-23T23:31:09.182154+00:00",
-    "title": "Arista Urges Immediate Patching of Exploited VCO Zero-Day"
-  },
-  "https://www.sekoia.com/blog/what-you-need-to-know-before-putting-ai-agents-in-your-production-soc": {
-    "ts": "2026-09-23T23:31:09.182156+00:00",
-    "title": "AI Agents in the SOC: 5 Production Questions To Ask Beforehand"
-  },
-  "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html": {
-    "ts": "2026-09-23T23:31:09.182159+00:00",
-    "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control"
-  },
-  "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/": {
-    "ts": "2026-09-23T23:31:09.229011+00:00",
-    "title": "New RemControl Android banking malware targets users in Europe and Canada"
-  },
-  "https://cybersecuritynews.com/fake-crypto-wallet-app-spreads-pamstealer-malware-to-steal-mac-passwords/": {
-    "ts": "2026-09-23T23:31:09.274589+00:00",
-    "title": "Fake Crypto Wallet App Spreads PamStealer Malware to Steal Mac Passwords"
-  },
-  "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks": {
-    "ts": "2026-09-23T23:31:09.319404+00:00",
-    "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks"
-  },
-  "https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/": {
-    "ts": "2026-09-23T23:31:09.366311+00:00",
-    "title": "Critical F5 BIG-IP Vulnerability Exploited as Zero-Day"
-  },
-  "https://www.sekoia.com/blog/ai-soc-integrations-6-capabilities-worth-connecting": {
-    "ts": "2026-09-23T23:31:09.413435+00:00",
-    "title": "6 AI SOC Integrations Actually Worth Connecting"
-  },
-  "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html": {
-    "ts": "2026-09-23T23:31:09.464067+00:00",
-    "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent"
-  },
-  "https://cybersecuritynews.com/domains-keep-disappearing/": {
-    "ts": "2026-09-23T23:31:09.526316+00:00",
-    "title": "The Domains Keep Disappearing, but the Malware Infrastructure Behind Them Never Moves"
-  },
-  "https://www.sekoia.com/blog/the-best-of-cloud-built-safely-inside-your-own-perimeter": {
-    "ts": "2026-09-23T23:31:09.526333+00:00",
-    "title": "How to Bring Cloud-Grade Security to your Own Stack"
-  },
-  "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html": {
-    "ts": "2026-09-23T23:31:09.526338+00:00",
-    "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests"
-  },
-  "https://www.sekoia.com/blog/dont-eat-the-chocopocs-how-vulnerability-researchers-were-repeatedly-targeted-by-trojanised-exploits": {
-    "ts": "2026-09-23T23:31:09.572908+00:00",
-    "title": "Don't Eat the ChocoPoCs: Trojanised PoCs Hit Researchers"
-  },
-  "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html": {
-    "ts": "2026-09-23T23:31:09.619310+00:00",
-    "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape"
-  },
-  "https://www.sekoia.com/blog/sekoias-new-identity-designed-for-clarity": {
-    "ts": "2026-09-23T23:31:09.665094+00:00",
-    "title": "Sekoia\u2019s New Identity: Designed for Clarity"
-  },
-  "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html": {
-    "ts": "2026-09-23T23:31:09.709904+00:00",
-    "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input"
-  },
-  "https://www.sekoia.com/blog/apt28-an-evolution-of-tradecraft": {
-    "ts": "2026-09-23T23:31:09.758769+00:00",
-    "title": "APT28: An Evolution of Tradecraft from X-Agent to LLM Malware"
-  },
-  "https://www.sekoia.com/blog/sold-to-the-highest-bidder-the-escalation-of-adint-from-geolocation-tracking-to-intrusion-vector": {
-    "ts": "2026-09-23T23:31:09.806331+00:00",
-    "title": "ADINT: From Ad-Based Geolocation Tracking to Intrusion Vector"
-  },
-  "https://www.sekoia.com/blog/unveiling-errtraffic-inside-a-growing-clickfix-malware-distribution-framework": {
-    "ts": "2026-09-23T23:31:09.858314+00:00",
-    "title": "ErrTraffic: A Growing ClickFix Malware Distribution Framework"
-  },
-  "https://www.sekoia.com/blog/fsbs-matryoshka-3-3-gamaredons-gifts-that-keeps-unpacking-gammasteel": {
-    "ts": "2026-09-23T23:31:09.909230+00:00",
-    "title": "FSB\u2019s matryoshka #3/3: Gamaredon's Gammasteel Infostealer"
-  },
-  "https://www.sekoia.com/blog/fsbs-matryoshka-1-3-gamaredons-gifts-that-keeps-unpacking-gammaphish-and-gammaworm": {
-    "ts": "2026-09-23T23:31:09.959521+00:00",
-    "title": "FSB\u2019s matryoshka #1/3: Inside Gamaredon Cyber Operations"
-  },
   "https://www.sekoia.com/blog/advent-of-configuration-extraction-part-2-unwrapping-quasarrats-configuration": {
     "ts": "2026-09-24T03:55:41.000188+00:00",
     "title": "Advent of Configuration Extraction, Part 2: QuasarRAT Config"
@@ -21786,5 +21546,125 @@
   "https://threats.wiz.io/all-incidents/mirai-botnet-exploiting-apache-ofbiz-vulnerability": {
     "ts": "2026-11-22T18:22:17.270908+00:00",
     "title": "Mirai Botnet Exploiting Apache OFBiz Vulnerability (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/": {
+    "ts": "2026-11-23T00:07:09.942238+00:00",
+    "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices"
+  },
+  "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools": {
+    "ts": "2026-11-23T00:07:09.942263+00:00",
+    "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era"
+  },
+  "https://www.group-ib.com/blog/remcontrol-android-banking-trojan/": {
+    "ts": "2026-11-23T00:07:10.206859+00:00",
+    "title": "RemControl: AI Built the Overlays. Victims Lose their PINs"
+  },
+  "https://www.helpnetsecurity.com/2026/11/23/debian-13-8-released/": {
+    "ts": "2026-11-23T00:07:10.206880+00:00",
+    "title": "Debian 13.8 bundles kernel and Chromium security fixes with a 122-package bugfix list"
+  },
+  "https://www.morphisec.com/blog/how-automated-moving-target-defense-stops-attacks-before-execution/": {
+    "ts": "2026-11-23T00:07:10.206884+00:00",
+    "title": "How Automated Moving Target Defense Stops Attacks Before Execution"
+  },
+  "https://www.recordedfuture.com/blog/your-logo-is-the-lure": {
+    "ts": "2026-11-23T00:07:10.480449+00:00",
+    "title": "The Lure Isn't The Malware. It's Your Logo."
+  },
+  "https://securityaffairs.com/203742/ai/signal-is-blocking-ai-agents-from-reading-your-screen.html": {
+    "ts": "2026-11-23T00:07:10.480471+00:00",
+    "title": "Signal Is Blocking AI Agents From Reading Your Screen"
+  },
+  "https://www.sekoia.com/blog/exvicy-a-copycat-of-the-errtraffic-malware-distribution-framework": {
+    "ts": "2026-11-23T00:07:10.719988+00:00",
+    "title": "Exvicy: A Copycat of the ErrTraffic Malware Distribution Framework"
+  },
+  "https://www.welivesecurity.com/en/kids-online/looking-for-free-robux-heres-whats-real-whats-scam/": {
+    "ts": "2026-11-23T00:07:10.720009+00:00",
+    "title": "Looking for free Robux? Here\u2019s what\u2019s real, and what\u2019s a scam"
+  },
+  "https://threats.wiz.io/all-incidents/ransomware-operators-exploit-esxi-vulnerability": {
+    "ts": "2026-11-23T00:07:10.984960+00:00",
+    "title": "Ransomware operators exploit ESXi vulnerability (Campaign)"
+  },
+  "https://www.group-ib.com/blog/fhp/": {
+    "ts": "2026-11-23T00:07:11.247247+00:00",
+    "title": "Group-IB Fraud Protection (ex. Fraud Hunting Platform)"
+  },
+  "https://www.sekoia.com/blog/soc-platform-evaluation-checklist-for-mssps-4-questions-to-ask": {
+    "ts": "2026-11-23T00:07:11.487463+00:00",
+    "title": "SOC Platform Evaluation Checklist for MSSPs: Key Questions for SOC Providers"
+  },
+  "https://threats.wiz.io/all-incidents/born-group-supply-chain-attack": {
+    "ts": "2026-11-23T00:07:11.726254+00:00",
+    "title": "BORN Group supply chain attack (Incident)"
+  },
+  "https://www.group-ib.com/blog/prolock-evolution/": {
+    "ts": "2026-11-23T00:07:11.963939+00:00",
+    "title": "Lock Like a Pro"
+  },
+  "https://www.sekoia.com/blog/ai-in-the-soc-what-europes-new-framework-means-for-trust-and-tech-autonomy": {
+    "ts": "2026-11-23T00:07:12.202346+00:00",
+    "title": "AI in the SOC: EU AI Act and Technology Sovereignty"
+  },
+  "https://threats.wiz.io/all-incidents/seleniumgreed-threat-actors-exploit-exposed-selenium-grid-services-for-cryptomining": {
+    "ts": "2026-11-23T00:07:12.467951+00:00",
+    "title": "SeleniumGreed: Threat actors exploit exposed Selenium Grid services for Cryptomining (Campaign)"
+  },
+  "https://www.group-ib.com/blog/shelf/": {
+    "ts": "2026-11-23T00:07:12.467975+00:00",
+    "title": "Digital forensics specialist\u2019s bookshelf"
+  },
+  "https://www.sekoia.com/blog/why-multi-tenant-socs-need-multi-level-agents": {
+    "ts": "2026-11-23T00:07:12.467978+00:00",
+    "title": "Why One SOC Agent Isn\u2019t Enough for Every Customer"
+  },
+  "https://threats.wiz.io/all-incidents/disney-slack-breach": {
+    "ts": "2026-11-23T00:07:12.467981+00:00",
+    "title": "Disney Slack breach (Incident)"
+  },
+  "https://www.group-ib.com/blog/icedid/": {
+    "ts": "2026-11-23T00:07:12.710107+00:00",
+    "title": "IcedID: new malware version"
+  },
+  "https://www.sekoia.com/blog/ai-soc-agents-are-only-as-good-as-the-context-they-can-see": {
+    "ts": "2026-11-23T00:07:12.947341+00:00",
+    "title": "Why AI SOC Agents Need Context to Investigate Alerts"
+  },
+  "https://threats.wiz.io/all-incidents/crystalray": {
+    "ts": "2026-11-23T00:07:13.208947+00:00",
+    "title": "crystalray (Campaign)"
+  },
+  "https://www.group-ib.com/blog/prolock/": {
+    "ts": "2026-11-23T00:07:13.472890+00:00",
+    "title": "ATT&CKing ProLock Ransomware"
+  },
+  "https://threats.wiz.io/all-incidents/python-infrastructure-leaked-access-token": {
+    "ts": "2026-11-23T00:07:13.711897+00:00",
+    "title": "Python infrastructure leaked access token (Research)"
+  },
+  "https://www.group-ib.com/blog/perswaysion/": {
+    "ts": "2026-11-23T00:07:13.976098+00:00",
+    "title": "PerSwaysion Campaign"
+  },
+  "https://threats.wiz.io/all-incidents/misconfigured-jenkins-servers-used-for-cryptomining": {
+    "ts": "2026-11-23T00:07:14.213906+00:00",
+    "title": "Misconfigured Jenkins Servers Used for Cryptomining (Campaign)"
+  },
+  "https://www.group-ib.com/blog/featureusage/": {
+    "ts": "2026-11-23T00:07:14.213934+00:00",
+    "title": "Reconstructing User Activity for Forensics with FeatureUsage"
+  },
+  "https://threats.wiz.io/all-incidents/8220-gang-exploiting-weblogic-vulnerabilities-for-cryptojacking": {
+    "ts": "2026-11-23T00:07:14.475695+00:00",
+    "title": "8220 Gang Exploiting WebLogic Vulnerabilities for Cryptojacking (Campaign)"
+  },
+  "https://www.group-ib.com/blog/forensics-edge/": {
+    "ts": "2026-11-23T00:07:14.475715+00:00",
+    "title": "Chromium-based Microsoft Edge from a Forensic Point of View"
+  },
+  "https://threats.wiz.io/all-incidents/funnull-polyfill-supply-chain-attack": {
+    "ts": "2026-11-23T00:07:14.714230+00:00",
+    "title": "Funnull Polyfill supply chain attack (Campaign)"
   }
 }
