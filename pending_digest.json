@@ -1,4 +1,50 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "threat_actor",
+      "title": "23rd November \u2013 Threat Intelligence Report",
+      "url": "https://research.checkpoint.com/2026/23rd-november-threat-intelligence-report/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Fake Deals, Real Threats: Black Friday Phishing Targets Microsoft Accounts",
+      "url": "https://cofense.com/blog/fake-deals,-real-threats-black-friday-phishing-targets-microsoft-accounts"
+    },
+    {
+      "category": "malware_other",
+      "title": "GL.iNet cloud compromise hits routers and KVMs, older backdoors also found",
+      "url": "https://www.helpnetsecurity.com/2026/11/23/gl-inet-cloud-compromise-malware-backdoors/"
+    },
+    {
+      "category": "apt_campaign",
+      "title": "China-Linked Hackers Exploit VMware Zero-Day for Cyber Espionage",
+      "url": "https://rewterz.com/threat-advisory/china-linked-hackers-exploit-vmware-zero-day-for-cyber-espionage"
+    },
+    {
+      "category": "new_technique",
+      "title": "Proof-of-concept exploit code available for Ghostscript \u2018Upload2Shell\u2019 vulnerability (CVE-2026-125396)",
+      "url": "https://www.sophos.com/en-us/blog/proof-of-concept-available-for-ghostscript-upload2shell"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+      "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "NGINX HTTP/2 RCE: Understanding CVE-2026-123007 and CVE-2026-123633",
+      "url": "https://threatmon.io/nginx-http-2-rce-understanding-cve-2026-123007-and-cve-2026-123633/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Massive malicious campaign by FakeSecurity JS-sniffer",
+      "url": "https://www.group-ib.com/blog/fakesecurity/"
+    },
+    {
+      "category": "new_technique",
+      "title": "PHP Patches Multiple Critical Vulnerabilities Enabling Remote Code Execution",
+      "url": "https://rewterz.com/threat-advisory/php-patches-multiple-critical-vulnerabilities-enabling-remote-code-execution"
+    }
+  ],
   "last_sent_date": "2026-11-23"
 }
