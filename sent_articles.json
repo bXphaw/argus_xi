@@ -1,244 +1,4 @@
 {
-  "https://gbhackers.com/scoutz-prospect-intelligence-platform-launches-for-msps-with-30-day-beta/": {
-    "ts": "2026-09-24T22:08:07.613382+00:00",
-    "title": "SCOUTz Prospect Intelligence Platform Launches for MSPs with 30-Day Beta"
-  },
-  "https://www.sekoia.com/blog/detection-engineering-at-scale-one-step-closer-part-two": {
-    "ts": "2026-09-24T22:08:21.544805+00:00",
-    "title": "Detection Engineering at Scale: One Step Closer (part two)"
-  },
-  "https://www.sekoia.com/blog/detection-engineering-at-scale-one-step-closer-part-one": {
-    "ts": "2026-09-24T22:08:25.255998+00:00",
-    "title": "Detection Engineering at Scale: One Step Closer (part one)"
-  },
-  "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/": {
-    "ts": "2026-09-24T22:10:33.537511+00:00",
-    "title": "MacSync malware uses public iCloud calendars to deliver new payloads"
-  },
-  "https://cybersecuritynews.com/scoutz-prospect-intelligence-platform-launches-for-msps-with-30-day-beta/": {
-    "ts": "2026-09-24T22:10:33.537533+00:00",
-    "title": "SCOUTz Prospect Intelligence Platform Launches for MSPs with 30-Day Beta"
-  },
-  "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing": {
-    "ts": "2026-09-24T22:10:33.632916+00:00",
-    "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing"
-  },
-  "https://securityaffairs.com/199692/cyber-crime/ryuk-member-karen-vardanyan-sentenced-to-two-years-in-u-s-prison.html": {
-    "ts": "2026-09-24T22:10:33.731949+00:00",
-    "title": "Ryuk Member Karen Vardanyan Sentenced to Two Years in U.S. Prison"
-  },
-  "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/": {
-    "ts": "2026-09-24T22:10:33.731972+00:00",
-    "title": "Autonomous AI Hacks Raise Thorny Questions of Legal Accountability"
-  },
-  "https://www.sekoia.com/blog/cyber-threats-impacting-the-financial-sector-in-2024-focus-on-the-main-actors": {
-    "ts": "2026-09-24T22:10:33.836248+00:00",
-    "title": "Cyber Threat Actors Impacting the Financial Sector in 2024"
-  },
-  "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html": {
-    "ts": "2026-09-24T22:10:33.940099+00:00",
-    "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer"
-  },
-  "https://www.theregister.com/security/2026/09/24/salesforce-agentforce-vulns-allowed-0-click-crm-data-theft-anonymous-phishing/5298958": {
-    "ts": "2026-09-24T22:10:34.039562+00:00",
-    "title": "Salesforce Agentforce vulns allowed 0-click CRM data theft, anonymous phishing"
-  },
-  "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/": {
-    "ts": "2026-09-24T22:10:34.143823+00:00",
-    "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts"
-  },
-  "https://cybersecuritynews.com/new-way-to-break-rsa/": {
-    "ts": "2026-09-24T22:10:34.237996+00:00",
-    "title": "Researchers Found a New Way to Break RSA that Doesn\u2019t Require Factoring the Key"
-  },
-  "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application": {
-    "ts": "2026-09-24T22:10:34.340905+00:00",
-    "title": "SectopRAT Returns, Hiding Inside a Legitimate Application"
-  },
-  "https://gbhackers.com/velvetcake-powershell-malware/": {
-    "ts": "2026-09-24T22:10:34.435347+00:00",
-    "title": "Operation Conflict Compass Deploys VelvetCake PowerShell Malware Through Malicious LNK Files"
-  },
-  "https://securityaffairs.com/199678/hacking/ai-helps-uncover-mikrotrick-attack-chain-in-mikrotik-routeros.html": {
-    "ts": "2026-09-24T22:10:34.536143+00:00",
-    "title": "AI Helps Uncover MikroTrick Attack Chain in MikroTik RouterOS"
-  },
-  "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/": {
-    "ts": "2026-09-24T22:10:34.536163+00:00",
-    "title": "SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted"
-  },
-  "https://www.sekoia.com/blog/ratatouille-cooking-up-chaos-in-the-i2p-kitchen": {
-    "ts": "2026-09-24T22:10:34.635761+00:00",
-    "title": "RATatouille: Cooking Up Chaos in the I2P Kitchen"
-  },
-  "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html": {
-    "ts": "2026-09-24T22:10:34.729954+00:00",
-    "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360"
-  },
-  "https://cybersecuritynews.com/android-banking-trojan/": {
-    "ts": "2026-09-24T22:10:34.832853+00:00",
-    "title": "New Android Banking Trojan Uses AI-Built Overlays to Steal Users\u2019 Banking PINs"
-  },
-  "https://gbhackers.com/gitlab-email-token/": {
-    "ts": "2026-09-24T22:10:34.929747+00:00",
-    "title": "GitLab Email Token Lets Attackers Push Code to Main and Execute CI/CD Jobs"
-  },
-  "https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/": {
-    "ts": "2026-09-24T22:10:35.024588+00:00",
-    "title": "Astrana Health Data Breach Impacts Private, Confidential Information"
-  },
-  "https://www.sekoia.com/blog/targeted-supply-chain-attack-against-chrome-browser-extensions": {
-    "ts": "2026-09-24T22:10:35.126973+00:00",
-    "title": "Supply Chain Attack Against Chrome Browser Extensions"
-  },
-  "https://www.sekoia.com/blog/transition-from-ibm-qradar-to-sekoia-for-a-modern-rewarding-experience": {
-    "ts": "2026-09-24T22:10:35.126991+00:00",
-    "title": "Transition from IBM QRadar to Sekoia"
-  },
-  "https://www.sekoia.com/blog/sneaky-2fa-exposing-a-new-aitm-phishing-as-a-service": {
-    "ts": "2026-09-24T22:10:35.224133+00:00",
-    "title": "Sneaky 2FA: exposing a new AiTM Phishing-as-a-Service"
-  },
-  "https://www.sekoia.com/blog/double-tap-campaign-russia-nexus-apt-possibly-related-to-apt28-conducts-cyber-espionage-on-central-asia-and-kazakhstan-diplomatic-relations": {
-    "ts": "2026-09-24T22:10:35.315514+00:00",
-    "title": "Double-Tap: APT28-Linked Espionage on Kazakhstan"
-  },
-  "https://www.sekoia.com/blog/plugx-worm-disinfection-campaign-feedbacks": {
-    "ts": "2026-09-24T22:10:35.411825+00:00",
-    "title": "PlugX worm disinfection campaign feedbacks"
-  },
-  "https://www.sekoia.com/blog/the-story-behind-sekoia-io-custom-integrations": {
-    "ts": "2026-09-24T22:10:35.411848+00:00",
-    "title": "The story behind Sekoia.io Custom Integrations"
-  },
-  "https://www.sekoia.com/blog/blocklist-in-sekoia": {
-    "ts": "2026-09-24T22:10:35.506486+00:00",
-    "title": "Implementing blocklists in the Sekoia SOC platform"
-  },
-  "https://www.sekoia.com/blog/happy-yara-christmas": {
-    "ts": "2026-09-24T22:10:35.609934+00:00",
-    "title": "Happy YARA Christmas: How Sekoia TDR Uses YARA Rules!"
-  },
-  "https://www.sekoia.com/blog/ransomware-driven-data-exfiltration-techniques-and-implications": {
-    "ts": "2026-09-25T01:18:58.111008+00:00",
-    "title": "Ransomware-driven data exfiltration: techniques & implications"
-  },
-  "https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012": {
-    "ts": "2026-09-25T01:18:58.111030+00:00",
-    "title": "Crook used three open source agents to break into a Fortune 500 hospitality company, a major US airline and 25+ other orgs"
-  },
-  "https://www.sekoia.com/blog/helldown-ransomware-an-overview-of-this-emerging-threat": {
-    "ts": "2026-09-25T01:18:58.372852+00:00",
-    "title": "Helldown Ransomware: An Overview of this Emerging Threat"
-  },
-  "https://www.sekoia.com/blog/a-three-beats-waltz-the-ecosystem-behind-chinese-state-sponsored-cyber-threats": {
-    "ts": "2026-09-25T01:18:58.372868+00:00",
-    "title": "China's State-Sponsored Cyber Operations & Ecosystem"
-  },
-  "https://www.sekoia.com/blog/clickfix-tactic-revenge-of-detection": {
-    "ts": "2026-09-25T01:18:58.622974+00:00",
-    "title": "ClickFix tactic: Revenge of detection \u2013 Detect Fake CAPTCHA"
-  },
-  "https://www.sekoia.com/blog/clickfix-tactic-the-phantom-meet": {
-    "ts": "2026-09-25T01:18:59.081145+00:00",
-    "title": "ClickFix tactic: The Phantom Meet Infostealer Campaign"
-  },
-  "https://www.sekoia.com/blog/mastering-soc-complexity-optimizing-access-management-with-sekoia-defend": {
-    "ts": "2026-09-25T01:18:59.373027+00:00",
-    "title": "Optimizing SOC access management with Sekoia Defend"
-  },
-  "https://www.sekoia.com/blog/getting-started-with-detection-as-code-and-sekoia-platform": {
-    "ts": "2026-09-25T01:18:59.608324+00:00",
-    "title": "Getting started with Detection-as-Code and Sekoia Platform"
-  },
-  "https://www.sekoia.com/blog/hunting-for-iocs-from-singles-searches-to-an-automated-and-repeatable-process": {
-    "ts": "2026-09-25T01:18:59.848248+00:00",
-    "title": "IoC: Boosting Cyber Threat Intelligence for Better Security Ops"
-  },
-  "https://www.sekoia.com/blog/mamba-2fa-a-new-contender-in-the-aitm-phishing-ecosystem": {
-    "ts": "2026-09-25T01:19:00.078006+00:00",
-    "title": "Mamba 2FA: A new contender in the AiTM phishing ecosystem"
-  },
-  "https://www.sekoia.com/blog/bulbature-beneath-the-waves-of-gobrat": {
-    "ts": "2026-09-25T01:19:00.316238+00:00",
-    "title": "Bulbature, beneath the waves of GobRAT"
-  },
-  "https://www.sekoia.com/blog/hadooken-and-k4spreader-the-8220-gangs-latest-arsenal": {
-    "ts": "2026-09-25T01:19:00.544084+00:00",
-    "title": "Hadooken and K4Spreader: The 8220 Gang's Latest Arsenal"
-  },
-  "https://www.sekoia.com/blog/why-its-time-to-replace-your-legacy-siem-with-a-soc-platform": {
-    "ts": "2026-09-25T01:19:00.544103+00:00",
-    "title": "Why it\u2019s time to replace your legacy SIEM with a SOC platform"
-  },
-  "https://www.sekoia.com/blog/silentselfie-uncovering-a-major-watering-hole-campaign-against-kurdish-websites": {
-    "ts": "2026-09-25T01:19:00.780023+00:00",
-    "title": "SilentSelfie: Major Campaign Against Kurdish Websites"
-  },
-  "https://www.sekoia.com/blog/webdav-as-a-service-uncovering-the-infrastructure-behind-emmenhtal-loader-distribution": {
-    "ts": "2026-09-25T01:19:01.019856+00:00",
-    "title": "WebDAV-as-a-Service: The Infrastructure Behind Emmenhtal"
-  },
-  "https://www.sekoia.com/blog/securing-gold-hunting-typosquatted-domains-during-the-olympics": {
-    "ts": "2026-09-25T01:19:01.260440+00:00",
-    "title": "Hunting typosquatted domains during the 2024 Olympics"
-  },
-  "https://www.sekoia.com/blog/a-glimpse-into-the-quad7-operators-next-moves-and-associated-botnets": {
-    "ts": "2026-09-25T01:19:01.488808+00:00",
-    "title": "Quad7 Operators' Next Moves And Associated Botnets"
-  },
-  "https://www.sekoia.com/blog/enabling-new-service-models-with-ssdp": {
-    "ts": "2026-09-25T01:19:01.728094+00:00",
-    "title": "Enabling New Service Models With SSDP"
-  },
-  "https://www.sekoia.com/blog/emulating-and-detecting-scattered-spider-like-attacks": {
-    "ts": "2026-09-25T01:19:01.950231+00:00",
-    "title": "Emulating and Detecting Scattered Spider-like Attacks"
-  },
-  "https://www.sekoia.com/blog/solving-the-7777-botnet-enigma-a-cybersecurity-quest": {
-    "ts": "2026-09-25T01:19:02.201900+00:00",
-    "title": "Solving the 7777 Botnet enigma: A cybersecurity quest"
-  },
-  "https://www.sekoia.com/blog/technological-evolution-and-the-rise-of-advanced-security-solutions-for-smes": {
-    "ts": "2026-09-25T01:19:02.201913+00:00",
-    "title": "Advanced Security Solutions for SMEs: The Technology Shift"
-  },
-  "https://www.sekoia.com/blog/muddywater-replaces-atera-by-custom-muddyrot-implant-in-a-recent-campaign": {
-    "ts": "2026-09-25T01:19:02.443622+00:00",
-    "title": "MuddyWater replaces Atera by custom MuddyRot implant"
-  },
-  "https://www.sekoia.com/blog/how-sekoia-io-uses-the-mitre-attck-framework-to-enhance-soc-capabilities": {
-    "ts": "2026-09-25T01:19:02.443639+00:00",
-    "title": "Benefits of MITRE ATT&CK in Sekoia SOC Platform"
-  },
-  "https://www.sekoia.com/blog/efficiency-driven-soc-operations": {
-    "ts": "2026-09-25T01:19:02.443643+00:00",
-    "title": "Efficiency-Driven SOC Operations: Integrated AI SOC Platform"
-  },
-  "https://www.sekoia.com/blog/whats-up-with-the-new-kids": {
-    "ts": "2026-09-25T01:19:02.443646+00:00",
-    "title": "The Shift from On-Prem SIEM to SaaS SOC Platforms"
-  },
-  "https://www.sekoia.com/blog/combining-sekoia-intelligence-and-opencti": {
-    "ts": "2026-09-25T01:19:03.058808+00:00",
-    "title": "Combining Sekoia Intelligence and OpenCTI"
-  },
-  "https://www.sekoia.com/blog/pikabot-a-guide-to-its-deep-secrets-and-operations": {
-    "ts": "2026-09-25T01:19:03.314865+00:00",
-    "title": "PikaBot: a Guide to its Deep Secrets and Operations"
-  },
-  "https://www.sekoia.com/blog/introducing-sekoia-tdr": {
-    "ts": "2026-09-25T01:19:03.550390+00:00",
-    "title": "Meet Sekoia TDR: Our Threat Detection & Research Team"
-  },
-  "https://www.sekoia.com/blog/master-of-puppets-uncovering-the-doppelganger-pro-russian-influence-campaign": {
-    "ts": "2026-09-25T01:19:03.788194+00:00",
-    "title": "DoppelG\u00e4nger: inside the pro-Russian influence campaign"
-  },
-  "https://www.sekoia.com/blog/how-to-empower-the-mssp-business-with-the-sekoia-soc-platform": {
-    "ts": "2026-09-25T01:19:04.038832+00:00",
-    "title": "How to empower MSSP business with Sekoia SOC platform?"
-  },
   "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe": {
     "ts": "2026-09-25T07:22:42.782124+00:00",
     "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up"
@@ -21426,5 +21186,125 @@
   "https://securityaffairs.com/203820/data-breach/microsoft-entra-connect-health-breach-exposes-tenant-metadata-and-admin-details.html": {
     "ts": "2026-11-23T21:01:58.158449+00:00",
     "title": "Microsoft Entra Connect Health Breach Exposes Tenant Metadata and Admin Details"
+  },
+  "https://asec.ahnlab.com/en/96734/": {
+    "ts": "2026-11-24T05:19:19.298537+00:00",
+    "title": "October 2026 Threat Trend Report on Ransomware"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/": {
+    "ts": "2026-11-24T05:19:19.374786+00:00",
+    "title": "Microsoft Azure flaw exploited to steal customers' API credentials"
+  },
+  "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure": {
+    "ts": "2026-11-24T05:19:19.374798+00:00",
+    "title": "Industrial Serial Gateways Broadcast That They're Insecure"
+  },
+  "https://www.darktrace.com/blog/darktrace-secure-ai-extending-behavioral-security-for-the-age-of-agentic-ai": {
+    "ts": "2026-11-24T05:19:19.374802+00:00",
+    "title": "Darktrace / SECURE AI: Behavioral Security for the AI enterprise"
+  },
+  "https://gbhackers.com/openai-and-cisco-introduce-shirudo-to-block-exploits/": {
+    "ts": "2026-11-24T05:19:19.374807+00:00",
+    "title": "OpenAI and Cisco Introduce Shirudo to Block Exploits on Running Linux Systems"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/hardening-code-pipelines-and-ci-cd-infrastructure/": {
+    "ts": "2026-11-24T05:19:19.374810+00:00",
+    "title": "Proactive Defense: Hardening Code Pipelines and CI/CD Infrastructure"
+  },
+  "https://www.group-ib.com/blog/no-one-gets-phished-browser-agent/": {
+    "ts": "2026-11-24T05:19:19.374812+00:00",
+    "title": "No One Gets Phished: The New Group-IB Browser Agent Applies Predictive Intelligence At The Click"
+  },
+  "https://www.helpnetsecurity.com/2026/11/24/stalwart-microsoft-exchange-replacement/": {
+    "ts": "2026-11-24T05:19:19.374815+00:00",
+    "title": "Stalwart: Open-source Microsoft Exchange replacement"
+  },
+  "https://www.malwarebytes.com/blog/threat-intel/2026/11/oxloader-abuses-dll-hijacking-to-distribute-different-malware-families": {
+    "ts": "2026-11-24T05:19:19.419351+00:00",
+    "title": "OXLoader abuses DLL hijacking to distribute different malware families"
+  },
+  "https://www.recordedfuture.com/blog/what-are-threat-intelligence-feeds": {
+    "ts": "2026-11-24T05:19:19.419361+00:00",
+    "title": "What are threat intelligence feeds?"
+  },
+  "https://rewterz.com/threat-advisory/fbi-warns-of-artex-ai-framework-enabling-automated-cyberattacks-active-iocs": {
+    "ts": "2026-11-24T05:19:19.463469+00:00",
+    "title": "FBI Warns of ARTEX AI Framework Enabling Automated Cyberattacks \u2013 Active IOCs"
+  },
+  "https://securityaffairs.com/203794/intelligence/bulgaria-discovers-massive-government-breach-after-five-years-of-undetected-spying.html": {
+    "ts": "2026-11-24T05:19:19.507366+00:00",
+    "title": "Bulgaria Discovers Massive Government Breach After Five Years of Undetected Spying"
+  },
+  "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/": {
+    "ts": "2026-11-24T05:19:19.552697+00:00",
+    "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack"
+  },
+  "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html": {
+    "ts": "2026-11-24T05:19:19.600481+00:00",
+    "title": "\u26a1 Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble"
+  },
+  "https://www.theregister.com/security/2026/11/24/orgs-that-leak-data-prioritize-corporate-interests-over-customers-says-have-i-been-pwneds-troy-hunt/5311802": {
+    "ts": "2026-11-24T05:19:19.644235+00:00",
+    "title": "Orgs that leak data \u2018prioritize corporate interests over customers\u2019 says Have I Been Pwned\u2019s Troy Hunt"
+  },
+  "https://undercodenews.com/threatmon-reports-two-new-ransomware-victim-claims-southern-synergy-and-japanese-organization-wakao-video/#new_tab": {
+    "ts": "2026-11-24T05:19:19.689094+00:00",
+    "title": "ThreatMon has reported allegations regarding two new victims of ransomware attacks, including Southern Synergy and the Japanese organization Wakao."
+  },
+  "https://threats.wiz.io/all-incidents/ncs-mass-server-deletion": {
+    "ts": "2026-11-24T05:19:19.689109+00:00",
+    "title": "NCS mass server deletion (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/": {
+    "ts": "2026-11-24T05:19:19.689113+00:00",
+    "title": "Spanish LaLiga confirms hackers stole soccer fans\u2019 personal data"
+  },
+  "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal": {
+    "ts": "2026-11-24T05:19:19.689117+00:00",
+    "title": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal"
+  },
+  "https://www.darktrace.com/blog/hijacking-agentic-harnesses-to-attack-an-organization": {
+    "ts": "2026-11-24T05:19:19.734397+00:00",
+    "title": "Agent Hijacks: How Conversation History Poisoning Can Turn AI Agents Into Attackers"
+  },
+  "https://gbhackers.com/indian-government-warns-whatsapp-web-sessions-can-be-hijacked/": {
+    "ts": "2026-11-24T05:19:19.780020+00:00",
+    "title": "Indian Government Warns WhatsApp Web Sessions Can Be Hijacked to Steal Messages and Impersonate Users"
+  },
+  "https://www.group-ib.com/blog/whatsapp-forensic-artifacts/": {
+    "ts": "2026-11-24T05:19:19.825460+00:00",
+    "title": "WhatsApp in Plain Sight: Where and How You Can Collect Forensic Artifacts"
+  },
+  "https://www.helpnetsecurity.com/2026/11/24/cybersecurity-jobs-available-right-now-november-24-2026/": {
+    "ts": "2026-11-24T05:19:19.870006+00:00",
+    "title": "Cybersecurity jobs available right now: November 24, 2026"
+  },
+  "https://www.recordedfuture.com/blog/russia-new-generation-warfare": {
+    "ts": "2026-11-24T05:19:19.915164+00:00",
+    "title": "Russia Escalating Hybrid Attacks Across Europe"
+  },
+  "https://rewterz.com/threat-advisory/microsoft-ai-agent-framework-compromise-delivers-credential-stealing-malware-active-iocs": {
+    "ts": "2026-11-24T05:19:19.959797+00:00",
+    "title": "Microsoft AI Agent Framework Compromise Delivers Credential-Stealing Malware \u2013 Active IOCs"
+  },
+  "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/": {
+    "ts": "2026-11-24T05:19:20.004883+00:00",
+    "title": "phpAfterShell Vulnerability Revives PHP2Shell\u2019s Attack Path"
+  },
+  "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html": {
+    "ts": "2026-11-24T05:19:20.049512+00:00",
+    "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions"
+  },
+  "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795": {
+    "ts": "2026-11-24T05:19:20.049526+00:00",
+    "title": "Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse"
+  },
+  "https://undercodenews.com/n0n-ransomware-group-claims-two-new-victims-happyfresh-group-and-nielsen-video/#new_tab": {
+    "ts": "2026-11-24T05:19:20.097091+00:00",
+    "title": "N0n Ransomware Group Finds Two More Victims"
+  },
+  "https://threats.wiz.io/all-incidents/rce-vulnerability-in-php-cgi-exploited-by-tellyouthepass": {
+    "ts": "2026-11-24T05:19:20.140875+00:00",
+    "title": "RCE Vulnerability in PHP CGI Exploited by TellYouThePass (Campaign)"
   }
 }

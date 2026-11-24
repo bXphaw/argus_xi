@@ -44,6 +44,46 @@
       "category": "new_technique",
       "title": "PHP Patches Multiple Critical Vulnerabilities Enabling Remote Code Execution",
       "url": "https://rewterz.com/threat-advisory/php-patches-multiple-critical-vulnerabilities-enabling-remote-code-execution"
+    },
+    {
+      "category": "new_technique",
+      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "OXLoader abuses DLL hijacking to distribute different malware families",
+      "url": "https://www.malwarebytes.com/blog/threat-intel/2026/11/oxloader-abuses-dll-hijacking-to-distribute-different-malware-families"
+    },
+    {
+      "category": "threat_actor",
+      "title": "ThreatMon has reported allegations regarding two new victims of ransomware attacks, including Southern Synergy and the Japanese organization Wakao.",
+      "url": "https://undercodenews.com/threatmon-reports-two-new-ransomware-victim-claims-southern-synergy-and-japanese-organization-wakao-video/#new_tab"
+    },
+    {
+      "category": "new_technique",
+      "title": "Agent Hijacks: How Conversation History Poisoning Can Turn AI Agents Into Attackers",
+      "url": "https://www.darktrace.com/blog/hijacking-agentic-harnesses-to-attack-an-organization"
+    },
+    {
+      "category": "new_technique",
+      "title": "phpAfterShell Vulnerability Revives PHP2Shell\u2019s Attack Path",
+      "url": "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+      "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "N0n Ransomware Group Finds Two More Victims",
+      "url": "https://undercodenews.com/n0n-ransomware-group-claims-two-new-victims-happyfresh-group-and-nielsen-video/#new_tab"
+    },
+    {
+      "category": "malware_windows",
+      "title": "RCE Vulnerability in PHP CGI Exploited by TellYouThePass (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/rce-vulnerability-in-php-cgi-exploited-by-tellyouthepass"
     }
   ],
   "last_sent_date": "2026-11-23"
