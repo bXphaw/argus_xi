@@ -1,160 +1,4 @@
 {
-  "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe": {
-    "ts": "2026-09-25T07:22:42.782124+00:00",
-    "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up"
-  },
-  "https://www.helpnetsecurity.com/2026/09/25/ariel-assaraf-coralogix-ai-agent-guardrails/": {
-    "ts": "2026-09-25T07:22:42.782145+00:00",
-    "title": "Stop watching what AI agents say and start watching what they do"
-  },
-  "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/": {
-    "ts": "2026-09-25T07:22:42.782149+00:00",
-    "title": "Roundcube Webmail Vulnerability in Attackers\u2019 Crosshairs"
-  },
-  "https://www.sekoia.com/blog/mallox-ransomware-affiliate-leverages-purecrypter-in-microsoft-sql-exploitation-campaigns": {
-    "ts": "2026-09-25T07:22:43.259760+00:00",
-    "title": "Mallox ransomware affiliate uses PureCrypter in MS-SQL attacks"
-  },
-  "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html": {
-    "ts": "2026-09-25T07:22:43.259778+00:00",
-    "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data"
-  },
-  "https://www.helpnetsecurity.com/2026/09/25/sans-threat-hunting-data-quality/": {
-    "ts": "2026-09-25T07:22:43.447497+00:00",
-    "title": "Half of threat hunters say bad data is their biggest problem"
-  },
-  "https://www.sekoia.com/blog/guarding-democracy-assessing-cyber-threats-to-2024-worldwide-elections": {
-    "ts": "2026-09-25T07:22:43.635384+00:00",
-    "title": "Assessing Cyber Threats to 2024 Worldwide Elections"
-  },
-  "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html": {
-    "ts": "2026-09-25T07:22:43.822803+00:00",
-    "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV"
-  },
-  "https://www.helpnetsecurity.com/2026/09/25/eu-usa-retail-chain-cyberattacks/": {
-    "ts": "2026-09-25T07:22:44.019015+00:00",
-    "title": "Your incident count is missing a few incidents"
-  },
-  "https://www.helpnetsecurity.com/2026/09/25/new-infosec-products-of-the-month-september-2026/": {
-    "ts": "2026-09-25T07:22:44.215475+00:00",
-    "title": "New infosec products of the month: September 2026"
-  },
-  "https://securityaffairs.com/199704/hacking/u-s-cisa-adds-adobe-and-wso2-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
-    "ts": "2026-09-25T13:26:00.762517+00:00",
-    "title": "U.S. CISA adds Adobe and WSO2\u00a0flaws to its Known Exploited Vulnerabilities catalog"
-  },
-  "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html": {
-    "ts": "2026-09-25T13:26:07.353481+00:00",
-    "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild"
-  },
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/": {
-    "ts": "2026-09-25T13:28:01.613163+00:00",
-    "title": "Microsoft plans to deprecate Windows Deployment Services"
-  },
-  "https://cyble.com/blog/ss7-bgp-nation-state-intrusions/": {
-    "ts": "2026-09-25T13:28:01.843735+00:00",
-    "title": "Inside the Telecom Attack Surface: SS7, BGP Hijacking, and the Technical Reality of Nation-State Intrusions"
-  },
-  "https://www.helpnetsecurity.com/2026/09/25/threat-detections-coverage-gaps-report/": {
-    "ts": "2026-09-25T13:28:01.843755+00:00",
-    "title": "Threat detection dashboards are masking security coverage gaps"
-  },
-  "https://www.malwarebytes.com/blog/news/2026/09/criminals-turn-placeholder-domain-into-clickfix-trap": {
-    "ts": "2026-09-25T13:28:02.024650+00:00",
-    "title": "Criminals turn placeholder domain into ClickFix trap"
-  },
-  "https://moonlock.com/ccspayment-scam": {
-    "ts": "2026-09-25T13:28:02.024669+00:00",
-    "title": "Is CCSPayment a scam or legit? What CCS Offices notices really mean"
-  },
-  "https://securityaffairs.com/199716/malware/ai-powered-carbonato-botnet-steals-credentials-to-fund-its-own-llm-gateway.html": {
-    "ts": "2026-09-25T13:28:02.203369+00:00",
-    "title": "AI-Powered CARBONATO Botnet Steals Credentials to Fund Its Own LLM Gateway"
-  },
-  "https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/": {
-    "ts": "2026-09-25T13:28:02.383294+00:00",
-    "title": "CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks"
-  },
-  "https://socradar.io/blog/check-point-pre-auth-flaws/": {
-    "ts": "2026-09-25T13:28:02.563705+00:00",
-    "title": "Check Point Pre-Auth Flaws Under Attack"
-  },
-  "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html": {
-    "ts": "2026-09-25T13:28:02.744902+00:00",
-    "title": "The SOC Doesn't Need to Start Over with Every Alert"
-  },
-  "https://www.intego.com/mac-security-blog/hide-notes-on-iphone/": {
-    "ts": "2026-09-25T13:28:02.923761+00:00",
-    "title": "How to hide notes on your iPhone"
-  },
-  "https://threatmon.io/port-scanning-vs-service-detection-what-an-open-port-really-means/": {
-    "ts": "2026-09-25T13:28:02.923780+00:00",
-    "title": "Port Scanning vs Service Detection: What an Open Port Really Means"
-  },
-  "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/": {
-    "ts": "2026-09-25T13:28:02.923784+00:00",
-    "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison"
-  },
-  "https://www.helpnetsecurity.com/2026/09/25/macsync-info-stealing-malware-for-macos/": {
-    "ts": "2026-09-25T13:28:03.103690+00:00",
-    "title": "MacSync info-stealing malware hides malicious commands in an iCloud calendar"
-  },
-  "https://www.malwarebytes.com/blog/threat-intel/2026/09/that-shipping-rebate-offer-may-come-with-a-monthly-charge": {
-    "ts": "2026-09-25T13:28:03.103709+00:00",
-    "title": "That shipping rebate offer may come with a monthly charge"
-  },
-  "https://moonlock.com/zoom-slack-downloads-spreading-sonoma-stealer": {
-    "ts": "2026-09-25T13:28:03.284996+00:00",
-    "title": "Fake Zoom and Slack downloads are spreading the new Sonoma stealer"
-  },
-  "https://www.securityweek.com/kosovar-owner-of-rydox-marketplace-pleads-guilty-in-us-court/": {
-    "ts": "2026-09-25T13:28:03.469428+00:00",
-    "title": "Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court"
-  },
-  "https://socradar.io/blog/operation-master-intrusion-monetization-pipeline/": {
-    "ts": "2026-09-25T13:28:03.653284+00:00",
-    "title": "Operation Master: Deconstructing a Multi-Tiered Intrusion and Monetization Pipeline"
-  },
-  "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html": {
-    "ts": "2026-09-25T13:28:03.840054+00:00",
-    "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise"
-  },
-  "https://www.intego.com/mac-security-blog/are-corrupt-my-file-sites-safe-heres-why-to-avoid-corrupt-a-file-services/": {
-    "ts": "2026-09-25T13:28:04.006525+00:00",
-    "title": "Are \u201ccorrupt my file\u201d sites safe? What to know before uploading a file"
-  },
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/": {
-    "ts": "2026-09-25T13:28:04.182947+00:00",
-    "title": "Microsoft: Recent Windows updates cause desktop loading issues"
-  },
-  "https://www.helpnetsecurity.com/2026/09/25/fake-payroll-desktop-apps-screenconnect/": {
-    "ts": "2026-09-25T13:28:04.361466+00:00",
-    "title": "Fake payroll desktop apps hand attackers a route to company paychecks"
-  },
-  "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/": {
-    "ts": "2026-09-25T13:28:04.541562+00:00",
-    "title": "Windows, Linux, Android File Notification Systems Leak User Activity"
-  },
-  "https://socradar.io/blog/eclecticiq-intelligence-center-socradar-dark-web/": {
-    "ts": "2026-09-25T13:28:04.541582+00:00",
-    "title": "Closing the Dark Web Blind Spot in EclecticIQ Intelligence Center with SOCRadar"
-  },
-  "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/": {
-    "ts": "2026-09-25T13:28:04.726781+00:00",
-    "title": "Hackers steal $351.6 million in Bitget crypto exchange hack"
-  },
-  "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/": {
-    "ts": "2026-09-25T13:28:04.891463+00:00",
-    "title": "\u2018SalesBleed\u2019 Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration"
-  },
-  "https://socradar.io/blog/cve-2026-94127-f5-big-ip-apm-rce/": {
-    "ts": "2026-09-25T13:28:05.070948+00:00",
-    "title": "CVE-2026-94127: F5 BIG-IP APM RCE Under Active Exploitation"
-  },
-  "https://socradar.io/blog/shinyhunters-access-fbi-systems/": {
-    "ts": "2026-09-25T13:28:05.248784+00:00",
-    "title": "ShinyHunters Claims Access to FBI Systems"
-  },
   "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/": {
     "ts": "2026-09-25T18:23:29.687504+00:00",
     "title": "Elementor WordPress flaw lets attackers create admin accounts"
@@ -21306,5 +21150,125 @@
   "https://threats.wiz.io/all-incidents/rce-vulnerability-in-php-cgi-exploited-by-tellyouthepass": {
     "ts": "2026-11-24T05:19:20.140875+00:00",
     "title": "RCE Vulnerability in PHP CGI Exploited by TellYouThePass (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/": {
+    "ts": "2026-11-24T17:16:11.316921+00:00",
+    "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof"
+  },
+  "https://research.checkpoint.com/2026/volant-manticore-flying-under-the-radar/": {
+    "ts": "2026-11-24T17:16:11.355153+00:00",
+    "title": "Volant Manticore: Flying Under the Radar"
+  },
+  "https://www.crowdstrike.com/en-us/blog/reprioritizing-automated-leads-crowdstrike-signal/": {
+    "ts": "2026-11-24T17:16:11.355172+00:00",
+    "title": "Reprioritizing Automated Leads with CrowdStrike Signal"
+  },
+  "https://cybersecuritynews.com/mcdonalds-japan-data-breach/": {
+    "ts": "2026-11-24T17:16:11.355176+00:00",
+    "title": "McDonald\u2019s Japan Confirms Data Breach \u2013 Customer Information and Location Data Exposed"
+  },
+  "https://cyble.com/blog/cve-2026-123890-vcenter-zero-day-patching/": {
+    "ts": "2026-11-24T17:16:11.391642+00:00",
+    "title": "Patching vCenter Zero-Day Is Only Step One"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes": {
+    "ts": "2026-11-24T17:16:11.424564+00:00",
+    "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes"
+  },
+  "https://www.darktrace.com/blog/detecting-rogue-agent-behavior-in-the-enterprise": {
+    "ts": "2026-11-24T17:16:11.424584+00:00",
+    "title": "Detecting Rogue AI Agents: When Enterprise Agents Turn to Hacking"
+  },
+  "https://gbhackers.com/zqagent-malware-attack/": {
+    "ts": "2026-11-24T17:16:11.458184+00:00",
+    "title": "AI-Powered Hackers Deploy Stealthy ZQAgent Malware to Keep Control of Compromised Linux Servers"
+  },
+  "https://www.group-ib.com/blog/before-a-stolen-password-becomes-an-attack-identity-protection-with-group-ib-xdr/": {
+    "ts": "2026-11-24T17:16:11.458204+00:00",
+    "title": "Before A Stolen Password Becomes An Attack: Identity Protection With Group-IB XDR"
+  },
+  "https://www.helpnetsecurity.com/2026/11/24/gta-vi-hacker-sentenced-seven-years-released-on-licence/": {
+    "ts": "2026-11-24T17:16:11.490997+00:00",
+    "title": "GTA 6 hacker sentenced to seven years and released the same day"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/11/new-windows-security-check-could-let-apps-block-access": {
+    "ts": "2026-11-24T17:16:11.524605+00:00",
+    "title": "New Windows security check could let apps block access"
+  },
+  "https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/": {
+    "ts": "2026-11-24T17:16:11.558825+00:00",
+    "title": "Recent Trends and Tactics of Agentic AI Attacks"
+  },
+  "https://www.rapid7.com/blog/post/dr-comparing-mdr-providers-scorecard": {
+    "ts": "2026-11-24T17:16:11.591416+00:00",
+    "title": "How to compare MDR providers when every proposal looks promising"
+  },
+  "https://www.recordedfuture.com/blog/cyber-threats-space-race": {
+    "ts": "2026-11-24T17:16:11.625130+00:00",
+    "title": "The Cyber Threats Behind Space Race 2.0"
+  },
+  "https://rewterz.com/threat-advisory/optimizely-supply-chain-attack-injects-malicious-javascript-across-178-organizations-active-iocs": {
+    "ts": "2026-11-24T17:16:11.658190+00:00",
+    "title": "Optimizely Supply Chain Attack Injects Malicious JavaScript Across 178 Organizations \u2013 Active IOCs"
+  },
+  "https://securityaffairs.com/203882/hacking/u-s-cisa-adds-n-able-mailassure-and-project-monai-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-11-24T17:16:11.658209+00:00",
+    "title": "U.S. CISA adds N-able MailAssure and Project MONAI\u00a0flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/": {
+    "ts": "2026-11-24T17:16:11.658213+00:00",
+    "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities"
+  },
+  "https://www.sekoia.com/blog/ai-soc-integrations-6-capabilities-worth-connecting": {
+    "ts": "2026-11-24T17:16:11.658217+00:00",
+    "title": "6 AI SOC Integrations Actually Worth Connecting"
+  },
+  "https://socradar.io/blog/cisco-expressway-rce-cve-2026-76466-exploited/": {
+    "ts": "2026-11-24T17:16:11.691843+00:00",
+    "title": "Cisco Expressway RCE (CVE-2026-76466) Exploited for Root Access"
+  },
+  "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html": {
+    "ts": "2026-11-24T17:16:11.691861+00:00",
+    "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation"
+  },
+  "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922": {
+    "ts": "2026-11-24T17:16:11.724557+00:00",
+    "title": "An AI coding agent, a browser, and a Mac tool found a financial firm's access key in under 6 minutes"
+  },
+  "https://securitymea.com/2026/11/16/threatmon-highlights-the-need-for-proactive-cyber-threat-intelligence/#new_tab": {
+    "ts": "2026-11-24T17:16:11.758253+00:00",
+    "title": "ThreatMon Highlights the Need for Proactive Cyber Threat Intelligence"
+  },
+  "https://threats.wiz.io/all-incidents/nyt-source-code-theft": {
+    "ts": "2026-11-24T17:16:11.790252+00:00",
+    "title": "NYT source code theft (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/": {
+    "ts": "2026-11-24T17:16:11.823725+00:00",
+    "title": "European Commission confirms data theft in EU Academy breach"
+  },
+  "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/": {
+    "ts": "2026-11-24T17:16:11.859057+00:00",
+    "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached-norwegian": {
+    "ts": "2026-11-24T17:16:11.859076+00:00",
+    "title": "Nok et norsk energiselskap har blitt utsatt for et datainnbrudd p\u00e5 to dager"
+  },
+  "https://www.darktrace.com/blog/the-problem-of-re-defining-human-value-in-the-agentic-age": {
+    "ts": "2026-11-24T17:16:11.859080+00:00",
+    "title": "Human Judgement in the Agentic AI Age | Darktrace"
+  },
+  "https://gbhackers.com/new-android-camera-attack/": {
+    "ts": "2026-11-24T17:16:11.891039+00:00",
+    "title": "New Android Camera Attack Lets Hackers Eavesdrop on Speech Without Microphone Access"
+  },
+  "https://www.group-ib.com/blog/fakeapt28/": {
+    "ts": "2026-11-24T17:16:11.891057+00:00",
+    "title": "RDoS attacks by fake Fancy Bear hit banks in multiple locations"
+  },
+  "https://www.helpnetsecurity.com/2026/11/24/shinyhunters-inception-leak-site-okta/": {
+    "ts": "2026-11-24T17:16:11.923441+00:00",
+    "title": "ShinyHunters-linked crew resurfaces on new leak site"
   }
 }
