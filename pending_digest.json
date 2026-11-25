@@ -1,4 +1,50 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "malware_linux",
+      "title": "Hackers Deploy ZQAgent Backdoor to Run Malicious Commands and Access Files on Linux Servers",
+      "url": "https://cybersecuritynews.com/hackers-deploy-zqagent-backdoor/"
+    },
+    {
+      "category": "new_technique",
+      "title": "EvilTokens Phishing Infrastructure Resurfaces After Microsoft Takedown With New Device-Code Attack Hosts",
+      "url": "https://gbhackers.com/eviltokens-phishing-infrastructure/"
+    },
+    {
+      "category": "new_technique",
+      "title": "ScreenConnect Flaw CVE-2026-84869 Exploited",
+      "url": "https://socradar.io/blog/screenconnect-cve-2026-84869-exploitation/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+      "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html"
+    },
+    {
+      "category": "malware_linux",
+      "title": "DERO cryptojacking campaign (2024) (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/dero-cryptojacking-campaign-2024"
+    },
+    {
+      "category": "new_technique",
+      "title": "New Inception extortion gang launches large-scale vishing campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical ASP.NET AntiCsrf Flaw Exploited in Attacks by triggering a web redirect on vulnerable apps",
+      "url": "https://cybersecuritynews.com/critical-asp-net-anticsrf-flaw-exploited/"
+    },
+    {
+      "category": "malware_other",
+      "title": "Don't Eat the ChocoPoCs: Trojanised PoCs Hit Researchers",
+      "url": "https://www.sekoia.com/blog/dont-eat-the-chocopocs-how-vulnerability-researchers-were-repeatedly-targeted-by-trojanised-exploits"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+      "url": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html"
+    }
+  ],
   "last_sent_date": "2026-11-24"
 }

@@ -1,228 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/": {
-    "ts": "2026-09-25T18:23:29.687504+00:00",
-    "title": "Elementor WordPress flaw lets attackers create admin accounts"
-  },
-  "https://cybersecuritynews.com/oneplus-15-flaws-zero-permission-apps/": {
-    "ts": "2026-09-25T18:23:29.826187+00:00",
-    "title": "OnePlus 15 Flaws Let Zero-Permission Apps Gain Root Access Through OxygenOS Services"
-  },
-  "https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party": {
-    "ts": "2026-09-25T18:23:29.826210+00:00",
-    "title": "What We Missed: Google Gemini Joins the AI Escape Party"
-  },
-  "https://gbhackers.com/salmon-introduces-execution-verification-infrastructure-evi-for-securing-ai-agents-and-autonomous-systems/": {
-    "ts": "2026-09-25T18:23:29.826215+00:00",
-    "title": "Salmon Introduces Execution Verification Infrastructure (EVI) for Securing AI Agents and Autonomous Systems"
-  },
-  "https://www.malwarebytes.com/blog/news/2026/09/linkedin-adds-new-checks-for-fake-profiles-and-work-histories": {
-    "ts": "2026-09-25T18:23:29.826218+00:00",
-    "title": "LinkedIn adds new checks for fake profiles and work histories"
-  },
-  "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/": {
-    "ts": "2026-09-25T18:23:29.942377+00:00",
-    "title": "Storm-3168: Agentic-driven cloud attacks using compromised service principals"
-  },
-  "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-belgian-waffles-chocolates-and-modules-frites": {
-    "ts": "2026-09-25T18:23:30.060852+00:00",
-    "title": "Metasploit Wrap Up: Belgian Waffles, Chocolates, and\u2026Modules-Frites?"
-  },
-  "https://securityaffairs.com/199754/cyber-crime/cryptocurrency-exchange-bitget-says-north-korea-linked-hackers-stole-351-6-million.html": {
-    "ts": "2026-09-25T18:23:30.172395+00:00",
-    "title": "Cryptocurrency exchange Bitget Says North Korea-Linked Hackers Stole $351.6 Million"
-  },
-  "https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/": {
-    "ts": "2026-09-25T18:23:30.297588+00:00",
-    "title": "In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure"
-  },
-  "https://www.silentpush.com/white-papers-and-reports/threat-research-roundup-september-2026/?utm_source=rss&utm_medium=rss&utm_campaign=threat-research-roundup-september-2026": {
-    "ts": "2026-09-25T18:23:30.432560+00:00",
-    "title": "Threat Research Roundup: September 2026"
-  },
-  "https://socradar.io/blog/dark-web-profile-blue-locker-ransomware/": {
-    "ts": "2026-09-25T18:23:30.559241+00:00",
-    "title": "Dark Web Profile: Blue Locker Ransomware"
-  },
-  "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html": {
-    "ts": "2026-09-25T18:23:30.682943+00:00",
-    "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware"
-  },
-  "https://www.theregister.com/security/2026/09/25/crooks-use-fake-desktop-apps-to-fool-hr-staff-into-giving-them-remote-access/5299226": {
-    "ts": "2026-09-25T18:23:30.682963+00:00",
-    "title": "Crooks use fake desktop apps to fool HR staff into giving them remote access"
-  },
-  "https://www.welivesecurity.com/en/scams/been-told-pay-bitcoin-atm-read-first/": {
-    "ts": "2026-09-25T18:23:30.682967+00:00",
-    "title": "Been told to pay at a Bitcoin ATM? Read this first"
-  },
-  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/": {
-    "ts": "2026-09-25T18:23:30.682970+00:00",
-    "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks"
-  },
-  "https://cybersecuritynews.com/14-year-old-linux-kernel-flaw/": {
-    "ts": "2026-09-25T18:23:30.809805+00:00",
-    "title": "14-Year-Old Linux Kernel Flaw Lets Local Users Gain Root Access and Escape Containers"
-  },
-  "https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process": {
-    "ts": "2026-09-25T18:23:30.940850+00:00",
-    "title": "Stopping IT Worker Scams Requires Revamped HR Process"
-  },
-  "https://gbhackers.com/14-year-old-linux-kernel-vulnerability/": {
-    "ts": "2026-09-25T18:23:31.073299+00:00",
-    "title": "14-Year-Old Linux Kernel Vulnerability Enables Root Access and Docker Escape"
-  },
-  "https://www.malwarebytes.com/blog/threat-intel/2026/09/kothamine-malware-uses-tailscales-tailcat-to-evade-network-detection": {
-    "ts": "2026-09-25T18:23:31.199747+00:00",
-    "title": "Kothamine malware uses Tailscale\u2019s tailcat to evade network detection"
-  },
-  "https://securityaffairs.com/199731/malware/clickfix-campaign-abuses-trusted-websites-to-deploy-psychedelic-stealer.html": {
-    "ts": "2026-09-25T18:23:31.325900+00:00",
-    "title": "ClickFix Campaign Abuses Trusted Websites to Deploy Psychedelic Stealer"
-  },
-  "https://www.securityweek.com/north-korea-suspected-in-351-million-bitget-crypto-heist/": {
-    "ts": "2026-09-25T18:23:31.325921+00:00",
-    "title": "North Korea Suspected in $351 Million Bitget Crypto Heist"
-  },
-  "https://socradar.io/blog/roundcube-sqli-cve-2026-48842/": {
-    "ts": "2026-09-25T18:23:31.325926+00:00",
-    "title": "Roundcube SQLi (CVE-2026-48842) Exploited"
-  },
-  "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html": {
-    "ts": "2026-09-25T18:23:31.452685+00:00",
-    "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence"
-  },
-  "https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218": {
-    "ts": "2026-09-25T18:23:31.452705+00:00",
-    "title": "Bitget blames North Korea for $387.5M crypto wallet raid"
-  },
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/": {
-    "ts": "2026-09-25T18:23:31.452710+00:00",
-    "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions"
-  },
-  "https://cybersecuritynews.com/samsung-flaw/": {
-    "ts": "2026-09-25T18:23:31.593146+00:00",
-    "title": "Hackers Used a Samsung Flaw to Build a Cryptominer Inside Victim Systems"
-  },
-  "https://gbhackers.com/servicenow-security-flaws/": {
-    "ts": "2026-09-25T18:23:31.716107+00:00",
-    "title": "ServiceNow Security Flaws Allow Attackers to Execute SQL and Modify Instance Data"
-  },
-  "https://www.theregister.com/storage/2026/09/25/sponsored/5299080": {
-    "ts": "2026-09-25T18:23:31.850760+00:00",
-    "title": "Which copy of that file is the real one? Dinner, off the record, in Midtown"
-  },
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/": {
-    "ts": "2026-09-25T18:23:31.994322+00:00",
-    "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex"
-  },
-  "https://cybersecuritynews.com/botnet-uses-ai-agent/": {
-    "ts": "2026-09-25T18:23:32.127108+00:00",
-    "title": "Researchers Found a Botnet That Uses an AI Agent to Operate Inside Compromised Servers"
-  },
-  "https://securityaffairs.com/199777/hacking/u-s-cisa-adds-microsoft-sharepoint-and-mikrotik-routeros-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
-    "ts": "2026-09-25T22:06:01.388194+00:00",
-    "title": "U.S. CISA adds Microsoft SharePoint and Mikrotik RouterOS flaws to its Known Exploited Vulnerabilities catalog"
-  },
-  "https://cybersecuritynews.com/salmon-introduces-execution-verification-infrastructure-evi-for-securing-ai-agents-and-autonomous-systems/": {
-    "ts": "2026-09-25T22:06:04.681491+00:00",
-    "title": "Salmon Introduces Execution Verification Infrastructure (EVI) for Securing AI Agents and Autonomous Systems"
-  },
-  "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/": {
-    "ts": "2026-09-25T22:07:31.829235+00:00",
-    "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks"
-  },
-  "https://cybersecuritynews.com/sauron-loader-malware/": {
-    "ts": "2026-09-25T22:07:32.119547+00:00",
-    "title": "Sauron Loader Malware Uses DLL Side-Loading and In-Memory Decryption to Evade Detection"
-  },
-  "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness": {
-    "ts": "2026-09-25T22:07:32.119591+00:00",
-    "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment"
-  },
-  "https://gbhackers.com/rogue-ai-agents-tried-to-hack-public-websites/": {
-    "ts": "2026-09-25T22:07:32.119596+00:00",
-    "title": "Rogue AI Agents Tried to Hack Public Websites After Data Retrieval Failed"
-  },
-  "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/": {
-    "ts": "2026-09-25T22:07:32.119600+00:00",
-    "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions"
-  },
-  "https://www.recordedfuture.com/blog/ransomware-threat-intelligence": {
-    "ts": "2026-09-25T22:07:32.222001+00:00",
-    "title": "Using Threat Intelligence to Stop Ransomware Attacks"
-  },
-  "https://www.sophos.com/en-us/blog/kiteworks-recommends-server-shutdown-pending-possible-attack": {
-    "ts": "2026-09-25T22:07:32.325216+00:00",
-    "title": "Kiteworks recommends server shutdown pending possible attack"
-  },
-  "https://www.theregister.com/security/2026/09/25/fake-google-security-team-ad-says-no-script-reading-in-voice-phishing-then-prints-the-script/5299264": {
-    "ts": "2026-09-25T22:07:32.421090+00:00",
-    "title": "Fake Google Security Team ad says 'no script reading' in voice phishing - then prints the script"
-  },
-  "https://www.zscaler.com/blogs/security-research/threat-actors-use-google-ads-target-ledger-users": {
-    "ts": "2026-09-25T22:07:32.516164+00:00",
-    "title": "Threat Actors Use Google Ads To Target Ledger Users"
-  },
-  "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/": {
-    "ts": "2026-09-25T22:07:32.616064+00:00",
-    "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw"
-  },
-  "https://gbhackers.com/cisa-flags-wso2-security-flaw/": {
-    "ts": "2026-09-25T22:07:32.616078+00:00",
-    "title": "CISA Flags WSO2 Security Flaw Under Active Exploitation"
-  },
-  "https://www.theregister.com/cyber-crime/2026/09/25/shinyhunters-tells-the-reg-we-hacked-the-fbi-to-protect-our-business/5299250": {
-    "ts": "2026-09-25T22:07:32.718172+00:00",
-    "title": "ShinyHunters tells The Reg: We hacked the FBI to 'protect our business'"
-  },
-  "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/": {
-    "ts": "2026-09-25T22:07:32.718187+00:00",
-    "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance"
-  },
-  "https://cybersecuritynews.com/tweakos-malware/": {
-    "ts": "2026-09-25T22:07:32.812224+00:00",
-    "title": "TWEAKOS Malware Turns Telegram Into a Stealer, C2 Platform and Stolen Account Marketplace"
-  },
-  "https://gbhackers.com/cisa-adds-multiple-check-point-product-flaws/": {
-    "ts": "2026-09-25T22:07:32.812239+00:00",
-    "title": "CISA Adds Multiple Check Point Product Flaws to Exploited Vulnerabilities List"
-  },
-  "https://cybersecuritynews.com/critical-servicenow-vulnerabilities/": {
-    "ts": "2026-09-25T22:07:32.911213+00:00",
-    "title": "Critical ServiceNow Vulnerabilities Let Attackers Bypass Authorization \u2013 Update Now!"
-  },
-  "https://gbhackers.com/salesforce-agentforce-flaw/": {
-    "ts": "2026-09-25T22:07:33.015297+00:00",
-    "title": "Salesforce Agentforce Flaw Enables 0-Click Data Exfiltration via Prompt Injection"
-  },
-  "https://cybersecuritynews.com/wordpress-comment2shell-vulnerability/": {
-    "ts": "2026-09-25T22:07:33.119721+00:00",
-    "title": "WordPress Comment2Shell Vulnerability Lets Hackers Take Over Sites Through Comments"
-  },
-  "https://gbhackers.com/sudo-vulnerability/": {
-    "ts": "2026-09-25T22:07:33.219341+00:00",
-    "title": "Sudo Vulnerability Lets Attackers Bypass Time-Based Authorization Controls"
-  },
-  "https://cybersecuritynews.com/business-emails/": {
-    "ts": "2026-09-25T22:07:33.323323+00:00",
-    "title": "Attackers Are Turning Everyday Business Emails Into Malware Delivery Machines"
-  },
-  "https://gbhackers.com/duelbits-hot-wallet-hack-drains-7-million/": {
-    "ts": "2026-09-25T22:07:33.426641+00:00",
-    "title": "Duelbits Hot Wallet Hack Drains $7 Million, Forces Platform Offline"
-  },
-  "https://gbhackers.com/attackers-drain-payy-network/": {
-    "ts": "2026-09-25T22:07:33.529868+00:00",
-    "title": "Attackers Drain Payy Network After Exploiting Ethereum Bridge Contract"
-  },
-  "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/": {
-    "ts": "2026-09-26T01:18:53.518969+00:00",
-    "title": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft"
-  },
-  "https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/": {
-    "ts": "2026-09-26T01:18:53.518985+00:00",
-    "title": "3 Consulting Myths Debunked by Unit 42 Experts"
-  },
   "https://www.welivesecurity.com/en/mobile-security/is-new-vibe-coded-app-safe-5-questions-ask-first/": {
     "ts": "2026-09-26T07:17:44.580652+00:00",
     "title": "Is that vibe coded app safe? 5 checks before you download"
@@ -21270,5 +21046,125 @@
   "https://www.helpnetsecurity.com/2026/11/24/shinyhunters-inception-leak-site-okta/": {
     "ts": "2026-11-24T17:16:11.923441+00:00",
     "title": "ShinyHunters-linked crew resurfaces on new leak site"
+  },
+  "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/": {
+    "ts": "2026-11-25T02:04:55.991302+00:00",
+    "title": "Rackspace shuts down Spot cloud platform after security breach"
+  },
+  "https://cofense.com/blog/automation-you-can-explain-why-ai-driven-phishing-defense-needs-human-oversight": {
+    "ts": "2026-11-25T02:04:55.991321+00:00",
+    "title": "Automation You Can Explain: Why AI-Driven Phishing Defense Needs Human Oversight"
+  },
+  "https://cybersecuritynews.com/hackers-deploy-zqagent-backdoor/": {
+    "ts": "2026-11-25T02:04:56.185941+00:00",
+    "title": "Hackers Deploy ZQAgent Backdoor to Run Malicious Commands and Access Files on Linux Servers"
+  },
+  "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem": {
+    "ts": "2026-11-25T02:04:56.185965+00:00",
+    "title": "Satellites Have a Ground-Level Cybersecurity Problem"
+  },
+  "https://gbhackers.com/eviltokens-phishing-infrastructure/": {
+    "ts": "2026-11-25T02:04:56.305078+00:00",
+    "title": "EvilTokens Phishing Infrastructure Resurfaces After Microsoft Takedown With New Device-Code Attack Hosts"
+  },
+  "https://www.group-ib.com/blog/windows10-timeline-for-forensics/": {
+    "ts": "2026-11-25T02:04:56.411125+00:00",
+    "title": "No Time to Waste"
+  },
+  "https://www.helpnetsecurity.com/2026/11/24/elastic-security-9-6-features/": {
+    "ts": "2026-11-25T02:04:56.519327+00:00",
+    "title": "Elastic puts AI agents to work on the SOC alert backlog"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/11/a-bot-tested-an-aws-key-within-8-seconds-of-exposure": {
+    "ts": "2026-11-25T02:04:56.631144+00:00",
+    "title": "A bot tested an AWS key within 8 seconds of exposure"
+  },
+  "https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/": {
+    "ts": "2026-11-25T02:04:56.742964+00:00",
+    "title": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633"
+  },
+  "https://www.rapid7.com/blog/post/ra-rapid7-analysis-vmware-vcenter-srp-authentication-bypass-to-root-cve-2026-123890": {
+    "ts": "2026-11-25T02:04:56.851007+00:00",
+    "title": "Rapid7 Analysis: VMware vCenter SRP Authentication Bypass to Root (CVE-2026-123890)"
+  },
+  "https://securityaffairs.com/203931/security/vmware-patches-critical-vcenter-authentication-bypass-and-esx-flaws.html": {
+    "ts": "2026-11-25T02:04:56.851028+00:00",
+    "title": "VMware patches critical vCenter authentication bypass and ESX flaws"
+  },
+  "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/": {
+    "ts": "2026-11-25T02:04:56.851034+00:00",
+    "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says"
+  },
+  "https://www.sekoia.com/blog/the-best-of-cloud-built-safely-inside-your-own-perimeter": {
+    "ts": "2026-11-25T02:04:56.851038+00:00",
+    "title": "How to Bring Cloud-Grade Security to your Own Stack"
+  },
+  "https://socradar.io/blog/screenconnect-cve-2026-84869-exploitation/": {
+    "ts": "2026-11-25T02:04:56.957244+00:00",
+    "title": "ScreenConnect Flaw CVE-2026-84869 Exploited"
+  },
+  "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html": {
+    "ts": "2026-11-25T02:04:57.069107+00:00",
+    "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns"
+  },
+  "https://www.theregister.com/security/2026/11/24/we-are-not-shinyhunters-says-criminal-hacking-crew-that-looks-and-acts-just-like-shinyhunters/5311978": {
+    "ts": "2026-11-25T02:04:57.069131+00:00",
+    "title": "'We are not ShinyHunters,' says criminal hacking crew that looks and acts just like ShinyHunters"
+  },
+  "https://thisweekin4n6.com/2026/11/15/week-46-2026/#new_tab": {
+    "ts": "2026-11-25T02:04:57.069137+00:00",
+    "title": "Your weekly roundup of Digital Forensics and Incident Response news"
+  },
+  "https://threats.wiz.io/all-incidents/dero-cryptojacking-campaign-2024": {
+    "ts": "2026-11-25T02:04:57.180456+00:00",
+    "title": "DERO cryptojacking campaign (2024) (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/": {
+    "ts": "2026-11-25T02:04:57.297515+00:00",
+    "title": "New Inception extortion gang launches large-scale vishing campaign"
+  },
+  "https://cybersecuritynews.com/critical-asp-net-anticsrf-flaw-exploited/": {
+    "ts": "2026-11-25T02:04:57.411688+00:00",
+    "title": "Critical ASP.NET AntiCsrf Flaw Exploited in Attacks by triggering a web redirect on vulnerable apps"
+  },
+  "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn": {
+    "ts": "2026-11-25T02:04:57.529836+00:00",
+    "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN"
+  },
+  "https://gbhackers.com/bluetooth-vulnerability/": {
+    "ts": "2026-11-25T02:04:57.642710+00:00",
+    "title": "Hackers Could Suddenly Apply Trailer Brakes at Highway Speeds Through Bluetooth Vulnerability"
+  },
+  "https://www.group-ib.com/blog/troldesh/": {
+    "ts": "2026-11-25T02:04:57.761898+00:00",
+    "title": "50 Shades of Ransomware"
+  },
+  "https://www.helpnetsecurity.com/2026/11/24/azure-apim-vulnerability-credential-theft/": {
+    "ts": "2026-11-25T02:04:57.872370+00:00",
+    "title": "Azure API Management vulnerability exploited to steal customers\u2019 secrets"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/11/researchers-planted-secrets-in-ai-prompts-attackers-found-them": {
+    "ts": "2026-11-25T02:04:57.976233+00:00",
+    "title": "Researchers planted secrets in AI prompts. Attackers found them"
+  },
+  "https://securityaffairs.com/203900/data-breach/eu-academy-users-names-and-emails-exposed-in-eu-commission-hack.html": {
+    "ts": "2026-11-25T02:04:57.976256+00:00",
+    "title": "EU Academy Users\u2019 Names and Emails Exposed in EU Commission Hack"
+  },
+  "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/": {
+    "ts": "2026-11-25T02:04:57.976263+00:00",
+    "title": "European Commission Uncovers Data Breach in Cyberattack Investigation"
+  },
+  "https://www.sekoia.com/blog/dont-eat-the-chocopocs-how-vulnerability-researchers-were-repeatedly-targeted-by-trojanised-exploits": {
+    "ts": "2026-11-25T02:04:58.080583+00:00",
+    "title": "Don't Eat the ChocoPoCs: Trojanised PoCs Hit Researchers"
+  },
+  "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html": {
+    "ts": "2026-11-25T02:04:58.188840+00:00",
+    "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site"
+  },
+  "https://www.theregister.com/security/2026/11/24/crowdstrike-splashes-44b-on-zscaler-customers-brace-for-the-bill/5311877": {
+    "ts": "2026-11-25T02:04:58.188862+00:00",
+    "title": "CrowdStrike splashes $44B on Zscaler, customers brace for the bill"
   }
 }
