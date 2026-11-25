@@ -1,8 +1,4 @@
 {
-  "https://www.welivesecurity.com/en/mobile-security/is-new-vibe-coded-app-safe-5-questions-ask-first/": {
-    "ts": "2026-09-26T07:17:44.580652+00:00",
-    "title": "Is that vibe coded app safe? 5 checks before you download"
-  },
   "https://securityaffairs.com/199790/security/u-s-cisa-adds-wordpress-flaw-to-its-known-exploited-vulnerabilities-catalog.html": {
     "ts": "2026-09-26T12:48:48.918859+00:00",
     "title": "U.S. CISA adds WordPress\u00a0flaw to its Known Exploited Vulnerabilities catalog"
@@ -21166,5 +21162,125 @@
   "https://www.theregister.com/security/2026/11/24/crowdstrike-splashes-44b-on-zscaler-customers-brace-for-the-bill/5311877": {
     "ts": "2026-11-25T02:04:58.188862+00:00",
     "title": "CrowdStrike splashes $44B on Zscaler, customers brace for the bill"
+  },
+  "https://asec.ahnlab.com/en/96757/": {
+    "ts": "2026-11-25T12:22:11.205385+00:00",
+    "title": "Ransom & Dark Web Issues Week 4, November 2026"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/": {
+    "ts": "2026-11-25T12:22:11.205402+00:00",
+    "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps"
+  },
+  "https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/": {
+    "ts": "2026-11-25T12:22:11.239391+00:00",
+    "title": "The Great Escape: Tradecraft insights from an agentic swarm"
+  },
+  "https://cybersecuritynews.com/fake-wordpress-plugin/": {
+    "ts": "2026-11-25T12:22:11.272567+00:00",
+    "title": "Fake WordPress Plugin Lets Hackers Bypass 2FA and Run Malicious Scripts on Visitors"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide": {
+    "ts": "2026-11-25T12:22:11.272578+00:00",
+    "title": "Cyber Insurers See New Divide: AI Defense 'Haves' &amp; 'Have Nots'"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/": {
+    "ts": "2026-11-25T12:22:11.305837+00:00",
+    "title": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft"
+  },
+  "https://www.group-ib.com/blog/digital-forensics-tools/": {
+    "ts": "2026-11-25T12:22:11.305849+00:00",
+    "title": "Tools up: the best software and hardware tools for computer forensics"
+  },
+  "https://www.helpnetsecurity.com/2026/11/25/docker-aws-key-exposure-bots/": {
+    "ts": "2026-11-25T12:22:11.336330+00:00",
+    "title": "Bots exploited leaked AWS key from Docker image in under 8 seconds"
+  },
+  "https://www.recordedfuture.com/blog/ransomware-threat-intelligence": {
+    "ts": "2026-11-25T12:22:11.336339+00:00",
+    "title": "Using Threat Intelligence to Stop Ransomware Attacks"
+  },
+  "https://securelist.com/tr/how-to-protect-against-preinstalled-android-malware/122093/": {
+    "ts": "2026-11-25T12:22:11.368168+00:00",
+    "title": "How to protect against preinstalled Android malware"
+  },
+  "https://securityaffairs.com/203946/hacking/gt13-ai-assisted-hackers-target-22-organizations-through-check-point-servers.html": {
+    "ts": "2026-11-25T12:22:11.399842+00:00",
+    "title": "GT13: AI-Assisted Hackers Target 22 Organizations Through Check Point Servers"
+  },
+  "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/": {
+    "ts": "2026-11-25T12:22:11.430297+00:00",
+    "title": "Plagiarism Checker Turnitin Investigating Cyberattack"
+  },
+  "https://www.sekoia.com/blog/sold-to-the-highest-bidder-the-escalation-of-adint-from-geolocation-tracking-to-intrusion-vector": {
+    "ts": "2026-11-25T12:22:11.465446+00:00",
+    "title": "ADINT: From Ad-Based Geolocation Tracking to Intrusion Vector"
+  },
+  "https://socradar.io/blog/shinyhunters-return-revoked-pgp-keys/": {
+    "ts": "2026-11-25T12:22:11.497655+00:00",
+    "title": "ShinyHunters Claims Comeback With Revoked PGP Keys After Arrests"
+  },
+  "https://www.security.com/expert-perspectives/thanksgiving-its-all-gravy-defenders": {
+    "ts": "2026-11-25T12:22:11.529369+00:00",
+    "title": "This Thanksgiving, It\u2019s All Gravy for Defenders"
+  },
+  "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html": {
+    "ts": "2026-11-25T12:22:11.529378+00:00",
+    "title": "Credential Remediation Is Slow When You Don\u2019t Know What Will Break"
+  },
+  "https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060": {
+    "ts": "2026-11-25T12:22:11.529382+00:00",
+    "title": "Gatwick drop-off customers' personal data exposed in supplier breach"
+  },
+  "https://www.welivesecurity.com/en/scams/been-told-pay-bitcoin-atm-read-first/": {
+    "ts": "2026-11-25T12:22:11.529385+00:00",
+    "title": "Been told to pay at a Bitcoin ATM? Read this first"
+  },
+  "https://threats.wiz.io/all-incidents/scylla-llmjacking-campaign": {
+    "ts": "2026-11-25T12:22:11.559695+00:00",
+    "title": "Scylla LLMJacking campaign (Campaign)"
+  },
+  "https://www.zscaler.com/blogs/security-research/threat-actors-use-google-ads-target-ledger-users": {
+    "ts": "2026-11-25T12:22:11.603253+00:00",
+    "title": "Threat Actors Use Google Ads To Target Ledger Users"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/": {
+    "ts": "2026-11-25T12:22:11.634534+00:00",
+    "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites"
+  },
+  "https://blog.talosintelligence.com/securing-grandmas-groceries-with-pierre-cadieux/": {
+    "ts": "2026-11-25T12:22:11.666289+00:00",
+    "title": "Securing Grandma's groceries with Pierre Cadieux"
+  },
+  "https://cybersecuritynews.com/hackers-use-autonomous-ai-agents-2/": {
+    "ts": "2026-11-25T12:22:11.697331+00:00",
+    "title": "Hackers Use Autonomous AI Agents to Steal Credentials and Breach Corporate Networks"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc": {
+    "ts": "2026-11-25T12:22:11.727432+00:00",
+    "title": "'God Mode' Flaws Could Wreak Border-Control Havoc"
+  },
+  "https://www.group-ib.com/blog/voice-kids-investigation/": {
+    "ts": "2026-11-25T12:22:11.761716+00:00",
+    "title": "Voting results of \u201cThe Voice Kids Russia Season 6\u201d"
+  },
+  "https://www.helpnetsecurity.com/2026/11/25/anthropic-enterprise-frontier-safeguards-public-beta/": {
+    "ts": "2026-11-25T12:22:11.761727+00:00",
+    "title": "Anthropic wants to catch rogue AI activity without retaining your data"
+  },
+  "https://securityaffairs.com/203918/intelligence/maritime-industry-faces-growing-cyber-threats-as-50-ships-targeted.html": {
+    "ts": "2026-11-25T12:22:11.761731+00:00",
+    "title": "Maritime industry faces growing cyber threats as 50 ships targeted"
+  },
+  "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/": {
+    "ts": "2026-11-25T12:22:11.792978+00:00",
+    "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library"
+  },
+  "https://www.sekoia.com/blog/sekoias-new-identity-designed-for-clarity": {
+    "ts": "2026-11-25T12:22:11.792988+00:00",
+    "title": "Sekoia\u2019s New Identity: Designed for Clarity"
+  },
+  "https://socradar.io/blog/cve-2026-123903-vcenter-auth-bypass/": {
+    "ts": "2026-11-25T12:22:11.825244+00:00",
+    "title": "CVE-2026-123903: Critical Auth Bypass Hits VMware vCenter"
   }
 }
