@@ -1,116 +1,4 @@
 {
-  "https://securityaffairs.com/199790/security/u-s-cisa-adds-wordpress-flaw-to-its-known-exploited-vulnerabilities-catalog.html": {
-    "ts": "2026-09-26T12:48:48.918859+00:00",
-    "title": "U.S. CISA adds WordPress\u00a0flaw to its Known Exploited Vulnerabilities catalog"
-  },
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/": {
-    "ts": "2026-09-26T12:49:43.210089+00:00",
-    "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites"
-  },
-  "https://cybersecuritynews.com/openais-ai-agents-tried-hacking-4-websites/": {
-    "ts": "2026-09-26T12:49:43.263104+00:00",
-    "title": "OpenAI\u2019s AI Agents Tried Hacking 4 Websites Without Being Prompted"
-  },
-  "https://gbhackers.com/red-heron-exploits-critical-gitea-flaw/": {
-    "ts": "2026-09-26T12:49:43.310887+00:00",
-    "title": "Red Heron Exploits Critical Gitea Flaw to Steal Repositories and Deploy Linux Rootkit"
-  },
-  "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/": {
-    "ts": "2026-09-26T12:49:43.355616+00:00",
-    "title": "New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining"
-  },
-  "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html": {
-    "ts": "2026-09-26T12:49:43.355630+00:00",
-    "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link"
-  },
-  "https://cybersecuritynews.com/microsoft-auth-vulnerability-expose-records/": {
-    "ts": "2026-09-26T12:49:43.400718+00:00",
-    "title": "16-Year-Old Researcher Finds Microsoft Auth Vulnerability that Exposes 17.3 Trillion Stored Records"
-  },
-  "https://gbhackers.com/windows-11-update-causes-black-screen/": {
-    "ts": "2026-09-26T12:49:43.400730+00:00",
-    "title": "Windows 11 Update Causes Black Screen and Desktop Loading Issues After Sign-In"
-  },
-  "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/": {
-    "ts": "2026-09-26T12:49:43.400735+00:00",
-    "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure"
-  },
-  "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html": {
-    "ts": "2026-09-26T12:49:43.445636+00:00",
-    "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild"
-  },
-  "https://gbhackers.com/kiteworks-systems-offline-amid-suspected-zero-day/": {
-    "ts": "2026-09-26T12:49:43.445648+00:00",
-    "title": "Kiteworks Warns Users to Take Systems Offline Amid Suspected Zero-Day Threat"
-  },
-  "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html": {
-    "ts": "2026-09-26T12:49:43.491292+00:00",
-    "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack"
-  },
-  "https://gbhackers.com/uncensored-local-ai-model-bypasses-edr/": {
-    "ts": "2026-09-26T12:49:43.539038+00:00",
-    "title": "Uncensored Local AI Model Bypasses EDR to Dump Windows LSASS Credentials"
-  },
-  "https://gbhackers.com/storm-3168-hackers-abuse-compromised-service-principals/": {
-    "ts": "2026-09-26T12:49:43.585154+00:00",
-    "title": "Storm-3168 Hackers Abuse Compromised Service Principals to Destroy Azure Cloud Resources"
-  },
-  "https://gbhackers.com/openai-says-misaligned-ai-agents-hacked-hugging-face/": {
-    "ts": "2026-09-26T12:49:43.631501+00:00",
-    "title": "OpenAI Says Misaligned AI Agents Hacked Hugging Face and Bypassed Security Controls"
-  },
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/": {
-    "ts": "2026-09-26T16:58:20.928266+00:00",
-    "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer"
-  },
-  "https://cybersecuritynews.com/local-ai-bypasses-edr/": {
-    "ts": "2026-09-26T16:58:21.156674+00:00",
-    "title": "Local AI Model Modifies Windows Credential Dumper to Bypass EDR Detection"
-  },
-  "https://securityaffairs.com/199815/ai/openai-agents-accessed-us-government-websites-without-authorization.html": {
-    "ts": "2026-09-26T16:58:21.156698+00:00",
-    "title": "OpenAI Agents Accessed US Government Websites Without Authorization"
-  },
-  "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html": {
-    "ts": "2026-09-26T16:58:21.666673+00:00",
-    "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells"
-  },
-  "https://www.trendmicro.com/en_us/research/26/i/safely-securing-ai-agents.html": {
-    "ts": "2026-09-26T16:58:21.666696+00:00",
-    "title": "AI Agents Can Be Secured. We Can Do It."
-  },
-  "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/": {
-    "ts": "2026-09-26T16:58:21.863434+00:00",
-    "title": "Microsoft pauses KB5002907 update after Office license deactivations"
-  },
-  "https://cybersecuritynews.com/f-droid-2-0-released/": {
-    "ts": "2026-09-26T16:58:22.066254+00:00",
-    "title": "F-Droid 2.0 Released After 10 years With Major Redesign to Transform Open-Source Android App Discovery"
-  },
-  "https://securityaffairs.com/199800/cyber-crime/exploit-in-database-reveals-the-roots-of-todays-ransomware-ecosystem.html": {
-    "ts": "2026-09-26T16:58:22.269225+00:00",
-    "title": "Exploit.in Database Reveals the Roots of Today\u2019s Ransomware Ecosystem"
-  },
-  "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html": {
-    "ts": "2026-09-26T16:58:22.464223+00:00",
-    "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility"
-  },
-  "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/": {
-    "ts": "2026-09-26T16:58:22.667766+00:00",
-    "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active"
-  },
-  "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/": {
-    "ts": "2026-09-26T19:40:33.142558+00:00",
-    "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks"
-  },
-  "https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/": {
-    "ts": "2026-09-26T19:40:33.142582+00:00",
-    "title": "China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks"
-  },
-  "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html": {
-    "ts": "2026-09-26T19:40:33.246365+00:00",
-    "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials"
-  },
   "https://cybersecuritynews.com/citrix-netscaler-0-day-rce-2/": {
     "ts": "2026-09-27T07:49:10.163214+00:00",
     "title": "Citrix NetScaler 0-Day RCE Vulnerabilities Actively Exploited in Attacks"
@@ -21282,5 +21170,125 @@
   "https://socradar.io/blog/cve-2026-123903-vcenter-auth-bypass/": {
     "ts": "2026-11-25T12:22:11.825244+00:00",
     "title": "CVE-2026-123903: Critical Auth Bypass Hits VMware vCenter"
+  },
+  "https://threats.wiz.io/all-incidents/gitloker-campaign": {
+    "ts": "2026-11-25T22:14:08.266065+00:00",
+    "title": "Gitloker campaign (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/": {
+    "ts": "2026-11-25T22:16:06.779167+00:00",
+    "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks"
+  },
+  "https://blog.talosintelligence.com/oh-is-it-thanksgiving-i-hadnt-noticed/": {
+    "ts": "2026-11-25T22:16:06.779190+00:00",
+    "title": "Oh, is it Thanksgiving? I hadn\u2019t noticed!"
+  },
+  "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-isoc/": {
+    "ts": "2026-11-25T22:16:06.779194+00:00",
+    "title": "CrowdStrike Accelerates the Shift to the Agentic SOC"
+  },
+  "https://cybersecuritynews.com/fincen-confirms-cyberattack/": {
+    "ts": "2026-11-25T22:16:06.779198+00:00",
+    "title": "U.S. Treasury\u2019s FinCEN Confirms Cyberattack, Takes Systems Offline After Unauthorized Access"
+  },
+  "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments": {
+    "ts": "2026-11-25T22:16:06.857667+00:00",
+    "title": "Attackers Target .NET Developers With Poisoned Job Assessments"
+  },
+  "https://www.group-ib.com/blog/madape-the-code-that-opens-the-door/": {
+    "ts": "2026-11-25T22:16:06.943943+00:00",
+    "title": "MadApe: The Code That Opens the Door"
+  },
+  "https://www.helpnetsecurity.com/2026/11/25/drupal-installer-rce-cve-2026-132165-exploited/": {
+    "ts": "2026-11-25T22:16:07.023344+00:00",
+    "title": "Critical Drupal installer flaw under active attack (CVE-2026-132165)"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/11/ai-agents-found-an-unpatched-flaw-after-being-told-to-break-in": {
+    "ts": "2026-11-25T22:16:07.103125+00:00",
+    "title": "AI agents found an unpatched flaw after being told to \u201cbreak in\u201d"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/": {
+    "ts": "2026-11-25T22:16:07.186909+00:00",
+    "title": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse"
+  },
+  "https://unit42.paloaltonetworks.com/ai-threat-horizon/": {
+    "ts": "2026-11-25T22:16:07.186929+00:00",
+    "title": "The AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defense"
+  },
+  "https://www.rapid7.com/blog/post/so-rapid7-named-leader-2026-gartner-magic-quadrant-integrated-security-operations-center-systems-isocs": {
+    "ts": "2026-11-25T22:16:07.276735+00:00",
+    "title": "Rapid7 Named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Integrated Security Operations Center Systems"
+  },
+  "https://securityaffairs.com/204004/hacking/switzerland-confirms-first-ai-agent-cyberattacks-on-local-organisations.html": {
+    "ts": "2026-11-25T22:16:07.357848+00:00",
+    "title": "Switzerland Confirms First AI-Agent Cyberattacks on Local Organisations"
+  },
+  "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/": {
+    "ts": "2026-11-25T22:16:07.434285+00:00",
+    "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack"
+  },
+  "https://www.sekoia.com/blog/unveiling-errtraffic-inside-a-growing-clickfix-malware-distribution-framework": {
+    "ts": "2026-11-25T22:16:07.518766+00:00",
+    "title": "ErrTraffic: A Growing ClickFix Malware Distribution Framework"
+  },
+  "https://www.silentpush.com/webinar/workshop-detecting-impersonation-at-scale/": {
+    "ts": "2026-11-25T22:16:07.609692+00:00",
+    "title": "Workshop: Detecting Impersonation at Scale"
+  },
+  "https://socradar.io/blog/hex-pm-rce-cve-2026-129514-exploited/": {
+    "ts": "2026-11-25T22:16:07.686938+00:00",
+    "title": "Hex.pm RCE (CVE-2026-129514) Exploited in Server Attack"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html": {
+    "ts": "2026-11-25T22:16:07.762167+00:00",
+    "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains"
+  },
+  "https://www.theregister.com/security/2026/11/25/the-security-of-us-water-systems-is-even-leakier-than-we-thought/5312243": {
+    "ts": "2026-11-25T22:16:07.762188+00:00",
+    "title": "The security of US water systems is even leakier than we thought"
+  },
+  "https://www.welivesecurity.com/en/mobile-security/is-new-vibe-coded-app-safe-5-questions-ask-first/": {
+    "ts": "2026-11-25T22:16:07.762193+00:00",
+    "title": "Is that vibe coded app safe? 5 checks before you download"
+  },
+  "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/": {
+    "ts": "2026-11-25T22:16:07.762195+00:00",
+    "title": "1Password customer data stolen after employee GitHub account breach"
+  },
+  "https://cybersecuritynews.com/drupal-idunno-anticsrf-optimizely-flaws-exploited/": {
+    "ts": "2026-11-25T22:16:07.838708+00:00",
+    "title": "CISA Warns of Drupal Core RCE, Idunno AntiCsrf and Optimizely Flaws Exploited in Attacks"
+  },
+  "https://www.darkreading.com/cyber-risk/bot-world-just-living": {
+    "ts": "2026-11-25T22:16:07.915416+00:00",
+    "title": "It's a Bot World. We're Just Living in It"
+  },
+  "https://www.group-ib.com/blog/muddywater/": {
+    "ts": "2026-11-25T22:16:07.994514+00:00",
+    "title": "Catching fish in muddy waters"
+  },
+  "https://www.helpnetsecurity.com/2026/11/25/illegal-iptv-disrupted-europol-crypto/": {
+    "ts": "2026-11-25T22:16:08.069912+00:00",
+    "title": "Police disrupt 57 illegal IPTV services and trace \u20ac26 million in crypto"
+  },
+  "https://www.malwarebytes.com/blog/data-breaches/2026/11/two-exposed-databases-held-over-3-5-billion-records": {
+    "ts": "2026-11-25T22:16:08.154920+00:00",
+    "title": "Two exposed databases held over 3.5 billion records"
+  },
+  "https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/": {
+    "ts": "2026-11-25T22:16:08.154940+00:00",
+    "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Email Security"
+  },
+  "https://www.rapid7.com/blog/post/it-2026-cybersecurity-predictions-wrong-or-right": {
+    "ts": "2026-11-25T22:16:08.154945+00:00",
+    "title": "Our 2026 Cybersecurity Predictions: What We Got Right, What We Got Wrong, and What Changed"
+  },
+  "https://securityaffairs.com/203978/security/electrolux-smart-boilers-in-ukraine-connect-to-russian-servers-raising-privacy-concerns.html": {
+    "ts": "2026-11-25T22:16:08.154948+00:00",
+    "title": "Electrolux Smart Boilers in Ukraine Connect to Russian Servers, Raising Privacy Concerns"
+  },
+  "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/": {
+    "ts": "2026-11-25T22:16:08.232066+00:00",
+    "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties"
   }
 }

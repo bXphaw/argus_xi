@@ -1,4 +1,50 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
+      "url": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments"
+    },
+    {
+      "category": "new_technique",
+      "title": "MadApe: The Code That Opens the Door",
+      "url": "https://www.group-ib.com/blog/madape-the-code-that-opens-the-door/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical Drupal installer flaw under active attack (CVE-2026-132165)",
+      "url": "https://www.helpnetsecurity.com/2026/11/25/drupal-installer-rce-cve-2026-132165-exploited/"
+    },
+    {
+      "category": "new_technique",
+      "title": "AI agents found an unpatched flaw after being told to \u201cbreak in\u201d",
+      "url": "https://www.malwarebytes.com/blog/ai/2026/11/ai-agents-found-an-unpatched-flaw-after-being-told-to-break-in"
+    },
+    {
+      "category": "new_technique",
+      "title": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hex.pm RCE (CVE-2026-129514) Exploited in Server Attack",
+      "url": "https://socradar.io/blog/hex-pm-rce-cve-2026-129514-exploited/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
+      "url": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/"
+    }
+  ],
   "last_sent_date": "2026-11-25"
 }
