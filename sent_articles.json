@@ -21290,5 +21290,125 @@
   "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/": {
     "ts": "2026-11-25T22:16:08.232066+00:00",
     "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties"
+  },
+  "https://www.group-ib.com/blog/illum/": {
+    "ts": "2026-11-26T04:46:58.708877+00:00",
+    "title": "Meet the JS-Sniffers 3: Illum Family"
+  },
+  "https://www.sekoia.com/blog/fsbs-matryoshka-2-3-gamaredons-gifts-that-keeps-unpacking-gammaload": {
+    "ts": "2026-11-26T04:47:00.210832+00:00",
+    "title": "FSB\u2019s matryoshka #2/3: Gamaredon's Gammaload Malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/": {
+    "ts": "2026-11-26T04:48:20.541109+00:00",
+    "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks"
+  },
+  "https://www.crowdstrike.com/en-us/blog/securing-employees-ai-use-requires-unified-architecture/": {
+    "ts": "2026-11-26T04:48:20.541120+00:00",
+    "title": "Securing Employees&rsquo; AI Use Requires a Unified Architecture"
+  },
+  "https://cybersecuritynews.com/1password-hacked-2/": {
+    "ts": "2026-11-26T04:48:20.541125+00:00",
+    "title": "1Password Hacked \u2013 Attackers Breach Backend Systems and Steal Customer Data"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing": {
+    "ts": "2026-11-26T04:48:20.541129+00:00",
+    "title": "Latin America Sees Cyberattacks on Ports, Pipelines &amp; Manufacturing"
+  },
+  "https://www.group-ib.com/blog/rtm/": {
+    "ts": "2026-11-26T04:48:20.711305+00:00",
+    "title": "Following the RTM"
+  },
+  "https://www.helpnetsecurity.com/2026/11/25/idunno-anticsrf-rce-cve-2026-131914-exploited/": {
+    "ts": "2026-11-26T04:48:20.743259+00:00",
+    "title": "Exploited: Abandoned Idunno.AntiCsrf library opens legacy ASP.NET apps to RCE (CVE-2026-131914)"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-123903-critical-vmware-directory-service-authentication-bypass-affects-vcenter": {
+    "ts": "2026-11-26T04:48:20.743269+00:00",
+    "title": "CVE-2026-123903: Critical VMware Directory Service Authentication Bypass affects vCenter"
+  },
+  "https://securityaffairs.com/203965/uncategorized/u-s-cisa-adds-drupal-core-idunno-anticsrf-and-optimizely-web-experimentation-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-11-26T04:48:20.777126+00:00",
+    "title": "U.S. CISA adds Drupal Core, Idunno AntiCsrf, and Optimizely Web Experimentation\u00a0flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/": {
+    "ts": "2026-11-26T04:48:20.777138+00:00",
+    "title": "US Treasury\u2019s FinCEN Disconnects Systems Following Cyber Incident"
+  },
+  "https://www.sekoia.com/blog/apt28-an-evolution-of-tradecraft": {
+    "ts": "2026-11-26T04:48:20.810698+00:00",
+    "title": "APT28: An Evolution of Tradecraft from X-Agent to LLM Malware"
+  },
+  "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html": {
+    "ts": "2026-11-26T04:48:20.843700+00:00",
+    "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps"
+  },
+  "https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085": {
+    "ts": "2026-11-26T04:48:20.875391+00:00",
+    "title": "Microsoft's NTLM security changes trip up third-party logins"
+  },
+  "https://threats.wiz.io/all-incidents/club-penguin-data-theft-via-confluence": {
+    "ts": "2026-11-26T04:48:20.909989+00:00",
+    "title": "Club Penguin data theft via Confluence (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/": {
+    "ts": "2026-11-26T04:48:20.940668+00:00",
+    "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers"
+  },
+  "https://cybersecuritynews.com/beyond-holiday-scams-5-thankssgiving-and-black-friday-cyberattacks-targeting-users-and-businesses/": {
+    "ts": "2026-11-26T04:48:20.972083+00:00",
+    "title": "Beyond Holiday Scams: 5 Thanksgiving and Black Friday Cyberattacks Targeting Users and Businesses"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/how-southeastern-university-handle-data": {
+    "ts": "2026-11-26T04:48:20.972093+00:00",
+    "title": "How Southeastern University Got a Handle on Its Data"
+  },
+  "https://www.group-ib.com/blog/coffemokko/": {
+    "ts": "2026-11-26T04:48:21.003003+00:00",
+    "title": "Meet the JS-Sniffers 4: CoffeMokko Family"
+  },
+  "https://www.helpnetsecurity.com/2026/11/25/vulncheck-credential-harvesting-exploitat-records/": {
+    "ts": "2026-11-26T04:48:21.003014+00:00",
+    "title": "Credential harvesting goes from fringe activity to major exploitation trend"
+  },
+  "https://securityaffairs.com/203865/cyber-crime/hackers-may-have-breached-fbi-database-used-by-police-nationwide.html": {
+    "ts": "2026-11-26T04:48:21.003019+00:00",
+    "title": "Hackers May Have Breached FBI Database Used by Police Nationwide"
+  },
+  "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/": {
+    "ts": "2026-11-26T04:48:21.003022+00:00",
+    "title": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget"
+  },
+  "https://www.sekoia.com/blog/fsbs-matryoshka-3-3-gamaredons-gifts-that-keeps-unpacking-gammasteel": {
+    "ts": "2026-11-26T04:48:21.036709+00:00",
+    "title": "FSB\u2019s matryoshka #3/3: Gamaredon's Gammasteel Infostealer"
+  },
+  "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html": {
+    "ts": "2026-11-26T04:48:21.067922+00:00",
+    "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion"
+  },
+  "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165": {
+    "ts": "2026-11-26T04:48:21.098838+00:00",
+    "title": "US Treasury financial crimes unit becomes latest fed breach victim"
+  },
+  "https://threats.wiz.io/all-incidents/dama-webshell-deployment-via-thinkphp-exploitation": {
+    "ts": "2026-11-26T04:48:21.129786+00:00",
+    "title": "Dama webshell deployment via ThinkPHP exploitation (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/": {
+    "ts": "2026-11-26T04:48:21.163881+00:00",
+    "title": "More Pentests Without More Pentesters: Where AI Safely Helps"
+  },
+  "https://cybersecuritynews.com/todoist-production-system-breach/": {
+    "ts": "2026-11-26T04:48:21.163890+00:00",
+    "title": "Task Management App Todoist Hacked, Attackers Breach Production Systems"
+  },
+  "https://www.helpnetsecurity.com/2026/11/25/gputaskman-open-source-gpu-task-manager/": {
+    "ts": "2026-11-26T04:48:21.163893+00:00",
+    "title": "gputaskman: Open-source task manager for GPUs"
+  },
+  "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/": {
+    "ts": "2026-11-26T04:48:21.195380+00:00",
+    "title": "Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls"
   }
 }

@@ -44,6 +44,36 @@
       "category": "threat_actor",
       "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
       "url": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Following the RTM",
+      "url": "https://www.group-ib.com/blog/rtm/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Exploited: Abandoned Idunno.AntiCsrf library opens legacy ASP.NET apps to RCE (CVE-2026-131914)",
+      "url": "https://www.helpnetsecurity.com/2026/11/25/idunno-anticsrf-rce-cve-2026-131914-exploited/"
+    },
+    {
+      "category": "new_technique",
+      "title": "U.S. CISA adds Drupal Core, Idunno AntiCsrf, and Optimizely Web Experimentation\u00a0flaws to its Known Exploited Vulnerabilities catalog",
+      "url": "https://securityaffairs.com/203965/uncategorized/u-s-cisa-adds-drupal-core-idunno-anticsrf-and-optimizely-web-experimentation-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "APT28: An Evolution of Tradecraft from X-Agent to LLM Malware",
+      "url": "https://www.sekoia.com/blog/apt28-an-evolution-of-tradecraft"
+    },
+    {
+      "category": "malware_other",
+      "title": "Meet the JS-Sniffers 4: CoffeMokko Family",
+      "url": "https://www.group-ib.com/blog/coffemokko/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls",
+      "url": "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/"
     }
   ],
   "last_sent_date": "2026-11-25"
