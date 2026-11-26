@@ -1,28 +1,4 @@
 {
-  "https://cybersecuritynews.com/citrix-netscaler-0-day-rce-2/": {
-    "ts": "2026-09-27T07:49:10.163214+00:00",
-    "title": "Citrix NetScaler 0-Day RCE Vulnerabilities Actively Exploited in Attacks"
-  },
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/": {
-    "ts": "2026-09-27T13:41:20.243148+00:00",
-    "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors"
-  },
-  "https://www.helpnetsecurity.com/2026/09/27/week-in-review-gyazo-breach-exposes-23-6m-user-data-taskstomp-steals-documents/": {
-    "ts": "2026-09-27T13:41:20.495175+00:00",
-    "title": "Week in review: Gyazo breach exposes 23.6M user data, TASK#STOMP steals documents"
-  },
-  "https://securityaffairs.com/199825/uncategorized/rydox-admin-faces-20-years-after-selling-stolen-data-and-fraud-tools.html": {
-    "ts": "2026-09-27T13:41:20.495191+00:00",
-    "title": "Rydox Admin Faces 20 Years After Selling Stolen Data and Fraud Tools"
-  },
-  "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/": {
-    "ts": "2026-09-27T13:41:20.495196+00:00",
-    "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks"
-  },
-  "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html": {
-    "ts": "2026-09-27T13:41:20.732603+00:00",
-    "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation"
-  },
   "https://cybersecuritynews.com/citrix-confirms-netscaler-0-day/": {
     "ts": "2026-09-27T18:09:09.907053+00:00",
     "title": "Citrix Confirms NetScaler 0-Day RCE Vulnerabilities Actively Exploited in Attack"
@@ -21410,5 +21386,125 @@
   "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/": {
     "ts": "2026-11-26T04:48:21.195380+00:00",
     "title": "Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls"
+  },
+  "https://www.group-ib.com/blog/g-analytics/": {
+    "ts": "2026-11-26T14:49:43.361933+00:00",
+    "title": "Meet the JS-Sniffers 2: G-Analytics Family"
+  },
+  "https://www.group-ib.com/blog/reactget/": {
+    "ts": "2026-11-26T14:49:52.637480+00:00",
+    "title": "Meet the JS-Sniffers: ReactGet Family"
+  },
+  "https://www.bitdefender.com/en-us/blog/labs/sys010-reloaded-malvertising-campaign-targeting-meta-business-accounts": {
+    "ts": "2026-11-26T14:51:21.246676+00:00",
+    "title": "SYS010 Reloaded: The new malvertising campaign targeting Meta Business Accounts"
+  },
+  "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/": {
+    "ts": "2026-11-26T14:51:21.356314+00:00",
+    "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook"
+  },
+  "https://cybersecuritynews.com/bithumb-hacked-for-15-days/": {
+    "ts": "2026-11-26T14:51:21.356330+00:00",
+    "title": "Bithumb Hacked for 15 Days, Customer Passport Numbers, Bank Details and Wallet Addresses Stolen"
+  },
+  "https://cyble.com/blog/europol-crypto-illegal-streaming-industry/": {
+    "ts": "2026-11-26T14:51:21.356334+00:00",
+    "title": "Following the Cryptocurrency Trail Behind Europe\u2019s Illegal Streaming Industry"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers": {
+    "ts": "2026-11-26T14:51:21.467086+00:00",
+    "title": "Cyprus Becomes Espionage Target for Iranian Hackers"
+  },
+  "https://gbhackers.com/stealthy-malware-campaign/": {
+    "ts": "2026-11-26T14:51:21.579201+00:00",
+    "title": "Hackers Infect 5,600 Devices With Stealthy Malware That Hides Remote-Control Commands in Normal Traffic"
+  },
+  "https://www.helpnetsecurity.com/2026/11/26/keenadu-malware-android-devices/": {
+    "ts": "2026-11-26T14:51:21.695390+00:00",
+    "title": "Preinstalled Keenadu malware turns up on 220,000+ Android devices"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/11/anthropic-built-a-honeypot-to-see-if-ai-agents-will-break-out": {
+    "ts": "2026-11-26T14:51:21.695405+00:00",
+    "title": "Anthropic built a honeypot to see if AI agents will break out"
+  },
+  "https://securityaffairs.com/204049/data-breach/australias-flight-centre-data-breach-exposes-customer-records-and-passport-details.html": {
+    "ts": "2026-11-26T14:51:21.695409+00:00",
+    "title": "Australia\u2019s Flight Centre Data Breach Exposes Customer Records and Passport Details"
+  },
+  "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/": {
+    "ts": "2026-11-26T14:51:21.820856+00:00",
+    "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks"
+  },
+  "https://www.sekoia.com/blog/fsbs-matryoshka-1-3-gamaredons-gifts-that-keeps-unpacking-gammaphish-and-gammaworm": {
+    "ts": "2026-11-26T14:51:21.919422+00:00",
+    "title": "FSB\u2019s matryoshka #1/3: Inside Gamaredon Cyber Operations"
+  },
+  "https://socradar.io/blog/ai-pentesting-questions-cisos-should-ask/": {
+    "ts": "2026-11-26T14:51:22.023154+00:00",
+    "title": "15 Questions Every CISO Should Ask Before Allowing AI Pentesting in Production"
+  },
+  "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html": {
+    "ts": "2026-11-26T14:51:22.129138+00:00",
+    "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls"
+  },
+  "https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323": {
+    "ts": "2026-11-26T14:51:22.254093+00:00",
+    "title": "Wyoming uranium operation shuts down after cyberattack"
+  },
+  "https://threats.wiz.io/all-incidents/operation-veles": {
+    "ts": "2026-11-26T14:51:22.355785+00:00",
+    "title": "Operation Veles (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/": {
+    "ts": "2026-11-26T14:51:22.355800+00:00",
+    "title": "InfraTrust warns of exploited supply chain flaws in network appliances"
+  },
+  "https://cybersecuritynews.com/cisa-adds-10-flaws-to-kev/": {
+    "ts": "2026-11-26T14:51:22.355804+00:00",
+    "title": "CISA Adds 10 Flaws from Danfoss, HPE, Mitel MiCollab and Vates Xen to Exploited Catalog"
+  },
+  "https://gbhackers.com/windows-ntlm-security-update-causes-authentication-failures/": {
+    "ts": "2026-11-26T14:51:22.355807+00:00",
+    "title": "Windows NTLM Security Update Causes Authentication Failures in Third-Party Apps and Devices"
+  },
+  "https://www.helpnetsecurity.com/2026/11/26/fincen-breach-systems-offline/": {
+    "ts": "2026-11-26T14:51:22.355809+00:00",
+    "title": "US agency tracking money laundering is latest casualty in string of federal breaches"
+  },
+  "https://www.malwarebytes.com/blog/ai/2026/11/why-new-york-is-banning-ai-chatbot-toys": {
+    "ts": "2026-11-26T14:51:22.355811+00:00",
+    "title": "Why New York is banning AI chatbot toys"
+  },
+  "https://securityaffairs.com/204031/cyber-crime/1password-hacked-customer-names-and-emails-copied-vaults-untouched.html": {
+    "ts": "2026-11-26T14:51:22.464773+00:00",
+    "title": "1Password Hacked: Customer Names and Emails Copied, Vaults Untouched"
+  },
+  "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/": {
+    "ts": "2026-11-26T14:51:22.573820+00:00",
+    "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks"
+  },
+  "https://www.sekoia.com/blog/strategic-autonomy-where-you-get-to-choose": {
+    "ts": "2026-11-26T14:51:22.683966+00:00",
+    "title": "Strategic Autonomy in Cybersecurity: Where you Get to Choose"
+  },
+  "https://socradar.io/blog/redops-weavelotus-southeast-asian-governments/": {
+    "ts": "2026-11-26T14:51:22.794928+00:00",
+    "title": "RedOps: WeaveLotus Targets Southeast Asian Governments for South China Sea Intelligence"
+  },
+  "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html": {
+    "ts": "2026-11-26T14:51:22.906095+00:00",
+    "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach"
+  },
+  "https://www.theregister.com/security/2026/11/26/company-was-religious-about-backups-but-sinned-by-leaving-them-exposed/5312234": {
+    "ts": "2026-11-26T14:51:22.906110+00:00",
+    "title": "Company was religious about backups but sinned by leaving them exposed"
+  },
+  "https://threats.wiz.io/all-incidents/muhstik": {
+    "ts": "2026-11-26T14:51:23.014986+00:00",
+    "title": "Muhstik (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/": {
+    "ts": "2026-11-26T14:51:23.015003+00:00",
+    "title": "Microsoft confirms authentication issues after November updates"
   }
 }
