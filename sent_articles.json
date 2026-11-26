@@ -1,40 +1,4 @@
 {
-  "https://cybersecuritynews.com/citrix-confirms-netscaler-0-day/": {
-    "ts": "2026-09-27T18:09:09.907053+00:00",
-    "title": "Citrix Confirms NetScaler 0-Day RCE Vulnerabilities Actively Exploited in Attack"
-  },
-  "https://securityaffairs.com/199850/malware/security-affairs-malware-newsletter-round-116.html": {
-    "ts": "2026-09-27T18:09:12.933018+00:00",
-    "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 116"
-  },
-  "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/": {
-    "ts": "2026-09-27T18:09:16.268149+00:00",
-    "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks"
-  },
-  "https://securityaffairs.com/199862/ai/security-affairs-ai-cybersecurity-newsletter-round-1.html": {
-    "ts": "2026-09-27T18:09:16.268172+00:00",
-    "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 1"
-  },
-  "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/": {
-    "ts": "2026-09-27T18:09:16.490908+00:00",
-    "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data"
-  },
-  "https://cybersecuritynews.com/windows-process-injection-evades-edr/": {
-    "ts": "2026-09-27T18:09:16.692416+00:00",
-    "title": "New Windows Process Injection Attack Evades EDR Monitoring Without WriteProcessMemory"
-  },
-  "https://securityaffairs.com/199841/breaking-news/security-affairs-newsletter-round-597-by-pierluigi-paganini-international-edition.html": {
-    "ts": "2026-09-27T18:09:16.692436+00:00",
-    "title": "Security Affairs newsletter Round 597 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION"
-  },
-  "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success": {
-    "ts": "2026-09-27T21:55:30.365332+00:00",
-    "title": "How the CISO CFO Relationship is a Key to Cybersecurity Success"
-  },
-  "https://securityaffairs.com/199873/security/citrix-confirmed-two-new-netscaler-flaws-exploited-as-zero-day.html": {
-    "ts": "2026-09-27T21:55:30.616843+00:00",
-    "title": "Citrix Confirmed Two New NetScaler Flaws Exploited as Zero-Day"
-  },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/": {
     "ts": "2026-09-28T00:25:41.084545+00:00",
     "title": "OpenAI is preparing \u201co,\u201d an always-on ChatGPT assistant that could handle email"
@@ -21506,5 +21470,125 @@
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/": {
     "ts": "2026-11-26T14:51:23.015003+00:00",
     "title": "Microsoft confirms authentication issues after November updates"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/": {
+    "ts": "2026-11-26T23:36:28.686887+00:00",
+    "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug"
+  },
+  "https://cybersecuritynews.com/moving-beyond-static-cookie-banners-implementing-zero-leakage-real-time-consent-management/": {
+    "ts": "2026-11-26T23:36:28.686904+00:00",
+    "title": "Moving Beyond Static Cookie Banners: Implementing Zero-Leakage Real-Time Consent Management"
+  },
+  "https://gbhackers.com/the-anatomy-of-tag-leakage-how-pixels-session-replays-and-trackers-bypass-standard-banners/": {
+    "ts": "2026-11-26T23:36:28.686909+00:00",
+    "title": "The Anatomy of Tag Leakage: How Pixels, Session Replays, and Trackers Bypass Standard Banners"
+  },
+  "https://www.group-ib.com/blog/telegram-recruitment-campaigns/": {
+    "ts": "2026-11-26T23:36:28.686912+00:00",
+    "title": "Odd Jobs: Inside Telegram Recruitment Campaigns"
+  },
+  "https://www.helpnetsecurity.com/2026/11/26/ransomware-recovery-fraud-florida-firm-co-founder-charged/": {
+    "ts": "2026-11-26T23:36:28.686915+00:00",
+    "title": "Data recovery firm co-founder accused of cashing in on ransomware victims"
+  },
+  "https://www.malwarebytes.com/blog/family-and-parenting/2026/11/teen-missing-for-521-days-found-help-through-among-us-chat": {
+    "ts": "2026-11-26T23:36:28.686918+00:00",
+    "title": "Missing teen rescued after finding help through Among Us chat"
+  },
+  "https://www.recordedfuture.com/blog/strategic-threat-intelligence-explained": {
+    "ts": "2026-11-26T23:36:28.686920+00:00",
+    "title": "What is Strategic Threat Intelligence? | Recorded Future"
+  },
+  "https://securityaffairs.com/204085/security/drupal-warns-of-new-critical-flaw-exploited-in-the-wild.html": {
+    "ts": "2026-11-26T23:36:29.036736+00:00",
+    "title": "Drupal Warns of New Critical Flaw Exploited in the Wild"
+  },
+  "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/": {
+    "ts": "2026-11-26T23:36:29.083291+00:00",
+    "title": "FIFA Says It Has Been Victim of a Cyberattack Accessing \u2018Personal and Business Information\u2019"
+  },
+  "https://www.sekoia.com/blog/apt28-to-repythonnet-automating-net-malware-analysis": {
+    "ts": "2026-11-26T23:36:29.127916+00:00",
+    "title": "From APT28 to RePythonNET: automating .NET malware analysis"
+  },
+  "https://socradar.io/blog/drupal-fail2install-cve-2026-132165-exploited/": {
+    "ts": "2026-11-26T23:36:29.176012+00:00",
+    "title": "Drupal Fail2Install RCE (CVE-2026-132165) Exploited in the Wild"
+  },
+  "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html": {
+    "ts": "2026-11-26T23:36:29.223172+00:00",
+    "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories"
+  },
+  "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433": {
+    "ts": "2026-11-26T23:36:29.266970+00:00",
+    "title": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems"
+  },
+  "https://threats.wiz.io/all-incidents/bytedance-rspack-github-misconfiguration": {
+    "ts": "2026-11-26T23:36:29.311573+00:00",
+    "title": "ByteDance Rspack GitHub misconfiguration (Research)"
+  },
+  "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/": {
+    "ts": "2026-11-26T23:36:29.358657+00:00",
+    "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026"
+  },
+  "https://cybersecuritynews.com/password-stealing-malware/": {
+    "ts": "2026-11-26T23:36:29.408692+00:00",
+    "title": "Hackers Hide Password-Stealing Malware in GitHub Code, Putting Software Downloads at Risk"
+  },
+  "https://gbhackers.com/hackers-actively-exploit-critical-drupal-vulnerability/": {
+    "ts": "2026-11-26T23:36:29.408706+00:00",
+    "title": "Hackers Actively Exploit Critical Drupal Vulnerability to Take Over Websites"
+  },
+  "https://www.group-ib.com/blog/gustuff/": {
+    "ts": "2026-11-26T23:36:29.456569+00:00",
+    "title": "Gustuff: Weapon of Mass Infection"
+  },
+  "https://www.helpnetsecurity.com/2026/11/26/1password-breach-github-customer-records/": {
+    "ts": "2026-11-26T23:36:29.456583+00:00",
+    "title": "1Password breached through hijacked employee GitHub account, customer names and emails stolen"
+  },
+  "https://securityaffairs.com/204067/malware/linux-easyshell-malwaremustdie-identifies-one-of-the-earliest-publicly-documented-rats-built-for-loongarch-linux.html": {
+    "ts": "2026-11-26T23:36:29.503182+00:00",
+    "title": "Linux/EasyShell: MalwareMustDie Identifies One of the Earliest Publicly Documented RATs Built for LoongArch Linux"
+  },
+  "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/": {
+    "ts": "2026-11-26T23:36:29.548503+00:00",
+    "title": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting"
+  },
+  "https://www.sekoia.com/blog/eviltokens-an-ai-augmented-phishing-as-a-service-for-automating-bec-fraud-part-2": {
+    "ts": "2026-11-26T23:36:29.596808+00:00",
+    "title": "EvilTokens: AI PhaaS for automating BEC fraud - Part 2"
+  },
+  "https://socradar.io/blog/1password-breach-employee-github-account/": {
+    "ts": "2026-11-26T23:36:29.642114+00:00",
+    "title": "1Password Breach Traced to Hijacked Employee GitHub Account"
+  },
+  "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html": {
+    "ts": "2026-11-26T23:36:29.687153+00:00",
+    "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware"
+  },
+  "https://www.theregister.com/public-sector/2026/11/26/uk-privacy-watchdog-faces-probe-into-its-workplace-culture/5312380": {
+    "ts": "2026-11-26T23:36:29.731460+00:00",
+    "title": "UK privacy watchdog faces probe into its workplace culture"
+  },
+  "https://threats.wiz.io/all-incidents/redtail-cryptomining-campaign-": {
+    "ts": "2026-11-26T23:36:29.775513+00:00",
+    "title": "RedTail Cryptomining campaign  (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/": {
+    "ts": "2026-11-26T23:36:29.775528+00:00",
+    "title": "Fake paid expert interviews impersonate brands to steal Google logins"
+  },
+  "https://cybersecuritynews.com/zodia-custody-data-breach/": {
+    "ts": "2026-11-26T23:36:29.775532+00:00",
+    "title": "Standard Chartered\u2019s Zodia Custody Hacked, Client and Employee Data Exposed"
+  },
+  "https://gbhackers.com/critical-geoserver-vulnerability-chain/": {
+    "ts": "2026-11-26T23:36:29.824626+00:00",
+    "title": "Critical GeoServer Vulnerability Chain Lets Hackers Execute Remote Commands Without Authentication"
+  },
+  "https://www.group-ib.com/blog/torrents/": {
+    "ts": "2026-11-26T23:36:29.824641+00:00",
+    "title": "The end of torrents era in Russia"
   }
 }
