@@ -1,72 +1,4 @@
 {
-  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/": {
-    "ts": "2026-09-28T00:25:41.084545+00:00",
-    "title": "OpenAI is preparing \u201co,\u201d an always-on ChatGPT assistant that could handle email"
-  },
-  "https://gbhackers.com/16-year-old-researcher-discovers-microsoft-authentication-bug/": {
-    "ts": "2026-09-28T06:29:15.407691+00:00",
-    "title": "16-Year-Old Researcher Discovers Microsoft Authentication Bug Exposing 17.3 Trillion Records"
-  },
-  "https://gbhackers.com/new-windows-process-injection-technique-bypasses-edr/": {
-    "ts": "2026-09-28T06:29:19.660916+00:00",
-    "title": "New Windows Process Injection Technique Bypasses EDR Monitoring Without WriteProcessMemory"
-  },
-  "https://gbhackers.com/citrix-confirms-netscaler-zero-day-rce-flaws/": {
-    "ts": "2026-09-28T06:29:22.686221+00:00",
-    "title": "Citrix Confirms NetScaler Zero-Day RCE Flaws Actively Exploited in Attacks"
-  },
-  "https://asec.ahnlab.com/en/95561/": {
-    "ts": "2026-09-28T06:30:02.786953+00:00",
-    "title": "Vulnerability Attack Case: Installation of a Web Shell and Execution of a Scanner by Exploiting a Telerik UI Vulnerability"
-  },
-  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/": {
-    "ts": "2026-09-28T06:30:02.786975+00:00",
-    "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday"
-  },
-  "https://cybersecuritynews.com/wireshark-4-6-9-fixes-19-vulnerabilities/": {
-    "ts": "2026-09-28T06:30:02.786979+00:00",
-    "title": "Wireshark 4.6.9 Fixes 19 Vulnerabilities Including Code Execution Via Malicious Packet"
-  },
-  "https://www.helpnetsecurity.com/2026/09/28/chris-latimer-vectorize-agent-memory-security/": {
-    "ts": "2026-09-28T06:30:02.786982+00:00",
-    "title": "If you do one security check this quarter, make it agent memory"
-  },
-  "https://securityaffairs.com/199882/security/roundcube-sql-injection-cve-2026-48842-is-now-being-exploited-in-the-wild.html": {
-    "ts": "2026-09-28T06:30:03.003844+00:00",
-    "title": "Roundcube SQL injection CVE-2026-48842 is now being exploited in the wild"
-  },
-  "https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350": {
-    "ts": "2026-09-28T06:30:03.218369+00:00",
-    "title": "OpenAI pauses some training amid allegations its rogue agents behaved more badly than first thought"
-  },
-  "https://asec.ahnlab.com/en/95567/": {
-    "ts": "2026-09-28T06:30:03.439650+00:00",
-    "title": "August 2026 Threat Trend Report on Ransomware"
-  },
-  "https://cybersecuritynews.com/which-platforms-to-use-for-enterprise-threat-intelligence/": {
-    "ts": "2026-09-28T06:30:03.999871+00:00",
-    "title": "Which Platforms to Use for Enterprise Threat Intelligence"
-  },
-  "https://www.helpnetsecurity.com/2026/09/28/authorizer-open-source-authentication-server/": {
-    "ts": "2026-09-28T06:30:04.417006+00:00",
-    "title": "Authorizer: Open-source authentication and authorization for your apps"
-  },
-  "https://gbhackers.com/macsyncs-new-infection-chain/": {
-    "ts": "2026-09-28T06:30:04.620484+00:00",
-    "title": "MacSync\u2019s New Infection Chain Shows How Mac Malware Is Becoming More Sophisticated"
-  },
-  "https://www.helpnetsecurity.com/2026/09/28/ai-agent-security-governance-aws-report/": {
-    "ts": "2026-09-28T06:30:04.620506+00:00",
-    "title": "AI tests the limits of enterprise security governance"
-  },
-  "https://www.helpnetsecurity.com/2026/09/28/product-showcase-verdict/": {
-    "ts": "2026-09-28T06:30:04.620509+00:00",
-    "title": "Product showcase: A photo can fool your eyes, Verdict checks the evidence"
-  },
-  "https://www.helpnetsecurity.com/2026/09/28/quantum-random-number-generator-qrng-guidance/": {
-    "ts": "2026-09-28T06:30:04.620512+00:00",
-    "title": "Quantum random numbers can pass the tests and still leak clues to attackers"
-  },
   "https://asec.ahnlab.com/en/95589/": {
     "ts": "2026-09-28T15:10:12.392428+00:00",
     "title": "Security Issues in the Korean & Global Financial Sector in August 2026"
@@ -21590,5 +21522,125 @@
   "https://www.group-ib.com/blog/torrents/": {
     "ts": "2026-11-26T23:36:29.824641+00:00",
     "title": "The end of torrents era in Russia"
+  },
+  "https://asec.ahnlab.com/en/96827/": {
+    "ts": "2026-11-27T07:32:59.633987+00:00",
+    "title": "Software Supply Chain Attack via the Official SoftwareOK Website: Tampering with Q-Dir and DesktopOK Installation Files"
+  },
+  "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/": {
+    "ts": "2026-11-27T07:32:59.666986+00:00",
+    "title": "Remus malware steals Gmail messages via fake Google Sheets extension"
+  },
+  "https://cybersecuritynews.com/best-sase-solutions-2/": {
+    "ts": "2026-11-27T07:32:59.667005+00:00",
+    "title": "Top 10 Best SASE (Secure Access Service Edge) Solutions in 2026 [Ranked & Scored]"
+  },
+  "https://gbhackers.com/standard-chartereds-crypto-unit-zodia-custody-hit-by-data-breach/": {
+    "ts": "2026-11-27T07:32:59.667010+00:00",
+    "title": "Standard Chartered\u2019s Crypto Unit Zodia Custody Hit by Data Breach, Exposing Client and Employee Information"
+  },
+  "https://www.group-ib.com/blog/silence/": {
+    "ts": "2026-11-27T07:32:59.701886+00:00",
+    "title": "Silence: Moving into the Darkside"
+  },
+  "https://www.helpnetsecurity.com/2026/11/27/sailpoint-2027-ai-identity-security-predictions-report/": {
+    "ts": "2026-11-27T07:32:59.734941+00:00",
+    "title": "In 2027, \u201cthe agent did it\u201d stops being an excuse"
+  },
+  "https://securityaffairs.com/204014/hacking/u-s-cisa-adds-hpe-juniper-session-smart-conductor-and-session-smart-router-flaw-to-its-known-exploited-vulnerabilities-catalog.html": {
+    "ts": "2026-11-27T07:32:59.769821+00:00",
+    "title": "U.S. CISA adds HPE, Danfoss, Mitel MiCollab, and Vates Xen Orchestra\u00a0flaws to its Known Exploited Vulnerabilities catalog"
+  },
+  "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/": {
+    "ts": "2026-11-27T07:32:59.803573+00:00",
+    "title": "1Password Breach Exposes Customer Data, Internal Source Code"
+  },
+  "https://www.sekoia.com/blog/meet-sekoia-reveal-turn-fragmented-asset-data-into-unified-soc-context": {
+    "ts": "2026-11-27T07:32:59.837301+00:00",
+    "title": "Sekoia Reveal: Turn fragmented asset data into unified SOC context"
+  },
+  "https://socradar.io/blog/losttrust-revival-eclipse-ransomware-targets-us/": {
+    "ts": "2026-11-27T07:32:59.873248+00:00",
+    "title": "LostTrust Revival Tied to Eclipse Ransomware Targets US"
+  },
+  "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html": {
+    "ts": "2026-11-27T07:32:59.908931+00:00",
+    "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators"
+  },
+  "https://www.theregister.com/security/2026/11/27/free-e-government-platform-that-serves-two-billion-people-in-ten-countries-has-critical-sql-injection-bug/5312449": {
+    "ts": "2026-11-27T07:32:59.908949+00:00",
+    "title": "Free e-government platform that serves two billion people in ten countries has critical SQL injection bug"
+  },
+  "https://threats.wiz.io/all-incidents/snowflake-compromised-creds-abuse-campaign": {
+    "ts": "2026-11-27T07:32:59.943528+00:00",
+    "title": "Snowflake compromised creds abuse campaign (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/": {
+    "ts": "2026-11-27T07:32:59.943547+00:00",
+    "title": "Hackers reportedly breached CIA intelligence analysis system"
+  },
+  "https://cybersecuritynews.com/hackers-turn-trusted-windows-software/": {
+    "ts": "2026-11-27T07:32:59.977825+00:00",
+    "title": "Hackers Turn Trusted Windows Software Downloads Into Tools for Secretly Controlling PCs"
+  },
+  "https://gbhackers.com/bitcoin-core-privacy-flaw/": {
+    "ts": "2026-11-27T07:33:00.011186+00:00",
+    "title": "Bitcoin Core Privacy Flaw Allows Attackers to Track Wallet Addresses for Less Than $1"
+  },
+  "https://www.group-ib.com/blog/renaissance/": {
+    "ts": "2026-11-27T07:33:00.046495+00:00",
+    "title": "Cobalt Renaissance"
+  },
+  "https://www.helpnetsecurity.com/2026/11/27/product-showcase-norton-claude-scam-detection/": {
+    "ts": "2026-11-27T07:33:00.080268+00:00",
+    "title": "Product showcase: Norton helps Claude users uncover the telltale signs of fraud"
+  },
+  "https://www.sekoia.com/blog/new-widespread-eviltokens-kit-device-code-phishing-as-a-service-part-1": {
+    "ts": "2026-11-27T07:33:00.116640+00:00",
+    "title": "EvilTokens Kit: Device Code Phishing-as-a-service - Part 1"
+  },
+  "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html": {
+    "ts": "2026-11-27T07:33:00.151830+00:00",
+    "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access"
+  },
+  "https://www.theregister.com/security/2026/11/26/significant-number-of-customer-records-pwned-in-flight-centre-travel-group-breach/5312360": {
+    "ts": "2026-11-27T07:33:00.151848+00:00",
+    "title": "'Significant number of customer records' pwned in Flight Centre Travel Group breach"
+  },
+  "https://threats.wiz.io/all-incidents/kinsing-targeting-cloud-servers": {
+    "ts": "2026-11-27T07:33:00.185413+00:00",
+    "title": "Kinsing targeting cloud servers (Campaign)"
+  },
+  "https://cybersecuritynews.com/best-dmarc-tools/": {
+    "ts": "2026-11-27T07:33:00.185428+00:00",
+    "title": "Top 10 Best DMARC & Email Authentication Tools in 2026 [Ranked & Scored]"
+  },
+  "https://gbhackers.com/hidden-python-loaders/": {
+    "ts": "2026-11-27T07:33:00.219725+00:00",
+    "title": "Hackers Compromise GitHub Repositories With Hidden Python Loaders That Deliver Malware"
+  },
+  "https://www.group-ib.com/blog/moneytaker/": {
+    "ts": "2026-11-27T07:33:00.254833+00:00",
+    "title": "MoneyTaker: in pursuit of the invisible"
+  },
+  "https://www.helpnetsecurity.com/2026/11/27/doj-scam-crackdown-800-scammers/": {
+    "ts": "2026-11-27T07:33:00.289926+00:00",
+    "title": "US seizes nearly $17 billion in global war on scam rings"
+  },
+  "https://www.sekoia.com/blog/silver-fox-the-only-tax-audit-where-the-fine-print-installs-malware": {
+    "ts": "2026-11-27T07:33:00.324902+00:00",
+    "title": "Silver Fox: The only Tax Audit Where Fine Print Installs Malware"
+  },
+  "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html": {
+    "ts": "2026-11-27T07:33:00.358082+00:00",
+    "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation"
+  },
+  "https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317": {
+    "ts": "2026-11-27T07:33:00.390880+00:00",
+    "title": "Hackers help themselves to 1Password's source code and customer data"
+  },
+  "https://threats.wiz.io/all-incidents/mirai-campaign-targeting-ivanti-products": {
+    "ts": "2026-11-27T07:33:00.424541+00:00",
+    "title": "Mirai campaign targeting Ivanti products (Campaign)"
   }
 }

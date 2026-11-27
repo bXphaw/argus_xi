@@ -1,45 +1,4 @@
 {
-  "items": [
-    {
-      "category": "new_technique",
-      "title": "Drupal Warns of New Critical Flaw Exploited in the Wild",
-      "url": "https://securityaffairs.com/204085/security/drupal-warns-of-new-critical-flaw-exploited-in-the-wild.html"
-    },
-    {
-      "category": "threat_actor",
-      "title": "FIFA Says It Has Been Victim of a Cyberattack Accessing \u2018Personal and Business Information\u2019",
-      "url": "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/"
-    },
-    {
-      "category": "threat_actor",
-      "title": "From APT28 to RePythonNET: automating .NET malware analysis",
-      "url": "https://www.sekoia.com/blog/apt28-to-repythonnet-automating-net-malware-analysis"
-    },
-    {
-      "category": "malware_windows",
-      "title": "Hackers Hide Password-Stealing Malware in GitHub Code, Putting Software Downloads at Risk",
-      "url": "https://cybersecuritynews.com/password-stealing-malware/"
-    },
-    {
-      "category": "malware_android",
-      "title": "Gustuff: Weapon of Mass Infection",
-      "url": "https://www.group-ib.com/blog/gustuff/"
-    },
-    {
-      "category": "malware_linux",
-      "title": "Linux/EasyShell: MalwareMustDie Identifies One of the Earliest Publicly Documented RATs Built for LoongArch Linux",
-      "url": "https://securityaffairs.com/204067/malware/linux-easyshell-malwaremustdie-identifies-one-of-the-earliest-publicly-documented-rats-built-for-loongarch-linux.html"
-    },
-    {
-      "category": "malware_other",
-      "title": "RedTail Cryptomining campaign  (Campaign)",
-      "url": "https://threats.wiz.io/all-incidents/redtail-cryptomining-campaign-"
-    },
-    {
-      "category": "new_technique",
-      "title": "Critical GeoServer Vulnerability Chain Lets Hackers Execute Remote Commands Without Authentication",
-      "url": "https://gbhackers.com/critical-geoserver-vulnerability-chain/"
-    }
-  ],
-  "last_sent_date": "2026-11-26"
+  "items": [],
+  "last_sent_date": "2026-11-27"
 }
