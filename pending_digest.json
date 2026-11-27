@@ -1,4 +1,60 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "new_technique",
+      "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Set Freezer Controls to 100\u00b0C, Then Lock Technicians Out of the System",
+      "url": "https://cybersecuritynews.com/freezer-control-cyberattack/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Use Fake Facebook Ads to Spread Malware That Steals Business Accounts and Emails",
+      "url": "https://gbhackers.com/fake-facebook-ads/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "When Hackers are Quicker than Antiviruses: Cobalt Group Bypasses Antivirus Protection",
+      "url": "https://www.group-ib.com/blog/antivirus/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "FIFA hacked, cybercriminals claim access to sensitive internal records",
+      "url": "https://www.helpnetsecurity.com/2026/11/27/fifa-cyberattack-data-leak/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Drupal sites are being hijacked, and a follow-up flaw is already under attack",
+      "url": "https://www.malwarebytes.com/blog/bugs/2026/11/drupal-sites-are-being-hijacked-and-a-follow-up-flaw-is-already-under-attack"
+    },
+    {
+      "category": "new_technique",
+      "title": "Apple Music flaw could give malicious apps access to private data",
+      "url": "https://moonlock.com/apple-music-vulnerability"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Atlas Lion phishing campaign (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/atlas-lion-phishing-campaign"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Hide Malware as Google Sheets to Secretly Read Your Gmail Messages",
+      "url": "https://gbhackers.com/secret-gmail-access/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+      "url": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html"
+    },
+    {
+      "category": "new_technique",
+      "title": "LLMjacking via Laravel exploitation (Incident)",
+      "url": "https://threats.wiz.io/all-incidents/llmjacking-via-laravel-exploitation"
+    }
+  ],
   "last_sent_date": "2026-11-27"
 }

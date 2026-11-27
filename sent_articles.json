@@ -1,124 +1,4 @@
 {
-  "https://asec.ahnlab.com/en/95589/": {
-    "ts": "2026-09-28T15:10:12.392428+00:00",
-    "title": "Security Issues in the Korean & Global Financial Sector in August 2026"
-  },
-  "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/": {
-    "ts": "2026-09-28T15:10:12.392449+00:00",
-    "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking"
-  },
-  "https://research.checkpoint.com/2026/28th-september-threat-intelligence-report/": {
-    "ts": "2026-09-28T15:10:12.649111+00:00",
-    "title": "28th September \u2013 Threat Intelligence Report"
-  },
-  "https://cybersecuritynews.com/citrix-netscaler-0-day-vulnerabilities/": {
-    "ts": "2026-09-28T15:10:12.649130+00:00",
-    "title": "NCSC Urges UK organizations to Patch for Citrix NetScaler ADC and Gateway 0-Day Vulnerabilities"
-  },
-  "https://cyble.com/blog/attack-surface-management-point-in-time/": {
-    "ts": "2026-09-28T15:10:12.649135+00:00",
-    "title": "Attack Surface Management in 2026: Why Point-in-Time Scans Can\u2019t Keep Up With Cloud Sprawl"
-  },
-  "https://blog.eclecticiq.com/mitre-attck-v19": {
-    "ts": "2026-09-28T15:10:12.890844+00:00",
-    "title": "MITRE ATT&CK v19: What's changed, and how EclecticIQ helps you keep up"
-  },
-  "https://gbhackers.com/ai-tools-for-attack/": {
-    "ts": "2026-09-28T15:10:13.126198+00:00",
-    "title": "Researchers Discover Cybercrime Server Containing AI Tools, Phishing Kits and Stolen Data"
-  },
-  "https://www.helpnetsecurity.com/2026/09/28/fbi-job-portals-offline-shinyhunters-breach/": {
-    "ts": "2026-09-28T15:10:13.368239+00:00",
-    "title": "FBI job portals remain offline after ShinyHunters claims breach via PeopleSoft zero-day"
-  },
-  "https://www.malwarebytes.com/blog/ai/2026/09/openai-pauses-work-on-top-ai-models-after-agent-slips-past-internet-controls": {
-    "ts": "2026-09-28T15:10:13.619074+00:00",
-    "title": "OpenAI pauses work on top AI models after agent slips past internet controls"
-  },
-  "https://moonlock.com/bumble-scams": {
-    "ts": "2026-09-28T15:10:13.863843+00:00",
-    "title": "9 tricks behind every Bumble scam that can start with a single photo"
-  },
-  "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/": {
-    "ts": "2026-09-28T15:10:14.097201+00:00",
-    "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild"
-  },
-  "https://www.rapid7.com/blog/post/etr-zero-day-exploitation-of-citrix-netscaler-adc-and-gateway-cve-2026-88771-and-cve-2026-88772": {
-    "ts": "2026-09-28T15:10:14.332717+00:00",
-    "title": "Zero-Day Exploitation of Citrix NetScaler ADC and Gateway: CVE-2026-88771 and CVE-2026-88772"
-  },
-  "https://www.recordedfuture.com/blog/mcp-intelligence-layer": {
-    "ts": "2026-09-28T15:10:14.332737+00:00",
-    "title": "Recorded Future Launches MCP, the Intelligence Layer for Agentic Security Operations"
-  },
-  "https://rewterz.com/threat-advisory/wordpress-flaw-enables-malicious-code-execution": {
-    "ts": "2026-09-28T15:10:14.604482+00:00",
-    "title": "WordPress Flaw Enables Malicious Code Execution"
-  },
-  "https://securityaffairs.com/199926/data-breach/nearly-400000-medicaid-beneficiaries-caught-in-medicaid-and-dc-healthcare-alliance-data-exposure.html": {
-    "ts": "2026-09-28T15:10:14.604501+00:00",
-    "title": "Nearly 400,000 Medicaid Beneficiaries Caught in Medicaid and DC Healthcare Alliance Data Exposure"
-  },
-  "https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/": {
-    "ts": "2026-09-28T15:10:14.849333+00:00",
-    "title": "Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon"
-  },
-  "https://www.silentpush.com/webinar/danglegeddon-webinar-on-demand/?utm_source=rss&utm_medium=rss&utm_campaign=danglegeddon-webinar-on-demand": {
-    "ts": "2026-09-28T15:10:15.088663+00:00",
-    "title": "Danglegeddon: Find your vulnerable subdomains before\u00a0AI agents\u00a0take them over"
-  },
-  "https://socradar.io/blog/citrix-netscaler-cve-2026-88771-88772/": {
-    "ts": "2026-09-28T15:10:15.332089+00:00",
-    "title": "Citrix NetScaler Zero-Days FAQ: CVE-2026-88771 & 88772"
-  },
-  "https://www.sophos.com/en-us/blog/citrix-netscaler-cve-2026-88771-cve-2026-88772-in-active-exploitation": {
-    "ts": "2026-09-28T15:10:15.565642+00:00",
-    "title": "Citrix NetScaler vulnerabilities (CVE-2026-88771, CVE-2026-88772) in active exploitation"
-  },
-  "https://www.security.com/expert-perspectives/image-isnt-stopping-svg-borne-attacks": {
-    "ts": "2026-09-28T15:10:15.797198+00:00",
-    "title": "The Image That Isn't\u2014Stopping SVG-Borne Attacks"
-  },
-  "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html": {
-    "ts": "2026-09-28T15:10:16.034283+00:00",
-    "title": "\u26a1 Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats"
-  },
-  "https://www.theregister.com/cyber-crime/2026/09/28/ex-soldiers-telecom-hacking-spree-earns-him-70-months/5299440": {
-    "ts": "2026-09-28T15:10:16.034302+00:00",
-    "title": "Ex-soldier's telecom hacking spree earns him 70 months"
-  },
-  "https://threatmon.io/16415-stolen-passwords-one-open-door-how-blackhatsect0r-dxqrtxx-exposed-themselves/": {
-    "ts": "2026-09-28T15:10:16.267534+00:00",
-    "title": "16,415 Stolen Passwords, One Open Door: How Blackhatsect0r & DXQRTXX Exposed Themselves"
-  },
-  "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/": {
-    "ts": "2026-09-28T15:10:16.267554+00:00",
-    "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist"
-  },
-  "https://cybersecuritynews.com/new-file-notification-attack/": {
-    "ts": "2026-09-28T15:10:16.507140+00:00",
-    "title": "New File Notification Attack Lets Hackers Track User Activity Across Linux, Windows and macOS"
-  },
-  "https://gbhackers.com/openai-agent-swarm-used-nearly-1-million-urls-to-hack-hugging-face/": {
-    "ts": "2026-09-28T15:10:16.742331+00:00",
-    "title": "OpenAI Agent Swarm Used Nearly 1 Million URLs to Hack Hugging Face"
-  },
-  "https://www.helpnetsecurity.com/2026/09/28/microsoft-titan-jwt-signature-flaw/": {
-    "ts": "2026-09-28T15:10:16.976922+00:00",
-    "title": "16-year-old researcher breaks into Microsoft analytics service with access to 17 trillion rows of data"
-  },
-  "https://www.malwarebytes.com/blog/data-breaches/2026/09/fbi-agents-blood-tests-and-doctors-notes-surface-after-breach": {
-    "ts": "2026-09-28T15:10:17.208882+00:00",
-    "title": "FBI agents\u2019 blood tests and doctors\u2019 notes surface after breach"
-  },
-  "https://rewterz.com/threat-advisory/ibm-ftm-flaws-enable-code-execution": {
-    "ts": "2026-09-28T15:10:17.447141+00:00",
-    "title": "IBM FTM Flaws Enable Code Execution"
-  },
-  "https://securityaffairs.com/199905/cyber-crime/storm-3168-linked-to-jadepuffer-abused-stolen-azure-identities.html": {
-    "ts": "2026-09-28T15:10:17.687796+00:00",
-    "title": "Storm-3168, Linked to JADEPUFFER, Abused Stolen Azure Identities"
-  },
   "https://securityaffairs.com/199891/hacking/u-s-cisa-adds-citrix-netscaler-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
     "ts": "2026-09-28T21:42:30.216482+00:00",
     "title": "U.S. CISA adds Citrix NetScaler flaws to its Known Exploited Vulnerabilities catalog"
@@ -21642,5 +21522,125 @@
   "https://threats.wiz.io/all-incidents/mirai-campaign-targeting-ivanti-products": {
     "ts": "2026-11-27T07:33:00.424541+00:00",
     "title": "Mirai campaign targeting Ivanti products (Campaign)"
+  },
+  "https://www.malwarebytes.com/blog/news/2026/11/malware-steals-gmail-messages-using-a-fake-google-sheets-extension": {
+    "ts": "2026-11-27T17:57:27.806598+00:00",
+    "title": "Malware steals Gmail messages using a fake Google Sheets extension"
+  },
+  "https://socradar.io/blog/sap-security-incident-github-tokens-source-code/": {
+    "ts": "2026-11-27T17:57:30.954004+00:00",
+    "title": "SAP Security Incident: Stolen GitHub Tokens and Source Code Risk"
+  },
+  "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/": {
+    "ts": "2026-11-27T17:59:04.936137+00:00",
+    "title": "Unpatched Cacti zero-day with public PoC gives remote code execution"
+  },
+  "https://cybersecuritynews.com/freezer-control-cyberattack/": {
+    "ts": "2026-11-27T17:59:05.062002+00:00",
+    "title": "Hackers Set Freezer Controls to 100\u00b0C, Then Lock Technicians Out of the System"
+  },
+  "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks": {
+    "ts": "2026-11-27T17:59:05.062011+00:00",
+    "title": "Matters.AI Lands India\u2019s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks"
+  },
+  "https://gbhackers.com/fake-facebook-ads/": {
+    "ts": "2026-11-27T17:59:05.164763+00:00",
+    "title": "Hackers Use Fake Facebook Ads to Spread Malware That Steals Business Accounts and Emails"
+  },
+  "https://www.group-ib.com/blog/antivirus/": {
+    "ts": "2026-11-27T17:59:05.266155+00:00",
+    "title": "When Hackers are Quicker than Antiviruses: Cobalt Group Bypasses Antivirus Protection"
+  },
+  "https://www.helpnetsecurity.com/2026/11/27/fifa-cyberattack-data-leak/": {
+    "ts": "2026-11-27T17:59:05.420044+00:00",
+    "title": "FIFA hacked, cybercriminals claim access to sensitive internal records"
+  },
+  "https://www.malwarebytes.com/blog/bugs/2026/11/drupal-sites-are-being-hijacked-and-a-follow-up-flaw-is-already-under-attack": {
+    "ts": "2026-11-27T17:59:05.540001+00:00",
+    "title": "Drupal sites are being hijacked, and a follow-up flaw is already under attack"
+  },
+  "https://moonlock.com/apple-music-vulnerability": {
+    "ts": "2026-11-27T17:59:05.669820+00:00",
+    "title": "Apple Music flaw could give malicious apps access to private data"
+  },
+  "https://securityaffairs.com/204136/security/air-force-cloud-one-breach-updates-blocked-migration-paused-scope-unknown.html": {
+    "ts": "2026-11-27T17:59:05.669830+00:00",
+    "title": "Air Force Cloud One Breach: Updates Blocked, Migration Paused, Scope Unknown"
+  },
+  "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/": {
+    "ts": "2026-11-27T17:59:05.669833+00:00",
+    "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities"
+  },
+  "https://www.sekoia.com/blog/ueba-in-the-real-world-catching-intrusions-that-dont-look-like-intrusions": {
+    "ts": "2026-11-27T17:59:05.831728+00:00",
+    "title": "UEBA vs Stealth Intrusions: Catching Identity & Credential Abuse"
+  },
+  "https://socradar.io/blog/dwp-cyber-incident-universal-credit-offline/": {
+    "ts": "2026-11-27T17:59:05.953932+00:00",
+    "title": "DWP Cyber Incident Takes Universal Credit and PIP Services Offline"
+  },
+  "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html": {
+    "ts": "2026-11-27T17:59:06.069299+00:00",
+    "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign"
+  },
+  "https://www.theregister.com/security/2026/11/27/british-social-security-system-techies-yank-services-offline-following-cyber-incident/5312522": {
+    "ts": "2026-11-27T17:59:06.174766+00:00",
+    "title": "British social security system techies yank services offline following 'cyber incident'"
+  },
+  "https://threatmon.io/serorat-uncovered-hidden-desktops-silent-surveillance-and-c2-infrastructure/": {
+    "ts": "2026-11-27T17:59:06.287851+00:00",
+    "title": "SeroRAT Uncovered: Hidden Desktops, Silent Surveillance and C2 Infrastructure"
+  },
+  "https://threats.wiz.io/all-incidents/atlas-lion-phishing-campaign": {
+    "ts": "2026-11-27T17:59:06.389521+00:00",
+    "title": "Atlas Lion phishing campaign (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/": {
+    "ts": "2026-11-27T17:59:06.389531+00:00",
+    "title": "US Air Force cloud platform reportedly hacked in latest federal breach"
+  },
+  "https://cybersecuritynews.com/nfs2root-linux-vulnerability/": {
+    "ts": "2026-11-27T17:59:06.389534+00:00",
+    "title": "12-Year-Old NFS2ROOT Linux Flaw Let Hackers Take Full Control of Servers Without a Password"
+  },
+  "https://gbhackers.com/secret-gmail-access/": {
+    "ts": "2026-11-27T17:59:06.502257+00:00",
+    "title": "Hackers Hide Malware as Google Sheets to Secretly Read Your Gmail Messages"
+  },
+  "https://www.group-ib.com/blog/hype/": {
+    "ts": "2026-11-27T17:59:06.502265+00:00",
+    "title": "In a Queue for a Scam"
+  },
+  "https://www.helpnetsecurity.com/2026/11/27/artex-ai-pentest-framework-china-north-korea-state-hackers/": {
+    "ts": "2026-11-27T17:59:06.609480+00:00",
+    "title": "Chinese and North Korean state hackers add ARTEX AI framework to their arsenal"
+  },
+  "https://moonlock.com/malicious-ads-claude-codex-homebrew": {
+    "ts": "2026-11-27T17:59:06.716156+00:00",
+    "title": "Malicious ads for Claude, Homebrew, and Codex are spreading a Mac stealer"
+  },
+  "https://securityaffairs.com/204121/data-breach/sap-security-incident-stolen-tokens-raise-supply-chain-concerns.html": {
+    "ts": "2026-11-27T17:59:06.827997+00:00",
+    "title": "SAP Security Incident: Stolen Tokens Raise Supply Chain Concerns"
+  },
+  "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/": {
+    "ts": "2026-11-27T17:59:06.934415+00:00",
+    "title": "100,000 Potentially Impacted by Colorado Data Breach"
+  },
+  "https://www.sekoia.com/blog/shadow-it-the-initial-access-you-didnt-log": {
+    "ts": "2026-11-27T17:59:07.041353+00:00",
+    "title": "Shadow IT: The Initial Access You Didn\u2019t Log"
+  },
+  "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html": {
+    "ts": "2026-11-27T17:59:07.144579+00:00",
+    "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control"
+  },
+  "https://www.theregister.com/security/2026/11/26/uk-home-office-waved-through-border-system-without-a-working-fix-for-bad-data/5312162": {
+    "ts": "2026-11-27T17:59:07.144588+00:00",
+    "title": "UK Home Office waved through border system without a working fix for bad data"
+  },
+  "https://threats.wiz.io/all-incidents/llmjacking-via-laravel-exploitation": {
+    "ts": "2026-11-27T17:59:07.258681+00:00",
+    "title": "LLMjacking via Laravel exploitation (Incident)"
   }
 }
