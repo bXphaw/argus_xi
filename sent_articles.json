@@ -1,236 +1,4 @@
 {
-  "https://cybersecuritynews.com/shinyhunters-bypasses/": {
-    "ts": "2026-09-29T01:37:20.050392+00:00",
-    "title": "ShinyHunters Bypasses WAF Protections to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells"
-  },
-  "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html": {
-    "ts": "2026-09-29T01:37:30.562810+00:00",
-    "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources"
-  },
-  "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/": {
-    "ts": "2026-09-29T01:39:21.972664+00:00",
-    "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens"
-  },
-  "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/": {
-    "ts": "2026-09-29T01:39:21.972689+00:00",
-    "title": "A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack"
-  },
-  "https://cybersecuritynews.com/opencode-ai-coding-agent-flaw/": {
-    "ts": "2026-09-29T01:39:22.247840+00:00",
-    "title": "OpenCode AI Coding Agent Flaw Lets Malicious Websites Execute Code on Developer Machines"
-  },
-  "https://gbhackers.com/microsoft-entra-trustsink/": {
-    "ts": "2026-09-29T01:39:22.369162+00:00",
-    "title": "Microsoft Entra TrustSink Attack Uses Rogue MFA Provider to Steal Passwords"
-  },
-  "https://www.helpnetsecurity.com/2026/09/28/citrix-netscaler-rce-zero-days-exploited-for-weeks-cve-2026-88771-cve-2026-88772/": {
-    "ts": "2026-09-29T01:39:22.484891+00:00",
-    "title": "Citrix NetScaler RCE zero-days exploited globally for weeks (CVE-2026-88771, CVE-2026-88772)"
-  },
-  "https://rewterz.com/threat-advisory/wordpress-click2shell-flaw-enables-rce-via-malicious-link": {
-    "ts": "2026-09-29T01:39:22.596743+00:00",
-    "title": "WordPress Click2Shell Flaw Enables RCE via Malicious Link"
-  },
-  "https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/": {
-    "ts": "2026-09-29T01:39:22.718719+00:00",
-    "title": "DC Health Agency Exposes 400,000 Beneficiary Records"
-  },
-  "https://thehackernews.com/2026/09/iam-for-ai-agent.html": {
-    "ts": "2026-09-29T01:39:22.832431+00:00",
-    "title": "IAM for AI agents: A Practical Enterprise Framework"
-  },
-  "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/": {
-    "ts": "2026-09-29T01:39:22.949087+00:00",
-    "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources"
-  },
-  "https://cybersecuritynews.com/bitget-backend-breach/": {
-    "ts": "2026-09-29T01:39:23.062300+00:00",
-    "title": "Bitget Backend Breach Drains $387.5 Million as DPRK-Linked Launderers Expose Themselves"
-  },
-  "https://gbhackers.com/infostealer-malware-3/": {
-    "ts": "2026-09-29T01:39:23.062321+00:00",
-    "title": "Lumma, RedLine and Vidar Infostealers Fuel Cloud Credential Theft Campaigns"
-  },
-  "https://www.helpnetsecurity.com/2026/09/28/us-army-soldier-snowflake-breaches-extortion/": {
-    "ts": "2026-09-29T01:39:23.062324+00:00",
-    "title": "Ex-US soldier gets 70 months for role in AT&T, Snowflake data thefts"
-  },
-  "https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/": {
-    "ts": "2026-09-29T01:39:23.172328+00:00",
-    "title": "Google Warns of ShinyHunters\u2019 Fresh Oracle PeopleSoft Campaign"
-  },
-  "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html": {
-    "ts": "2026-09-29T01:39:23.286369+00:00",
-    "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M"
-  },
-  "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/": {
-    "ts": "2026-09-29T01:39:23.286388+00:00",
-    "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms"
-  },
-  "https://gbhackers.com/adaptixc2-deployment/": {
-    "ts": "2026-09-29T01:39:23.404830+00:00",
-    "title": "Operation Master Exploits GlobalProtect CVE-2026-0257 and Deploys AdaptixC2 Across Enterprise Networks"
-  },
-  "https://www.helpnetsecurity.com/2026/09/28/linkedin-profile-verification-features/": {
-    "ts": "2026-09-29T01:39:23.532926+00:00",
-    "title": "LinkedIn tests a way for connections to verify your work history"
-  },
-  "https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/": {
-    "ts": "2026-09-29T01:39:23.650842+00:00",
-    "title": "New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections"
-  },
-  "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html": {
-    "ts": "2026-09-29T01:39:23.769633+00:00",
-    "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims"
-  },
-  "https://cybersecuritynews.com/microsoft-sharepoint-code-injection/": {
-    "ts": "2026-09-29T01:39:23.884478+00:00",
-    "title": "CISA Warns of Microsoft SharePoint Code Injection Vulnerability Exploited in Attacks"
-  },
-  "https://gbhackers.com/python-infostealer-campaign/": {
-    "ts": "2026-09-29T01:39:24.003865+00:00",
-    "title": "New Python Infostealer Targets 17 Browsers to Steal Passwords, Cards and Session Cookies"
-  },
-  "https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/": {
-    "ts": "2026-09-29T01:39:24.003888+00:00",
-    "title": "Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog"
-  },
-  "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html": {
-    "ts": "2026-09-29T01:39:24.003892+00:00",
-    "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI"
-  },
-  "https://cybersecuritynews.com/fake-jev-ai-stores/": {
-    "ts": "2026-09-29T01:39:24.003894+00:00",
-    "title": "Attackers Create Fake Jev AI Stores to Intercept Prompts Through Third-Party Servers"
-  },
-  "https://gbhackers.com/best-cloud-encryption-compared/": {
-    "ts": "2026-09-29T01:39:24.003897+00:00",
-    "title": "12 Best Cloud Encryption Solutions Compared (2026): Features & Pricing"
-  },
-  "https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/": {
-    "ts": "2026-09-29T01:39:24.130476+00:00",
-    "title": "Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability"
-  },
-  "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html": {
-    "ts": "2026-09-29T01:39:24.243914+00:00",
-    "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent"
-  },
-  "https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/": {
-    "ts": "2026-09-29T01:39:24.357892+00:00",
-    "title": "Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug"
-  },
-  "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/": {
-    "ts": "2026-09-29T08:06:28.501734+00:00",
-    "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks"
-  },
-  "https://gbhackers.com/keio-railway-confirms-ransomware-attack/": {
-    "ts": "2026-09-29T08:06:29.758921+00:00",
-    "title": "Keio Railway Confirms Ransomware Attack Disrupted Business Systems"
-  },
-  "https://cybersecuritynews.com/apple-zero-day-vulnerability-exploited/": {
-    "ts": "2026-09-29T08:06:38.612935+00:00",
-    "title": "Critical Apple Zero-Day Vulnerability Actively Exploited in Attacks"
-  },
-  "https://gbhackers.com/file-notification-attacks/": {
-    "ts": "2026-09-29T08:06:41.749886+00:00",
-    "title": "File Notification Attacks Let Hackers Track Keystrokes and Website Visits on Linux, Windows and macOS"
-  },
-  "https://cybersecuritynews.com/watchguard-api-vulnerabilities/": {
-    "ts": "2026-09-29T08:08:03.046792+00:00",
-    "title": "Critical WatchGuard API Vulnerabilities Enables Command Execution Attacks"
-  },
-  "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions": {
-    "ts": "2026-09-29T08:08:03.110772+00:00",
-    "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions"
-  },
-  "https://www.helpnetsecurity.com/2026/09/29/github-ai-android-app-vulnerabilities/": {
-    "ts": "2026-09-29T08:08:03.110790+00:00",
-    "title": "GitHub\u2019s AI agent found 24 Android app vulnerabilities"
-  },
-  "https://securityaffairs.com/199947/ai/gpt-6-astra-and-the-supply-chain-attack-it-wasnt-asked-to-launch.html": {
-    "ts": "2026-09-29T08:08:03.171466+00:00",
-    "title": "GPT-6 Astra and the Supply Chain Attack It Wasn\u2019t Asked to Launch"
-  },
-  "https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/": {
-    "ts": "2026-09-29T08:08:03.171484+00:00",
-    "title": "Apple Patches Meta-Reported Zero-Day Linked to \u2018Extremely Sophisticated Attack\u2019"
-  },
-  "https://socradar.io/blog/metree-wubook-sonicwall-access-data-leaks/": {
-    "ts": "2026-09-29T08:08:03.239426+00:00",
-    "title": "Metree and WuBook Leaks, SonicWall Access, Campus.gov.il Data, and Kenya Vehicle Database"
-  },
-  "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html": {
-    "ts": "2026-09-29T08:08:03.323216+00:00",
-    "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials"
-  },
-  "https://www.theregister.com/ai-and-ml/2026/09/29/openais-dirty-deeds-down-under-included-security-bypass-attempts-using-exposed-keys-source-code-siphon/5299666": {
-    "ts": "2026-09-29T08:08:03.500961+00:00",
-    "title": "OpenAI\u2019s dirty deeds Down Under included security bypass attempts, using exposed keys, source code siphon"
-  },
-  "https://www.welivesecurity.com/en/business-security/devil-email-wearing-new-mask/": {
-    "ts": "2026-09-29T08:08:03.550063+00:00",
-    "title": "The devil is still in the email \u2013 but wearing a new mask"
-  },
-  "https://cybersecuritynews.com/bothelper-rat/": {
-    "ts": "2026-09-29T08:08:03.606297+00:00",
-    "title": "BotHelper RAT Uses Encrypted Payloads and Live Screen Surveillance to Spy on Windows Users"
-  },
-  "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack": {
-    "ts": "2026-09-29T08:08:03.660571+00:00",
-    "title": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack"
-  },
-  "https://gbhackers.com/microsoft-tracks-needymantis-malware/": {
-    "ts": "2026-09-29T08:08:03.720426+00:00",
-    "title": "Microsoft Tracks NeedyMantis Malware Targeting Telecoms and Government Contractors"
-  },
-  "https://www.helpnetsecurity.com/2026/09/29/vendor-concentration-risk-video/": {
-    "ts": "2026-09-29T08:08:03.720445+00:00",
-    "title": "A four-week plan to tackle vendor concentration risk"
-  },
-  "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html": {
-    "ts": "2026-09-29T08:08:03.720449+00:00",
-    "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions"
-  },
-  "https://gbhackers.com/azure-storage-deletion/": {
-    "ts": "2026-09-29T08:08:03.879577+00:00",
-    "title": "Hackers Use Compromised Service Principals to Delete Azure Storage and Steal Cloud Credentials"
-  },
-  "https://www.helpnetsecurity.com/2026/09/29/hottest-cybersecurity-open-source-tools-of-the-month-september-2026/": {
-    "ts": "2026-09-29T08:08:03.925490+00:00",
-    "title": "Hottest cybersecurity open-source tools of the month: September 2026"
-  },
-  "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html": {
-    "ts": "2026-09-29T08:08:03.972953+00:00",
-    "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot"
-  },
-  "https://cybersecuritynews.com/fake-vpn-extensions-hijack-browser-traffic/": {
-    "ts": "2026-09-29T08:08:04.018752+00:00",
-    "title": "Fake VPN Extensions Hijack Browser Traffic Through Hidden Proxy Servers"
-  },
-  "https://www.helpnetsecurity.com/2026/09/29/cybersecurity-jobs-available-right-now-september-29-2026/": {
-    "ts": "2026-09-29T08:08:04.065133+00:00",
-    "title": "Cybersecurity jobs available right now: September 29, 2026"
-  },
-  "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html": {
-    "ts": "2026-09-29T08:08:04.113022+00:00",
-    "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally"
-  },
-  "https://cybersecuritynews.com/pentagon-data-breach/": {
-    "ts": "2026-09-29T08:08:04.113039+00:00",
-    "title": "Pentagon Data Breach \u2013 Hackers Reportedly Accessed 3 Million People\u2019s Sensitive Data"
-  },
-  "https://gbhackers.com/windows-rat-espionage/": {
-    "ts": "2026-09-29T08:08:04.159728+00:00",
-    "title": "Researchers Found a Windows RAT That Turns Victims\u2019 Screens Into Live Streams"
-  },
-  "https://gbhackers.com/pentagon-data-breach-exposes-3-million-people/": {
-    "ts": "2026-09-29T08:08:04.159746+00:00",
-    "title": "Pentagon Data Breach Exposes Sensitive Data of Over 3 Million People"
-  },
-  "https://gbhackers.com/malicious-vpn-extensions/": {
-    "ts": "2026-09-29T08:08:04.208175+00:00",
-    "title": "Malicious VPN Extensions Turn Browser Users Into Residential Proxy Servers"
-  },
   "https://www.theregister.com/security/2026/09/29/apple-patches-coregraphics-zero-day-already-exploited-in-targeted-attacks/5299721": {
     "ts": "2026-09-29T15:32:02.791521+00:00",
     "title": "Apple patches CoreGraphics zero-day already exploited in targeted attacks"
@@ -21642,5 +21410,125 @@
   "https://www.group-ib.com/blog/black-label/": {
     "ts": "2026-11-28T01:21:10.543119+00:00",
     "title": "\u2018Black spot\u2019 for pirates"
+  },
+  "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/": {
+    "ts": "2026-11-28T09:58:07.012508+00:00",
+    "title": "Drupal warns of new site takeover flaw exploited in attacks"
+  },
+  "https://gbhackers.com/hackers-set-freezer-controls-to-100c/": {
+    "ts": "2026-11-28T09:58:15.405114+00:00",
+    "title": "Hackers Set Freezer Controls to 100\u00b0C, Then Lock Technicians Out of the System"
+  },
+  "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/": {
+    "ts": "2026-11-28T09:59:37.383212+00:00",
+    "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026"
+  },
+  "https://cybersecuritynews.com/kenya-ecitizen-data-breach/": {
+    "ts": "2026-11-28T09:59:37.383226+00:00",
+    "title": "Kenya eCitizen Data Breach \u2013 Hackers Reportedly Leak Identity Records of 32 Million Kenyans"
+  },
+  "https://gbhackers.com/pcloud-pass-hit-by-cyberattack/": {
+    "ts": "2026-11-28T09:59:37.383230+00:00",
+    "title": "pCloud Pass Hit by Cyberattack, Exposing User Emails and Triggering Suspicious Login Alerts"
+  },
+  "https://www.group-ib.com/blog/avia/": {
+    "ts": "2026-11-28T09:59:37.383233+00:00",
+    "title": "Airline companies \u00ablanding\u00bb on fake pages"
+  },
+  "https://www.sekoia.com/blog/meet-iclickfix-a-widespread-wordpress-targeting-framework-using-the-clickfix-tactic": {
+    "ts": "2026-11-28T09:59:37.621098+00:00",
+    "title": "Meet IClickFix: a widespread framework using the ClickFix tactic"
+  },
+  "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html": {
+    "ts": "2026-11-28T09:59:37.621109+00:00",
+    "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts"
+  },
+  "https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768": {
+    "ts": "2026-11-28T09:59:37.621113+00:00",
+    "title": "Inception - possibly a ShinyHunters reboot - claims seven victims in a week"
+  },
+  "https://threats.wiz.io/all-incidents/arcanedoor-campaign-targeting-cisco-adaptive-security-appliance-0day": {
+    "ts": "2026-11-28T09:59:37.832259+00:00",
+    "title": "ArcaneDoor Campaign Targeting Cisco Adaptive Security Appliance 0day (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/": {
+    "ts": "2026-11-28T09:59:37.832271+00:00",
+    "title": "Microsoft removes WSUS server role in Windows Server 2028"
+  },
+  "https://cybersecuritynews.com/iphone-users-are-being-hacked/": {
+    "ts": "2026-11-28T09:59:38.043546+00:00",
+    "title": "Telegram Warns iPhone Users Are Being Hacked on a Massive Scale; Just Visiting a Website Could Be Enough"
+  },
+  "https://gbhackers.com/boston-scientific-data-breach/": {
+    "ts": "2026-11-28T09:59:38.260022+00:00",
+    "title": "Boston Scientific Data Breach \u2013 Hackers Steal Personal Information via Voice Phishing Attack"
+  },
+  "https://www.group-ib.com/blog/cobalt/": {
+    "ts": "2026-11-28T09:59:38.480503+00:00",
+    "title": "Secrets of Cobalt"
+  },
+  "https://www.sekoia.com/blog/leveraging-landlock-telemetry-for-linux-detection-engineering": {
+    "ts": "2026-11-28T09:59:38.692025+00:00",
+    "title": "Leveraging Landlock Telemetry for Linux Detection Engineering"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html": {
+    "ts": "2026-11-28T09:59:38.909131+00:00",
+    "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products"
+  },
+  "https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722": {
+    "ts": "2026-11-28T09:59:39.131104+00:00",
+    "title": "Critical Cisco remote code execution bug under attack"
+  },
+  "https://threats.wiz.io/all-incidents/mitre-breach-via-ivanti-connect-secure": {
+    "ts": "2026-11-28T09:59:39.342287+00:00",
+    "title": "MITRE breach via Ivanti Connect Secure (Incident)"
+  },
+  "https://cybersecuritynews.com/black-friday-or-black-fraud-day/": {
+    "ts": "2026-11-28T09:59:39.342297+00:00",
+    "title": "Black Friday or Black Fraud Day? 7 Cyber Traps to Watch Out for Before You Click \u2018Buy\u2019"
+  },
+  "https://gbhackers.com/hong-kongs-octopus-payment-system-cyberattack/": {
+    "ts": "2026-11-28T09:59:39.342300+00:00",
+    "title": "Hong Kong\u2019s Octopus Payment System Hit by Cyberattack, Exposing Data of Nearly 30,000 Customers and Merchants"
+  },
+  "https://www.group-ib.com/blog/venture/": {
+    "ts": "2026-11-28T09:59:39.342303+00:00",
+    "title": "Insecure venture"
+  },
+  "https://www.sekoia.com/blog/advent-of-configuration-extraction-part-4-turning-capa-into-a-configuration-extractor-for-tinyshell-variant": {
+    "ts": "2026-11-28T09:59:39.557882+00:00",
+    "title": "Advent of Config Extraction, Part 4: Extracting TinyShell Configs"
+  },
+  "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html": {
+    "ts": "2026-11-28T09:59:39.773115+00:00",
+    "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation"
+  },
+  "https://www.theregister.com/security/2026/11/23/bulgaria-evicts-cyber-snoops-who-lurked-inside-government-networks-for-5-years/5311629": {
+    "ts": "2026-11-28T09:59:39.989379+00:00",
+    "title": "Bulgaria evicts cyber snoops who lurked inside government networks for 5 years"
+  },
+  "https://threats.wiz.io/all-incidents/kubernetes-clusters-targeted-in-openmetadata-exploits": {
+    "ts": "2026-11-28T09:59:40.206326+00:00",
+    "title": "Kubernetes Clusters Targeted in OpenMetadata Exploits (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/": {
+    "ts": "2026-11-28T09:59:40.427878+00:00",
+    "title": "SAP confirms security incident after suspicious GitHub activity"
+  },
+  "https://cybersecuritynews.com/telegram-job-posts/": {
+    "ts": "2026-11-28T09:59:40.643926+00:00",
+    "title": "3,089 Telegram Job Posts Uncovered in Suspected Spy Recruitment Campaigns"
+  },
+  "https://www.group-ib.com/blog/kronos/": {
+    "ts": "2026-11-28T09:59:40.858566+00:00",
+    "title": "Kronos devouring its children"
+  },
+  "https://www.sekoia.com/blog/sekoia-io-strengthens-collective-cyber-defense-at-nato-ccdcoes-crossed-swords-2025-exercise": {
+    "ts": "2026-11-28T09:59:40.858576+00:00",
+    "title": "Sekoia at NATO CCDCOE's Crossed Swords 2025 Exercise"
+  },
+  "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html": {
+    "ts": "2026-11-28T09:59:40.858580+00:00",
+    "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail"
   }
 }
