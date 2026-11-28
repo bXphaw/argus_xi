@@ -1,124 +1,4 @@
 {
-  "https://securityaffairs.com/199891/hacking/u-s-cisa-adds-citrix-netscaler-flaws-to-its-known-exploited-vulnerabilities-catalog.html": {
-    "ts": "2026-09-28T21:42:30.216482+00:00",
-    "title": "U.S. CISA adds Citrix NetScaler flaws to its Known Exploited Vulnerabilities catalog"
-  },
-  "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/": {
-    "ts": "2026-09-28T21:44:10.445011+00:00",
-    "title": "Japan's Keio confirms ransomware attack disrupted business systems"
-  },
-  "https://cybersecuritynews.com/florida-ag-seeks-emergency-injunction-on-chatgpt/": {
-    "ts": "2026-09-28T21:44:10.445032+00:00",
-    "title": "Florida AG Seeks Emergency Injunction to Restrict OpenAI and ChatGPT Over AI Safety Risks"
-  },
-  "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine": {
-    "ts": "2026-09-28T21:44:10.830587+00:00",
-    "title": "One Packet Can Crash OT Servers in Industrial Sectors"
-  },
-  "https://gbhackers.com/nvidia-launches-in-silicon-security-platform/": {
-    "ts": "2026-09-28T21:44:10.830607+00:00",
-    "title": "NVIDIA Launches In-Silicon Security Platform to Monitor and Control Autonomous AI Agents"
-  },
-  "https://www.helpnetsecurity.com/2026/09/28/cve-2025-68788-file-notification-attacks/": {
-    "ts": "2026-09-28T21:44:10.953756+00:00",
-    "title": "Other users can watch your browsing and time your keystrokes through OS file notifications"
-  },
-  "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/": {
-    "ts": "2026-09-28T21:44:11.091395+00:00",
-    "title": "Dutch Police Arrest \u2018Reformed\u2019 Hacker in Shiny Hunters Investigation"
-  },
-  "https://www.malwarebytes.com/blog/news/2026/09/a-week-in-security-september-21-september-27": {
-    "ts": "2026-09-28T21:44:11.216519+00:00",
-    "title": "A week in security (September 21 \u2013 September 27)"
-  },
-  "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/": {
-    "ts": "2026-09-28T21:44:11.360269+00:00",
-    "title": "NeedyMantis: Unpacking a post-compromise malware family used in targeted operations"
-  },
-  "https://moonlock.com/hide-orders-on-amazon": {
-    "ts": "2026-09-28T21:44:11.486914+00:00",
-    "title": "How to hide orders on Amazon and clear your browsing history"
-  },
-  "https://rewterz.com/threat-advisory/gitlab-email-flaw-enables-code-injection": {
-    "ts": "2026-09-28T21:44:11.627082+00:00",
-    "title": "GitLab Email Flaw Enables Code Injection"
-  },
-  "https://securityaffairs.com/199933/ai/ai-accounts-are-becoming-the-new-target-for-infostealers.html": {
-    "ts": "2026-09-28T21:44:11.761626+00:00",
-    "title": "AI Accounts Are Becoming the New Target for Infostealers"
-  },
-  "https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/": {
-    "ts": "2026-09-28T21:44:11.761648+00:00",
-    "title": "Modulate Raises $25 Million to Advance Deepfake Detection"
-  },
-  "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html": {
-    "ts": "2026-09-28T21:44:11.761653+00:00",
-    "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks"
-  },
-  "https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591": {
-    "ts": "2026-09-28T21:44:11.761657+00:00",
-    "title": "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources"
-  },
-  "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/": {
-    "ts": "2026-09-28T21:44:11.761660+00:00",
-    "title": "Times Car confirms data breach affecting 6.6 million user accounts"
-  },
-  "https://cybersecuritynews.com/needymantis-malware-secret-network-access/": {
-    "ts": "2026-09-28T21:44:11.908274+00:00",
-    "title": "Microsoft Finds New Malware Used by Hackers to Maintain Secret Access Inside Target Networks"
-  },
-  "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts": {
-    "ts": "2026-09-28T21:44:12.018170+00:00",
-    "title": "Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts"
-  },
-  "https://gbhackers.com/oracle-peoplesoft-servers/": {
-    "ts": "2026-09-28T21:44:12.151018+00:00",
-    "title": "Oracle PeopleSoft Servers Targeted Again as ShinyHunters Expands Extortion Operations"
-  },
-  "https://www.helpnetsecurity.com/2026/09/28/nvidia-open-agent-safety-platform/": {
-    "ts": "2026-09-28T21:44:12.285133+00:00",
-    "title": "NVIDIA wants AI agent safety enforced in silicon, not left to the agent"
-  },
-  "https://moonlock.com/messenger-hacked": {
-    "ts": "2026-09-28T21:44:12.415082+00:00",
-    "title": "Is your Messenger hacked? Here\u2019s how to tell and what to do"
-  },
-  "https://rewterz.com/threat-advisory/microsoft-sharepoint-flaw-enables-remote-code-execution": {
-    "ts": "2026-09-28T21:44:12.560837+00:00",
-    "title": "Microsoft SharePoint Flaw Enables Remote Code Execution"
-  },
-  "https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/": {
-    "ts": "2026-09-28T21:44:12.560857+00:00",
-    "title": "Call for Presentations Open for 2026 CISO Forum Virtual Summit"
-  },
-  "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html": {
-    "ts": "2026-09-28T21:44:12.674089+00:00",
-    "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks"
-  },
-  "https://www.theregister.com/security/2026/09/28/certainties-in-life-death-taxes-and-critical-citrix-vulns-under-attack/5299369": {
-    "ts": "2026-09-28T21:44:12.674112+00:00",
-    "title": "Certainties in life: Death, taxes, and critical Citrix vulns under attack"
-  },
-  "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/": {
-    "ts": "2026-09-28T21:44:12.814718+00:00",
-    "title": "Dutch police confirm arrest in ShinyHunters hacking investigation"
-  },
-  "https://cybersecuritynews.com/ai-powered-attack-machine/": {
-    "ts": "2026-09-28T21:44:12.935511+00:00",
-    "title": "Hackers Built an AI-Powered Attack Machine and Accidentally Left the Control Panel Open"
-  },
-  "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access": {
-    "ts": "2026-09-28T21:44:12.935533+00:00",
-    "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?"
-  },
-  "https://gbhackers.com/670-jev-domains-registered/": {
-    "ts": "2026-09-28T21:44:12.935538+00:00",
-    "title": "670 Jev Domains Registered After Launch as Fake AI Marketplaces Target Users"
-  },
-  "https://www.helpnetsecurity.com/2026/09/28/drunk-ai-models-jailbreak-research/": {
-    "ts": "2026-09-28T21:44:12.935542+00:00",
-    "title": "\u201cDrunk\u201d AI is terrible at keeping secrets"
-  },
   "https://cybersecuritynews.com/shinyhunters-bypasses/": {
     "ts": "2026-09-29T01:37:20.050392+00:00",
     "title": "ShinyHunters Bypasses WAF Protections to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells"
@@ -21642,5 +21522,125 @@
   "https://threats.wiz.io/all-incidents/llmjacking-via-laravel-exploitation": {
     "ts": "2026-11-27T17:59:07.258681+00:00",
     "title": "LLMjacking via Laravel exploitation (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/": {
+    "ts": "2026-11-28T01:21:06.996050+00:00",
+    "title": "pCloud confirms password manager hack after suspicious login alerts"
+  },
+  "https://cybersecuritynews.com/hackers-break-u-s-air-force-cloud/": {
+    "ts": "2026-11-28T01:21:06.996072+00:00",
+    "title": "Hackers Break Into U.S. Air Force Cloud Platform Used to Manage Military Operations and Data"
+  },
+  "https://blog.eclecticiq.com/mitre-attck-v19": {
+    "ts": "2026-11-28T01:21:06.996077+00:00",
+    "title": "MITRE ATT&CK v19: What's changed, and how EclecticIQ helps you keep up"
+  },
+  "https://gbhackers.com/github-rce-vulnerability/": {
+    "ts": "2026-11-28T01:21:07.211346+00:00",
+    "title": "GitHub RCE Vulnerability Allows Hackers to Compromise Servers With a Single Git Push Command"
+  },
+  "https://www.group-ib.com/blog/reportbadrabbit/": {
+    "ts": "2026-11-28T01:21:07.408747+00:00",
+    "title": "NotPetya pulls BadRabbit out of the hat"
+  },
+  "https://www.helpnetsecurity.com/2026/11/27/flight-centre-travel-group-data-breach-booking-system/": {
+    "ts": "2026-11-28T01:21:07.589218+00:00",
+    "title": "Flight Centre Travel Group warns of customer data breach involving some passport details"
+  },
+  "https://www.recordedfuture.com/blog/mcp-intelligence-layer": {
+    "ts": "2026-11-28T01:21:07.773366+00:00",
+    "title": "Recorded Future Launches MCP, the Intelligence Layer for Agentic Security Operations"
+  },
+  "https://securityaffairs.com/204142/intelligence/fake-government-app-exposes-italys-expanding-spyware-surveillance-industry.html": {
+    "ts": "2026-11-28T01:21:07.962327+00:00",
+    "title": "Fake Government App Exposes Italy\u2019s Expanding Spyware Surveillance Industry"
+  },
+  "https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/": {
+    "ts": "2026-11-28T01:21:08.145631+00:00",
+    "title": "Hex Package Manager Warns of Potential Data Breach"
+  },
+  "https://www.sekoia.com/blog/sekoia-achieves-soc2-compliance": {
+    "ts": "2026-11-28T01:21:08.326987+00:00",
+    "title": "Sekoia Achieves SOC2 Compliance"
+  },
+  "https://socradar.io/blog/babidighost-metabase-takeovers/": {
+    "ts": "2026-11-28T01:21:08.518626+00:00",
+    "title": "BabidiGhost Metabase Takeovers: Inside the Actor\u2019s Second Server"
+  },
+  "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html": {
+    "ts": "2026-11-28T01:21:08.518649+00:00",
+    "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed"
+  },
+  "https://www.theregister.com/virtualization/2026/11/25/this-could-mess-with-thanksgiving-says-vmware-as-it-drops-third-critical-patch-bundle-in-a-week/5312017": {
+    "ts": "2026-11-28T01:21:08.518654+00:00",
+    "title": "This could mess with Thanksgiving, says VMware as it drops third critical patch bundle in a week"
+  },
+  "https://threats.wiz.io/all-incidents/utah-bathroom-bill-open-database": {
+    "ts": "2026-11-28T01:21:08.518657+00:00",
+    "title": "Utah \u201cBathroom Bill\u201d open database (Research)"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/": {
+    "ts": "2026-11-28T01:21:08.518660+00:00",
+    "title": "New Boston Scientific data breach exposes personal, medical info"
+  },
+  "https://cybersecuritynews.com/new-sys010-malware/": {
+    "ts": "2026-11-28T01:21:08.702782+00:00",
+    "title": "New SYS010 Malware Uses Fake Facebook Ads to Steal Meta Business Accounts and Gmail Data"
+  },
+  "https://gbhackers.com/fake-telegram-job-ads/": {
+    "ts": "2026-11-28T01:21:08.702803+00:00",
+    "title": "Fake Telegram Job Ads Linked to Espionage Recruitment and Paid Arson Offers"
+  },
+  "https://www.group-ib.com/blog/badrabbit/": {
+    "ts": "2026-11-28T01:21:08.889662+00:00",
+    "title": "BadRabbit: spread of new cryptolocker"
+  },
+  "https://www.helpnetsecurity.com/2026/11/27/crest-ai-threat-led-penetration-testing/": {
+    "ts": "2026-11-28T01:21:08.889684+00:00",
+    "title": "AI raises new questions about what penetration testing proves"
+  },
+  "https://securityaffairs.com/204100/data-breach/fifa-confirms-a-cyberattack-hackers-claim-12-gb-of-internal-files.html": {
+    "ts": "2026-11-28T01:21:09.070222+00:00",
+    "title": "FIFA Confirms a Cyberattack, Hackers Claim 12 GB of Internal Files"
+  },
+  "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/": {
+    "ts": "2026-11-28T01:21:09.251563+00:00",
+    "title": "SAP Confirms Cyberattack, Source Code Reportedly Compromised"
+  },
+  "https://www.sekoia.com/blog/oysterloader-unmasked-the-multi-stage-evasion-loader": {
+    "ts": "2026-11-28T01:21:09.436643+00:00",
+    "title": "OysterLoader Unmasked: The Multi-Stage Evasion Loader"
+  },
+  "https://socradar.io/blog/socradar-autonomous-exposure-management/": {
+    "ts": "2026-11-28T01:21:09.621455+00:00",
+    "title": "Attack Surface Management Is Now Autonomous Exposure Management"
+  },
+  "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html": {
+    "ts": "2026-11-28T01:21:09.811062+00:00",
+    "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware"
+  },
+  "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834": {
+    "ts": "2026-11-28T01:21:09.992782+00:00",
+    "title": "European Commission confirms personal data stolen in AI-assisted cyberattack"
+  },
+  "https://threats.wiz.io/all-incidents/targetcompany-abusing-mssql-servers-for-ransomware": {
+    "ts": "2026-11-28T01:21:10.172978+00:00",
+    "title": "TargetCompany Abusing MSSQL Servers for Ransomware (Campaign)"
+  },
+  "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/": {
+    "ts": "2026-11-28T01:21:10.173000+00:00",
+    "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs"
+  },
+  "https://cybersecuritynews.com/hackers-use-hidden-chrome-extension/": {
+    "ts": "2026-11-28T01:21:10.362928+00:00",
+    "title": "Hackers Use Hidden Chrome Extension to Read Gmail Messages Without Stealing Passwords"
+  },
+  "https://gbhackers.com/critical-erlang-otp-vulnerability/": {
+    "ts": "2026-11-28T01:21:10.543097+00:00",
+    "title": "Critical Erlang/OTP Vulnerability Allows Hackers to Bypass TLS Certificate Authentication"
+  },
+  "https://www.group-ib.com/blog/black-label/": {
+    "ts": "2026-11-28T01:21:10.543119+00:00",
+    "title": "\u2018Black spot\u2019 for pirates"
   }
 }

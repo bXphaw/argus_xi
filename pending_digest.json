@@ -54,6 +54,51 @@
       "category": "new_technique",
       "title": "LLMjacking via Laravel exploitation (Incident)",
       "url": "https://threats.wiz.io/all-incidents/llmjacking-via-laravel-exploitation"
+    },
+    {
+      "category": "new_technique",
+      "title": "GitHub RCE Vulnerability Allows Hackers to Compromise Servers With a Single Git Push Command",
+      "url": "https://gbhackers.com/github-rce-vulnerability/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "NotPetya pulls BadRabbit out of the hat",
+      "url": "https://www.group-ib.com/blog/reportbadrabbit/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "BabidiGhost Metabase Takeovers: Inside the Actor\u2019s Second Server",
+      "url": "https://socradar.io/blog/babidighost-metabase-takeovers/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "New SYS010 Malware Uses Fake Facebook Ads to Steal Meta Business Accounts and Gmail Data",
+      "url": "https://cybersecuritynews.com/new-sys010-malware/"
+    },
+    {
+      "category": "malware_windows",
+      "title": "BadRabbit: spread of new cryptolocker",
+      "url": "https://www.group-ib.com/blog/badrabbit/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "FIFA Confirms a Cyberattack, Hackers Claim 12 GB of Internal Files",
+      "url": "https://securityaffairs.com/204100/data-breach/fifa-confirms-a-cyberattack-hackers-claim-12-gb-of-internal-files.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "TargetCompany Abusing MSSQL Servers for Ransomware (Campaign)",
+      "url": "https://threats.wiz.io/all-incidents/targetcompany-abusing-mssql-servers-for-ransomware"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Hackers Use Hidden Chrome Extension to Read Gmail Messages Without Stealing Passwords",
+      "url": "https://cybersecuritynews.com/hackers-use-hidden-chrome-extension/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Critical Erlang/OTP Vulnerability Allows Hackers to Bypass TLS Certificate Authentication",
+      "url": "https://gbhackers.com/critical-erlang-otp-vulnerability/"
     }
   ],
   "last_sent_date": "2026-11-27"
