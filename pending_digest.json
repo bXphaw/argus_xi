@@ -1,4 +1,50 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "threat_actor",
+      "title": "Hacktivists unmasked",
+      "url": "https://www.group-ib.com/blog/uicf/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "Booba Ransomware Attack on Water Plant Reveals Monitoring Blind Spot",
+      "url": "https://securityaffairs.com/204166/cyber-crime/booba-ransomware-attack-on-water-plant-reveals-monitoring-blind-spot.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Q-Dir and DesktopOK Windows utilities compromised to push Python RAT",
+      "url": "https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat/"
+    },
+    {
+      "category": "malware_ios",
+      "title": "Telegram Warns iPhone Users of Widespread Cyberattacks Exploiting Outdated iOS Versions",
+      "url": "https://gbhackers.com/telegram-warns-iphone-users-cyberattacks/"
+    },
+    {
+      "category": "new_technique",
+      "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+      "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html"
+    },
+    {
+      "category": "malware_windows",
+      "title": "Petya starts with Ukraine and then goes global",
+      "url": "https://www.group-ib.com/blog/petya/"
+    },
+    {
+      "category": "threat_actor",
+      "title": "French NGO reporters without borders targeted by Calisto",
+      "url": "https://www.sekoia.com/blog/ngo-reporters-without-borders-targeted-by-calisto-in-recent-campaign"
+    },
+    {
+      "category": "malware_other",
+      "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+      "url": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html"
+    },
+    {
+      "category": "threat_actor",
+      "title": "LAZARUS ARISEN",
+      "url": "https://www.group-ib.com/blog/lazarus/"
+    }
+  ],
   "last_sent_date": "2026-11-28"
 }

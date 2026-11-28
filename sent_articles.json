@@ -1,124 +1,4 @@
 {
-  "https://www.theregister.com/security/2026/09/29/apple-patches-coregraphics-zero-day-already-exploited-in-targeted-attacks/5299721": {
-    "ts": "2026-09-29T15:32:02.791521+00:00",
-    "title": "Apple patches CoreGraphics zero-day already exploited in targeted attacks"
-  },
-  "https://asec.ahnlab.com/en/95598/": {
-    "ts": "2026-09-29T15:34:04.537059+00:00",
-    "title": "Beware of Phishing Emails That Disguise Themselves as Project Material Purchase Requests"
-  },
-  "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/": {
-    "ts": "2026-09-29T15:34:04.537076+00:00",
-    "title": "Catch threats before they escalate with real-time Identity Telemetry"
-  },
-  "https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/": {
-    "ts": "2026-09-29T15:34:04.537080+00:00",
-    "title": "Securing the keys to the kingdom: Announcing Executive Threat Detection"
-  },
-  "https://cofense.com/blog/cofense-vision-extends-post-perimeter-phishing-defense-to-google-workspace": {
-    "ts": "2026-09-29T15:34:04.537082+00:00",
-    "title": "Cofense Vision Extends Post-Perimeter Phishing Defense to Google Workspace"
-  },
-  "https://cybersecuritynews.com/malware-inside-7-zip-installers/": {
-    "ts": "2026-09-29T15:34:04.773905+00:00",
-    "title": "Hackers Hide Malware Inside 7-Zip Installers Using a New Evasion Technique"
-  },
-  "https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks": {
-    "ts": "2026-09-29T15:34:05.003380+00:00",
-    "title": "'NeedyMantis' Provides Long-Term Access to Compromised Networks"
-  },
-  "https://gbhackers.com/openai-cancels-gpt-6-1-astra-release/": {
-    "ts": "2026-09-29T15:34:05.246386+00:00",
-    "title": "OpenAI Cancels GPT-6.1 Astra Release Over Internal Safety Concerns"
-  },
-  "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/": {
-    "ts": "2026-09-29T15:34:05.476472+00:00",
-    "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances"
-  },
-  "https://www.helpnetsecurity.com/2026/09/29/netscaler-zero-day-exploitation-escalates-into-mass-attacks-cve-2026-88771/": {
-    "ts": "2026-09-29T15:34:05.713221+00:00",
-    "title": "NetScaler zero-day exploitation escalates into mass attacks (CVE-2026-88771)"
-  },
-  "https://www.malwarebytes.com/blog/news/2026/09/metas-muse-sent-a-facebook-marketplace-buyer-to-a-sellers-home": {
-    "ts": "2026-09-29T15:34:05.942060+00:00",
-    "title": "Meta\u2019s Muse sent a Facebook Marketplace buyer to a seller\u2019s home"
-  },
-  "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/": {
-    "ts": "2026-09-29T15:34:06.183870+00:00",
-    "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique"
-  },
-  "https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/": {
-    "ts": "2026-09-29T15:34:06.183887+00:00",
-    "title": "OperTraitors: How Kubernetes Operators Betray Your Security Posture"
-  },
-  "https://www.recordedfuture.com/blog/ai-social-engineering": {
-    "ts": "2026-09-29T15:34:06.183889+00:00",
-    "title": "Social Engineering in the Age of Synthetic Media"
-  },
-  "https://securityaffairs.com/200017/uncategorized/three-million-affected-in-pentagon-personnel-agency-data-breach.html": {
-    "ts": "2026-09-29T15:34:06.183892+00:00",
-    "title": "Three Million Affected in Pentagon Personnel Agency Data Breach"
-  },
-  "https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/": {
-    "ts": "2026-09-29T15:34:06.183894+00:00",
-    "title": "RemoteThreat Launches With $7 Million for Offensive Operations Platform"
-  },
-  "https://www.security.com/product-insights/part-2-why-less-more-symantec-pam-clustering": {
-    "ts": "2026-09-29T15:34:06.430833+00:00",
-    "title": "A Practical Guide to Symantec PAM Secondary Sites"
-  },
-  "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html": {
-    "ts": "2026-09-29T15:34:06.660812+00:00",
-    "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown"
-  },
-  "https://www.intego.com/mac-security-blog/what-is-sms-how-it-works-why-its-insecure-and-why-we-still-need-it/": {
-    "ts": "2026-09-29T15:34:06.883336+00:00",
-    "title": "What is SMS? What SMS text messages mean and how they work"
-  },
-  "https://asec.ahnlab.com/en/95599/": {
-    "ts": "2026-09-29T15:34:07.118406+00:00",
-    "title": "Beware of phishing emails disguised as quote requests"
-  },
-  "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/": {
-    "ts": "2026-09-29T15:34:07.379303+00:00",
-    "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam"
-  },
-  "https://cybersecuritynews.com/hackers-built-a-botnet/": {
-    "ts": "2026-09-29T15:34:07.617443+00:00",
-    "title": "Hackers Built a Botnet That Doesn\u2019t Just Steal Data, It Burns AI Credits"
-  },
-  "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix": {
-    "ts": "2026-09-29T15:34:07.617458+00:00",
-    "title": "Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers"
-  },
-  "https://gbhackers.com/anthropic-mcp-python-sdk-flaw/": {
-    "ts": "2026-09-29T15:34:07.617462+00:00",
-    "title": "Anthropic MCP Python SDK Flaw Enables OAuth Credential Theft and Account Takeover"
-  },
-  "https://www.helpnetsecurity.com/2026/09/29/cleverbit-webinar-ai-assisted-delivery-accountability/": {
-    "ts": "2026-09-29T15:34:07.617465+00:00",
-    "title": "Webinar: Closing the accountability gap in AI-assisted delivery"
-  },
-  "https://www.malwarebytes.com/blog/bugs/2026/09/update-your-iphone-ipad-or-mac-flaw-could-run-attackers-code": {
-    "ts": "2026-09-29T15:34:07.617466+00:00",
-    "title": "Update your iPhone, iPad, or Mac: Flaw could run attackers\u2019 code"
-  },
-  "https://securityaffairs.com/200001/hacking/apple-patches-coregraphics-zero-day-linked-to-sophisticated-targeted-attacks.html": {
-    "ts": "2026-09-29T15:34:07.851304+00:00",
-    "title": "Apple Patches CoreGraphics Zero-Day Linked to Sophisticated Targeted Attacks"
-  },
-  "https://www.securityweek.com/reco-raises-55-million-for-agentic-security/": {
-    "ts": "2026-09-29T15:34:08.078711+00:00",
-    "title": "Reco Raises $55 Million for Agentic Security"
-  },
-  "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html": {
-    "ts": "2026-09-29T15:34:08.306071+00:00",
-    "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent"
-  },
-  "https://www.intego.com/mac-security-blog/whats-the-difference-between-malware-trojan-virus-and-worm/": {
-    "ts": "2026-09-29T15:34:08.535419+00:00",
-    "title": "What\u2019s the difference between malware, a virus, a Trojan, and a worm?"
-  },
   "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/": {
     "ts": "2026-09-29T20:35:41.399924+00:00",
     "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest"
@@ -21530,5 +21410,125 @@
   "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html": {
     "ts": "2026-11-28T09:59:40.858580+00:00",
     "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail"
+  },
+  "https://www.sekoia.com/blog/advent-of-configuration-extraction-part-2-unwrapping-quasarrats-configuration": {
+    "ts": "2026-11-28T18:06:24.674957+00:00",
+    "title": "Advent of Configuration Extraction, Part 2: QuasarRAT Config"
+  },
+  "https://www.bleepingcomputer.com/news/security/college-board-confirms-data-breach-after-unauthorized-password-changes/": {
+    "ts": "2026-11-28T18:07:47.322743+00:00",
+    "title": "College Board confirms data breach after unauthorized password changes"
+  },
+  "https://cybersecuritynews.com/critical-erlang-otp-flaw/": {
+    "ts": "2026-11-28T18:07:47.322758+00:00",
+    "title": "Critical Erlang/OTP Flaw Could Let Hackers Impersonate TLS Servers and Intercept Encrypted Traffic"
+  },
+  "https://gbhackers.com/12-year-old-linux-kernel-flaw/": {
+    "ts": "2026-11-28T18:07:47.322763+00:00",
+    "title": "12-Year-Old Linux Kernel Flaw Allows Hackers to Take Over Servers Without Passwords"
+  },
+  "https://www.group-ib.com/blog/uicf/": {
+    "ts": "2026-11-28T18:07:47.420829+00:00",
+    "title": "Hacktivists unmasked"
+  },
+  "https://securityaffairs.com/204166/cyber-crime/booba-ransomware-attack-on-water-plant-reveals-monitoring-blind-spot.html": {
+    "ts": "2026-11-28T18:07:47.453815+00:00",
+    "title": "Booba Ransomware Attack on Water Plant Reveals Monitoring Blind Spot"
+  },
+  "https://www.sekoia.com/blog/advent-of-configuration-extraction-part-3-mapping-got-plt-and-disassembling-the-snowlight-loader": {
+    "ts": "2026-11-28T18:07:47.487961+00:00",
+    "title": "Advent of Configuration Extraction, Part 3: SNOWLIGHT Config"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html": {
+    "ts": "2026-11-28T18:07:47.520357+00:00",
+    "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers"
+  },
+  "https://www.theregister.com/off-prem/2026/11/23/everything-going-down-at-once-wasnt-evidence-of-a-conspiracy-but-the-truth-may-be-scarier/5311458": {
+    "ts": "2026-11-28T18:07:47.555412+00:00",
+    "title": "Everything going down at once wasn't evidence of a conspiracy \u2013 but the truth may be scarier"
+  },
+  "https://threatmon.io/gpt-lock-uncovered-linux-encryption-silent-wiping-and-the-tor-recovery-portal/": {
+    "ts": "2026-11-28T18:07:47.589997+00:00",
+    "title": "GPT LOCK Uncovered: Linux Encryption, Silent Wiping and the Tor Recovery Portal"
+  },
+  "https://www.welivesecurity.com/en/business-security/devil-email-wearing-new-mask/": {
+    "ts": "2026-11-28T18:07:47.622562+00:00",
+    "title": "The devil is still in the email \u2013 but wears a new mask"
+  },
+  "https://threats.wiz.io/all-incidents/delinea-breach": {
+    "ts": "2026-11-28T18:07:47.622571+00:00",
+    "title": "Delinea breach (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat/": {
+    "ts": "2026-11-28T18:07:47.656031+00:00",
+    "title": "Q-Dir and DesktopOK Windows utilities compromised to push Python RAT"
+  },
+  "https://gbhackers.com/telegram-warns-iphone-users-cyberattacks/": {
+    "ts": "2026-11-28T18:07:47.687420+00:00",
+    "title": "Telegram Warns iPhone Users of Widespread Cyberattacks Exploiting Outdated iOS Versions"
+  },
+  "https://www.group-ib.com/blog/polygon/": {
+    "ts": "2026-11-28T18:07:47.687430+00:00",
+    "title": "Targeted attacks on banks"
+  },
+  "https://www.sekoia.com/blog/mandating-security-by-design-sekoias-blueprint-for-the-eu-cyber-resilience-act": {
+    "ts": "2026-11-28T18:07:47.687434+00:00",
+    "title": "Cyber Resilience Act (CRA): A Compliance Blueprint"
+  },
+  "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html": {
+    "ts": "2026-11-28T18:07:47.719589+00:00",
+    "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign"
+  },
+  "https://www.theregister.com/security/2026/11/23/norway-links-energy-firm-cyberattacks-to-critical-azure-api-management-flaw/5311598": {
+    "ts": "2026-11-28T18:07:47.719601+00:00",
+    "title": "Norway links energy firm cyberattacks to critical Azure API Management flaw"
+  },
+  "https://threats.wiz.io/all-incidents/from-password-reset-to-data-exfiltration": {
+    "ts": "2026-11-28T18:07:47.719607+00:00",
+    "title": "From password reset to data exfiltration (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/": {
+    "ts": "2026-11-28T18:07:47.719610+00:00",
+    "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes"
+  },
+  "https://www.group-ib.com/blog/petya/": {
+    "ts": "2026-11-28T18:07:47.752654+00:00",
+    "title": "Petya starts with Ukraine and then goes global"
+  },
+  "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html": {
+    "ts": "2026-11-28T18:07:47.785580+00:00",
+    "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion"
+  },
+  "https://www.theregister.com/cyber-crime/2026/11/23/cleverbridge-admits-attackers-stole-customers-credit-card-and-cvv-numbers-yep-you-read-that-right/5311573": {
+    "ts": "2026-11-28T18:07:47.817551+00:00",
+    "title": "Cleverbridge admits attackers stole customers' credit card and CVV numbers. Yep, you read that right"
+  },
+  "https://threats.wiz.io/all-incidents/smishing-into-entra-onto-vmware-ransomware": {
+    "ts": "2026-11-28T18:07:47.849718+00:00",
+    "title": "Smishing into Entra onto VMWare ransomware (Incident)"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/": {
+    "ts": "2026-11-28T18:07:47.882156+00:00",
+    "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges"
+  },
+  "https://www.group-ib.com/blog/fake/": {
+    "ts": "2026-11-28T18:07:47.914581+00:00",
+    "title": "Ghost flights"
+  },
+  "https://www.sekoia.com/blog/ngo-reporters-without-borders-targeted-by-calisto-in-recent-campaign": {
+    "ts": "2026-11-28T18:07:47.946771+00:00",
+    "title": "French NGO reporters without borders targeted by Calisto"
+  },
+  "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html": {
+    "ts": "2026-11-28T18:07:47.980084+00:00",
+    "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live"
+  },
+  "https://threats.wiz.io/all-incidents/third-party-to-cloud-compromise": {
+    "ts": "2026-11-28T18:07:47.980096+00:00",
+    "title": "Third party to cloud compromise (Incident)"
+  },
+  "https://www.group-ib.com/blog/lazarus/": {
+    "ts": "2026-11-28T18:07:48.013865+00:00",
+    "title": "LAZARUS ARISEN"
   }
 }
